@@ -1,0 +1,1616 @@
+[
+  {
+    "name": "Tutankhamun",
+    "query": "Tutankhamun",
+    "status": "downloaded",
+    "source": "wikipedia:Tutankhamun",
+    "file": "Tutankhamun.jpg"
+  },
+  {
+    "name": "Hatshepsut",
+    "query": "Hatshepsut",
+    "status": "downloaded",
+    "source": "wikipedia:Hatshepsut",
+    "file": "Hatshepsut.jpg"
+  },
+  {
+    "name": "Nefertiti",
+    "query": "Nefertiti",
+    "status": "downloaded",
+    "source": "wikipedia:Nefertiti",
+    "file": "Nefertiti.jpg"
+  },
+  {
+    "name": "Ramesses II",
+    "query": "Ramesses II",
+    "status": "downloaded",
+    "source": "wikipedia:Ramesses II",
+    "file": "Ramesses II.jpg"
+  },
+  {
+    "name": "Cleopatra",
+    "query": "Cleopatra",
+    "status": "downloaded",
+    "source": "wikipedia:Cleopatra",
+    "file": "Cleopatra.jpg"
+  },
+  {
+    "name": "Pericles",
+    "query": "Pericles",
+    "status": "downloaded",
+    "source": "wikipedia:Pericles",
+    "file": "Pericles.jpg"
+  },
+  {
+    "name": "Socrates",
+    "query": "Socrates",
+    "status": "downloaded",
+    "source": "wikipedia:Socrates",
+    "file": "Socrates.jpg",
+    "error": null
+  },
+  {
+    "name": "Plato",
+    "query": "Plato",
+    "status": "downloaded",
+    "source": "wikipedia:Plato",
+    "file": "Plato.png"
+  },
+  {
+    "name": "Aristotle",
+    "query": "Aristotle",
+    "status": "downloaded",
+    "source": "wikipedia:Aristotle",
+    "file": "Aristotle.jpg"
+  },
+  {
+    "name": "Sun Tzu",
+    "query": "Sun Tzu",
+    "status": "downloaded",
+    "source": "wikipedia:Sun Tzu",
+    "file": "Sun Tzu.jpg",
+    "error": null
+  },
+  {
+    "name": "Confucius",
+    "query": "Confucius",
+    "status": "downloaded",
+    "source": "wikipedia:Confucius",
+    "file": "Confucius.jpg",
+    "error": null
+  },
+  {
+    "name": "Qin Shi Huang",
+    "query": "Qin Shi Huang",
+    "status": "downloaded",
+    "source": "wikipedia:Qin Shi Huang",
+    "file": "Qin Shi Huang.png",
+    "error": null
+  },
+  {
+    "name": "Ashoka",
+    "query": "Ashoka",
+    "status": "downloaded",
+    "source": "wikipedia:Ashoka",
+    "file": "Ashoka.jpg"
+  },
+  {
+    "name": "Alexander the Great",
+    "query": "Alexander the Great",
+    "status": "downloaded",
+    "source": "wikipedia:Alexander the Great",
+    "file": "Alexander the Great.jpg",
+    "error": null
+  },
+  {
+    "name": "Hannibal",
+    "query": "Hannibal",
+    "status": "downloaded",
+    "source": "wikipedia:Hannibal",
+    "file": "Hannibal.jpg",
+    "error": null
+  },
+  {
+    "name": "Julius Caesar",
+    "query": "Julius Caesar",
+    "status": "downloaded",
+    "source": "wikipedia:Julius Caesar",
+    "file": "Julius Caesar.jpg"
+  },
+  {
+    "name": "Augustus",
+    "query": "Augustus",
+    "status": "downloaded",
+    "source": "wikipedia:Augustus",
+    "file": "Augustus.jpg",
+    "error": null
+  },
+  {
+    "name": "Boudica",
+    "query": "Boudica",
+    "status": "downloaded",
+    "source": "wikipedia:Boudica",
+    "file": "Boudica.jpg"
+  },
+  {
+    "name": "Constantine the Great",
+    "query": "Constantine the Great",
+    "status": "downloaded",
+    "source": "wikipedia:Constantine the Great",
+    "file": "Constantine the Great.jpg",
+    "error": null
+  },
+  {
+    "name": "Justinian I",
+    "query": "Justinian I",
+    "status": "downloaded",
+    "source": "wikipedia:Justinian I",
+    "file": "Justinian I.jpg",
+    "error": null
+  },
+  {
+    "name": "Theodora",
+    "query": "Theodora",
+    "status": "downloaded",
+    "source": "wikipedia:Theodora (wife of Justinian I)",
+    "file": "Theodora.jpg",
+    "error": null
+  },
+  {
+    "name": "Attila the Hun",
+    "query": "Attila the Hun",
+    "status": "downloaded",
+    "source": "wikipedia:Attila",
+    "file": "Attila the Hun.jpg"
+  },
+  {
+    "name": "Charlemagne",
+    "query": "Charlemagne",
+    "status": "downloaded",
+    "source": "wikipedia:Charlemagne",
+    "file": "Charlemagne.jpg",
+    "error": null
+  },
+  {
+    "name": "Alfred the Great",
+    "query": "Alfred the Great",
+    "status": "downloaded",
+    "source": "wikipedia:Alfred the Great",
+    "file": "Alfred the Great.png",
+    "error": null
+  },
+  {
+    "name": "William the Conqueror",
+    "query": "William the Conqueror",
+    "status": "downloaded",
+    "source": "wikipedia:William the Conqueror",
+    "file": "William the Conqueror.jpg"
+  },
+  {
+    "name": "Eleanor of Aquitaine",
+    "query": "Eleanor of Aquitaine",
+    "status": "downloaded",
+    "source": "wikipedia:Eleanor of Aquitaine",
+    "file": "Eleanor of Aquitaine.jpg",
+    "error": null
+  },
+  {
+    "name": "Genghis Khan",
+    "query": "Genghis Khan",
+    "status": "downloaded",
+    "source": "wikipedia:Genghis Khan",
+    "file": "Genghis Khan.jpg",
+    "error": null
+  },
+  {
+    "name": "Kublai Khan",
+    "query": "Kublai Khan",
+    "status": "downloaded",
+    "source": "wikipedia:Kublai Khan",
+    "file": "Kublai Khan.jpg"
+  },
+  {
+    "name": "Mansa Musa",
+    "query": "Mansa Musa",
+    "status": "downloaded",
+    "source": "wikipedia:Mansa Musa",
+    "file": "Mansa Musa.jpg",
+    "error": null
+  },
+  {
+    "name": "Ibn Sina",
+    "query": "Ibn Sina",
+    "status": "downloaded",
+    "source": "wikipedia:Avicenna",
+    "file": "Ibn Sina.jpg",
+    "error": null
+  },
+  {
+    "name": "Ibn Khaldun",
+    "query": "Ibn Khaldun",
+    "status": "downloaded",
+    "source": "wikipedia:Ibn Khaldun",
+    "file": "Ibn Khaldun.jpg",
+    "error": null
+  },
+  {
+    "name": "Saladin",
+    "query": "Saladin",
+    "status": "downloaded",
+    "source": "wikipedia:Saladin",
+    "file": "Saladin.jpg",
+    "error": null
+  },
+  {
+    "name": "Joan of Arc",
+    "query": "Joan of Arc",
+    "status": "downloaded",
+    "source": "wikipedia:Joan of Arc",
+    "file": "Joan of Arc.jpg"
+  },
+  {
+    "name": "Mehmed the Conqueror",
+    "query": "Mehmed the Conqueror",
+    "status": "downloaded",
+    "source": "wikipedia:Mehmed the Conqueror",
+    "file": "Mehmed the Conqueror.jpg",
+    "error": null
+  },
+  {
+    "name": "Vlad the Impaler",
+    "query": "Vlad the Impaler",
+    "status": "downloaded",
+    "source": "wikipedia:Vlad the Impaler",
+    "file": "Vlad the Impaler.jpg",
+    "error": null
+  },
+  {
+    "name": "Leonardo da Vinci",
+    "query": "Leonardo da Vinci",
+    "status": "downloaded",
+    "source": "wikipedia:Leonardo da Vinci",
+    "file": "Leonardo da Vinci.png",
+    "error": null
+  },
+  {
+    "name": "Michelangelo",
+    "query": "Michelangelo",
+    "status": "downloaded",
+    "source": "wikipedia:Michelangelo",
+    "file": "Michelangelo.jpg"
+  },
+  {
+    "name": "Raphael",
+    "query": "Raphael",
+    "status": "downloaded",
+    "source": "wikipedia:Raphael",
+    "file": "Raphael.jpg",
+    "error": null
+  },
+  {
+    "name": "Donatello",
+    "query": "Donatello",
+    "status": "downloaded",
+    "source": "wikipedia:Donatello",
+    "file": "Donatello.jpg",
+    "error": null
+  },
+  {
+    "name": "Sandro Botticelli",
+    "query": "Sandro Botticelli",
+    "status": "downloaded",
+    "source": "wikipedia:Sandro Botticelli",
+    "file": "Sandro Botticelli.jpg",
+    "error": null
+  },
+  {
+    "name": "Niccolo Machiavelli",
+    "query": "Niccolo Machiavelli",
+    "status": "downloaded",
+    "source": "wikipedia:Niccolò Machiavelli",
+    "file": "Niccolo Machiavelli.jpg",
+    "error": null
+  },
+  {
+    "name": "Dante Alighieri",
+    "query": "Dante Alighieri",
+    "status": "downloaded",
+    "source": "wikipedia:Dante Alighieri",
+    "file": "Dante Alighieri.jpg"
+  },
+  {
+    "name": "Geoffrey Chaucer",
+    "query": "Geoffrey Chaucer",
+    "status": "downloaded",
+    "source": "wikipedia:Geoffrey Chaucer",
+    "file": "Geoffrey Chaucer.jpg",
+    "error": null
+  },
+  {
+    "name": "Johannes Gutenberg",
+    "query": "Johannes Gutenberg",
+    "status": "error",
+    "source": null,
+    "file": null,
+    "error": "429 Client Error: Too many requests - please contact noc@wikimedia.org to discuss a less disruptive approach or instead use thumbnail images in sizes listed on https://w.wiki/GHai. (0c640b1) for url: https://upload.wikimedia.org/wikipedia/commons/5/5b/Mainz_Gutenbergdenkmal_2016_%28cropped%29.jpg"
+  },
+  {
+    "name": "Christopher Columbus",
+    "query": "Christopher Columbus",
+    "status": "downloaded",
+    "source": "wikipedia:Christopher Columbus",
+    "file": "Christopher Columbus.jpg",
+    "error": null
+  },
+  {
+    "name": "Vasco da Gama",
+    "query": "Vasco da Gama",
+    "status": "downloaded",
+    "source": "wikipedia:Vasco da Gama",
+    "file": "Vasco da Gama.jpg",
+    "error": null
+  },
+  {
+    "name": "Ferdinand Magellan",
+    "query": "Ferdinand Magellan",
+    "status": "downloaded",
+    "source": "wikipedia:Ferdinand Magellan",
+    "file": "Ferdinand Magellan.jpg"
+  },
+  {
+    "name": "Hernan Cortes",
+    "query": "Hernan Cortes",
+    "status": "downloaded",
+    "source": "wikipedia:Hernán Cortés",
+    "file": "Hernan Cortes.jpg",
+    "error": null
+  },
+  {
+    "name": "Francisco Pizarro",
+    "query": "Francisco Pizarro",
+    "status": "downloaded",
+    "source": "wikipedia:Francisco Pizarro",
+    "file": "Francisco Pizarro.jpg",
+    "error": null
+  },
+  {
+    "name": "Martin Luther",
+    "query": "Martin Luther",
+    "status": "downloaded",
+    "source": "wikipedia:Martin Luther",
+    "file": "Martin Luther.jpg",
+    "error": null
+  },
+  {
+    "name": "John Calvin",
+    "query": "John Calvin",
+    "status": "downloaded",
+    "source": "wikipedia:John Calvin",
+    "file": "John Calvin.png",
+    "error": null
+  },
+  {
+    "name": "Ignatius of Loyola",
+    "query": "Ignatius of Loyola",
+    "status": "downloaded",
+    "source": "wikipedia:Ignatius of Loyola",
+    "file": "Ignatius of Loyola.jpg"
+  },
+  {
+    "name": "Nicolaus Copernicus",
+    "query": "Nicolaus Copernicus",
+    "status": "downloaded",
+    "source": "wikipedia:Nicolaus Copernicus",
+    "file": "Nicolaus Copernicus.jpg",
+    "error": null
+  },
+  {
+    "name": "Galileo Galilei",
+    "query": "Galileo Galilei",
+    "status": "downloaded",
+    "source": "wikipedia:Galileo Galilei",
+    "file": "Galileo Galilei.jpg",
+    "error": null
+  },
+  {
+    "name": "Johannes Kepler",
+    "query": "Johannes Kepler",
+    "status": "downloaded",
+    "source": "wikipedia:Johannes Kepler",
+    "file": "Johannes Kepler.jpg",
+    "error": null
+  },
+  {
+    "name": "William Shakespeare",
+    "query": "William Shakespeare",
+    "status": "downloaded",
+    "source": "wikipedia:William Shakespeare",
+    "file": "William Shakespeare.jpg"
+  },
+  {
+    "name": "Miguel de Cervantes",
+    "query": "Miguel de Cervantes",
+    "status": "downloaded",
+    "source": "wikipedia:Miguel de Cervantes",
+    "file": "Miguel de Cervantes.jpg",
+    "error": null
+  },
+  {
+    "name": "El Greco",
+    "query": "El Greco",
+    "status": "downloaded",
+    "source": "wikipedia:El Greco",
+    "file": "El Greco.jpg",
+    "error": null
+  },
+  {
+    "name": "Rembrandt",
+    "query": "Rembrandt",
+    "status": "downloaded",
+    "source": "wikipedia:Rembrandt",
+    "file": "Rembrandt.jpg",
+    "error": null
+  },
+  {
+    "name": "Johann Sebastian Bach",
+    "query": "Johann Sebastian Bach",
+    "status": "downloaded",
+    "source": "wikipedia:Johann Sebastian Bach",
+    "file": "Johann Sebastian Bach.jpg"
+  },
+  {
+    "name": "Isaac Newton",
+    "query": "Isaac Newton",
+    "status": "downloaded",
+    "source": "wikipedia:Isaac Newton",
+    "file": "Isaac Newton.jpg",
+    "error": null
+  },
+  {
+    "name": "Blaise Pascal",
+    "query": "Blaise Pascal",
+    "status": "downloaded",
+    "source": "wikipedia:Blaise Pascal",
+    "file": "Blaise Pascal.jpg",
+    "error": null
+  },
+  {
+    "name": "Rene Descartes",
+    "query": "Rene Descartes",
+    "status": "downloaded",
+    "source": "wikipedia:René Descartes",
+    "file": "Rene Descartes.jpg",
+    "error": null
+  },
+  {
+    "name": "John Locke",
+    "query": "John Locke",
+    "status": "downloaded",
+    "source": "wikipedia:John Locke",
+    "file": "John Locke.jpg"
+  },
+  {
+    "name": "Thomas Hobbes",
+    "query": "Thomas Hobbes",
+    "status": "downloaded",
+    "source": "wikipedia:Thomas Hobbes",
+    "file": "Thomas Hobbes.jpg",
+    "error": null
+  },
+  {
+    "name": "Voltaire",
+    "query": "Voltaire",
+    "status": "downloaded",
+    "source": "wikipedia:Voltaire",
+    "file": "Voltaire.jpg",
+    "error": null
+  },
+  {
+    "name": "Jean-Jacques Rousseau",
+    "query": "Jean-Jacques Rousseau",
+    "status": "downloaded",
+    "source": "wikipedia:Jean-Jacques Rousseau",
+    "file": "Jean-Jacques Rousseau.jpg",
+    "error": null
+  },
+  {
+    "name": "Catherine the Great",
+    "query": "Catherine the Great",
+    "status": "downloaded",
+    "source": "wikipedia:Catherine the Great",
+    "file": "Catherine the Great.jpg"
+  },
+  {
+    "name": "Peter the Great",
+    "query": "Peter the Great",
+    "status": "downloaded",
+    "source": "wikipedia:Peter the Great",
+    "file": "Peter the Great.jpg",
+    "error": null
+  },
+  {
+    "name": "Louis XIV",
+    "query": "Louis XIV",
+    "status": "downloaded",
+    "source": "wikipedia:Louis XIV",
+    "file": "Louis XIV.jpg",
+    "error": null
+  },
+  {
+    "name": "Oliver Cromwell",
+    "query": "Oliver Cromwell",
+    "status": "downloaded",
+    "source": "wikipedia:Oliver Cromwell",
+    "file": "Oliver Cromwell.jpg",
+    "error": null
+  },
+  {
+    "name": "Suleiman the Magnificent",
+    "query": "Suleiman the Magnificent",
+    "status": "downloaded",
+    "source": "wikipedia:Suleiman the Magnificent",
+    "file": "Suleiman the Magnificent.jpg"
+  },
+  {
+    "name": "Akbar",
+    "query": "Akbar",
+    "status": "downloaded",
+    "source": "wikipedia:Akbar",
+    "file": "Akbar.jpg",
+    "error": null
+  },
+  {
+    "name": "Oda Nobunaga",
+    "query": "Oda Nobunaga",
+    "status": "downloaded",
+    "source": "wikipedia:Oda Nobunaga",
+    "file": "Oda Nobunaga.jpg",
+    "error": null
+  },
+  {
+    "name": "Toyotomi Hideyoshi",
+    "query": "Toyotomi Hideyoshi",
+    "status": "downloaded",
+    "source": "wikipedia:Toyotomi Hideyoshi",
+    "file": "Toyotomi Hideyoshi.png",
+    "error": null
+  },
+  {
+    "name": "Tokugawa Ieyasu",
+    "query": "Tokugawa Ieyasu",
+    "status": "downloaded",
+    "source": "wikipedia:Tokugawa Ieyasu",
+    "file": "Tokugawa Ieyasu.jpg",
+    "error": null
+  },
+  {
+    "name": "Elizabeth I",
+    "query": "Elizabeth I",
+    "status": "downloaded",
+    "source": "wikipedia:Elizabeth I",
+    "file": "Elizabeth I.jpg"
+  },
+  {
+    "name": "Henry VIII",
+    "query": "Henry VIII",
+    "status": "downloaded",
+    "source": "wikipedia:Henry VIII",
+    "file": "Henry VIII.jpg",
+    "error": null
+  },
+  {
+    "name": "Mary, Queen of Scots",
+    "query": "Mary, Queen of Scots",
+    "status": "downloaded",
+    "source": "wikipedia:Mary, Queen of Scots",
+    "file": "Mary, Queen of Scots.jpg",
+    "error": null
+  },
+  {
+    "name": "George Washington",
+    "query": "George Washington",
+    "status": "downloaded",
+    "source": "copied:George Washington.jpg",
+    "file": "George Washington.jpg"
+  },
+  {
+    "name": "Thomas Jefferson",
+    "query": "Thomas Jefferson",
+    "status": "downloaded",
+    "source": "copied:Thomas Jefferson.jpg",
+    "file": "Thomas Jefferson.jpg"
+  },
+  {
+    "name": "Benjamin Franklin",
+    "query": "Benjamin Franklin",
+    "status": "downloaded",
+    "source": "wikipedia:Benjamin Franklin",
+    "file": "Benjamin Franklin.jpg"
+  },
+  {
+    "name": "Adam Smith",
+    "query": "Adam Smith",
+    "status": "downloaded",
+    "source": "wikipedia:Adam Smith",
+    "file": "Adam Smith.jpg",
+    "error": null
+  },
+  {
+    "name": "Immanuel Kant",
+    "query": "Immanuel Kant",
+    "status": "downloaded",
+    "source": "wikipedia:Immanuel Kant",
+    "file": "Immanuel Kant.jpg",
+    "error": null
+  },
+  {
+    "name": "Napoleon Bonaparte",
+    "query": "Napoleon Bonaparte",
+    "status": "downloaded",
+    "source": "copied:Napoleon Bonaparte.jpg",
+    "file": "Napoleon Bonaparte.jpg"
+  },
+  {
+    "name": "Duke of Wellington",
+    "query": "Duke of Wellington",
+    "status": "downloaded",
+    "source": "wikipedia:Arthur Wellesley, 1st Duke of Wellington",
+    "file": "Duke of Wellington.jpg",
+    "error": null
+  },
+  {
+    "name": "Toussaint Louverture",
+    "query": "Toussaint Louverture",
+    "status": "error",
+    "source": null,
+    "file": null,
+    "error": "429 Client Error: Too many requests - please contact noc@wikimedia.org to discuss a less disruptive approach or instead use thumbnail images in sizes listed on https://w.wiki/GHai. (0c640b1) for url: https://upload.wikimedia.org/wikipedia/commons/2/23/Toussaint_Louverture_-_Girardin.jpg"
+  },
+  {
+    "name": "Simon Bolivar",
+    "query": "Simon Bolivar",
+    "status": "downloaded",
+    "source": "wikipedia:Simón Bolívar",
+    "file": "Simon Bolivar.png",
+    "error": null
+  },
+  {
+    "name": "Jose de San Martin",
+    "query": "Jose de San Martin",
+    "status": "error",
+    "source": null,
+    "file": null,
+    "error": "429 Client Error: Too many requests - please contact noc@wikimedia.org to discuss a less disruptive approach or instead use thumbnail images in sizes listed on https://w.wiki/GHai. (0c640b1) for url: https://upload.wikimedia.org/wikipedia/commons/d/d1/Jos%C3%A9_de_San_Mart%C3%ADn_%28retrato%2C_c.1828%29.jpg"
+  },
+  {
+    "name": "Jane Austen",
+    "query": "Jane Austen",
+    "status": "downloaded",
+    "source": "wikipedia:Jane Austen",
+    "file": "Jane Austen.jpg",
+    "error": null
+  },
+  {
+    "name": "Ludwig van Beethoven",
+    "query": "Ludwig van Beethoven",
+    "status": "downloaded",
+    "source": "wikipedia:Ludwig van Beethoven",
+    "file": "Ludwig van Beethoven.jpg"
+  },
+  {
+    "name": "Wolfgang Amadeus Mozart",
+    "query": "Wolfgang Amadeus Mozart",
+    "status": "downloaded",
+    "source": "wikipedia:Wolfgang Amadeus Mozart",
+    "file": "Wolfgang Amadeus Mozart.jpg"
+  },
+  {
+    "name": "Francisco Goya",
+    "query": "Francisco Goya",
+    "status": "downloaded",
+    "source": "wikipedia:Francisco Goya",
+    "file": "Francisco Goya.jpg",
+    "error": null
+  },
+  {
+    "name": "J. M. W. Turner",
+    "query": "J. M. W. Turner",
+    "status": "downloaded",
+    "source": "wikipedia:J. M. W. Turner",
+    "file": "J. M. W. Turner.jpg",
+    "error": null
+  },
+  {
+    "name": "Charles Darwin",
+    "query": "Charles Darwin",
+    "status": "downloaded",
+    "source": "wikipedia:Charles Darwin",
+    "file": "Charles Darwin.jpg",
+    "error": null
+  },
+  {
+    "name": "Michael Faraday",
+    "query": "Michael Faraday",
+    "status": "error",
+    "source": null,
+    "file": null,
+    "error": "429 Client Error: Too many requests - please contact noc@wikimedia.org to discuss a less disruptive approach or instead use thumbnail images in sizes listed on https://w.wiki/GHai. (0c640b1) for url: https://upload.wikimedia.org/wikipedia/commons/7/7e/Michael_Faraday_sitting_crop.jpg"
+  },
+  {
+    "name": "James Clerk Maxwell",
+    "query": "James Clerk Maxwell",
+    "status": "downloaded",
+    "source": "wikipedia:James Clerk Maxwell",
+    "file": "James Clerk Maxwell.jpg"
+  },
+  {
+    "name": "Louis Pasteur",
+    "query": "Louis Pasteur",
+    "status": "downloaded",
+    "source": "wikipedia:Louis Pasteur",
+    "file": "Louis Pasteur.jpg",
+    "error": null
+  },
+  {
+    "name": "Gregor Mendel",
+    "query": "Gregor Mendel",
+    "status": "downloaded",
+    "source": "copied:Gregor Mendel.jpg",
+    "file": "Gregor Mendel.jpg",
+    "error": null
+  },
+  {
+    "name": "Florence Nightingale",
+    "query": "Florence Nightingale",
+    "status": "downloaded",
+    "source": "wikipedia:Florence Nightingale",
+    "file": "Florence Nightingale.jpg",
+    "error": null
+  },
+  {
+    "name": "Ada Lovelace",
+    "query": "Ada Lovelace",
+    "status": "downloaded",
+    "source": "wikipedia:Ada Lovelace",
+    "file": "Ada Lovelace.png"
+  },
+  {
+    "name": "Abraham Lincoln",
+    "query": "Abraham Lincoln",
+    "status": "downloaded",
+    "source": "copied:Abraham Lincoln.jpg",
+    "file": "Abraham Lincoln.jpg"
+  },
+  {
+    "name": "Frederick Douglass",
+    "query": "Frederick Douglass",
+    "status": "downloaded",
+    "source": "wikipedia:Frederick Douglass",
+    "file": "Frederick Douglass.jpg",
+    "error": null
+  },
+  {
+    "name": "Harriet Tubman",
+    "query": "Harriet Tubman",
+    "status": "downloaded",
+    "source": "wikipedia:Harriet Tubman",
+    "file": "Harriet Tubman.jpg",
+    "error": null
+  },
+  {
+    "name": "Susan B. Anthony",
+    "query": "Susan B. Anthony",
+    "status": "downloaded",
+    "source": "wikipedia:Susan B. Anthony",
+    "file": "Susan B. Anthony.jpg",
+    "error": null
+  },
+  {
+    "name": "Sojourner Truth",
+    "query": "Sojourner Truth",
+    "status": "downloaded",
+    "source": "wikipedia:Sojourner Truth",
+    "file": "Sojourner Truth.jpg",
+    "error": null
+  },
+  {
+    "name": "Karl Marx",
+    "query": "Karl Marx",
+    "status": "downloaded",
+    "source": "wikipedia:Karl Marx",
+    "file": "Karl Marx.png",
+    "error": null
+  },
+  {
+    "name": "Friedrich Engels",
+    "query": "Friedrich Engels",
+    "status": "downloaded",
+    "source": "wikipedia:Friedrich Engels",
+    "file": "Friedrich Engels.jpg"
+  },
+  {
+    "name": "Otto von Bismarck",
+    "query": "Otto von Bismarck",
+    "status": "downloaded",
+    "source": "copied:Otto von Bismarck.jpg",
+    "file": "Otto von Bismarck.jpg"
+  },
+  {
+    "name": "Giuseppe Garibaldi",
+    "query": "Giuseppe Garibaldi",
+    "status": "downloaded",
+    "source": "wikipedia:Giuseppe Garibaldi",
+    "file": "Giuseppe Garibaldi.jpg",
+    "error": null
+  },
+  {
+    "name": "Queen Victoria",
+    "query": "Queen Victoria",
+    "status": "downloaded",
+    "source": "wikipedia:Queen Victoria",
+    "file": "Queen Victoria.jpg",
+    "error": null
+  },
+  {
+    "name": "Louis Braille",
+    "query": "Louis Braille",
+    "status": "downloaded",
+    "source": "wikipedia:Louis Braille",
+    "file": "Louis Braille.jpg",
+    "error": null
+  },
+  {
+    "name": "Nikola Tesla",
+    "query": "Nikola Tesla",
+    "status": "downloaded",
+    "source": "wikipedia:Nikola Tesla",
+    "file": "Nikola Tesla.jpg"
+  },
+  {
+    "name": "Thomas Edison",
+    "query": "Thomas Edison",
+    "status": "downloaded",
+    "source": "wikipedia:Thomas Edison",
+    "file": "Thomas Edison.jpg",
+    "error": null
+  },
+  {
+    "name": "Alexander Graham Bell",
+    "query": "Alexander Graham Bell",
+    "status": "downloaded",
+    "source": "wikipedia:Alexander Graham Bell",
+    "file": "Alexander Graham Bell.jpg",
+    "error": null
+  },
+  {
+    "name": "Claude Monet",
+    "query": "Claude Monet",
+    "status": "downloaded",
+    "source": "wikipedia:Claude Monet",
+    "file": "Claude Monet.jpg",
+    "error": null
+  },
+  {
+    "name": "Edgar Degas",
+    "query": "Edgar Degas",
+    "status": "downloaded",
+    "source": "wikipedia:Edgar Degas",
+    "file": "Edgar Degas.jpg",
+    "error": null
+  },
+  {
+    "name": "Pierre-Auguste Renoir",
+    "query": "Pierre-Auguste Renoir",
+    "status": "downloaded",
+    "source": "wikipedia:Pierre-Auguste Renoir",
+    "file": "Pierre-Auguste Renoir.jpg"
+  },
+  {
+    "name": "Vincent van Gogh",
+    "query": "Vincent van Gogh",
+    "status": "downloaded",
+    "source": "wikipedia:Vincent van Gogh",
+    "file": "Vincent van Gogh.jpg",
+    "error": null
+  },
+  {
+    "name": "Auguste Rodin",
+    "query": "Auguste Rodin",
+    "status": "downloaded",
+    "source": "wikipedia:Auguste Rodin",
+    "file": "Auguste Rodin.jpg",
+    "error": null
+  },
+  {
+    "name": "Leo Tolstoy",
+    "query": "Leo Tolstoy",
+    "status": "downloaded",
+    "source": "wikipedia:Leo Tolstoy",
+    "file": "Leo Tolstoy.jpg",
+    "error": null
+  },
+  {
+    "name": "Fyodor Dostoevsky",
+    "query": "Fyodor Dostoevsky",
+    "status": "downloaded",
+    "source": "wikipedia:Fyodor Dostoevsky",
+    "file": "Fyodor Dostoevsky.jpg"
+  },
+  {
+    "name": "Anton Chekhov",
+    "query": "Anton Chekhov",
+    "status": "downloaded",
+    "source": "wikipedia:Anton Chekhov",
+    "file": "Anton Chekhov.jpg",
+    "error": null
+  },
+  {
+    "name": "Mark Twain",
+    "query": "Mark Twain",
+    "status": "downloaded",
+    "source": "wikipedia:Mark Twain",
+    "file": "Mark Twain.jpg",
+    "error": null
+  },
+  {
+    "name": "Jules Verne",
+    "query": "Jules Verne",
+    "status": "downloaded",
+    "source": "wikipedia:Jules Verne",
+    "file": "Jules Verne.jpg",
+    "error": null
+  },
+  {
+    "name": "Victor Hugo",
+    "query": "Victor Hugo",
+    "status": "downloaded",
+    "source": "wikipedia:Victor Hugo",
+    "file": "Victor Hugo.jpg"
+  },
+  {
+    "name": "Oscar Wilde",
+    "query": "Oscar Wilde",
+    "status": "downloaded",
+    "source": "wikipedia:Oscar Wilde",
+    "file": "Oscar Wilde.jpg",
+    "error": null
+  },
+  {
+    "name": "Mary Shelley",
+    "query": "Mary Shelley",
+    "status": "downloaded",
+    "source": "wikipedia:Mary Shelley",
+    "file": "Mary Shelley.jpg",
+    "error": null
+  },
+  {
+    "name": "Sigmund Freud",
+    "query": "Sigmund Freud",
+    "status": "downloaded",
+    "source": "wikipedia:Sigmund Freud",
+    "file": "Sigmund Freud.jpg",
+    "error": null
+  },
+  {
+    "name": "Marie Curie",
+    "query": "Marie Curie",
+    "status": "downloaded",
+    "source": "wikipedia:Marie Curie",
+    "file": "Marie Curie.jpg"
+  },
+  {
+    "name": "Albert Einstein",
+    "query": "Albert Einstein",
+    "status": "downloaded",
+    "source": "wikipedia:Albert Einstein",
+    "file": "Albert Einstein.jpg",
+    "error": null
+  },
+  {
+    "name": "Max Planck",
+    "query": "Max Planck",
+    "status": "downloaded",
+    "source": "wikipedia:Max Planck",
+    "file": "Max Planck.jpg",
+    "error": null
+  },
+  {
+    "name": "Niels Bohr",
+    "query": "Niels Bohr",
+    "status": "downloaded",
+    "source": "wikipedia:Niels Bohr",
+    "file": "Niels Bohr.jpg",
+    "error": null
+  },
+  {
+    "name": "Werner Heisenberg",
+    "query": "Werner Heisenberg",
+    "status": "downloaded",
+    "source": "copied:Werner Heisenberg.jpg",
+    "file": "Werner Heisenberg.jpg",
+    "error": null
+  },
+  {
+    "name": "Enrico Fermi",
+    "query": "Enrico Fermi",
+    "status": "downloaded",
+    "source": "wikipedia:Enrico Fermi",
+    "file": "Enrico Fermi.jpg",
+    "error": null
+  },
+  {
+    "name": "Rosalind Franklin",
+    "query": "Rosalind Franklin",
+    "status": "downloaded",
+    "source": "wikipedia:Rosalind Franklin",
+    "file": "Rosalind Franklin.jpg"
+  },
+  {
+    "name": "Alan Turing",
+    "query": "Alan Turing",
+    "status": "downloaded",
+    "source": "wikipedia:Alan Turing",
+    "file": "Alan Turing.jpg",
+    "error": null
+  },
+  {
+    "name": "John von Neumann",
+    "query": "John von Neumann",
+    "status": "downloaded",
+    "source": "wikipedia:John von Neumann",
+    "file": "John von Neumann.gif",
+    "error": null
+  },
+  {
+    "name": "Katherine Johnson",
+    "query": "Katherine Johnson",
+    "status": "downloaded",
+    "source": "wikipedia:Katherine Johnson",
+    "file": "Katherine Johnson.jpg",
+    "error": null
+  },
+  {
+    "name": "Yuri Gagarin",
+    "query": "Yuri Gagarin",
+    "status": "downloaded",
+    "source": "wikipedia:Yuri Gagarin",
+    "file": "Yuri Gagarin.jpg",
+    "error": null
+  },
+  {
+    "name": "Valentina Tereshkova",
+    "query": "Valentina Tereshkova",
+    "status": "downloaded",
+    "source": "wikipedia:Valentina Tereshkova",
+    "file": "Valentina Tereshkova.jpg",
+    "error": null
+  },
+  {
+    "name": "Neil Armstrong",
+    "query": "Neil Armstrong",
+    "status": "downloaded",
+    "source": "wikipedia:Neil Armstrong",
+    "file": "Neil Armstrong.jpg"
+  },
+  {
+    "name": "Amelia Earhart",
+    "query": "Amelia Earhart",
+    "status": "downloaded",
+    "source": "wikipedia:Amelia Earhart",
+    "file": "Amelia Earhart.jpg",
+    "error": null
+  },
+  {
+    "name": "Mahatma Gandhi",
+    "query": "Mahatma Gandhi",
+    "status": "downloaded",
+    "source": "wikipedia:Mahatma Gandhi",
+    "file": "Mahatma Gandhi.jpg",
+    "error": null
+  },
+  {
+    "name": "B. R. Ambedkar",
+    "query": "B. R. Ambedkar",
+    "status": "downloaded",
+    "source": "copied:B. R. Ambedkar.jpg",
+    "file": "B. R. Ambedkar.jpg"
+  },
+  {
+    "name": "Jawaharlal Nehru",
+    "query": "Jawaharlal Nehru",
+    "status": "downloaded",
+    "source": "copied:Jawaharlal Nehru.jpg",
+    "file": "Jawaharlal Nehru.jpg"
+  },
+  {
+    "name": "Indira Gandhi",
+    "query": "Indira Gandhi",
+    "status": "downloaded",
+    "source": "copied:Indira Gandhi.jpg",
+    "file": "Indira Gandhi.jpg"
+  },
+  {
+    "name": "Sun Yat-sen",
+    "query": "Sun Yat-sen",
+    "status": "downloaded",
+    "source": "copied:Sun Yat-sen.jpg",
+    "file": "Sun Yat-sen.jpg"
+  },
+  {
+    "name": "Chiang Kai-shek",
+    "query": "Chiang Kai-shek",
+    "status": "downloaded",
+    "source": "copied:Chiang Kai-shek.jpg",
+    "file": "Chiang Kai-shek.jpg"
+  },
+  {
+    "name": "Deng Xiaoping",
+    "query": "Deng Xiaoping",
+    "status": "downloaded",
+    "source": "copied:Deng Xiaoping.jpg",
+    "file": "Deng Xiaoping.jpg"
+  },
+  {
+    "name": "Ho Chi Minh",
+    "query": "Ho Chi Minh",
+    "status": "downloaded",
+    "source": "copied:Ho Chi Minh.jpg",
+    "file": "Ho Chi Minh.jpg"
+  },
+  {
+    "name": "Mustafa Kemal Ataturk",
+    "query": "Mustafa Kemal Ataturk",
+    "status": "downloaded",
+    "source": "copied:Mustafa Kemal Ataturk.jpg",
+    "file": "Mustafa Kemal Ataturk.jpg"
+  },
+  {
+    "name": "Leon Trotsky",
+    "query": "Leon Trotsky",
+    "status": "downloaded",
+    "source": "copied:Leon Trotsky.jpg",
+    "file": "Leon Trotsky.jpg"
+  },
+  {
+    "name": "Winston Churchill",
+    "query": "Winston Churchill",
+    "status": "downloaded",
+    "source": "copied:Winston Churchill.jpg",
+    "file": "Winston Churchill.jpg"
+  },
+  {
+    "name": "Franklin D. Roosevelt",
+    "query": "Franklin D. Roosevelt",
+    "status": "downloaded",
+    "source": "copied:Franklin D. Roosevelt.jpg",
+    "file": "Franklin D. Roosevelt.jpg"
+  },
+  {
+    "name": "Theodore Roosevelt",
+    "query": "Theodore Roosevelt",
+    "status": "downloaded",
+    "source": "copied:Theodore Roosevelt.jpg",
+    "file": "Theodore Roosevelt.jpg"
+  },
+  {
+    "name": "Charles de Gaulle",
+    "query": "Charles de Gaulle",
+    "status": "downloaded",
+    "source": "copied:Charles de Gaulle.jpg",
+    "file": "Charles de Gaulle.jpg"
+  },
+  {
+    "name": "John F. Kennedy",
+    "query": "John F. Kennedy",
+    "status": "downloaded",
+    "source": "copied:John F. Kennedy.jpg",
+    "file": "John F. Kennedy.jpg"
+  },
+  {
+    "name": "Che Guevara",
+    "query": "Che Guevara",
+    "status": "downloaded",
+    "source": "copied:Che Guevara.jpg",
+    "file": "Che Guevara.jpg"
+  },
+  {
+    "name": "Fidel Castro",
+    "query": "Fidel Castro",
+    "status": "downloaded",
+    "source": "copied:Fidel Castro.jpg",
+    "file": "Fidel Castro.jpg"
+  },
+  {
+    "name": "Yitzhak Rabin",
+    "query": "Yitzhak Rabin",
+    "status": "downloaded",
+    "source": "copied:Yitzhak Rabin.jpg",
+    "file": "Yitzhak Rabin.jpg"
+  },
+  {
+    "name": "Golda Meir",
+    "query": "Golda Meir",
+    "status": "downloaded",
+    "source": "copied:Golda Meir.jpg",
+    "file": "Golda Meir.jpg"
+  },
+  {
+    "name": "Gamal Abdel Nasser",
+    "query": "Gamal Abdel Nasser",
+    "status": "downloaded",
+    "source": "copied:Gamal Abdel Nasser.jpg",
+    "file": "Gamal Abdel Nasser.jpg"
+  },
+  {
+    "name": "Anwar Sadat",
+    "query": "Anwar Sadat",
+    "status": "downloaded",
+    "source": "copied:Anwar Sadat.jpg",
+    "file": "Anwar Sadat.jpg"
+  },
+  {
+    "name": "Nelson Mandela",
+    "query": "Nelson Mandela",
+    "status": "downloaded",
+    "source": "copied:Nelson Mandela.jpg",
+    "file": "Nelson Mandela.jpg"
+  },
+  {
+    "name": "Martin Luther King Jr.",
+    "query": "Martin Luther King Jr.",
+    "status": "downloaded",
+    "source": "wikipedia:Martin Luther King Jr.",
+    "file": "Martin Luther King Jr..jpg"
+  },
+  {
+    "name": "Malcolm X",
+    "query": "Malcolm X",
+    "status": "downloaded",
+    "source": "wikipedia:Malcolm X",
+    "file": "Malcolm X.jpg"
+  },
+  {
+    "name": "Rosa Parks",
+    "query": "Rosa Parks",
+    "status": "downloaded",
+    "source": "wikipedia:Rosa Parks",
+    "file": "Rosa Parks.jpg"
+  },
+  {
+    "name": "Anne Frank",
+    "query": "Anne Frank",
+    "status": "downloaded",
+    "source": "wikipedia:Anne Frank",
+    "file": "Anne Frank.jpg",
+    "error": null
+  },
+  {
+    "name": "Frida Kahlo",
+    "query": "Frida Kahlo",
+    "status": "downloaded",
+    "source": "copied:Frida Kahlo.jpg",
+    "file": "Frida Kahlo.jpg",
+    "error": null
+  },
+  {
+    "name": "Pablo Picasso",
+    "query": "Pablo Picasso",
+    "status": "downloaded",
+    "source": "wikipedia:Pablo Picasso",
+    "file": "Pablo Picasso.jpg"
+  },
+  {
+    "name": "Diego Rivera",
+    "query": "Diego Rivera",
+    "status": "downloaded",
+    "source": "wikipedia:Diego Rivera",
+    "file": "Diego Rivera.jpg",
+    "error": null
+  },
+  {
+    "name": "Coco Chanel",
+    "query": "Coco Chanel",
+    "status": "downloaded",
+    "source": "wikipedia:Coco Chanel",
+    "file": "Coco Chanel.jpg"
+  },
+  {
+    "name": "Charlie Chaplin",
+    "query": "Charlie Chaplin",
+    "status": "downloaded",
+    "source": "wikipedia:Charlie Chaplin",
+    "file": "Charlie Chaplin.jpg",
+    "error": null
+  },
+  {
+    "name": "Marilyn Monroe",
+    "query": "Marilyn Monroe",
+    "status": "downloaded",
+    "source": "wikipedia:Marilyn Monroe",
+    "file": "Marilyn Monroe.jpg",
+    "error": null
+  },
+  {
+    "name": "Mikhail Gorbachev",
+    "query": "Mikhail Gorbachev",
+    "status": "downloaded",
+    "source": "copied:Mikhail Gorbachev.jpg",
+    "file": "Mikhail Gorbachev.jpg"
+  },
+  {
+    "name": "Lech Walesa",
+    "query": "Lech Walesa",
+    "status": "downloaded",
+    "source": "copied:Lech Walesa.jpg",
+    "file": "Lech Walesa.jpg"
+  },
+  {
+    "name": "Vaclav Havel",
+    "query": "Vaclav Havel",
+    "status": "downloaded",
+    "source": "copied:Vaclav Havel.jpg",
+    "file": "Vaclav Havel.jpg"
+  },
+  {
+    "name": "Aung San Suu Kyi",
+    "query": "Aung San Suu Kyi",
+    "status": "downloaded",
+    "source": "copied:Aung San Suu Kyi.jpg",
+    "file": "Aung San Suu Kyi.jpg"
+  },
+  {
+    "name": "Lee Kuan Yew",
+    "query": "Lee Kuan Yew",
+    "status": "downloaded",
+    "source": "copied:Lee Kuan Yew.jpg",
+    "file": "Lee Kuan Yew.jpg"
+  },
+  {
+    "name": "Corazon Aquino",
+    "query": "Corazon Aquino",
+    "status": "downloaded",
+    "source": "copied:Corazon Aquino.jpg",
+    "file": "Corazon Aquino.jpg"
+  },
+  {
+    "name": "Thomas Sankara",
+    "query": "Thomas Sankara",
+    "status": "downloaded",
+    "source": "copied:Thomas Sankara.jpg",
+    "file": "Thomas Sankara.jpg"
+  },
+  {
+    "name": "Julius Nyerere",
+    "query": "Julius Nyerere",
+    "status": "downloaded",
+    "source": "copied:Julius Nyerere.jpg",
+    "file": "Julius Nyerere.jpg"
+  },
+  {
+    "name": "Kwame Nkrumah",
+    "query": "Kwame Nkrumah",
+    "status": "downloaded",
+    "source": "copied:Kwame Nkrumah.jpg",
+    "file": "Kwame Nkrumah.jpg"
+  },
+  {
+    "name": "Jomo Kenyatta",
+    "query": "Jomo Kenyatta",
+    "status": "downloaded",
+    "source": "copied:Jomo Kenyatta.jpg",
+    "file": "Jomo Kenyatta.jpg"
+  },
+  {
+    "name": "Patrice Lumumba",
+    "query": "Patrice Lumumba",
+    "status": "downloaded",
+    "source": "copied:Patrice Lumumba.jpg",
+    "file": "Patrice Lumumba.jpg"
+  },
+  {
+    "name": "Eva Peron",
+    "query": "Eva Peron",
+    "status": "downloaded",
+    "source": "copied:Eva Peron.jpg",
+    "file": "Eva Peron.jpg"
+  },
+  {
+    "name": "Juan Peron",
+    "query": "Juan Peron",
+    "status": "downloaded",
+    "source": "copied:Juan Peron.jpg",
+    "file": "Juan Peron.jpg"
+  },
+  {
+    "name": "Salvador Allende",
+    "query": "Salvador Allende",
+    "status": "downloaded",
+    "source": "copied:Salvador Allende.jpg",
+    "file": "Salvador Allende.jpg"
+  },
+  {
+    "name": "Hugo Chavez",
+    "query": "Hugo Chavez",
+    "status": "downloaded",
+    "source": "copied:Hugo Chavez.jpg",
+    "file": "Hugo Chavez.jpg"
+  },
+  {
+    "name": "Michelle Bachelet",
+    "query": "Michelle Bachelet",
+    "status": "downloaded",
+    "source": "copied:Michelle Bachelet.jpg",
+    "file": "Michelle Bachelet.jpg"
+  },
+  {
+    "name": "Rene Magritte",
+    "query": "Rene Magritte",
+    "status": "downloaded",
+    "source": "wikipedia:René Magritte",
+    "file": "Rene Magritte.jpg",
+    "error": null
+  },
+  {
+    "name": "Georgia O'Keeffe",
+    "query": "Georgia O'Keeffe",
+    "status": "downloaded",
+    "source": "wikipedia:Georgia O'Keeffe",
+    "file": "Georgia O'Keeffe.jpg",
+    "error": null
+  },
+  {
+    "name": "Jackson Pollock",
+    "query": "Jackson Pollock",
+    "status": "downloaded",
+    "source": "wikipedia:Jackson Pollock",
+    "file": "Jackson Pollock.jpg"
+  },
+  {
+    "name": "Marcel Duchamp",
+    "query": "Marcel Duchamp",
+    "status": "downloaded",
+    "source": "wikipedia:Marcel Duchamp",
+    "file": "Marcel Duchamp.jpg",
+    "error": null
+  },
+  {
+    "name": "Andy Warhol",
+    "query": "Andy Warhol",
+    "status": "downloaded",
+    "source": "wikipedia:Andy Warhol",
+    "file": "Andy Warhol.jpg"
+  },
+  {
+    "name": "Simone de Beauvoir",
+    "query": "Simone de Beauvoir",
+    "status": "downloaded",
+    "source": "wikipedia:Simone de Beauvoir",
+    "file": "Simone de Beauvoir.jpg"
+  },
+  {
+    "name": "Jean-Paul Sartre",
+    "query": "Jean-Paul Sartre",
+    "status": "downloaded",
+    "source": "wikipedia:Jean-Paul Sartre",
+    "file": "Jean-Paul Sartre.jpg",
+    "error": null
+  },
+  {
+    "name": "Hannah Arendt",
+    "query": "Hannah Arendt",
+    "status": "downloaded",
+    "source": "wikipedia:Hannah Arendt",
+    "file": "Hannah Arendt.jpg",
+    "error": null
+  },
+  {
+    "name": "Noam Chomsky",
+    "query": "Noam Chomsky",
+    "status": "downloaded",
+    "source": "wikipedia:Noam Chomsky",
+    "file": "Noam Chomsky.jpg",
+    "error": null
+  },
+  {
+    "name": "Cornel West",
+    "query": "Cornel West",
+    "status": "downloaded",
+    "source": "wikipedia:Cornel West",
+    "file": "Cornel West.jpg",
+    "error": null
+  },
+  {
+    "name": "Kurt Godel",
+    "query": "Kurt Godel",
+    "status": "downloaded",
+    "source": "wikipedia:Kurt Gödel",
+    "file": "Kurt Godel.jpg"
+  },
+  {
+    "name": "Stephen Hawking",
+    "query": "Stephen Hawking",
+    "status": "downloaded",
+    "source": "wikipedia:Stephen Hawking",
+    "file": "Stephen Hawking.jpg",
+    "error": null
+  },
+  {
+    "name": "Carl Sagan",
+    "query": "Carl Sagan",
+    "status": "downloaded",
+    "source": "wikipedia:Carl Sagan",
+    "file": "Carl Sagan.jpg",
+    "error": null
+  },
+  {
+    "name": "Jane Goodall",
+    "query": "Jane Goodall",
+    "status": "downloaded",
+    "source": "wikipedia:Jane Goodall",
+    "file": "Jane Goodall.jpg",
+    "error": null
+  },
+  {
+    "name": "Rachel Carson",
+    "query": "Rachel Carson",
+    "status": "downloaded",
+    "source": "wikipedia:Rachel Carson",
+    "file": "Rachel Carson.jpg"
+  },
+  {
+    "name": "Tim Berners-Lee",
+    "query": "Tim Berners-Lee",
+    "status": "downloaded",
+    "source": "wikipedia:Tim Berners-Lee",
+    "file": "Tim Berners-Lee.jpg",
+    "error": null
+  },
+  {
+    "name": "Sophie Scholl",
+    "query": "Sophie Scholl",
+    "status": "downloaded",
+    "source": "wikipedia:Sophie Scholl",
+    "file": "Sophie Scholl.jpg",
+    "error": null
+  },
+  {
+    "name": "Raoul Wallenberg",
+    "query": "Raoul Wallenberg",
+    "status": "downloaded",
+    "source": "wikipedia:Raoul Wallenberg",
+    "file": "Raoul Wallenberg.jpg",
+    "error": null
+  },
+  {
+    "name": "Eleanor Roosevelt",
+    "query": "Eleanor Roosevelt",
+    "status": "downloaded",
+    "source": "wikipedia:Eleanor Roosevelt",
+    "file": "Eleanor Roosevelt.jpg",
+    "error": null
+  },
+  {
+    "name": "Desmond Tutu",
+    "query": "Desmond Tutu",
+    "status": "downloaded",
+    "source": "wikipedia:Desmond Tutu",
+    "file": "Desmond Tutu.jpg",
+    "error": null
+  },
+  {
+    "name": "Elie Wiesel",
+    "query": "Elie Wiesel",
+    "status": "downloaded",
+    "source": "copied:Elie Wiesel.png",
+    "file": "Elie Wiesel.png",
+    "error": null
+  },
+  {
+    "name": "Harvey Milk",
+    "query": "Harvey Milk",
+    "status": "downloaded",
+    "source": "wikipedia:Harvey Milk",
+    "file": "Harvey Milk.jpg",
+    "error": null
+  }
+]
