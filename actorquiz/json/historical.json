@@ -1,0 +1,822 @@
+{
+  "andy warhol": [
+    -1,
+    100.0
+  ],
+  "charlie chaplin": [
+    13848,
+    29.528
+  ],
+  "carl sagan": [
+    10293,
+    1.173
+  ],
+  "martin luther king jr.": [
+    1107983,
+    0.953
+  ],
+  "michelangelo": [
+    15189,
+    0.891
+  ],
+  "cornel west": [
+    537506,
+    0.843
+  ],
+  "neil armstrong": [
+    87485,
+    0.797
+  ],
+  "stephen hawking": [
+    39657,
+    0.791
+  ],
+  "albert einstein": [
+    1317625,
+    0.743
+  ],
+  "marilyn monroe": [
+    3149,
+    0.737
+  ],
+  "jane goodall": [
+    186329,
+    0.713
+  ],
+  "noam chomsky": [
+    116488,
+    0.638
+  ],
+  "aristotle": [
+    1776390,
+    0.542
+  ],
+  "marcel duchamp": [
+    150601,
+    0.472
+  ],
+  "mahatma gandhi": [
+    1120760,
+    0.468
+  ],
+  "john locke": [
+    2114236,
+    0.467
+  ],
+  "nelson mandela": [
+    89300,
+    0.441
+  ],
+  "adam smith": [
+    2431700,
+    0.393
+  ],
+  "simone de beauvoir": [
+    39712,
+    0.368
+  ],
+  "tim berners-lee": [
+    1360985,
+    0.348
+  ],
+  "sigmund freud": [
+    1552825,
+    0.269
+  ],
+  "nikola tesla": [
+    2807411,
+    0.241
+  ],
+  "frida kahlo": [
+    1435921,
+    0.203
+  ],
+  "alan turing": [
+    3536694,
+    0.104
+  ],
+  "isaac newton": [
+    2399755,
+    0.085
+  ],
+  "marie curie": [
+    1672629,
+    0.085
+  ],
+  "leonardo da vinci": [
+    4737928,
+    0.082
+  ],
+  "niels bohr": [
+    5422933,
+    0.065
+  ],
+  "jean-jacques rousseau": [
+    1297084,
+    0.058
+  ],
+  "enrico fermi": [
+    2422452,
+    0.055
+  ],
+  "edgar degas": [
+    588704,
+    0.042
+  ],
+  "socrates": [
+    1301096,
+    0.034
+  ],
+  "sun tzu": [
+    5496562,
+    0.026
+  ],
+  "friedrich engels": [
+    3268547,
+    0.014
+  ],
+  "hannah arendt": [
+    1753140,
+    0.007
+  ],
+  "abraham lincoln": [
+    -1,
+    0.0
+  ],
+  "ada lovelace": [
+    0,
+    0.0
+  ],
+  "akbar": [
+    -1,
+    0.0
+  ],
+  "alexander graham bell": [
+    -1,
+    0.0
+  ],
+  "alexander the great": [
+    -1,
+    0.0
+  ],
+  "alfred the great": [
+    -1,
+    0.0
+  ],
+  "amelia earhart": [
+    -1,
+    0.0
+  ],
+  "anne frank": [
+    -1,
+    0.0
+  ],
+  "anton chekhov": [
+    -1,
+    0.0
+  ],
+  "anwar sadat": [
+    -1,
+    0.0
+  ],
+  "ashoka": [
+    -1,
+    0.0
+  ],
+  "attila the hun": [
+    -1,
+    0.0
+  ],
+  "auguste rodin": [
+    -1,
+    0.0
+  ],
+  "augustus": [
+    -1,
+    0.0
+  ],
+  "aung san suu kyi": [
+    -1,
+    0.0
+  ],
+  "b. r. ambedkar": [
+    -1,
+    0.0
+  ],
+  "benjamin franklin": [
+    -1,
+    0.0
+  ],
+  "blaise pascal": [
+    -1,
+    0.0
+  ],
+  "boudica": [
+    -1,
+    0.0
+  ],
+  "catherine the great": [
+    -1,
+    0.0
+  ],
+  "charlemagne": [
+    -1,
+    0.0
+  ],
+  "charles darwin": [
+    -1,
+    0.0
+  ],
+  "charles de gaulle": [
+    -1,
+    0.0
+  ],
+  "che guevara": [
+    -1,
+    0.0
+  ],
+  "chiang kai-shek": [
+    -1,
+    0.0
+  ],
+  "christopher columbus": [
+    -1,
+    0.0
+  ],
+  "claude monet": [
+    -1,
+    0.0
+  ],
+  "cleopatra": [
+    -1,
+    0.0
+  ],
+  "coco chanel": [
+    -1,
+    0.0
+  ],
+  "confucius": [
+    0,
+    0.0
+  ],
+  "constantine the great": [
+    -1,
+    0.0
+  ],
+  "corazon aquino": [
+    -1,
+    0.0
+  ],
+  "dante alighieri": [
+    -1,
+    0.0
+  ],
+  "desmond tutu": [
+    -1,
+    0.0
+  ],
+  "diego rivera": [
+    -1,
+    0.0
+  ],
+  "donatello": [
+    -1,
+    0.0
+  ],
+  "duke of wellington": [
+    -1,
+    0.0
+  ],
+  "el greco": [
+    -1,
+    0.0
+  ],
+  "eleanor of aquitaine": [
+    -1,
+    0.0
+  ],
+  "eleanor roosevelt": [
+    -1,
+    0.0
+  ],
+  "elie wiesel": [
+    -1,
+    0.0
+  ],
+  "elizabeth i": [
+    -1,
+    0.0
+  ],
+  "eva peron": [
+    -1,
+    0.0
+  ],
+  "ferdinand magellan": [
+    -1,
+    0.0
+  ],
+  "fidel castro": [
+    -1,
+    0.0
+  ],
+  "florence nightingale": [
+    -1,
+    0.0
+  ],
+  "francisco goya": [
+    -1,
+    0.0
+  ],
+  "francisco pizarro": [
+    -1,
+    0.0
+  ],
+  "franklin d. roosevelt": [
+    -1,
+    0.0
+  ],
+  "frederick douglass": [
+    -1,
+    0.0
+  ],
+  "fyodor dostoevsky": [
+    -1,
+    0.0
+  ],
+  "galileo galilei": [
+    1578045,
+    0.0
+  ],
+  "gamal abdel nasser": [
+    -1,
+    0.0
+  ],
+  "genghis khan": [
+    -1,
+    0.0
+  ],
+  "geoffrey chaucer": [
+    -1,
+    0.0
+  ],
+  "george washington": [
+    -1,
+    0.0
+  ],
+  "georgia o'keeffe": [
+    -1,
+    0.0
+  ],
+  "giuseppe garibaldi": [
+    -1,
+    0.0
+  ],
+  "golda meir": [
+    -1,
+    0.0
+  ],
+  "gregor mendel": [
+    0,
+    0.0
+  ],
+  "hannibal": [
+    -1,
+    0.0
+  ],
+  "harriet tubman": [
+    -1,
+    0.0
+  ],
+  "harvey milk": [
+    -1,
+    0.0
+  ],
+  "hatshepsut": [
+    -1,
+    0.0
+  ],
+  "henry viii": [
+    -1,
+    0.0
+  ],
+  "hernan cortes": [
+    -1,
+    0.0
+  ],
+  "ho chi minh": [
+    -1,
+    0.0
+  ],
+  "hugo chavez": [
+    -1,
+    0.0
+  ],
+  "ibn khaldun": [
+    -1,
+    0.0
+  ],
+  "ibn sina": [
+    -1,
+    0.0
+  ],
+  "ignatius of loyola": [
+    -1,
+    0.0
+  ],
+  "immanuel kant": [
+    -1,
+    0.0
+  ],
+  "indira gandhi": [
+    -1,
+    0.0
+  ],
+  "j. m. w. turner": [
+    -1,
+    0.0
+  ],
+  "jackson pollock": [
+    -1,
+    0.0
+  ],
+  "james clerk maxwell": [
+    0,
+    0.0
+  ],
+  "jane austen": [
+    -1,
+    0.0
+  ],
+  "jean-paul sartre": [
+    -1,
+    0.0
+  ],
+  "joan of arc": [
+    -1,
+    0.0
+  ],
+  "johann sebastian bach": [
+    -1,
+    0.0
+  ],
+  "johannes kepler": [
+    0,
+    0.0
+  ],
+  "john calvin": [
+    -1,
+    0.0
+  ],
+  "john f. kennedy": [
+    -1,
+    0.0
+  ],
+  "john von neumann": [
+    3442036,
+    0.0
+  ],
+  "jomo kenyatta": [
+    -1,
+    0.0
+  ],
+  "juan peron": [
+    -1,
+    0.0
+  ],
+  "jules verne": [
+    -1,
+    0.0
+  ],
+  "julius caesar": [
+    -1,
+    0.0
+  ],
+  "julius nyerere": [
+    -1,
+    0.0
+  ],
+  "justinian i": [
+    -1,
+    0.0
+  ],
+  "karl marx": [
+    4589975,
+    0.0
+  ],
+  "katherine johnson": [
+    -1,
+    0.0
+  ],
+  "kublai khan": [
+    -1,
+    0.0
+  ],
+  "kurt godel": [
+    0,
+    0.0
+  ],
+  "kwame nkrumah": [
+    -1,
+    0.0
+  ],
+  "lech walesa": [
+    -1,
+    0.0
+  ],
+  "lee kuan yew": [
+    -1,
+    0.0
+  ],
+  "leo tolstoy": [
+    -1,
+    0.0
+  ],
+  "leon trotsky": [
+    -1,
+    0.0
+  ],
+  "louis braille": [
+    -1,
+    0.0
+  ],
+  "louis pasteur": [
+    0,
+    0.0
+  ],
+  "louis xiv": [
+    -1,
+    0.0
+  ],
+  "ludwig van beethoven": [
+    -1,
+    0.0
+  ],
+  "malcolm x": [
+    -1,
+    0.0
+  ],
+  "mansa musa": [
+    -1,
+    0.0
+  ],
+  "mark twain": [
+    -1,
+    0.0
+  ],
+  "martin luther": [
+    -1,
+    0.0
+  ],
+  "mary shelley": [
+    -1,
+    0.0
+  ],
+  "mary, queen of scots": [
+    -1,
+    0.0
+  ],
+  "max planck": [
+    0,
+    0.0
+  ],
+  "mehmed the conqueror": [
+    -1,
+    0.0
+  ],
+  "michelle bachelet": [
+    -1,
+    0.0
+  ],
+  "miguel de cervantes": [
+    -1,
+    0.0
+  ],
+  "mikhail gorbachev": [
+    -1,
+    0.0
+  ],
+  "mustafa kemal ataturk": [
+    -1,
+    0.0
+  ],
+  "nefertiti": [
+    -1,
+    0.0
+  ],
+  "niccolo machiavelli": [
+    -1,
+    0.0
+  ],
+  "nicolaus copernicus": [
+    -1,
+    0.0
+  ],
+  "oda nobunaga": [
+    -1,
+    0.0
+  ],
+  "oliver cromwell": [
+    -1,
+    0.0
+  ],
+  "oscar wilde": [
+    -1,
+    0.0
+  ],
+  "otto von bismarck": [
+    -1,
+    0.0
+  ],
+  "pablo picasso": [
+    -1,
+    0.0
+  ],
+  "pericles": [
+    -1,
+    0.0
+  ],
+  "peter the great": [
+    -1,
+    0.0
+  ],
+  "pierre-auguste renoir": [
+    0,
+    0.0
+  ],
+  "plato": [
+    -1,
+    0.0
+  ],
+  "qin shi huang": [
+    -1,
+    0.0
+  ],
+  "queen victoria": [
+    -1,
+    0.0
+  ],
+  "rachel carson": [
+    3869257,
+    0.0
+  ],
+  "ramesses ii": [
+    -1,
+    0.0
+  ],
+  "raoul wallenberg": [
+    -1,
+    0.0
+  ],
+  "raphael": [
+    -1,
+    0.0
+  ],
+  "rembrandt": [
+    -1,
+    0.0
+  ],
+  "rene descartes": [
+    0,
+    0.0
+  ],
+  "rene magritte": [
+    -1,
+    0.0
+  ],
+  "rosa parks": [
+    -1,
+    0.0
+  ],
+  "rosalind franklin": [
+    0,
+    0.0
+  ],
+  "saladin": [
+    -1,
+    0.0
+  ],
+  "salvador allende": [
+    -1,
+    0.0
+  ],
+  "sandro botticelli": [
+    -1,
+    0.0
+  ],
+  "simon bolivar": [
+    -1,
+    0.0
+  ],
+  "sojourner truth": [
+    -1,
+    0.0
+  ],
+  "sophie scholl": [
+    -1,
+    0.0
+  ],
+  "suleiman the magnificent": [
+    -1,
+    0.0
+  ],
+  "sun yat-sen": [
+    -1,
+    0.0
+  ],
+  "susan b. anthony": [
+    -1,
+    0.0
+  ],
+  "theodora": [
+    -1,
+    0.0
+  ],
+  "theodore roosevelt": [
+    -1,
+    0.0
+  ],
+  "thomas edison": [
+    -1,
+    0.0
+  ],
+  "thomas hobbes": [
+    -1,
+    0.0
+  ],
+  "thomas jefferson": [
+    -1,
+    0.0
+  ],
+  "thomas sankara": [
+    -1,
+    0.0
+  ],
+  "tokugawa ieyasu": [
+    -1,
+    0.0
+  ],
+  "toyotomi hideyoshi": [
+    -1,
+    0.0
+  ],
+  "tutankhamun": [
+    -1,
+    0.0
+  ],
+  "vaclav havel": [
+    -1,
+    0.0
+  ],
+  "valentina tereshkova": [
+    -1,
+    0.0
+  ],
+  "vasco da gama": [
+    -1,
+    0.0
+  ],
+  "victor hugo": [
+    -1,
+    0.0
+  ],
+  "vincent van gogh": [
+    -1,
+    0.0
+  ],
+  "vlad the impaler": [
+    -1,
+    0.0
+  ],
+  "voltaire": [
+    -1,
+    0.0
+  ],
+  "werner heisenberg": [
+    0,
+    0.0
+  ],
+  "william shakespeare": [
+    -1,
+    0.0
+  ],
+  "william the conqueror": [
+    -1,
+    0.0
+  ],
+  "winston churchill": [
+    -1,
+    0.0
+  ],
+  "wolfgang amadeus mozart": [
+    -1,
+    0.0
+  ],
+  "yitzhak rabin": [
+    -1,
+    0.0
+  ],
+  "yuri gagarin": [
+    -1,
+    0.0
+  ]
+}
