@@ -1,0 +1,1428 @@
+[
+  {
+    "name": "Barack Obama",
+    "query": "Barack Obama",
+    "status": "downloaded",
+    "source": "tmdb",
+    "file": "Barack Obama.jpg"
+  },
+  {
+    "name": "Joe Biden",
+    "query": "Joe Biden",
+    "status": "downloaded",
+    "source": "tmdb",
+    "file": "Joe Biden.jpg"
+  },
+  {
+    "name": "Donald Trump",
+    "query": "Donald Trump",
+    "status": "downloaded",
+    "source": "tmdb",
+    "file": "Donald Trump.jpg"
+  },
+  {
+    "name": "Bill Clinton",
+    "query": "Bill Clinton",
+    "status": "downloaded",
+    "source": "tmdb",
+    "file": "Bill Clinton.jpg"
+  },
+  {
+    "name": "Hillary Clinton",
+    "query": "Hillary Clinton",
+    "status": "downloaded",
+    "source": "tmdb",
+    "file": "Hillary Clinton.jpg"
+  },
+  {
+    "name": "George W. Bush",
+    "query": "George W. Bush",
+    "status": "downloaded",
+    "source": "tmdb",
+    "file": "George W. Bush.jpg"
+  },
+  {
+    "name": "George H. W. Bush",
+    "query": "George H. W. Bush",
+    "status": "downloaded",
+    "source": "tmdb",
+    "file": "George H. W. Bush.jpg"
+  },
+  {
+    "name": "Jimmy Carter",
+    "query": "Jimmy Carter",
+    "status": "downloaded",
+    "source": "tmdb",
+    "file": "Jimmy Carter.jpg"
+  },
+  {
+    "name": "Ronald Reagan",
+    "query": "Ronald Reagan",
+    "status": "downloaded",
+    "source": "tmdb",
+    "file": "Ronald Reagan.jpg"
+  },
+  {
+    "name": "Richard Nixon",
+    "query": "Richard Nixon",
+    "status": "downloaded",
+    "source": "tmdb",
+    "file": "Richard Nixon.jpg"
+  },
+  {
+    "name": "John F. Kennedy",
+    "query": "John F. Kennedy",
+    "status": "downloaded",
+    "source": "tmdb",
+    "file": "John F. Kennedy.jpg"
+  },
+  {
+    "name": "Robert F. Kennedy",
+    "query": "Robert F. Kennedy",
+    "status": "downloaded",
+    "source": "tmdb",
+    "file": "Robert F. Kennedy.jpg"
+  },
+  {
+    "name": "Theodore Roosevelt",
+    "query": "Theodore Roosevelt",
+    "status": "downloaded",
+    "source": "tmdb",
+    "file": "Theodore Roosevelt.jpg"
+  },
+  {
+    "name": "Franklin D. Roosevelt",
+    "query": "Franklin D. Roosevelt",
+    "status": "downloaded",
+    "source": "tmdb",
+    "file": "Franklin D. Roosevelt.jpg"
+  },
+  {
+    "name": "Abraham Lincoln",
+    "query": "Abraham Lincoln",
+    "status": "downloaded",
+    "source": "tmdb",
+    "file": "Abraham Lincoln.jpg"
+  },
+  {
+    "name": "Thomas Jefferson",
+    "query": "Thomas Jefferson",
+    "status": "downloaded",
+    "source": "tmdb",
+    "file": "Thomas Jefferson.jpg"
+  },
+  {
+    "name": "George Washington",
+    "query": "George Washington",
+    "status": "downloaded",
+    "source": "tmdb",
+    "file": "George Washington.jpg"
+  },
+  {
+    "name": "Kamala Harris",
+    "query": "Kamala Harris",
+    "status": "downloaded",
+    "source": "tmdb",
+    "file": "Kamala Harris.jpg"
+  },
+  {
+    "name": "Al Gore",
+    "query": "Al Gore",
+    "status": "downloaded",
+    "source": "tmdb",
+    "file": "Al Gore.jpg"
+  },
+  {
+    "name": "Mitt Romney",
+    "query": "Mitt Romney",
+    "status": "downloaded",
+    "source": "tmdb",
+    "file": "Mitt Romney.jpg"
+  },
+  {
+    "name": "Bernie Sanders",
+    "query": "Bernie Sanders",
+    "status": "downloaded",
+    "source": "tmdb",
+    "file": "Bernie Sanders.jpg"
+  },
+  {
+    "name": "Alexandria Ocasio-Cortez",
+    "query": "Alexandria Ocasio-Cortez",
+    "status": "downloaded",
+    "source": "tmdb",
+    "file": "Alexandria Ocasio-Cortez.jpg"
+  },
+  {
+    "name": "Nancy Pelosi",
+    "query": "Nancy Pelosi",
+    "status": "downloaded",
+    "source": "tmdb",
+    "file": "Nancy Pelosi.jpg"
+  },
+  {
+    "name": "John McCain",
+    "query": "John McCain",
+    "status": "downloaded",
+    "source": "tmdb",
+    "file": "John McCain.jpg"
+  },
+  {
+    "name": "Margaret Thatcher",
+    "query": "Margaret Thatcher",
+    "status": "downloaded",
+    "source": "tmdb",
+    "file": "Margaret Thatcher.jpg"
+  },
+  {
+    "name": "Winston Churchill",
+    "query": "Winston Churchill",
+    "status": "downloaded",
+    "source": "tmdb",
+    "file": "Winston Churchill.jpg"
+  },
+  {
+    "name": "Tony Blair",
+    "query": "Tony Blair",
+    "status": "downloaded",
+    "source": "tmdb",
+    "file": "Tony Blair.jpg"
+  },
+  {
+    "name": "Boris Johnson",
+    "query": "Boris Johnson",
+    "status": "downloaded",
+    "source": "tmdb",
+    "file": "Boris Johnson.jpg"
+  },
+  {
+    "name": "David Cameron",
+    "query": "David Cameron",
+    "status": "downloaded",
+    "source": "tmdb",
+    "file": "David Cameron.jpg"
+  },
+  {
+    "name": "Theresa May",
+    "query": "Theresa May",
+    "status": "downloaded",
+    "source": "tmdb",
+    "file": "Theresa May.jpg"
+  },
+  {
+    "name": "Rishi Sunak",
+    "query": "Rishi Sunak",
+    "status": "downloaded",
+    "source": "tmdb",
+    "file": "Rishi Sunak.jpg"
+  },
+  {
+    "name": "Keir Starmer",
+    "query": "Keir Starmer",
+    "status": "downloaded",
+    "source": "tmdb",
+    "file": "Keir Starmer.jpg"
+  },
+  {
+    "name": "Clement Attlee",
+    "query": "Clement Attlee",
+    "status": "downloaded",
+    "source": "wikipedia:Clement Attlee",
+    "file": "Clement Attlee.jpg"
+  },
+  {
+    "name": "Neville Chamberlain",
+    "query": "Neville Chamberlain",
+    "status": "downloaded",
+    "source": "tmdb",
+    "file": "Neville Chamberlain.jpg"
+  },
+  {
+    "name": "Aneurin Bevan",
+    "query": "Aneurin Bevan",
+    "status": "downloaded",
+    "source": "wikipedia:Aneurin Bevan",
+    "file": "Aneurin Bevan.jpg"
+  },
+  {
+    "name": "Emmanuel Macron",
+    "query": "Emmanuel Macron",
+    "status": "downloaded",
+    "source": "tmdb",
+    "file": "Emmanuel Macron.jpg"
+  },
+  {
+    "name": "Marine Le Pen",
+    "query": "Marine Le Pen",
+    "status": "downloaded",
+    "source": "tmdb",
+    "file": "Marine Le Pen.jpg"
+  },
+  {
+    "name": "Charles de Gaulle",
+    "query": "Charles de Gaulle",
+    "status": "downloaded",
+    "source": "tmdb",
+    "file": "Charles de Gaulle.jpg"
+  },
+  {
+    "name": "Napoleon Bonaparte",
+    "query": "Napoleon Bonaparte",
+    "status": "downloaded",
+    "source": "tmdb",
+    "file": "Napoleon Bonaparte.jpg"
+  },
+  {
+    "name": "Francois Mitterrand",
+    "query": "Francois Mitterrand",
+    "status": "downloaded",
+    "source": "tmdb",
+    "file": "Francois Mitterrand.jpg"
+  },
+  {
+    "name": "Jacques Chirac",
+    "query": "Jacques Chirac",
+    "status": "downloaded",
+    "source": "tmdb",
+    "file": "Jacques Chirac.jpg"
+  },
+  {
+    "name": "Nicolas Sarkozy",
+    "query": "Nicolas Sarkozy",
+    "status": "downloaded",
+    "source": "tmdb",
+    "file": "Nicolas Sarkozy.jpg"
+  },
+  {
+    "name": "Angela Merkel",
+    "query": "Angela Merkel",
+    "status": "downloaded",
+    "source": "tmdb",
+    "file": "Angela Merkel.jpg"
+  },
+  {
+    "name": "Olaf Scholz",
+    "query": "Olaf Scholz",
+    "status": "downloaded",
+    "source": "tmdb",
+    "file": "Olaf Scholz.jpg"
+  },
+  {
+    "name": "Helmut Kohl",
+    "query": "Helmut Kohl",
+    "status": "downloaded",
+    "source": "tmdb",
+    "file": "Helmut Kohl.jpg"
+  },
+  {
+    "name": "Willy Brandt",
+    "query": "Willy Brandt",
+    "status": "downloaded",
+    "source": "tmdb",
+    "file": "Willy Brandt.jpg"
+  },
+  {
+    "name": "Otto von Bismarck",
+    "query": "Otto von Bismarck",
+    "status": "downloaded",
+    "source": "wikipedia:Otto von Bismarck",
+    "file": "Otto von Bismarck.jpg"
+  },
+  {
+    "name": "Giorgia Meloni",
+    "query": "Giorgia Meloni",
+    "status": "downloaded",
+    "source": "tmdb",
+    "file": "Giorgia Meloni.jpg"
+  },
+  {
+    "name": "Silvio Berlusconi",
+    "query": "Silvio Berlusconi",
+    "status": "downloaded",
+    "source": "tmdb",
+    "file": "Silvio Berlusconi.jpg"
+  },
+  {
+    "name": "Matteo Renzi",
+    "query": "Matteo Renzi",
+    "status": "downloaded",
+    "source": "tmdb",
+    "file": "Matteo Renzi.jpg"
+  },
+  {
+    "name": "Mario Draghi",
+    "query": "Mario Draghi",
+    "status": "downloaded",
+    "source": "wikipedia:Mario Draghi",
+    "file": "Mario Draghi.jpg"
+  },
+  {
+    "name": "Vladimir Putin",
+    "query": "Vladimir Putin",
+    "status": "downloaded",
+    "source": "tmdb",
+    "file": "Vladimir Putin.jpg"
+  },
+  {
+    "name": "Dmitry Medvedev",
+    "query": "Dmitry Medvedev",
+    "status": "downloaded",
+    "source": "tmdb",
+    "file": "Dmitry Medvedev.jpg"
+  },
+  {
+    "name": "Mikhail Gorbachev",
+    "query": "Mikhail Gorbachev",
+    "status": "downloaded",
+    "source": "tmdb",
+    "file": "Mikhail Gorbachev.jpg"
+  },
+  {
+    "name": "Boris Yeltsin",
+    "query": "Boris Yeltsin",
+    "status": "downloaded",
+    "source": "tmdb",
+    "file": "Boris Yeltsin.jpg"
+  },
+  {
+    "name": "Leon Trotsky",
+    "query": "Leon Trotsky",
+    "status": "downloaded",
+    "source": "tmdb",
+    "file": "Leon Trotsky.jpg"
+  },
+  {
+    "name": "Xi Jinping",
+    "query": "Xi Jinping",
+    "status": "downloaded",
+    "source": "tmdb",
+    "file": "Xi Jinping.jpg"
+  },
+  {
+    "name": "Deng Xiaoping",
+    "query": "Deng Xiaoping",
+    "status": "downloaded",
+    "source": "tmdb",
+    "file": "Deng Xiaoping.jpg"
+  },
+  {
+    "name": "Sun Yat-sen",
+    "query": "Sun Yat-sen",
+    "status": "downloaded",
+    "source": "wikipedia:Sun Yat-sen",
+    "file": "Sun Yat-sen.jpg"
+  },
+  {
+    "name": "Chiang Kai-shek",
+    "query": "Chiang Kai-shek",
+    "status": "downloaded",
+    "source": "tmdb",
+    "file": "Chiang Kai-shek.jpg"
+  },
+  {
+    "name": "Hu Jintao",
+    "query": "Hu Jintao",
+    "status": "downloaded",
+    "source": "tmdb",
+    "file": "Hu Jintao.jpg"
+  },
+  {
+    "name": "Jiang Zemin",
+    "query": "Jiang Zemin",
+    "status": "downloaded",
+    "source": "tmdb",
+    "file": "Jiang Zemin.jpg"
+  },
+  {
+    "name": "Kim Il-sung",
+    "query": "Kim Il-sung",
+    "status": "downloaded",
+    "source": "tmdb",
+    "file": "Kim Il-sung.jpg"
+  },
+  {
+    "name": "Kim Jong-il",
+    "query": "Kim Jong-il",
+    "status": "downloaded",
+    "source": "tmdb",
+    "file": "Kim Jong-il.jpg"
+  },
+  {
+    "name": "Kim Jong-un",
+    "query": "Kim Jong-un",
+    "status": "downloaded",
+    "source": "tmdb",
+    "file": "Kim Jong-un.jpg"
+  },
+  {
+    "name": "Syngman Rhee",
+    "query": "Syngman Rhee",
+    "status": "downloaded",
+    "source": "tmdb",
+    "file": "Syngman Rhee.jpg"
+  },
+  {
+    "name": "Park Chung-hee",
+    "query": "Park Chung-hee",
+    "status": "downloaded",
+    "source": "tmdb",
+    "file": "Park Chung-hee.jpg"
+  },
+  {
+    "name": "Moon Jae-in",
+    "query": "Moon Jae-in",
+    "status": "downloaded",
+    "source": "tmdb",
+    "file": "Moon Jae-in.jpg"
+  },
+  {
+    "name": "Yoon Suk Yeol",
+    "query": "Yoon Suk Yeol",
+    "status": "downloaded",
+    "source": "tmdb",
+    "file": "Yoon Suk Yeol.jpg"
+  },
+  {
+    "name": "Shinzo Abe",
+    "query": "Shinzo Abe",
+    "status": "downloaded",
+    "source": "tmdb",
+    "file": "Shinzo Abe.jpg"
+  },
+  {
+    "name": "Fumio Kishida",
+    "query": "Fumio Kishida",
+    "status": "downloaded",
+    "source": "tmdb",
+    "file": "Fumio Kishida.jpg"
+  },
+  {
+    "name": "Yukio Hatoyama",
+    "query": "Yukio Hatoyama",
+    "status": "downloaded",
+    "source": "wikipedia:Yukio Hatoyama",
+    "file": "Yukio Hatoyama.jpg"
+  },
+  {
+    "name": "Narendra Modi",
+    "query": "Narendra Modi",
+    "status": "downloaded",
+    "source": "tmdb",
+    "file": "Narendra Modi.jpg"
+  },
+  {
+    "name": "Jawaharlal Nehru",
+    "query": "Jawaharlal Nehru",
+    "status": "downloaded",
+    "source": "tmdb",
+    "file": "Jawaharlal Nehru.jpg"
+  },
+  {
+    "name": "Indira Gandhi",
+    "query": "Indira Gandhi",
+    "status": "downloaded",
+    "source": "tmdb",
+    "file": "Indira Gandhi.jpg"
+  },
+  {
+    "name": "B. R. Ambedkar",
+    "query": "B. R. Ambedkar",
+    "status": "downloaded",
+    "source": "wikipedia:B. R. Ambedkar",
+    "file": "B. R. Ambedkar.jpg"
+  },
+  {
+    "name": "Atal Bihari Vajpayee",
+    "query": "Atal Bihari Vajpayee",
+    "status": "downloaded",
+    "source": "tmdb",
+    "file": "Atal Bihari Vajpayee.jpg"
+  },
+  {
+    "name": "Manmohan Singh",
+    "query": "Manmohan Singh",
+    "status": "downloaded",
+    "source": "tmdb",
+    "file": "Manmohan Singh.jpg"
+  },
+  {
+    "name": "Muhammad Ali Jinnah",
+    "query": "Muhammad Ali Jinnah",
+    "status": "downloaded",
+    "source": "wikipedia:Muhammad Ali Jinnah",
+    "file": "Muhammad Ali Jinnah.jpg"
+  },
+  {
+    "name": "Benazir Bhutto",
+    "query": "Benazir Bhutto",
+    "status": "downloaded",
+    "source": "tmdb",
+    "file": "Benazir Bhutto.jpg"
+  },
+  {
+    "name": "Imran Khan",
+    "query": "Imran Khan politician",
+    "status": "downloaded",
+    "source": "wikipedia:Imran Khan",
+    "file": "Imran Khan.jpg"
+  },
+  {
+    "name": "Sheikh Mujibur Rahman",
+    "query": "Sheikh Mujibur Rahman",
+    "status": "downloaded",
+    "source": "wikipedia:Sheikh Mujibur Rahman",
+    "file": "Sheikh Mujibur Rahman.jpg"
+  },
+  {
+    "name": "Sheikh Hasina",
+    "query": "Sheikh Hasina",
+    "status": "downloaded",
+    "source": "tmdb",
+    "file": "Sheikh Hasina.jpg"
+  },
+  {
+    "name": "Muhammad Yunus",
+    "query": "Muhammad Yunus",
+    "status": "downloaded",
+    "source": "tmdb",
+    "file": "Muhammad Yunus.jpg"
+  },
+  {
+    "name": "Aung San Suu Kyi",
+    "query": "Aung San Suu Kyi",
+    "status": "downloaded",
+    "source": "wikipedia:Aung San Suu Kyi",
+    "file": "Aung San Suu Kyi.jpg"
+  },
+  {
+    "name": "Lee Kuan Yew",
+    "query": "Lee Kuan Yew",
+    "status": "downloaded",
+    "source": "wikipedia:Lee Kuan Yew",
+    "file": "Lee Kuan Yew.jpg"
+  },
+  {
+    "name": "Sukarno",
+    "query": "Sukarno",
+    "status": "downloaded",
+    "source": "tmdb",
+    "file": "Sukarno.jpg"
+  },
+  {
+    "name": "Suharto",
+    "query": "Suharto",
+    "status": "downloaded",
+    "source": "tmdb",
+    "file": "Suharto.jpg"
+  },
+  {
+    "name": "Joko Widodo",
+    "query": "Joko Widodo",
+    "status": "downloaded",
+    "source": "tmdb",
+    "file": "Joko Widodo.jpg"
+  },
+  {
+    "name": "Ferdinand Marcos",
+    "query": "Ferdinand Marcos",
+    "status": "downloaded",
+    "source": "tmdb",
+    "file": "Ferdinand Marcos.jpg"
+  },
+  {
+    "name": "Corazon Aquino",
+    "query": "Corazon Aquino",
+    "status": "downloaded",
+    "source": "wikipedia:Corazon Aquino",
+    "file": "Corazon Aquino.jpg"
+  },
+  {
+    "name": "Rodrigo Duterte",
+    "query": "Rodrigo Duterte",
+    "status": "downloaded",
+    "source": "tmdb",
+    "file": "Rodrigo Duterte.jpg"
+  },
+  {
+    "name": "Bongbong Marcos",
+    "query": "Bongbong Marcos",
+    "status": "downloaded",
+    "source": "tmdb",
+    "file": "Bongbong Marcos.jpg"
+  },
+  {
+    "name": "Ngo Dinh Diem",
+    "query": "Ngo Dinh Diem",
+    "status": "downloaded",
+    "source": "tmdb",
+    "file": "Ngo Dinh Diem.jpg"
+  },
+  {
+    "name": "Ho Chi Minh",
+    "query": "Ho Chi Minh",
+    "status": "downloaded",
+    "source": "tmdb",
+    "file": "Ho Chi Minh.jpg"
+  },
+  {
+    "name": "Hun Sen",
+    "query": "Hun Sen",
+    "status": "downloaded",
+    "source": "wikipedia:Hun Sen",
+    "file": "Hun Sen.jpg"
+  },
+  {
+    "name": "Norodom Sihanouk",
+    "query": "Norodom Sihanouk",
+    "status": "downloaded",
+    "source": "tmdb",
+    "file": "Norodom Sihanouk.jpg"
+  },
+  {
+    "name": "Anwar Ibrahim",
+    "query": "Anwar Ibrahim",
+    "status": "downloaded",
+    "source": "tmdb",
+    "file": "Anwar Ibrahim.jpg"
+  },
+  {
+    "name": "Mahathir Mohamad",
+    "query": "Mahathir Mohamad",
+    "status": "downloaded",
+    "source": "tmdb",
+    "file": "Mahathir Mohamad.jpg"
+  },
+  {
+    "name": "Abdullah Ahmad Badawi",
+    "query": "Abdullah Ahmad Badawi",
+    "status": "downloaded",
+    "source": "wikipedia:Abdullah Ahmad Badawi",
+    "file": "Abdullah Ahmad Badawi.jpg"
+  },
+  {
+    "name": "Recep Tayyip Erdogan",
+    "query": "Recep Tayyip Erdogan",
+    "status": "downloaded",
+    "source": "tmdb",
+    "file": "Recep Tayyip Erdogan.jpg"
+  },
+  {
+    "name": "Mustafa Kemal Ataturk",
+    "query": "Mustafa Kemal Ataturk",
+    "status": "downloaded",
+    "source": "tmdb",
+    "file": "Mustafa Kemal Ataturk.jpg"
+  },
+  {
+    "name": "Turgut Ozal",
+    "query": "Turgut Ozal",
+    "status": "downloaded",
+    "source": "wikipedia:Turgut Özal",
+    "file": "Turgut Ozal.jpg"
+  },
+  {
+    "name": "Nouri al-Maliki",
+    "query": "Nouri al-Maliki",
+    "status": "downloaded",
+    "source": "wikipedia:Nouri al-Maliki",
+    "file": "Nouri al-Maliki.jpg"
+  },
+  {
+    "name": "Yitzhak Rabin",
+    "query": "Yitzhak Rabin",
+    "status": "downloaded",
+    "source": "tmdb",
+    "file": "Yitzhak Rabin.jpg"
+  },
+  {
+    "name": "Golda Meir",
+    "query": "Golda Meir",
+    "status": "downloaded",
+    "source": "tmdb",
+    "file": "Golda Meir.jpg"
+  },
+  {
+    "name": "Benjamin Netanyahu",
+    "query": "Benjamin Netanyahu",
+    "status": "downloaded",
+    "source": "tmdb",
+    "file": "Benjamin Netanyahu.jpg"
+  },
+  {
+    "name": "Shimon Peres",
+    "query": "Shimon Peres",
+    "status": "downloaded",
+    "source": "tmdb",
+    "file": "Shimon Peres.jpg"
+  },
+  {
+    "name": "Menachem Begin",
+    "query": "Menachem Begin",
+    "status": "downloaded",
+    "source": "tmdb",
+    "file": "Menachem Begin.jpg"
+  },
+  {
+    "name": "Ariel Sharon",
+    "query": "Ariel Sharon",
+    "status": "downloaded",
+    "source": "tmdb",
+    "file": "Ariel Sharon.jpg"
+  },
+  {
+    "name": "Mahmoud Abbas",
+    "query": "Mahmoud Abbas",
+    "status": "downloaded",
+    "source": "tmdb",
+    "file": "Mahmoud Abbas.jpg"
+  },
+  {
+    "name": "Gamal Abdel Nasser",
+    "query": "Gamal Abdel Nasser",
+    "status": "downloaded",
+    "source": "tmdb",
+    "file": "Gamal Abdel Nasser.jpg"
+  },
+  {
+    "name": "Anwar Sadat",
+    "query": "Anwar Sadat",
+    "status": "downloaded",
+    "source": "wikipedia:Anwar Sadat",
+    "file": "Anwar Sadat.jpg"
+  },
+  {
+    "name": "Hosni Mubarak",
+    "query": "Hosni Mubarak",
+    "status": "downloaded",
+    "source": "tmdb",
+    "file": "Hosni Mubarak.jpg"
+  },
+  {
+    "name": "Abdel Fattah el-Sisi",
+    "query": "Abdel Fattah el-Sisi",
+    "status": "downloaded",
+    "source": "wikipedia:Abdel Fattah el-Sisi",
+    "file": "Abdel Fattah el-Sisi.jpg"
+  },
+  {
+    "name": "Abiy Ahmed",
+    "query": "Abiy Ahmed",
+    "status": "downloaded",
+    "source": "wikipedia:Abiy Ahmed",
+    "file": "Abiy Ahmed.jpg"
+  },
+  {
+    "name": "Nelson Mandela",
+    "query": "Nelson Mandela",
+    "status": "downloaded",
+    "source": "tmdb",
+    "file": "Nelson Mandela.jpg"
+  },
+  {
+    "name": "Thabo Mbeki",
+    "query": "Thabo Mbeki",
+    "status": "downloaded",
+    "source": "wikipedia:Thabo Mbeki",
+    "file": "Thabo Mbeki.jpg"
+  },
+  {
+    "name": "Jacob Zuma",
+    "query": "Jacob Zuma",
+    "status": "downloaded",
+    "source": "wikipedia:Jacob Zuma",
+    "file": "Jacob Zuma.jpg"
+  },
+  {
+    "name": "Cyril Ramaphosa",
+    "query": "Cyril Ramaphosa",
+    "status": "error",
+    "source": null,
+    "file": null,
+    "error": "429 Client Error: Too many requests (f061ab2) for url: https://upload.wikimedia.org/wikipedia/commons/5/58/21.11.2025_%E2%80%93_Presidente_da_Rep%C3%BAblica_da_%C3%81frica_do_Sul%2C_Cyril_Ramaphosa_%2854938010569%29_%28cropped%29.jpg"
+  },
+  {
+    "name": "Patrice Lumumba",
+    "query": "Patrice Lumumba",
+    "status": "downloaded",
+    "source": "tmdb",
+    "file": "Patrice Lumumba.jpg"
+  },
+  {
+    "name": "Mobutu Sese Seko",
+    "query": "Mobutu Sese Seko",
+    "status": "error",
+    "source": null,
+    "file": null,
+    "error": "429 Client Error: Too many requests (f061ab2) for url: https://upload.wikimedia.org/wikipedia/commons/0/0e/Mobutu_%28cropped%29.jpg"
+  },
+  {
+    "name": "Kwame Nkrumah",
+    "query": "Kwame Nkrumah",
+    "status": "downloaded",
+    "source": "wikipedia:Kwame Nkrumah",
+    "file": "Kwame Nkrumah.jpg"
+  },
+  {
+    "name": "Julius Nyerere",
+    "query": "Julius Nyerere",
+    "status": "downloaded",
+    "source": "tmdb",
+    "file": "Julius Nyerere.jpg"
+  },
+  {
+    "name": "Jomo Kenyatta",
+    "query": "Jomo Kenyatta",
+    "status": "downloaded",
+    "source": "tmdb",
+    "file": "Jomo Kenyatta.jpg"
+  },
+  {
+    "name": "Uhuru Kenyatta",
+    "query": "Uhuru Kenyatta",
+    "status": "error",
+    "source": null,
+    "file": null,
+    "error": "429 Client Error: Too many requests - please contact noc@wikimedia.org to discuss a less disruptive approach or instead use thumbnail images in sizes listed on https://w.wiki/GHai. (0c640b1) for url: https://upload.wikimedia.org/wikipedia/commons/e/e0/Uhuru_Kenyatta.png"
+  },
+  {
+    "name": "Robert Mugabe",
+    "query": "Robert Mugabe",
+    "status": "downloaded",
+    "source": "tmdb",
+    "file": "Robert Mugabe.jpg"
+  },
+  {
+    "name": "Paul Kagame",
+    "query": "Paul Kagame",
+    "status": "downloaded",
+    "source": "tmdb",
+    "file": "Paul Kagame.jpg"
+  },
+  {
+    "name": "Sani Abacha",
+    "query": "Sani Abacha",
+    "status": "downloaded",
+    "source": "tmdb",
+    "file": "Sani Abacha.jpg"
+  },
+  {
+    "name": "Olusegun Obasanjo",
+    "query": "Olusegun Obasanjo",
+    "status": "error",
+    "source": null,
+    "file": null,
+    "error": "429 Client Error: Too many requests - please contact noc@wikimedia.org to discuss a less disruptive approach or instead use thumbnail images in sizes listed on https://w.wiki/GHai. (0c640b1) for url: https://upload.wikimedia.org/wikipedia/commons/1/1b/Olusegun_Obasanjo_DD-SC-07-14396-cropped.jpg"
+  },
+  {
+    "name": "Muhammadu Buhari",
+    "query": "Muhammadu Buhari",
+    "status": "downloaded",
+    "source": "wikipedia:Muhammadu Buhari",
+    "file": "Muhammadu Buhari.jpg"
+  },
+  {
+    "name": "Bola Tinubu",
+    "query": "Bola Tinubu",
+    "status": "error",
+    "source": null,
+    "file": null,
+    "error": "429 Client Error: Too many requests (f061ab2) for url: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Bola_Tinubu_portrait.jpg/1280px-Bola_Tinubu_portrait.jpg"
+  },
+  {
+    "name": "Thomas Sankara",
+    "query": "Thomas Sankara",
+    "status": "downloaded",
+    "source": "tmdb",
+    "file": "Thomas Sankara.jpg"
+  },
+  {
+    "name": "Leopold Sedar Senghor",
+    "query": "Leopold Sedar Senghor",
+    "status": "downloaded",
+    "source": "tmdb",
+    "file": "Leopold Sedar Senghor.jpg"
+  },
+  {
+    "name": "Hugo Chavez",
+    "query": "Hugo Chavez",
+    "status": "downloaded",
+    "source": "tmdb",
+    "file": "Hugo Chavez.jpg"
+  },
+  {
+    "name": "Nicolas Maduro",
+    "query": "Nicolas Maduro",
+    "status": "downloaded",
+    "source": "tmdb",
+    "file": "Nicolas Maduro.jpg"
+  },
+  {
+    "name": "Simon Bolivar",
+    "query": "Simon Bolivar",
+    "status": "error",
+    "source": null,
+    "file": null,
+    "error": "429 Client Error: Too many requests (f061ab2) for url: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Sim%C3%B3n_Bol%C3%ADvar._Toro_Moreno%2C_Luis._1922%2C_Legislative_Palace%2C_La_Paz.png/1280px-Sim%C3%B3n_Bol%C3%ADvar._Toro_Moreno%2C_Luis._1922%2C_Legislative_Palace%2C_La_Paz.png"
+  },
+  {
+    "name": "Fidel Castro",
+    "query": "Fidel Castro",
+    "status": "downloaded",
+    "source": "tmdb",
+    "file": "Fidel Castro.jpg"
+  },
+  {
+    "name": "Raul Castro",
+    "query": "Raul Castro",
+    "status": "downloaded",
+    "source": "tmdb",
+    "file": "Raul Castro.jpg"
+  },
+  {
+    "name": "Che Guevara",
+    "query": "Che Guevara",
+    "status": "downloaded",
+    "source": "tmdb",
+    "file": "Che Guevara.jpg"
+  },
+  {
+    "name": "Salvador Allende",
+    "query": "Salvador Allende",
+    "status": "downloaded",
+    "source": "tmdb",
+    "file": "Salvador Allende.jpg"
+  },
+  {
+    "name": "Michelle Bachelet",
+    "query": "Michelle Bachelet",
+    "status": "downloaded",
+    "source": "tmdb",
+    "file": "Michelle Bachelet.jpg"
+  },
+  {
+    "name": "Jair Bolsonaro",
+    "query": "Jair Bolsonaro",
+    "status": "downloaded",
+    "source": "tmdb",
+    "file": "Jair Bolsonaro.jpg"
+  },
+  {
+    "name": "Luiz Inacio Lula da Silva",
+    "query": "Luiz Inacio Lula da Silva",
+    "status": "downloaded",
+    "source": "tmdb",
+    "file": "Luiz Inacio Lula da Silva.jpg"
+  },
+  {
+    "name": "Dilma Rousseff",
+    "query": "Dilma Rousseff",
+    "status": "downloaded",
+    "source": "tmdb",
+    "file": "Dilma Rousseff.jpg"
+  },
+  {
+    "name": "Getulio Vargas",
+    "query": "Getulio Vargas",
+    "status": "downloaded",
+    "source": "tmdb",
+    "file": "Getulio Vargas.jpg"
+  },
+  {
+    "name": "Juan Peron",
+    "query": "Juan Peron",
+    "status": "downloaded",
+    "source": "tmdb",
+    "file": "Juan Peron.jpg"
+  },
+  {
+    "name": "Eva Peron",
+    "query": "Eva Peron",
+    "status": "downloaded",
+    "source": "tmdb",
+    "file": "Eva Peron.jpg"
+  },
+  {
+    "name": "Cristina Fernandez de Kirchner",
+    "query": "Cristina Fernandez de Kirchner",
+    "status": "downloaded",
+    "source": "tmdb",
+    "file": "Cristina Fernandez de Kirchner.jpg"
+  },
+  {
+    "name": "Javier Milei",
+    "query": "Javier Milei",
+    "status": "downloaded",
+    "source": "tmdb",
+    "file": "Javier Milei.jpg"
+  },
+  {
+    "name": "Carlos Menem",
+    "query": "Carlos Menem",
+    "status": "error",
+    "source": null,
+    "file": null,
+    "error": "429 Client Error: Too many requests - please contact noc@wikimedia.org to discuss a less disruptive approach or instead use thumbnail images in sizes listed on https://w.wiki/GHai. (0c640b1) for url: https://upload.wikimedia.org/wikipedia/commons/1/14/Menem_con_banda_presidencial.jpg"
+  },
+  {
+    "name": "Alberto Fujimori",
+    "query": "Alberto Fujimori",
+    "status": "downloaded",
+    "source": "wikipedia:Alberto Fujimori",
+    "file": "Alberto Fujimori.jpg"
+  },
+  {
+    "name": "Pedro Castillo",
+    "query": "Pedro Castillo",
+    "status": "error",
+    "source": null,
+    "file": null,
+    "error": "429 Client Error: Too many requests - please contact noc@wikimedia.org to discuss a less disruptive approach or instead use thumbnail images in sizes listed on https://w.wiki/GHai. (0c640b1) for url: https://upload.wikimedia.org/wikipedia/commons/b/b6/President_Pedro_Castillo_1.jpg"
+  },
+  {
+    "name": "Evo Morales",
+    "query": "Evo Morales",
+    "status": "downloaded",
+    "source": "tmdb",
+    "file": "Evo Morales.jpg"
+  },
+  {
+    "name": "Rafael Correa",
+    "query": "Rafael Correa",
+    "status": "downloaded",
+    "source": "wikipedia:Rafael Correa",
+    "file": "Rafael Correa.jpg"
+  },
+  {
+    "name": "Andres Manuel Lopez Obrador",
+    "query": "Andres Manuel Lopez Obrador",
+    "status": "downloaded",
+    "source": "tmdb",
+    "file": "Andres Manuel Lopez Obrador.jpg"
+  },
+  {
+    "name": "Claudia Sheinbaum",
+    "query": "Claudia Sheinbaum",
+    "status": "downloaded",
+    "source": "tmdb",
+    "file": "Claudia Sheinbaum.jpg"
+  },
+  {
+    "name": "Enrique Pena Nieto",
+    "query": "Enrique Pena Nieto",
+    "status": "downloaded",
+    "source": "tmdb",
+    "file": "Enrique Pena Nieto.jpg"
+  },
+  {
+    "name": "Benito Juarez",
+    "query": "Benito Juarez",
+    "status": "error",
+    "source": null,
+    "file": null,
+    "error": "429 Client Error: Too many requests - please contact noc@wikimedia.org to discuss a less disruptive approach or instead use thumbnail images in sizes listed on https://w.wiki/GHai. (0c640b1) for url: https://upload.wikimedia.org/wikipedia/commons/1/10/Photograph_of_Benito_Juarez.jpg"
+  },
+  {
+    "name": "Justin Trudeau",
+    "query": "Justin Trudeau",
+    "status": "downloaded",
+    "source": "tmdb",
+    "file": "Justin Trudeau.jpg"
+  },
+  {
+    "name": "Pierre Trudeau",
+    "query": "Pierre Trudeau",
+    "status": "downloaded",
+    "source": "tmdb",
+    "file": "Pierre Trudeau.jpg"
+  },
+  {
+    "name": "Stephen Harper",
+    "query": "Stephen Harper",
+    "status": "downloaded",
+    "source": "tmdb",
+    "file": "Stephen Harper.jpg"
+  },
+  {
+    "name": "Jagmeet Singh",
+    "query": "Jagmeet Singh",
+    "status": "downloaded",
+    "source": "tmdb",
+    "file": "Jagmeet Singh.jpg"
+  },
+  {
+    "name": "Volodymyr Zelenskyy",
+    "query": "Volodymyr Zelenskyy",
+    "status": "downloaded",
+    "source": "tmdb",
+    "file": "Volodymyr Zelenskyy.jpg"
+  },
+  {
+    "name": "Viktor Orban",
+    "query": "Viktor Orban",
+    "status": "downloaded",
+    "source": "tmdb",
+    "file": "Viktor Orban.jpg"
+  },
+  {
+    "name": "Lech Walesa",
+    "query": "Lech Walesa",
+    "status": "downloaded",
+    "source": "tmdb",
+    "file": "Lech Walesa.jpg"
+  },
+  {
+    "name": "Vaclav Havel",
+    "query": "Vaclav Havel",
+    "status": "downloaded",
+    "source": "tmdb",
+    "file": "Vaclav Havel.jpg"
+  },
+  {
+    "name": "Alexander Lukashenko",
+    "query": "Alexander Lukashenko",
+    "status": "downloaded",
+    "source": "tmdb",
+    "file": "Alexander Lukashenko.jpg"
+  },
+  {
+    "name": "Nicolae Ceausescu",
+    "query": "Nicolae Ceausescu",
+    "status": "downloaded",
+    "source": "tmdb",
+    "file": "Nicolae Ceausescu.jpg"
+  },
+  {
+    "name": "Josip Broz Tito",
+    "query": "Josip Broz Tito",
+    "status": "downloaded",
+    "source": "tmdb",
+    "file": "Josip Broz Tito.jpg"
+  },
+  {
+    "name": "Franjo Tudman",
+    "query": "Franjo Tudman",
+    "status": "downloaded",
+    "source": "tmdb",
+    "file": "Franjo Tudman.jpg"
+  },
+  {
+    "name": "Enver Hoxha",
+    "query": "Enver Hoxha",
+    "status": "error",
+    "source": null,
+    "file": null,
+    "error": "429 Client Error: Too many requests - please contact noc@wikimedia.org to discuss a less disruptive approach or instead use thumbnail images in sizes listed on https://w.wiki/GHai. (0c640b1) for url: https://upload.wikimedia.org/wikipedia/commons/f/fe/Enver_Hoxha_%28portret%29.jpg"
+  },
+  {
+    "name": "Adolfo Suarez",
+    "query": "Adolfo Suarez",
+    "status": "downloaded",
+    "source": "tmdb",
+    "file": "Adolfo Suarez.jpg"
+  },
+  {
+    "name": "Pedro Sanchez",
+    "query": "Pedro Sanchez",
+    "status": "downloaded",
+    "source": "tmdb",
+    "file": "Pedro Sanchez.jpg"
+  },
+  {
+    "name": "Mariano Rajoy",
+    "query": "Mariano Rajoy",
+    "status": "downloaded",
+    "source": "tmdb",
+    "file": "Mariano Rajoy.jpg"
+  },
+  {
+    "name": "Antonio Salazar",
+    "query": "Antonio de Oliveira Salazar",
+    "status": "downloaded",
+    "source": "tmdb",
+    "file": "Antonio Salazar.jpg"
+  },
+  {
+    "name": "Marcelo Rebelo de Sousa",
+    "query": "Marcelo Rebelo de Sousa",
+    "status": "downloaded",
+    "source": "tmdb",
+    "file": "Marcelo Rebelo de Sousa.jpg"
+  },
+  {
+    "name": "António Costa",
+    "query": "Antonio Costa",
+    "status": "downloaded",
+    "source": "tmdb",
+    "file": "António Costa.jpg"
+  },
+  {
+    "name": "Mark Rutte",
+    "query": "Mark Rutte",
+    "status": "downloaded",
+    "source": "tmdb",
+    "file": "Mark Rutte.jpg"
+  },
+  {
+    "name": "Geert Wilders",
+    "query": "Geert Wilders",
+    "status": "downloaded",
+    "source": "tmdb",
+    "file": "Geert Wilders.jpg"
+  },
+  {
+    "name": "Alexander De Croo",
+    "query": "Alexander De Croo",
+    "status": "downloaded",
+    "source": "wikipedia:Alexander De Croo",
+    "file": "Alexander De Croo.jpg"
+  },
+  {
+    "name": "Bart De Wever",
+    "query": "Bart De Wever",
+    "status": "downloaded",
+    "source": "tmdb",
+    "file": "Bart De Wever.jpg"
+  },
+  {
+    "name": "Mette Frederiksen",
+    "query": "Mette Frederiksen",
+    "status": "downloaded",
+    "source": "tmdb",
+    "file": "Mette Frederiksen.jpg"
+  },
+  {
+    "name": "Olof Palme",
+    "query": "Olof Palme",
+    "status": "downloaded",
+    "source": "tmdb",
+    "file": "Olof Palme.jpg"
+  },
+  {
+    "name": "Desmond Tutu",
+    "query": "Desmond Tutu",
+    "status": "downloaded",
+    "source": "wikipedia:Desmond Tutu",
+    "file": "Desmond Tutu.jpg",
+    "error": null
+  },
+  {
+    "name": "Eleanor Roosevelt",
+    "query": "Eleanor Roosevelt",
+    "status": "downloaded",
+    "source": "wikipedia:Eleanor Roosevelt",
+    "file": "Eleanor Roosevelt.jpg",
+    "error": null
+  },
+  {
+    "name": "Kofi Annan",
+    "query": "Kofi Annan",
+    "status": "downloaded",
+    "source": "wikipedia:Kofi Annan",
+    "file": "Kofi Annan.jpg",
+    "error": null
+  },
+  {
+    "name": "Ban Ki-moon",
+    "query": "Ban Ki-moon",
+    "status": "downloaded",
+    "source": "wikipedia:Ban Ki-moon",
+    "file": "Ban Ki-moon.jpg",
+    "error": null
+  },
+  {
+    "name": "Dag Hammarskjold",
+    "query": "Dag Hammarskjold",
+    "status": "downloaded",
+    "source": "wikipedia:Dag Hammarskjöld",
+    "file": "Dag Hammarskjold.jpg",
+    "error": null
+  },
+  {
+    "name": "Ellen Johnson Sirleaf",
+    "query": "Ellen Johnson Sirleaf",
+    "status": "downloaded",
+    "source": "wikipedia:Ellen Johnson Sirleaf",
+    "file": "Ellen Johnson Sirleaf.jpg",
+    "error": null
+  },
+  {
+    "name": "Mary Robinson",
+    "query": "Mary Robinson",
+    "status": "downloaded",
+    "source": "wikipedia:Mary Robinson",
+    "file": "Mary Robinson.jpg",
+    "error": null
+  },
+  {
+    "name": "Harvey Milk",
+    "query": "Harvey Milk",
+    "status": "downloaded",
+    "source": "wikipedia:Harvey Milk",
+    "file": "Harvey Milk.jpg",
+    "error": null
+  },
+  {
+    "name": "Shirley Chisholm",
+    "query": "Shirley Chisholm",
+    "status": "downloaded",
+    "source": "wikipedia:Shirley Chisholm",
+    "file": "Shirley Chisholm.jpg",
+    "error": null
+  },
+  {
+    "name": "Jose Mujica",
+    "query": "Jose Mujica",
+    "status": "downloaded",
+    "source": "wikipedia:José Mujica",
+    "file": "Jose Mujica.jpg",
+    "error": null
+  },
+  {
+    "name": "Andrei Sakharov",
+    "query": "Andrei Sakharov",
+    "status": "downloaded",
+    "source": "wikipedia:Andrei Sakharov",
+    "file": "Andrei Sakharov.jpg",
+    "error": null
+  },
+  {
+    "name": "Cesar Chavez",
+    "query": "Cesar Chavez",
+    "status": "downloaded",
+    "source": "wikipedia:Cesar Chavez",
+    "file": "Cesar Chavez.jpg",
+    "error": null
+  },
+  {
+    "name": "Benigno Aquino Jr.",
+    "query": "Benigno Aquino Jr.",
+    "status": "downloaded",
+    "source": "wikipedia:Benigno Aquino Jr.",
+    "file": "Benigno Aquino Jr..jpg",
+    "error": null
+  },
+  {
+    "name": "Wangari Maathai",
+    "query": "Wangari Maathai",
+    "status": "downloaded",
+    "source": "wikipedia:Wangari Maathai",
+    "file": "Wangari Maathai.jpg",
+    "error": null
+  },
+  {
+    "name": "Liu Xiaobo",
+    "query": "Liu Xiaobo",
+    "status": "downloaded",
+    "source": "wikipedia:Liu Xiaobo",
+    "file": "Liu Xiaobo.png",
+    "error": null
+  },
+  {
+    "name": "Elie Wiesel",
+    "query": "Elie Wiesel",
+    "status": "downloaded",
+    "source": "copied:Elie Wiesel.png",
+    "file": "Elie Wiesel.png",
+    "error": null
+  }
+]
