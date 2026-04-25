@@ -1,0 +1,149 @@
+{"reason": "no_tmdb_match_or_no_profile", "name": "Jude Bellingham", "sport": "Football (Soccer)", "country_or_region": "England"}
+{"reason": "no_tmdb_match_or_no_profile", "name": "Vinícius Júnior", "sport": "Football (Soccer)", "country_or_region": "Brazil"}
+{"reason": "no_tmdb_match_or_no_profile", "name": "Antoine Griezmann", "sport": "Football (Soccer)", "country_or_region": "France"}
+{"reason": "no_tmdb_match_or_no_profile", "name": "Gianluigi Donnarumma", "sport": "Football (Soccer)", "country_or_region": "Italy"}
+{"reason": "no_tmdb_match_or_no_profile", "name": "Jamal Musiala", "sport": "Football (Soccer)", "country_or_region": "Germany"}
+{"reason": "no_tmdb_match_or_no_profile", "name": "Achraf Hakimi", "sport": "Football (Soccer)", "country_or_region": "Morocco"}
+{"reason": "no_tmdb_match_or_no_profile", "name": "Joel Embiid", "sport": "Basketball", "country_or_region": "Cameroon/France"}
+{"reason": "no_tmdb_match_or_no_profile", "name": "Kawhi Leonard", "sport": "Basketball", "country_or_region": "USA"}
+{"reason": "no_tmdb_match_or_no_profile", "name": "Ja Morant", "sport": "Basketball", "country_or_region": "USA"}
+{"reason": "no_tmdb_match_or_no_profile", "name": "Shai Gilgeous-Alexander", "sport": "Basketball", "country_or_region": "Canada"}
+{"reason": "no_tmdb_match_or_no_profile", "name": "Devin Booker", "sport": "Basketball", "country_or_region": "USA"}
+{"reason": "no_tmdb_match_or_no_profile", "name": "James Harden", "sport": "Basketball", "country_or_region": "USA"}
+{"reason": "no_tmdb_match_or_no_profile", "name": "Zion Williamson", "sport": "Basketball", "country_or_region": "USA"}
+{"reason": "no_tmdb_match_or_no_profile", "name": "Tyreek Hill", "sport": "American Football (NFL)", "country_or_region": "USA"}
+{"reason": "no_tmdb_match_or_no_profile", "name": "Mike Trout", "sport": "Baseball", "country_or_region": "USA"}
+{"reason": "no_tmdb_match_or_no_profile", "name": "Ronald Acuña Jr.", "sport": "Baseball", "country_or_region": "Venezuela"}
+{"reason": "no_tmdb_match_or_no_profile", "name": "Fernando Tatis Jr.", "sport": "Baseball", "country_or_region": "Dominican Republic"}
+{"reason": "no_tmdb_match_or_no_profile", "name": "Clayton Kershaw", "sport": "Baseball", "country_or_region": "USA"}
+{"reason": "no_tmdb_match_or_no_profile", "name": "Max Scherzer", "sport": "Baseball", "country_or_region": "USA"}
+{"reason": "no_tmdb_match_or_no_profile", "name": "Jacob deGrom", "sport": "Baseball", "country_or_region": "USA"}
+{"reason": "no_tmdb_match_or_no_profile", "name": "Connor McDavid", "sport": "Ice Hockey", "country_or_region": "Canada"}
+{"reason": "no_tmdb_match_or_no_profile", "name": "Auston Matthews", "sport": "Ice Hockey", "country_or_region": "USA"}
+{"reason": "no_tmdb_match_or_no_profile", "name": "Cale Makar", "sport": "Ice Hockey", "country_or_region": "Canada"}
+{"reason": "no_tmdb_match_or_no_profile", "name": "Iga Świątek", "sport": "Tennis", "country_or_region": "Poland"}
+{"reason": "no_tmdb_match_or_no_profile", "name": "Naomi Osaka", "sport": "Tennis", "country_or_region": "Japan"}
+{"reason": "no_tmdb_match_or_no_profile", "name": "Jon Rahm", "sport": "Golf", "country_or_region": "Spain"}
+{"reason": "no_tmdb_match_or_no_profile", "name": "Phil Mickelson", "sport": "Golf", "country_or_region": "USA"}
+{"reason": "no_tmdb_match_or_no_profile", "name": "Virat Kohli", "sport": "Cricket", "country_or_region": "India"}
+{"reason": "no_tmdb_match_or_no_profile", "name": "Kane Williamson", "sport": "Cricket", "country_or_region": "New Zealand"}
+{"reason": "no_tmdb_match_or_no_profile", "name": "Babar Azam", "sport": "Cricket", "country_or_region": "Pakistan"}
+{"reason": "no_tmdb_match_or_no_profile", "name": "Shakib Al Hasan", "sport": "Cricket", "country_or_region": "Bangladesh"}
+{"reason": "no_tmdb_match_or_no_profile", "name": "Steve Smith", "sport": "Cricket", "country_or_region": "Australia"}
+{"reason": "no_tmdb_match_or_no_profile", "name": "Shelly-Ann Fraser-Pryce", "sport": "Athletics (Track & Field)", "country_or_region": "Jamaica"}
+{"reason": "no_tmdb_match_or_no_profile", "name": "Elaine Thompson-Herah", "sport": "Athletics (Track & Field)", "country_or_region": "Jamaica"}
+{"reason": "no_tmdb_match_or_no_profile", "name": "Noah Lyles", "sport": "Athletics (Track & Field)", "country_or_region": "USA"}
+{"reason": "no_tmdb_match_or_no_profile", "name": "Sha'Carri Richardson", "sport": "Athletics (Track & Field)", "country_or_region": "USA"}
+{"reason": "no_tmdb_match_or_no_profile", "name": "Sydney McLaughlin-Levrone", "sport": "Athletics (Track & Field)", "country_or_region": "USA"}
+{"reason": "no_tmdb_match_or_no_profile", "name": "Faith Kipyegon", "sport": "Athletics (Track & Field)", "country_or_region": "Kenya"}
+{"reason": "no_tmdb_match_or_no_profile", "name": "Yulimar Rojas", "sport": "Athletics (Track & Field)", "country_or_region": "Venezuela"}
+{"reason": "no_tmdb_match_or_no_profile", "name": "Kohei Uchimura", "sport": "Gymnastics", "country_or_region": "Japan"}
+{"reason": "no_tmdb_match_or_no_profile", "name": "Caeleb Dressel", "sport": "Swimming", "country_or_region": "USA"}
+{"reason": "no_tmdb_match_or_no_profile", "name": "Adam Peaty", "sport": "Swimming", "country_or_region": "United Kingdom"}
+{"reason": "no_tmdb_match_or_no_profile", "name": "Tadej Pogačar", "sport": "Cycling (Road)", "country_or_region": "Slovenia"}
+{"reason": "no_tmdb_match_or_no_profile", "name": "Primož Roglič", "sport": "Cycling (Road)", "country_or_region": "Slovenia"}
+{"reason": "no_tmdb_match_or_no_profile", "name": "Caeleb \"CJ\" Cummings", "sport": "Weightlifting", "country_or_region": "USA"}
+{"reason": "no_tmdb_match_or_no_profile", "name": "Roger Federer (legacy)", "sport": "Tennis", "country_or_region": "Switzerland"}
+{"reason": "no_tmdb_match_or_no_profile", "name": "Lewis Hamilton (legacy)", "sport": "Formula 1", "country_or_region": "United Kingdom"}
+{"reason": "no_tmdb_match_or_no_profile", "name": "Cristiano Ronaldo (legacy)", "sport": "Football (Soccer)", "country_or_region": "Portugal"}
+{"reason": "no_tmdb_match_or_no_profile", "name": "Lionel Messi (legacy)", "sport": "Football (Soccer)", "country_or_region": "Argentina"}
+{"reason": "no_tmdb_match_or_no_profile", "name": "Rugby: Antoine Dupont", "sport": "Rugby Union", "country_or_region": "France"}
+{"reason": "no_tmdb_match_or_no_profile", "name": "Rugby: Siya Kolisi", "sport": "Rugby Union", "country_or_region": "South Africa"}
+{"reason": "no_tmdb_match_or_no_profile", "name": "Rugby: Beauden Barrett", "sport": "Rugby Union", "country_or_region": "New Zealand"}
+{"reason": "no_tmdb_match_or_no_profile", "name": "Badminton: Viktor Axelsen", "sport": "Badminton", "country_or_region": "Denmark"}
+{"reason": "no_tmdb_match_or_no_profile", "name": "Badminton: Carolina Marín", "sport": "Badminton", "country_or_region": "Spain"}
+{"reason": "no_tmdb_match_or_no_profile", "name": "Badminton: PV Sindhu", "sport": "Badminton", "country_or_region": "India"}
+{"reason": "no_tmdb_match_or_no_profile", "name": "Table Tennis: Ma Long", "sport": "Table Tennis", "country_or_region": "China"}
+{"reason": "no_tmdb_match_or_no_profile", "name": "Table Tennis: Fan Zhendong", "sport": "Table Tennis", "country_or_region": "China"}
+{"reason": "no_tmdb_match_or_no_profile", "name": "Table Tennis: Sun Yingsha", "sport": "Table Tennis", "country_or_region": "China"}
+{"reason": "no_tmdb_match_or_no_profile", "name": "MMA: Georges St-Pierre", "sport": "MMA", "country_or_region": "Canada"}
+{"reason": "no_tmdb_match_or_no_profile", "name": "Boxing: Muhammad Ali", "sport": "Boxing", "country_or_region": "USA"}
+{"reason": "no_tmdb_match_or_no_profile", "name": "Boxing: Mike Tyson", "sport": "Boxing", "country_or_region": "USA"}
+{"reason": "no_tmdb_match_or_no_profile", "name": "Skiing: Mikaela Shiffrin", "sport": "Alpine Skiing", "country_or_region": "USA"}
+{"reason": "no_tmdb_match_or_no_profile", "name": "Skiing: Marco Odermatt", "sport": "Alpine Skiing", "country_or_region": "Switzerland"}
+{"reason": "no_tmdb_match_or_no_profile", "name": "Snowboarding: Chloe Kim", "sport": "Snowboarding", "country_or_region": "USA"}
+{"reason": "no_tmdb_match_or_no_profile", "name": "Skateboarding: Nyjah Huston", "sport": "Skateboarding", "country_or_region": "USA"}
+{"reason": "no_tmdb_match_or_no_profile", "name": "Skateboarding: Rayssa Leal", "sport": "Skateboarding", "country_or_region": "Brazil"}
+{"reason": "no_tmdb_match_or_no_profile", "name": "Surfing: Gabriel Medina", "sport": "Surfing", "country_or_region": "Brazil"}
+{"reason": "no_tmdb_match_or_no_profile", "name": "Surfing: Stephanie Gilmore", "sport": "Surfing", "country_or_region": "Australia"}
+{"reason": "no_tmdb_match_or_no_profile", "name": "Surfing: Italo Ferreira", "sport": "Surfing", "country_or_region": "Brazil"}
+{"reason": "no_tmdb_match_or_no_profile", "name": "MMA: Anderson Silva", "sport": "MMA", "country_or_region": "Brazil"}
+{"reason": "no_tmdb_match_or_no_profile", "name": "MMA: Kamaru Usman", "sport": "MMA", "country_or_region": "Nigeria"}
+{"reason": "no_tmdb_match_or_no_profile", "name": "MMA: Francis Ngannou", "sport": "MMA", "country_or_region": "Cameroon"}
+{"reason": "no_tmdb_match_or_no_profile", "name": "Football (Soccer): Alexia Putellas", "sport": "Football (Soccer)", "country_or_region": "Spain"}
+{"reason": "no_tmdb_match_or_no_profile", "name": "Football (Soccer): Aitana Bonmatí", "sport": "Football (Soccer)", "country_or_region": "Spain"}
+{"reason": "no_tmdb_match_or_no_profile", "name": "Football (Soccer): Sam Kerr", "sport": "Football (Soccer)", "country_or_region": "Australia"}
+{"reason": "no_tmdb_match_or_no_profile", "name": "Football (Soccer): Megan Rapinoe", "sport": "Football (Soccer)", "country_or_region": "USA"}
+{"reason": "no_tmdb_match_or_no_profile", "name": "Football (Soccer): Marta", "sport": "Football (Soccer)", "country_or_region": "Brazil"}
+{"reason": "no_tmdb_match_or_no_profile", "name": "Sprinting: Allyson Felix", "sport": "Athletics (Track & Field)", "country_or_region": "USA"}
+{"reason": "no_tmdb_match_or_no_profile", "name": "Distance: Kenenisa Bekele", "sport": "Athletics (Distance/Marathon)", "country_or_region": "Ethiopia"}
+{"reason": "no_tmdb_match_or_no_profile", "name": "Motorsport: Valentino Rossi", "sport": "MotoGP", "country_or_region": "Italy"}
+{"reason": "no_tmdb_match_or_no_profile", "name": "Motorsport: Marc Márquez", "sport": "MotoGP", "country_or_region": "Spain"}
+{"reason": "no_tmdb_match_or_no_profile", "name": "Boxing: Vasyl Lomachenko", "sport": "Boxing", "country_or_region": "Ukraine"}
+{"reason": "no_tmdb_match_or_no_profile", "name": "Boxing: Deontay Wilder", "sport": "Boxing", "country_or_region": "USA"}
+{"reason": "no_tmdb_match_or_no_profile", "name": "NBA: Nikola Jokić (alt spelling)", "sport": "Basketball", "country_or_region": "Serbia"}
+{"reason": "no_tmdb_match_or_no_profile", "name": "NFL: Justin Jefferson", "sport": "American Football (NFL)", "country_or_region": "USA"}
+{"reason": "no_tmdb_match_or_no_profile", "name": "NFL: Christian McCaffrey", "sport": "American Football (NFL)", "country_or_region": "USA"}
+{"reason": "no_tmdb_match_or_no_profile", "name": "Chess: Magnus Carlsen", "sport": "Chess", "country_or_region": "Norway"}
+{"reason": "no_tmdb_match_or_no_profile", "name": "Esports: Faker (Lee Sang-hyeok)", "sport": "Esports (League of Legends)", "country_or_region": "South Korea"}
+{"reason": "no_tmdb_match_or_no_profile", "name": "Esports: s1mple (Oleksandr Kostyliev)", "sport": "Esports (CS:GO/CS2)", "country_or_region": "Ukraine"}
+{"reason": "no_tmdb_match_or_no_profile", "name": "Esports: N0tail (Johan Sundstein)", "sport": "Esports (Dota 2)", "country_or_region": "Denmark"}
+{"reason": "no_tmdb_match_or_no_profile", "name": "Esports: Bugha (Kyle Giersdorf)", "sport": "Esports (Fortnite)", "country_or_region": "USA"}
+{"reason": "no_tmdb_match_or_no_profile", "name": "Snooker: Ronnie O'Sullivan", "sport": "Snooker", "country_or_region": "United Kingdom"}
+{"reason": "no_tmdb_match_or_no_profile", "name": "Darts: Michael van Gerwen", "sport": "Darts", "country_or_region": "Netherlands"}
+{"reason": "no_tmdb_match_or_no_profile", "name": "Sailing: Ben Ainslie", "sport": "Sailing", "country_or_region": "United Kingdom"}
+{"reason": "no_tmdb_match_or_no_profile", "name": "Rowing: Hamish Bond", "sport": "Rowing", "country_or_region": "New Zealand"}
+{"reason": "no_tmdb_match_or_no_profile", "name": "Judo: Teddy Riner", "sport": "Judo", "country_or_region": "France"}
+{"reason": "no_tmdb_match_or_no_profile", "name": "Taekwondo: Jade Jones", "sport": "Taekwondo", "country_or_region": "United Kingdom"}
+{"reason": "no_tmdb_match_or_no_profile", "name": "Fencing: Aron Szilágyi", "sport": "Fencing", "country_or_region": "Hungary"}
+{"reason": "no_tmdb_match_or_no_profile", "name": "Climbing: Janja Garnbret", "sport": "Sport Climbing", "country_or_region": "Slovenia"}
+{"reason": "no_tmdb_match_or_no_profile", "name": "Triathlon: Alistair Brownlee", "sport": "Triathlon", "country_or_region": "United Kingdom"}
+{"reason": "no_tmdb_match_or_no_profile", "name": "Triathlon: Flora Duffy", "sport": "Triathlon", "country_or_region": "Bermuda"}
+{"reason": "no_tmdb_match_or_no_profile", "name": "Handball: Mikkel Hansen", "sport": "Handball", "country_or_region": "Denmark"}
+{"reason": "no_tmdb_match_or_no_profile", "name": "Volleyball: Karch Kiraly", "sport": "Volleyball", "country_or_region": "USA"}
+{"reason": "no_tmdb_match_or_no_profile", "name": "Volleyball: Earvin Ngapeth", "sport": "Volleyball", "country_or_region": "France"}
+{"reason": "no_tmdb_match_or_no_profile", "name": "Racing: Eli Tomac", "sport": "Motocross/Supercross", "country_or_region": "USA"}
+{"reason": "no_tmdb_match_or_no_profile", "name": "Strongman: Hafþór Júlíus Björnsson", "sport": "Strongman", "country_or_region": "Iceland"}
+{"reason": "no_tmdb_match_or_no_profile", "name": "CrossFit: Tia-Clair Toomey", "sport": "CrossFit", "country_or_region": "Australia"}
+{"reason": "no_tmdb_match_or_no_profile", "name": "Bodybuilding: Arnold Schwarzenegger", "sport": "Bodybuilding", "country_or_region": "Austria/USA"}
+{"reason": "no_tmdb_match_or_no_profile", "name": "Boxing: Manny Pacquiao (legacy)", "sport": "Boxing", "country_or_region": "Philippines"}
+{"reason": "no_tmdb_match_or_no_profile", "name": "Boxing: Floyd Mayweather Jr. (legacy)", "sport": "Boxing", "country_or_region": "USA"}
+{"reason": "no_tmdb_match_or_no_profile", "name": "Cycling: Eddy Merckx", "sport": "Cycling", "country_or_region": "Belgium"}
+{"reason": "no_tmdb_match_or_no_profile", "name": "Tennis: Steffi Graf", "sport": "Tennis", "country_or_region": "Germany"}
+{"reason": "no_tmdb_match_or_no_profile", "name": "Tennis: Martina Navratilova", "sport": "Tennis", "country_or_region": "USA/Czech Republic"}
+{"reason": "no_tmdb_match_or_no_profile", "name": "Tennis: Billie Jean King", "sport": "Tennis", "country_or_region": "USA"}
+{"reason": "no_tmdb_match_or_no_profile", "name": "Golf: Jack Nicklaus", "sport": "Golf", "country_or_region": "USA"}
+{"reason": "no_tmdb_match_or_no_profile", "name": "Golf: Tiger Woods (legacy)", "sport": "Golf", "country_or_region": "USA"}
+{"reason": "no_tmdb_match_or_no_profile", "name": "Swimming: Michael Phelps (legacy)", "sport": "Swimming", "country_or_region": "USA"}
+{"reason": "no_tmdb_match_or_no_profile", "name": "Athletics: Carl Lewis", "sport": "Athletics (Track & Field)", "country_or_region": "USA"}
+{"reason": "no_tmdb_match_or_no_profile", "name": "Athletics: Jesse Owens", "sport": "Athletics (Track & Field)", "country_or_region": "USA"}
+{"reason": "no_tmdb_match_or_no_profile", "name": "Basketball: Kareem Abdul-Jabbar", "sport": "Basketball", "country_or_region": "USA"}
+{"reason": "no_tmdb_match_or_no_profile", "name": "Basketball: Wilt Chamberlain", "sport": "Basketball", "country_or_region": "USA"}
+{"reason": "no_tmdb_match_or_no_profile", "name": "Basketball: Bill Russell", "sport": "Basketball", "country_or_region": "USA"}
+{"reason": "no_tmdb_match_or_no_profile", "name": "Football (Soccer): George Best", "sport": "Football (Soccer)", "country_or_region": "Northern Ireland"}
+{"reason": "no_tmdb_match_or_no_profile", "name": "Football (Soccer): Franz Beckenbauer", "sport": "Football (Soccer)", "country_or_region": "Germany"}
+{"reason": "no_tmdb_match_or_no_profile", "name": "Football (Soccer): Paolo Maldini", "sport": "Football (Soccer)", "country_or_region": "Italy"}
+{"reason": "no_tmdb_match_or_no_profile", "name": "Football (Soccer): Buffon", "sport": "Football (Soccer)", "country_or_region": "Italy"}
+{"reason": "no_tmdb_match_or_no_profile", "name": "Football (Soccer): David Beckham", "sport": "Football (Soccer)", "country_or_region": "England"}
+{"reason": "no_tmdb_match_or_no_profile", "name": "NBA: Michael Jordan (legacy)", "sport": "Basketball", "country_or_region": "USA"}
+{"reason": "no_tmdb_match_or_no_profile", "name": "Boxing: Sugar Ray Leonard", "sport": "Boxing", "country_or_region": "USA"}
+{"reason": "no_tmdb_match_or_no_profile", "name": "Boxing: Roberto Durán", "sport": "Boxing", "country_or_region": "Panama"}
+{"reason": "no_tmdb_match_or_no_profile", "name": "Boxing: Julio César Chávez", "sport": "Boxing", "country_or_region": "Mexico"}
+{"reason": "no_tmdb_match_or_no_profile", "name": "Cricket: Brian Lara", "sport": "Cricket", "country_or_region": "Trinidad and Tobago"}
+{"reason": "no_tmdb_match_or_no_profile", "name": "Cricket: Shane Warne", "sport": "Cricket", "country_or_region": "Australia"}
+{"reason": "no_tmdb_match_or_no_profile", "name": "Cricket: Wasim Akram", "sport": "Cricket", "country_or_region": "Pakistan"}
+{"reason": "no_tmdb_match_or_no_profile", "name": "Cricket: Muttiah Muralitharan", "sport": "Cricket", "country_or_region": "Sri Lanka"}
+{"reason": "no_tmdb_match_or_no_profile", "name": "F1: Alain Prost", "sport": "Formula 1", "country_or_region": "France"}
+{"reason": "no_tmdb_match_or_no_profile", "name": "F1: Sebastian Vettel", "sport": "Formula 1", "country_or_region": "Germany"}
+{"reason": "no_tmdb_match_or_no_profile", "name": "F1: Nigel Mansell", "sport": "Formula 1", "country_or_region": "United Kingdom"}
+{"reason": "no_tmdb_match_or_no_profile", "name": "Rugby League: Cameron Smith", "sport": "Rugby League", "country_or_region": "Australia"}
+{"reason": "no_tmdb_match_or_no_profile", "name": "Rugby Union: Richie McCaw", "sport": "Rugby Union", "country_or_region": "New Zealand"}
+{"reason": "no_tmdb_match_or_no_profile", "name": "Rugby Union: Jonny Wilkinson", "sport": "Rugby Union", "country_or_region": "United Kingdom"}
+{"reason": "no_tmdb_match_or_no_profile", "name": "MMA: Demetrious Johnson", "sport": "MMA", "country_or_region": "USA"}
+{"reason": "no_tmdb_match_or_no_profile", "name": "MMA: Daniel Cormier", "sport": "MMA", "country_or_region": "USA"}
+{"reason": "no_tmdb_match_or_no_profile", "name": "MMA: Joanna Jędrzejczyk", "sport": "MMA", "country_or_region": "Poland"}
+{"reason": "no_tmdb_match_or_no_profile", "name": "MMA: Rose Namajunas", "sport": "MMA", "country_or_region": "USA"}
+{"reason": "no_tmdb_match_or_no_profile", "name": "Basketball: Kevin Garnett", "sport": "Basketball", "country_or_region": "USA"}
+{"reason": "no_tmdb_match_or_no_profile", "name": "Basketball: Dirk Nowitzki", "sport": "Basketball", "country_or_region": "Germany"}
+{"reason": "no_tmdb_match_or_no_profile", "name": "Basketball: Hakeem Olajuwon", "sport": "Basketball", "country_or_region": "Nigeria/USA"}
+{"reason": "no_tmdb_match_or_no_profile", "name": "Basketball: Allen Iverson", "sport": "Basketball", "country_or_region": "USA"}
