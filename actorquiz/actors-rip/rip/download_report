@@ -1,0 +1,1626 @@
+[
+  {
+    "name": "Robin Williams",
+    "query": "Robin Williams",
+    "status": "downloaded",
+    "source": "wikipedia:Robin Williams",
+    "file": "Robin Williams.jpg",
+    "error": null
+  },
+  {
+    "name": "Heath Ledger",
+    "query": "Heath Ledger",
+    "status": "downloaded",
+    "source": "wikipedia:Heath Ledger",
+    "file": "Heath Ledger.jpg",
+    "error": null
+  },
+  {
+    "name": "Philip Seymour Hoffman",
+    "query": "Philip Seymour Hoffman",
+    "status": "downloaded",
+    "source": "wikipedia:Philip Seymour Hoffman",
+    "file": "Philip Seymour Hoffman.jpg",
+    "error": null
+  },
+  {
+    "name": "James Dean",
+    "query": "James Dean",
+    "status": "downloaded",
+    "source": "wikipedia:James Dean",
+    "file": "James Dean.jpg",
+    "error": null
+  },
+  {
+    "name": "Marlon Brando",
+    "query": "Marlon Brando",
+    "status": "downloaded",
+    "source": "wikipedia:Marlon Brando",
+    "file": "Marlon Brando.png",
+    "error": null
+  },
+  {
+    "name": "Paul Newman",
+    "query": "Paul Newman",
+    "status": "downloaded",
+    "source": "wikipedia:Paul Newman",
+    "file": "Paul Newman.jpg",
+    "error": null
+  },
+  {
+    "name": "Humphrey Bogart",
+    "query": "Humphrey Bogart",
+    "status": "downloaded",
+    "source": "wikipedia:Humphrey Bogart",
+    "file": "Humphrey Bogart.jpg",
+    "error": null
+  },
+  {
+    "name": "Cary Grant",
+    "query": "Cary Grant",
+    "status": "downloaded",
+    "source": "wikipedia:Cary Grant",
+    "file": "Cary Grant.jpg",
+    "error": null
+  },
+  {
+    "name": "Audrey Hepburn",
+    "query": "Audrey Hepburn",
+    "status": "downloaded",
+    "source": "wikipedia:Audrey Hepburn",
+    "file": "Audrey Hepburn.jpg",
+    "error": null
+  },
+  {
+    "name": "Katharine Hepburn",
+    "query": "Katharine Hepburn",
+    "status": "downloaded",
+    "source": "wikipedia:Katharine Hepburn",
+    "file": "Katharine Hepburn.jpg",
+    "error": null
+  },
+  {
+    "name": "Bette Davis",
+    "query": "Bette Davis",
+    "status": "downloaded",
+    "source": "wikipedia:Bette Davis",
+    "file": "Bette Davis.jpg",
+    "error": null
+  },
+  {
+    "name": "Ingrid Bergman",
+    "query": "Ingrid Bergman",
+    "status": "downloaded",
+    "source": "wikipedia:Ingrid Bergman",
+    "file": "Ingrid Bergman.jpg",
+    "error": null
+  },
+  {
+    "name": "Grace Kelly",
+    "query": "Grace Kelly",
+    "status": "downloaded",
+    "source": "wikipedia:Grace Kelly",
+    "file": "Grace Kelly.jpg",
+    "error": null
+  },
+  {
+    "name": "Peter Sellers",
+    "query": "Peter Sellers",
+    "status": "downloaded",
+    "source": "wikipedia:Peter Sellers",
+    "file": "Peter Sellers.jpg",
+    "error": null
+  },
+  {
+    "name": "Gene Wilder",
+    "query": "Gene Wilder",
+    "status": "downloaded",
+    "source": "wikipedia:Gene Wilder",
+    "file": "Gene Wilder.jpg",
+    "error": null
+  },
+  {
+    "name": "John Belushi",
+    "query": "John Belushi",
+    "status": "downloaded",
+    "source": "wikipedia:John Belushi",
+    "file": "John Belushi.jpg",
+    "error": null
+  },
+  {
+    "name": "Chris Farley",
+    "query": "Chris Farley",
+    "status": "downloaded",
+    "source": "wikipedia:Chris Farley",
+    "file": "Chris Farley.jpg",
+    "error": null
+  },
+  {
+    "name": "John Candy",
+    "query": "John Candy",
+    "status": "downloaded",
+    "source": "wikipedia:John Candy",
+    "file": "John Candy.jpg",
+    "error": null
+  },
+  {
+    "name": "Paul Walker",
+    "query": "Paul Walker",
+    "status": "downloaded",
+    "source": "wikipedia:Paul Walker",
+    "file": "Paul Walker.jpg",
+    "error": null
+  },
+  {
+    "name": "Chadwick Boseman",
+    "query": "Chadwick Boseman",
+    "status": "downloaded",
+    "source": "wikipedia:Chadwick Boseman",
+    "file": "Chadwick Boseman.jpg",
+    "error": null
+  },
+  {
+    "name": "River Phoenix",
+    "query": "River Phoenix",
+    "status": "downloaded",
+    "source": "wikipedia:River Phoenix",
+    "file": "River Phoenix.jpg",
+    "error": null
+  },
+  {
+    "name": "Phil Hartman",
+    "query": "Phil Hartman",
+    "status": "downloaded",
+    "source": "wikipedia:Phil Hartman",
+    "file": "Phil Hartman.jpg",
+    "error": null
+  },
+  {
+    "name": "John Ritter",
+    "query": "John Ritter",
+    "status": "downloaded",
+    "source": "wikipedia:John Ritter",
+    "file": "John Ritter.jpg",
+    "error": null
+  },
+  {
+    "name": "Peter O'Toole",
+    "query": "Peter O'Toole actor",
+    "status": "downloaded",
+    "source": "wikipedia:Peter O'Toole",
+    "file": "Peter O'Toole.jpg",
+    "error": null
+  },
+  {
+    "name": "Richard Burton",
+    "query": "Richard Burton",
+    "status": "downloaded",
+    "source": "wikipedia:Richard Burton",
+    "file": "Richard Burton.jpg",
+    "error": null
+  },
+  {
+    "name": "Kirk Douglas",
+    "query": "Kirk Douglas",
+    "status": "downloaded",
+    "source": "wikipedia:Kirk Douglas",
+    "file": "Kirk Douglas.jpg",
+    "error": null
+  },
+  {
+    "name": "Jack Lemmon",
+    "query": "Jack Lemmon",
+    "status": "downloaded",
+    "source": "wikipedia:Jack Lemmon",
+    "file": "Jack Lemmon.jpg",
+    "error": null
+  },
+  {
+    "name": "Steve McQueen",
+    "query": "Steve McQueen",
+    "status": "downloaded",
+    "source": "wikipedia:Steve McQueen",
+    "file": "Steve McQueen.jpg",
+    "error": null
+  },
+  {
+    "name": "Elizabeth Taylor",
+    "query": "Elizabeth Taylor",
+    "status": "downloaded",
+    "source": "wikipedia:Elizabeth Taylor",
+    "file": "Elizabeth Taylor.jpg",
+    "error": null
+  },
+  {
+    "name": "Vivien Leigh",
+    "query": "Vivien Leigh",
+    "status": "downloaded",
+    "source": "wikipedia:Vivien Leigh",
+    "file": "Vivien Leigh.jpg",
+    "error": null
+  },
+  {
+    "name": "Rita Hayworth",
+    "query": "Rita Hayworth",
+    "status": "downloaded",
+    "source": "wikipedia:Rita Hayworth",
+    "file": "Rita Hayworth.jpg",
+    "error": null
+  },
+  {
+    "name": "Spencer Tracy",
+    "query": "Spencer Tracy",
+    "status": "downloaded",
+    "source": "wikipedia:Spencer Tracy",
+    "file": "Spencer Tracy.jpg",
+    "error": null
+  },
+  {
+    "name": "Clark Gable",
+    "query": "Clark Gable",
+    "status": "downloaded",
+    "source": "wikipedia:Clark Gable",
+    "file": "Clark Gable.jpg",
+    "error": null
+  },
+  {
+    "name": "Peter Falk",
+    "query": "Peter Falk",
+    "status": "downloaded",
+    "source": "wikipedia:Peter Falk",
+    "file": "Peter Falk.jpg",
+    "error": null
+  },
+  {
+    "name": "Farrah Fawcett",
+    "query": "Farrah Fawcett",
+    "status": "downloaded",
+    "source": "wikipedia:Farrah Fawcett",
+    "file": "Farrah Fawcett.jpg",
+    "error": null
+  },
+  {
+    "name": "Patrick Swayze",
+    "query": "Patrick Swayze",
+    "status": "downloaded",
+    "source": "wikipedia:Patrick Swayze",
+    "file": "Patrick Swayze.jpg",
+    "error": null
+  },
+  {
+    "name": "James Gandolfini",
+    "query": "James Gandolfini",
+    "status": "downloaded",
+    "source": "wikipedia:James Gandolfini",
+    "file": "James Gandolfini.jpg",
+    "error": null
+  },
+  {
+    "name": "Christopher Reeve",
+    "query": "Christopher Reeve",
+    "status": "downloaded",
+    "source": "wikipedia:Christopher Reeve",
+    "file": "Christopher Reeve.jpg",
+    "error": null
+  },
+  {
+    "name": "Luke Perry",
+    "query": "Luke Perry",
+    "status": "downloaded",
+    "source": "wikipedia:Luke Perry",
+    "file": "Luke Perry.jpg",
+    "error": null
+  },
+  {
+    "name": "Sidney Poitier",
+    "query": "Sidney Poitier",
+    "status": "downloaded",
+    "source": "wikipedia:Sidney Poitier",
+    "file": "Sidney Poitier.jpg",
+    "error": null
+  },
+  {
+    "name": "Betty White",
+    "query": "Betty White",
+    "status": "downloaded",
+    "source": "wikipedia:Betty White",
+    "file": "Betty White.jpg",
+    "error": null
+  },
+  {
+    "name": "Leslie Nielsen",
+    "query": "Leslie Nielsen",
+    "status": "downloaded",
+    "source": "wikipedia:Leslie Nielsen",
+    "file": "Leslie Nielsen.jpg",
+    "error": null
+  },
+  {
+    "name": "Tony Curtis",
+    "query": "Tony Curtis",
+    "status": "downloaded",
+    "source": "wikipedia:Tony Curtis",
+    "file": "Tony Curtis.jpg",
+    "error": null
+  },
+  {
+    "name": "Lauren Bacall",
+    "query": "Lauren Bacall",
+    "status": "downloaded",
+    "source": "wikipedia:Lauren Bacall",
+    "file": "Lauren Bacall.jpg",
+    "error": null
+  },
+  {
+    "name": "Montgomery Clift",
+    "query": "Montgomery Clift",
+    "status": "downloaded",
+    "source": "wikipedia:Montgomery Clift",
+    "file": "Montgomery Clift.jpg",
+    "error": null
+  },
+  {
+    "name": "Ava Gardner",
+    "query": "Ava Gardner",
+    "status": "downloaded",
+    "source": "wikipedia:Ava Gardner",
+    "file": "Ava Gardner.jpg",
+    "error": null
+  },
+  {
+    "name": "Marlene Dietrich",
+    "query": "Marlene Dietrich",
+    "status": "downloaded",
+    "source": "wikipedia:Marlene Dietrich",
+    "file": "Marlene Dietrich.png",
+    "error": null
+  },
+  {
+    "name": "Natasha Richardson",
+    "query": "Natasha Richardson",
+    "status": "downloaded",
+    "source": "wikipedia:Natasha Richardson",
+    "file": "Natasha Richardson.jpg",
+    "error": null
+  },
+  {
+    "name": "Anton Yelchin",
+    "query": "Anton Yelchin",
+    "status": "downloaded",
+    "source": "wikipedia:Anton Yelchin",
+    "file": "Anton Yelchin.jpg",
+    "error": null
+  },
+  {
+    "name": "Brittany Murphy",
+    "query": "Brittany Murphy",
+    "status": "downloaded",
+    "source": "wikipedia:Brittany Murphy",
+    "file": "Brittany Murphy.jpg",
+    "error": null
+  },
+  {
+    "name": "Harold Ramis",
+    "query": "Harold Ramis",
+    "status": "downloaded",
+    "source": "wikipedia:Harold Ramis",
+    "file": "Harold Ramis.jpg",
+    "error": null
+  },
+  {
+    "name": "Michael Clarke Duncan",
+    "query": "Michael Clarke Duncan",
+    "status": "downloaded",
+    "source": "wikipedia:Michael Clarke Duncan",
+    "file": "Michael Clarke Duncan.jpg",
+    "error": null
+  },
+  {
+    "name": "Corey Monteith",
+    "query": "Corey Monteith",
+    "status": "downloaded",
+    "source": "wikipedia:Cory Monteith",
+    "file": "Corey Monteith.jpg",
+    "error": null
+  },
+  {
+    "name": "Anna Nicole Smith",
+    "query": "Anna Nicole Smith",
+    "status": "downloaded",
+    "source": "wikipedia:Anna Nicole Smith",
+    "file": "Anna Nicole Smith.jpg",
+    "error": null
+  },
+  {
+    "name": "Bob Hope",
+    "query": "Bob Hope",
+    "status": "downloaded",
+    "source": "wikipedia:Bob Hope",
+    "file": "Bob Hope.jpg",
+    "error": null
+  },
+  {
+    "name": "Jerry Lewis",
+    "query": "Jerry Lewis",
+    "status": "downloaded",
+    "source": "wikipedia:Jerry Lewis",
+    "file": "Jerry Lewis.jpg",
+    "error": null
+  },
+  {
+    "name": "George Carlin",
+    "query": "George Carlin",
+    "status": "downloaded",
+    "source": "wikipedia:George Carlin",
+    "file": "George Carlin.jpg",
+    "error": null
+  },
+  {
+    "name": "Richard Pryor",
+    "query": "Richard Pryor",
+    "status": "downloaded",
+    "source": "wikipedia:Richard Pryor",
+    "file": "Richard Pryor.png",
+    "error": null
+  },
+  {
+    "name": "Joan Rivers",
+    "query": "Joan Rivers",
+    "status": "downloaded",
+    "source": "wikipedia:Joan Rivers",
+    "file": "Joan Rivers.jpg",
+    "error": null
+  },
+  {
+    "name": "Gilda Radner",
+    "query": "Gilda Radner",
+    "status": "downloaded",
+    "source": "wikipedia:Gilda Radner",
+    "file": "Gilda Radner.jpg",
+    "error": null
+  },
+  {
+    "name": "Sam Kinison",
+    "query": "Sam Kinison",
+    "status": "downloaded",
+    "source": "wikipedia:Sam Kinison",
+    "file": "Sam Kinison.jpg",
+    "error": null
+  },
+  {
+    "name": "Mitch Hedberg",
+    "query": "Mitch Hedberg",
+    "status": "downloaded",
+    "source": "wikipedia:Mitch Hedberg",
+    "file": "Mitch Hedberg.jpg",
+    "error": null
+  },
+  {
+    "name": "Bill Hicks",
+    "query": "Bill Hicks",
+    "status": "downloaded",
+    "source": "wikipedia:Bill Hicks",
+    "file": "Bill Hicks.jpg",
+    "error": null
+  },
+  {
+    "name": "Bernie Mac",
+    "query": "Bernie Mac",
+    "status": "downloaded",
+    "source": "wikipedia:Bernie Mac",
+    "file": "Bernie Mac.jpg",
+    "error": null
+  },
+  {
+    "name": "Andy Kaufman",
+    "query": "Andy Kaufman",
+    "status": "downloaded",
+    "source": "wikipedia:Andy Kaufman",
+    "file": "Andy Kaufman.jpg",
+    "error": null
+  },
+  {
+    "name": "Rodney Dangerfield",
+    "query": "Rodney Dangerfield",
+    "status": "downloaded",
+    "source": "wikipedia:Rodney Dangerfield",
+    "file": "Rodney Dangerfield.jpg",
+    "error": null
+  },
+  {
+    "name": "Don Rickles",
+    "query": "Don Rickles",
+    "status": "downloaded",
+    "source": "wikipedia:Don Rickles",
+    "file": "Don Rickles.jpg",
+    "error": null
+  },
+  {
+    "name": "Lucille Ball",
+    "query": "Lucille Ball",
+    "status": "downloaded",
+    "source": "wikipedia:Lucille Ball",
+    "file": "Lucille Ball.jpg",
+    "error": null
+  },
+  {
+    "name": "Michael Jackson",
+    "query": "Michael Jackson",
+    "status": "downloaded",
+    "source": "wikipedia:Michael Jackson",
+    "file": "Michael Jackson.jpg",
+    "error": null
+  },
+  {
+    "name": "Elvis Presley",
+    "query": "Elvis Presley",
+    "status": "downloaded",
+    "source": "wikipedia:Elvis Presley",
+    "file": "Elvis Presley.jpg",
+    "error": null
+  },
+  {
+    "name": "John Lennon",
+    "query": "John Lennon",
+    "status": "downloaded",
+    "source": "wikipedia:John Lennon",
+    "file": "John Lennon.jpg",
+    "error": null
+  },
+  {
+    "name": "Freddie Mercury",
+    "query": "Freddie Mercury",
+    "status": "downloaded",
+    "source": "wikipedia:Freddie Mercury",
+    "file": "Freddie Mercury.jpg",
+    "error": null
+  },
+  {
+    "name": "Kurt Cobain",
+    "query": "Kurt Cobain",
+    "status": "downloaded",
+    "source": "wikipedia:Kurt Cobain",
+    "file": "Kurt Cobain.jpg",
+    "error": null
+  },
+  {
+    "name": "Amy Winehouse",
+    "query": "Amy Winehouse",
+    "status": "downloaded",
+    "source": "wikipedia:Amy Winehouse",
+    "file": "Amy Winehouse.jpg",
+    "error": null
+  },
+  {
+    "name": "Whitney Houston",
+    "query": "Whitney Houston",
+    "status": "downloaded",
+    "source": "wikipedia:Whitney Houston",
+    "file": "Whitney Houston.jpg",
+    "error": null
+  },
+  {
+    "name": "David Bowie",
+    "query": "David Bowie",
+    "status": "downloaded",
+    "source": "wikipedia:David Bowie",
+    "file": "David Bowie.jpg",
+    "error": null
+  },
+  {
+    "name": "Prince",
+    "query": "Prince musician",
+    "status": "downloaded",
+    "source": "wikipedia:Prince (musician)",
+    "file": "Prince.png",
+    "error": null
+  },
+  {
+    "name": "Jimi Hendrix",
+    "query": "Jimi Hendrix",
+    "status": "downloaded",
+    "source": "wikipedia:Jimi Hendrix",
+    "file": "Jimi Hendrix.jpg",
+    "error": null
+  },
+  {
+    "name": "Janis Joplin",
+    "query": "Janis Joplin",
+    "status": "downloaded",
+    "source": "wikipedia:Janis Joplin",
+    "file": "Janis Joplin.jpg",
+    "error": null
+  },
+  {
+    "name": "Jim Morrison",
+    "query": "Jim Morrison",
+    "status": "downloaded",
+    "source": "wikipedia:Jim Morrison",
+    "file": "Jim Morrison.jpg",
+    "error": null
+  },
+  {
+    "name": "Bob Marley",
+    "query": "Bob Marley",
+    "status": "downloaded",
+    "source": "wikipedia:Bob Marley",
+    "file": "Bob Marley.jpg",
+    "error": null
+  },
+  {
+    "name": "Frank Sinatra",
+    "query": "Frank Sinatra",
+    "status": "downloaded",
+    "source": "wikipedia:Frank Sinatra",
+    "file": "Frank Sinatra.jpg",
+    "error": null
+  },
+  {
+    "name": "Nat King Cole",
+    "query": "Nat King Cole",
+    "status": "downloaded",
+    "source": "wikipedia:Nat King Cole",
+    "file": "Nat King Cole.jpg",
+    "error": null
+  },
+  {
+    "name": "Louis Armstrong",
+    "query": "Louis Armstrong",
+    "status": "downloaded",
+    "source": "wikipedia:Louis Armstrong",
+    "file": "Louis Armstrong.jpg",
+    "error": null
+  },
+  {
+    "name": "Ray Charles",
+    "query": "Ray Charles",
+    "status": "downloaded",
+    "source": "wikipedia:Ray Charles",
+    "file": "Ray Charles.jpg",
+    "error": null
+  },
+  {
+    "name": "Tupac Shakur",
+    "query": "Tupac Shakur",
+    "status": "downloaded",
+    "source": "wikipedia:Tupac Shakur",
+    "file": "Tupac Shakur.jpg",
+    "error": null
+  },
+  {
+    "name": "The Notorious B.I.G.",
+    "query": "Notorious BIG rapper",
+    "status": "downloaded",
+    "source": "wikipedia:The Notorious B.I.G.",
+    "file": "The Notorious B.I.G..jpg",
+    "error": null
+  },
+  {
+    "name": "Mac Miller",
+    "query": "Mac Miller",
+    "status": "downloaded",
+    "source": "wikipedia:Mac Miller",
+    "file": "Mac Miller.jpg",
+    "error": null
+  },
+  {
+    "name": "Juice WRLD",
+    "query": "Juice WRLD",
+    "status": "downloaded",
+    "source": "wikipedia:Juice Wrld",
+    "file": "Juice WRLD.jpg",
+    "error": null
+  },
+  {
+    "name": "Tom Petty",
+    "query": "Tom Petty",
+    "status": "downloaded",
+    "source": "wikipedia:Tom Petty",
+    "file": "Tom Petty.jpg",
+    "error": null
+  },
+  {
+    "name": "George Michael",
+    "query": "George Michael",
+    "status": "downloaded",
+    "source": "wikipedia:George Michael",
+    "file": "George Michael.jpg",
+    "error": null
+  },
+  {
+    "name": "Avicii",
+    "query": "Avicii",
+    "status": "downloaded",
+    "source": "wikipedia:Avicii",
+    "file": "Avicii.jpg",
+    "error": null
+  },
+  {
+    "name": "Eddie Van Halen",
+    "query": "Eddie Van Halen",
+    "status": "downloaded",
+    "source": "wikipedia:Eddie Van Halen",
+    "file": "Eddie Van Halen.jpg",
+    "error": null
+  },
+  {
+    "name": "Chuck Berry",
+    "query": "Chuck Berry",
+    "status": "downloaded",
+    "source": "wikipedia:Chuck Berry",
+    "file": "Chuck Berry.jpg",
+    "error": null
+  },
+  {
+    "name": "Little Richard",
+    "query": "Little Richard",
+    "status": "downloaded",
+    "source": "wikipedia:Little Richard",
+    "file": "Little Richard.jpg",
+    "error": null
+  },
+  {
+    "name": "Johnny Cash",
+    "query": "Johnny Cash",
+    "status": "downloaded",
+    "source": "wikipedia:Johnny Cash",
+    "file": "Johnny Cash.jpg",
+    "error": null
+  },
+  {
+    "name": "Buddy Holly",
+    "query": "Buddy Holly",
+    "status": "downloaded",
+    "source": "wikipedia:Buddy Holly",
+    "file": "Buddy Holly.jpg",
+    "error": null
+  },
+  {
+    "name": "Otis Redding",
+    "query": "Otis Redding",
+    "status": "downloaded",
+    "source": "wikipedia:Otis Redding",
+    "file": "Otis Redding.jpg",
+    "error": null
+  },
+  {
+    "name": "Sam Cooke",
+    "query": "Sam Cooke",
+    "status": "downloaded",
+    "source": "wikipedia:Sam Cooke",
+    "file": "Sam Cooke.jpg",
+    "error": null
+  },
+  {
+    "name": "Marvin Gaye",
+    "query": "Marvin Gaye",
+    "status": "downloaded",
+    "source": "wikipedia:Marvin Gaye",
+    "file": "Marvin Gaye.jpg",
+    "error": null
+  },
+  {
+    "name": "Aaliyah",
+    "query": "Aaliyah",
+    "status": "downloaded",
+    "source": "wikipedia:Aaliyah",
+    "file": "Aaliyah.jpg",
+    "error": null
+  },
+  {
+    "name": "Selena Quintanilla",
+    "query": "Selena Quintanilla",
+    "status": "downloaded",
+    "source": "wikipedia:Selena",
+    "file": "Selena Quintanilla.png",
+    "error": null
+  },
+  {
+    "name": "Jeff Buckley",
+    "query": "Jeff Buckley",
+    "status": "downloaded",
+    "source": "wikipedia:Jeff Buckley",
+    "file": "Jeff Buckley.jpg",
+    "error": null
+  },
+  {
+    "name": "Dimebag Darrell",
+    "query": "Dimebag Darrell",
+    "status": "downloaded",
+    "source": "wikipedia:Dimebag Darrell",
+    "file": "Dimebag Darrell.jpg",
+    "error": null
+  },
+  {
+    "name": "Layne Staley",
+    "query": "Layne Staley",
+    "status": "downloaded",
+    "source": "wikipedia:Layne Staley",
+    "file": "Layne Staley.jpg",
+    "error": null
+  },
+  {
+    "name": "Chris Cornell",
+    "query": "Chris Cornell",
+    "status": "downloaded",
+    "source": "wikipedia:Chris Cornell",
+    "file": "Chris Cornell.jpg",
+    "error": null
+  },
+  {
+    "name": "Chester Bennington",
+    "query": "Chester Bennington",
+    "status": "downloaded",
+    "source": "wikipedia:Chester Bennington",
+    "file": "Chester Bennington.jpg",
+    "error": null
+  },
+  {
+    "name": "Keith Moon",
+    "query": "Keith Moon",
+    "status": "downloaded",
+    "source": "wikipedia:Keith Moon",
+    "file": "Keith Moon.jpg",
+    "error": null
+  },
+  {
+    "name": "Karen Carpenter",
+    "query": "Karen Carpenter",
+    "status": "downloaded",
+    "source": "wikipedia:Karen Carpenter",
+    "file": "Karen Carpenter.png",
+    "error": null
+  },
+  {
+    "name": "Glenn Frey",
+    "query": "Glenn Frey",
+    "status": "downloaded",
+    "source": "wikipedia:Glenn Frey",
+    "file": "Glenn Frey.jpg",
+    "error": null
+  },
+  {
+    "name": "Donna Summer",
+    "query": "Donna Summer",
+    "status": "downloaded",
+    "source": "wikipedia:Donna Summer",
+    "file": "Donna Summer.jpg",
+    "error": null
+  },
+  {
+    "name": "Barry White",
+    "query": "Barry White",
+    "status": "downloaded",
+    "source": "wikipedia:Barry White",
+    "file": "Barry White.jpg",
+    "error": null
+  },
+  {
+    "name": "Luther Vandross",
+    "query": "Luther Vandross",
+    "status": "downloaded",
+    "source": "wikipedia:Luther Vandross",
+    "file": "Luther Vandross.jpg",
+    "error": null
+  },
+  {
+    "name": "MF DOOM",
+    "query": "MF DOOM rapper",
+    "status": "downloaded",
+    "source": "wikipedia:MF Doom",
+    "file": "MF DOOM.jpg",
+    "error": null
+  },
+  {
+    "name": "Nipsey Hussle",
+    "query": "Nipsey Hussle",
+    "status": "downloaded",
+    "source": "wikipedia:Nipsey Hussle",
+    "file": "Nipsey Hussle.jpg",
+    "error": null
+  },
+  {
+    "name": "XXXTentacion",
+    "query": "XXXTentacion",
+    "status": "downloaded",
+    "source": "wikipedia:XXXTentacion",
+    "file": "XXXTentacion.jpg",
+    "error": null
+  },
+  {
+    "name": "Lil Peep",
+    "query": "Lil Peep",
+    "status": "downloaded",
+    "source": "wikipedia:Lil Peep",
+    "file": "Lil Peep.png",
+    "error": null
+  },
+  {
+    "name": "Patsy Cline",
+    "query": "Patsy Cline",
+    "status": "downloaded",
+    "source": "wikipedia:Patsy Cline",
+    "file": "Patsy Cline.jpg",
+    "error": null
+  },
+  {
+    "name": "Hank Williams",
+    "query": "Hank Williams",
+    "status": "downloaded",
+    "source": "wikipedia:Hank Williams",
+    "file": "Hank Williams.jpg",
+    "error": null
+  },
+  {
+    "name": "Lisa Lopes",
+    "query": "Lisa Left Eye Lopes TLC",
+    "status": "downloaded",
+    "source": "wikipedia:Lisa Lopes",
+    "file": "Lisa Lopes.jpg",
+    "error": null
+  },
+  {
+    "name": "Syd Barrett",
+    "query": "Syd Barrett",
+    "status": "downloaded",
+    "source": "wikipedia:Syd Barrett",
+    "file": "Syd Barrett.jpg",
+    "error": null
+  },
+  {
+    "name": "Ian Curtis",
+    "query": "Ian Curtis",
+    "status": "downloaded",
+    "source": "wikipedia:Ian Curtis",
+    "file": "Ian Curtis.jpg",
+    "error": null
+  },
+  {
+    "name": "Bon Scott",
+    "query": "Bon Scott",
+    "status": "downloaded",
+    "source": "wikipedia:Bon Scott",
+    "file": "Bon Scott.jpg",
+    "error": null
+  },
+  {
+    "name": "Pop Smoke",
+    "query": "Pop Smoke",
+    "status": "downloaded",
+    "source": "wikipedia:Pop Smoke",
+    "file": "Pop Smoke.jpg",
+    "error": null
+  },
+  {
+    "name": "Scott Weiland",
+    "query": "Scott Weiland",
+    "status": "downloaded",
+    "source": "wikipedia:Scott Weiland",
+    "file": "Scott Weiland.jpg",
+    "error": null
+  },
+  {
+    "name": "Mama Cass Elliot",
+    "query": "Mama Cass Elliot",
+    "status": "downloaded",
+    "source": "wikipedia:Cass Elliot",
+    "file": "Mama Cass Elliot.jpg",
+    "error": null
+  },
+  {
+    "name": "Isaac Hayes",
+    "query": "Isaac Hayes",
+    "status": "downloaded",
+    "source": "wikipedia:Isaac Hayes",
+    "file": "Isaac Hayes.jpg",
+    "error": null
+  },
+  {
+    "name": "Eartha Kitt",
+    "query": "Eartha Kitt",
+    "status": "downloaded",
+    "source": "wikipedia:Eartha Kitt",
+    "file": "Eartha Kitt.jpg",
+    "error": null
+  },
+  {
+    "name": "Michael Hutchence",
+    "query": "Michael Hutchence",
+    "status": "downloaded",
+    "source": "wikipedia:Michael Hutchence",
+    "file": "Michael Hutchence.jpg",
+    "error": null
+  },
+  {
+    "name": "Glenn Miller",
+    "query": "Glenn Miller",
+    "status": "downloaded",
+    "source": "wikipedia:Glenn Miller",
+    "file": "Glenn Miller.jpg",
+    "error": null
+  },
+  {
+    "name": "John Denver",
+    "query": "John Denver",
+    "status": "downloaded",
+    "source": "wikipedia:John Denver",
+    "file": "John Denver.jpg",
+    "error": null
+  },
+  {
+    "name": "Jim Croce",
+    "query": "Jim Croce",
+    "status": "downloaded",
+    "source": "wikipedia:Jim Croce",
+    "file": "Jim Croce.jpg",
+    "error": null
+  },
+  {
+    "name": "Ritchie Valens",
+    "query": "Ritchie Valens",
+    "status": "downloaded",
+    "source": "wikipedia:Ritchie Valens",
+    "file": "Ritchie Valens.jpg",
+    "error": null
+  },
+  {
+    "name": "Billie Holiday",
+    "query": "Billie Holiday",
+    "status": "downloaded",
+    "source": "wikipedia:Billie Holiday",
+    "file": "Billie Holiday.jpg",
+    "error": null
+  },
+  {
+    "name": "Charlie Parker",
+    "query": "Charlie Parker",
+    "status": "downloaded",
+    "source": "wikipedia:Charlie Parker",
+    "file": "Charlie Parker.jpg",
+    "error": null
+  },
+  {
+    "name": "Miles Davis",
+    "query": "Miles Davis",
+    "status": "downloaded",
+    "source": "wikipedia:Miles Davis",
+    "file": "Miles Davis.jpg",
+    "error": null
+  },
+  {
+    "name": "John Coltrane",
+    "query": "John Coltrane",
+    "status": "downloaded",
+    "source": "wikipedia:John Coltrane",
+    "file": "John Coltrane.jpg",
+    "error": null
+  },
+  {
+    "name": "James Brown",
+    "query": "James Brown",
+    "status": "downloaded",
+    "source": "wikipedia:James Brown",
+    "file": "James Brown.jpg",
+    "error": null
+  },
+  {
+    "name": "Ike Turner",
+    "query": "Ike Turner",
+    "status": "downloaded",
+    "source": "wikipedia:Ike Turner",
+    "file": "Ike Turner.jpg",
+    "error": null
+  },
+  {
+    "name": "Joey Ramone",
+    "query": "Joey Ramone",
+    "status": "downloaded",
+    "source": "wikipedia:Joey Ramone",
+    "file": "Joey Ramone.jpg",
+    "error": null
+  },
+  {
+    "name": "Sid Vicious",
+    "query": "Sid Vicious",
+    "status": "downloaded",
+    "source": "wikipedia:Sid Vicious",
+    "file": "Sid Vicious.jpg",
+    "error": null
+  },
+  {
+    "name": "Muhammad Ali",
+    "query": "Muhammad Ali",
+    "status": "downloaded",
+    "source": "wikipedia:Muhammad Ali",
+    "file": "Muhammad Ali.jpg",
+    "error": null
+  },
+  {
+    "name": "Kobe Bryant",
+    "query": "Kobe Bryant",
+    "status": "downloaded",
+    "source": "wikipedia:Kobe Bryant",
+    "file": "Kobe Bryant.jpg",
+    "error": null
+  },
+  {
+    "name": "Ayrton Senna",
+    "query": "Ayrton Senna",
+    "status": "downloaded",
+    "source": "wikipedia:Ayrton Senna",
+    "file": "Ayrton Senna.jpg",
+    "error": null
+  },
+  {
+    "name": "Diego Maradona",
+    "query": "Diego Maradona",
+    "status": "downloaded",
+    "source": "wikipedia:Diego Maradona",
+    "file": "Diego Maradona.jpg",
+    "error": null
+  },
+  {
+    "name": "Johan Cruyff",
+    "query": "Johan Cruyff",
+    "status": "downloaded",
+    "source": "wikipedia:Johan Cruyff",
+    "file": "Johan Cruyff.jpg",
+    "error": null
+  },
+  {
+    "name": "Pele",
+    "query": "Pele footballer",
+    "status": "downloaded",
+    "source": "wikipedia:Pelé",
+    "file": "Pele.jpg",
+    "error": null
+  },
+  {
+    "name": "George Best",
+    "query": "George Best",
+    "status": "downloaded",
+    "source": "wikipedia:George Best",
+    "file": "George Best.jpg",
+    "error": null
+  },
+  {
+    "name": "Roberto Clemente",
+    "query": "Roberto Clemente",
+    "status": "downloaded",
+    "source": "wikipedia:Roberto Clemente",
+    "file": "Roberto Clemente.jpg",
+    "error": null
+  },
+  {
+    "name": "Dale Earnhardt",
+    "query": "Dale Earnhardt",
+    "status": "downloaded",
+    "source": "wikipedia:Dale Earnhardt",
+    "file": "Dale Earnhardt.jpg",
+    "error": null
+  },
+  {
+    "name": "Bruce Lee",
+    "query": "Bruce Lee",
+    "status": "downloaded",
+    "source": "wikipedia:Bruce Lee",
+    "file": "Bruce Lee.jpg",
+    "error": null
+  },
+  {
+    "name": "Babe Ruth",
+    "query": "Babe Ruth",
+    "status": "downloaded",
+    "source": "wikipedia:Babe Ruth",
+    "file": "Babe Ruth.jpg",
+    "error": null
+  },
+  {
+    "name": "Jesse Owens",
+    "query": "Jesse Owens",
+    "status": "downloaded",
+    "source": "wikipedia:Jesse Owens",
+    "file": "Jesse Owens.jpg",
+    "error": null
+  },
+  {
+    "name": "Jackie Robinson",
+    "query": "Jackie Robinson",
+    "status": "downloaded",
+    "source": "wikipedia:Jackie Robinson",
+    "file": "Jackie Robinson.jpg",
+    "error": null
+  },
+  {
+    "name": "Wilt Chamberlain",
+    "query": "Wilt Chamberlain",
+    "status": "downloaded",
+    "source": "wikipedia:Wilt Chamberlain",
+    "file": "Wilt Chamberlain.jpg",
+    "error": null
+  },
+  {
+    "name": "Florence Griffith Joyner",
+    "query": "Florence Griffith Joyner",
+    "status": "downloaded",
+    "source": "wikipedia:Florence Griffith Joyner",
+    "file": "Florence Griffith Joyner.jpg",
+    "error": null
+  },
+  {
+    "name": "Joe DiMaggio",
+    "query": "Joe DiMaggio",
+    "status": "downloaded",
+    "source": "wikipedia:Joe DiMaggio",
+    "file": "Joe DiMaggio.jpg",
+    "error": null
+  },
+  {
+    "name": "Mickey Mantle",
+    "query": "Mickey Mantle",
+    "status": "downloaded",
+    "source": "wikipedia:Mickey Mantle",
+    "file": "Mickey Mantle.jpg",
+    "error": null
+  },
+  {
+    "name": "Thurman Munson",
+    "query": "Thurman Munson",
+    "status": "downloaded",
+    "source": "wikipedia:Thurman Munson",
+    "file": "Thurman Munson.jpg",
+    "error": null
+  },
+  {
+    "name": "Shane Warne",
+    "query": "Shane Warne",
+    "status": "downloaded",
+    "source": "wikipedia:Shane Warne",
+    "file": "Shane Warne.jpg",
+    "error": null
+  },
+  {
+    "name": "Seve Ballesteros",
+    "query": "Seve Ballesteros",
+    "status": "downloaded",
+    "source": "wikipedia:Seve Ballesteros",
+    "file": "Seve Ballesteros.jpg",
+    "error": null
+  },
+  {
+    "name": "Gordon Banks",
+    "query": "Gordon Banks",
+    "status": "downloaded",
+    "source": "wikipedia:Gordon Banks",
+    "file": "Gordon Banks.jpg",
+    "error": null
+  },
+  {
+    "name": "Jim Thorpe",
+    "query": "Jim Thorpe",
+    "status": "downloaded",
+    "source": "wikipedia:Jim Thorpe",
+    "file": "Jim Thorpe.jpg",
+    "error": null
+  },
+  {
+    "name": "Wilma Rudolph",
+    "query": "Wilma Rudolph",
+    "status": "downloaded",
+    "source": "wikipedia:Wilma Rudolph",
+    "file": "Wilma Rudolph.jpg",
+    "error": null
+  },
+  {
+    "name": "Emiliano Sala",
+    "query": "Emiliano Sala",
+    "status": "downloaded",
+    "source": "wikipedia:Emiliano Sala",
+    "file": "Emiliano Sala.jpg",
+    "error": null
+  },
+  {
+    "name": "Reggie White",
+    "query": "Reggie White",
+    "status": "downloaded",
+    "source": "wikipedia:Reggie White",
+    "file": "Reggie White.jpg",
+    "error": null
+  },
+  {
+    "name": "Walter Payton",
+    "query": "Walter Payton",
+    "status": "downloaded",
+    "source": "wikipedia:Walter Payton",
+    "file": "Walter Payton.jpg",
+    "error": null
+  },
+  {
+    "name": "Vince Lombardi",
+    "query": "Vince Lombardi",
+    "status": "downloaded",
+    "source": "wikipedia:Vince Lombardi",
+    "file": "Vince Lombardi.jpg",
+    "error": null
+  },
+  {
+    "name": "Roberto Duran",
+    "query": "Roberto Duran",
+    "status": "downloaded",
+    "source": "wikipedia:Roberto Durán",
+    "file": "Roberto Duran.png",
+    "error": null
+  },
+  {
+    "name": "Enzo Ferrari",
+    "query": "Enzo Ferrari",
+    "status": "downloaded",
+    "source": "wikipedia:Enzo Ferrari",
+    "file": "Enzo Ferrari.jpg",
+    "error": null
+  },
+  {
+    "name": "Alfred Hitchcock",
+    "query": "Alfred Hitchcock",
+    "status": "downloaded",
+    "source": "wikipedia:Alfred Hitchcock",
+    "file": "Alfred Hitchcock.jpg",
+    "error": null
+  },
+  {
+    "name": "Stanley Kubrick",
+    "query": "Stanley Kubrick",
+    "status": "downloaded",
+    "source": "wikipedia:Stanley Kubrick",
+    "file": "Stanley Kubrick.jpg",
+    "error": null
+  },
+  {
+    "name": "Ingmar Bergman",
+    "query": "Ingmar Bergman",
+    "status": "downloaded",
+    "source": "wikipedia:Ingmar Bergman",
+    "file": "Ingmar Bergman.jpg",
+    "error": null
+  },
+  {
+    "name": "Federico Fellini",
+    "query": "Federico Fellini",
+    "status": "downloaded",
+    "source": "wikipedia:Federico Fellini",
+    "file": "Federico Fellini.jpg",
+    "error": null
+  },
+  {
+    "name": "Akira Kurosawa",
+    "query": "Akira Kurosawa",
+    "status": "downloaded",
+    "source": "wikipedia:Akira Kurosawa",
+    "file": "Akira Kurosawa.jpg",
+    "error": null
+  },
+  {
+    "name": "Billy Wilder",
+    "query": "Billy Wilder",
+    "status": "downloaded",
+    "source": "wikipedia:Billy Wilder",
+    "file": "Billy Wilder.jpg",
+    "error": null
+  },
+  {
+    "name": "Orson Welles",
+    "query": "Orson Welles",
+    "status": "downloaded",
+    "source": "wikipedia:Orson Welles",
+    "file": "Orson Welles.jpg",
+    "error": null
+  },
+  {
+    "name": "Bob Fosse",
+    "query": "Bob Fosse",
+    "status": "downloaded",
+    "source": "wikipedia:Bob Fosse",
+    "file": "Bob Fosse.jpg",
+    "error": null
+  },
+  {
+    "name": "John Hughes",
+    "query": "John Hughes",
+    "status": "downloaded",
+    "source": "tmdb",
+    "file": "John Hughes.jpg",
+    "error": null
+  },
+  {
+    "name": "Carroll O'Connor",
+    "query": "Carroll O'Connor actor",
+    "status": "downloaded",
+    "source": "wikipedia:Carroll O'Connor",
+    "file": "Carroll O'Connor.jpg",
+    "error": null
+  },
+  {
+    "name": "Mary Tyler Moore",
+    "query": "Mary Tyler Moore",
+    "status": "downloaded",
+    "source": "wikipedia:Mary Tyler Moore",
+    "file": "Mary Tyler Moore.jpg",
+    "error": null
+  },
+  {
+    "name": "Andy Griffith",
+    "query": "Andy Griffith",
+    "status": "downloaded",
+    "source": "wikipedia:Andy Griffith",
+    "file": "Andy Griffith.jpg",
+    "error": null
+  },
+  {
+    "name": "Don Knotts",
+    "query": "Don Knotts",
+    "status": "downloaded",
+    "source": "wikipedia:Don Knotts",
+    "file": "Don Knotts.jpg",
+    "error": null
+  },
+  {
+    "name": "Johnny Carson",
+    "query": "Johnny Carson",
+    "status": "downloaded",
+    "source": "wikipedia:Johnny Carson",
+    "file": "Johnny Carson.jpg",
+    "error": null
+  },
+  {
+    "name": "Gene Roddenberry",
+    "query": "Gene Roddenberry",
+    "status": "downloaded",
+    "source": "wikipedia:Gene Roddenberry",
+    "file": "Gene Roddenberry.jpg",
+    "error": null
+  },
+  {
+    "name": "Alex Trebek",
+    "query": "Alex Trebek",
+    "status": "downloaded",
+    "source": "wikipedia:Alex Trebek",
+    "file": "Alex Trebek.jpg",
+    "error": null
+  },
+  {
+    "name": "Walter Cronkite",
+    "query": "Walter Cronkite",
+    "status": "downloaded",
+    "source": "wikipedia:Walter Cronkite",
+    "file": "Walter Cronkite.jpg",
+    "error": null
+  },
+  {
+    "name": "Roger Ebert",
+    "query": "Roger Ebert",
+    "status": "downloaded",
+    "source": "wikipedia:Roger Ebert",
+    "file": "Roger Ebert.jpg",
+    "error": null
+  },
+  {
+    "name": "Gianni Versace",
+    "query": "Gianni Versace",
+    "status": "downloaded",
+    "source": "wikipedia:Gianni Versace",
+    "file": "Gianni Versace.jpg",
+    "error": null
+  },
+  {
+    "name": "Alexander McQueen",
+    "query": "Alexander McQueen",
+    "status": "downloaded",
+    "source": "wikipedia:Alexander McQueen",
+    "file": "Alexander McQueen.jpg",
+    "error": null
+  },
+  {
+    "name": "Yves Saint Laurent",
+    "query": "Yves Saint Laurent",
+    "status": "downloaded",
+    "source": "tmdb",
+    "file": "Yves Saint Laurent.jpg",
+    "error": null
+  },
+  {
+    "name": "Bob Ross",
+    "query": "Bob Ross",
+    "status": "downloaded",
+    "source": "wikipedia:Bob Ross",
+    "file": "Bob Ross.png",
+    "error": null
+  },
+  {
+    "name": "Marilyn Monroe",
+    "query": "Marilyn Monroe",
+    "status": "downloaded",
+    "source": "wikipedia:Marilyn Monroe",
+    "file": "Marilyn Monroe.jpg",
+    "error": null
+  },
+  {
+    "name": "Josephine Baker",
+    "query": "Josephine Baker",
+    "status": "downloaded",
+    "source": "wikipedia:Josephine Baker",
+    "file": "Josephine Baker.jpg",
+    "error": null
+  },
+  {
+    "name": "Bettie Page",
+    "query": "Bettie Page",
+    "status": "downloaded",
+    "source": "wikipedia:Bettie Page",
+    "file": "Bettie Page.jpg",
+    "error": null
+  },
+  {
+    "name": "Gia Carangi",
+    "query": "Gia Carangi",
+    "status": "downloaded",
+    "source": "wikipedia:Gia Carangi",
+    "file": "Gia Carangi.jpg",
+    "error": null
+  },
+  {
+    "name": "Bob Barker",
+    "query": "Bob Barker",
+    "status": "downloaded",
+    "source": "wikipedia:Bob Barker",
+    "file": "Bob Barker.jpg",
+    "error": null
+  },
+  {
+    "name": "Larry King",
+    "query": "Larry King",
+    "status": "downloaded",
+    "source": "wikipedia:Larry King",
+    "file": "Larry King.jpg",
+    "error": null
+  },
+  {
+    "name": "Peter Jennings",
+    "query": "Peter Jennings",
+    "status": "downloaded",
+    "source": "wikipedia:Peter Jennings",
+    "file": "Peter Jennings.jpg",
+    "error": null
+  },
+  {
+    "name": "Ed McMahon",
+    "query": "Ed McMahon",
+    "status": "downloaded",
+    "source": "wikipedia:Ed McMahon",
+    "file": "Ed McMahon.jpg",
+    "error": null
+  },
+  {
+    "name": "Milton Berle",
+    "query": "Milton Berle",
+    "status": "downloaded",
+    "source": "wikipedia:Milton Berle",
+    "file": "Milton Berle.jpg",
+    "error": null
+  },
+  {
+    "name": "Sid Caesar",
+    "query": "Sid Caesar",
+    "status": "downloaded",
+    "source": "wikipedia:Sid Caesar",
+    "file": "Sid Caesar.jpg",
+    "error": null
+  },
+  {
+    "name": "Bea Arthur",
+    "query": "Bea Arthur",
+    "status": "downloaded",
+    "source": "wikipedia:Bea Arthur",
+    "file": "Bea Arthur.jpg",
+    "error": null
+  }
+]
