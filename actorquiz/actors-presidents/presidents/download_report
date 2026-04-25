@@ -1,0 +1,362 @@
+[
+  {
+    "name": "George Washington",
+    "query": "George Washington",
+    "status": "downloaded",
+    "source": "wikipedia:George Washington",
+    "file": "George Washington.jpg",
+    "error": null
+  },
+  {
+    "name": "John Adams",
+    "query": "John Adams",
+    "status": "downloaded",
+    "source": "wikipedia:John Adams",
+    "file": "John Adams.jpg",
+    "error": null
+  },
+  {
+    "name": "Thomas Jefferson",
+    "query": "Thomas Jefferson",
+    "status": "downloaded",
+    "source": "wikipedia:Thomas Jefferson",
+    "file": "Thomas Jefferson.jpg",
+    "error": null
+  },
+  {
+    "name": "James Madison",
+    "query": "James Madison",
+    "status": "downloaded",
+    "source": "wikipedia:James Madison",
+    "file": "James Madison.jpg",
+    "error": null
+  },
+  {
+    "name": "James Monroe",
+    "query": "James Monroe",
+    "status": "downloaded",
+    "source": "wikipedia:James Monroe",
+    "file": "James Monroe.jpg",
+    "error": null
+  },
+  {
+    "name": "John Quincy Adams",
+    "query": "John Quincy Adams",
+    "status": "downloaded",
+    "source": "wikipedia:John Quincy Adams",
+    "file": "John Quincy Adams.jpg",
+    "error": null
+  },
+  {
+    "name": "Andrew Jackson",
+    "query": "Andrew Jackson",
+    "status": "downloaded",
+    "source": "wikipedia:Andrew Jackson",
+    "file": "Andrew Jackson.jpg",
+    "error": null
+  },
+  {
+    "name": "Martin Van Buren",
+    "query": "Martin Van Buren",
+    "status": "downloaded",
+    "source": "wikidata:Q11820",
+    "file": "Martin Van Buren.jpg",
+    "error": null
+  },
+  {
+    "name": "William Henry Harrison",
+    "query": "William Henry Harrison",
+    "status": "downloaded",
+    "source": "wikipedia:William Henry Harrison",
+    "file": "William Henry Harrison.jpg",
+    "error": null
+  },
+  {
+    "name": "John Tyler",
+    "query": "John Tyler",
+    "status": "downloaded",
+    "source": "wikidata:Q11881",
+    "file": "John Tyler.jpg",
+    "error": null
+  },
+  {
+    "name": "James K. Polk",
+    "query": "James K. Polk",
+    "status": "downloaded",
+    "source": "wikipedia:James K. Polk",
+    "file": "James K. Polk.jpg",
+    "error": null
+  },
+  {
+    "name": "Zachary Taylor",
+    "query": "Zachary Taylor",
+    "status": "downloaded",
+    "source": "wikidata:Q11896",
+    "file": "Zachary Taylor.jpg",
+    "error": null
+  },
+  {
+    "name": "Millard Fillmore",
+    "query": "Millard Fillmore",
+    "status": "downloaded",
+    "source": "wikipedia:Millard Fillmore",
+    "file": "Millard Fillmore.jpg",
+    "error": null
+  },
+  {
+    "name": "Franklin Pierce",
+    "query": "Franklin Pierce",
+    "status": "downloaded",
+    "source": "wikipedia:Franklin Pierce",
+    "file": "Franklin Pierce.jpg",
+    "error": null
+  },
+  {
+    "name": "James Buchanan",
+    "query": "James Buchanan",
+    "status": "downloaded",
+    "source": "wikipedia:James Buchanan",
+    "file": "James Buchanan.jpg",
+    "error": null
+  },
+  {
+    "name": "Abraham Lincoln",
+    "query": "Abraham Lincoln",
+    "status": "downloaded",
+    "source": "wikidata:Q91",
+    "file": "Abraham Lincoln.jpg",
+    "error": null
+  },
+  {
+    "name": "Andrew Johnson",
+    "query": "Andrew Johnson",
+    "status": "downloaded",
+    "source": "wikidata:Q8612",
+    "file": "Andrew Johnson.jpg",
+    "error": null
+  },
+  {
+    "name": "Ulysses S. Grant",
+    "query": "Ulysses S. Grant",
+    "status": "downloaded",
+    "source": "wikidata:Q34836",
+    "file": "Ulysses S. Grant.jpg",
+    "error": null
+  },
+  {
+    "name": "Rutherford B. Hayes",
+    "query": "Rutherford B. Hayes",
+    "status": "downloaded",
+    "source": "wikidata:Q35686",
+    "file": "Rutherford B. Hayes.jpg",
+    "error": null
+  },
+  {
+    "name": "James A. Garfield",
+    "query": "James A. Garfield",
+    "status": "downloaded",
+    "source": "wikidata:Q34597",
+    "file": "James A. Garfield.jpg",
+    "error": null
+  },
+  {
+    "name": "Chester A. Arthur",
+    "query": "Chester A. Arthur",
+    "status": "downloaded",
+    "source": "wikidata:Q35498",
+    "file": "Chester A. Arthur.jpg",
+    "error": null
+  },
+  {
+    "name": "Grover Cleveland",
+    "query": "Grover Cleveland",
+    "status": "downloaded",
+    "source": "wikidata:Q35171",
+    "file": "Grover Cleveland.jpg",
+    "error": null
+  },
+  {
+    "name": "Benjamin Harrison",
+    "query": "Benjamin Harrison",
+    "status": "downloaded",
+    "source": "wikidata:Q35678",
+    "file": "Benjamin Harrison.jpg",
+    "error": null
+  },
+  {
+    "name": "William McKinley",
+    "query": "William McKinley",
+    "status": "downloaded",
+    "source": "wikidata:Q35041",
+    "file": "William McKinley.jpg",
+    "error": null
+  },
+  {
+    "name": "Theodore Roosevelt",
+    "query": "Theodore Roosevelt",
+    "status": "downloaded",
+    "source": "wikidata:Q33866",
+    "file": "Theodore Roosevelt.jpg",
+    "error": null
+  },
+  {
+    "name": "William Howard Taft",
+    "query": "William Howard Taft",
+    "status": "downloaded",
+    "source": "wikidata:Q35648",
+    "file": "William Howard Taft.jpg",
+    "error": null
+  },
+  {
+    "name": "Woodrow Wilson",
+    "query": "Woodrow Wilson",
+    "status": "downloaded",
+    "source": "wikidata:Q34296",
+    "file": "Woodrow Wilson.jpg",
+    "error": null
+  },
+  {
+    "name": "Warren G. Harding",
+    "query": "Warren G. Harding",
+    "status": "downloaded",
+    "source": "wikidata:Q35286",
+    "file": "Warren G. Harding.jpg",
+    "error": null
+  },
+  {
+    "name": "Calvin Coolidge",
+    "query": "Calvin Coolidge",
+    "status": "downloaded",
+    "source": "wikidata:Q36023",
+    "file": "Calvin Coolidge.jpg",
+    "error": null
+  },
+  {
+    "name": "Herbert Hoover",
+    "query": "Herbert Hoover",
+    "status": "downloaded",
+    "source": "wikidata:Q35236",
+    "file": "Herbert Hoover.jpg",
+    "error": null
+  },
+  {
+    "name": "Franklin D. Roosevelt",
+    "query": "Franklin D. Roosevelt",
+    "status": "downloaded",
+    "source": "wikidata:Q8007",
+    "file": "Franklin D. Roosevelt.jpg",
+    "error": null
+  },
+  {
+    "name": "Harry S. Truman",
+    "query": "Harry S. Truman",
+    "status": "downloaded",
+    "source": "wikidata:Q11613",
+    "file": "Harry S. Truman.jpg",
+    "error": null
+  },
+  {
+    "name": "Dwight D. Eisenhower",
+    "query": "Dwight D. Eisenhower",
+    "status": "downloaded",
+    "source": "wikidata:Q9916",
+    "file": "Dwight D. Eisenhower.jpg",
+    "error": null
+  },
+  {
+    "name": "John F. Kennedy",
+    "query": "John F. Kennedy",
+    "status": "downloaded",
+    "source": "wikidata:Q9696",
+    "file": "John F. Kennedy.jpg",
+    "error": null
+  },
+  {
+    "name": "Lyndon B. Johnson",
+    "query": "Lyndon B. Johnson",
+    "status": "downloaded",
+    "source": "wikidata:Q9640",
+    "file": "Lyndon B. Johnson.jpg",
+    "error": null
+  },
+  {
+    "name": "Richard Nixon",
+    "query": "Richard Nixon",
+    "status": "downloaded",
+    "source": "wikidata:Q9588",
+    "file": "Richard Nixon.jpg",
+    "error": null
+  },
+  {
+    "name": "Gerald Ford",
+    "query": "Gerald Ford",
+    "status": "downloaded",
+    "source": "wikidata:Q9582",
+    "file": "Gerald Ford.jpg",
+    "error": null
+  },
+  {
+    "name": "Jimmy Carter",
+    "query": "Jimmy Carter",
+    "status": "downloaded",
+    "source": "wikidata:Q23685",
+    "file": "Jimmy Carter.jpg",
+    "error": null
+  },
+  {
+    "name": "Ronald Reagan",
+    "query": "Ronald Reagan",
+    "status": "downloaded",
+    "source": "wikidata:Q9960",
+    "file": "Ronald Reagan.jpg",
+    "error": null
+  },
+  {
+    "name": "George H. W. Bush",
+    "query": "George H. W. Bush",
+    "status": "downloaded",
+    "source": "wikidata:Q23505",
+    "file": "George H. W. Bush.jpg",
+    "error": null
+  },
+  {
+    "name": "Bill Clinton",
+    "query": "Bill Clinton",
+    "status": "downloaded",
+    "source": "wikidata:Q1124",
+    "file": "Bill Clinton.jpg",
+    "error": null
+  },
+  {
+    "name": "George W. Bush",
+    "query": "George W. Bush",
+    "status": "downloaded",
+    "source": "wikidata:Q207",
+    "file": "George W. Bush.jpg",
+    "error": null
+  },
+  {
+    "name": "Barack Obama",
+    "query": "Barack Obama",
+    "status": "downloaded",
+    "source": "wikidata:Q76",
+    "file": "Barack Obama.jpg",
+    "error": null
+  },
+  {
+    "name": "Joe Biden",
+    "query": "Joe Biden",
+    "status": "downloaded",
+    "source": "wikidata:Q6279",
+    "file": "Joe Biden.jpg",
+    "error": null
+  },
+  {
+    "name": "Donald Trump",
+    "query": "Donald Trump",
+    "status": "downloaded",
+    "source": "wikidata:Q22686",
+    "file": "Donald Trump.jpg",
+    "error": null
+  }
+]
