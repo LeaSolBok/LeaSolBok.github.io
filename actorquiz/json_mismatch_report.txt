@@ -1,0 +1,433 @@
+JSON to folder mismatch report
+Root: /Users/sol/repo/LeaSolBok.github.io/actorquiz
+
+dragonball.json -> dragonball/gemini
+  total_json_entries: 183
+  missing_exact_matches: 183
+  - Cooler    [possible match: cooler]
+  - Mr Popo    [possible match: mr popo]
+  - King Vegeta    [possible match: king vegeta]
+  - Bardock    [possible match: bardock]
+  - Goku    [possible match: goku]
+  - Buu    [possible match: buu]
+  - Super Saiyan Blue Goku    [possible match: super saiyan blue goku]
+  - Imperefct Cell    [possible match: imperefct cell]
+  - Cell Max    [possible match: cell max]
+  - Android 18 2    [possible match: android 18 2]
+  - Mai    [possible match: mai]
+  - Android 17    [possible match: android 17]
+  - Super Saiyan 3 Goku    [possible match: super saiyan 3 goku]
+  - Frieza    [possible match: frieza]
+  - Dende    [possible match: dende]
+  - Captain Ginyu    [possible match: captain ginyu]
+  - Broly    [possible match: broly]
+  - Kid Buu    [possible match: kid buu]
+  - Tien Shinhan    [possible match: tien shinhan]
+  - Belmod    [possible match: belmod]
+  - Bulla    [possible match: bulla]
+  - Super Saiyan Gotenks    [possible match: super saiyan gotenks]
+  - Zarbon    [possible match: zarbon]
+  - Super Saiyan Blue Gogeta    [possible match: super saiyan blue gogeta]
+  - Super Saiyan 4 Goku 2    [possible match: super saiyan 4 goku 2]
+  - Bulma    [possible match: bulma]
+  - Videl    [possible match: videl]
+  - Super Saiyan God Goku    [possible match: super saiyan god goku]
+  - Super Saiyan Goku    [possible match: super saiyan goku]
+  - Kefla    [possible match: kefla]
+  - Third Form Frieza    [possible match: third form frieza]
+  - Glorio    [possible match: glorio]
+  - Master Roshi    [possible match: master roshi]
+  - Beast Mode Gohan    [possible match: beast mode gohan]
+  - Baby Vegeta    [possible match: baby vegeta]
+  - Android 13    [possible match: android 13]
+  - Trunks 2    [possible match: trunks 2]
+  - Super 17    [possible match: super 17]
+  - Kaio Ken Goku    [possible match: kaio ken goku]
+  - King Cold    [possible match: king cold]
+  - Bulma 3    [possible match: bulma 3]
+  - Greate Ape Vegeta    [possible match: greate ape vegeta]
+  - Chilled    [possible match: chilled]
+  - Meta-cooler    [possible match: meta-cooler]
+  - Super Saiyan Goten    [possible match: super saiyan goten]
+  - Seven Three    [possible match: seven three]
+  - Super Saiyan Gohan    [possible match: super saiyan gohan]
+  - Vegeta 2    [possible match: vegeta 2]
+  - Kibito    [possible match: kibito]
+  - Super Buu    [possible match: super buu]
+  - Super Saiyan 4 Vegeta    [possible match: super saiyan 4 vegeta]
+  - Super Kaio Ken Goku    [possible match: super kaio ken goku]
+  - Dr Gero    [possible match: dr gero]
+  - Frost    [possible match: frost]
+  - Master Roshi 2    [possible match: master roshi 2]
+  - Muezli    [possible match: muezli]
+  - Caulifla    [possible match: caulifla]
+  - Kibito Kai    [possible match: kibito kai]
+  - Android 19    [possible match: android 19]
+  - Majin Vegeta    [possible match: majin vegeta]
+  - Raditz    [possible match: raditz]
+  - Rumsshi    [possible match: rumsshi]
+  - Super Saiyan 2 Goku    [possible match: super saiyan 2 goku]
+  - Turles    [possible match: turles]
+  - Fused Zamasu    [possible match: fused zamasu]
+  - Goku 5    [possible match: goku 5]
+  - Vegeta Super Saiyan 4    [possible match: vegeta super saiyan 4]
+  - Granolah    [possible match: granolah]
+  - Beerus    [possible match: beerus]
+  - Super Saiyan Gogeta    [possible match: super saiyan gogeta]
+  - Chi-Chi    [possible match: chi-chi]
+  - Future Trunks    [possible match: future trunks]
+  - Perfect Cell    [possible match: perfect cell]
+  - Evil Buu    [possible match: evil buu]
+  - Goten 2    [possible match: goten 2]
+  - Nappa    [possible match: nappa]
+  - Kale    [possible match: kale]
+  - Broly 2    [possible match: broly 2]
+  - Super Saiyan Future Trunks    [possible match: super saiyan future trunks]
+  - Super Saiyan Third Grade Future Trunks    [possible match: super saiyan third grade future trunks]
+  - Super Saiyan 3 Gotenks    [possible match: super saiyan 3 gotenks]
+  - Grandpa Gohan    [possible match: grandpa gohan]
+  - Hit    [possible match: hit]
+  - Cui    [possible match: cui]
+  - King Kai    [possible match: king kai]
+  - Syn Shenron    [possible match: syn shenron]
+  - Dabura    [possible match: dabura]
+  - Trunks    [possible match: trunks]
+  - Kami    [possible match: kami]
+  - Galactic King    [possible match: galactic king]
+  - Super Saiyan Vegeta    [possible match: super saiyan vegeta]
+  - Shimorekka    [possible match: shimorekka]
+  - Super Saiyan 2 Vegeta    [possible match: super saiyan 2 vegeta]
+  - Zamasu    [possible match: zamasu]
+  - Pan    [possible match: pan]
+  - Dodoria    [possible match: dodoria]
+  - Vegeta 4    [possible match: vegeta 4]
+  - Gamma 1    [possible match: gamma 1]
+  - Duplicate Vegeta    [possible match: duplicate vegeta]
+  - Goku Black    [possible match: goku black]
+  - Android 18 4    [possible match: android 18 4]
+  - Vegeta 3    [possible match: vegeta 3]
+  - Goku 4    [possible match: goku 4]
+  - Cabba    [possible match: cabba]
+  - Baby    [possible match: baby]
+  - Babidi    [possible match: babidi]
+  - Vegito    [possible match: vegito]
+  - Gine    [possible match: gine]
+  - Second Form Frieza    [possible match: second form frieza]
+  - Super Saiyan 4 Goku    [possible match: super saiyan 4 goku]
+  - Android 15    [possible match: android 15]
+  - Semi Perfect Cell    [possible match: semi perfect cell]
+  - Shenron    [possible match: shenron]
+  - Merus    [possible match: merus]
+  - Piccolo    [possible match: piccolo]
+  - Ultra Instinct Goku    [possible match: ultra instinct goku]
+  - Buutenks    [possible match: buutenks]
+  - Android 16    [possible match: android 16]
+  - Uub    [possible match: uub]
+  - Supreme Kai    [possible match: supreme kai]
+  - Super Saiyan Rose Goku    [possible match: super saiyan rose goku]
+  - Chi-Chi 2    [possible match: chi-chi 2]
+  - Dr Hedo    [possible match: dr hedo]
+  - Super Saiyan Broly    [possible match: super saiyan broly]
+  - Android 14    [possible match: android 14]
+  - Janemba    [possible match: janemba]
+  - Ultra Ego Vegeta    [possible match: ultra ego vegeta]
+  - Goku 3    [possible match: goku 3]
+  - Gogeta    [possible match: gogeta]
+  - Super Saiyan 2 Gohan    [possible match: super saiyan 2 gohan]
+  - Krillin 2    [possible match: krillin 2]
+  - Super Saiyan Blue Kaio Ken Goku    [possible match: super saiyan blue kaio ken goku]
+  - Super Saiyan God Vegeta    [possible match: super saiyan god vegeta]
+  - Yajirobe    [possible match: yajirobe]
+  - Chi-chi 3    [possible match: chi-chi 3]
+  - Trunks 3    [possible match: trunks 3]
+  - Good Buu    [possible match: good buu]
+  - Destroyer Form Toppo    [possible match: destroyer form toppo]
+  - Trunks 4    [possible match: trunks 4]
+  - Goku 2    [possible match: goku 2]
+  - Bulma 2    [possible match: bulma 2]
+  - Super Saiyan Vegito    [possible match: super saiyan vegito]
+  - Buuhan    [possible match: buuhan]
+  - Super Saiyan Blue Vegeta    [possible match: super saiyan blue vegeta]
+  - Bio-man    [possible match: bio-man]
+  - Bulla 2    [possible match: bulla 2]
+  - Gomah    [possible match: gomah]
+  - Golden Frieza    [possible match: golden frieza]
+  - Emperor Pilaf    [possible match: emperor pilaf]
+  - Toppo    [possible match: toppo]
+  - Whis    [possible match: whis]
+  - Super Perfect Cell    [possible match: super perfect cell]
+  - Dyspo    [possible match: dyspo]
+  - Goten    [possible match: goten]
+  - Orange Piccolo    [possible match: orange piccolo]
+  - Burter    [possible match: burter]
+  - Jeice    [possible match: jeice]
+  - Black Frieza    [possible match: black frieza]
+  - King Piccolo    [possible match: king piccolo]
+  - Android 18    [possible match: android 18]
+  - Gohan    [possible match: gohan]
+  - Super Saiyan Goku 2    [possible match: super saiyan goku 2]
+  - Gotenks    [possible match: gotenks]
+  - Krillin    [possible match: krillin]
+  - Android 18 3    [possible match: android 18 3]
+  - Champa    [possible match: champa]
+  - Yamcha    [possible match: yamcha]
+  - Bulma 4    [possible match: bulma 4]
+  - Super Saiyan 4 Gogeta    [possible match: super saiyan 4 gogeta]
+  - Zeno    [possible match: zeno]
+  - Cell Jr    [possible match: cell jr]
+  - Old Kai    [possible match: old kai]
+  - Bergamo    [possible match: bergamo]
+  - King Yemma    [possible match: king yemma]
+  - Vegeta    [possible match: vegeta]
+  - Mr Satan    [possible match: mr satan]
+  - Gamma 2    [possible match: gamma 2]
+  - First Form Frieza    [possible match: first form frieza]
+  - Moro    [possible match: moro]
+  - Super Shenron    [possible match: super shenron]
+  - Jiren    [possible match: jiren]
+  - Shin    [possible match: shin]
+  - Gohan 2    [possible match: gohan 2]
+
+rip.json -> actors-rip/gemini
+  total_json_entries: 203
+  missing_exact_matches: 203
+  - alfred hitchcock
+  - bill hicks
+  - brittany murphy
+  - leslie nielsen
+  - paul walker
+  - stanley kubrick
+  - michael clarke duncan
+  - chadwick boseman
+  - audrey hepburn
+  - river phoenix
+  - marlon brando
+  - paul newman
+  - anton yelchin
+  - bette davis
+  - heath ledger
+  - whitney houston
+  - tupac shakur
+  - george michael
+  - patrick swayze
+  - kobe bryant
+  - farrah fawcett
+  - bruce lee
+  - marilyn monroe
+  - david bowie
+  - marvin gaye
+  - pop smoke
+  - elvis presley
+  - freddie mercury
+  - amy winehouse
+  - diego maradona
+  - the notorious big
+  - john lennon
+  - juice wrld
+  - luther vandross
+  - ayrton senna
+  - lucille ball
+  - johan cruyff
+  - otis redding
+  - elizabeth taylor
+  - robin williams
+  - james dean
+  - aaliyah
+  - akira kurosawa
+  - alex trebek
+  - alexander mcqueen
+  - andy griffith
+  - andy kaufman
+  - anna nicole smith
+  - ava gardner
+  - avicii
+  - babe ruth
+  - barry white
+  - bea arthur
+  - bernie mac
+  - bettie page
+  - betty white
+  - billie holiday
+  - billy wilder
+  - bob barker
+  - bob fosse
+  - bob hope
+  - bob marley
+  - bob ross
+  - bon scott
+  - buddy holly
+  - carroll o'connor
+  - cary grant
+  - charlie parker
+  - chester bennington
+  - chris cornell
+  - chris farley
+  - christopher reeve
+  - chuck berry
+  - clark gable
+  - corey monteith
+  - dale earnhardt
+  - dimebag darrell
+  - don knotts
+  - don rickles
+  - donna summer
+  - eartha kitt
+  - ed mcmahon
+  - eddie van halen
+  - emiliano sala
+  - enzo ferrari
+  - federico fellini
+  - florence griffith joyner
+  - frank sinatra
+  - gene roddenberry
+  - gene wilder
+  - george best
+  - george carlin
+  - gia carangi
+  - gianni versace
+  - gilda radner
+  - glenn frey
+  - glenn miller
+  - gordon banks
+  - grace kelly
+  - hank williams
+  - harold ramis
+  - humphrey bogart
+  - ian curtis
+  - ike turner
+  - ingmar bergman
+  - ingrid bergman
+  - isaac hayes
+  - jack lemmon
+  - jackie robinson
+  - james brown
+  - james gandolfini
+  - janis joplin
+  - jeff buckley
+  - jerry lewis
+  - jesse owens
+  - jim croce
+  - jim morrison
+  - jim thorpe
+  - jimi hendrix
+  - joan rivers
+  - joe dimaggio
+  - joey ramone
+  - john belushi
+  - john candy
+  - john coltrane
+  - john denver
+  - john hughes
+  - john ritter
+  - johnny carson
+  - johnny cash
+  - josephine baker
+  - karen carpenter
+  - katharine hepburn
+  - keith moon
+  - kirk douglas
+  - kurt cobain
+  - larry king
+  - lauren bacall
+  - layne staley
+  - lil peep
+  - lisa lopes
+  - little richard
+  - louis armstrong
+  - luke perry
+  - mac miller
+  - mama cass elliot
+  - marlene dietrich
+  - mary tyler moore
+  - mf doom
+  - michael hutchence
+  - michael jackson
+  - mickey mantle
+  - miles davis
+  - milton berle
+  - mitch hedberg
+  - montgomery clift
+  - muhammad ali
+  - nat king cole
+  - natasha richardson
+  - nipsey hussle
+  - orson welles
+  - patsy cline
+  - pele
+  - peter falk
+  - peter jennings
+  - peter o'toole
+  - peter sellers
+  - phil hartman
+  - philip seymour hoffman
+  - prince
+  - ray charles
+  - reggie white
+  - richard burton
+  - richard pryor
+  - rita hayworth
+  - ritchie valens
+  - roberto clemente
+  - roberto duran
+  - rodney dangerfield
+  - roger ebert
+  - sam cooke
+  - sam kinison
+  - scott weiland
+  - selena quintanilla
+  - seve ballesteros
+  - shane warne
+  - sid caesar
+  - sid vicious
+  - sidney poitier
+  - spencer tracy
+  - steve mcqueen
+  - syd barrett
+  - thurman munson
+  - tom petty
+  - tony curtis
+  - vince lombardi
+  - vivien leigh
+  - walter cronkite
+  - walter payton
+  - wilma rudolph
+  - wilt chamberlain
+  - xxxtentacion
+  - yves saint laurent
+
+Files without a mapped equivalent folder:
+- cong_anim.json
+- names_actors.json
+- names_celebrities.json
+- names_newactors.json
+- popularity.json
+
+Per-file stats: json_file | target_folder | total_entries | missing_exact_matches
+actors.json | actors-legacy/gemini | 1123 | 0
+artists.json | actors-artists/gemini | 89 | 0
+athletes.json | actors-athletes/athletes gemini | 121 | 0
+author.json | actors-author/author gemini | 54 | 0
+bleach.json | bleach/gemini | 189 | 0
+characters.json | actors-characters/gemini | 491 | 0
+chefs.json | actors-chefs/chefs gemini | 88 | 0
+childhood.json | actors-childhood/gemini | 179 | 0
+comedians.json | actors-comedians/gemini | 308 | 0
+demonslayer.json | demonslayer/gemini | 152 | 0
+directors.json | actors-directors/gemini | 113 | 0
+dragonball.json | dragonball/gemini | 183 | 183
+fashion.json | actors-fashion/gemini | 202 | 0
+gamers.json | actors-gamers/gemini | 85 | 0
+got.json | got/gemini | 127 | 0
+historical.json | actors-historical/gemini | 205 | 0
+influencers.json | actors-influencers/gemini | 234 | 0
+models.json | actors-models/models gemini | 146 | 0
+newactors.json | actors-actors/gemini | 2138 | 0
+once.json | once/gemini | 355 | 0
+politics.json | actors-politics/gemini | 190 | 0
+presidents.json | actors-presidents/gemini | 45 | 0
+reality.json | actors-reality/reality gemini | 254 | 0
+rip.json | actors-rip/gemini | 203 | 203
+science.json | actors-science/science gemini | 120 | 0
+serial.json | actors-serial/gemini | 133 | 0
+singers.json | actors-singers/singers gemini | 510 | 0
+starwars.json | starwars/gemini | 254 | 0
