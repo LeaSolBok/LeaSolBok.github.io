@@ -39,6 +39,11 @@
     2.275,
     "ayelet zurer"
   ],
+  "mark ivanir": [
+    6696,
+    1.8024,
+    "mark ivanir"
+  ],
   "iddo goldberg": [
     94958,
     1.802,
@@ -214,6 +219,11 @@
     0.928,
     "raviv ullman"
   ],
+  "sasson gabai": [
+    16604,
+    0.9246,
+    "sasson gabai"
+  ],
   "avi lerner": [
     17209,
     0.923,
@@ -249,6 +259,11 @@
     0.829,
     "oren moverman"
   ],
+  "liraz charhi": [
+    95555,
+    0.8195,
+    "liraz charhi"
+  ],
   "daniella kertesz": [
     1180907,
     0.818,
@@ -273,6 +288,11 @@
     1297134,
     0.752,
     "yossi marshak"
+  ],
+  "moni moshonov": [
+    562949,
+    0.7351,
+    "moni moshonov"
   ],
   "raz degan": [
     135142,
@@ -358,6 +378,11 @@
     1672770,
     0.657,
     "noa koler"
+  ],
+  "aviv alush": [
+    1251785,
+    0.6554,
+    "aviv alush"
   ],
   "oshri cohen": [
     77820,
@@ -649,6 +674,11 @@
     0.492,
     "mali levi"
   ],
+  "oz zehavi": [
+    550965,
+    0.4918,
+    "oz zehavi"
+  ],
   "benjamin netanyahu": [
     125825,
     0.488,
@@ -734,6 +764,11 @@
     0.448,
     "miki kam"
   ],
+  "omer hazan": [
+    2592187,
+    0.4466,
+    "omer hazan"
+  ],
   "yehuda levi": [
     82098,
     0.444,
@@ -788,6 +823,16 @@
     1168666,
     0.421,
     "ido bartal"
+  ],
+  "salim daw": [
+    584167,
+    0.4165,
+    "salim daw"
+  ],
+  "ania bukstein": [
+    77645,
+    0.4146,
+    "ania bukstein"
   ],
   "aryeh moskona": [
     41642,
@@ -859,6 +904,11 @@
     0.389,
     "vic tablian"
   ],
+  "mike brant": [
+    2721218,
+    0.3878,
+    "mike brant"
+  ],
   "sarai givaty": [
     206024,
     0.387,
@@ -893,6 +943,11 @@
     1200545,
     0.376,
     "tsahi halevi"
+  ],
+  "shira naor": [
+    1600654,
+    0.3744,
+    "shira naor"
   ],
   "meir zarchi": [
     93410,
@@ -934,6 +989,11 @@
     0.361,
     "yarden toussia-cohen"
   ],
+  "mickey leon": [
+    1550586,
+    0.3597,
+    "mickey leon"
+  ],
   "amit hechter": [
     2574189,
     0.358,
@@ -958,6 +1018,11 @@
     68050,
     0.355,
     "shai avivi"
+  ],
+  "jonah lotan": [
+    1231512,
+    0.3526,
+    "jonah lotan"
   ],
   "guri alfi": [
     226068,
@@ -1084,6 +1149,11 @@
     0.307,
     "gera sandler"
   ],
+  "tawfeek barhom": [
+    1260004,
+    0.3065,
+    "tawfeek barhom"
+  ],
   "adi ashkenazi": [
     4154176,
     0.303,
@@ -1108,6 +1178,11 @@
     1134919,
     0.294,
     "moris cohen"
+  ],
+  "doron ben-david": [
+    1937567,
+    0.2932,
+    "doron ben-david"
   ],
   "yael eitan": [
     2270610,
@@ -1144,6 +1219,11 @@
     0.287,
     "tal tirangel"
   ],
+  "rotem keinan": [
+    1158500,
+    0.2829,
+    "rotem keinan"
+  ],
   "alon dahan": [
     235133,
     0.282,
@@ -1154,10 +1234,30 @@
     0.282,
     "ben sultan"
   ],
+  "gal friedman": [
+    1259934,
+    0.2817,
+    "gal friedman"
+  ],
+  "ran danker": [
+    458642,
+    0.2811,
+    "ran danker"
+  ],
   "naya bienstock": [
     2592182,
     0.281,
     "naya bienstock"
+  ],
+  "nitza shaul": [
+    1214720,
+    0.281,
+    "nitza shaul"
+  ],
+  "guy amir": [
+    1251782,
+    0.2792,
+    "guy amir"
   ],
   "ido rosenblum": [
     140193,
@@ -1183,6 +1283,11 @@
     1251153,
     0.267,
     "liat harlev"
+  ],
+  "shiri maimon": [
+    1260239,
+    0.2633,
+    "shiri maimon"
   ],
   "aviv pinkas": [
     1715919,
@@ -1298,6 +1403,11 @@
     1936957,
     0.222,
     "suzanna papian"
+  ],
+  "oded kotler": [
+    1061625,
+    0.221,
+    "oded kotler"
   ],
   "yaara pelzig": [
     1011141,
@@ -1438,6 +1548,11 @@
     5491564,
     0.187,
     "עומר עציון"
+  ],
+  "rika zarai": [
+    1662166,
+    0.1866,
+    "rika zarai"
   ],
   "ariella miniely": [
     65662,
@@ -1619,6 +1734,11 @@
     0.124,
     "sendi bar"
   ],
+  "miri aloni": [
+    1163338,
+    0.1223,
+    "miri aloni"
+  ],
   "carlo mossy": [
     55832,
     0.122,
@@ -1669,6 +1789,11 @@
     0.111,
     "moshe ferster"
   ],
+  "yael naim": [
+    1223671,
+    0.1091,
+    "yael naim"
+  ],
   "orly adelson": [
     63551,
     0.108,
@@ -1693,6 +1818,16 @@
     153683,
     0.105,
     "chana eden"
+  ],
+  "sarit hadad": [
+    3148204,
+    0.1049,
+    "sarit hadad"
+  ],
+  "shoshana damari": [
+    1435675,
+    0.1047,
+    "shoshana damari"
   ],
   "oneg efron": [
     1675487,
@@ -1744,6 +1879,11 @@
     0.089,
     "agam buhbut"
   ],
+  "aviv geffen": [
+    414585,
+    0.0888,
+    "aviv geffen"
+  ],
   "ofek pesach": [
     3298337,
     0.088,
@@ -1789,10 +1929,25 @@
     0.075,
     "קורין גדעון"
   ],
+  "itay levy": [
+    1947031,
+    0.0746,
+    "itay levy"
+  ],
   "liron weizman": [
     2711194,
     0.074,
     "liron weizman"
+  ],
+  "subliminal": [
+    4897605,
+    0.0725,
+    "subliminal"
+  ],
+  "roni duani": [
+    1794016,
+    0.0713,
+    "roni duani"
   ],
   "shlomi tapiaro": [
     1577542,
@@ -1834,10 +1989,35 @@
     0.064,
     "ayelet margalit"
   ],
+  "matti caspi": [
+    1764102,
+    0.0629,
+    "matti caspi"
+  ],
+  "dana international": [
+    2278207,
+    0.0622,
+    "dana international"
+  ],
+  "corinne allal": [
+    3842478,
+    0.0621,
+    "corinne allal"
+  ],
+  "noga erez": [
+    3922311,
+    0.0617,
+    "noga erez"
+  ],
   "ido rosenberg": [
     3111288,
     0.061,
     "ido rosenberg"
+  ],
+  "ivri lider": [
+    159,
+    0.0598,
+    "ivri lider"
   ],
   "carmela corren": [
     46548,
@@ -1853,6 +2033,11 @@
     1515339,
     0.058,
     "idan raichel"
+  ],
+  "gali atari": [
+    583761,
+    0.0569,
+    "gali atari"
   ],
   "netta": [
     2348419,
@@ -1884,10 +2069,35 @@
     0.051,
     "sharon cohen"
   ],
+  "boaz sharabi": [
+    1888619,
+    0.0498,
+    "boaz sharabi"
+  ],
+  "dikla": [
+    1632494,
+    0.0496,
+    "dikla"
+  ],
+  "ilana avital": [
+    584181,
+    0.0493,
+    "ilana avital"
+  ],
   "perla danoch": [
     4796236,
     0.049,
     "perla danoch"
+  ],
+  "arkadi duchin": [
+    1947120,
+    0.0461,
+    "arkadi duchin"
+  ],
+  "keren ann": [
+    2481014,
+    0.0441,
+    "keren ann"
   ],
   "yuval mendelson": [
     1154865,
@@ -1899,10 +2109,30 @@
     0.043,
     "shlomo artzi"
   ],
+  "harel skaat": [
+    1249609,
+    0.0414,
+    "harel skaat"
+  ],
   "אלינור קלוגר": [
     4891689,
     0.041,
     "אלינור קלוגר"
+  ],
+  "eden hasson": [
+    3339627,
+    0.0409,
+    "eden hasson"
+  ],
+  "shlomi shaban": [
+    3232502,
+    0.0409,
+    "shlomi shaban"
+  ],
+  "rami kleinstein": [
+    3148196,
+    0.0404,
+    "rami kleinstein"
   ],
   "michal amdurski": [
     584180,
@@ -1918,11 +2148,6 @@
     2718493,
     0.036,
     "eyal berkovic"
-  ],
-  "tali": [
-    4558899,
-    0.036,
-    "tali"
   ],
   "kobi oz": [
     3148190,
@@ -1944,10 +2169,35 @@
     0.033,
     "tom yaar"
   ],
+  "efraim shamir": [
+    1303031,
+    0.0311,
+    "efraim shamir"
+  ],
   "dana frider": [
     2390607,
     0.029,
     "dana frider"
+  ],
+  "linoy ashram": [
+    3746819,
+    0.0286,
+    "linoy ashram"
+  ],
+  "moshe peretz": [
+    1333306,
+    0.0286,
+    "moshe peretz"
+  ],
+  "omer adam": [
+    1955792,
+    0.0286,
+    "omer adam"
+  ],
+  "keren peles": [
+    2940468,
+    0.0261,
+    "keren peles"
   ],
   "roi levi": [
     1067285,
@@ -1969,6 +2219,21 @@
     0.022,
     "yossi bublil"
   ],
+  "ben el tavori": [
+    2804537,
+    0.0214,
+    "ben el tavori"
+  ],
+  "eyal golan": [
+    1260414,
+    0.0214,
+    "eyal golan"
+  ],
+  "yafa yarkoni": [
+    2754714,
+    0.0214,
+    "yafa yarkoni"
+  ],
   "izhar cohen": [
     1734326,
     0.021,
@@ -1984,6 +2249,21 @@
     0.017,
     "noa"
   ],
+  "hovi star": [
+    4842913,
+    0.0143,
+    "hovi star"
+  ],
+  "moran samuel": [
+    5431054,
+    0.0143,
+    "moran samuel"
+  ],
+  "orna datz": [
+    2119594,
+    0.0143,
+    "orna datz"
+  ],
   "hila korah": [
     5420224,
     0.014,
@@ -1994,25 +2274,105 @@
     0.014,
     "noa raban"
   ],
+  "gidi gov": [
+    1255798,
+    0.0071,
+    "gidi gov"
+  ],
+  "hanan yovel": [
+    5725673,
+    0.0071,
+    "hanan yovel"
+  ],
+  "maya bouskilla": [
+    4787350,
+    0.0071,
+    "maya bouskilla"
+  ],
+  "yarden jerbi": [
+    5424864,
+    0.0071,
+    "yarden jerbi"
+  ],
+  "yehoram gaon": [
+    1568264,
+    0.0071,
+    "yehoram gaon"
+  ],
+  "zehava ben": [
+    3263618,
+    0.0071,
+    "zehava ben"
+  ],
   "yoram arbel": [
     2720863,
     0.007,
     "yoram arbel"
   ],
-  "נהוראי קליפה": [
-    5456830,
-    0.007,
-    "נהוראי קליפה"
+  "alex shatilov": [
+    -1,
+    0.0,
+    "alex shatilov"
+  ],
+  "anastasia gorbenko": [
+    -1,
+    0.0,
+    "anastasia gorbenko"
+  ],
+  "andy ram": [
+    1250750,
+    0.0,
+    "andy ram"
+  ],
+  "arik zeevi": [
+    -1,
+    0.0,
+    "arik zeevi"
+  ],
+  "artem dolgopyat": [
+    -1,
+    0.0,
+    "artem dolgopyat"
+  ],
+  "avishag semberg": [
+    -1,
+    0.0,
+    "avishag semberg"
   ],
   "daphne rosen": [
     45302,
     0.0,
     "daphne rosen"
   ],
+  "deni avdija": [
+    -1,
+    0.0,
+    "deni avdija"
+  ],
+  "dudu aharon": [
+    574641,
+    0.0,
+    "dudu aharon"
+  ],
   "erez tal": [
     1260237,
     0.0,
     "erez tal"
+  ],
+  "hanan ben ari": [
+    4865320,
+    0.0,
+    "hanan ben ari"
+  ],
+  "harel moyal": [
+    2755080,
+    0.0,
+    "harel moyal"
+  ],
+  "inbar lanir": [
+    -1,
+    0.0,
+    "inbar lanir"
   ],
   "israel atias": [
     1786539,
@@ -2024,10 +2384,45 @@
     0.0,
     "kobi maimon"
   ],
+  "lonah chemtai salpeter": [
+    -1,
+    0.0,
+    "lonah chemtai salpeter"
+  ],
+  "margalit tsanani": [
+    2755090,
+    0.0,
+    "margalit tsanani"
+  ],
+  "marhu teferi": [
+    -1,
+    0.0,
+    "marhu teferi"
+  ],
+  "miki berkovich": [
+    -1,
+    0.0,
+    "miki berkovich"
+  ],
+  "mosh ben ari": [
+    1351395,
+    0.0,
+    "mosh ben ari"
+  ],
   "nadav nates": [
     998564,
     0.0,
     "nadav nates"
+  ],
+  "nasrin kadri": [
+    5424715,
+    0.0,
+    "nasrin kadri"
+  ],
+  "neta rivkin": [
+    -1,
+    0.0,
+    "neta rivkin"
   ],
   "nicole moore": [
     96030,
@@ -2039,15 +2434,90 @@
     0.0,
     "noam bettan"
   ],
+  "noam gershony": [
+    -1,
+    0.0,
+    "noam gershony"
+  ],
+  "omri casspi": [
+    -1,
+    0.0,
+    "omri casspi"
+  ],
+  "oren smadja": [
+    -1,
+    0.0,
+    "oren smadja"
+  ],
+  "ori sasson": [
+    5424858,
+    0.0,
+    "ori sasson"
+  ],
+  "peter paltchik": [
+    5431048,
+    0.0,
+    "peter paltchik"
+  ],
+  "raz hershko": [
+    -1,
+    0.0,
+    "raz hershko"
+  ],
   "roman ragazzi": [
     222877,
     0.0,
     "roman ragazzi"
   ],
+  "sagi muki": [
+    -1,
+    0.0,
+    "sagi muki"
+  ],
+  "shahar pe'er": [
+    -1,
+    0.0,
+    "shahar pe'er"
+  ],
+  "static": [
+    4427321,
+    0.0,
+    "static"
+  ],
   "stephanie cane": [
     142148,
     0.0,
     "stephanie cane"
+  ],
+  "tal brody": [
+    -1,
+    0.0,
+    "tal brody"
+  ],
+  "timna nelson-levy": [
+    -1,
+    0.0,
+    "timna nelson-levy"
+  ],
+  "vered buskila": [
+    -1,
+    0.0,
+    "vered buskila"
+  ],
+  "yael arad": [
+    5051868,
+    0.0,
+    "yael arad"
+  ],
+  "yakov toumarkin": [
+    -1,
+    0.0,
+    "yakov toumarkin"
+  ],
+  "yoni erlich": [
+    -1,
+    0.0,
+    "yoni erlich"
   ],
   "yuval raphael": [
     5243876,
