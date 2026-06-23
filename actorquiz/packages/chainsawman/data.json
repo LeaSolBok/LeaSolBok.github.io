@@ -1,0 +1,642 @@
+{
+  "accident devil": [
+    0,
+    100,
+    "Accident Devil.webp"
+  ],
+  "aging devil": [
+    0,
+    98,
+    "Aging Devil.webp"
+  ],
+  "bitterness devil": [
+    0,
+    96,
+    "Bitterness Devil.webp"
+  ],
+  "carpenter bee devil": [
+    0,
+    94,
+    "Carpenter Bee Devil.webp"
+  ],
+  "centipede devil": [
+    0,
+    92,
+    "Centipede Devil.webp"
+  ],
+  "curse devil": [
+    0,
+    90,
+    "Curse Devil.webp"
+  ],
+  "darkness devil": [
+    0,
+    88,
+    "Darkness Devil.webp"
+  ],
+  "doll devil": [
+    0,
+    86,
+    "Doll Devil.webp"
+  ],
+  "dominion": [
+    0,
+    84,
+    "Dominion.webp"
+  ],
+  "eternity devil": [
+    0,
+    82,
+    "Eternity Devil.webp"
+  ],
+  "fire devil": [
+    0,
+    80,
+    "Fire Devil.webp"
+  ],
+  "fox devil": [
+    0,
+    78,
+    "Fox Devil.webp"
+  ],
+  "frog devil": [
+    0,
+    76,
+    "Frog Devil.webp"
+  ],
+  "ghost devil": [
+    0,
+    74,
+    "Ghost Devil.webp"
+  ],
+  "grape devil": [
+    0,
+    72,
+    "Grape Devil.webp"
+  ],
+  "guillotine devil": [
+    0,
+    70,
+    "Guillotine Devil.webp"
+  ],
+  "gun devil": [
+    0,
+    68,
+    "Gun Devil.webp"
+  ],
+  "hell devil": [
+    0,
+    66,
+    "Hell Devil.webp"
+  ],
+  "justice devil": [
+    0,
+    64,
+    "Justice Devil.webp"
+  ],
+  "lion devil": [
+    0,
+    62,
+    "Lion Devil.webp"
+  ],
+  "locust devil": [
+    0,
+    60,
+    "Locust Devil.webp"
+  ],
+  "mantis devil": [
+    0,
+    58,
+    "Mantis Devil.webp"
+  ],
+  "marshmallow devil": [
+    0,
+    56,
+    "Marshmallow Devil.webp"
+  ],
+  "moray eel devil": [
+    0,
+    54,
+    "Moray Eel Devil.webp"
+  ],
+  "mouth devil": [
+    0,
+    52,
+    "Mouth Devil.webp"
+  ],
+  "nail fiend": [
+    0,
+    50,
+    "Nail Fiend.webp"
+  ],
+  "octopus devil": [
+    0,
+    48,
+    "Octopus Devil.webp"
+  ],
+  "pig devil": [
+    0,
+    46,
+    "Pig Devil.webp"
+  ],
+  "punishment devil": [
+    0,
+    44,
+    "Punishment Devil.webp"
+  ],
+  "sea cucumber devil": [
+    0,
+    42,
+    "Sea Cucumber Devil.webp"
+  ],
+  "seraphim": [
+    0,
+    40,
+    "Seraphim.webp"
+  ],
+  "snake devil": [
+    0,
+    38,
+    "Snake Devil.webp"
+  ],
+  "snow devil": [
+    0,
+    36,
+    "Snow Devil.webp"
+  ],
+  "stag beetle devil": [
+    0,
+    34,
+    "Stag Beetle Devil.webp"
+  ],
+  "stone devil": [
+    0,
+    32,
+    "Stone Devil.webp"
+  ],
+  "tomato devil": [
+    0,
+    30,
+    "Tomato Devil.webp"
+  ],
+  "typhoon devil": [
+    0,
+    28,
+    "Typhoon Devil.webp"
+  ],
+  "virtue": [
+    0,
+    26,
+    "Virtue.webp"
+  ],
+  "aging devil s victim": [
+    0,
+    24,
+    "Aging Devil S Victim.webp"
+  ],
+  "akane sawatari": [
+    0,
+    22,
+    "Akane Sawatari.webp"
+  ],
+  "aki hayakawa": [
+    0,
+    20,
+    "Aki Hayakawa.webp"
+  ],
+  "aldo": [
+    0,
+    18,
+    "Aldo.webp"
+  ],
+  "angel devil": [
+    0,
+    16,
+    "Angel Devil.webp"
+  ],
+  "asa mitaka": [
+    0,
+    14,
+    "Asa Mitaka.webp"
+  ],
+  "asa mitaka s caretaker": [
+    0,
+    12,
+    "Asa Mitaka S Caretaker.webp"
+  ],
+  "asa mitaka s father": [
+    0,
+    10,
+    "Asa Mitaka S Father.webp"
+  ],
+  "asa mitaka s mother": [
+    0,
+    8,
+    "Asa Mitaka S Mother.webp"
+  ],
+  "barem bridge": [
+    0,
+    6,
+    "Barem Bridge.webp"
+  ],
+  "bat devil": [
+    0,
+    4,
+    "Bat Devil.webp"
+  ],
+  "beam": [
+    0,
+    2,
+    "Beam.webp"
+  ],
+  "bucky": [
+    0,
+    2,
+    "Bucky.webp"
+  ],
+  "class president": [
+    0,
+    2,
+    "Class President.webp"
+  ],
+  "cockroach devil": [
+    0,
+    2,
+    "Cockroach Devil.webp"
+  ],
+  "crambon": [
+    0,
+    2,
+    "Crambon.webp"
+  ],
+  "death devil": [
+    0,
+    2,
+    "Death Devil.webp"
+  ],
+  "debt collector": [
+    0,
+    2,
+    "Debt Collector.webp"
+  ],
+  "denji": [
+    0,
+    2,
+    "Denji.webp"
+  ],
+  "denji s father": [
+    0,
+    2,
+    "Denji S Father.webp"
+  ],
+  "division 2 vice captain": [
+    0,
+    2,
+    "Division 2 Vice Captain.webp"
+  ],
+  "division 4 female member": [
+    0,
+    2,
+    "Division 4 Female Member.webp"
+  ],
+  "ear devil": [
+    0,
+    2,
+    "Ear Devil.webp"
+  ],
+  "fake chainsaw man": [
+    0,
+    2,
+    "Fake Chainsaw Man.webp"
+  ],
+  "falling devil": [
+    0,
+    2,
+    "Falling Devil.webp"
+  ],
+  "fami": [
+    0,
+    2,
+    "Fami.webp"
+  ],
+  "famine devil": [
+    0,
+    2,
+    "Famine Devil.webp"
+  ],
+  "fumiko mifune": [
+    0,
+    2,
+    "Fumiko Mifune.webp"
+  ],
+  "furio": [
+    0,
+    2,
+    "Furio.webp"
+  ],
+  "furuno": [
+    0,
+    2,
+    "Furuno.webp"
+  ],
+  "fushi": [
+    0,
+    2,
+    "Fushi.webp"
+  ],
+  "galgali": [
+    0,
+    2,
+    "Galgali.webp"
+  ],
+  "hadaji sakagami": [
+    0,
+    2,
+    "Hadaji Sakagami.webp"
+  ],
+  "haruka iseumi": [
+    0,
+    2,
+    "Haruka Iseumi.webp"
+  ],
+  "himeno": [
+    0,
+    2,
+    "Himeno.webp"
+  ],
+  "hirofumi yoshida": [
+    0,
+    2,
+    "Hirofumi Yoshida.webp"
+  ],
+  "hirokazu arai": [
+    0,
+    2,
+    "Hirokazu Arai.webp"
+  ],
+  "joey": [
+    0,
+    2,
+    "Joey.webp"
+  ],
+  "katana man": [
+    0,
+    2,
+    "Katana Man.webp"
+  ],
+  "kato": [
+    0,
+    2,
+    "Kato.webp"
+  ],
+  "kentaro ishita": [
+    0,
+    2,
+    "Kentaro Ishita.webp"
+  ],
+  "kenzo": [
+    0,
+    2,
+    "Kenzo.webp"
+  ],
+  "kishibe": [
+    0,
+    2,
+    "Kishibe.webp"
+  ],
+  "kobeni higashiyama": [
+    0,
+    2,
+    "Kobeni Higashiyama.webp"
+  ],
+  "kusakabe": [
+    0,
+    2,
+    "Kusakabe.webp"
+  ],
+  "leech devil": [
+    0,
+    2,
+    "Leech Devil.webp"
+  ],
+  "long": [
+    0,
+    2,
+    "Long.webp"
+  ],
+  "madoka": [
+    0,
+    2,
+    "Madoka.webp"
+  ],
+  "makima": [
+    0,
+    2,
+    "Makima.webp"
+  ],
+  "masaki ando": [
+    0,
+    2,
+    "Masaki Ando.webp"
+  ],
+  "michiko tendo": [
+    0,
+    2,
+    "Michiko Tendo.webp"
+  ],
+  "miki takanashi": [
+    0,
+    2,
+    "Miki Takanashi.webp"
+  ],
+  "minami nakano": [
+    0,
+    2,
+    "Minami Nakano.webp"
+  ],
+  "miri sugo": [
+    0,
+    2,
+    "Miri Sugo.webp"
+  ],
+  "mysterious man": [
+    0,
+    2,
+    "Mysterious Man.webp"
+  ],
+  "nakamura": [
+    0,
+    2,
+    "Nakamura.webp"
+  ],
+  "nayuta": [
+    0,
+    2,
+    "Nayuta.webp"
+  ],
+  "nobana higashiyama": [
+    0,
+    2,
+    "Nobana Higashiyama.webp"
+  ],
+  "nomo": [
+    0,
+    2,
+    "Nomo.webp"
+  ],
+  "pillbug devil": [
+    0,
+    2,
+    "Pillbug Devil.webp"
+  ],
+  "pingtsi": [
+    0,
+    2,
+    "Pingtsi.webp"
+  ],
+  "pochita": [
+    0,
+    2,
+    "Pochita.webp"
+  ],
+  "power": [
+    0,
+    2,
+    "Power.webp"
+  ],
+  "princi": [
+    0,
+    2,
+    "Princi.webp"
+  ],
+  "quanxi": [
+    0,
+    2,
+    "Quanxi.webp"
+  ],
+  "reze": [
+    0,
+    2,
+    "Reze.webp"
+  ],
+  "santa claus": [
+    0,
+    2,
+    "Santa Claus.webp"
+  ],
+  "sato": [
+    0,
+    2,
+    "Sato.webp"
+  ],
+  "seigi akoku": [
+    0,
+    2,
+    "Seigi Akoku.webp"
+  ],
+  "shiina": [
+    0,
+    2,
+    "Shiina.webp"
+  ],
+  "shin toma": [
+    0,
+    2,
+    "Shin Toma.webp"
+  ],
+  "shuzo mishima": [
+    0,
+    2,
+    "Shuzo Mishima.webp"
+  ],
+  "spear hybrid": [
+    0,
+    2,
+    "Spear Hybrid.webp"
+  ],
+  "subaru": [
+    0,
+    2,
+    "Subaru.webp"
+  ],
+  "tadashi hasegawa": [
+    0,
+    2,
+    "Tadashi Hasegawa.webp"
+  ],
+  "taiyo hayakawa": [
+    0,
+    2,
+    "Taiyo Hayakawa.webp"
+  ],
+  "takagi": [
+    0,
+    2,
+    "Takagi.webp"
+  ],
+  "takashi inoue": [
+    0,
+    2,
+    "Takashi Inoue.webp"
+  ],
+  "tamaoki": [
+    0,
+    2,
+    "Tamaoki.webp"
+  ],
+  "tanabe": [
+    0,
+    2,
+    "Tanabe.webp"
+  ],
+  "tanaka": [
+    0,
+    2,
+    "Tanaka.webp"
+  ],
+  "tolka": [
+    0,
+    2,
+    "Tolka.webp"
+  ],
+  "tomono": [
+    0,
+    2,
+    "Tomono.webp"
+  ],
+  "tsugihagi": [
+    0,
+    2,
+    "Tsugihagi.webp"
+  ],
+  "whip hybrid": [
+    0,
+    2,
+    "Whip Hybrid.webp"
+  ],
+  "yoru": [
+    0,
+    2,
+    "Yoru.webp"
+  ],
+  "yuki tomoda": [
+    0,
+    2,
+    "Yuki Tomoda.webp"
+  ],
+  "yuko": [
+    0,
+    2,
+    "Yuko.webp"
+  ],
+  "yutaro kurose": [
+    0,
+    2,
+    "Yutaro Kurose.webp"
+  ],
+  "zombie devil": [
+    0,
+    2,
+    "Zombie Devil.webp"
+  ]
+}

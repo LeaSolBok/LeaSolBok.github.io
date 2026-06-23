@@ -1,0 +1,6272 @@
+{
+  "mercedes": [
+    0,
+    1254,
+    "MERCEDES"
+  ],
+  "adidas": [
+    0,
+    1253,
+    "ADIDAS"
+  ],
+  "redbull": [
+    0,
+    1252,
+    "REDBULL"
+  ],
+  "honda": [
+    0,
+    1251,
+    "HONDA"
+  ],
+  "amazon": [
+    0,
+    1250,
+    "AMAZON"
+  ],
+  "dell": [
+    0,
+    1249,
+    "DELL"
+  ],
+  "lacoste": [
+    0,
+    1248,
+    "LACOSTE"
+  ],
+  "dropbox": [
+    0,
+    1247,
+    "DROPBOX"
+  ],
+  "visa": [
+    0,
+    1246,
+    "VISA"
+  ],
+  "audi": [
+    0,
+    1245,
+    "AUDI"
+  ],
+  "citroen": [
+    0,
+    1244,
+    "CITROEN"
+  ],
+  "intel": [
+    0,
+    1243,
+    "INTEL"
+  ],
+  "barbie": [
+    0,
+    1242,
+    "BARBIE"
+  ],
+  "wikipedia": [
+    0,
+    1241,
+    "WIKIPEDIA"
+  ],
+  "ebay": [
+    0,
+    1240,
+    "EBAY"
+  ],
+  "instagram": [
+    0,
+    1239,
+    "INSTAGRAM"
+  ],
+  "mms": [
+    0,
+    1238,
+    "MMS"
+  ],
+  "nintendo": [
+    0,
+    1237,
+    "NINTENDO"
+  ],
+  "pizzahut": [
+    0,
+    1236,
+    "PIZZAHUT"
+  ],
+  "panasonic": [
+    0,
+    1235,
+    "PANASONIC"
+  ],
+  "mobil": [
+    0,
+    1234,
+    "MOBIL"
+  ],
+  "cnn": [
+    0,
+    1233,
+    "CNN"
+  ],
+  "pinterest": [
+    0,
+    1232,
+    "PINTEREST"
+  ],
+  "reebok": [
+    0,
+    1231,
+    "REEBOK"
+  ],
+  "bmw": [
+    0,
+    1230,
+    "BMW"
+  ],
+  "kfc": [
+    0,
+    1229,
+    "KFC"
+  ],
+  "peugeot": [
+    0,
+    1228,
+    "PEUGEOT"
+  ],
+  "pepsi": [
+    0,
+    1227,
+    "PEPSI"
+  ],
+  "bp": [
+    0,
+    1226,
+    "BP"
+  ],
+  "corona": [
+    0,
+    1225,
+    "CORONA"
+  ],
+  "michelin": [
+    0,
+    1224,
+    "MICHELIN"
+  ],
+  "harleydavidson": [
+    0,
+    1223,
+    "HARLEYDAVIDSON"
+  ],
+  "heineken": [
+    0,
+    1222,
+    "HEINEKEN"
+  ],
+  "yahoo": [
+    0,
+    1221,
+    "YAHOO"
+  ],
+  "mtv": [
+    0,
+    1220,
+    "MTV"
+  ],
+  "subway": [
+    0,
+    1219,
+    "SUBWAY"
+  ],
+  "nestle": [
+    0,
+    1218,
+    "NESTLE"
+  ],
+  "snickers": [
+    0,
+    1217,
+    "SNICKERS"
+  ],
+  "ibm": [
+    0,
+    1216,
+    "IBM"
+  ],
+  "amd": [
+    0,
+    1215,
+    "AMD"
+  ],
+  "adobe": [
+    0,
+    1214,
+    "ADOBE"
+  ],
+  "kodak": [
+    0,
+    1213,
+    "KODAK"
+  ],
+  "philips": [
+    0,
+    1212,
+    "PHILIPS"
+  ],
+  "nissan": [
+    0,
+    1211,
+    "NISSAN"
+  ],
+  "sega": [
+    0,
+    1210,
+    "SEGA"
+  ],
+  "gillette": [
+    0,
+    1209,
+    "GILLETTE"
+  ],
+  "windows": [
+    0,
+    1208,
+    "WINDOWS"
+  ],
+  "city": [
+    0,
+    1207,
+    "CITY"
+  ],
+  "tripadvisor": [
+    0,
+    1206,
+    "TRIPADVISOR"
+  ],
+  "nivea": [
+    0,
+    1205,
+    "NIVEA"
+  ],
+  "huawei": [
+    0,
+    1204,
+    "HUAWEI"
+  ],
+  "sony": [
+    0,
+    1203,
+    "SONY"
+  ],
+  "converse": [
+    0,
+    1202,
+    "CONVERSE"
+  ],
+  "fairy": [
+    0,
+    1201,
+    "FAIRY"
+  ],
+  "hoover": [
+    0,
+    1200,
+    "HOOVER"
+  ],
+  "sainsburys": [
+    0,
+    1199,
+    "SAINSBURYS"
+  ],
+  "cadbury": [
+    0,
+    1198,
+    "CADBURY"
+  ],
+  "twinings": [
+    0,
+    1197,
+    "TWININGS"
+  ],
+  "asda": [
+    0,
+    1196,
+    "ASDA"
+  ],
+  "otwo": [
+    0,
+    1195,
+    "OTWO"
+  ],
+  "warburtons": [
+    0,
+    1194,
+    "WARBURTONS"
+  ],
+  "waitrose": [
+    0,
+    1193,
+    "WAITROSE"
+  ],
+  "aquafresh": [
+    0,
+    1192,
+    "AQUAFRESH"
+  ],
+  "superdrug": [
+    0,
+    1191,
+    "SUPERDRUG"
+  ],
+  "boots": [
+    0,
+    1190,
+    "BOOTS"
+  ],
+  "homebase": [
+    0,
+    1189,
+    "HOMEBASE"
+  ],
+  "typhoo": [
+    0,
+    1188,
+    "TYPHOO"
+  ],
+  "halifax": [
+    0,
+    1187,
+    "HALIFAX"
+  ],
+  "bremont": [
+    0,
+    1186,
+    "BREMONT"
+  ],
+  "marmite": [
+    0,
+    1185,
+    "MARMITE"
+  ],
+  "pizzaexpress": [
+    0,
+    1184,
+    "PIZZAEXPRESS"
+  ],
+  "peacocks": [
+    0,
+    1183,
+    "PEACOCKS"
+  ],
+  "easyjet": [
+    0,
+    1182,
+    "EASYJET"
+  ],
+  "cocacola": [
+    0,
+    1181,
+    "COCACOLA"
+  ],
+  "lg": [
+    0,
+    1180,
+    "LG"
+  ],
+  "ikea": [
+    0,
+    1179,
+    "IKEA"
+  ],
+  "gucci": [
+    0,
+    1178,
+    "GUCCI"
+  ],
+  "ups": [
+    0,
+    1177,
+    "UPS"
+  ],
+  "chanel": [
+    0,
+    1176,
+    "CHANEL"
+  ],
+  "pringles": [
+    0,
+    1175,
+    "PRINGLES"
+  ],
+  "nvidia": [
+    0,
+    1174,
+    "NVIDIA"
+  ],
+  "bridgestone": [
+    0,
+    1173,
+    "BRIDGESTONE"
+  ],
+  "mitsubishi": [
+    0,
+    1172,
+    "MITSUBISHI"
+  ],
+  "suzuki": [
+    0,
+    1171,
+    "SUZUKI"
+  ],
+  "chiquita": [
+    0,
+    1170,
+    "CHIQUITA"
+  ],
+  "microsoft": [
+    0,
+    1169,
+    "MICROSOFT"
+  ],
+  "loreal": [
+    0,
+    1168,
+    "LOREAL"
+  ],
+  "oreo": [
+    0,
+    1167,
+    "OREO"
+  ],
+  "quiksilver": [
+    0,
+    1166,
+    "QUIKSILVER"
+  ],
+  "wilkinson": [
+    0,
+    1165,
+    "WILKINSON"
+  ],
+  "linkedin": [
+    0,
+    1164,
+    "LINKEDIN"
+  ],
+  "nescafe": [
+    0,
+    1163,
+    "NESCAFE"
+  ],
+  "levis": [
+    0,
+    1162,
+    "LEVIS"
+  ],
+  "samsung": [
+    0,
+    1161,
+    "SAMSUNG"
+  ],
+  "volvo": [
+    0,
+    1160,
+    "VOLVO"
+  ],
+  "skype": [
+    0,
+    1159,
+    "SKYPE"
+  ],
+  "jaguar": [
+    0,
+    1158,
+    "JAGUAR"
+  ],
+  "axa": [
+    0,
+    1157,
+    "AXA"
+  ],
+  "haribo": [
+    0,
+    1156,
+    "HARIBO"
+  ],
+  "cosmopolitan": [
+    0,
+    1155,
+    "COSMOPOLITAN"
+  ],
+  "rexona": [
+    0,
+    1154,
+    "REXONA"
+  ],
+  "logitech": [
+    0,
+    1153,
+    "LOGITECH"
+  ],
+  "canon": [
+    0,
+    1152,
+    "CANON"
+  ],
+  "lexus": [
+    0,
+    1151,
+    "LEXUS"
+  ],
+  "swarovski": [
+    0,
+    1150,
+    "SWAROVSKI"
+  ],
+  "duracell": [
+    0,
+    1149,
+    "DURACELL"
+  ],
+  "cbs": [
+    0,
+    1148,
+    "CBS"
+  ],
+  "hyundai": [
+    0,
+    1147,
+    "HYUNDAI"
+  ],
+  "umbro": [
+    0,
+    1146,
+    "UMBRO"
+  ],
+  "nba": [
+    0,
+    1145,
+    "NBA"
+  ],
+  "schweppes": [
+    0,
+    1144,
+    "SCHWEPPES"
+  ],
+  "sheraton": [
+    0,
+    1143,
+    "SHERATON"
+  ],
+  "verbatim": [
+    0,
+    1142,
+    "VERBATIM"
+  ],
+  "nesquik": [
+    0,
+    1141,
+    "NESQUIK"
+  ],
+  "budweiser": [
+    0,
+    1140,
+    "BUDWEISER"
+  ],
+  "pirelli": [
+    0,
+    1139,
+    "PIRELLI"
+  ],
+  "fa": [
+    0,
+    1138,
+    "FA"
+  ],
+  "walkman": [
+    0,
+    1137,
+    "WALKMAN"
+  ],
+  "compaq": [
+    0,
+    1136,
+    "COMPAQ"
+  ],
+  "motorola": [
+    0,
+    1135,
+    "MOTOROLA"
+  ],
+  "ralphlauren": [
+    0,
+    1134,
+    "RALPHLAUREN"
+  ],
+  "endomondo": [
+    0,
+    1133,
+    "ENDOMONDO"
+  ],
+  "marriott": [
+    0,
+    1132,
+    "MARRIOTT"
+  ],
+  "mazda": [
+    0,
+    1131,
+    "MAZDA"
+  ],
+  "always": [
+    0,
+    1130,
+    "ALWAYS"
+  ],
+  "unicef": [
+    0,
+    1129,
+    "UNICEF"
+  ],
+  "tesla": [
+    0,
+    1128,
+    "TESLA"
+  ],
+  "dvd": [
+    0,
+    1127,
+    "DVD"
+  ],
+  "kia": [
+    0,
+    1126,
+    "KIA"
+  ],
+  "sharp": [
+    0,
+    1125,
+    "SHARP"
+  ],
+  "unilever": [
+    0,
+    1124,
+    "UNILEVER"
+  ],
+  "gatorade": [
+    0,
+    1123,
+    "GATORADE"
+  ],
+  "allianz": [
+    0,
+    1122,
+    "ALLIANZ"
+  ],
+  "xbox": [
+    0,
+    1121,
+    "XBOX"
+  ],
+  "s": [
+    0,
+    1120,
+    "S"
+  ],
+  "pepper": [
+    0,
+    1119,
+    "PEPPER"
+  ],
+  "king": [
+    0,
+    1118,
+    "KING"
+  ],
+  "arts": [
+    0,
+    1117,
+    "ARTS"
+  ],
+  "zippo": [
+    0,
+    1116,
+    "ZIPPO"
+  ],
+  "renault": [
+    0,
+    1115,
+    "RENAULT"
+  ],
+  "mastercard": [
+    0,
+    1114,
+    "MASTERCARD"
+  ],
+  "cisco": [
+    0,
+    1113,
+    "CISCO"
+  ],
+  "monopoly": [
+    0,
+    1112,
+    "MONOPOLY"
+  ],
+  "bentley": [
+    0,
+    1111,
+    "BENTLEY"
+  ],
+  "prada": [
+    0,
+    1110,
+    "PRADA"
+  ],
+  "dreamworks": [
+    0,
+    1109,
+    "DREAMWORKS"
+  ],
+  "bbc": [
+    0,
+    1108,
+    "BBC"
+  ],
+  "life": [
+    0,
+    1107,
+    "LIFE"
+  ],
+  "tchibo": [
+    0,
+    1106,
+    "TCHIBO"
+  ],
+  "fujitsu": [
+    0,
+    1105,
+    "FUJITSU"
+  ],
+  "dole": [
+    0,
+    1104,
+    "DOLE"
+  ],
+  "orange": [
+    0,
+    1103,
+    "ORANGE"
+  ],
+  "sanyo": [
+    0,
+    1102,
+    "SANYO"
+  ],
+  "asus": [
+    0,
+    1101,
+    "ASUS"
+  ],
+  "maybelline": [
+    0,
+    1100,
+    "MAYBELLINE"
+  ],
+  "lidl": [
+    0,
+    1099,
+    "LIDL"
+  ],
+  "spotify": [
+    0,
+    1098,
+    "SPOTIFY"
+  ],
+  "mars": [
+    0,
+    1097,
+    "MARS"
+  ],
+  "goodyear": [
+    0,
+    1096,
+    "GOODYEAR"
+  ],
+  "nfl": [
+    0,
+    1095,
+    "NFL"
+  ],
+  "whiskas": [
+    0,
+    1094,
+    "WHISKAS"
+  ],
+  "aig": [
+    0,
+    1093,
+    "AIG"
+  ],
+  "lego": [
+    0,
+    1092,
+    "LEGO"
+  ],
+  "lipton": [
+    0,
+    1091,
+    "LIPTON"
+  ],
+  "chevrolet": [
+    0,
+    1090,
+    "CHEVROLET"
+  ],
+  "lee": [
+    0,
+    1089,
+    "LEE"
+  ],
+  "energizer": [
+    0,
+    1088,
+    "ENERGIZER"
+  ],
+  "gerber": [
+    0,
+    1087,
+    "GERBER"
+  ],
+  "atp": [
+    0,
+    1086,
+    "ATP"
+  ],
+  "guinness": [
+    0,
+    1085,
+    "GUINNESS"
+  ],
+  "jvc": [
+    0,
+    1084,
+    "JVC"
+  ],
+  "vodafone": [
+    0,
+    1083,
+    "VODAFONE"
+  ],
+  "nutella": [
+    0,
+    1082,
+    "NUTELLA"
+  ],
+  "everlast": [
+    0,
+    1081,
+    "EVERLAST"
+  ],
+  "seat": [
+    0,
+    1080,
+    "SEAT"
+  ],
+  "axn": [
+    0,
+    1079,
+    "AXN"
+  ],
+  "kitkat": [
+    0,
+    1078,
+    "KITKAT"
+  ],
+  "twitch": [
+    0,
+    1077,
+    "TWITCH"
+  ],
+  "cia": [
+    0,
+    1076,
+    "CIA"
+  ],
+  "tnt": [
+    0,
+    1075,
+    "TNT"
+  ],
+  "marlboro": [
+    0,
+    1074,
+    "MARLBORO"
+  ],
+  "powerade": [
+    0,
+    1073,
+    "POWERADE"
+  ],
+  "ecco": [
+    0,
+    1072,
+    "ECCO"
+  ],
+  "timex": [
+    0,
+    1071,
+    "TIMEX"
+  ],
+  "zara": [
+    0,
+    1070,
+    "ZARA"
+  ],
+  "wendys": [
+    0,
+    1069,
+    "WENDYS"
+  ],
+  "xerox": [
+    0,
+    1068,
+    "XEROX"
+  ],
+  "kinder": [
+    0,
+    1067,
+    "KINDER"
+  ],
+  "rolex": [
+    0,
+    1066,
+    "ROLEX"
+  ],
+  "espn": [
+    0,
+    1065,
+    "ESPN"
+  ],
+  "mentos": [
+    0,
+    1064,
+    "MENTOS"
+  ],
+  "toblerone": [
+    0,
+    1063,
+    "TOBLERONE"
+  ],
+  "versace": [
+    0,
+    1062,
+    "VERSACE"
+  ],
+  "olay": [
+    0,
+    1061,
+    "OLAY"
+  ],
+  "bic": [
+    0,
+    1060,
+    "BIC"
+  ],
+  "delta": [
+    0,
+    1059,
+    "DELTA"
+  ],
+  "mini": [
+    0,
+    1058,
+    "MINI"
+  ],
+  "opel": [
+    0,
+    1057,
+    "OPEL"
+  ],
+  "skittles": [
+    0,
+    1056,
+    "SKITTLES"
+  ],
+  "starburst": [
+    0,
+    1055,
+    "STARBURST"
+  ],
+  "glaxosmithkline": [
+    0,
+    1054,
+    "GLAXOSMITHKLINE"
+  ],
+  "airbus": [
+    0,
+    1053,
+    "AIRBUS"
+  ],
+  "danone": [
+    0,
+    1052,
+    "DANONE"
+  ],
+  "vaio": [
+    0,
+    1051,
+    "VAIO"
+  ],
+  "blackberry": [
+    0,
+    1050,
+    "BLACKBERRY"
+  ],
+  "corvette": [
+    0,
+    1049,
+    "CORVETTE"
+  ],
+  "wrangler": [
+    0,
+    1048,
+    "WRANGLER"
+  ],
+  "hsbc": [
+    0,
+    1047,
+    "HSBC"
+  ],
+  "aon": [
+    0,
+    1046,
+    "AON"
+  ],
+  "milka": [
+    0,
+    1045,
+    "MILKA"
+  ],
+  "who": [
+    0,
+    1044,
+    "WHO"
+  ],
+  "fila": [
+    0,
+    1043,
+    "FILA"
+  ],
+  "gap": [
+    0,
+    1042,
+    "GAP"
+  ],
+  "nec": [
+    0,
+    1041,
+    "NEC"
+  ],
+  "lexmark": [
+    0,
+    1040,
+    "LEXMARK"
+  ],
+  "dior": [
+    0,
+    1039,
+    "DIOR"
+  ],
+  "casio": [
+    0,
+    1038,
+    "CASIO"
+  ],
+  "fox": [
+    0,
+    1037,
+    "FOX"
+  ],
+  "carlsberg": [
+    0,
+    1036,
+    "CARLSBERG"
+  ],
+  "nespresso": [
+    0,
+    1035,
+    "NESPRESSO"
+  ],
+  "liebherr": [
+    0,
+    1034,
+    "LIEBHERR"
+  ],
+  "omega": [
+    0,
+    1033,
+    "OMEGA"
+  ],
+  "lufthansa": [
+    0,
+    1032,
+    "LUFTHANSA"
+  ],
+  "swatch": [
+    0,
+    1031,
+    "SWATCH"
+  ],
+  "skoda": [
+    0,
+    1030,
+    "SKODA"
+  ],
+  "maserati": [
+    0,
+    1029,
+    "MASERATI"
+  ],
+  "castrol": [
+    0,
+    1028,
+    "CASTROL"
+  ],
+  "dove": [
+    0,
+    1027,
+    "DOVE"
+  ],
+  "steam": [
+    0,
+    1026,
+    "STEAM"
+  ],
+  "deloitte": [
+    0,
+    1025,
+    "DELOITTE"
+  ],
+  "continental": [
+    0,
+    1024,
+    "CONTINENTAL"
+  ],
+  "fedex": [
+    0,
+    1023,
+    "FEDEX"
+  ],
+  "fiat": [
+    0,
+    1022,
+    "FIAT"
+  ],
+  "candy": [
+    0,
+    1021,
+    "CANDY"
+  ],
+  "colgate": [
+    0,
+    1020,
+    "COLGATE"
+  ],
+  "matchbox": [
+    0,
+    1019,
+    "MATCHBOX"
+  ],
+  "mlb": [
+    0,
+    1018,
+    "MLB"
+  ],
+  "knorr": [
+    0,
+    1017,
+    "KNORR"
+  ],
+  "vans": [
+    0,
+    1016,
+    "VANS"
+  ],
+  "pedigree": [
+    0,
+    1015,
+    "PEDIGREE"
+  ],
+  "pokerstars": [
+    0,
+    1014,
+    "POKERSTARS"
+  ],
+  "speedo": [
+    0,
+    1013,
+    "SPEEDO"
+  ],
+  "onkyo": [
+    0,
+    1012,
+    "ONKYO"
+  ],
+  "reddit": [
+    0,
+    1011,
+    "REDDIT"
+  ],
+  "agfa": [
+    0,
+    1010,
+    "AGFA"
+  ],
+  "total": [
+    0,
+    1009,
+    "TOTAL"
+  ],
+  "timberland": [
+    0,
+    1008,
+    "TIMBERLAND"
+  ],
+  "husqvarna": [
+    0,
+    1007,
+    "HUSQVARNA"
+  ],
+  "palmolive": [
+    0,
+    1006,
+    "PALMOLIVE"
+  ],
+  "hertz": [
+    0,
+    1005,
+    "HERTZ"
+  ],
+  "duplo": [
+    0,
+    1004,
+    "DUPLO"
+  ],
+  "tagheuer": [
+    0,
+    1003,
+    "TAGHEUER"
+  ],
+  "nasa": [
+    0,
+    1002,
+    "NASA"
+  ],
+  "att": [
+    0,
+    1001,
+    "ATT"
+  ],
+  "walmart": [
+    0,
+    1000,
+    "WALMART"
+  ],
+  "siemens": [
+    0,
+    999,
+    "SIEMENS"
+  ],
+  "fujifilm": [
+    0,
+    998,
+    "FUJIFILM"
+  ],
+  "hilton": [
+    0,
+    997,
+    "HILTON"
+  ],
+  "sprite": [
+    0,
+    996,
+    "SPRITE"
+  ],
+  "hbo": [
+    0,
+    995,
+    "HBO"
+  ],
+  "foster": [
+    0,
+    994,
+    "FOSTER"
+  ],
+  "yelp": [
+    0,
+    993,
+    "YELP"
+  ],
+  "kpmg": [
+    0,
+    992,
+    "KPMG"
+  ],
+  "playboy": [
+    0,
+    991,
+    "PLAYBOY"
+  ],
+  "mattel": [
+    0,
+    990,
+    "MATTEL"
+  ],
+  "cat": [
+    0,
+    989,
+    "CAT"
+  ],
+  "isuzu": [
+    0,
+    988,
+    "ISUZU"
+  ],
+  "avon": [
+    0,
+    987,
+    "AVON"
+  ],
+  "delonghi": [
+    0,
+    986,
+    "DELONGHI"
+  ],
+  "tristar": [
+    0,
+    985,
+    "TRISTAR"
+  ],
+  "clinique": [
+    0,
+    984,
+    "CLINIQUE"
+  ],
+  "lamborghini": [
+    0,
+    983,
+    "LAMBORGHINI"
+  ],
+  "jcpenney": [
+    0,
+    982,
+    "JCPENNEY"
+  ],
+  "sears": [
+    0,
+    981,
+    "SEARS"
+  ],
+  "kingston": [
+    0,
+    980,
+    "KINGSTON"
+  ],
+  "campari": [
+    0,
+    979,
+    "CAMPARI"
+  ],
+  "dhl": [
+    0,
+    978,
+    "DHL"
+  ],
+  "fridays": [
+    0,
+    977,
+    "FRIDAYS"
+  ],
+  "toshiba": [
+    0,
+    976,
+    "TOSHIBA"
+  ],
+  "elf": [
+    0,
+    975,
+    "ELF"
+  ],
+  "champion": [
+    0,
+    974,
+    "CHAMPION"
+  ],
+  "land": [
+    0,
+    973,
+    "LAND"
+  ],
+  "prudential": [
+    0,
+    972,
+    "PRUDENTIAL"
+  ],
+  "dunlop": [
+    0,
+    971,
+    "DUNLOP"
+  ],
+  "ellesse": [
+    0,
+    970,
+    "ELLESSE"
+  ],
+  "santander": [
+    0,
+    969,
+    "SANTANDER"
+  ],
+  "ubisoft": [
+    0,
+    968,
+    "UBISOFT"
+  ],
+  "porsche": [
+    0,
+    967,
+    "PORSCHE"
+  ],
+  "triumph": [
+    0,
+    966,
+    "TRIUMPH"
+  ],
+  "boeing": [
+    0,
+    965,
+    "BOEING"
+  ],
+  "tomtom": [
+    0,
+    964,
+    "TOMTOM"
+  ],
+  "ricoh": [
+    0,
+    963,
+    "RICOH"
+  ],
+  "garnier": [
+    0,
+    962,
+    "GARNIER"
+  ],
+  "aldo": [
+    0,
+    961,
+    "ALDO"
+  ],
+  "wordpress": [
+    0,
+    960,
+    "WORDPRESS"
+  ],
+  "ford": [
+    0,
+    959,
+    "FORD"
+  ],
+  "grants": [
+    0,
+    958,
+    "GRANTS"
+  ],
+  "wnba": [
+    0,
+    957,
+    "WNBA"
+  ],
+  "fanta": [
+    0,
+    956,
+    "FANTA"
+  ],
+  "burton": [
+    0,
+    955,
+    "BURTON"
+  ],
+  "roche": [
+    0,
+    954,
+    "ROCHE"
+  ],
+  "baileys": [
+    0,
+    953,
+    "BAILEYS"
+  ],
+  "heinz": [
+    0,
+    952,
+    "HEINZ"
+  ],
+  "pioneer": [
+    0,
+    951,
+    "PIONEER"
+  ],
+  "sandisk": [
+    0,
+    950,
+    "SANDISK"
+  ],
+  "dkny": [
+    0,
+    949,
+    "DKNY"
+  ],
+  "stihl": [
+    0,
+    948,
+    "STIHL"
+  ],
+  "crocs": [
+    0,
+    947,
+    "CROCS"
+  ],
+  "jeep": [
+    0,
+    946,
+    "JEEP"
+  ],
+  "eleven": [
+    0,
+    945,
+    "ELEVEN"
+  ],
+  "guess": [
+    0,
+    944,
+    "GUESS"
+  ],
+  "msn": [
+    0,
+    943,
+    "MSN"
+  ],
+  "oracle": [
+    0,
+    942,
+    "ORACLE"
+  ],
+  "hasbro": [
+    0,
+    941,
+    "HASBRO"
+  ],
+  "flickr": [
+    0,
+    940,
+    "FLICKR"
+  ],
+  "imdb": [
+    0,
+    939,
+    "IMDB"
+  ],
+  "dolby": [
+    0,
+    938,
+    "DOLBY"
+  ],
+  "bacardi": [
+    0,
+    937,
+    "BACARDI"
+  ],
+  "jansport": [
+    0,
+    936,
+    "JANSPORT"
+  ],
+  "chrysler": [
+    0,
+    935,
+    "CHRYSLER"
+  ],
+  "braun": [
+    0,
+    934,
+    "BRAUN"
+  ],
+  "nickelodeon": [
+    0,
+    933,
+    "NICKELODEON"
+  ],
+  "camel": [
+    0,
+    932,
+    "CAMEL"
+  ],
+  "dawn": [
+    0,
+    931,
+    "DAWN"
+  ],
+  "martini": [
+    0,
+    930,
+    "MARTINI"
+  ],
+  "roc": [
+    0,
+    929,
+    "ROC"
+  ],
+  "wimbledon": [
+    0,
+    928,
+    "WIMBLEDON"
+  ],
+  "parkerpen": [
+    0,
+    927,
+    "PARKERPEN"
+  ],
+  "gmc": [
+    0,
+    926,
+    "GMC"
+  ],
+  "aegon": [
+    0,
+    925,
+    "AEGON"
+  ],
+  "yale": [
+    0,
+    924,
+    "YALE"
+  ],
+  "gant": [
+    0,
+    923,
+    "GANT"
+  ],
+  "nokia": [
+    0,
+    922,
+    "NOKIA"
+  ],
+  "benq": [
+    0,
+    921,
+    "BENQ"
+  ],
+  "hyatt": [
+    0,
+    920,
+    "HYATT"
+  ],
+  "sap": [
+    0,
+    919,
+    "SAP"
+  ],
+  "daimler": [
+    0,
+    918,
+    "DAIMLER"
+  ],
+  "dunhill": [
+    0,
+    917,
+    "DUNHILL"
+  ],
+  "exxon": [
+    0,
+    916,
+    "EXXON"
+  ],
+  "nab": [
+    0,
+    915,
+    "NAB"
+  ],
+  "whirlpool": [
+    0,
+    914,
+    "WHIRLPOOL"
+  ],
+  "man": [
+    0,
+    913,
+    "MAN"
+  ],
+  "mclaren": [
+    0,
+    912,
+    "MCLAREN"
+  ],
+  "ericsson": [
+    0,
+    911,
+    "ERICSSON"
+  ],
+  "gamecube": [
+    0,
+    910,
+    "GAMECUBE"
+  ],
+  "travelers": [
+    0,
+    909,
+    "TRAVELERS"
+  ],
+  "intercontinental": [
+    0,
+    908,
+    "INTERCONTINENTAL"
+  ],
+  "malibu": [
+    0,
+    907,
+    "MALIBU"
+  ],
+  "gamespot": [
+    0,
+    906,
+    "GAMESPOT"
+  ],
+  "gorenje": [
+    0,
+    905,
+    "GORENJE"
+  ],
+  "nikon": [
+    0,
+    904,
+    "NIKON"
+  ],
+  "pfizer": [
+    0,
+    903,
+    "PFIZER"
+  ],
+  "unesco": [
+    0,
+    902,
+    "UNESCO"
+  ],
+  "unicredit": [
+    0,
+    901,
+    "UNICREDIT"
+  ],
+  "photoshop": [
+    0,
+    900,
+    "PHOTOSHOP"
+  ],
+  "bose": [
+    0,
+    899,
+    "BOSE"
+  ],
+  "ibis": [
+    0,
+    898,
+    "IBIS"
+  ],
+  "itv": [
+    0,
+    897,
+    "ITV"
+  ],
+  "oakley": [
+    0,
+    896,
+    "OAKLEY"
+  ],
+  "esso": [
+    0,
+    895,
+    "ESSO"
+  ],
+  "smirnoff": [
+    0,
+    894,
+    "SMIRNOFF"
+  ],
+  "aviva": [
+    0,
+    893,
+    "AVIVA"
+  ],
+  "campbells": [
+    0,
+    892,
+    "CAMPBELLS"
+  ],
+  "daf": [
+    0,
+    891,
+    "DAF"
+  ],
+  "liberty": [
+    0,
+    890,
+    "LIBERTY"
+  ],
+  "booking": [
+    0,
+    889,
+    "BOOKING"
+  ],
+  "generali": [
+    0,
+    888,
+    "GENERALI"
+  ],
+  "pelikan": [
+    0,
+    887,
+    "PELIKAN"
+  ],
+  "zynga": [
+    0,
+    886,
+    "ZYNGA"
+  ],
+  "franke": [
+    0,
+    885,
+    "FRANKE"
+  ],
+  "target": [
+    0,
+    884,
+    "TARGET"
+  ],
+  "indesit": [
+    0,
+    883,
+    "INDESIT"
+  ],
+  "hollister": [
+    0,
+    882,
+    "HOLLISTER"
+  ],
+  "geox": [
+    0,
+    881,
+    "GEOX"
+  ],
+  "lancia": [
+    0,
+    880,
+    "LANCIA"
+  ],
+  "friskies": [
+    0,
+    879,
+    "FRISKIES"
+  ],
+  "bt": [
+    0,
+    878,
+    "BT"
+  ],
+  "gain": [
+    0,
+    877,
+    "GAIN"
+  ],
+  "kraft": [
+    0,
+    876,
+    "KRAFT"
+  ],
+  "dodge": [
+    0,
+    875,
+    "DODGE"
+  ],
+  "mac": [
+    0,
+    874,
+    "MAC"
+  ],
+  "pampers": [
+    0,
+    873,
+    "PAMPERS"
+  ],
+  "petrochina": [
+    0,
+    872,
+    "PETROCHINA"
+  ],
+  "iberia": [
+    0,
+    871,
+    "IBERIA"
+  ],
+  "ballantines": [
+    0,
+    870,
+    "BALLANTINES"
+  ],
+  "uniqa": [
+    0,
+    869,
+    "UNIQA"
+  ],
+  "doritos": [
+    0,
+    868,
+    "DORITOS"
+  ],
+  "ubs": [
+    0,
+    867,
+    "UBS"
+  ],
+  "furby": [
+    0,
+    866,
+    "FURBY"
+  ],
+  "activision": [
+    0,
+    865,
+    "ACTIVISION"
+  ],
+  "metlife": [
+    0,
+    864,
+    "METLIFE"
+  ],
+  "berkeley": [
+    0,
+    863,
+    "BERKELEY"
+  ],
+  "ergo": [
+    0,
+    862,
+    "ERGO"
+  ],
+  "knauf": [
+    0,
+    861,
+    "KNAUF"
+  ],
+  "douglas": [
+    0,
+    860,
+    "DOUGLAS"
+  ],
+  "oriflame": [
+    0,
+    859,
+    "ORIFLAME"
+  ],
+  "kappa": [
+    0,
+    858,
+    "KAPPA"
+  ],
+  "carrefour": [
+    0,
+    857,
+    "CARREFOUR"
+  ],
+  "vileda": [
+    0,
+    856,
+    "VILEDA"
+  ],
+  "pontiac": [
+    0,
+    855,
+    "PONTIAC"
+  ],
+  "diesel": [
+    0,
+    854,
+    "DIESEL"
+  ],
+  "garmin": [
+    0,
+    853,
+    "GARMIN"
+  ],
+  "cinemark": [
+    0,
+    852,
+    "CINEMARK"
+  ],
+  "mango": [
+    0,
+    851,
+    "MANGO"
+  ],
+  "lukoil": [
+    0,
+    850,
+    "LUKOIL"
+  ],
+  "flipboard": [
+    0,
+    849,
+    "FLIPBOARD"
+  ],
+  "dilmah": [
+    0,
+    848,
+    "DILMAH"
+  ],
+  "strabag": [
+    0,
+    847,
+    "STRABAG"
+  ],
+  "quantas": [
+    0,
+    846,
+    "QUANTAS"
+  ],
+  "hilti": [
+    0,
+    845,
+    "HILTI"
+  ],
+  "esprit": [
+    0,
+    844,
+    "ESPRIT"
+  ],
+  "capcom": [
+    0,
+    843,
+    "CAPCOM"
+  ],
+  "zdf": [
+    0,
+    842,
+    "ZDF"
+  ],
+  "zanussi": [
+    0,
+    841,
+    "ZANUSSI"
+  ],
+  "elmex": [
+    0,
+    840,
+    "ELMEX"
+  ],
+  "spyker": [
+    0,
+    839,
+    "SPYKER"
+  ],
+  "descente": [
+    0,
+    838,
+    "DESCENTE"
+  ],
+  "longines": [
+    0,
+    837,
+    "LONGINES"
+  ],
+  "alcatel": [
+    0,
+    836,
+    "ALCATEL"
+  ],
+  "denon": [
+    0,
+    835,
+    "DENON"
+  ],
+  "tetley": [
+    0,
+    834,
+    "TETLEY"
+  ],
+  "lowes": [
+    0,
+    833,
+    "LOWES"
+  ],
+  "schwarzkopf": [
+    0,
+    832,
+    "SCHWARZKOPF"
+  ],
+  "cheer": [
+    0,
+    831,
+    "CHEER"
+  ],
+  "teka": [
+    0,
+    830,
+    "TEKA"
+  ],
+  "bundesliga": [
+    0,
+    829,
+    "BUNDESLIGA"
+  ],
+  "asics": [
+    0,
+    828,
+    "ASICS"
+  ],
+  "bosh": [
+    0,
+    827,
+    "BOSH"
+  ],
+  "yamaha": [
+    0,
+    826,
+    "YAMAHA"
+  ],
+  "subaru": [
+    0,
+    825,
+    "SUBARU"
+  ],
+  "seagate": [
+    0,
+    824,
+    "SEAGATE"
+  ],
+  "vattenfall": [
+    0,
+    823,
+    "VATTENFALL"
+  ],
+  "veet": [
+    0,
+    822,
+    "VEET"
+  ],
+  "baidu": [
+    0,
+    821,
+    "BAIDU"
+  ],
+  "hummel": [
+    0,
+    820,
+    "HUMMEL"
+  ],
+  "showtime": [
+    0,
+    819,
+    "SHOWTIME"
+  ],
+  "zenith": [
+    0,
+    818,
+    "ZENITH"
+  ],
+  "verizon": [
+    0,
+    817,
+    "VERIZON"
+  ],
+  "rimmel": [
+    0,
+    816,
+    "RIMMEL"
+  ],
+  "lotus": [
+    0,
+    815,
+    "LOTUS"
+  ],
+  "uefa": [
+    0,
+    814,
+    "UEFA"
+  ],
+  "leica": [
+    0,
+    813,
+    "LEICA"
+  ],
+  "miller": [
+    0,
+    812,
+    "MILLER"
+  ],
+  "gigabyte": [
+    0,
+    811,
+    "GIGABYTE"
+  ],
+  "epson": [
+    0,
+    810,
+    "EPSON"
+  ],
+  "nimm": [
+    0,
+    809,
+    "NIMM"
+  ],
+  "vimeo": [
+    0,
+    808,
+    "VIMEO"
+  ],
+  "miele": [
+    0,
+    807,
+    "MIELE"
+  ],
+  "ssangyong": [
+    0,
+    806,
+    "SSANGYONG"
+  ],
+  "konami": [
+    0,
+    805,
+    "KONAMI"
+  ],
+  "tesco": [
+    0,
+    804,
+    "TESCO"
+  ],
+  "wilson": [
+    0,
+    803,
+    "WILSON"
+  ],
+  "cambridge": [
+    0,
+    802,
+    "CAMBRIDGE"
+  ],
+  "kenzo": [
+    0,
+    801,
+    "KENZO"
+  ],
+  "west": [
+    0,
+    800,
+    "WEST"
+  ],
+  "alitalia": [
+    0,
+    799,
+    "ALITALIA"
+  ],
+  "rbs": [
+    0,
+    798,
+    "RBS"
+  ],
+  "wella": [
+    0,
+    797,
+    "WELLA"
+  ],
+  "tissot": [
+    0,
+    796,
+    "TISSOT"
+  ],
+  "ryanair": [
+    0,
+    795,
+    "RYANAIR"
+  ],
+  "ariel": [
+    0,
+    794,
+    "ARIEL"
+  ],
+  "reef": [
+    0,
+    793,
+    "REEF"
+  ],
+  "miramax": [
+    0,
+    792,
+    "MIRAMAX"
+  ],
+  "lincoln": [
+    0,
+    791,
+    "LINCOLN"
+  ],
+  "motogp": [
+    0,
+    790,
+    "MOTOGP"
+  ],
+  "sprint": [
+    0,
+    789,
+    "SPRINT"
+  ],
+  "gopro": [
+    0,
+    788,
+    "GOPRO"
+  ],
+  "lavazza": [
+    0,
+    787,
+    "LAVAZZA"
+  ],
+  "pantene": [
+    0,
+    786,
+    "PANTENE"
+  ],
+  "amg": [
+    0,
+    785,
+    "AMG"
+  ],
+  "sodexo": [
+    0,
+    784,
+    "SODEXO"
+  ],
+  "ing": [
+    0,
+    783,
+    "ING"
+  ],
+  "mikasa": [
+    0,
+    782,
+    "MIKASA"
+  ],
+  "lenovo": [
+    0,
+    781,
+    "LENOVO"
+  ],
+  "novartis": [
+    0,
+    780,
+    "NOVARTIS"
+  ],
+  "ajax": [
+    0,
+    779,
+    "AJAX"
+  ],
+  "panini": [
+    0,
+    778,
+    "PANINI"
+  ],
+  "ee": [
+    0,
+    777,
+    "EE"
+  ],
+  "tefal": [
+    0,
+    776,
+    "TEFAL"
+  ],
+  "cadillac": [
+    0,
+    775,
+    "CADILLAC"
+  ],
+  "coty": [
+    0,
+    774,
+    "COTY"
+  ],
+  "rwe": [
+    0,
+    773,
+    "RWE"
+  ],
+  "formula": [
+    0,
+    772,
+    "FORMULA"
+  ],
+  "hampton": [
+    0,
+    771,
+    "HAMPTON"
+  ],
+  "joop": [
+    0,
+    770,
+    "JOOP"
+  ],
+  "grundig": [
+    0,
+    769,
+    "GRUNDIG"
+  ],
+  "desperados": [
+    0,
+    768,
+    "DESPERADOS"
+  ],
+  "atomic": [
+    0,
+    767,
+    "ATOMIC"
+  ],
+  "auchan": [
+    0,
+    766,
+    "AUCHAN"
+  ],
+  "buick": [
+    0,
+    765,
+    "BUICK"
+  ],
+  "bvlgari": [
+    0,
+    764,
+    "BVLGARI"
+  ],
+  "neutrogena": [
+    0,
+    763,
+    "NEUTROGENA"
+  ],
+  "ign": [
+    0,
+    762,
+    "IGN"
+  ],
+  "pagani": [
+    0,
+    761,
+    "PAGANI"
+  ],
+  "durex": [
+    0,
+    760,
+    "DUREX"
+  ],
+  "jaegermeister": [
+    0,
+    759,
+    "JAEGERMEISTER"
+  ],
+  "gls": [
+    0,
+    758,
+    "GLS"
+  ],
+  "beko": [
+    0,
+    757,
+    "BEKO"
+  ],
+  "kiehls": [
+    0,
+    756,
+    "KIEHLS"
+  ],
+  "grolsch": [
+    0,
+    755,
+    "GROLSCH"
+  ],
+  "rsa": [
+    0,
+    754,
+    "RSA"
+  ],
+  "movistar": [
+    0,
+    753,
+    "MOVISTAR"
+  ],
+  "atari": [
+    0,
+    752,
+    "ATARI"
+  ],
+  "chase": [
+    0,
+    751,
+    "CHASE"
+  ],
+  "blizzard": [
+    0,
+    750,
+    "BLIZZARD"
+  ],
+  "smart": [
+    0,
+    749,
+    "SMART"
+  ],
+  "oxford": [
+    0,
+    748,
+    "OXFORD"
+  ],
+  "wta": [
+    0,
+    747,
+    "WTA"
+  ],
+  "lot": [
+    0,
+    746,
+    "LOT"
+  ],
+  "ubuntu": [
+    0,
+    745,
+    "UBUNTU"
+  ],
+  "rtl": [
+    0,
+    744,
+    "RTL"
+  ],
+  "psp": [
+    0,
+    743,
+    "PSP"
+  ],
+  "lancome": [
+    0,
+    742,
+    "LANCOME"
+  ],
+  "comcast": [
+    0,
+    741,
+    "COMCAST"
+  ],
+  "symantec": [
+    0,
+    740,
+    "SYMANTEC"
+  ],
+  "pacha": [
+    0,
+    739,
+    "PACHA"
+  ],
+  "mgm": [
+    0,
+    738,
+    "MGM"
+  ],
+  "acura": [
+    0,
+    737,
+    "ACURA"
+  ],
+  "givenchy": [
+    0,
+    736,
+    "GIVENCHY"
+  ],
+  "henkel": [
+    0,
+    735,
+    "HENKEL"
+  ],
+  "klm": [
+    0,
+    734,
+    "KLM"
+  ],
+  "hennessy": [
+    0,
+    733,
+    "HENNESSY"
+  ],
+  "europcar": [
+    0,
+    732,
+    "EUROPCAR"
+  ],
+  "mccain": [
+    0,
+    731,
+    "MCCAIN"
+  ],
+  "lotto": [
+    0,
+    730,
+    "LOTTO"
+  ],
+  "ligue": [
+    0,
+    729,
+    "LIGUE"
+  ],
+  "vanish": [
+    0,
+    728,
+    "VANISH"
+  ],
+  "novotel": [
+    0,
+    727,
+    "NOVOTEL"
+  ],
+  "davidoff": [
+    0,
+    726,
+    "DAVIDOFF"
+  ],
+  "quiznos": [
+    0,
+    725,
+    "QUIZNOS"
+  ],
+  "repsol": [
+    0,
+    724,
+    "REPSOL"
+  ],
+  "dreamcast": [
+    0,
+    723,
+    "DREAMCAST"
+  ],
+  "speedway": [
+    0,
+    722,
+    "SPEEDWAY"
+  ],
+  "proton": [
+    0,
+    721,
+    "PROTON"
+  ],
+  "enel": [
+    0,
+    720,
+    "ENEL"
+  ],
+  "msi": [
+    0,
+    719,
+    "MSI"
+  ],
+  "tumblr": [
+    0,
+    718,
+    "TUMBLR"
+  ],
+  "bing": [
+    0,
+    717,
+    "BING"
+  ],
+  "aldi": [
+    0,
+    716,
+    "ALDI"
+  ],
+  "finlandia": [
+    0,
+    715,
+    "FINLANDIA"
+  ],
+  "java": [
+    0,
+    714,
+    "JAVA"
+  ],
+  "koenigsegg": [
+    0,
+    713,
+    "KOENIGSEGG"
+  ],
+  "aeg": [
+    0,
+    712,
+    "AEG"
+  ],
+  "lux": [
+    0,
+    711,
+    "LUX"
+  ],
+  "zest": [
+    0,
+    710,
+    "ZEST"
+  ],
+  "rover": [
+    0,
+    709,
+    "ROVER"
+  ],
+  "autozone": [
+    0,
+    708,
+    "AUTOZONE"
+  ],
+  "zott": [
+    0,
+    707,
+    "ZOTT"
+  ],
+  "eni": [
+    0,
+    706,
+    "ENI"
+  ],
+  "pepsico": [
+    0,
+    705,
+    "PEPSICO"
+  ],
+  "daihatsu": [
+    0,
+    704,
+    "DAIHATSU"
+  ],
+  "timotey": [
+    0,
+    703,
+    "TIMOTEY"
+  ],
+  "popsicle": [
+    0,
+    702,
+    "POPSICLE"
+  ],
+  "rovio": [
+    0,
+    701,
+    "ROVIO"
+  ],
+  "chicco": [
+    0,
+    700,
+    "CHICCO"
+  ],
+  "merrell": [
+    0,
+    699,
+    "MERRELL"
+  ],
+  "cigna": [
+    0,
+    698,
+    "CIGNA"
+  ],
+  "embraer": [
+    0,
+    697,
+    "EMBRAER"
+  ],
+  "karcher": [
+    0,
+    696,
+    "KARCHER"
+  ],
+  "hublot": [
+    0,
+    695,
+    "HUBLOT"
+  ],
+  "tcm": [
+    0,
+    694,
+    "TCM"
+  ],
+  "hitachi": [
+    0,
+    693,
+    "HITACHI"
+  ],
+  "buchanans": [
+    0,
+    692,
+    "BUCHANANS"
+  ],
+  "dm": [
+    0,
+    691,
+    "DM"
+  ],
+  "bell": [
+    0,
+    690,
+    "BELL"
+  ],
+  "safeway": [
+    0,
+    689,
+    "SAFEWAY"
+  ],
+  "nhl": [
+    0,
+    688,
+    "NHL"
+  ],
+  "bugatti": [
+    0,
+    687,
+    "BUGATTI"
+  ],
+  "pg": [
+    0,
+    686,
+    "PG"
+  ],
+  "telenor": [
+    0,
+    685,
+    "TELENOR"
+  ],
+  "stanford": [
+    0,
+    684,
+    "STANFORD"
+  ],
+  "petronas": [
+    0,
+    683,
+    "PETRONAS"
+  ],
+  "vapiano": [
+    0,
+    682,
+    "VAPIANO"
+  ],
+  "pandora": [
+    0,
+    681,
+    "PANDORA"
+  ],
+  "dulux": [
+    0,
+    680,
+    "DULUX"
+  ],
+  "pwc": [
+    0,
+    679,
+    "PWC"
+  ],
+  "sunsilk": [
+    0,
+    678,
+    "SUNSILK"
+  ],
+  "fisker": [
+    0,
+    677,
+    "FISKER"
+  ],
+  "commodore": [
+    0,
+    676,
+    "COMMODORE"
+  ],
+  "hermes": [
+    0,
+    675,
+    "HERMES"
+  ],
+  "roncato": [
+    0,
+    674,
+    "RONCATO"
+  ],
+  "staples": [
+    0,
+    673,
+    "STAPLES"
+  ],
+  "tdk": [
+    0,
+    672,
+    "TDK"
+  ],
+  "acciona": [
+    0,
+    671,
+    "ACCIONA"
+  ],
+  "imgur": [
+    0,
+    670,
+    "IMGUR"
+  ],
+  "holden": [
+    0,
+    669,
+    "HOLDEN"
+  ],
+  "element": [
+    0,
+    668,
+    "ELEMENT"
+  ],
+  "sberbank": [
+    0,
+    667,
+    "SBERBANK"
+  ],
+  "cinemax": [
+    0,
+    666,
+    "CINEMAX"
+  ],
+  "balenciaga": [
+    0,
+    665,
+    "BALENCIAGA"
+  ],
+  "aeroflot": [
+    0,
+    664,
+    "AEROFLOT"
+  ],
+  "ram": [
+    0,
+    663,
+    "RAM"
+  ],
+  "fis": [
+    0,
+    662,
+    "FIS"
+  ],
+  "ilve": [
+    0,
+    661,
+    "ILVE"
+  ],
+  "intimissimi": [
+    0,
+    660,
+    "INTIMISSIMI"
+  ],
+  "revlon": [
+    0,
+    659,
+    "REVLON"
+  ],
+  "barclays": [
+    0,
+    658,
+    "BARCLAYS"
+  ],
+  "eleclerc": [
+    0,
+    657,
+    "ELECLERC"
+  ],
+  "commerzbank": [
+    0,
+    656,
+    "COMMERZBANK"
+  ],
+  "otis": [
+    0,
+    655,
+    "OTIS"
+  ],
+  "polaroid": [
+    0,
+    654,
+    "POLAROID"
+  ],
+  "huggies": [
+    0,
+    653,
+    "HUGGIES"
+  ],
+  "intersport": [
+    0,
+    652,
+    "INTERSPORT"
+  ],
+  "clearasil": [
+    0,
+    651,
+    "CLEARASIL"
+  ],
+  "bayer": [
+    0,
+    650,
+    "BAYER"
+  ],
+  "nascar": [
+    0,
+    649,
+    "NASCAR"
+  ],
+  "arla": [
+    0,
+    648,
+    "ARLA"
+  ],
+  "castelli": [
+    0,
+    647,
+    "CASTELLI"
+  ],
+  "wurth": [
+    0,
+    646,
+    "WURTH"
+  ],
+  "lindemans": [
+    0,
+    645,
+    "LINDEMANS"
+  ],
+  "beckers": [
+    0,
+    644,
+    "BECKERS"
+  ],
+  "kleenex": [
+    0,
+    643,
+    "KLEENEX"
+  ],
+  "spar": [
+    0,
+    642,
+    "SPAR"
+  ],
+  "hochtief": [
+    0,
+    641,
+    "HOCHTIEF"
+  ],
+  "jetblue": [
+    0,
+    640,
+    "JETBLUE"
+  ],
+  "schindler": [
+    0,
+    639,
+    "SCHINDLER"
+  ],
+  "wyborowa": [
+    0,
+    638,
+    "WYBOROWA"
+  ],
+  "pnc": [
+    0,
+    637,
+    "PNC"
+  ],
+  "morgan": [
+    0,
+    636,
+    "MORGAN"
+  ],
+  "abarth": [
+    0,
+    635,
+    "ABARTH"
+  ],
+  "fifa": [
+    0,
+    634,
+    "FIFA"
+  ],
+  "gazprom": [
+    0,
+    633,
+    "GAZPROM"
+  ],
+  "mit": [
+    0,
+    632,
+    "MIT"
+  ],
+  "mercury": [
+    0,
+    631,
+    "MERCURY"
+  ],
+  "coach": [
+    0,
+    630,
+    "COACH"
+  ],
+  "navigon": [
+    0,
+    629,
+    "NAVIGON"
+  ],
+  "allstate": [
+    0,
+    628,
+    "ALLSTATE"
+  ],
+  "dicks": [
+    0,
+    627,
+    "DICKS"
+  ],
+  "debian": [
+    0,
+    626,
+    "DEBIAN"
+  ],
+  "radeberger": [
+    0,
+    625,
+    "RADEBERGER"
+  ],
+  "yoplait": [
+    0,
+    624,
+    "YOPLAIT"
+  ],
+  "zepter": [
+    0,
+    623,
+    "ZEPTER"
+  ],
+  "varta": [
+    0,
+    622,
+    "VARTA"
+  ],
+  "scania": [
+    0,
+    621,
+    "SCANIA"
+  ],
+  "walgreens": [
+    0,
+    620,
+    "WALGREENS"
+  ],
+  "cartier": [
+    0,
+    619,
+    "CARTIER"
+  ],
+  "billabong": [
+    0,
+    618,
+    "BILLABONG"
+  ],
+  "kenwood": [
+    0,
+    617,
+    "KENWOOD"
+  ],
+  "rai": [
+    0,
+    616,
+    "RAI"
+  ],
+  "giant": [
+    0,
+    615,
+    "GIANT"
+  ],
+  "absolut": [
+    0,
+    614,
+    "ABSOLUT"
+  ],
+  "vizio": [
+    0,
+    613,
+    "VIZIO"
+  ],
+  "olympus": [
+    0,
+    612,
+    "OLYMPUS"
+  ],
+  "ducati": [
+    0,
+    611,
+    "DUCATI"
+  ],
+  "sbi": [
+    0,
+    610,
+    "SBI"
+  ],
+  "wto": [
+    0,
+    609,
+    "WTO"
+  ],
+  "breitling": [
+    0,
+    608,
+    "BREITLING"
+  ],
+  "concacaf": [
+    0,
+    607,
+    "CONCACAF"
+  ],
+  "lada": [
+    0,
+    606,
+    "LADA"
+  ],
+  "natwest": [
+    0,
+    605,
+    "NATWEST"
+  ],
+  "dakar": [
+    0,
+    604,
+    "DAKAR"
+  ],
+  "rabobank": [
+    0,
+    603,
+    "RABOBANK"
+  ],
+  "suse": [
+    0,
+    602,
+    "SUSE"
+  ],
+  "sephora": [
+    0,
+    601,
+    "SEPHORA"
+  ],
+  "kawasaki": [
+    0,
+    600,
+    "KAWASAKI"
+  ],
+  "tupperware": [
+    0,
+    599,
+    "TUPPERWARE"
+  ],
+  "paulaner": [
+    0,
+    598,
+    "PAULANER"
+  ],
+  "kerastase": [
+    0,
+    597,
+    "KERASTASE"
+  ],
+  "icbc": [
+    0,
+    596,
+    "ICBC"
+  ],
+  "infiniti": [
+    0,
+    595,
+    "INFINITI"
+  ],
+  "charter": [
+    0,
+    594,
+    "CHARTER"
+  ],
+  "realtek": [
+    0,
+    593,
+    "REALTEK"
+  ],
+  "kroger": [
+    0,
+    592,
+    "KROGER"
+  ],
+  "rossignol": [
+    0,
+    591,
+    "ROSSIGNOL"
+  ],
+  "unitedhealth": [
+    0,
+    590,
+    "UNITEDHEALTH"
+  ],
+  "aljazeera": [
+    0,
+    589,
+    "ALJAZEERA"
+  ],
+  "vichy": [
+    0,
+    588,
+    "VICHY"
+  ],
+  "festina": [
+    0,
+    587,
+    "FESTINA"
+  ],
+  "tata": [
+    0,
+    586,
+    "TATA"
+  ],
+  "smeg": [
+    0,
+    585,
+    "SMEG"
+  ],
+  "eset": [
+    0,
+    584,
+    "ESET"
+  ],
+  "spanair": [
+    0,
+    583,
+    "SPANAIR"
+  ],
+  "princeton": [
+    0,
+    582,
+    "PRINCETON"
+  ],
+  "gateway": [
+    0,
+    581,
+    "GATEWAY"
+  ],
+  "valero": [
+    0,
+    580,
+    "VALERO"
+  ],
+  "mack": [
+    0,
+    579,
+    "MACK"
+  ],
+  "burberry": [
+    0,
+    578,
+    "BURBERRY"
+  ],
+  "havok": [
+    0,
+    577,
+    "HAVOK"
+  ],
+  "padi": [
+    0,
+    576,
+    "PADI"
+  ],
+  "lafarge": [
+    0,
+    575,
+    "LAFARGE"
+  ],
+  "postbank": [
+    0,
+    574,
+    "POSTBANK"
+  ],
+  "interflora": [
+    0,
+    573,
+    "INTERFLORA"
+  ],
+  "becel": [
+    0,
+    572,
+    "BECEL"
+  ],
+  "mothercare": [
+    0,
+    571,
+    "MOTHERCARE"
+  ],
+  "maybach": [
+    0,
+    570,
+    "MAYBACH"
+  ],
+  "kamaz": [
+    0,
+    569,
+    "KAMAZ"
+  ],
+  "westin": [
+    0,
+    568,
+    "WESTIN"
+  ],
+  "kyocera": [
+    0,
+    567,
+    "KYOCERA"
+  ],
+  "lion": [
+    0,
+    566,
+    "LION"
+  ],
+  "vespa": [
+    0,
+    565,
+    "VESPA"
+  ],
+  "bradesco": [
+    0,
+    564,
+    "BRADESCO"
+  ],
+  "iveco": [
+    0,
+    563,
+    "IVECO"
+  ],
+  "biotherm": [
+    0,
+    562,
+    "BIOTHERM"
+  ],
+  "sidi": [
+    0,
+    561,
+    "SIDI"
+  ],
+  "boomerang": [
+    0,
+    560,
+    "BOOMERANG"
+  ],
+  "tikkurila": [
+    0,
+    559,
+    "TIKKURILA"
+  ],
+  "hankook": [
+    0,
+    558,
+    "HANKOOK"
+  ],
+  "morrisons": [
+    0,
+    557,
+    "MORRISONS"
+  ],
+  "skol": [
+    0,
+    556,
+    "SKOL"
+  ],
+  "alpinestars": [
+    0,
+    555,
+    "ALPINESTARS"
+  ],
+  "fiba": [
+    0,
+    554,
+    "FIBA"
+  ],
+  "united": [
+    0,
+    553,
+    "UNITED"
+  ],
+  "ktm": [
+    0,
+    552,
+    "KTM"
+  ],
+  "brita": [
+    0,
+    551,
+    "BRITA"
+  ],
+  "aetna": [
+    0,
+    550,
+    "AETNA"
+  ],
+  "marantz": [
+    0,
+    549,
+    "MARANTZ"
+  ],
+  "decathlon": [
+    0,
+    548,
+    "DECATHLON"
+  ],
+  "iaaf": [
+    0,
+    547,
+    "IAAF"
+  ],
+  "certina": [
+    0,
+    546,
+    "CERTINA"
+  ],
+  "saturn": [
+    0,
+    545,
+    "SATURN"
+  ],
+  "evernote": [
+    0,
+    544,
+    "EVERNOTE"
+  ],
+  "hipp": [
+    0,
+    543,
+    "HIPP"
+  ],
+  "finnair": [
+    0,
+    542,
+    "FINNAIR"
+  ],
+  "fendi": [
+    0,
+    541,
+    "FENDI"
+  ],
+  "mozilla": [
+    0,
+    540,
+    "MOZILLA"
+  ],
+  "nirvana": [
+    0,
+    539,
+    "NIRVANA"
+  ],
+  "corsair": [
+    0,
+    538,
+    "CORSAIR"
+  ],
+  "funai": [
+    0,
+    537,
+    "FUNAI"
+  ],
+  "netscape": [
+    0,
+    536,
+    "NETSCAPE"
+  ],
+  "loccitane": [
+    0,
+    535,
+    "LOCCITANE"
+  ],
+  "vivo": [
+    0,
+    534,
+    "VIVO"
+  ],
+  "drupal": [
+    0,
+    533,
+    "DRUPAL"
+  ],
+  "harvard": [
+    0,
+    532,
+    "HARVARD"
+  ],
+  "mufg": [
+    0,
+    531,
+    "MUFG"
+  ],
+  "lindt": [
+    0,
+    530,
+    "LINDT"
+  ],
+  "piaggio": [
+    0,
+    529,
+    "PIAGGIO"
+  ],
+  "sat": [
+    0,
+    528,
+    "SAT"
+  ],
+  "publix": [
+    0,
+    527,
+    "PUBLIX"
+  ],
+  "avg": [
+    0,
+    526,
+    "AVG"
+  ],
+  "southwest": [
+    0,
+    525,
+    "SOUTHWEST"
+  ],
+  "wacom": [
+    0,
+    524,
+    "WACOM"
+  ],
+  "yokohama": [
+    0,
+    523,
+    "YOKOHAMA"
+  ],
+  "razor": [
+    0,
+    522,
+    "RAZOR"
+  ],
+  "medtronic": [
+    0,
+    521,
+    "MEDTRONIC"
+  ],
+  "sinopec": [
+    0,
+    520,
+    "SINOPEC"
+  ],
+  "dainese": [
+    0,
+    519,
+    "DAINESE"
+  ],
+  "landwind": [
+    0,
+    518,
+    "LANDWIND"
+  ],
+  "beringer": [
+    0,
+    517,
+    "BERINGER"
+  ],
+  "blendamed": [
+    0,
+    516,
+    "BLENDAMED"
+  ],
+  "nordea": [
+    0,
+    515,
+    "NORDEA"
+  ],
+  "bbva": [
+    0,
+    514,
+    "BBVA"
+  ],
+  "dice": [
+    0,
+    513,
+    "DICE"
+  ],
+  "crayola": [
+    0,
+    512,
+    "CRAYOLA"
+  ],
+  "sumitomo": [
+    0,
+    511,
+    "SUMITOMO"
+  ],
+  "evian": [
+    0,
+    510,
+    "EVIAN"
+  ],
+  "stabilo": [
+    0,
+    509,
+    "STABILO"
+  ],
+  "tui": [
+    0,
+    508,
+    "TUI"
+  ],
+  "reuters": [
+    0,
+    507,
+    "REUTERS"
+  ],
+  "skanska": [
+    0,
+    506,
+    "SKANSKA"
+  ],
+  "toffifee": [
+    0,
+    505,
+    "TOFFIFEE"
+  ],
+  "glenfiddich": [
+    0,
+    504,
+    "GLENFIDDICH"
+  ],
+  "eucerin": [
+    0,
+    503,
+    "EUCERIN"
+  ],
+  "furla": [
+    0,
+    502,
+    "FURLA"
+  ],
+  "sugarpova": [
+    0,
+    501,
+    "SUGARPOVA"
+  ],
+  "iwc": [
+    0,
+    500,
+    "IWC"
+  ],
+  "airwalk": [
+    0,
+    499,
+    "AIRWALK"
+  ],
+  "eurosport": [
+    0,
+    498,
+    "EUROSPORT"
+  ],
+  "becks": [
+    0,
+    497,
+    "BECKS"
+  ],
+  "parmalat": [
+    0,
+    496,
+    "PARMALAT"
+  ],
+  "real": [
+    0,
+    495,
+    "REAL"
+  ],
+  "thalgo": [
+    0,
+    494,
+    "THALGO"
+  ],
+  "malew": [
+    0,
+    493,
+    "MALEW"
+  ],
+  "bounce": [
+    0,
+    492,
+    "BOUNCE"
+  ],
+  "itau": [
+    0,
+    491,
+    "ITAU"
+  ],
+  "statoil": [
+    0,
+    490,
+    "STATOIL"
+  ],
+  "vauxhall": [
+    0,
+    489,
+    "VAUXHALL"
+  ],
+  "blockbuster": [
+    0,
+    488,
+    "BLOCKBUSTER"
+  ],
+  "icq": [
+    0,
+    487,
+    "ICQ"
+  ],
+  "neckermann": [
+    0,
+    486,
+    "NECKERMANN"
+  ],
+  "napster": [
+    0,
+    485,
+    "NAPSTER"
+  ],
+  "picasa": [
+    0,
+    484,
+    "PICASA"
+  ],
+  "saab": [
+    0,
+    483,
+    "SAAB"
+  ],
+  "maestro": [
+    0,
+    482,
+    "MAESTRO"
+  ],
+  "president": [
+    0,
+    481,
+    "PRESIDENT"
+  ],
+  "intermarche": [
+    0,
+    480,
+    "INTERMARCHE"
+  ],
+  "breguet": [
+    0,
+    479,
+    "BREGUET"
+  ],
+  "moulinex": [
+    0,
+    478,
+    "MOULINEX"
+  ],
+  "perrier": [
+    0,
+    477,
+    "PERRIER"
+  ],
+  "franprix": [
+    0,
+    476,
+    "FRANPRIX"
+  ],
+  "bioderma": [
+    0,
+    475,
+    "BIODERMA"
+  ],
+  "bonduelle": [
+    0,
+    474,
+    "BONDUELLE"
+  ],
+  "courvoisier": [
+    0,
+    473,
+    "COURVOISIER"
+  ],
+  "actimel": [
+    0,
+    472,
+    "ACTIMEL"
+  ],
+  "lcl": [
+    0,
+    471,
+    "LCL"
+  ],
+  "lactalis": [
+    0,
+    470,
+    "LACTALIS"
+  ],
+  "cif": [
+    0,
+    469,
+    "CIF"
+  ],
+  "monoprix": [
+    0,
+    468,
+    "MONOPRIX"
+  ],
+  "rowenta": [
+    0,
+    467,
+    "ROWENTA"
+  ],
+  "activia": [
+    0,
+    466,
+    "ACTIVIA"
+  ],
+  "sfr": [
+    0,
+    465,
+    "SFR"
+  ],
+  "martell": [
+    0,
+    464,
+    "MARTELL"
+  ],
+  "netto": [
+    0,
+    463,
+    "NETTO"
+  ],
+  "gauloises": [
+    0,
+    462,
+    "GAULOISES"
+  ],
+  "nuxe": [
+    0,
+    461,
+    "NUXE"
+  ],
+  "hanuta": [
+    0,
+    460,
+    "HANUTA"
+  ],
+  "penny": [
+    0,
+    459,
+    "PENNY"
+  ],
+  "erdinger": [
+    0,
+    458,
+    "ERDINGER"
+  ],
+  "jacobs": [
+    0,
+    457,
+    "JACOBS"
+  ],
+  "freenet": [
+    0,
+    456,
+    "FREENET"
+  ],
+  "bogner": [
+    0,
+    455,
+    "BOGNER"
+  ],
+  "halloren": [
+    0,
+    454,
+    "HALLOREN"
+  ],
+  "lamy": [
+    0,
+    453,
+    "LAMY"
+  ],
+  "metro": [
+    0,
+    452,
+    "METRO"
+  ],
+  "fresenius": [
+    0,
+    451,
+    "FRESENIUS"
+  ],
+  "enbw": [
+    0,
+    450,
+    "ENBW"
+  ],
+  "mamba": [
+    0,
+    449,
+    "MAMBA"
+  ],
+  "bitburger": [
+    0,
+    448,
+    "BITBURGER"
+  ],
+  "rewe": [
+    0,
+    447,
+    "REWE"
+  ],
+  "fulda": [
+    0,
+    446,
+    "FULDA"
+  ],
+  "thyssenkrupp": [
+    0,
+    445,
+    "THYSSENKRUPP"
+  ],
+  "eplus": [
+    0,
+    444,
+    "EPLUS"
+  ],
+  "persil": [
+    0,
+    443,
+    "PERSIL"
+  ],
+  "tempo": [
+    0,
+    442,
+    "TEMPO"
+  ],
+  "dallmayr": [
+    0,
+    441,
+    "DALLMAYR"
+  ],
+  "granini": [
+    0,
+    440,
+    "GRANINI"
+  ],
+  "florena": [
+    0,
+    439,
+    "FLORENA"
+  ],
+  "warsteiner": [
+    0,
+    438,
+    "WARSTEINER"
+  ],
+  "dekabank": [
+    0,
+    437,
+    "DEKABANK"
+  ],
+  "edeka": [
+    0,
+    436,
+    "EDEKA"
+  ],
+  "storck": [
+    0,
+    435,
+    "STORCK"
+  ],
+  "aol": [
+    0,
+    434,
+    "AOL"
+  ],
+  "sunoco": [
+    0,
+    433,
+    "SUNOCO"
+  ],
+  "abc": [
+    0,
+    432,
+    "ABC"
+  ],
+  "macys": [
+    0,
+    431,
+    "MACYS"
+  ],
+  "kelloggs": [
+    0,
+    430,
+    "KELLOGGS"
+  ],
+  "centurylink": [
+    0,
+    429,
+    "CENTURYLINK"
+  ],
+  "purina": [
+    0,
+    428,
+    "PURINA"
+  ],
+  "tropicana": [
+    0,
+    427,
+    "TROPICANA"
+  ],
+  "tide": [
+    0,
+    426,
+    "TIDE"
+  ],
+  "suntrust": [
+    0,
+    425,
+    "SUNTRUST"
+  ],
+  "fossil": [
+    0,
+    424,
+    "FOSSIL"
+  ],
+  "hormel": [
+    0,
+    423,
+    "HORMEL"
+  ],
+  "aflac": [
+    0,
+    422,
+    "AFLAC"
+  ],
+  "reeses": [
+    0,
+    421,
+    "REESES"
+  ],
+  "keybank": [
+    0,
+    420,
+    "KEYBANK"
+  ],
+  "amway": [
+    0,
+    419,
+    "AMWAY"
+  ],
+  "peroni": [
+    0,
+    418,
+    "PERONI"
+  ],
+  "barilla": [
+    0,
+    417,
+    "BARILLA"
+  ],
+  "famila": [
+    0,
+    416,
+    "FAMILA"
+  ],
+  "galbani": [
+    0,
+    415,
+    "GALBANI"
+  ],
+  "valentino": [
+    0,
+    414,
+    "VALENTINO"
+  ],
+  "tiscali": [
+    0,
+    413,
+    "TISCALI"
+  ],
+  "illy": [
+    0,
+    412,
+    "ILLY"
+  ],
+  "cinzano": [
+    0,
+    411,
+    "CINZANO"
+  ],
+  "aprilia": [
+    0,
+    410,
+    "APRILIA"
+  ],
+  "brioni": [
+    0,
+    409,
+    "BRIONI"
+  ],
+  "diadora": [
+    0,
+    408,
+    "DIADORA"
+  ],
+  "divella": [
+    0,
+    407,
+    "DIVELLA"
+  ],
+  "cerruti": [
+    0,
+    406,
+    "CERRUTI"
+  ],
+  "tods": [
+    0,
+    405,
+    "TODS"
+  ],
+  "coop": [
+    0,
+    404,
+    "COOP"
+  ],
+  "wind": [
+    0,
+    403,
+    "WIND"
+  ],
+  "agustawestland": [
+    0,
+    402,
+    "AGUSTAWESTLAND"
+  ],
+  "stradivarius": [
+    0,
+    401,
+    "STRADIVARIUS"
+  ],
+  "mercadona": [
+    0,
+    400,
+    "MERCADONA"
+  ],
+  "telecinco": [
+    0,
+    399,
+    "TELECINCO"
+  ],
+  "telepizza": [
+    0,
+    398,
+    "TELEPIZZA"
+  ],
+  "telefonica": [
+    0,
+    397,
+    "TELEFONICA"
+  ],
+  "eroski": [
+    0,
+    396,
+    "EROSKI"
+  ],
+  "mapfre": [
+    0,
+    395,
+    "MAPFRE"
+  ],
+  "antena": [
+    0,
+    394,
+    "ANTENA"
+  ],
+  "endesa": [
+    0,
+    393,
+    "ENDESA"
+  ],
+  "springfield": [
+    0,
+    392,
+    "SPRINGFIELD"
+  ],
+  "loewe": [
+    0,
+    391,
+    "LOEWE"
+  ],
+  "yoigo": [
+    0,
+    390,
+    "YOIGO"
+  ],
+  "dia": [
+    0,
+    389,
+    "DIA"
+  ],
+  "ohl": [
+    0,
+    388,
+    "OHL"
+  ],
+  "joma": [
+    0,
+    387,
+    "JOMA"
+  ],
+  "bershka": [
+    0,
+    386,
+    "BERSHKA"
+  ],
+  "marca": [
+    0,
+    385,
+    "MARCA"
+  ],
+  "nh": [
+    0,
+    384,
+    "NH"
+  ],
+  "correos": [
+    0,
+    383,
+    "CORREOS"
+  ],
+  "tous": [
+    0,
+    382,
+    "TOUS"
+  ],
+  "tbs": [
+    0,
+    381,
+    "TBS"
+  ],
+  "ahold": [
+    0,
+    380,
+    "AHOLD"
+  ],
+  "amstel": [
+    0,
+    379,
+    "AMSTEL"
+  ],
+  "campina": [
+    0,
+    378,
+    "CAMPINA"
+  ],
+  "hema": [
+    0,
+    377,
+    "HEMA"
+  ],
+  "kpn": [
+    0,
+    376,
+    "KPN"
+  ],
+  "mexx": [
+    0,
+    375,
+    "MEXX"
+  ],
+  "kruidvat": [
+    0,
+    374,
+    "KRUIDVAT"
+  ],
+  "chocomel": [
+    0,
+    373,
+    "CHOCOMEL"
+  ],
+  "akzonobel": [
+    0,
+    372,
+    "AKZONOBEL"
+  ],
+  "peijnenburg": [
+    0,
+    371,
+    "PEIJNENBURG"
+  ],
+  "blokker": [
+    0,
+    370,
+    "BLOKKER"
+  ],
+  "bavaria": [
+    0,
+    369,
+    "BAVARIA"
+  ],
+  "ziggo": [
+    0,
+    368,
+    "ZIGGO"
+  ],
+  "npo": [
+    0,
+    367,
+    "NPO"
+  ],
+  "jumbo": [
+    0,
+    366,
+    "JUMBO"
+  ],
+  "appelsientje": [
+    0,
+    365,
+    "APPELSIENTJE"
+  ],
+  "bam": [
+    0,
+    364,
+    "BAM"
+  ],
+  "randstad": [
+    0,
+    363,
+    "RANDSTAD"
+  ],
+  "ageas": [
+    0,
+    362,
+    "AGEAS"
+  ],
+  "een": [
+    0,
+    361,
+    "EEN"
+  ],
+  "tuc": [
+    0,
+    360,
+    "TUC"
+  ],
+  "delhaize": [
+    0,
+    359,
+    "DELHAIZE"
+  ],
+  "proximus": [
+    0,
+    358,
+    "PROXIMUS"
+  ],
+  "quick": [
+    0,
+    357,
+    "QUICK"
+  ],
+  "duvel": [
+    0,
+    356,
+    "DUVEL"
+  ],
+  "colruyt": [
+    0,
+    355,
+    "COLRUYT"
+  ],
+  "leonidas": [
+    0,
+    354,
+    "LEONIDAS"
+  ],
+  "hoegaarden": [
+    0,
+    353,
+    "HOEGAARDEN"
+  ],
+  "jupiler": [
+    0,
+    352,
+    "JUPILER"
+  ],
+  "mobistar": [
+    0,
+    351,
+    "MOBISTAR"
+  ],
+  "dexia": [
+    0,
+    350,
+    "DEXIA"
+  ],
+  "godiva": [
+    0,
+    349,
+    "GODIVA"
+  ],
+  "leffe": [
+    0,
+    348,
+    "LEFFE"
+  ],
+  "bpost": [
+    0,
+    347,
+    "BPOST"
+  ],
+  "nbb": [
+    0,
+    346,
+    "NBB"
+  ],
+  "maersk": [
+    0,
+    345,
+    "MAERSK"
+  ],
+  "jysk": [
+    0,
+    344,
+    "JYSK"
+  ],
+  "tdc": [
+    0,
+    343,
+    "TDC"
+  ],
+  "faxe": [
+    0,
+    342,
+    "FAXE"
+  ],
+  "iss": [
+    0,
+    341,
+    "ISS"
+  ],
+  "nykredit": [
+    0,
+    340,
+    "NYKREDIT"
+  ],
+  "tuborg": [
+    0,
+    339,
+    "TUBORG"
+  ],
+  "lurpak": [
+    0,
+    338,
+    "LURPAK"
+  ],
+  "fotex": [
+    0,
+    337,
+    "FOTEX"
+  ],
+  "velux": [
+    0,
+    336,
+    "VELUX"
+  ],
+  "fakta": [
+    0,
+    335,
+    "FAKTA"
+  ],
+  "dr": [
+    0,
+    334,
+    "DR"
+  ],
+  "tiger": [
+    0,
+    333,
+    "TIGER"
+  ],
+  "rockwool": [
+    0,
+    332,
+    "ROCKWOOL"
+  ],
+  "stimorol": [
+    0,
+    331,
+    "STIMOROL"
+  ],
+  "tulip": [
+    0,
+    330,
+    "TULIP"
+  ],
+  "dsv": [
+    0,
+    329,
+    "DSV"
+  ],
+  "grundfos": [
+    0,
+    328,
+    "GRUNDFOS"
+  ],
+  "somersby": [
+    0,
+    327,
+    "SOMERSBY"
+  ],
+  "wasa": [
+    0,
+    326,
+    "WASA"
+  ],
+  "daim": [
+    0,
+    325,
+    "DAIM"
+  ],
+  "handelsbanken": [
+    0,
+    324,
+    "HANDELSBANKEN"
+  ],
+  "ica": [
+    0,
+    323,
+    "ICA"
+  ],
+  "lakerol": [
+    0,
+    322,
+    "LAKEROL"
+  ],
+  "seb": [
+    0,
+    321,
+    "SEB"
+  ],
+  "willys": [
+    0,
+    320,
+    "WILLYS"
+  ],
+  "swedbank": [
+    0,
+    319,
+    "SWEDBANK"
+  ],
+  "ncc": [
+    0,
+    318,
+    "NCC"
+  ],
+  "securitas": [
+    0,
+    317,
+    "SECURITAS"
+  ],
+  "tele": [
+    0,
+    316,
+    "TELE"
+  ],
+  "axfood": [
+    0,
+    315,
+    "AXFOOD"
+  ],
+  "cloetta": [
+    0,
+    314,
+    "CLOETTA"
+  ],
+  "libresse": [
+    0,
+    313,
+    "LIBRESSE"
+  ],
+  "svt": [
+    0,
+    312,
+    "SVT"
+  ],
+  "abba": [
+    0,
+    311,
+    "ABBA"
+  ],
+  "telia": [
+    0,
+    310,
+    "TELIA"
+  ],
+  "falcon": [
+    0,
+    309,
+    "FALCON"
+  ],
+  "peab": [
+    0,
+    308,
+    "PEAB"
+  ],
+  "dnb": [
+    0,
+    307,
+    "DNB"
+  ],
+  "storebrand": [
+    0,
+    306,
+    "STOREBRAND"
+  ],
+  "elkjop": [
+    0,
+    305,
+    "ELKJOP"
+  ],
+  "bunnpris": [
+    0,
+    304,
+    "BUNNPRIS"
+  ],
+  "norwegian": [
+    0,
+    303,
+    "NORWEGIAN"
+  ],
+  "friele": [
+    0,
+    302,
+    "FRIELE"
+  ],
+  "nrk": [
+    0,
+    301,
+    "NRK"
+  ],
+  "kiwi": [
+    0,
+    300,
+    "KIWI"
+  ],
+  "freia": [
+    0,
+    299,
+    "FREIA"
+  ],
+  "narvesen": [
+    0,
+    298,
+    "NARVESEN"
+  ],
+  "ringnes": [
+    0,
+    297,
+    "RINGNES"
+  ],
+  "tine": [
+    0,
+    296,
+    "TINE"
+  ],
+  "rema": [
+    0,
+    295,
+    "REMA"
+  ],
+  "gilde": [
+    0,
+    294,
+    "GILDE"
+  ],
+  "gjensidige": [
+    0,
+    293,
+    "GJENSIDIGE"
+  ],
+  "hansa": [
+    0,
+    292,
+    "HANSA"
+  ],
+  "rimi": [
+    0,
+    291,
+    "RIMI"
+  ],
+  "voss": [
+    0,
+    290,
+    "VOSS"
+  ],
+  "sparebank": [
+    0,
+    289,
+    "SPAREBANK"
+  ],
+  "fonterra": [
+    0,
+    288,
+    "FONTERRA"
+  ],
+  "asb": [
+    0,
+    287,
+    "ASB"
+  ],
+  "speights": [
+    0,
+    286,
+    "SPEIGHTS"
+  ],
+  "kiwibank": [
+    0,
+    285,
+    "KIWIBANK"
+  ],
+  "watties": [
+    0,
+    284,
+    "WATTIES"
+  ],
+  "whittakers": [
+    0,
+    283,
+    "WHITTAKERS"
+  ],
+  "swanndri": [
+    0,
+    282,
+    "SWANNDRI"
+  ],
+  "anchor": [
+    0,
+    281,
+    "ANCHOR"
+  ],
+  "kiwirail": [
+    0,
+    280,
+    "KIWIRAIL"
+  ],
+  "skycity": [
+    0,
+    279,
+    "SKYCITY"
+  ],
+  "maggi": [
+    0,
+    278,
+    "MAGGI"
+  ],
+  "sunrise": [
+    0,
+    277,
+    "SUNRISE"
+  ],
+  "zurich": [
+    0,
+    276,
+    "ZURICH"
+  ],
+  "helvetia": [
+    0,
+    275,
+    "HELVETIA"
+  ],
+  "abb": [
+    0,
+    274,
+    "ABB"
+  ],
+  "geberit": [
+    0,
+    273,
+    "GEBERIT"
+  ],
+  "adecco": [
+    0,
+    272,
+    "ADECCO"
+  ],
+  "rivella": [
+    0,
+    271,
+    "RIVELLA"
+  ],
+  "chopard": [
+    0,
+    270,
+    "CHOPARD"
+  ],
+  "migros": [
+    0,
+    269,
+    "MIGROS"
+  ],
+  "jura": [
+    0,
+    268,
+    "JURA"
+  ],
+  "kuoni": [
+    0,
+    267,
+    "KUONI"
+  ],
+  "swiss": [
+    0,
+    266,
+    "SWISS"
+  ],
+  "mammut": [
+    0,
+    265,
+    "MAMMUT"
+  ],
+  "swisscom": [
+    0,
+    264,
+    "SWISSCOM"
+  ],
+  "caotina": [
+    0,
+    263,
+    "CAOTINA"
+  ],
+  "sika": [
+    0,
+    262,
+    "SIKA"
+  ],
+  "helsana": [
+    0,
+    261,
+    "HELSANA"
+  ],
+  "victorinox": [
+    0,
+    260,
+    "VICTORINOX"
+  ],
+  "zkb": [
+    0,
+    259,
+    "ZKB"
+  ],
+  "cern": [
+    0,
+    258,
+    "CERN"
+  ],
+  "denner": [
+    0,
+    257,
+    "DENNER"
+  ],
+  "holcim": [
+    0,
+    256,
+    "HOLCIM"
+  ],
+  "omv": [
+    0,
+    255,
+    "OMV"
+  ],
+  "billa": [
+    0,
+    254,
+    "BILLA"
+  ],
+  "piatnik": [
+    0,
+    253,
+    "PIATNIK"
+  ],
+  "gosser": [
+    0,
+    252,
+    "GOSSER"
+  ],
+  "manner": [
+    0,
+    251,
+    "MANNER"
+  ],
+  "porr": [
+    0,
+    250,
+    "PORR"
+  ],
+  "wienerberger": [
+    0,
+    249,
+    "WIENERBERGER"
+  ],
+  "agrana": [
+    0,
+    248,
+    "AGRANA"
+  ],
+  "verbund": [
+    0,
+    247,
+    "VERBUND"
+  ],
+  "erste": [
+    0,
+    246,
+    "ERSTE"
+  ],
+  "stroh": [
+    0,
+    245,
+    "STROH"
+  ],
+  "fischer": [
+    0,
+    244,
+    "FISCHER"
+  ],
+  "atv": [
+    0,
+    243,
+    "ATV"
+  ],
+  "runtastic": [
+    0,
+    242,
+    "RUNTASTIC"
+  ],
+  "stiegl": [
+    0,
+    241,
+    "STIEGL"
+  ],
+  "olz": [
+    0,
+    240,
+    "OLZ"
+  ],
+  "mirabell": [
+    0,
+    239,
+    "MIRABELL"
+  ],
+  "kellys": [
+    0,
+    238,
+    "KELLYS"
+  ],
+  "maresi": [
+    0,
+    237,
+    "MARESI"
+  ],
+  "voestalpine": [
+    0,
+    236,
+    "VOESTALPINE"
+  ],
+  "ams": [
+    0,
+    235,
+    "AMS"
+  ],
+  "offspring": [
+    0,
+    234,
+    "OFFSPRING"
+  ],
+  "efes": [
+    0,
+    233,
+    "EFES"
+  ],
+  "bim": [
+    0,
+    232,
+    "BIM"
+  ],
+  "vestel": [
+    0,
+    231,
+    "VESTEL"
+  ],
+  "ulker": [
+    0,
+    230,
+    "ULKER"
+  ],
+  "arcelik": [
+    0,
+    229,
+    "ARCELIK"
+  ],
+  "turkcell": [
+    0,
+    228,
+    "TURKCELL"
+  ],
+  "trt": [
+    0,
+    227,
+    "TRT"
+  ],
+  "sunexpress": [
+    0,
+    226,
+    "SUNEXPRESS"
+  ],
+  "akbank": [
+    0,
+    225,
+    "AKBANK"
+  ],
+  "kipa": [
+    0,
+    224,
+    "KIPA"
+  ],
+  "tcdd": [
+    0,
+    223,
+    "TCDD"
+  ],
+  "kurukahveci": [
+    0,
+    222,
+    "KURUKAHVECI"
+  ],
+  "mado": [
+    0,
+    221,
+    "MADO"
+  ],
+  "pegasus": [
+    0,
+    220,
+    "PEGASUS"
+  ],
+  "garanti": [
+    0,
+    219,
+    "GARANTI"
+  ],
+  "sahibinden": [
+    0,
+    218,
+    "SAHIBINDEN"
+  ],
+  "mts": [
+    0,
+    217,
+    "MTS"
+  ],
+  "baltika": [
+    0,
+    216,
+    "BALTIKA"
+  ],
+  "lenta": [
+    0,
+    215,
+    "LENTA"
+  ],
+  "yandex": [
+    0,
+    214,
+    "YANDEX"
+  ],
+  "rosneft": [
+    0,
+    213,
+    "ROSNEFT"
+  ],
+  "magnit": [
+    0,
+    212,
+    "MAGNIT"
+  ],
+  "beeline": [
+    0,
+    211,
+    "BEELINE"
+  ],
+  "stolichnaya": [
+    0,
+    210,
+    "STOLICHNAYA"
+  ],
+  "vtb": [
+    0,
+    209,
+    "VTB"
+  ],
+  "tnk": [
+    0,
+    208,
+    "TNK"
+  ],
+  "megafon": [
+    0,
+    207,
+    "MEGAFON"
+  ],
+  "uaz": [
+    0,
+    206,
+    "UAZ"
+  ],
+  "j": [
+    0,
+    205,
+    "J"
+  ],
+  "sistema": [
+    0,
+    204,
+    "SISTEMA"
+  ],
+  "rostelecom": [
+    0,
+    203,
+    "ROSTELECOM"
+  ],
+  "gaz": [
+    0,
+    202,
+    "GAZ"
+  ],
+  "ntv": [
+    0,
+    201,
+    "NTV"
+  ],
+  "fidorka": [
+    0,
+    200,
+    "FIDORKA"
+  ],
+  "studentska": [
+    0,
+    199,
+    "STUDENTSKA"
+  ],
+  "bata": [
+    0,
+    198,
+    "BATA"
+  ],
+  "jawa": [
+    0,
+    197,
+    "JAWA"
+  ],
+  "avast": [
+    0,
+    196,
+    "AVAST"
+  ],
+  "becherovka": [
+    0,
+    195,
+    "BECHEROVKA"
+  ],
+  "barum": [
+    0,
+    194,
+    "BARUM"
+  ],
+  "preciosa": [
+    0,
+    193,
+    "PRECIOSA"
+  ],
+  "unipetrol": [
+    0,
+    192,
+    "UNIPETROL"
+  ],
+  "staropramen": [
+    0,
+    191,
+    "STAROPRAMEN"
+  ],
+  "ufon": [
+    0,
+    190,
+    "UFON"
+  ],
+  "kofola": [
+    0,
+    189,
+    "KOFOLA"
+  ],
+  "teta": [
+    0,
+    188,
+    "TETA"
+  ],
+  "ct": [
+    0,
+    187,
+    "CT"
+  ],
+  "tatra": [
+    0,
+    186,
+    "TATRA"
+  ],
+  "cez": [
+    0,
+    185,
+    "CEZ"
+  ],
+  "radegast": [
+    0,
+    184,
+    "RADEGAST"
+  ],
+  "dermacol": [
+    0,
+    183,
+    "DERMACOL"
+  ],
+  "praga": [
+    0,
+    182,
+    "PRAGA"
+  ],
+  "lentilky": [
+    0,
+    181,
+    "LENTILKY"
+  ],
+  "agrofert": [
+    0,
+    180,
+    "AGROFERT"
+  ],
+  "pzu": [
+    0,
+    179,
+    "PZU"
+  ],
+  "inglot": [
+    0,
+    178,
+    "INGLOT"
+  ],
+  "zubrowka": [
+    0,
+    177,
+    "ZUBROWKA"
+  ],
+  "cropp": [
+    0,
+    176,
+    "CROPP"
+  ],
+  "polsat": [
+    0,
+    175,
+    "POLSAT"
+  ],
+  "zelmer": [
+    0,
+    174,
+    "ZELMER"
+  ],
+  "mokate": [
+    0,
+    173,
+    "MOKATE"
+  ],
+  "amica": [
+    0,
+    172,
+    "AMICA"
+  ],
+  "tymbark": [
+    0,
+    171,
+    "TYMBARK"
+  ],
+  "tvp": [
+    0,
+    170,
+    "TVP"
+  ],
+  "sobieski": [
+    0,
+    169,
+    "SOBIESKI"
+  ],
+  "apart": [
+    0,
+    168,
+    "APART"
+  ],
+  "netia": [
+    0,
+    167,
+    "NETIA"
+  ],
+  "reserved": [
+    0,
+    166,
+    "RESERVED"
+  ],
+  "zywiec": [
+    0,
+    165,
+    "ZYWIEC"
+  ],
+  "tvn": [
+    0,
+    164,
+    "TVN"
+  ],
+  "lotos": [
+    0,
+    163,
+    "LOTOS"
+  ],
+  "mastercook": [
+    0,
+    162,
+    "MASTERCOOK"
+  ],
+  "ccc": [
+    0,
+    161,
+    "CCC"
+  ],
+  "fso": [
+    0,
+    160,
+    "FSO"
+  ],
+  "ziaja": [
+    0,
+    159,
+    "ZIAJA"
+  ],
+  "vistula": [
+    0,
+    158,
+    "VISTULA"
+  ],
+  "wawel": [
+    0,
+    157,
+    "WAWEL"
+  ],
+  "lech": [
+    0,
+    156,
+    "LECH"
+  ],
+  "caixa": [
+    0,
+    155,
+    "CAIXA"
+  ],
+  "sadia": [
+    0,
+    154,
+    "SADIA"
+  ],
+  "oi": [
+    0,
+    153,
+    "OI"
+  ],
+  "natura": [
+    0,
+    152,
+    "NATURA"
+  ],
+  "tam": [
+    0,
+    151,
+    "TAM"
+  ],
+  "cielo": [
+    0,
+    150,
+    "CIELO"
+  ],
+  "banrisul": [
+    0,
+    149,
+    "BANRISUL"
+  ],
+  "petrobras": [
+    0,
+    148,
+    "PETROBRAS"
+  ],
+  "tim": [
+    0,
+    147,
+    "TIM"
+  ],
+  "brahma": [
+    0,
+    146,
+    "BRAHMA"
+  ],
+  "ipiranga": [
+    0,
+    145,
+    "IPIRANGA"
+  ],
+  "perdigao": [
+    0,
+    144,
+    "PERDIGAO"
+  ],
+  "unibanco": [
+    0,
+    143,
+    "UNIBANCO"
+  ],
+  "jbs": [
+    0,
+    142,
+    "JBS"
+  ],
+  "bndes": [
+    0,
+    141,
+    "BNDES"
+  ],
+  "extra": [
+    0,
+    140,
+    "EXTRA"
+  ],
+  "embratel": [
+    0,
+    139,
+    "EMBRATEL"
+  ],
+  "correios": [
+    0,
+    138,
+    "CORREIOS"
+  ],
+  "eletrobras": [
+    0,
+    137,
+    "ELETROBRAS"
+  ],
+  "kone": [
+    0,
+    136,
+    "KONE"
+  ],
+  "if": [
+    0,
+    135,
+    "IF"
+  ],
+  "valio": [
+    0,
+    134,
+    "VALIO"
+  ],
+  "elisa": [
+    0,
+    133,
+    "ELISA"
+  ],
+  "kesko": [
+    0,
+    132,
+    "KESKO"
+  ],
+  "fortum": [
+    0,
+    131,
+    "FORTUM"
+  ],
+  "fazer": [
+    0,
+    130,
+    "FAZER"
+  ],
+  "yit": [
+    0,
+    129,
+    "YIT"
+  ],
+  "neste": [
+    0,
+    128,
+    "NESTE"
+  ],
+  "fiskars": [
+    0,
+    127,
+    "FISKARS"
+  ],
+  "habbo": [
+    0,
+    126,
+    "HABBO"
+  ],
+  "koskenkorva": [
+    0,
+    125,
+    "KOSKENKORVA"
+  ],
+  "vr": [
+    0,
+    124,
+    "VR"
+  ],
+  "ruukki": [
+    0,
+    123,
+    "RUUKKI"
+  ],
+  "sampo": [
+    0,
+    122,
+    "SAMPO"
+  ],
+  "sanoma": [
+    0,
+    121,
+    "SANOMA"
+  ],
+  "olvi": [
+    0,
+    120,
+    "OLVI"
+  ],
+  "stockmann": [
+    0,
+    119,
+    "STOCKMANN"
+  ],
+  "sonera": [
+    0,
+    118,
+    "SONERA"
+  ],
+  "oras": [
+    0,
+    117,
+    "ORAS"
+  ],
+  "hartwall": [
+    0,
+    116,
+    "HARTWALL"
+  ],
+  "oxxo": [
+    0,
+    115,
+    "OXXO"
+  ],
+  "modelo": [
+    0,
+    114,
+    "MODELO"
+  ],
+  "televisa": [
+    0,
+    113,
+    "TELEVISA"
+  ],
+  "telmex": [
+    0,
+    112,
+    "TELMEX"
+  ],
+  "soriana": [
+    0,
+    111,
+    "SORIANA"
+  ],
+  "aeromexico": [
+    0,
+    110,
+    "AEROMEXICO"
+  ],
+  "pemex": [
+    0,
+    109,
+    "PEMEX"
+  ],
+  "banamex": [
+    0,
+    108,
+    "BANAMEX"
+  ],
+  "chedraui": [
+    0,
+    107,
+    "CHEDRAUI"
+  ],
+  "interjet": [
+    0,
+    106,
+    "INTERJET"
+  ],
+  "famsa": [
+    0,
+    105,
+    "FAMSA"
+  ],
+  "bancomer": [
+    0,
+    104,
+    "BANCOMER"
+  ],
+  "jarritos": [
+    0,
+    103,
+    "JARRITOS"
+  ],
+  "telcel": [
+    0,
+    102,
+    "TELCEL"
+  ],
+  "femsa": [
+    0,
+    101,
+    "FEMSA"
+  ],
+  "bimbo": [
+    0,
+    100,
+    "BIMBO"
+  ],
+  "banorte": [
+    0,
+    99,
+    "BANORTE"
+  ],
+  "marinela": [
+    0,
+    98,
+    "MARINELA"
+  ],
+  "inbursa": [
+    0,
+    97,
+    "INBURSA"
+  ],
+  "liverpool": [
+    0,
+    96,
+    "LIVERPOOL"
+  ],
+  "ypf": [
+    0,
+    95,
+    "YPF"
+  ],
+  "telecom": [
+    0,
+    94,
+    "TELECOM"
+  ],
+  "mercadolibre": [
+    0,
+    93,
+    "MERCADOLIBRE"
+  ],
+  "disco": [
+    0,
+    92,
+    "DISCO"
+  ],
+  "arcor": [
+    0,
+    91,
+    "ARCOR"
+  ],
+  "quilmes": [
+    0,
+    90,
+    "QUILMES"
+  ],
+  "sancor": [
+    0,
+    89,
+    "SANCOR"
+  ],
+  "havanna": [
+    0,
+    88,
+    "HAVANNA"
+  ],
+  "coto": [
+    0,
+    87,
+    "COTO"
+  ],
+  "personal": [
+    0,
+    86,
+    "PERSONAL"
+  ],
+  "signia": [
+    0,
+    85,
+    "SIGNIA"
+  ],
+  "portsaid": [
+    0,
+    84,
+    "PORTSAID"
+  ],
+  "galicia": [
+    0,
+    83,
+    "GALICIA"
+  ],
+  "telefe": [
+    0,
+    82,
+    "TELEFE"
+  ],
+  "clarin": [
+    0,
+    81,
+    "CLARIN"
+  ],
+  "fibertel": [
+    0,
+    80,
+    "FIBERTEL"
+  ],
+  "mantecol": [
+    0,
+    79,
+    "MANTECOL"
+  ],
+  "bancolombia": [
+    0,
+    78,
+    "BANCOLOMBIA"
+  ],
+  "aguila": [
+    0,
+    77,
+    "AGUILA"
+  ],
+  "ecopetrol": [
+    0,
+    76,
+    "ECOPETROL"
+  ],
+  "une": [
+    0,
+    75,
+    "UNE"
+  ],
+  "alpina": [
+    0,
+    74,
+    "ALPINA"
+  ],
+  "avianca": [
+    0,
+    73,
+    "AVIANCA"
+  ],
+  "davivienda": [
+    0,
+    72,
+    "DAVIVIENDA"
+  ],
+  "caracol": [
+    0,
+    71,
+    "CARACOL"
+  ],
+  "sura": [
+    0,
+    70,
+    "SURA"
+  ],
+  "exito": [
+    0,
+    69,
+    "EXITO"
+  ],
+  "doria": [
+    0,
+    68,
+    "DORIA"
+  ],
+  "poker": [
+    0,
+    67,
+    "POKER"
+  ],
+  "etb": [
+    0,
+    66,
+    "ETB"
+  ],
+  "falabella": [
+    0,
+    65,
+    "FALABELLA"
+  ],
+  "lan": [
+    0,
+    64,
+    "LAN"
+  ],
+  "sodimac": [
+    0,
+    63,
+    "SODIMAC"
+  ],
+  "copec": [
+    0,
+    62,
+    "COPEC"
+  ],
+  "lider": [
+    0,
+    61,
+    "LIDER"
+  ],
+  "paris": [
+    0,
+    60,
+    "PARIS"
+  ],
+  "csav": [
+    0,
+    59,
+    "CSAV"
+  ],
+  "entel": [
+    0,
+    58,
+    "ENTEL"
+  ],
+  "watts": [
+    0,
+    57,
+    "WATTS"
+  ],
+  "chilevision": [
+    0,
+    56,
+    "CHILEVISION"
+  ],
+  "antarchile": [
+    0,
+    55,
+    "ANTARCHILE"
+  ],
+  "bancoestado": [
+    0,
+    54,
+    "BANCOESTADO"
+  ],
+  "telsur": [
+    0,
+    53,
+    "TELSUR"
+  ],
+  "corpbanca": [
+    0,
+    52,
+    "CORPBANCA"
+  ],
+  "kunstmann": [
+    0,
+    51,
+    "KUNSTMANN"
+  ],
+  "efe": [
+    0,
+    50,
+    "EFE"
+  ],
+  "nemiroff": [
+    0,
+    49,
+    "NEMIROFF"
+  ],
+  "roshen": [
+    0,
+    48,
+    "ROSHEN"
+  ],
+  "wog": [
+    0,
+    47,
+    "WOG"
+  ],
+  "silpo": [
+    0,
+    46,
+    "SILPO"
+  ],
+  "inter": [
+    0,
+    45,
+    "INTER"
+  ],
+  "obolon": [
+    0,
+    44,
+    "OBOLON"
+  ],
+  "privatbank": [
+    0,
+    43,
+    "PRIVATBANK"
+  ],
+  "sandora": [
+    0,
+    42,
+    "SANDORA"
+  ],
+  "kyivstar": [
+    0,
+    41,
+    "KYIVSTAR"
+  ],
+  "okko": [
+    0,
+    40,
+    "OKKO"
+  ],
+  "vega": [
+    0,
+    39,
+    "VEGA"
+  ],
+  "antonov": [
+    0,
+    38,
+    "ANTONOV"
+  ],
+  "ictv": [
+    0,
+    37,
+    "ICTV"
+  ],
+  "chumak": [
+    0,
+    36,
+    "CHUMAK"
+  ],
+  "oschadbank": [
+    0,
+    35,
+    "OSCHADBANK"
+  ],
+  "metinvest": [
+    0,
+    34,
+    "METINVEST"
+  ],
+  "konti": [
+    0,
+    33,
+    "KONTI"
+  ],
+  "fora": [
+    0,
+    32,
+    "FORA"
+  ],
+  "ukraina": [
+    0,
+    31,
+    "UKRAINA"
+  ],
+  "continente": [
+    0,
+    30,
+    "CONTINENTE"
+  ],
+  "sic": [
+    0,
+    29,
+    "SIC"
+  ],
+  "edp": [
+    0,
+    28,
+    "EDP"
+  ],
+  "meo": [
+    0,
+    27,
+    "MEO"
+  ],
+  "rfm": [
+    0,
+    26,
+    "RFM"
+  ],
+  "sumol": [
+    0,
+    25,
+    "SUMOL"
+  ],
+  "abola": [
+    0,
+    24,
+    "ABOLA"
+  ],
+  "ctt": [
+    0,
+    23,
+    "CTT"
+  ],
+  "rtp": [
+    0,
+    22,
+    "RTP"
+  ],
+  "sagres": [
+    0,
+    21,
+    "SAGRES"
+  ],
+  "robbialac": [
+    0,
+    20,
+    "ROBBIALAC"
+  ],
+  "carris": [
+    0,
+    19,
+    "CARRIS"
+  ],
+  "galp": [
+    0,
+    18,
+    "GALP"
+  ],
+  "nos": [
+    0,
+    17,
+    "NOS"
+  ],
+  "publico": [
+    0,
+    16,
+    "PUBLICO"
+  ],
+  "aki": [
+    0,
+    15,
+    "AKI"
+  ],
+  "bca": [
+    0,
+    14,
+    "BCA"
+  ],
+  "telkomsel": [
+    0,
+    13,
+    "TELKOMSEL"
+  ],
+  "indomie": [
+    0,
+    12,
+    "INDOMIE"
+  ],
+  "matahari": [
+    0,
+    11,
+    "MATAHARI"
+  ],
+  "alfamart": [
+    0,
+    10,
+    "ALFAMART"
+  ],
+  "tvri": [
+    0,
+    9,
+    "TVRI"
+  ],
+  "xl": [
+    0,
+    8,
+    "XL"
+  ],
+  "bintang": [
+    0,
+    7,
+    "BINTANG"
+  ],
+  "cfc": [
+    0,
+    6,
+    "CFC"
+  ],
+  "pertamina": [
+    0,
+    5,
+    "PERTAMINA"
+  ],
+  "sarimi": [
+    0,
+    4,
+    "SARIMI"
+  ],
+  "pgn": [
+    0,
+    3,
+    "PGN"
+  ],
+  "rcti": [
+    0,
+    2,
+    "RCTI"
+  ],
+  "bimoli": [
+    0,
+    1,
+    "BIMOLI"
+  ]
+}

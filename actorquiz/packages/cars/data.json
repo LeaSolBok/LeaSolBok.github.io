@@ -1,0 +1,612 @@
+{
+  "toyota": [
+    0,
+    122,
+    "TOYOTA"
+  ],
+  "volkswagen": [
+    0,
+    121,
+    "VOLKSWAGEN"
+  ],
+  "ford": [
+    0,
+    120,
+    "FORD"
+  ],
+  "honda": [
+    0,
+    119,
+    "HONDA"
+  ],
+  "nissan": [
+    0,
+    118,
+    "NISSAN"
+  ],
+  "chevrolet": [
+    0,
+    117,
+    "CHEVROLET"
+  ],
+  "hyundai": [
+    0,
+    116,
+    "HYUNDAI"
+  ],
+  "kia": [
+    0,
+    115,
+    "KIA"
+  ],
+  "bmw": [
+    0,
+    114,
+    "BMW"
+  ],
+  "audi": [
+    0,
+    113,
+    "AUDI"
+  ],
+  "mazda": [
+    0,
+    112,
+    "MAZDA"
+  ],
+  "subaru": [
+    0,
+    111,
+    "SUBARU"
+  ],
+  "lexus": [
+    0,
+    110,
+    "LEXUS"
+  ],
+  "volvo": [
+    0,
+    109,
+    "VOLVO"
+  ],
+  "tesla": [
+    0,
+    108,
+    "TESLA"
+  ],
+  "jeep": [
+    0,
+    107,
+    "JEEP"
+  ],
+  "dodge": [
+    0,
+    106,
+    "DODGE"
+  ],
+  "cadillac": [
+    0,
+    105,
+    "CADILLAC"
+  ],
+  "acura": [
+    0,
+    104,
+    "ACURA"
+  ],
+  "infiniti": [
+    0,
+    103,
+    "INFINITI"
+  ],
+  "mitsubishi": [
+    0,
+    102,
+    "MITSUBISHI"
+  ],
+  "suzuki": [
+    0,
+    101,
+    "SUZUKI"
+  ],
+  "fiat": [
+    0,
+    100,
+    "FIAT"
+  ],
+  "mini": [
+    0,
+    99,
+    "MINI"
+  ],
+  "land rover": [
+    0,
+    98,
+    "LAND ROVER"
+  ],
+  "jaguar": [
+    0,
+    97,
+    "JAGUAR"
+  ],
+  "porsche": [
+    0,
+    96,
+    "PORSCHE"
+  ],
+  "ferrari": [
+    0,
+    95,
+    "FERRARI"
+  ],
+  "lamborghini": [
+    0,
+    94,
+    "LAMBORGHINI"
+  ],
+  "bentley": [
+    0,
+    93,
+    "BENTLEY"
+  ],
+  "rolls royce": [
+    0,
+    92,
+    "ROLLS ROYCE"
+  ],
+  "aston martin": [
+    0,
+    91,
+    "ASTON MARTIN"
+  ],
+  "maserati": [
+    0,
+    90,
+    "MASERATI"
+  ],
+  "lincoln": [
+    0,
+    89,
+    "LINCOLN"
+  ],
+  "buick": [
+    0,
+    88,
+    "BUICK"
+  ],
+  "ram": [
+    0,
+    87,
+    "RAM"
+  ],
+  "chrysler": [
+    0,
+    86,
+    "CHRYSLER"
+  ],
+  "peugeot": [
+    0,
+    85,
+    "PEUGEOT"
+  ],
+  "renault": [
+    0,
+    84,
+    "RENAULT"
+  ],
+  "citroen": [
+    0,
+    83,
+    "CITROEN"
+  ],
+  "skoda": [
+    0,
+    82,
+    "SKODA"
+  ],
+  "seat": [
+    0,
+    81,
+    "SEAT"
+  ],
+  "opel": [
+    0,
+    80,
+    "OPEL"
+  ],
+  "vauxhall": [
+    0,
+    79,
+    "VAUXHALL"
+  ],
+  "lancia": [
+    0,
+    78,
+    "LANCIA"
+  ],
+  "alfa romeo": [
+    0,
+    77,
+    "ALFA ROMEO"
+  ],
+  "smart": [
+    0,
+    76,
+    "SMART"
+  ],
+  "daihatsu": [
+    0,
+    75,
+    "DAIHATSU"
+  ],
+  "scion": [
+    0,
+    74,
+    "SCION"
+  ],
+  "saturn": [
+    0,
+    73,
+    "SATURN"
+  ],
+  "pontiac": [
+    0,
+    72,
+    "PONTIAC"
+  ],
+  "oldsmobile": [
+    0,
+    71,
+    "OLDSMOBILE"
+  ],
+  "mercury": [
+    0,
+    70,
+    "MERCURY"
+  ],
+  "eagle": [
+    0,
+    69,
+    "EAGLE"
+  ],
+  "daewoo": [
+    0,
+    68,
+    "DAEWOO"
+  ],
+  "genesis": [
+    0,
+    67,
+    "GENESIS"
+  ],
+  "polestar": [
+    0,
+    66,
+    "POLESTAR"
+  ],
+  "lotus": [
+    0,
+    65,
+    "LOTUS"
+  ],
+  "mclaren": [
+    0,
+    64,
+    "MCLAREN"
+  ],
+  "bugatti": [
+    0,
+    63,
+    "BUGATTI"
+  ],
+  "koenigsegg": [
+    0,
+    62,
+    "KOENIGSEGG"
+  ],
+  "pagani": [
+    0,
+    61,
+    "PAGANI"
+  ],
+  "zenvo": [
+    0,
+    60,
+    "ZENVO"
+  ],
+  "ssc": [
+    0,
+    59,
+    "SSC"
+  ],
+  "maybach": [
+    0,
+    58,
+    "MAYBACH"
+  ],
+  "spyker": [
+    0,
+    57,
+    "SPYKER"
+  ],
+  "morgan": [
+    0,
+    56,
+    "MORGAN"
+  ],
+  "caterham": [
+    0,
+    55,
+    "CATERHAM"
+  ],
+  "artega": [
+    0,
+    54,
+    "ARTEGA"
+  ],
+  "glickenhaus": [
+    0,
+    53,
+    "GLICKENHAUS"
+  ],
+  "panoz": [
+    0,
+    52,
+    "PANOZ"
+  ],
+  "saleen": [
+    0,
+    51,
+    "SALEEN"
+  ],
+  "shelby": [
+    0,
+    50,
+    "SHELBY"
+  ],
+  "mosler": [
+    0,
+    49,
+    "MOSLER"
+  ],
+  "w motors": [
+    0,
+    48,
+    "W MOTORS"
+  ],
+  "zarooq": [
+    0,
+    47,
+    "ZAROOQ"
+  ],
+  "aixam": [
+    0,
+    46,
+    "AIXAM"
+  ],
+  "troller": [
+    0,
+    45,
+    "TROLLER"
+  ],
+  "mahindra": [
+    0,
+    44,
+    "MAHINDRA"
+  ],
+  "tata motors": [
+    0,
+    43,
+    "TATA MOTORS"
+  ],
+  "byd": [
+    0,
+    42,
+    "BYD"
+  ],
+  "geely": [
+    0,
+    41,
+    "GEELY"
+  ],
+  "great wall": [
+    0,
+    40,
+    "GREAT WALL"
+  ],
+  "changan": [
+    0,
+    39,
+    "CHANGAN"
+  ],
+  "dongfeng": [
+    0,
+    38,
+    "DONGFENG"
+  ],
+  "faw": [
+    0,
+    37,
+    "FAW"
+  ],
+  "saic": [
+    0,
+    36,
+    "SAIC"
+  ],
+  "gac": [
+    0,
+    35,
+    "GAC"
+  ],
+  "jac": [
+    0,
+    34,
+    "JAC"
+  ],
+  "wuling": [
+    0,
+    33,
+    "WULING"
+  ],
+  "changfeng liebao": [
+    0,
+    32,
+    "CHANGFENG LIEBAO"
+  ],
+  "foton": [
+    0,
+    31,
+    "FOTON"
+  ],
+  "lifan": [
+    0,
+    30,
+    "LIFAN"
+  ],
+  "brilliance": [
+    0,
+    29,
+    "BRILLIANCE"
+  ],
+  "landwind": [
+    0,
+    28,
+    "LANDWIND"
+  ],
+  "qoros": [
+    0,
+    27,
+    "QOROS"
+  ],
+  "nio": [
+    0,
+    26,
+    "NIO"
+  ],
+  "rivian": [
+    0,
+    25,
+    "RIVIAN"
+  ],
+  "leapmotor": [
+    0,
+    24,
+    "LEAPMOTOR"
+  ],
+  "aiways": [
+    0,
+    23,
+    "AIWAYS"
+  ],
+  "karma": [
+    0,
+    22,
+    "KARMA"
+  ],
+  "lada": [
+    0,
+    21,
+    "LADA"
+  ],
+  "gaz": [
+    0,
+    20,
+    "GAZ"
+  ],
+  "ssangyong": [
+    0,
+    19,
+    "SSANGYONG"
+  ],
+  "holden": [
+    0,
+    18,
+    "HOLDEN"
+  ],
+  "mg": [
+    0,
+    17,
+    "MG"
+  ],
+  "ds": [
+    0,
+    16,
+    "DS"
+  ],
+  "abarth": [
+    0,
+    15,
+    "ABARTH"
+  ],
+  "cupra": [
+    0,
+    14,
+    "CUPRA"
+  ],
+  "alpine": [
+    0,
+    13,
+    "ALPINE"
+  ],
+  "studebaker": [
+    0,
+    12,
+    "STUDEBAKER"
+  ],
+  "hudson": [
+    0,
+    11,
+    "HUDSON"
+  ],
+  "international harvester": [
+    0,
+    10,
+    "INTERNATIONAL HARVESTER"
+  ],
+  "italdesign": [
+    0,
+    9,
+    "ITALDESIGN"
+  ],
+  "kenworth": [
+    0,
+    8,
+    "KENWORTH"
+  ],
+  "peterbit": [
+    0,
+    7,
+    "PETERBIT"
+  ],
+  "western star": [
+    0,
+    6,
+    "WESTERN STAR"
+  ],
+  "polaris": [
+    0,
+    5,
+    "POLARIS"
+  ],
+  "general motors": [
+    0,
+    4,
+    "GENERAL MOTORS"
+  ],
+  "corvette": [
+    0,
+    3,
+    "CORVETTE"
+  ],
+  "mustang": [
+    0,
+    2,
+    "MUSTANG"
+  ],
+  "dodge viper": [
+    0,
+    1,
+    "DODGE VIPER"
+  ]
+}

@@ -1,0 +1,1207 @@
+{
+  "real madrid": [
+    0,
+    241,
+    "REAL MADRID"
+  ],
+  "barcelona": [
+    0,
+    240,
+    "BARCELONA"
+  ],
+  "manchester city": [
+    0,
+    239,
+    "MANCHESTER CITY"
+  ],
+  "bayern munich": [
+    0,
+    238,
+    "BAYERN MUNICH"
+  ],
+  "paris saint germain": [
+    0,
+    237,
+    "PARIS SAINT GERMAIN"
+  ],
+  "juventus": [
+    0,
+    236,
+    "JUVENTUS"
+  ],
+  "chelsea": [
+    0,
+    235,
+    "CHELSEA"
+  ],
+  "arsenal": [
+    0,
+    234,
+    "ARSENAL"
+  ],
+  "inter milan": [
+    0,
+    233,
+    "INTER MILAN"
+  ],
+  "milan": [
+    0,
+    232,
+    "MILAN"
+  ],
+  "tottenham hotspur": [
+    0,
+    231,
+    "TOTTENHAM HOTSPUR"
+  ],
+  "atletico de madrid": [
+    0,
+    230,
+    "ATLETICO DE MADRID"
+  ],
+  "borussia dortmund": [
+    0,
+    229,
+    "BORUSSIA DORTMUND"
+  ],
+  "benfica": [
+    0,
+    228,
+    "BENFICA"
+  ],
+  "sporting cp": [
+    0,
+    227,
+    "SPORTING CP"
+  ],
+  "celtic": [
+    0,
+    226,
+    "CELTIC"
+  ],
+  "rangers": [
+    0,
+    225,
+    "RANGERS"
+  ],
+  "sevilla": [
+    0,
+    224,
+    "SEVILLA"
+  ],
+  "ssc napoli": [
+    0,
+    223,
+    "SSC NAPOLI"
+  ],
+  "olympique de marseille": [
+    0,
+    222,
+    "OLYMPIQUE DE MARSEILLE"
+  ],
+  "aston villa": [
+    0,
+    221,
+    "ASTON VILLA"
+  ],
+  "newcastle united": [
+    0,
+    220,
+    "NEWCASTLE UNITED"
+  ],
+  "everton": [
+    0,
+    219,
+    "EVERTON"
+  ],
+  "leeds united": [
+    0,
+    218,
+    "LEEDS UNITED"
+  ],
+  "leicester city": [
+    0,
+    217,
+    "LEICESTER CITY"
+  ],
+  "wolverhampton wanderers": [
+    0,
+    216,
+    "WOLVERHAMPTON WANDERERS"
+  ],
+  "nottingham forest": [
+    0,
+    215,
+    "NOTTINGHAM FOREST"
+  ],
+  "brighton hove albion": [
+    0,
+    214,
+    "BRIGHTON HOVE ALBION"
+  ],
+  "brentford": [
+    0,
+    213,
+    "BRENTFORD"
+  ],
+  "crystal palace": [
+    0,
+    212,
+    "CRYSTAL PALACE"
+  ],
+  "west bromwich albion": [
+    0,
+    211,
+    "WEST BROMWICH ALBION"
+  ],
+  "sheffield united": [
+    0,
+    210,
+    "SHEFFIELD UNITED"
+  ],
+  "sunderland": [
+    0,
+    209,
+    "SUNDERLAND"
+  ],
+  "stoke city": [
+    0,
+    208,
+    "STOKE CITY"
+  ],
+  "zurich": [
+    0,
+    207,
+    "ZURICH"
+  ],
+  "reading": [
+    0,
+    206,
+    "READING"
+  ],
+  "ballkani": [
+    0,
+    205,
+    "BALLKANI"
+  ],
+  "s s lazio": [
+    0,
+    204,
+    "S S LAZIO"
+  ],
+  "as monaco": [
+    0,
+    203,
+    "AS MONACO"
+  ],
+  "olumpiakos": [
+    0,
+    202,
+    "OLUMPIAKOS"
+  ],
+  "moreirense": [
+    0,
+    201,
+    "MOREIRENSE"
+  ],
+  "aek athenes": [
+    0,
+    200,
+    "AEK ATHENES"
+  ],
+  "aj auxerre": [
+    0,
+    199,
+    "AJ AUXERRE"
+  ],
+  "legia warszawa": [
+    0,
+    198,
+    "LEGIA WARSZAWA"
+  ],
+  "boavista": [
+    0,
+    197,
+    "BOAVISTA"
+  ],
+  "lokomotiv moscow": [
+    0,
+    196,
+    "LOKOMOTIV MOSCOW"
+  ],
+  "breidablik": [
+    0,
+    195,
+    "BREIDABLIK"
+  ],
+  "cheltenham town": [
+    0,
+    194,
+    "CHELTENHAM TOWN"
+  ],
+  "cfr cluj": [
+    0,
+    193,
+    "CFR CLUJ"
+  ],
+  "millwall": [
+    0,
+    192,
+    "MILLWALL"
+  ],
+  "rayo vallecano": [
+    0,
+    191,
+    "RAYO VALLECANO"
+  ],
+  "rochdale association": [
+    0,
+    190,
+    "ROCHDALE ASSOCIATION"
+  ],
+  "barrow afc": [
+    0,
+    189,
+    "BARROW AFC"
+  ],
+  "qaraba": [
+    0,
+    188,
+    "QARABA"
+  ],
+  "heidenheim": [
+    0,
+    187,
+    "HEIDENHEIM"
+  ],
+  "shamrock rovers": [
+    0,
+    186,
+    "SHAMROCK ROVERS"
+  ],
+  "ludogorets": [
+    0,
+    185,
+    "LUDOGORETS"
+  ],
+  "bristol rovers": [
+    0,
+    184,
+    "BRISTOL ROVERS"
+  ],
+  "bayer 04 leverkusen": [
+    0,
+    183,
+    "BAYER 04 LEVERKUSEN"
+  ],
+  "wycombe wanderers": [
+    0,
+    182,
+    "WYCOMBE WANDERERS"
+  ],
+  "yorkshire reds pes": [
+    0,
+    181,
+    "YORKSHIRE REDS PES"
+  ],
+  "st pauli": [
+    0,
+    180,
+    "ST PAULI"
+  ],
+  "elfsborg": [
+    0,
+    179,
+    "ELFSBORG"
+  ],
+  "sv werder bremen": [
+    0,
+    178,
+    "SV WERDER BREMEN"
+  ],
+  "crawley town": [
+    0,
+    177,
+    "CRAWLEY TOWN"
+  ],
+  "hajduk split": [
+    0,
+    176,
+    "HAJDUK SPLIT"
+  ],
+  "bk hacken": [
+    0,
+    175,
+    "BK HACKEN"
+  ],
+  "dinamo zagreb": [
+    0,
+    174,
+    "DINAMO ZAGREB"
+  ],
+  "royal antwerp": [
+    0,
+    173,
+    "ROYAL ANTWERP"
+  ],
+  "rkc waalwijk": [
+    0,
+    172,
+    "RKC WAALWIJK"
+  ],
+  "mallorca": [
+    0,
+    171,
+    "MALLORCA"
+  ],
+  "sheffield wednesday": [
+    0,
+    170,
+    "SHEFFIELD WEDNESDAY"
+  ],
+  "pafos": [
+    0,
+    169,
+    "PAFOS"
+  ],
+  "grimsby town": [
+    0,
+    168,
+    "GRIMSBY TOWN"
+  ],
+  "lorient": [
+    0,
+    167,
+    "LORIENT"
+  ],
+  "djurgarden": [
+    0,
+    166,
+    "DJURGARDEN"
+  ],
+  "swindon town": [
+    0,
+    165,
+    "SWINDON TOWN"
+  ],
+  "maccabi tel aviv": [
+    0,
+    164,
+    "MACCABI TEL AVIV"
+  ],
+  "young boys": [
+    0,
+    163,
+    "YOUNG BOYS"
+  ],
+  "coventry city": [
+    0,
+    162,
+    "COVENTRY CITY"
+  ],
+  "salernitana": [
+    0,
+    161,
+    "SALERNITANA"
+  ],
+  "jagiellonia": [
+    0,
+    160,
+    "JAGIELLONIA"
+  ],
+  "darlington svg": [
+    0,
+    159,
+    "DARLINGTON SVG"
+  ],
+  "como 1907": [
+    0,
+    158,
+    "COMO 1907"
+  ],
+  "torino": [
+    0,
+    157,
+    "TORINO"
+  ],
+  "wrexham": [
+    0,
+    156,
+    "WREXHAM"
+  ],
+  "rc lens": [
+    0,
+    155,
+    "RC LENS"
+  ],
+  "westerlo": [
+    0,
+    154,
+    "WESTERLO"
+  ],
+  "bologna": [
+    0,
+    153,
+    "BOLOGNA"
+  ],
+  "birmingham city": [
+    0,
+    152,
+    "BIRMINGHAM CITY"
+  ],
+  "kerry": [
+    0,
+    151,
+    "KERRY"
+  ],
+  "slavia praha": [
+    0,
+    150,
+    "SLAVIA PRAHA"
+  ],
+  "sutton united": [
+    0,
+    149,
+    "SUTTON UNITED"
+  ],
+  "boulogne clermont foot": [
+    0,
+    148,
+    "BOULOGNE CLERMONT FOOT"
+  ],
+  "rakw": [
+    0,
+    147,
+    "RAKW"
+  ],
+  "cardiff city": [
+    0,
+    146,
+    "CARDIFF CITY"
+  ],
+  "wolfsburg": [
+    0,
+    145,
+    "WOLFSBURG"
+  ],
+  "mansfield town": [
+    0,
+    144,
+    "MANSFIELD TOWN"
+  ],
+  "union berlin": [
+    0,
+    143,
+    "UNION BERLIN"
+  ],
+  "vikingur reykjavik": [
+    0,
+    142,
+    "VIKINGUR REYKJAVIK"
+  ],
+  "barnsley": [
+    0,
+    141,
+    "BARNSLEY"
+  ],
+  "sassuolo": [
+    0,
+    140,
+    "SASSUOLO"
+  ],
+  "utrecht": [
+    0,
+    139,
+    "UTRECHT"
+  ],
+  "crvena zvezda": [
+    0,
+    138,
+    "CRVENA ZVEZDA"
+  ],
+  "apoel": [
+    0,
+    137,
+    "APOEL"
+  ],
+  "watford": [
+    0,
+    136,
+    "WATFORD"
+  ],
+  "notts county": [
+    0,
+    135,
+    "NOTTS COUNTY"
+  ],
+  "portimonense sc": [
+    0,
+    134,
+    "PORTIMONENSE SC"
+  ],
+  "vitoria sc": [
+    0,
+    133,
+    "VITORIA SC"
+  ],
+  "fcsb": [
+    0,
+    132,
+    "FCSB"
+  ],
+  "djurgrden": [
+    0,
+    131,
+    "DJURGRDEN"
+  ],
+  "empoli": [
+    0,
+    130,
+    "EMPOLI"
+  ],
+  "swansea city": [
+    0,
+    129,
+    "SWANSEA CITY"
+  ],
+  "cagliari": [
+    0,
+    128,
+    "CAGLIARI"
+  ],
+  "g d chaves": [
+    0,
+    127,
+    "G D CHAVES"
+  ],
+  "shakhtar": [
+    0,
+    126,
+    "SHAKHTAR"
+  ],
+  "espanyol": [
+    0,
+    125,
+    "ESPANYOL"
+  ],
+  "freiburg": [
+    0,
+    124,
+    "FREIBURG"
+  ],
+  "afc bournemouth": [
+    0,
+    123,
+    "AFC BOURNEMOUTH"
+  ],
+  "bristol city": [
+    0,
+    122,
+    "BRISTOL CITY"
+  ],
+  "sturm graz": [
+    0,
+    121,
+    "STURM GRAZ"
+  ],
+  "udinese calcio": [
+    0,
+    120,
+    "UDINESE CALCIO"
+  ],
+  "larnaca": [
+    0,
+    119,
+    "LARNACA"
+  ],
+  "norwich city": [
+    0,
+    118,
+    "NORWICH CITY"
+  ],
+  "leyton orient": [
+    0,
+    117,
+    "LEYTON ORIENT"
+  ],
+  "borussia mnchengladbach": [
+    0,
+    116,
+    "BORUSSIA MNCHENGLADBACH"
+  ],
+  "nordsjlland": [
+    0,
+    115,
+    "NORDSJLLAND"
+  ],
+  "bodo glimt": [
+    0,
+    114,
+    "BODO GLIMT"
+  ],
+  "doncaster rovers": [
+    0,
+    113,
+    "DONCASTER ROVERS"
+  ],
+  "real betis balompie": [
+    0,
+    112,
+    "REAL BETIS BALOMPIE"
+  ],
+  "vitesse": [
+    0,
+    111,
+    "VITESSE"
+  ],
+  "sk slovan bratislava": [
+    0,
+    110,
+    "SK SLOVAN BRATISLAVA"
+  ],
+  "aek larnaka": [
+    0,
+    109,
+    "AEK LARNAKA"
+  ],
+  "preston": [
+    0,
+    108,
+    "PRESTON"
+  ],
+  "racing club de strasbourg": [
+    0,
+    107,
+    "RACING CLUB DE STRASBOURG"
+  ],
+  "walsall": [
+    0,
+    106,
+    "WALSALL"
+  ],
+  "osasuna": [
+    0,
+    105,
+    "OSASUNA"
+  ],
+  "nantes new": [
+    0,
+    104,
+    "NANTES NEW"
+  ],
+  "sparta rotterdam": [
+    0,
+    103,
+    "SPARTA ROTTERDAM"
+  ],
+  "istanbul baakehir": [
+    0,
+    102,
+    "ISTANBUL BAAKEHIR"
+  ],
+  "spartak moscow": [
+    0,
+    101,
+    "SPARTAK MOSCOW"
+  ],
+  "sc heerenveen": [
+    0,
+    100,
+    "SC HEERENVEEN"
+  ],
+  "southend united": [
+    0,
+    99,
+    "SOUTHEND UNITED"
+  ],
+  "stade brestois": [
+    0,
+    98,
+    "STADE BRESTOIS"
+  ],
+  "feyenoord": [
+    0,
+    97,
+    "FEYENOORD"
+  ],
+  "aris limassol": [
+    0,
+    96,
+    "ARIS LIMASSOL"
+  ],
+  "ferencvarosi tc": [
+    0,
+    95,
+    "FERENCVAROSI TC"
+  ],
+  "alaves": [
+    0,
+    94,
+    "ALAVES"
+  ],
+  "tsg 1899 hoffenheim": [
+    0,
+    93,
+    "TSG 1899 HOFFENHEIM"
+  ],
+  "kaa gent": [
+    0,
+    92,
+    "KAA GENT"
+  ],
+  "girona": [
+    0,
+    91,
+    "GIRONA"
+  ],
+  "scunthorpe united": [
+    0,
+    90,
+    "SCUNTHORPE UNITED"
+  ],
+  "lille osc": [
+    0,
+    89,
+    "LILLE OSC"
+  ],
+  "peterborough united": [
+    0,
+    88,
+    "PETERBOROUGH UNITED"
+  ],
+  "almeria": [
+    0,
+    87,
+    "ALMERIA"
+  ],
+  "lech pozna": [
+    0,
+    86,
+    "LECH POZNA"
+  ],
+  "lugano": [
+    0,
+    85,
+    "LUGANO"
+  ],
+  "leipzig": [
+    0,
+    84,
+    "LEIPZIG"
+  ],
+  "bolton wanderers 1": [
+    0,
+    83,
+    "BOLTON WANDERERS 1"
+  ],
+  "york city": [
+    0,
+    82,
+    "YORK CITY"
+  ],
+  "maccabi haifa": [
+    0,
+    81,
+    "MACCABI HAIFA"
+  ],
+  "red bulls": [
+    0,
+    80,
+    "RED BULLS"
+  ],
+  "besiktas": [
+    0,
+    79,
+    "BESIKTAS"
+  ],
+  "stockport county": [
+    0,
+    78,
+    "STOCKPORT COUNTY"
+  ],
+  "rio ave": [
+    0,
+    77,
+    "RIO AVE"
+  ],
+  "halifax town": [
+    0,
+    76,
+    "HALIFAX TOWN"
+  ],
+  "petrocub": [
+    0,
+    75,
+    "PETROCUB"
+  ],
+  "kidderminster": [
+    0,
+    74,
+    "KIDDERMINSTER"
+  ],
+  "borac banja luka": [
+    0,
+    73,
+    "BORAC BANJA LUKA"
+  ],
+  "bury": [
+    0,
+    72,
+    "BURY"
+  ],
+  "forest green rovers": [
+    0,
+    71,
+    "FOREST GREEN ROVERS"
+  ],
+  "zrinjski mostar": [
+    0,
+    70,
+    "ZRINJSKI MOSTAR"
+  ],
+  "fiorentina": [
+    0,
+    69,
+    "FIORENTINA"
+  ],
+  "stade rennais": [
+    0,
+    68,
+    "STADE RENNAIS"
+  ],
+  "genoa": [
+    0,
+    67,
+    "GENOA"
+  ],
+  "sporting portugal": [
+    0,
+    66,
+    "SPORTING PORTUGAL"
+  ],
+  "oxford united": [
+    0,
+    65,
+    "OXFORD UNITED"
+  ],
+  "yeovil town": [
+    0,
+    64,
+    "YEOVIL TOWN"
+  ],
+  "gil vicente": [
+    0,
+    63,
+    "GIL VICENTE"
+  ],
+  "foot toulouse": [
+    0,
+    62,
+    "FOOT TOULOUSE"
+  ],
+  "eintracht frankfurt": [
+    0,
+    61,
+    "EINTRACHT FRANKFURT"
+  ],
+  "frosinone calcio": [
+    0,
+    60,
+    "FROSINONE CALCIO"
+  ],
+  "cercle brugge": [
+    0,
+    59,
+    "CERCLE BRUGGE"
+  ],
+  "hartlepool united": [
+    0,
+    58,
+    "HARTLEPOOL UNITED"
+  ],
+  "burton albion badge": [
+    0,
+    57,
+    "BURTON ALBION BADGE"
+  ],
+  "twente": [
+    0,
+    56,
+    "TWENTE"
+  ],
+  "standard de liege": [
+    0,
+    55,
+    "STANDARD DE LIEGE"
+  ],
+  "blackburn rovers": [
+    0,
+    54,
+    "BLACKBURN ROVERS"
+  ],
+  "holstein kiel": [
+    0,
+    53,
+    "HOLSTEIN KIEL"
+  ],
+  "rsc anderlecht": [
+    0,
+    52,
+    "RSC ANDERLECHT"
+  ],
+  "carlisle united": [
+    0,
+    51,
+    "CARLISLE UNITED"
+  ],
+  "mainz 05": [
+    0,
+    50,
+    "MAINZ 05"
+  ],
+  "blackpool": [
+    0,
+    49,
+    "BLACKPOOL"
+  ],
+  "molde": [
+    0,
+    48,
+    "MOLDE"
+  ],
+  "malm ff": [
+    0,
+    47,
+    "MALM FF"
+  ],
+  "fk partizan": [
+    0,
+    46,
+    "FK PARTIZAN"
+  ],
+  "hellas verona": [
+    0,
+    45,
+    "HELLAS VERONA"
+  ],
+  "nec nijmegen": [
+    0,
+    44,
+    "NEC NIJMEGEN"
+  ],
+  "astana": [
+    0,
+    43,
+    "ASTANA"
+  ],
+  "sparta praha": [
+    0,
+    42,
+    "SPARTA PRAHA"
+  ],
+  "us lecce": [
+    0,
+    41,
+    "US LECCE"
+  ],
+  "noah": [
+    0,
+    40,
+    "NOAH"
+  ],
+  "heart of midlothian": [
+    0,
+    39,
+    "HEART OF MIDLOTHIAN"
+  ],
+  "aldershot town": [
+    0,
+    38,
+    "ALDERSHOT TOWN"
+  ],
+  "dagenham redbridge": [
+    0,
+    37,
+    "DAGENHAM REDBRIDGE"
+  ],
+  "west ham united": [
+    0,
+    36,
+    "WEST HAM UNITED"
+  ],
+  "colchester united": [
+    0,
+    35,
+    "COLCHESTER UNITED"
+  ],
+  "the new saints": [
+    0,
+    34,
+    "THE NEW SAINTS"
+  ],
+  "mlada boleslav": [
+    0,
+    33,
+    "MLADA BOLESLAV"
+  ],
+  "sheriff": [
+    0,
+    32,
+    "SHERIFF"
+  ],
+  "nk maribor": [
+    0,
+    31,
+    "NK MARIBOR"
+  ],
+  "copenhagen": [
+    0,
+    30,
+    "COPENHAGEN"
+  ],
+  "austria wien": [
+    0,
+    29,
+    "AUSTRIA WIEN"
+  ],
+  "fk krasnodar": [
+    0,
+    28,
+    "FK KRASNODAR"
+  ],
+  "getafe cf": [
+    0,
+    27,
+    "GETAFE CF"
+  ],
+  "southampton": [
+    0,
+    26,
+    "SOUTHAMPTON"
+  ],
+  "porto": [
+    0,
+    25,
+    "PORTO"
+  ],
+  "stuttgart": [
+    0,
+    24,
+    "STUTTGART"
+  ],
+  "basel": [
+    0,
+    23,
+    "BASEL"
+  ],
+  "liverpool": [
+    0,
+    22,
+    "LIVERPOOL"
+  ],
+  "fenerbahce s k": [
+    0,
+    21,
+    "FENERBAHCE S K"
+  ],
+  "burnley": [
+    0,
+    20,
+    "BURNLEY"
+  ],
+  "sk rapid": [
+    0,
+    19,
+    "SK RAPID"
+  ],
+  "granada": [
+    0,
+    18,
+    "GRANADA"
+  ],
+  "hereford united": [
+    0,
+    17,
+    "HEREFORD UNITED"
+  ],
+  "as roma": [
+    0,
+    16,
+    "AS ROMA"
+  ],
+  "ipswich town": [
+    0,
+    15,
+    "IPSWICH TOWN"
+  ],
+  "poster": [
+    0,
+    14,
+    "POSTER"
+  ],
+  "real sociedad": [
+    0,
+    13,
+    "REAL SOCIEDAD"
+  ],
+  "club brugge": [
+    0,
+    12,
+    "CLUB BRUGGE"
+  ],
+  "ajax": [
+    0,
+    11,
+    "AJAX"
+  ],
+  "estoril": [
+    0,
+    10,
+    "ESTORIL"
+  ],
+  "az alkmaar": [
+    0,
+    9,
+    "AZ ALKMAAR"
+  ],
+  "cambridge united": [
+    0,
+    8,
+    "CAMBRIDGE UNITED"
+  ],
+  "zorya luhansk": [
+    0,
+    7,
+    "ZORYA LUHANSK"
+  ],
+  "northampton town": [
+    0,
+    6,
+    "NORTHAMPTON TOWN"
+  ],
+  "touluse": [
+    0,
+    5,
+    "TOULUSE"
+  ],
+  "ogc nice": [
+    0,
+    4,
+    "OGC NICE"
+  ],
+  "napoli": [
+    0,
+    3,
+    "NAPOLI"
+  ],
+  "paok": [
+    0,
+    2,
+    "PAOK"
+  ],
+  "port vale": [
+    0,
+    1,
+    "PORT VALE"
+  ]
+}

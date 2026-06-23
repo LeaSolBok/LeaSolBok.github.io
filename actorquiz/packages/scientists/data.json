@@ -1,0 +1,482 @@
+{
+  "brian cox": [
+    1248,
+    5.202
+  ],
+  "david attenborough": [
+    86543,
+    1.809
+  ],
+  "elon musk": [
+    57563,
+    1.388
+  ],
+  "neil degrasse tyson": [
+    550307,
+    1.301
+  ],
+  "carl sagan": [
+    10293,
+    1.173
+  ],
+  "vandana shiva": [
+    149288,
+    1.132
+  ],
+  "buzz aldrin": [
+    106843,
+    1.031
+  ],
+  "bill gates": [
+    240633,
+    1.006
+  ],
+  "henry kissinger": [
+    533195,
+    0.977
+  ],
+  "martin luther king jr.": [
+    1107983,
+    0.953
+  ],
+  "steve jobs": [
+    12897,
+    0.916
+  ],
+  "richard dawkins": [
+    74093,
+    0.871
+  ],
+  "cornel west": [
+    537506,
+    0.843
+  ],
+  "neil armstrong": [
+    87485,
+    0.797
+  ],
+  "stephen hawking": [
+    39657,
+    0.791
+  ],
+  "albert einstein": [
+    1317625,
+    0.743
+  ],
+  "jane goodall": [
+    186329,
+    0.713
+  ],
+  "malala yousafzai": [
+    1463952,
+    0.667
+  ],
+  "garry kasparov": [
+    225958,
+    0.664
+  ],
+  "noam chomsky": [
+    116488,
+    0.638
+  ],
+  "christopher hitchens": [
+    99401,
+    0.606
+  ],
+  "brian greene": [
+    82531,
+    0.587
+  ],
+  "kip thorne": [
+    1157625,
+    0.586
+  ],
+  "umberto eco": [
+    2353,
+    0.586
+  ],
+  "michio kaku": [
+    83299,
+    0.557
+  ],
+  "aristotle": [
+    1776390,
+    0.542
+  ],
+  "howard zinn": [
+    110170,
+    0.523
+  ],
+  "richard feynman": [
+    127293,
+    0.512
+  ],
+  "angela davis": [
+    938972,
+    0.494
+  ],
+  "john rawls": [
+    1399824,
+    0.468
+  ],
+  "mahatma gandhi": [
+    1120760,
+    0.468
+  ],
+  "john locke": [
+    2114236,
+    0.467
+  ],
+  "fareed zakaria": [
+    1227871,
+    0.465
+  ],
+  "sylvia earle": [
+    39654,
+    0.459
+  ],
+  "bell hooks": [
+    547962,
+    0.455
+  ],
+  "nelson mandela": [
+    89300,
+    0.441
+  ],
+  "sean carroll": [
+    1378631,
+    0.401
+  ],
+  "j. robert oppenheimer": [
+    1197805,
+    0.395
+  ],
+  "adam smith": [
+    2431700,
+    0.393
+  ],
+  "mae jemison": [
+    1219400,
+    0.392
+  ],
+  "simone de beauvoir": [
+    39712,
+    0.368
+  ],
+  "milton friedman": [
+    1108670,
+    0.363
+  ],
+  "tim berners-lee": [
+    1360985,
+    0.348
+  ],
+  "ray kurzweil": [
+    550296,
+    0.343
+  ],
+  "steven pinker": [
+    269112,
+    0.333
+  ],
+  "sally ride": [
+    1553392,
+    0.299
+  ],
+  "linus torvalds": [
+    132039,
+    0.278
+  ],
+  "james watson": [
+    135056,
+    0.274
+  ],
+  "judith butler": [
+    556158,
+    0.271
+  ],
+  "sigmund freud": [
+    1552825,
+    0.269
+  ],
+  "temple grandin": [
+    107449,
+    0.259
+  ],
+  "nikola tesla": [
+    2807411,
+    0.241
+  ],
+  "edward said": [
+    968931,
+    0.232
+  ],
+  "joseph stiglitz": [
+    1018677,
+    0.218
+  ],
+  "zbigniew brzezinski": [
+    1230115,
+    0.216
+  ],
+  "michel foucault": [
+    1377183,
+    0.211
+  ],
+  "marshall mcluhan": [
+    10566,
+    0.206
+  ],
+  "lisa randall": [
+    100280,
+    0.205
+  ],
+  "frida kahlo": [
+    1435921,
+    0.203
+  ],
+  "carlo rovelli": [
+    3638734,
+    0.202
+  ],
+  "amartya sen": [
+    3459420,
+    0.192
+  ],
+  "francis collins": [
+    554097,
+    0.191
+  ],
+  "richard thaler": [
+    1651970,
+    0.167
+  ],
+  "friedrich nietzsche": [
+    1876753,
+    0.154
+  ],
+  "margaret mead": [
+    1130793,
+    0.149
+  ],
+  "john maynard keynes": [
+    2493343,
+    0.139
+  ],
+  "alan turing": [
+    3536694,
+    0.104
+  ],
+  "alan guth": [
+    1228452,
+    0.1
+  ],
+  "simone weil": [
+    1189926,
+    0.099
+  ],
+  "jared diamond": [
+    1046113,
+    0.088
+  ],
+  "e. o. wilson": [
+    1350818,
+    0.086
+  ],
+  "francis fukuyama": [
+    2336575,
+    0.086
+  ],
+  "isaac newton": [
+    2399755,
+    0.085
+  ],
+  "marie curie": [
+    1672629,
+    0.085
+  ],
+  "claude levi-strauss": [
+    2128586,
+    0.074
+  ],
+  "niels bohr": [
+    5422933,
+    0.065
+  ],
+  "jean-jacques rousseau": [
+    1297084,
+    0.058
+  ],
+  "enrico fermi": [
+    2422452,
+    0.055
+  ],
+  "peter higgs": [
+    4321481,
+    0.054
+  ],
+  "esther duflo": [
+    3397150,
+    0.052
+  ],
+  "daniel kahneman": [
+    1675808,
+    0.046
+  ],
+  "jean piaget": [
+    4016427,
+    0.04
+  ],
+  "roger penrose": [
+    116366,
+    0.039
+  ],
+  "b. f. skinner": [
+    3338899,
+    0.038
+  ],
+  "socrates": [
+    1301096,
+    0.034
+  ],
+  "mary leakey": [
+    1601133,
+    0.033
+  ],
+  "neil shubin": [
+    1423184,
+    0.031
+  ],
+  "sun tzu": [
+    5496562,
+    0.026
+  ],
+  "william harvey": [
+    1490875,
+    0.021
+  ],
+  "daniel dennett": [
+    4484371,
+    0.014
+  ],
+  "friedrich engels": [
+    3268547,
+    0.014
+  ],
+  "hannah arendt": [
+    1753140,
+    0.007
+  ],
+  "herbert simon": [
+    1709866,
+    0.007
+  ],
+  "karl popper": [
+    2423657,
+    0.007
+  ],
+  "ada lovelace": [
+    0,
+    0.0
+  ],
+  "antoine lavoisier": [
+    0,
+    0.0
+  ],
+  "chien-shiung wu": [
+    0,
+    0.0
+  ],
+  "confucius": [
+    0,
+    0.0
+  ],
+  "dmitri mendeleev": [
+    0,
+    0.0
+  ],
+  "edward jenner": [
+    5961643,
+    0.0
+  ],
+  "edwin hubble": [
+    0,
+    0.0
+  ],
+  "galileo galilei": [
+    1578045,
+    0.0
+  ],
+  "georg wilhelm friedrich hegel": [
+    0,
+    0.0
+  ],
+  "gregor mendel": [
+    0,
+    0.0
+  ],
+  "isaiah berlin": [
+    3624804,
+    0.0
+  ],
+  "james clerk maxwell": [
+    0,
+    0.0
+  ],
+  "johannes kepler": [
+    0,
+    0.0
+  ],
+  "john von neumann": [
+    3442036,
+    0.0
+  ],
+  "jordan peterson": [
+    3127949,
+    0.0
+  ],
+  "karl marx": [
+    4589975,
+    0.0
+  ],
+  "kurt godel": [
+    0,
+    0.0
+  ],
+  "louis pasteur": [
+    0,
+    0.0
+  ],
+  "max planck": [
+    0,
+    0.0
+  ],
+  "montesquieu": [
+    4270452,
+    0.0
+  ],
+  "paul dirac": [
+    0,
+    0.0
+  ],
+  "pierre-simon laplace": [
+    0,
+    0.0
+  ],
+  "rachel carson": [
+    3869257,
+    0.0
+  ],
+  "rene descartes": [
+    0,
+    0.0
+  ],
+  "rosalind franklin": [
+    0,
+    0.0
+  ],
+  "werner heisenberg": [
+    0,
+    0.0
+  ]
+}

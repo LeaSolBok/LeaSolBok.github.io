@@ -1,0 +1,817 @@
+[
+  {
+    "game": "Minecraft",
+    "emojis": "⛏️🟩🧱",
+    "rawg_id": 22509
+  },
+  {
+    "game": "Fortnite",
+    "emojis": "🏝️🔫🏗️",
+    "rawg_id": 583859
+  },
+  {
+    "game": "Grand Theft Auto V",
+    "emojis": "🚗💰🔫",
+    "rawg_id": 3498
+  },
+  {
+    "game": "Call of Duty",
+    "emojis": "🔫💣🪖",
+    "rawg_id": 19369
+  },
+  {
+    "game": "Roblox",
+    "emojis": "🧱🎮👾",
+    "rawg_id": 779
+  },
+  {
+    "game": "The Sims",
+    "emojis": "🏡💚👨‍👩‍👧",
+    "rawg_id": 31080
+  },
+  {
+    "game": "League of Legends",
+    "emojis": "⚔️🏰🧙",
+    "rawg_id": 23598
+  },
+  {
+    "game": "Valorant",
+    "emojis": "🎯💣🕶️",
+    "rawg_id": 415171
+  },
+  {
+    "game": "Counter-Strike",
+    "emojis": "💣🔫👮",
+    "rawg_id": 19301
+  },
+  {
+    "game": "Overwatch",
+    "emojis": "🦸🔫🌎",
+    "rawg_id": 22508
+  },
+  {
+    "game": "Apex Legends",
+    "emojis": "🏃🔫👑",
+    "rawg_id": 290856
+  },
+  {
+    "game": "PUBG",
+    "emojis": "🪂🔫🏝️",
+    "rawg_id": 57891
+  },
+  {
+    "game": "Rocket League",
+    "emojis": "🚗⚽🔥",
+    "rawg_id": 3272
+  },
+  {
+    "game": "FIFA",
+    "emojis": "⚽🏆🎮",
+    "rawg_id": 28027
+  },
+  {
+    "game": "EA Sports FC",
+    "emojis": "⚽🥅🔥",
+    "rawg_id": 963218
+  },
+  {
+    "game": "NBA 2K",
+    "emojis": "🏀🎮⛹️",
+    "rawg_id": 54693
+  },
+  {
+    "game": "Madden NFL",
+    "emojis": "🏈🎮💥",
+    "rawg_id": 55281
+  },
+  {
+    "game": "Wii Sports",
+    "emojis": "🎾⛳🥊",
+    "rawg_id": 25057
+  },
+  {
+    "game": "Mario Kart",
+    "emojis": "🏎️🍌🐢",
+    "rawg_id": 719195
+  },
+  {
+    "game": "Super Mario Bros.",
+    "emojis": "🍄👨‍🔧🏰",
+    "rawg_id": 25080
+  },
+  {
+    "game": "Super Mario Odyssey",
+    "emojis": "🌎🧢🍄",
+    "rawg_id": 28026
+  },
+  {
+    "game": "Super Smash Bros.",
+    "emojis": "👊🔥🎮",
+    "rawg_id": 58829
+  },
+  {
+    "game": "The Legend of Zelda",
+    "emojis": "🗡️🛡️🧝",
+    "rawg_id": 24072
+  },
+  {
+    "game": "Breath of the Wild",
+    "emojis": "🌿🗡️🏔️",
+    "rawg_id": 22511
+  },
+  {
+    "game": "Tears of the Kingdom",
+    "emojis": "☁️⚔️🏰",
+    "rawg_id": 327239
+  },
+  {
+    "game": "Animal Crossing",
+    "emojis": "🏝️🐶🍎",
+    "rawg_id": 54346
+  },
+  {
+    "game": "Pokemon Red and Blue",
+    "emojis": "⚡🐭🎒",
+    "rawg_id": 23762
+  },
+  {
+    "game": "Pokemon GO",
+    "emojis": "📱⚡🌎",
+    "rawg_id": 27936
+  },
+  {
+    "game": "Pokemon Scarlet and Violet",
+    "emojis": "🐉🎓🌟",
+    "rawg_id": 440086
+  },
+  {
+    "game": "Tetris",
+    "emojis": "🧩⬜🎮",
+    "rawg_id": 5731
+  },
+  {
+    "game": "Pac-Man",
+    "emojis": "🟡👻🌀",
+    "rawg_id": 24881
+  },
+  {
+    "game": "Sonic the Hedgehog",
+    "emojis": "🦔⚡💍",
+    "rawg_id": 57179
+  },
+  {
+    "game": "Crash Bandicoot",
+    "emojis": "🦊💎🌴",
+    "rawg_id": 5488
+  },
+  {
+    "game": "Spyro the Dragon",
+    "emojis": "🐉💜🔥",
+    "rawg_id": 57797
+  },
+  {
+    "game": "Donkey Kong",
+    "emojis": "🦍🍌🏗️",
+    "rawg_id": 52512
+  },
+  {
+    "game": "Halo",
+    "emojis": "🪖👽💥",
+    "rawg_id": 609130
+  },
+  {
+    "game": "Halo Infinite",
+    "emojis": "💍🔫🚀",
+    "rawg_id": 58751
+  },
+  {
+    "game": "Destiny 2",
+    "emojis": "🌌🔫🛸",
+    "rawg_id": 32
+  },
+  {
+    "game": "Mass Effect",
+    "emojis": "🚀👽⚔️",
+    "rawg_id": 4166
+  },
+  {
+    "game": "Cyberpunk 2077",
+    "emojis": "🤖🌃🔫",
+    "rawg_id": 41494
+  },
+  {
+    "game": "The Witcher 3",
+    "emojis": "⚔️🐺🧪",
+    "rawg_id": 43252
+  },
+  {
+    "game": "Skyrim",
+    "emojis": "🐉❄️🗡️",
+    "rawg_id": 5679
+  },
+  {
+    "game": "Oblivion",
+    "emojis": "🔥🏰⚔️",
+    "rawg_id": 162987
+  },
+  {
+    "game": "Elden Ring",
+    "emojis": "💍⚔️🌳",
+    "rawg_id": 326243
+  },
+  {
+    "game": "Dark Souls",
+    "emojis": "🔥💀⚔️",
+    "rawg_id": 5538
+  },
+  {
+    "game": "Bloodborne",
+    "emojis": "🩸🧟🪓",
+    "rawg_id": 3387
+  },
+  {
+    "game": "Sekiro: Shadows Die Twice",
+    "emojis": "🥷⚔️🩸",
+    "rawg_id": 50734
+  },
+  {
+    "game": "Ghost of Tsushima",
+    "emojis": "🌸⚔️🏯",
+    "rawg_id": 58550
+  },
+  {
+    "game": "Assassin's Creed",
+    "emojis": "🗡️🦅🏛️",
+    "rawg_id": 4729
+  },
+  {
+    "game": "Assassin's Creed Valhalla",
+    "emojis": "🪓🚢❄️",
+    "rawg_id": 437059
+  },
+  {
+    "game": "Far Cry",
+    "emojis": "🏝️🔥🔫",
+    "rawg_id": 19560
+  },
+  {
+    "game": "Red Dead Redemption 2",
+    "emojis": "🤠🐎🔫",
+    "rawg_id": 28
+  },
+  {
+    "game": "The Last of Us",
+    "emojis": "🧟❤️🔫",
+    "rawg_id": 3990
+  },
+  {
+    "game": "The Last of Us Part II",
+    "emojis": "🎸🩸🏹",
+    "rawg_id": 51325
+  },
+  {
+    "game": "Uncharted",
+    "emojis": "🗺️💎🔫",
+    "rawg_id": 704634
+  },
+  {
+    "game": "God of War",
+    "emojis": "🪓⚡👨‍👦",
+    "rawg_id": 930477
+  },
+  {
+    "game": "God of War Ragnarok",
+    "emojis": "❄️⚔️🐺",
+    "rawg_id": 989140
+  },
+  {
+    "game": "Horizon Zero Dawn",
+    "emojis": "🏹🤖🌄",
+    "rawg_id": 278
+  },
+  {
+    "game": "Horizon Forbidden West",
+    "emojis": "🌊🤖🏹",
+    "rawg_id": 452642
+  },
+  {
+    "game": "Spider-Man",
+    "emojis": "🕷️🏙️🕸️",
+    "rawg_id": 180890
+  },
+  {
+    "game": "Spider-Man 2",
+    "emojis": "🕷️⚡🖤",
+    "rawg_id": 662316
+  },
+  {
+    "game": "Batman: Arkham Knight",
+    "emojis": "🦇🚗🌃",
+    "rawg_id": 3287
+  },
+  {
+    "game": "Injustice",
+    "emojis": "🦸👊⚡",
+    "rawg_id": 25396
+  },
+  {
+    "game": "Mortal Kombat",
+    "emojis": "💀🥋🩸",
+    "rawg_id": 54285
+  },
+  {
+    "game": "Street Fighter",
+    "emojis": "👊🔥🥋",
+    "rawg_id": 636080
+  },
+  {
+    "game": "Tekken",
+    "emojis": "🥊⚡🐯",
+    "rawg_id": 262384
+  },
+  {
+    "game": "Dragon Ball FighterZ",
+    "emojis": "🐉⚡👊",
+    "rawg_id": 49225
+  },
+  {
+    "game": "Naruto Ultimate Ninja Storm",
+    "emojis": "🍥🥷⚡",
+    "rawg_id": 5603
+  },
+  {
+    "game": "Dragon Age",
+    "emojis": "🐉🛡️🔥",
+    "rawg_id": 4639
+  },
+  {
+    "game": "Final Fantasy VII",
+    "emojis": "☄️🗡️🌆",
+    "rawg_id": 259801
+  },
+  {
+    "game": "Final Fantasy XIV",
+    "emojis": "🧙🐉🌍",
+    "rawg_id": 39530
+  },
+  {
+    "game": "Kingdom Hearts",
+    "emojis": "🗝️❤️✨",
+    "rawg_id": 59184
+  },
+  {
+    "game": "Persona 5",
+    "emojis": "🎭🖤📚",
+    "rawg_id": 49
+  },
+  {
+    "game": "Persona 3 Reload",
+    "emojis": "🔫🌙⏳",
+    "rawg_id": 962676
+  },
+  {
+    "game": "Metaphor: ReFantazio",
+    "emojis": "👑🪄🐉",
+    "rawg_id": 963212
+  },
+  {
+    "game": "Resident Evil",
+    "emojis": "🧟🔫🏚️",
+    "rawg_id": 3449
+  },
+  {
+    "game": "Resident Evil 4",
+    "emojis": "🪚🧟🇪🇸",
+    "rawg_id": 795632
+  },
+  {
+    "game": "Silent Hill",
+    "emojis": "🌫️😨🔪",
+    "rawg_id": 53478
+  },
+  {
+    "game": "Dead Space",
+    "emojis": "🚀🧟🔧",
+    "rawg_id": 638654
+  },
+  {
+    "game": "Outlast",
+    "emojis": "📹🏥😱",
+    "rawg_id": 3790
+  },
+  {
+    "game": "Five Nights at Freddy's",
+    "emojis": "🐻🍕🌙",
+    "rawg_id": 5868
+  },
+  {
+    "game": "Among Us",
+    "emojis": "🚀🟥🔪",
+    "rawg_id": 356714
+  },
+  {
+    "game": "Fall Guys",
+    "emojis": "🌈🏃🥚",
+    "rawg_id": 510356
+  },
+  {
+    "game": "Brawl Stars",
+    "emojis": "🔫⭐🤠",
+    "rawg_id": 276032
+  },
+  {
+    "game": "Clash of Clans",
+    "emojis": "⚔️🏰💥",
+    "rawg_id": 1448
+  },
+  {
+    "game": "Clash Royale",
+    "emojis": "👑⚔️📱",
+    "rawg_id": 415
+  },
+  {
+    "game": "Candy Crush Saga",
+    "emojis": "🍬🧩💖",
+    "rawg_id": 6459
+  },
+  {
+    "game": "Subway Surfers",
+    "emojis": "🚇🏃🎨",
+    "rawg_id": 102
+  },
+  {
+    "game": "Temple Run",
+    "emojis": "🏃🪙🗿",
+    "rawg_id": 1235
+  },
+  {
+    "game": "Angry Birds",
+    "emojis": "🐦💥🐷",
+    "rawg_id": 144
+  },
+  {
+    "game": "Plants vs. Zombies",
+    "emojis": "🌻🧟🪴",
+    "rawg_id": 427
+  },
+  {
+    "game": "Cut the Rope",
+    "emojis": "🍬✂️🐸",
+    "rawg_id": 949
+  },
+  {
+    "game": "Geometry Dash",
+    "emojis": "⬛⚡🎵",
+    "rawg_id": 89
+  },
+  {
+    "game": "Flappy Bird",
+    "emojis": "🐤🟩🚧",
+    "rawg_id": 262367
+  },
+  {
+    "game": "Monument Valley",
+    "emojis": "🏛️🔺🌈",
+    "rawg_id": 591
+  },
+  {
+    "game": "Genshin Impact",
+    "emojis": "⚔️🌎✨",
+    "rawg_id": 401805
+  },
+  {
+    "game": "Honkai: Star Rail",
+    "emojis": "🚂🌌⚔️",
+    "rawg_id": 840783
+  },
+  {
+    "game": "Zenless Zone Zero",
+    "emojis": "⚡🏙️🎧",
+    "rawg_id": 799266
+  },
+  {
+    "game": "World of Warcraft",
+    "emojis": "🧙⚔️🐉",
+    "rawg_id": 23599
+  },
+  {
+    "game": "Diablo IV",
+    "emojis": "😈🔥⛓️",
+    "rawg_id": 388309
+  },
+  {
+    "game": "StarCraft",
+    "emojis": "🚀👽⚔️",
+    "rawg_id": 32716
+  },
+  {
+    "game": "Warcraft III",
+    "emojis": "🪓🧙💀",
+    "rawg_id": 34744
+  },
+  {
+    "game": "Overcooked",
+    "emojis": "🍳🔥👨‍🍳",
+    "rawg_id": 2115
+  },
+  {
+    "game": "It Takes Two",
+    "emojis": "🧸❤️🪄",
+    "rawg_id": 455597
+  },
+  {
+    "game": "A Way Out",
+    "emojis": "🔒👬🚔",
+    "rawg_id": 50778
+  },
+  {
+    "game": "Portal",
+    "emojis": "🟦🟧🔫",
+    "rawg_id": 13536
+  },
+  {
+    "game": "Portal 2",
+    "emojis": "🤖🟦🟧",
+    "rawg_id": 4200
+  },
+  {
+    "game": "Half-Life",
+    "emojis": "🔬👽🔫",
+    "rawg_id": 18080
+  },
+  {
+    "game": "Half-Life 2",
+    "emojis": "🚂🦀🔫",
+    "rawg_id": 13537
+  },
+  {
+    "game": "Left 4 Dead",
+    "emojis": "🧟🔫🩸",
+    "rawg_id": 13535
+  },
+  {
+    "game": "Team Fortress 2",
+    "emojis": "🧢💣🔫",
+    "rawg_id": 11859
+  },
+  {
+    "game": "Dota 2",
+    "emojis": "🏰⚔️🧙",
+    "rawg_id": 10213
+  },
+  {
+    "game": "Hades",
+    "emojis": "🔥💀⚡",
+    "rawg_id": 274755
+  },
+  {
+    "game": "Cuphead",
+    "emojis": "☕🎺👹",
+    "rawg_id": 28154
+  },
+  {
+    "game": "Undertale",
+    "emojis": "❤️💀👾",
+    "rawg_id": 13627
+  },
+  {
+    "game": "Undertale Yellow",
+    "emojis": "💛🤠👾",
+    "rawg_id": 13627
+  },
+  {
+    "game": "Celeste",
+    "emojis": "⛰️💙✨",
+    "rawg_id": 22121
+  },
+  {
+    "game": "Hollow Knight",
+    "emojis": "🐞⚔️🌑",
+    "rawg_id": 9767
+  },
+  {
+    "game": "Ori and the Blind Forest",
+    "emojis": "🌲✨🦊",
+    "rawg_id": 19590
+  },
+  {
+    "game": "Stardew Valley",
+    "emojis": "🌽🐔❤️",
+    "rawg_id": 654
+  },
+  {
+    "game": "Terraria",
+    "emojis": "⛏️🌳👁️",
+    "rawg_id": 422
+  },
+  {
+    "game": "Slime Rancher",
+    "emojis": "🟢🐄🌈",
+    "rawg_id": 9736
+  },
+  {
+    "game": "Dave the Diver",
+    "emojis": "🤿🐟🍣",
+    "rawg_id": 871264
+  },
+  {
+    "game": "Balatro",
+    "emojis": "🃏💰🔥",
+    "rawg_id": 977316
+  },
+  {
+    "game": "Phasmophobia",
+    "emojis": "👻📹😱",
+    "rawg_id": 427930
+  },
+  {
+    "game": "Lethal Company",
+    "emojis": "🌑🤖💀",
+    "rawg_id": 968329
+  },
+  {
+    "game": "Palworld",
+    "emojis": "🐾🔫🏕️",
+    "rawg_id": 718135
+  },
+  {
+    "game": "Helldivers 2",
+    "emojis": "🌍💣🪖",
+    "rawg_id": 976564
+  },
+  {
+    "game": "Sea of Thieves",
+    "emojis": "🏴‍☠️🌊💰",
+    "rawg_id": 50781
+  },
+  {
+    "game": "Forza Horizon",
+    "emojis": "🏎️🌄🎶",
+    "rawg_id": 28637
+  },
+  {
+    "game": "Need for Speed",
+    "emojis": "🚓💨🏎️",
+    "rawg_id": 3090
+  },
+  {
+    "game": "Gran Turismo",
+    "emojis": "🏁🚗⚡",
+    "rawg_id": 52995
+  },
+  {
+    "game": "Euro Truck Simulator 2",
+    "emojis": "🚛🌍🛣️",
+    "rawg_id": 9609
+  },
+  {
+    "game": "Flight Simulator",
+    "emojis": "✈️☁️🛫",
+    "rawg_id": 499111
+  },
+  {
+    "game": "Cities: Skylines",
+    "emojis": "🏙️🚦🌆",
+    "rawg_id": 10065
+  },
+  {
+    "game": "RollerCoaster Tycoon",
+    "emojis": "🎢💰😄",
+    "rawg_id": 30713
+  },
+  {
+    "game": "SimCity",
+    "emojis": "🏙️⚡🏗️",
+    "rawg_id": 54172
+  },
+  {
+    "game": "Civilization VI",
+    "emojis": "👑🌍⚔️",
+    "rawg_id": 13633
+  },
+  {
+    "game": "Age of Empires II",
+    "emojis": "🏰⚔️🐎",
+    "rawg_id": 32038
+  },
+  {
+    "game": "Total War",
+    "emojis": "🪖⚔️🗺️",
+    "rawg_id": 111076
+  },
+  {
+    "game": "The Binding of Isaac",
+    "emojis": "😢👹🩸",
+    "rawg_id": 19384
+  },
+  {
+    "game": "Binding of Isaac: Rebirth",
+    "emojis": "👶🩸👁️",
+    "rawg_id": 536886
+  },
+  {
+    "game": "No Man's Sky",
+    "emojis": "🚀🌌🪐",
+    "rawg_id": 2093
+  },
+  {
+    "game": "Death Stranding",
+    "emojis": "📦🌧️👶",
+    "rawg_id": 50738
+  },
+  {
+    "game": "Control",
+    "emojis": "🟥🧠🔫",
+    "rawg_id": 58812
+  },
+  {
+    "game": "Alan Wake",
+    "emojis": "🔦📖🌲",
+    "rawg_id": 19487
+  },
+  {
+    "game": "Max Payne",
+    "emojis": "🔫💊🌧️",
+    "rawg_id": 2518
+  },
+  {
+    "game": "Bioshock",
+    "emojis": "🌊🏙️🧬",
+    "rawg_id": 4286
+  },
+  {
+    "game": "Bioshock Infinite",
+    "emojis": "☁️🏙️🕊️",
+    "rawg_id": 4062
+  },
+  {
+    "game": "LittleBigPlanet",
+    "emojis": "🧸🌎🪡",
+    "rawg_id": 3179
+  },
+  {
+    "game": "Ratchet & Clank",
+    "emojis": "🦊🔧🤖",
+    "rawg_id": 727315
+  },
+  {
+    "game": "Jak and Daxter",
+    "emojis": "🦦⚡🌴",
+    "rawg_id": 3988
+  },
+  {
+    "game": "Banjo-Kazooie",
+    "emojis": "🐻🐦🧩",
+    "rawg_id": 28532
+  },
+  {
+    "game": "Rayman",
+    "emojis": "🟣👟👊",
+    "rawg_id": 5463
+  },
+  {
+    "game": "Prince of Persia",
+    "emojis": "⏳🗡️👑",
+    "rawg_id": 898827
+  },
+  {
+    "game": "Tomb Raider",
+    "emojis": "🏺🔫🧗",
+    "rawg_id": 5286
+  },
+  {
+    "game": "Hitman",
+    "emojis": "🕴️🔫🎯",
+    "rawg_id": 10035
+  },
+  {
+    "game": "Metal Gear Solid",
+    "emojis": "📦🐍🔫",
+    "rawg_id": 57607
+  },
+  {
+    "game": "Deathloop",
+    "emojis": "🔁🔫⏰",
+    "rawg_id": 326251
+  },
+  {
+    "game": "Payday 2",
+    "emojis": "💰🎭🔫",
+    "rawg_id": 3939
+  },
+  {
+    "game": "Battlefield",
+    "emojis": "🚁💥🪖",
+    "rawg_id": 34133
+  },
+  {
+    "game": "Rainbow Six Siege",
+    "emojis": "🚪💣👮",
+    "rawg_id": 8488
+  },
+  {
+    "game": "Escape from Tarkov",
+    "emojis": "🎒🔫💀",
+    "rawg_id": 52106
+  }
+]

@@ -1,0 +1,2002 @@
+[
+    {
+        "company": "Apple",
+        "emojis": "🍎📱💻"
+    },
+    {
+        "company": "Microsoft",
+        "emojis": "🪟💻☁️"
+    },
+    {
+        "company": "Google",
+        "emojis": "🔍🌐🤖"
+    },
+    {
+        "company": "Amazon",
+        "emojis": "📦🛒🚚"
+    },
+    {
+        "company": "Meta",
+        "emojis": "👥📘🥽"
+    },
+    {
+        "company": "Tesla",
+        "emojis": "🚗⚡🤖"
+    },
+    {
+        "company": "NVIDIA",
+        "emojis": "🎮🧠💚"
+    },
+    {
+        "company": "Samsung",
+        "emojis": "📱📺💙"
+    },
+    {
+        "company": "Sony",
+        "emojis": "🎮🎬🎧"
+    },
+    {
+        "company": "Toyota",
+        "emojis": "🚗🇯🇵⚙️"
+    },
+    {
+        "company": "Coca-Cola",
+        "emojis": "🥤❤️🌍"
+    },
+    {
+        "company": "PepsiCo",
+        "emojis": "🥤🔵🍿"
+    },
+    {
+        "company": "McDonald's",
+        "emojis": "🍟🍔🍦"
+    },
+    {
+        "company": "Starbucks",
+        "emojis": "☕⭐🟢"
+    },
+    {
+        "company": "Nike",
+        "emojis": "👟✔️🏃"
+    },
+    {
+        "company": "Adidas",
+        "emojis": "👟⚽🖤"
+    },
+    {
+        "company": "Disney",
+        "emojis": "🏰✨🎬"
+    },
+    {
+        "company": "Netflix",
+        "emojis": "🎬🍿📺"
+    },
+    {
+        "company": "Spotify",
+        "emojis": "🎵🟢🎧"
+    },
+    {
+        "company": "Uber",
+        "emojis": "🚗📱🛣️"
+    },
+    {
+        "company": "Airbnb",
+        "emojis": "🏠✈️🛏️"
+    },
+    {
+        "company": "Adobe",
+        "emojis": "🎨🖥️🅰️"
+    },
+    {
+        "company": "Intel",
+        "emojis": "🧠💻🔵"
+    },
+    {
+        "company": "AMD",
+        "emojis": "🧠🎮🔥"
+    },
+    {
+        "company": "IBM",
+        "emojis": "💼🧠🔵"
+    },
+    {
+        "company": "Oracle",
+        "emojis": "🗄️☁️🔴"
+    },
+    {
+        "company": "Salesforce",
+        "emojis": "☁️💼🤝"
+    },
+    {
+        "company": "SAP",
+        "emojis": "🏢📊🔵"
+    },
+    {
+        "company": "Shopify",
+        "emojis": "🛍️🛒💚"
+    },
+    {
+        "company": "PayPal",
+        "emojis": "💳💙💸"
+    },
+    {
+        "company": "Visa",
+        "emojis": "💳🌍✅"
+    },
+    {
+        "company": "Mastercard",
+        "emojis": "💳🔴🟡"
+    },
+    {
+        "company": "American Express",
+        "emojis": "💳💼🟦"
+    },
+    {
+        "company": "JPMorgan Chase",
+        "emojis": "🏦💰🗽"
+    },
+    {
+        "company": "Bank of America",
+        "emojis": "🏦🇺🇸💳"
+    },
+    {
+        "company": "Goldman Sachs",
+        "emojis": "🏦💼📈"
+    },
+    {
+        "company": "Morgan Stanley",
+        "emojis": "🏦📊💼"
+    },
+    {
+        "company": "Walmart",
+        "emojis": "🛒⭐🏬"
+    },
+    {
+        "company": "Costco",
+        "emojis": "🛒📦🏬"
+    },
+    {
+        "company": "Target",
+        "emojis": "🎯🛒🏬"
+    },
+    {
+        "company": "Home Depot",
+        "emojis": "🛠️🏠🧡"
+    },
+    {
+        "company": "Lowe's",
+        "emojis": "🏠🛠️🔵"
+    },
+    {
+        "company": "IKEA",
+        "emojis": "🛋️🏠🟡"
+    },
+    {
+        "company": "Zara",
+        "emojis": "👗🛍️⚡"
+    },
+    {
+        "company": "H&M",
+        "emojis": "👕🛍️❤️"
+    },
+    {
+        "company": "Uniqlo",
+        "emojis": "👕🇯🇵🔴"
+    },
+    {
+        "company": "Shein",
+        "emojis": "👗📱📦"
+    },
+    {
+        "company": "Gucci",
+        "emojis": "👜✨🇮🇹"
+    },
+    {
+        "company": "Louis Vuitton",
+        "emojis": "👜🟤✨"
+    },
+    {
+        "company": "Chanel",
+        "emojis": "💄👜⚫"
+    },
+    {
+        "company": "Hermès",
+        "emojis": "👜🐎🧡"
+    },
+    {
+        "company": "Prada",
+        "emojis": "👜🖤🇮🇹"
+    },
+    {
+        "company": "Rolex",
+        "emojis": "⌚👑💚"
+    },
+    {
+        "company": "Cartier",
+        "emojis": "💍⌚❤️"
+    },
+    {
+        "company": "Tiffany & Co.",
+        "emojis": "💍💎🩵"
+    },
+    {
+        "company": "L'Oréal",
+        "emojis": "💄✨🇫🇷"
+    },
+    {
+        "company": "Estée Lauder",
+        "emojis": "💄🌸✨"
+    },
+    {
+        "company": "Sephora",
+        "emojis": "💄🛍️⚫"
+    },
+    {
+        "company": "Ulta Beauty",
+        "emojis": "💄🧴🛍️"
+    },
+    {
+        "company": "Procter & Gamble",
+        "emojis": "🧼🧴🏠"
+    },
+    {
+        "company": "Unilever",
+        "emojis": "🧼🍦🌍"
+    },
+    {
+        "company": "Nestlé",
+        "emojis": "🍫☕🥛"
+    },
+    {
+        "company": "Mars",
+        "emojis": "🍫🐶🔴"
+    },
+    {
+        "company": "Mondelez",
+        "emojis": "🍪🍫🌍"
+    },
+    {
+        "company": "Kellogg's",
+        "emojis": "🥣🌽🐓"
+    },
+    {
+        "company": "General Mills",
+        "emojis": "🥣🍪🏠"
+    },
+    {
+        "company": "Kraft Heinz",
+        "emojis": "🧀🍅🥫"
+    },
+    {
+        "company": "Danone",
+        "emojis": "🥛🥣🌍"
+    },
+    {
+        "company": "Heineken",
+        "emojis": "🍺⭐🟢"
+    },
+    {
+        "company": "Anheuser-Busch InBev",
+        "emojis": "🍺🌍🏟️"
+    },
+    {
+        "company": "Ford",
+        "emojis": "🚗🔵🇺🇸"
+    },
+    {
+        "company": "General Motors",
+        "emojis": "🚗⚙️🇺🇸"
+    },
+    {
+        "company": "BMW",
+        "emojis": "🚗⚪🔵"
+    },
+    {
+        "company": "Mercedes-Benz",
+        "emojis": "🚗⭐⚫"
+    },
+    {
+        "company": "Volkswagen",
+        "emojis": "🚗🇩🇪🔵"
+    },
+    {
+        "company": "Porsche",
+        "emojis": "🏎️🔥🇩🇪"
+    },
+    {
+        "company": "Ferrari",
+        "emojis": "🏎️🐎🔴"
+    },
+    {
+        "company": "Lamborghini",
+        "emojis": "🏎️🐂🟡"
+    },
+    {
+        "company": "Honda",
+        "emojis": "🚗🏍️🇯🇵"
+    },
+    {
+        "company": "Hyundai",
+        "emojis": "🚗🇰🇷🔵"
+    },
+    {
+        "company": "Kia",
+        "emojis": "🚗🇰🇷⚙️"
+    },
+    {
+        "company": "Nissan",
+        "emojis": "🚗🇯🇵🔴"
+    },
+    {
+        "company": "Mazda",
+        "emojis": "🚗🇯🇵🔵"
+    },
+    {
+        "company": "Subaru",
+        "emojis": "🚙⭐🇯🇵"
+    },
+    {
+        "company": "Volvo",
+        "emojis": "🚗🛡️🇸🇪"
+    },
+    {
+        "company": "Rivian",
+        "emojis": "🚙⚡🌲"
+    },
+    {
+        "company": "Lucid Motors",
+        "emojis": "🚘⚡✨"
+    },
+    {
+        "company": "BYD",
+        "emojis": "🚗⚡🇨🇳"
+    },
+    {
+        "company": "Geely",
+        "emojis": "🚗🇨🇳⚙️"
+    },
+    {
+        "company": "Tata Motors",
+        "emojis": "🚗🇮🇳⚙️"
+    },
+    {
+        "company": "Boeing",
+        "emojis": "✈️🇺🇸🛠️"
+    },
+    {
+        "company": "Airbus",
+        "emojis": "✈️🇪🇺🛫"
+    },
+    {
+        "company": "Lockheed Martin",
+        "emojis": "🚀🛡️✈️"
+    },
+    {
+        "company": "Raytheon",
+        "emojis": "🛡️🚀📡"
+    },
+    {
+        "company": "Northrop Grumman",
+        "emojis": "🛸🛡️🚀"
+    },
+    {
+        "company": "SpaceX",
+        "emojis": "🚀🌌🛰️"
+    },
+    {
+        "company": "Blue Origin",
+        "emojis": "🚀🌍🔵"
+    },
+    {
+        "company": "Virgin Galactic",
+        "emojis": "🚀✨🌌"
+    },
+    {
+        "company": "NASA Federal Credit Union",
+        "emojis": "🚀💳🏦"
+    },
+    {
+        "company": "FedEx",
+        "emojis": "📦✈️🚚"
+    },
+    {
+        "company": "UPS",
+        "emojis": "📦🚚🟤"
+    },
+    {
+        "company": "DHL",
+        "emojis": "📦✈️🟡"
+    },
+    {
+        "company": "Maersk",
+        "emojis": "🚢📦🌊"
+    },
+    {
+        "company": "CMA CGM",
+        "emojis": "🚢📦🌍"
+    },
+    {
+        "company": "MSC",
+        "emojis": "🚢⚓📦"
+    },
+    {
+        "company": "Delta Air Lines",
+        "emojis": "✈️🔺🌍"
+    },
+    {
+        "company": "United Airlines",
+        "emojis": "✈️🌐🔵"
+    },
+    {
+        "company": "American Airlines",
+        "emojis": "✈️🇺🇸🦅"
+    },
+    {
+        "company": "Southwest Airlines",
+        "emojis": "✈️❤️💛"
+    },
+    {
+        "company": "Emirates",
+        "emojis": "✈️🇦🇪✨"
+    },
+    {
+        "company": "Qatar Airways",
+        "emojis": "✈️🇶🇦🌟"
+    },
+    {
+        "company": "Lufthansa",
+        "emojis": "✈️🇩🇪🟡"
+    },
+    {
+        "company": "British Airways",
+        "emojis": "✈️🇬🇧🔵"
+    },
+    {
+        "company": "Air France",
+        "emojis": "✈️🇫🇷🗼"
+    },
+    {
+        "company": "Ryanair",
+        "emojis": "✈️💸🇮🇪"
+    },
+    {
+        "company": "Booking Holdings",
+        "emojis": "🏨📱🌍"
+    },
+    {
+        "company": "Expedia",
+        "emojis": "✈️🏨🧳"
+    },
+    {
+        "company": "Tripadvisor",
+        "emojis": "🦉🏨⭐"
+    },
+    {
+        "company": "Marriott",
+        "emojis": "🏨🛎️🌍"
+    },
+    {
+        "company": "Hilton",
+        "emojis": "🏨🛏️✨"
+    },
+    {
+        "company": "Hyatt",
+        "emojis": "🏨🌍🛎️"
+    },
+    {
+        "company": "Accor",
+        "emojis": "🏨🇫🇷🌍"
+    },
+    {
+        "company": "InterContinental Hotels Group",
+        "emojis": "🏨🌍🛎️"
+    },
+    {
+        "company": "MGM Resorts",
+        "emojis": "🎰🏨🎭"
+    },
+    {
+        "company": "Caesars Entertainment",
+        "emojis": "🎰🏛️✨"
+    },
+    {
+        "company": "Live Nation",
+        "emojis": "🎤🎟️🎶"
+    },
+    {
+        "company": "Ticketmaster",
+        "emojis": "🎟️🎤📱"
+    },
+    {
+        "company": "Warner Bros. Discovery",
+        "emojis": "🎬🛡️📺"
+    },
+    {
+        "company": "Paramount Global",
+        "emojis": "⛰️🎬📺"
+    },
+    {
+        "company": "Comcast",
+        "emojis": "📺🌐🏢"
+    },
+    {
+        "company": "AT&T",
+        "emojis": "📞📡🔵"
+    },
+    {
+        "company": "Verizon",
+        "emojis": "📶📱✅"
+    },
+    {
+        "company": "T-Mobile",
+        "emojis": "📱📶💗"
+    },
+    {
+        "company": "Vodafone",
+        "emojis": "📱📶🔴"
+    },
+    {
+        "company": "Orange",
+        "emojis": "📱📶🟠"
+    },
+    {
+        "company": "Deutsche Telekom",
+        "emojis": "📱🇩🇪💗"
+    },
+    {
+        "company": "Telefónica",
+        "emojis": "📱🇪🇸🔵"
+    },
+    {
+        "company": "SoftBank",
+        "emojis": "📱🤖🇯🇵"
+    },
+    {
+        "company": "NTT",
+        "emojis": "📡🇯🇵🔵"
+    },
+    {
+        "company": "China Mobile",
+        "emojis": "📱🇨🇳📶"
+    },
+    {
+        "company": "Tencent",
+        "emojis": "💬🎮🐧"
+    },
+    {
+        "company": "Alibaba",
+        "emojis": "🛒📦🇨🇳"
+    },
+    {
+        "company": "ByteDance",
+        "emojis": "🎵📱🇨🇳"
+    },
+    {
+        "company": "Baidu",
+        "emojis": "🔍🤖🇨🇳"
+    },
+    {
+        "company": "JD.com",
+        "emojis": "📦🛒🔴"
+    },
+    {
+        "company": "Meituan",
+        "emojis": "🍜📱🛵"
+    },
+    {
+        "company": "Pinduoduo",
+        "emojis": "🛍️🍊📱"
+    },
+    {
+        "company": "Xiaomi",
+        "emojis": "📱⚡🟠"
+    },
+    {
+        "company": "Huawei",
+        "emojis": "📱📡🌺"
+    },
+    {
+        "company": "Lenovo",
+        "emojis": "💻🇨🇳🔴"
+    },
+    {
+        "company": "ASUS",
+        "emojis": "💻🎮🇹🇼"
+    },
+    {
+        "company": "Acer",
+        "emojis": "💻🟢🇹🇼"
+    },
+    {
+        "company": "Dell",
+        "emojis": "💻🔵🏢"
+    },
+    {
+        "company": "HP",
+        "emojis": "🖨️💻🔵"
+    },
+    {
+        "company": "Canon",
+        "emojis": "📷🖨️🔴"
+    },
+    {
+        "company": "Nikon",
+        "emojis": "📷🟡⚫"
+    },
+    {
+        "company": "Fujifilm",
+        "emojis": "📷🎞️🟢"
+    },
+    {
+        "company": "Panasonic",
+        "emojis": "📺🔋🇯🇵"
+    },
+    {
+        "company": "LG Electronics",
+        "emojis": "📺📱🇰🇷"
+    },
+    {
+        "company": "Philips",
+        "emojis": "💡🏥🔵"
+    },
+    {
+        "company": "Siemens",
+        "emojis": "🏭⚡🇩🇪"
+    },
+    {
+        "company": "GE Vernova",
+        "emojis": "⚡🌍🏭"
+    },
+    {
+        "company": "General Electric",
+        "emojis": "🏭⚙️💡"
+    },
+    {
+        "company": "Honeywell",
+        "emojis": "🏭✈️🛠️"
+    },
+    {
+        "company": "3M",
+        "emojis": "🧪🩹🟧"
+    },
+    {
+        "company": "Caterpillar",
+        "emojis": "🚜🟡🏗️"
+    },
+    {
+        "company": "John Deere",
+        "emojis": "🚜🌾🟢"
+    },
+    {
+        "company": "Komatsu",
+        "emojis": "🚜🏗️🇯🇵"
+    },
+    {
+        "company": "Hitachi",
+        "emojis": "🏭⚙️🇯🇵"
+    },
+    {
+        "company": "Mitsubishi",
+        "emojis": "🏭🚗🔺"
+    },
+    {
+        "company": "Bosch",
+        "emojis": "🛠️🚗🇩🇪"
+    },
+    {
+        "company": "Schneider Electric",
+        "emojis": "⚡🏢🟢"
+    },
+    {
+        "company": "ABB",
+        "emojis": "🤖⚡🏭"
+    },
+    {
+        "company": "Eaton",
+        "emojis": "⚡🔌🏭"
+    },
+    {
+        "company": "Emerson",
+        "emojis": "🏭⚙️🔵"
+    },
+    {
+        "company": "Rockwell Automation",
+        "emojis": "🤖🏭⚙️"
+    },
+    {
+        "company": "Carrier",
+        "emojis": "❄️🏠🌬️"
+    },
+    {
+        "company": "Trane Technologies",
+        "emojis": "❄️🏢⚙️"
+    },
+    {
+        "company": "Daikin",
+        "emojis": "❄️🌬️🇯🇵"
+    },
+    {
+        "company": "Johnson Controls",
+        "emojis": "🏢🌡️🔧"
+    },
+    {
+        "company": "ExxonMobil",
+        "emojis": "⛽🛢️🌍"
+    },
+    {
+        "company": "Chevron",
+        "emojis": "⛽🛢️🔵"
+    },
+    {
+        "company": "Shell",
+        "emojis": "🐚⛽🛢️"
+    },
+    {
+        "company": "BP",
+        "emojis": "⛽🟢🌍"
+    },
+    {
+        "company": "TotalEnergies",
+        "emojis": "⚡⛽🌍"
+    },
+    {
+        "company": "Saudi Aramco",
+        "emojis": "🛢️🇸🇦💰"
+    },
+    {
+        "company": "PetroChina",
+        "emojis": "🛢️🇨🇳🔥"
+    },
+    {
+        "company": "Sinopec",
+        "emojis": "⛽🇨🇳🛢️"
+    },
+    {
+        "company": "Equinor",
+        "emojis": "🛢️🌊🇳🇴"
+    },
+    {
+        "company": "ConocoPhillips",
+        "emojis": "🛢️🔥🇺🇸"
+    },
+    {
+        "company": "NextEra Energy",
+        "emojis": "⚡🌬️☀️"
+    },
+    {
+        "company": "Duke Energy",
+        "emojis": "⚡🏠🔵"
+    },
+    {
+        "company": "Southern Company",
+        "emojis": "⚡🏙️☀️"
+    },
+    {
+        "company": "Enel",
+        "emojis": "⚡🇮🇹🌍"
+    },
+    {
+        "company": "Iberdrola",
+        "emojis": "⚡🌱🇪🇸"
+    },
+    {
+        "company": "Ørsted",
+        "emojis": "🌬️⚡🇩🇰"
+    },
+    {
+        "company": "Vestas",
+        "emojis": "🌬️⚙️🇩🇰"
+    },
+    {
+        "company": "First Solar",
+        "emojis": "☀️🔋🇺🇸"
+    },
+    {
+        "company": "Sunrun",
+        "emojis": "☀️🏠🔋"
+    },
+    {
+        "company": "Enphase Energy",
+        "emojis": "☀️🔋⚡"
+    },
+    {
+        "company": "Pfizer",
+        "emojis": "💊🔵🧬"
+    },
+    {
+        "company": "Moderna",
+        "emojis": "🧬💉🔴"
+    },
+    {
+        "company": "Johnson & Johnson",
+        "emojis": "🩹💊❤️"
+    },
+    {
+        "company": "Merck",
+        "emojis": "💊🧪🟢"
+    },
+    {
+        "company": "Eli Lilly",
+        "emojis": "💊🧬🔴"
+    },
+    {
+        "company": "Bristol Myers Squibb",
+        "emojis": "💊🧬💙"
+    },
+    {
+        "company": "AbbVie",
+        "emojis": "💊🧪🔵"
+    },
+    {
+        "company": "Gilead Sciences",
+        "emojis": "💊🧬🪽"
+    },
+    {
+        "company": "Amgen",
+        "emojis": "🧬💊🔬"
+    },
+    {
+        "company": "Biogen",
+        "emojis": "🧠🧬💊"
+    },
+    {
+        "company": "Roche",
+        "emojis": "🧪💊🇨🇭"
+    },
+    {
+        "company": "Novartis",
+        "emojis": "💊🇨🇭🧬"
+    },
+    {
+        "company": "Sanofi",
+        "emojis": "💊🇫🇷🧪"
+    },
+    {
+        "company": "AstraZeneca",
+        "emojis": "💊🇬🇧🧬"
+    },
+    {
+        "company": "GlaxoSmithKline",
+        "emojis": "💊🧪🇬🇧"
+    },
+    {
+        "company": "Bayer",
+        "emojis": "💊🌱🇩🇪"
+    },
+    {
+        "company": "Novo Nordisk",
+        "emojis": "💉💊🇩🇰"
+    },
+    {
+        "company": "Medtronic",
+        "emojis": "🏥🫀⚙️"
+    },
+    {
+        "company": "Abbott Laboratories",
+        "emojis": "🧪🏥💙"
+    },
+    {
+        "company": "Boston Scientific",
+        "emojis": "🏥⚙️🫀"
+    },
+    {
+        "company": "Stryker",
+        "emojis": "🏥🦴⚙️"
+    },
+    {
+        "company": "Intuitive Surgical",
+        "emojis": "🤖🏥🔬"
+    },
+    {
+        "company": "GE HealthCare",
+        "emojis": "🏥📡🧠"
+    },
+    {
+        "company": "Siemens Healthineers",
+        "emojis": "🏥🧪🇩🇪"
+    },
+    {
+        "company": "Philips Healthcare",
+        "emojis": "🏥💡🔵"
+    },
+    {
+        "company": "UnitedHealth Group",
+        "emojis": "🏥💳💙"
+    },
+    {
+        "company": "CVS Health",
+        "emojis": "💊🏥❤️"
+    },
+    {
+        "company": "Cigna",
+        "emojis": "🏥💼🟢"
+    },
+    {
+        "company": "Elevance Health",
+        "emojis": "🏥💙📋"
+    },
+    {
+        "company": "Humana",
+        "emojis": "🏥👵💚"
+    },
+    {
+        "company": "McKesson",
+        "emojis": "💊📦🏥"
+    },
+    {
+        "company": "Cardinal Health",
+        "emojis": "💊📦🔴"
+    },
+    {
+        "company": "AmerisourceBergen",
+        "emojis": "💊📦🏥"
+    },
+    {
+        "company": "Walgreens Boots Alliance",
+        "emojis": "💊🏪❤️"
+    },
+    {
+        "company": "Rite Aid",
+        "emojis": "💊🏪🔵"
+    },
+    {
+        "company": "DuPont",
+        "emojis": "🧪🏭⚗️"
+    },
+    {
+        "company": "Dow",
+        "emojis": "🧪🏭🔵"
+    },
+    {
+        "company": "BASF",
+        "emojis": "🧪🇩🇪🏭"
+    },
+    {
+        "company": "Linde",
+        "emojis": "🧊🧪💨"
+    },
+    {
+        "company": "Air Liquide",
+        "emojis": "💨🧪🇫🇷"
+    },
+    {
+        "company": "Rio Tinto",
+        "emojis": "⛏️🪨🌍"
+    },
+    {
+        "company": "BHP",
+        "emojis": "⛏️🪨🇦🇺"
+    },
+    {
+        "company": "Vale",
+        "emojis": "⛏️🇧🇷🪨"
+    },
+    {
+        "company": "Glencore",
+        "emojis": "⛏️🌍🏭"
+    },
+    {
+        "company": "Freeport-McMoRan",
+        "emojis": "⛏️🟠🪨"
+    },
+    {
+        "company": "Newmont",
+        "emojis": "🥇⛏️🌍"
+    },
+    {
+        "company": "Barrick Gold",
+        "emojis": "🥇⛏️🟡"
+    },
+    {
+        "company": "Alcoa",
+        "emojis": "🏭🪙⚙️"
+    },
+    {
+        "company": "Nucor",
+        "emojis": "🏗️🧱🔩"
+    },
+    {
+        "company": "ArcelorMittal",
+        "emojis": "🏭🔩🌍"
+    },
+    {
+        "company": "BlackRock",
+        "emojis": "💼📈⚫"
+    },
+    {
+        "company": "Vanguard",
+        "emojis": "💼📊🛡️"
+    },
+    {
+        "company": "Fidelity",
+        "emojis": "💼📈💚"
+    },
+    {
+        "company": "Charles Schwab",
+        "emojis": "💼📊🔵"
+    },
+    {
+        "company": "Citigroup",
+        "emojis": "🏦🌍💳"
+    },
+    {
+        "company": "Wells Fargo",
+        "emojis": "🏦🐎💰"
+    },
+    {
+        "company": "HSBC",
+        "emojis": "🏦🌍🔴"
+    },
+    {
+        "company": "Barclays",
+        "emojis": "🏦🇬🇧🔵"
+    },
+    {
+        "company": "BNP Paribas",
+        "emojis": "🏦🇫🇷🌍"
+    },
+    {
+        "company": "Santander",
+        "emojis": "🏦🇪🇸🔴"
+    },
+    {
+        "company": "UBS",
+        "emojis": "🏦🇨🇭🔴"
+    },
+    {
+        "company": "Deutsche Bank",
+        "emojis": "🏦🇩🇪🔵"
+    },
+    {
+        "company": "ING",
+        "emojis": "🏦🦁🟠"
+    },
+    {
+        "company": "Intesa Sanpaolo",
+        "emojis": "🏦🇮🇹💚"
+    },
+    {
+        "company": "Mizuho Financial Group",
+        "emojis": "🏦🇯🇵🔵"
+    },
+    {
+        "company": "Sumitomo Mitsui Financial Group",
+        "emojis": "🏦🇯🇵💚"
+    },
+    {
+        "company": "Mitsubishi UFJ Financial Group",
+        "emojis": "🏦🇯🇵🔺"
+    },
+    {
+        "company": "ICBC",
+        "emojis": "🏦🇨🇳💰"
+    },
+    {
+        "company": "China Construction Bank",
+        "emojis": "🏦🇨🇳🏗️"
+    },
+    {
+        "company": "Bank of China",
+        "emojis": "🏦🇨🇳🔴"
+    },
+    {
+        "company": "Ping An Insurance",
+        "emojis": "🛡️🇨🇳🍊"
+    },
+    {
+        "company": "AIA Group",
+        "emojis": "🛡️🌏🔴"
+    },
+    {
+        "company": "Allianz",
+        "emojis": "🛡️🇩🇪🔵"
+    },
+    {
+        "company": "AXA",
+        "emojis": "🛡️🇫🇷🔵"
+    },
+    {
+        "company": "MetLife",
+        "emojis": "🛡️🐶💙"
+    },
+    {
+        "company": "Prudential",
+        "emojis": "🛡️💼🔵"
+    },
+    {
+        "company": "Aflac",
+        "emojis": "🦆🛡️💙"
+    },
+    {
+        "company": "Progressive",
+        "emojis": "🚗🛡️💙"
+    },
+    {
+        "company": "State Farm",
+        "emojis": "🚗🏠🛡️"
+    },
+    {
+        "company": "Berkshire Hathaway",
+        "emojis": "💼🐂📈"
+    },
+    {
+        "company": "Coinbase",
+        "emojis": "₿💱🔵"
+    },
+    {
+        "company": "Block",
+        "emojis": "⬛💳📱"
+    },
+    {
+        "company": "Robinhood",
+        "emojis": "🏹📈💚"
+    },
+    {
+        "company": "Stripe",
+        "emojis": "💳🧾💜"
+    },
+    {
+        "company": "Square",
+        "emojis": "⬛💳🏪"
+    },
+    {
+        "company": "Wise",
+        "emojis": "💸🌍🟢"
+    },
+    {
+        "company": "Revolut",
+        "emojis": "💳🌍⚡"
+    },
+    {
+        "company": "Klarna",
+        "emojis": "💳🛍️💗"
+    },
+    {
+        "company": "Adyen",
+        "emojis": "💳🌍🟢"
+    },
+    {
+        "company": "SoFi",
+        "emojis": "💰🎓📱"
+    },
+    {
+        "company": "Zoom",
+        "emojis": "📹💻🔵"
+    },
+    {
+        "company": "Slack",
+        "emojis": "💬🏢🌈"
+    },
+    {
+        "company": "Dropbox",
+        "emojis": "📁☁️💙"
+    },
+    {
+        "company": "Box",
+        "emojis": "📦☁️🔵"
+    },
+    {
+        "company": "DocuSign",
+        "emojis": "✍️📄💛"
+    },
+    {
+        "company": "Atlassian",
+        "emojis": "🧩💻🔵"
+    },
+    {
+        "company": "GitHub",
+        "emojis": "🐙💻⚫"
+    },
+    {
+        "company": "GitLab",
+        "emojis": "🦊💻🧡"
+    },
+    {
+        "company": "ServiceNow",
+        "emojis": "⚙️☁️💼"
+    },
+    {
+        "company": "Workday",
+        "emojis": "💼📊☁️"
+    },
+    {
+        "company": "Intuit",
+        "emojis": "🧾💰💚"
+    },
+    {
+        "company": "ADP",
+        "emojis": "💼👥💵"
+    },
+    {
+        "company": "Paychex",
+        "emojis": "💼💵📋"
+    },
+    {
+        "company": "Snowflake",
+        "emojis": "❄️☁️📊"
+    },
+    {
+        "company": "Datadog",
+        "emojis": "🐶📊☁️"
+    },
+    {
+        "company": "Cloudflare",
+        "emojis": "☁️🛡️🟠"
+    },
+    {
+        "company": "Okta",
+        "emojis": "🔐☁️🔵"
+    },
+    {
+        "company": "Palo Alto Networks",
+        "emojis": "🛡️🌐🔥"
+    },
+    {
+        "company": "CrowdStrike",
+        "emojis": "🛡️🦅💻"
+    },
+    {
+        "company": "Zscaler",
+        "emojis": "🛡️☁️🔵"
+    },
+    {
+        "company": "Fortinet",
+        "emojis": "🛡️🔥🌐"
+    },
+    {
+        "company": "Check Point Software",
+        "emojis": "🛡️🇮🇱🔒"
+    },
+    {
+        "company": "Wix",
+        "emojis": "🌐🎨🇮🇱"
+    },
+    {
+        "company": "Monday.com",
+        "emojis": "📋✅🇮🇱"
+    },
+    {
+        "company": "Fiverr",
+        "emojis": "🎨💻💚"
+    },
+    {
+        "company": "Taboola",
+        "emojis": "📰📣🇮🇱"
+    },
+    {
+        "company": "Outbrain",
+        "emojis": "📰📣🔵"
+    },
+    {
+        "company": "Mobileye",
+        "emojis": "🚗👁️🇮🇱"
+    },
+    {
+        "company": "Teva Pharmaceutical",
+        "emojis": "💊🇮🇱🧪"
+    },
+    {
+        "company": "Amdocs",
+        "emojis": "📞☁️🇮🇱"
+    },
+    {
+        "company": "Grab",
+        "emojis": "🚗🍜📱"
+    },
+    {
+        "company": "GoTo",
+        "emojis": "🛵📱🇮🇩"
+    },
+    {
+        "company": "Sea Limited",
+        "emojis": "🎮🛒🌊"
+    },
+    {
+        "company": "Shopee",
+        "emojis": "🛒🟠📱"
+    },
+    {
+        "company": "Mercado Libre",
+        "emojis": "🛒💛📦"
+    },
+    {
+        "company": "Nubank",
+        "emojis": "🏦💜📱"
+    },
+    {
+        "company": "PagSeguro",
+        "emojis": "💳🇧🇷💚"
+    },
+    {
+        "company": "StoneCo",
+        "emojis": "💳🇧🇷🧱"
+    },
+    {
+        "company": "Rappi",
+        "emojis": "🛵🍔📱"
+    },
+    {
+        "company": "Delivery Hero",
+        "emojis": "🍔🛵🌍"
+    },
+    {
+        "company": "DoorDash",
+        "emojis": "🍔🚪🛵"
+    },
+    {
+        "company": "Instacart",
+        "emojis": "🥦🛒📱"
+    },
+    {
+        "company": "Deliveroo",
+        "emojis": "🍔🛵🟢"
+    },
+    {
+        "company": "Just Eat Takeaway",
+        "emojis": "🍕🛵🧡"
+    },
+    {
+        "company": "Domino's Pizza",
+        "emojis": "🍕🔵🔴"
+    },
+    {
+        "company": "Pizza Hut",
+        "emojis": "🍕🏠🔴"
+    },
+    {
+        "company": "KFC",
+        "emojis": "🍗👴🔴"
+    },
+    {
+        "company": "Burger King",
+        "emojis": "🍔👑🔥"
+    },
+    {
+        "company": "Subway",
+        "emojis": "🥪🟢🚇"
+    },
+    {
+        "company": "Chipotle",
+        "emojis": "🌯🔥🟤"
+    },
+    {
+        "company": "Yum! Brands",
+        "emojis": "🍗🍕🌮"
+    },
+    {
+        "company": "Restaurant Brands International",
+        "emojis": "🍔☕👑"
+    },
+    {
+        "company": "Dunkin'",
+        "emojis": "🍩☕🟠"
+    },
+    {
+        "company": "Krispy Kreme",
+        "emojis": "🍩✨🟢"
+    },
+    {
+        "company": "Hershey",
+        "emojis": "🍫🤎🇺🇸"
+    },
+    {
+        "company": "Ferrero",
+        "emojis": "🍫🌰🇮🇹"
+    },
+    {
+        "company": "Lindt",
+        "emojis": "🍫🇨🇭✨"
+    },
+    {
+        "company": "Red Bull",
+        "emojis": "🐂⚡🥤"
+    },
+    {
+        "company": "Monster Beverage",
+        "emojis": "⚡🥤🟢"
+    },
+    {
+        "company": "Keurig Dr Pepper",
+        "emojis": "☕🥤🔴"
+    },
+    {
+        "company": "General Motors Cruise",
+        "emojis": "🚗🤖🌃"
+    },
+    {
+        "company": "Waymo",
+        "emojis": "🚗🤖🌈"
+    },
+    {
+        "company": "Zoox",
+        "emojis": "🚕🤖🟢"
+    },
+    {
+        "company": "Lyft",
+        "emojis": "🚗💗📱"
+    },
+    {
+        "company": "Bolt",
+        "emojis": "🚗⚡🟢"
+    },
+    {
+        "company": "Gett",
+        "emojis": "🚕📱🇮🇱"
+    },
+    {
+        "company": "Yandex",
+        "emojis": "🔍🚕🇷🇺"
+    },
+    {
+        "company": "Didi Chuxing",
+        "emojis": "🚗📱🇨🇳"
+    },
+    {
+        "company": "Ola Cabs",
+        "emojis": "🚕🇮🇳📱"
+    },
+    {
+        "company": "BlaBlaCar",
+        "emojis": "🚗💬🌍"
+    },
+    {
+        "company": "Reddit",
+        "emojis": "🤖💬🟠"
+    },
+    {
+        "company": "Pinterest",
+        "emojis": "📌🎨🔴"
+    },
+    {
+        "company": "Snap",
+        "emojis": "👻📸💛"
+    },
+    {
+        "company": "X Corp.",
+        "emojis": "✖️💬🌐"
+    },
+    {
+        "company": "LinkedIn",
+        "emojis": "💼🔗🔵"
+    },
+    {
+        "company": "Indeed",
+        "emojis": "🔎💼🔵"
+    },
+    {
+        "company": "Glassdoor",
+        "emojis": "🏢⭐💚"
+    },
+    {
+        "company": "Canva",
+        "emojis": "🎨✨📱"
+    },
+    {
+        "company": "Figma",
+        "emojis": "🎨🧩💜"
+    },
+    {
+        "company": "Notion",
+        "emojis": "📝⬛✅"
+    },
+    {
+        "company": "OpenAI",
+        "emojis": "🤖🧠✨"
+    },
+    {
+        "company": "Anthropic",
+        "emojis": "🤖📚🧠"
+    },
+    {
+        "company": "Mistral AI",
+        "emojis": "🌬️🤖🇫🇷"
+    },
+    {
+        "company": "Cohere",
+        "emojis": "🤖🧠💬"
+    },
+    {
+        "company": "Perplexity AI",
+        "emojis": "🔍🤖❓"
+    },
+    {
+        "company": "Hugging Face",
+        "emojis": "🤗🤖💛"
+    },
+    {
+        "company": "DeepMind",
+        "emojis": "🧠🤖🔬"
+    },
+    {
+        "company": "Scale AI",
+        "emojis": "🏷️🤖📊"
+    },
+    {
+        "company": "DataRobot",
+        "emojis": "🤖📊⚙️"
+    },
+    {
+        "company": "Palantir",
+        "emojis": "🔮📊🛡️"
+    },
+    {
+        "company": "Unity Software",
+        "emojis": "🎮🧩🕹️"
+    },
+    {
+        "company": "Roblox",
+        "emojis": "🧱🎮🌈"
+    },
+    {
+        "company": "Epic Games",
+        "emojis": "🎮🛡️🚀"
+    },
+    {
+        "company": "Electronic Arts",
+        "emojis": "🎮⚽🏈"
+    },
+    {
+        "company": "Activision Blizzard",
+        "emojis": "🎮🐉💥"
+    },
+    {
+        "company": "Ubisoft",
+        "emojis": "🎮🌀🇫🇷"
+    },
+    {
+        "company": "Nintendo",
+        "emojis": "🎮🍄🇯🇵"
+    },
+    {
+        "company": "Sega",
+        "emojis": "🎮🦔🔵"
+    },
+    {
+        "company": "Bandai Namco",
+        "emojis": "🎮🟡🔴"
+    },
+    {
+        "company": "Capcom",
+        "emojis": "🎮🐉🔵"
+    },
+    {
+        "company": "Square Enix",
+        "emojis": "🎮⚔️✨"
+    },
+    {
+        "company": "Konami",
+        "emojis": "🎮🃏🇯🇵"
+    },
+    {
+        "company": "Take-Two Interactive",
+        "emojis": "🎮🏙️💰"
+    },
+    {
+        "company": "Riot Games",
+        "emojis": "🎮⚔️🔥"
+    },
+    {
+        "company": "Valve",
+        "emojis": "🎮🧪⚙️"
+    },
+    {
+        "company": "CD Projekt",
+        "emojis": "🎮🐺🇵🇱"
+    },
+    {
+        "company": "Nexon",
+        "emojis": "🎮🇰🇷✨"
+    },
+    {
+        "company": "NetEase",
+        "emojis": "🎮🇨🇳🌐"
+    },
+    {
+        "company": "Supercell",
+        "emojis": "🎮📱💥"
+    },
+    {
+        "company": "King",
+        "emojis": "🍬🎮👑"
+    },
+    {
+        "company": "The New York Times Company",
+        "emojis": "📰🗽🖋️"
+    },
+    {
+        "company": "News Corp",
+        "emojis": "📰🌍🏢"
+    },
+    {
+        "company": "Thomson Reuters",
+        "emojis": "📰⚖️📊"
+    },
+    {
+        "company": "Bloomberg",
+        "emojis": "📊📰💼"
+    },
+    {
+        "company": "RELX",
+        "emojis": "📚⚖️📊"
+    },
+    {
+        "company": "Pearson",
+        "emojis": "📚🎓🔵"
+    },
+    {
+        "company": "Scholastic",
+        "emojis": "📚🚌❤️"
+    },
+    {
+        "company": "Penguin Random House",
+        "emojis": "🐧📚🏠"
+    },
+    {
+        "company": "HarperCollins",
+        "emojis": "📚🖋️🌍"
+    },
+    {
+        "company": "Simon & Schuster",
+        "emojis": "📚✍️🏢"
+    },
+    {
+        "company": "TikTok",
+        "emojis": "🎵📱🌈"
+    },
+    {
+        "company": "YouTube",
+        "emojis": "▶️🎬🔴"
+    },
+    {
+        "company": "Twitch",
+        "emojis": "🎮📺💜"
+    },
+    {
+        "company": "Roku",
+        "emojis": "📺📡💜"
+    },
+    {
+        "company": "iHeartMedia",
+        "emojis": "📻❤️🎵"
+    },
+    {
+        "company": "SiriusXM",
+        "emojis": "📻🛰️🎶"
+    },
+    {
+        "company": "Spotify Technology",
+        "emojis": "🎧🎵🟢"
+    },
+    {
+        "company": "Universal Music Group",
+        "emojis": "🎵🌍🎤"
+    },
+    {
+        "company": "Sony Music",
+        "emojis": "🎵🎧🔵"
+    },
+    {
+        "company": "Warner Music Group",
+        "emojis": "🎵🎸🟦"
+    },
+    {
+        "company": "T-Mobile US",
+        "emojis": "📱📶💗"
+    },
+    {
+        "company": "Charter Communications",
+        "emojis": "📺🌐🔵"
+    },
+    {
+        "company": "Altice USA",
+        "emojis": "📺🌐⚡"
+    },
+    {
+        "company": "Rogers Communications",
+        "emojis": "📱🇨🇦🔴"
+    },
+    {
+        "company": "Bell Canada",
+        "emojis": "📞🇨🇦🔵"
+    },
+    {
+        "company": "Telstra",
+        "emojis": "📱🇦🇺🟠"
+    },
+    {
+        "company": "Airtel",
+        "emojis": "📱🇮🇳🔴"
+    },
+    {
+        "company": "Reliance Jio",
+        "emojis": "📱🇮🇳🔵"
+    },
+    {
+        "company": "Bharti Enterprises",
+        "emojis": "🏢🇮🇳📡"
+    },
+    {
+        "company": "MTN Group",
+        "emojis": "📱🌍🟡"
+    },
+    {
+        "company": "WPP",
+        "emojis": "📣🎨🌍"
+    },
+    {
+        "company": "Omnicom Group",
+        "emojis": "📣💼🌍"
+    },
+    {
+        "company": "Publicis Groupe",
+        "emojis": "📣🇫🇷🦁"
+    },
+    {
+        "company": "Interpublic Group",
+        "emojis": "📣🏢🌍"
+    },
+    {
+        "company": "Dentsu",
+        "emojis": "📣🇯🇵✨"
+    },
+    {
+        "company": "HubSpot",
+        "emojis": "📣☁️🟠"
+    },
+    {
+        "company": "Mailchimp",
+        "emojis": "📧🐵💛"
+    },
+    {
+        "company": "Klaviyo",
+        "emojis": "📧📊🟢"
+    },
+    {
+        "company": "Twilio",
+        "emojis": "📞💬🔴"
+    },
+    {
+        "company": "Sinch",
+        "emojis": "💬📱🟣"
+    },
+    {
+        "company": "Coupang",
+        "emojis": "📦🛒🇰🇷"
+    },
+    {
+        "company": "Rakuten",
+        "emojis": "🛒🇯🇵🔴"
+    },
+    {
+        "company": "eBay",
+        "emojis": "🛒🏷️🌈"
+    },
+    {
+        "company": "Etsy",
+        "emojis": "🧶🛍️🟠"
+    },
+    {
+        "company": "Wayfair",
+        "emojis": "🛋️📦🏠"
+    },
+    {
+        "company": "Chewy",
+        "emojis": "🐶📦💙"
+    },
+    {
+        "company": "Petco",
+        "emojis": "🐶🐱🏪"
+    },
+    {
+        "company": "PetSmart",
+        "emojis": "🐾🏪💙"
+    },
+    {
+        "company": "AutoZone",
+        "emojis": "🚗🔧🟠"
+    },
+    {
+        "company": "O'Reilly Automotive",
+        "emojis": "🚗🔧🟢"
+    },
+    {
+        "company": "Advance Auto Parts",
+        "emojis": "🚗🔧🏁"
+    },
+    {
+        "company": "CarMax",
+        "emojis": "🚗🏷️💙"
+    },
+    {
+        "company": "Carvana",
+        "emojis": "🚗📱🪙"
+    },
+    {
+        "company": "AutoNation",
+        "emojis": "🚗🏬🇺🇸"
+    },
+    {
+        "company": "Copart",
+        "emojis": "🚗🔨💻"
+    },
+    {
+        "company": "Cars.com",
+        "emojis": "🚗🔎🌐"
+    },
+    {
+        "company": "TrueCar",
+        "emojis": "🚗✅🔵"
+    },
+    {
+        "company": "Vroom",
+        "emojis": "🚗💨📱"
+    },
+    {
+        "company": "Michelin",
+        "emojis": "🛞🍽️🇫🇷"
+    },
+    {
+        "company": "Bridgestone",
+        "emojis": "🛞🇯🇵⚙️"
+    },
+    {
+        "company": "Goodyear",
+        "emojis": "🛞🪽🏁"
+    },
+    {
+        "company": "Continental",
+        "emojis": "🛞🇩🇪⚙️"
+    },
+    {
+        "company": "Pirelli",
+        "emojis": "🛞🏎️🇮🇹"
+    },
+    {
+        "company": "Harley-Davidson",
+        "emojis": "🏍️🧡🇺🇸"
+    },
+    {
+        "company": "Yamaha",
+        "emojis": "🏍️🎹🇯🇵"
+    },
+    {
+        "company": "Kawasaki",
+        "emojis": "🏍️💚🇯🇵"
+    },
+    {
+        "company": "Ducati",
+        "emojis": "🏍️🔴🇮🇹"
+    },
+    {
+        "company": "Polaris",
+        "emojis": "❄️🏍️🇺🇸"
+    },
+    {
+        "company": "BRP",
+        "emojis": "🏍️❄️🇨🇦"
+    },
+    {
+        "company": "Garmin",
+        "emojis": "⌚🗺️🛰️"
+    },
+    {
+        "company": "Fitbit",
+        "emojis": "⌚💪💙"
+    },
+    {
+        "company": "GoPro",
+        "emojis": "📷🏄⚫"
+    },
+    {
+        "company": "DJI",
+        "emojis": "🚁📷🇨🇳"
+    },
+    {
+        "company": "Logitech",
+        "emojis": "⌨️🖱️🔵"
+    },
+    {
+        "company": "Razer",
+        "emojis": "🐍🎮💚"
+    },
+    {
+        "company": "Corsair",
+        "emojis": "⌨️🎮⛵"
+    },
+    {
+        "company": "SteelSeries",
+        "emojis": "🎧🎮⚙️"
+    },
+    {
+        "company": "Anker",
+        "emojis": "🔋🔌⚡"
+    },
+    {
+        "company": "Belkin",
+        "emojis": "🔌📱⚙️"
+    },
+    {
+        "company": "TP-Link",
+        "emojis": "📶🌐🔵"
+    },
+    {
+        "company": "Netgear",
+        "emojis": "📶🦅🔵"
+    },
+    {
+        "company": "Cisco",
+        "emojis": "🌐🔌🔵"
+    },
+    {
+        "company": "Juniper Networks",
+        "emojis": "🌐🛡️🟢"
+    },
+    {
+        "company": "Arista Networks",
+        "emojis": "🌐⚙️🔵"
+    },
+    {
+        "company": "Broadcom",
+        "emojis": "🧩📡🔴"
+    },
+    {
+        "company": "Qualcomm",
+        "emojis": "📱🧠🔵"
+    },
+    {
+        "company": "MediaTek",
+        "emojis": "📱🧠🇹🇼"
+    },
+    {
+        "company": "TSMC",
+        "emojis": "🧩🏭🇹🇼"
+    },
+    {
+        "company": "ASML",
+        "emojis": "🧩🔬🇳🇱"
+    },
+    {
+        "company": "Micron Technology",
+        "emojis": "💾🧠🔵"
+    },
+    {
+        "company": "Western Digital",
+        "emojis": "💾🔵📦"
+    },
+    {
+        "company": "Seagate",
+        "emojis": "💾🌊🟢"
+    },
+    {
+        "company": "SK Hynix",
+        "emojis": "💾🇰🇷🧠"
+    },
+    {
+        "company": "Texas Instruments",
+        "emojis": "🔢🧩🇺🇸"
+    },
+    {
+        "company": "Analog Devices",
+        "emojis": "📡🧩⚙️"
+    },
+    {
+        "company": "Marvell Technology",
+        "emojis": "🧩📡🔵"
+    },
+    {
+        "company": "Arm Holdings",
+        "emojis": "💪🧩🇬🇧"
+    },
+    {
+        "company": "Synopsys",
+        "emojis": "🧩🖥️📐"
+    },
+    {
+        "company": "Cadence Design Systems",
+        "emojis": "🧩📐💻"
+    },
+    {
+        "company": "KLA Corporation",
+        "emojis": "🔬🧩🏭"
+    }
+]

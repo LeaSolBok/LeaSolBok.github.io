@@ -1,0 +1,2501 @@
+[
+  {
+    "celebrity": "Taylor Swift",
+    "gender": "Female",
+    "facts": [
+      "Re-recorded her first six albums to reclaim ownership of her music after a dispute with Scooter Braun.",
+      "Has a cat named Olivia Benson after the Law & Order: SVU character.",
+      "Hid Easter eggs and clues about upcoming albums inside music videos, nails, and Instagram captions for years."
+    ],
+    "tmdb_id": 212208
+  },
+  {
+    "celebrity": "Elon Musk",
+    "gender": "Male",
+    "facts": [
+      "Named his son X Æ A-12 with musician Grimes.",
+      "Bought Twitter for $44 billion and renamed it X.",
+      "Smoked marijuana live on Joe Rogan's podcast, causing Tesla stock to drop 9%."
+    ],
+    "tmdb_id": 57563
+  },
+  {
+    "celebrity": "Beyoncé",
+    "gender": "Female",
+    "facts": [
+      "Dropped her self-titled album with zero promotion at midnight in 2013, shocking the industry.",
+      "Performed at the Super Bowl halftime show while 7 months pregnant with twins.",
+      "Created a alter ego named Sasha Fierce to channel her stage confidence."
+    ],
+    "tmdb_id": 14386
+  },
+  {
+    "celebrity": "Kanye West",
+    "gender": "Male",
+    "facts": [
+      "Interrupted Taylor Swift's VMA acceptance speech in 2009 to praise Beyoncé.",
+      "Legally changed his name to Ye.",
+      "Ran for U.S. President in 2020 and received over 60,000 votes."
+    ],
+    "tmdb_id": 4720
+  },
+  {
+    "celebrity": "Keanu Reeves",
+    "gender": "Male",
+    "facts": [
+      "Is known for giving away large portions of his earnings to crew members and charities.",
+      "Practiced motorcycle riding for months to perform his own stunts in John Wick.",
+      "Has been riding the New York subway and sitting next to strangers for decades, often photographed looking pensive."
+    ],
+    "tmdb_id": 6384
+  },
+  {
+    "celebrity": "Lady Gaga",
+    "gender": "Female",
+    "facts": [
+      "Wore a dress made entirely of raw meat to the 2010 MTV VMAs.",
+      "Has synesthesia, meaning she experiences music as colors.",
+      "Was discovered by Akon after he heard a demo she recorded at age 19."
+    ],
+    "tmdb_id": 237405
+  },
+  {
+    "celebrity": "Dwayne Johnson",
+    "gender": "Male",
+    "facts": [
+      "Was cut from the Canadian Football League before pivoting to wrestling.",
+      "His catchphrase 'Can you smell what The Rock is cooking?' became one of wrestling's most iconic lines.",
+      "Eats seven meals a day, including a cheat day that involves 21 brownies and 12 pancakes."
+    ],
+    "tmdb_id": 18918
+  },
+  {
+    "celebrity": "Adele",
+    "gender": "Female",
+    "facts": [
+      "Named her albums 19, 21, 25, and 30 after the ages she was when she wrote them.",
+      "Her live album broke Spotify streaming records within 24 hours of release.",
+      "Once called a fan during a concert to comfort her after spotting her crying."
+    ],
+    "tmdb_id": 449538
+  },
+  {
+    "celebrity": "Drake",
+    "gender": "Male",
+    "facts": [
+      "Played wheelchair-bound Jimmy Brooks on Degrassi: The Next Generation before becoming a rapper.",
+      "Has a custom Boeing 767 jet called Air Drake.",
+      "His beef with Kendrick Lamar in 2024 produced one of the most viral diss track exchanges in rap history."
+    ],
+    "tmdb_id": 197315
+  },
+  {
+    "celebrity": "Rihanna",
+    "gender": "Female",
+    "facts": [
+      "Performed the Super Bowl LVII halftime show while secretly pregnant.",
+      "Her Fenty Beauty foundation launched with 40 shades, revolutionizing inclusive makeup.",
+      "Is officially recognized as a National Hero of Barbados."
+    ],
+    "tmdb_id": 131519
+  },
+  {
+    "celebrity": "Eminem",
+    "gender": "Male",
+    "facts": [
+      "Failed 9th grade three times before dropping out of school.",
+      "Memorized the dictionary to improve his vocabulary and rhyme schemes.",
+      "His song 'Lose Yourself' was the first rap song to win an Academy Award."
+    ],
+    "tmdb_id": 325
+  },
+  {
+    "celebrity": "Billie Eilish",
+    "gender": "Female",
+    "facts": [
+      "Recorded her debut hit 'Ocean Eyes' in her brother's bedroom when she was 13.",
+      "Became the youngest artist to win all four major Grammy categories in one night.",
+      "Is the youngest person ever to record a James Bond theme song."
+    ],
+    "tmdb_id": 2413513
+  },
+  {
+    "celebrity": "Tom Hanks",
+    "gender": "Male",
+    "facts": [
+      "Is known for mailing personalized letters typed on a vintage typewriter to fans and strangers.",
+      "Won back-to-back Best Actor Oscars for Philadelphia and Forrest Gump.",
+      "Collects vintage typewriters as a serious hobby and has written a book of short stories."
+    ],
+    "tmdb_id": 31
+  },
+  {
+    "celebrity": "Oprah Winfrey",
+    "gender": "Female",
+    "facts": [
+      "Gave away 276 cars to her studio audience in a single episode of her show.",
+      "Grew up so poor she wore potato sacks as dresses as a child.",
+      "Her book club endorsements have the power to instantly turn a novel into a bestseller, known as the 'Oprah Effect.'"
+    ],
+    "tmdb_id": 13309
+  },
+  {
+    "celebrity": "Leonardo DiCaprio",
+    "gender": "Male",
+    "facts": [
+      "Didn't win an Oscar until his sixth nomination, for The Revenant in 2016.",
+      "Has a strict environmental policy and flies commercial to reduce his carbon footprint when possible.",
+      "Dated a long string of models mostly under 25, spawning countless internet memes about his age preferences."
+    ],
+    "tmdb_id": 6193
+  },
+  {
+    "celebrity": "Nicki Minaj",
+    "gender": "Female",
+    "facts": [
+      "Worked at Red Lobster as a teenager and was fired for following customers to their cars after being rude to her.",
+      "Her alter ego Roman Zolanski appears across multiple albums as a separate personality.",
+      "Was born in Trinidad and moved to Queens, New York at age five."
+    ],
+    "tmdb_id": 968660
+  },
+  {
+    "celebrity": "Cristiano Ronaldo",
+    "gender": "Male",
+    "facts": [
+      "Has a museum dedicated entirely to himself in his hometown in Madeira, Portugal.",
+      "Has more Instagram followers than any other person on the platform.",
+      "Is known for his signature 'Siu' goal celebration, which he performs by jumping and spinning."
+    ],
+    "tmdb_id": 1141894
+  },
+  {
+    "celebrity": "Lionel Messi",
+    "gender": "Male",
+    "facts": [
+      "Received growth hormone treatment paid for by FC Barcelona when he was 13 after his family couldn't afford it.",
+      "Won his first FIFA World Cup with Argentina in 2022 at age 35.",
+      "Has an eight-legged tattoo sleeve on his left arm that includes his son's handprints."
+    ],
+    "tmdb_id": 1127406
+  },
+  {
+    "celebrity": "Cardi B",
+    "gender": "Female",
+    "facts": [
+      "Went viral as a social media personality years before releasing any music.",
+      "Was a stripper who used Instagram fame to launch her rap career.",
+      "Her adlib 'Okurrr' became a national catchphrase and was used in Pepsi Super Bowl ads."
+    ],
+    "tmdb_id": 1562344
+  },
+  {
+    "celebrity": "Jeff Bezos",
+    "gender": "Male",
+    "facts": [
+      "Started Amazon in his garage in Bellevue, Washington, in 1994.",
+      "His physique transformation in his 50s sparked endless meme commentary online.",
+      "Flew to space on his own rocket, Blue Origin's New Shepard, in 2021 and thanked Amazon workers for funding it."
+    ],
+    "tmdb_id": 1223665
+  },
+  {
+    "celebrity": "Angelina Jolie",
+    "gender": "Female",
+    "facts": [
+      "Wore a vial of Billy Bob Thornton's blood around her neck when they were married.",
+      "Has adopted three children from Cambodia, Ethiopia, and Vietnam.",
+      "Her decision to have a preventive double mastectomy inspired a global conversation about the BRCA gene."
+    ],
+    "tmdb_id": 11701
+  },
+  {
+    "celebrity": "Brad Pitt",
+    "gender": "Male",
+    "facts": [
+      "Worked as a chicken mascot for El Pollo Loco restaurant before getting his acting break.",
+      "Has been open about his prosopagnosia, a neurological condition that makes it hard to recognize faces.",
+      "His split from Angelina Jolie, dubbed 'Brangelina,' dominated tabloid headlines for years."
+    ],
+    "tmdb_id": 287
+  },
+  {
+    "celebrity": "Ariana Grande",
+    "gender": "Female",
+    "facts": [
+      "Has a very high ponytail that she has worn consistently for years to cover hair damage from her red dye days on Victorious.",
+      "Her song 'Thank U, Next' broke Spotify's record for most streams in a single day upon release.",
+      "Has the word 'Mille tendresse' tattooed on her toe — she got it wrong and fans immediately noticed."
+    ],
+    "tmdb_id": 226001
+  },
+  {
+    "celebrity": "Post Malone",
+    "gender": "Male",
+    "facts": [
+      "Has over 70 tattoos on his body, including several on his face, some of which he says he got to make himself feel ugly.",
+      "Was born in Syracuse, New York, but grew up in Grapevine, Texas.",
+      "Once crashed his Rolls-Royce, then had two tires blow out on his private jet, all in the same week."
+    ],
+    "tmdb_id": 1821863
+  },
+  {
+    "celebrity": "Serena Williams",
+    "gender": "Female",
+    "facts": [
+      "Won the 2017 Australian Open while eight weeks pregnant.",
+      "Wrote a personal essay for Vogue about nearly dying after giving birth due to medical complications.",
+      "Has a custom-made outfit for nearly every Grand Slam she enters, turning tennis fashion into an art form."
+    ],
+    "tmdb_id": 1214573
+  },
+  {
+    "celebrity": "LeBron James",
+    "gender": "Male",
+    "facts": [
+      "Was on the cover of Sports Illustrated at age 17 under the headline 'The Chosen One.'",
+      "His Decision TV special in 2010, where he announced leaving Cleveland, is considered one of the most controversial moments in sports media.",
+      "Became the first active NBA player to become a billionaire."
+    ],
+    "tmdb_id": 107379
+  },
+  {
+    "celebrity": "Zendaya",
+    "gender": "Female",
+    "facts": [
+      "Won two Emmy Awards for Euphoria, becoming the youngest actress to win Outstanding Lead Actress in a Drama Series.",
+      "Was a backup dancer and child model before landing a role on Shake It Up at age 14.",
+      "Wore her hair in faux locs to the Oscars, prompting a racist comment from a Fashion Police host which caused international backlash."
+    ],
+    "tmdb_id": 505710
+  },
+  {
+    "celebrity": "Ryan Reynolds",
+    "gender": "Male",
+    "facts": [
+      "Bought Wrexham AFC, a Welsh football club in the fifth tier of English football, with Rob McElhenney.",
+      "Is known for sarcastically trolling his wife Blake Lively and his co-stars on social media.",
+      "Was rejected for the role of Wally West/The Flash before landing Deadpool."
+    ],
+    "tmdb_id": 10859
+  },
+  {
+    "celebrity": "Kim Kardashian",
+    "gender": "Female",
+    "facts": [
+      "Her sex tape with Ray J, leaked in 2007, is credited with launching her career.",
+      "Was robbed at gunpoint in Paris in 2016, with criminals stealing jewelry worth millions.",
+      "Passed the baby bar exam in 2021 while studying to become a lawyer without attending law school."
+    ],
+    "tmdb_id": 212225
+  },
+  {
+    "celebrity": "Kylie Jenner",
+    "gender": "Female",
+    "facts": [
+      "Became one of the youngest self-made billionaires largely through Kylie Cosmetics.",
+      "Her lip kits sold out within minutes every single time they dropped, crashing her website repeatedly.",
+      "Hid her pregnancy with daughter Stormi for the entire nine months, shocking the internet with a birth announcement video."
+    ],
+    "tmdb_id": 1695682
+  },
+  {
+    "celebrity": "Shaquille O'Neal",
+    "gender": "Male",
+    "facts": [
+      "Recorded five rap albums and had a gold record with 'Shaq Diesel.'",
+      "Has a PhD in Education from Barry University.",
+      "Dunked so hard he once broke the shot clock support stanchion in a game."
+    ],
+    "tmdb_id": 35806
+  },
+  {
+    "celebrity": "Britney Spears",
+    "gender": "Female",
+    "facts": [
+      "Shaved her own head at a hair salon in 2007 in one of the most photographed celebrity meltdowns in history.",
+      "Lived under a court-mandated conservatorship controlled by her father for 13 years before it was terminated in 2021.",
+      "Her 2003 kiss with Madonna at the VMAs is one of the most replayed moments in award show history."
+    ],
+    "tmdb_id": 111946
+  },
+  {
+    "celebrity": "Justin Bieber",
+    "gender": "Male",
+    "facts": [
+      "Was discovered via YouTube covers of R&B songs posted by his mother when he was 12.",
+      "Egged his neighbor's house in 2014 and was charged with vandalism.",
+      "Challenged Tom Cruise to a UFC fight via Twitter in 2019."
+    ],
+    "tmdb_id": 150810
+  },
+  {
+    "celebrity": "Miley Cyrus",
+    "gender": "Female",
+    "facts": [
+      "Twerked on Robin Thicke with a foam finger at the 2013 VMAs in a moment that dominated news cycles for weeks.",
+      "Changed her image dramatically from Hannah Montana by cutting her hair into a pixie and releasing 'We Can't Stop.'",
+      "Is the godmother of Braison Cyrus's daughter and is very close with her godmother Dolly Parton."
+    ],
+    "tmdb_id": 76594
+  },
+  {
+    "celebrity": "Doja Cat",
+    "gender": "Female",
+    "facts": [
+      "Her breakout song 'Mooo!' was made as a joke about being a cow and went viral overnight.",
+      "Was accused of participating in alt-right chat rooms in 2020, which she addressed publicly.",
+      "Shaved her head and eyebrows on a live stream, saying she never liked having hair."
+    ],
+    "tmdb_id": 3006401
+  },
+  {
+    "celebrity": "Bad Bunny",
+    "gender": "Male",
+    "facts": [
+      "Was bagging groceries at a supermarket in Puerto Rico when he started uploading music to SoundCloud.",
+      "Became the first non-English language artist to win Spotify's most-streamed artist of the year three times in a row.",
+      "Is known for his gender-fluid fashion, wearing skirts and nail polish on magazine covers."
+    ],
+    "tmdb_id": 2550161
+  },
+  {
+    "celebrity": "Megan Thee Stallion",
+    "gender": "Female",
+    "facts": [
+      "Was shot in the feet by Tory Lanez in 2020 in an incident that led to a widely followed criminal trial.",
+      "Is currently completing her Master's degree in Health Administration.",
+      "Her catchphrase 'Hot Girl Summer' became a universal cultural slogan in 2019."
+    ],
+    "tmdb_id": 2396830
+  },
+  {
+    "celebrity": "Will Smith",
+    "gender": "Male",
+    "facts": [
+      "Slapped presenter Chris Rock on stage at the 2022 Oscars after a joke about Jada Pinkett Smith's shaved head.",
+      "Was originally cast as Neo in The Matrix but turned it down.",
+      "Turned down the role of Django in Django Unchained, which went to Jamie Foxx."
+    ],
+    "tmdb_id": 2888
+  },
+  {
+    "celebrity": "Lizzo",
+    "gender": "Female",
+    "facts": [
+      "Played a 200-year-old crystal flute from the Library of Congress on stage during a concert in Washington, D.C.",
+      "Trained as a classical flutist and holds a degree in music from the University of Houston.",
+      "Her song 'Truth Hurts' went viral two years after its release thanks to a Netflix film."
+    ],
+    "tmdb_id": 1661465
+  },
+  {
+    "celebrity": "Timothée Chalamet",
+    "gender": "Male",
+    "facts": [
+      "Was nominated for a Best Actor Oscar at age 22 for Call Me By Your Name, making him one of the youngest nominees ever.",
+      "Wore a backless halter-neck Haider Ackermann outfit to the Venice Film Festival, sparking enormous fashion discourse.",
+      "Performed all of his own singing as Willy Wonka in the 2023 musical film Wonka."
+    ],
+    "tmdb_id": 1190668
+  },
+  {
+    "celebrity": "Margot Robbie",
+    "gender": "Female",
+    "facts": [
+      "Produced the Barbie movie herself through her company LuckyChap Entertainment.",
+      "Grew up on a farm in Queensland, Australia, and her family didn't have a television.",
+      "The promotional campaign for Barbie turned entire cities pink and broke box office records before the film even released."
+    ],
+    "tmdb_id": 234352
+  },
+  {
+    "celebrity": "Chadwick Boseman",
+    "gender": "Male",
+    "facts": [
+      "Filmed all of his Marvel appearances as Black Panther while secretly battling stage III and then stage IV colon cancer.",
+      "Received a posthumous Oscar nomination, the first for a posthumous Best Actor nod in 45 years.",
+      "Paid for eight Black USC film school students to study abroad from his own salary from 42."
+    ],
+    "tmdb_id": 172069
+  },
+  {
+    "celebrity": "Joaquin Phoenix",
+    "gender": "Male",
+    "facts": [
+      "Gained 52 pounds and rehearsed his Joker laugh with a dialect coach for months before filming.",
+      "Left Hollywood for over a year, claiming to quit acting to become a rapper, which turned out to be a mockumentary hoax.",
+      "Delivered an Oscar speech condemning the dairy industry and spoke about his brother River."
+    ],
+    "tmdb_id": 73421
+  },
+  {
+    "celebrity": "Jennifer Lawrence",
+    "gender": "Female",
+    "facts": [
+      "Tripped on her gown while walking up to accept her first Academy Award.",
+      "Ate a hot dog during the SAG Awards telecast, which was caught on camera and went viral.",
+      "Was accidentally locked in a closet as a prank by a hotel staffer during an awards ceremony."
+    ],
+    "tmdb_id": 72129
+  },
+  {
+    "celebrity": "Meryl Streep",
+    "gender": "Female",
+    "facts": [
+      "Has received more Oscar nominations than any other actor in history — 21 nominations and 3 wins.",
+      "Learned to play the violin, flute, and piano for specific film roles.",
+      "Was told by a producer for King Kong that she wasn't pretty enough for the role, which she recounted publicly years later."
+    ],
+    "tmdb_id": 5064
+  },
+  {
+    "celebrity": "Denzel Washington",
+    "gender": "Male",
+    "facts": [
+      "Is an ordained deacon at West Angeles Church of God in Christ.",
+      "Used his own money to fund the production of The Great Debaters in 2007.",
+      "Broke his nose during a basketball game while playing with his son and later joked about it on talk shows."
+    ],
+    "tmdb_id": 5292
+  },
+  {
+    "celebrity": "Chris Rock",
+    "gender": "Male",
+    "facts": [
+      "Was slapped on live television at the 2022 Oscars by Will Smith and chose not to press charges.",
+      "Grew up in Bedford-Stuyvesant, Brooklyn, and was bused to a school in a predominantly white neighborhood where he was bullied.",
+      "His stand-up special Selective Outrage was the first live Netflix special ever."
+    ],
+    "tmdb_id": 2632
+  },
+  {
+    "celebrity": "Dave Chappelle",
+    "gender": "Male",
+    "facts": [
+      "Walked away from a $50 million Comedy Central deal for Chappelle's Show in 2005 and moved to South Africa.",
+      "Was tackled on stage at the 2022 Netflix Is a Joke Festival by a man carrying a replica gun with a knife attached.",
+      "Returned to stand-up in 2016 with a Netflix special after an 11-year absence."
+    ],
+    "tmdb_id": 4169
+  },
+  {
+    "celebrity": "Kevin Hart",
+    "gender": "Male",
+    "facts": [
+      "Was in a near-fatal car accident in 2019 that required extensive back surgery and physical rehabilitation.",
+      "Stepped down as Oscars host in 2019 after old homophobic tweets resurfaced.",
+      "Is 5'4\" and has repeatedly made himself the butt of jokes about his height throughout his career."
+    ],
+    "tmdb_id": 55638
+  },
+  {
+    "celebrity": "Ellen DeGeneres",
+    "gender": "Female",
+    "facts": [
+      "Came out as gay on her sitcom in 1997 in a landmark moment for LGBTQ+ television representation.",
+      "Faced a toxic workplace investigation in 2020 that led to a dramatic fall in her public image.",
+      "Her dancing at her desk became a signature segment that inspired countless imitations."
+    ],
+    "tmdb_id": 14
+  },
+  {
+    "celebrity": "Katy Perry",
+    "gender": "Female",
+    "facts": [
+      "Has a cat named Nugget who regularly appears in her social media content.",
+      "She and Taylor Swift had a years-long feud that started over backing dancers and was eventually resolved with Perry sending a literal olive branch.",
+      "Wore a dress that lit up like a Christmas tree during a Super Bowl halftime performance."
+    ],
+    "tmdb_id": 111455
+  },
+  {
+    "celebrity": "Harry Styles",
+    "gender": "Male",
+    "facts": [
+      "Wore a gown on the cover of Vogue, becoming the first solo male cover star in the magazine's history.",
+      "Was in One Direction before launching a wildly successful solo career.",
+      "His song 'Watermelon Sugar' won a Grammy, and his tour became one of the highest-grossing of its era."
+    ],
+    "tmdb_id": 1052109
+  },
+  {
+    "celebrity": "Niall Horan",
+    "gender": "Male",
+    "facts": [
+      "Was the last member to be put through to the finals on The X Factor before One Direction was formed.",
+      "Is famously obsessed with golf and plays regularly with celebrities.",
+      "His song 'Slow Hands' was one of the most-played songs on radio globally in 2017."
+    ],
+    "tmdb_id": 1052107
+  },
+  {
+    "celebrity": "Zayn Malik",
+    "gender": "Male",
+    "facts": [
+      "Left One Direction during a tour in 2015, citing stress and a desire for a normal life.",
+      "His debut solo album Mind of Mine was released on the one-year anniversary of him leaving the band.",
+      "Has extensive arm and neck tattoos that contrast sharply with his teen heartthrob image."
+    ],
+    "tmdb_id": 1146050
+  },
+  {
+    "celebrity": "Olivia Rodrigo",
+    "gender": "Female",
+    "facts": [
+      "Wrote 'drivers license' about a real breakup and the song broke Spotify's record for most streams in a single week.",
+      "Was starring in High School Musical: The Musical: The Series when she wrote her debut album SOUR.",
+      "Brought several pop stars onstage during her GUTS World Tour, making it one of the most viral concert experiences of 2024."
+    ],
+    "tmdb_id": 1713725
+  },
+  {
+    "celebrity": "Sabrina Carpenter",
+    "gender": "Female",
+    "facts": [
+      "Her song 'Espresso' became the unofficial song of summer 2024 after massive viral TikTok exposure.",
+      "Was in Girl Meets World as a teenager before transitioning to music full-time.",
+      "Has a signature short skirt and old Hollywood glamour aesthetic that defines her brand."
+    ],
+    "tmdb_id": 1152083
+  },
+  {
+    "celebrity": "Chappell Roan",
+    "gender": "Female",
+    "facts": [
+      "Was dropped by her record label in 2020 and considered quitting music before 'Pink Pony Club' went viral.",
+      "Performs in elaborate drag-inspired costumes, including a human-sized Marie Antoinette gown.",
+      "Set the record for the fastest debut album to reach number one on the Billboard 200 in 2024."
+    ],
+    "tmdb_id": 4528424
+  },
+  {
+    "celebrity": "Charli XCX",
+    "gender": "Female",
+    "facts": [
+      "Released her album BRAT with a deliberately pixelated lime-green cover art that became an instant internet aesthetic.",
+      "Coined the phrase 'Brat summer' as a counter-cultural alternative to 'Hot Girl Summer.'",
+      "Was writing songs for other artists like Icona Pop and Selena Gomez for years before breaking as a solo act."
+    ],
+    "tmdb_id": 1529997
+  },
+  {
+    "celebrity": "SZA",
+    "gender": "Female",
+    "facts": [
+      "Trained as a gymnast for years before pursuing music.",
+      "Her album SOS debuted at number one and stayed in the top ten for a record-breaking number of weeks.",
+      "Is named Solána Imani Rowe and chose SZA from the Supreme Alphabet, meaning Sovereign Zig-Zag Allah."
+    ],
+    "tmdb_id": 2048582
+  },
+  {
+    "celebrity": "Tyler, the Creator",
+    "gender": "Male",
+    "facts": [
+      "Was banned from entering the UK for three years due to controversial lyrics from his early career.",
+      "Founded the Odd Future hip-hop collective as a teenager in Los Angeles.",
+      "Designs his own merchandise and has a fashion brand called Golf Wang."
+    ],
+    "tmdb_id": 1133834
+  },
+  {
+    "celebrity": "Kendrick Lamar",
+    "gender": "Male",
+    "facts": [
+      "His album To Pimp a Butterfly won a Pulitzer Prize for Music, making him the first rap artist to win it.",
+      "His diss track 'Not Like Us' against Drake became one of the most played songs on streaming platforms.",
+      "Grew up in Compton, California, and witnessed gang violence from a young age, which deeply shaped his music."
+    ],
+    "tmdb_id": 1008292
+  },
+  {
+    "celebrity": "J. Cole",
+    "gender": "Male",
+    "facts": [
+      "Famously retired and played professional basketball in Africa's Basketball Africa League.",
+      "Built and owns Dreamville Records, nurturing artists like Bas and JID.",
+      "Lives a deliberately low-key lifestyle and refuses to own a smartphone."
+    ],
+    "tmdb_id": 1561432
+  },
+  {
+    "celebrity": "Lil Wayne",
+    "gender": "Male",
+    "facts": [
+      "Accidentally shot himself with his mother's gun at age 12 and was saved by a police officer who rushed him to the hospital.",
+      "Recorded over a thousand songs in a single year during the height of his mixtape era.",
+      "Sips syrup from a Styrofoam cup so consistently it became a signature image."
+    ],
+    "tmdb_id": 95353
+  },
+  {
+    "celebrity": "Snoop Dogg",
+    "gender": "Male",
+    "facts": [
+      "Served as a correspondent for NBC's coverage of the Paris Olympics, roaming the venues with infectious enthusiasm.",
+      "Was acquitted of murder charges in 1993 in a high-profile self-defense case.",
+      "Has his own Gin & Juice canned cocktail brand and a cereal called Snoop Loopz."
+    ],
+    "tmdb_id": 19767
+  },
+  {
+    "celebrity": "Jay-Z",
+    "gender": "Male",
+    "facts": [
+      "Grew up in the Marcy Houses, a housing project in Brooklyn, and was known as a child prodigy rapper.",
+      "Founded Roc-A-Fella Records and Tidal music streaming service.",
+      "Became hip-hop's first billionaire, amassing wealth through music, art, and business ventures."
+    ],
+    "tmdb_id": 84932
+  },
+  {
+    "celebrity": "Pharrell Williams",
+    "gender": "Male",
+    "facts": [
+      "Wore a Vivienne Westwood hat shaped like a park ranger's hat to the 2014 Grammys that later sold at auction for $44,000.",
+      "Was appointed Louis Vuitton's Men's Creative Director in 2023.",
+      "Produced massive hits for dozens of artists over two decades using The Neptunes production duo."
+    ],
+    "tmdb_id": 558267
+  },
+  {
+    "celebrity": "Bruno Mars",
+    "gender": "Male",
+    "facts": [
+      "Performed as an Elvis impersonator as a toddler and appeared on the Arsenio Hall Show at age four.",
+      "His real name is Peter Gene Hernandez and he grew up in Honolulu, Hawaii.",
+      "Wrote 'Nothin' On You' for B.o.B without releasing it himself, then became more famous than the artist he wrote it for."
+    ],
+    "tmdb_id": 969218
+  },
+  {
+    "celebrity": "John Legend",
+    "gender": "Male",
+    "facts": [
+      "Is one of a very small group of people to have an EGOT — Emmy, Grammy, Oscar, and Tony.",
+      "Graduated from Penn with a degree in English before breaking into music.",
+      "His wife Chrissy Teigen is one of the most outspoken celebrity voices on social media and often makes news for tweeting at Trump."
+    ],
+    "tmdb_id": 113461
+  },
+  {
+    "celebrity": "Usher",
+    "gender": "Male",
+    "facts": [
+      "Headlined the Super Bowl LVIII halftime show in 2024 with a roller-skating spectacular.",
+      "Moved to Atlanta at age 12 to pursue a music career under the mentorship of LA Reid.",
+      "The 2004 album Confessions sold over a million copies in its first week."
+    ],
+    "tmdb_id": 57108
+  },
+  {
+    "celebrity": "Chris Brown",
+    "gender": "Male",
+    "facts": [
+      "Was arrested for assaulting Rihanna in 2009 the night before the Grammy Awards.",
+      "Became one of the fastest to go from hated to partially rehabilitated in the public eye through viral dance videos.",
+      "Broke the record for longest-charting R&B single with 'Forever' remaining on charts years after release."
+    ],
+    "tmdb_id": 31136
+  },
+  {
+    "celebrity": "Shawn Mendes",
+    "gender": "Male",
+    "facts": [
+      "Got his start posting six-second cover videos on the app Vine before moving to YouTube.",
+      "Played guitar at the MTV Video Music Awards and was compared to a young Ed Sheeran by critics.",
+      "Took a mental health break from touring in 2022, canceling the rest of his world tour."
+    ],
+    "tmdb_id": 1613304
+  },
+  {
+    "celebrity": "Charlie Puth",
+    "gender": "Male",
+    "facts": [
+      "Has perfect pitch and was trained in music theory from a very young age.",
+      "Went viral on YouTube with a tribute to Paul Walker that led to 'See You Again.'",
+      "Went behind the scenes of pop music production on TikTok, breaking down his songs in ways that went viral."
+    ],
+    "tmdb_id": 1724000
+  },
+  {
+    "celebrity": "Sam Smith",
+    "gender": "Female",
+    "facts": [
+      "Announced they are non-binary and use they/them pronouns in 2019.",
+      "Performed their Grammy-winning song 'Stay With Me' while recovering from surgery on vocal hemorrhages.",
+      "Their Bond theme 'Writing's on the Wall' for Spectre won an Oscar."
+    ],
+    "tmdb_id": 1459321
+  },
+  {
+    "celebrity": "Lana Del Rey",
+    "gender": "Female",
+    "facts": [
+      "Was widely mocked after a shaky performance on Saturday Night Live in 2012 that briefly derailed her early career.",
+      "Born Elizabeth Woolridge Grant, she created the Lana Del Rey persona deliberately to fit her musical aesthetic.",
+      "Has a deeply committed cult following who tattoo her face, lyrics, and album artwork on their bodies."
+    ],
+    "tmdb_id": 579551
+  },
+  {
+    "celebrity": "Halsey",
+    "gender": "Female",
+    "facts": [
+      "Was homeless and living on subway platforms in New York City at 17 before her music career took off.",
+      "Publicly documented her struggles with endometriosis, lupus, and a rare blood disease throughout their career.",
+      "Released an entire album called If I Can't Have Love, I Want Power in collaboration with Trent Reznor and Atticus Ross."
+    ],
+    "tmdb_id": 1997030
+  },
+  {
+    "celebrity": "Sia",
+    "gender": "Female",
+    "facts": [
+      "Famously hides her face behind a large platinum blonde wig in all public appearances.",
+      "Sold her song 'Titanium' to David Guetta and then released her own version which became equally massive.",
+      "Was in a relationship with documentary filmmaker Erik Anders Lang before marrying Erik Langstrom."
+    ],
+    "tmdb_id": 1136517
+  },
+  {
+    "celebrity": "Grimes",
+    "gender": "Female",
+    "facts": [
+      "Has a tattoo on her arm of aliens and space imagery that she did partly herself.",
+      "Dated Elon Musk and had two children with him, named X Æ A-12 and Exa Dark Sideræl.",
+      "Has spoken about wanting to undergo surgery to have her eyeballs UV-tattooed."
+    ],
+    "tmdb_id": 1481406
+  },
+  {
+    "celebrity": "FKA Twigs",
+    "gender": "Female",
+    "facts": [
+      "Sued her ex-boyfriend Shia LaBeouf for sexual battery and emotional abuse in 2020.",
+      "Trained in pole dance for months to film a scene in Shia LaBeouf's film Honey Boy.",
+      "Is a trained contemporary dancer and incorporates pole fitness into her live performances."
+    ],
+    "tmdb_id": 1503200
+  },
+  {
+    "celebrity": "Dua Lipa",
+    "gender": "Female",
+    "facts": [
+      "Was told by a modeling agency she wasn't pretty enough, which led her to focus entirely on singing.",
+      "Her second album Future Nostalgia kept the world dancing during the early months of the COVID-19 pandemic.",
+      "Is Albanian-British and often incorporates Albanian pride into her public identity."
+    ],
+    "tmdb_id": 1959397
+  },
+  {
+    "celebrity": "The Weeknd",
+    "gender": "Male",
+    "facts": [
+      "Wore prosthetic makeup that made him look severely injured for the entire Super Bowl halftime performance and era of After Hours.",
+      "Uploaded music anonymously to YouTube in 2010 before his identity was revealed.",
+      "Changed his stage name spelling because a Canadian band called The Weekend already existed."
+    ],
+    "tmdb_id": 1549008
+  },
+  {
+    "celebrity": "Frank Ocean",
+    "gender": "Male",
+    "facts": [
+      "Released Blonde by secretly pulling it from Apple's exclusivity deal hours before the official stream.",
+      "Came out as bisexual in an open letter on Tumblr the night before his debut album channel ORANGE dropped.",
+      "Has not released a studio album since 2016 despite enormous public demand."
+    ],
+    "tmdb_id": 1667872
+  },
+  {
+    "celebrity": "Childish Gambino",
+    "gender": "Male",
+    "facts": [
+      "The name Childish Gambino was generated using a Wu-Tang Clan name generator.",
+      "His music video for 'This Is America' is a dense political critique of gun violence and racism that went viral immediately.",
+      "Also works as an actor under his real name Donald Glover and created the acclaimed FX series Atlanta."
+    ],
+    "tmdb_id": 119589
+  },
+  {
+    "celebrity": "Chance the Rapper",
+    "gender": "Male",
+    "facts": [
+      "Became the first streaming-only artist to win a Grammy without ever releasing a physical album.",
+      "Donated over a million dollars to Chicago public schools.",
+      "Was suspended from high school for marijuana use, and wrote his debut mixtape 10 Day during that suspension."
+    ],
+    "tmdb_id": 1199905
+  },
+  {
+    "celebrity": "Travis Scott",
+    "gender": "Male",
+    "facts": [
+      "Ten people died at his Astroworld Festival in 2021 in a crowd crush that became a major legal and cultural controversy.",
+      "Has a long-running partnership with McDonald's that included a meal named after him.",
+      "His custom Nike Air Jordan 1 sneakers resell for thousands of dollars above retail."
+    ],
+    "tmdb_id": 1978406
+  },
+  {
+    "celebrity": "Lil Nas X",
+    "gender": "Male",
+    "facts": [
+      "Came out as gay on the last day of Pride Month 2019, making him one of the first openly gay mainstream country-rap artists.",
+      "Released limited-edition Satan Shoes with a drop of human blood in the sole, which prompted Nike to sue.",
+      "His song 'Old Town Road' holds the record for the longest-running number one on the Billboard Hot 100."
+    ],
+    "tmdb_id": 2315295
+  },
+  {
+    "celebrity": "Ice Spice",
+    "gender": "Female",
+    "facts": [
+      "Became internet-famous for her voluminous curly auburn hair before anyone had heard her music.",
+      "Collaborated with Taylor Swift on a remix of 'Karma,' joining Swift's celebrity friend group.",
+      "Grew up in the Bronx and studied communications in college before going viral."
+    ],
+    "tmdb_id": 4118330
+  },
+  {
+    "celebrity": "GloRilla",
+    "gender": "Female",
+    "facts": [
+      "Her breakout song 'F.N.F.' was made with a budget of almost nothing and spread entirely through social media.",
+      "Was signed by Yo Gotti's CMG Records after the viral success of F.N.F.",
+      "Has a distinctive raspy voice and Tennessee drawl that became instantly recognizable."
+    ],
+    "tmdb_id": 4266615
+  },
+  {
+    "celebrity": "Doechii",
+    "gender": "Female",
+    "facts": [
+      "Won a Grammy for Best Rap Album with Alligator Bites Never Heal in 2025.",
+      "Performed an uninterrupted 30-minute set at the Grammys that included costume changes and live rap.",
+      "Grew up in Tampa, Florida, and started performing in local talent shows as a child."
+    ],
+    "tmdb_id": 3557979
+  },
+  {
+    "celebrity": "Nelly",
+    "gender": "Male",
+    "facts": [
+      "Wore a Band-Aid on his cheek as a tribute to his incarcerated brother, which became his signature look.",
+      "His song 'Hot in Herre' spent seven weeks at number one on the Billboard Hot 100.",
+      "Was on Dancing with the Stars and his partner said he was one of the most dedicated celebrity dancers ever."
+    ],
+    "tmdb_id": 69128
+  },
+  {
+    "celebrity": "Mariah Carey",
+    "gender": "Female",
+    "facts": [
+      "Claims the title 'Queen of Christmas' and releases 'All I Want for Christmas Is You' every year like clockwork, with streaming records annually.",
+      "Has a five-octave vocal range and is known for her signature 'whistle register.'",
+      "Her memoir The Meaning of Mariah Carey revealed a difficult childhood and strained relationship with her mother."
+    ],
+    "tmdb_id": 66586
+  },
+  {
+    "celebrity": "Whitney Houston",
+    "gender": "Female",
+    "facts": [
+      "Her rendition of 'I Will Always Love You' is considered one of the greatest vocal performances ever recorded.",
+      "Died in 2012 after drowning in a bathtub at the Beverly Hilton Hotel after years of substance struggles.",
+      "Was discovered by Clive Davis while singing backup for her mother Cissy Houston at age 14."
+    ],
+    "tmdb_id": 8851
+  },
+  {
+    "celebrity": "Michael Jackson",
+    "gender": "Male",
+    "facts": [
+      "Invented the moonwalk, which he debuted on the Motown 25 special in 1983.",
+      "His Thriller jacket sold at auction for $1.8 million.",
+      "Owned a private estate called Neverland Ranch, complete with a zoo and amusement park."
+    ],
+    "tmdb_id": 82702
+  },
+  {
+    "celebrity": "Elvis Presley",
+    "gender": "Male",
+    "facts": [
+      "Was known to eat a sandwich made of an entire pound of bacon, peanut butter, and a jar of jelly.",
+      "His death was attributed officially to cardiac arrhythmia and he was found on his bathroom floor.",
+      "Gave away Cadillac cars to strangers on a regular basis throughout his life."
+    ],
+    "tmdb_id": 21457
+  },
+  {
+    "celebrity": "Madonna",
+    "gender": "Female",
+    "facts": [
+      "Was discovered by DJ Patrick Hernandez after moving to New York with $35 in her pocket.",
+      "Kissed Britney Spears and Christina Aguilera onstage at the VMAs in 2003.",
+      "Has been a controversial figure for decades, pioneering the music video as an art form with Like a Prayer."
+    ],
+    "tmdb_id": 3125
+  },
+  {
+    "celebrity": "David Bowie",
+    "gender": "Male",
+    "facts": [
+      "Had one pupil permanently dilated after a schoolyard fight, giving him the appearance of two different colored eyes.",
+      "Created the character Ziggy Stardust, an androgynous alien rock star, as his on-stage alter ego in 1972.",
+      "Released his final album Blackstar just two days before his death from liver cancer."
+    ],
+    "tmdb_id": 7487
+  },
+  {
+    "celebrity": "Freddie Mercury",
+    "gender": "Male",
+    "facts": [
+      "Had four extra incisors in his upper jaw that he believed gave his voice a richer range.",
+      "His Live Aid performance in 1985 is widely considered the greatest live rock performance in history.",
+      "Born Farrokh Bulsara in Zanzibar, of Parsi descent."
+    ],
+    "tmdb_id": 84527
+  },
+  {
+    "celebrity": "Dolly Parton",
+    "gender": "Female",
+    "facts": [
+      "Turned down the Presidential Medal of Freedom twice, saying she hadn't done enough to deserve it.",
+      "Donated a million dollars to fund the Moderna COVID-19 vaccine research.",
+      "Has kept her tattoos hidden under her clothing for decades, hinting that she has several."
+    ],
+    "tmdb_id": 67274
+  },
+  {
+    "celebrity": "Johnny Cash",
+    "gender": "Male",
+    "facts": [
+      "Performed at Folsom Prison in 1968, recording a live album that became iconic in country music history.",
+      "Once accidentally started a forest fire in Los Padres National Forest while driving a truck with a broken bearing.",
+      "His cover of 'Hurt' by Nine Inch Nails, filmed just months before his death, moved Trent Reznor to tears."
+    ],
+    "tmdb_id": 84678
+  },
+  {
+    "celebrity": "Amy Winehouse",
+    "gender": "Female",
+    "facts": [
+      "Her signature beehive hairstyle was inspired by a photograph of a 1960s pin-up.",
+      "Died at age 27, becoming a member of the infamous 27 Club.",
+      "Her album Back to Black was the best-selling album in the UK for the entire 2000s decade."
+    ],
+    "tmdb_id": 558820
+  },
+  {
+    "celebrity": "Jimi Hendrix",
+    "gender": "Male",
+    "facts": [
+      "Set his guitar on fire at the Monterey Pop Festival in 1967 in one of rock history's most iconic moments.",
+      "Was self-taught and could not read sheet music.",
+      "His version of 'The Star-Spangled Banner' at Woodstock is considered a defining anti-war statement."
+    ],
+    "tmdb_id": 86392
+  },
+  {
+    "celebrity": "Kurt Cobain",
+    "gender": "Male",
+    "facts": [
+      "Used a left-handed guitar strung for a left-handed player despite being naturally ambidextrous.",
+      "Wrote 'Smells Like Teen Spirit' after a friend spray-painted 'Kurt Smells Like Teen Spirit' on his wall.",
+      "Was found dead at his Seattle home in April 1994, becoming the most famous member of the 27 Club."
+    ],
+    "tmdb_id": 92563
+  },
+  {
+    "celebrity": "Prince",
+    "gender": "Male",
+    "facts": [
+      "Legally changed his name to an unpronounceable symbol in 1993 in a dispute with Warner Bros., becoming 'The Artist Formerly Known as Prince.'",
+      "Famously owns his master recordings and was an early advocate for artist rights.",
+      "Played 27 instruments on his debut album For You."
+    ],
+    "tmdb_id": 21037
+  },
+  {
+    "celebrity": "Bob Dylan",
+    "gender": "Male",
+    "facts": [
+      "Won the Nobel Prize for Literature in 2016, making him the only musician ever to receive it.",
+      "Changed his name from Robert Allen Zimmerman to Bob Dylan after the poet Dylan Thomas.",
+      "Was booed at the Newport Folk Festival in 1965 when he performed with an electric band for the first time."
+    ],
+    "tmdb_id": 1487
+  },
+  {
+    "celebrity": "Bruce Springsteen",
+    "gender": "Male",
+    "facts": [
+      "Is nicknamed 'The Boss' because he used to collect the band's pay and distribute it to his bandmates.",
+      "His four-hour concerts are legendary for their endurance.",
+      "Born in the USA was mistakenly adopted as a patriotic anthem, despite being a critique of veterans' treatment."
+    ],
+    "tmdb_id": 3284
+  },
+  {
+    "celebrity": "Mick Jagger",
+    "gender": "Male",
+    "facts": [
+      "Studied at the London School of Economics before dropping out to pursue music.",
+      "Became a father for the eighth time at age 73.",
+      "His tight jeans, pouty lips, and strutting stage presence became the template for rock frontmen."
+    ],
+    "tmdb_id": 1428
+  },
+  {
+    "celebrity": "Keith Richards",
+    "gender": "Male",
+    "facts": [
+      "Claims to have slept for five days straight after a particularly long recording session.",
+      "Was once reported to have snorted his own father's ashes mixed with cocaine, which he later semi-confirmed.",
+      "His riff for 'Satisfaction' was written half-asleep on a cassette recorder at 3 a.m."
+    ],
+    "tmdb_id": 1430
+  },
+  {
+    "celebrity": "Elton John",
+    "gender": "Male",
+    "facts": [
+      "Has one of the largest collections of eyeglasses in the world with over 250,000 pairs.",
+      "His farewell Goodbye Yellow Brick Road tour became one of the highest-grossing concert tours ever.",
+      "He and lyricist Bernie Taupin famously never write songs in the same room together."
+    ],
+    "tmdb_id": 11370
+  },
+  {
+    "celebrity": "Paul McCartney",
+    "gender": "Male",
+    "facts": [
+      "Wrote 'Yesterday' after dreaming the melody and initially thought he must have subconsciously stolen it from someone.",
+      "Is the most covered song-writer in history with over 3,000 recorded versions of Yesterday alone.",
+      "Is a lifelong vegetarian and animal rights activist who refuses to allow leather furniture on his tour buses."
+    ],
+    "tmdb_id": 10215
+  },
+  {
+    "celebrity": "John Lennon",
+    "gender": "Male",
+    "facts": [
+      "Was shot and killed outside his apartment building, the Dakota, in New York City on December 8, 1980.",
+      "Spent a week in bed with Yoko Ono as a peace protest, calling it a 'bed-in.'",
+      "Was denied a U.S. green card for years because of a 1968 UK marijuana conviction."
+    ],
+    "tmdb_id": 10592
+  },
+  {
+    "celebrity": "Ringo Starr",
+    "gender": "Male",
+    "facts": [
+      "Was the last Beatle added to the group, replacing Pete Best just before they became globally famous.",
+      "Narrated Thomas the Tank Engine for the British television version.",
+      "Was so ill as a child that he missed years of school and nearly died multiple times before age 13."
+    ],
+    "tmdb_id": 10594
+  },
+  {
+    "celebrity": "George Harrison",
+    "gender": "Male",
+    "facts": [
+      "Held a Concert for Bangladesh in 1971, one of the first major charity concerts in rock history.",
+      "Was stabbed by an intruder in his home in 1999 and survived, but collapsed during the attack.",
+      "Was deeply influenced by Indian spirituality and introduced the sitar to Western pop music."
+    ],
+    "tmdb_id": 10593
+  },
+  {
+    "celebrity": "Johnny Depp",
+    "gender": "Male",
+    "facts": [
+      "Sued Amber Heard for defamation in a televised trial that became one of the most-watched legal proceedings ever.",
+      "Has a collection of over 200 guitars.",
+      "Was nearly dropped from Pirates of the Caribbean because Disney executives didn't understand his character interpretation."
+    ],
+    "tmdb_id": 85
+  },
+  {
+    "celebrity": "Amber Heard",
+    "gender": "Female",
+    "facts": [
+      "Lost a defamation lawsuit against Johnny Depp in 2022 in a trial streamed globally on Court TV.",
+      "Donated her entire divorce settlement to charity and the ACLU, though the actual transfers were disputed.",
+      "Starred in Aquaman as Mera, a role she kept despite massive internet campaigns to have her removed."
+    ],
+    "tmdb_id": 55085
+  },
+  {
+    "celebrity": "Robert Downey Jr.",
+    "gender": "Male",
+    "facts": [
+      "Turned his career around after multiple drug-related arrests and prison time in the early 2000s.",
+      "Earned $75 million for Avengers: Endgame, his largest single film paycheck.",
+      "Carries a Chinese health ball in each hand as a calming habit on set."
+    ],
+    "tmdb_id": 3223
+  },
+  {
+    "celebrity": "Chris Evans",
+    "gender": "Male",
+    "facts": [
+      "Accidentally posted a nude photo to his Instagram Stories before deleting it within seconds.",
+      "Has a Boston Terrier named Dodger that he adopted on the same day he filmed a scene with a dog.",
+      "Was the third actor asked to play Captain America after others passed."
+    ],
+    "tmdb_id": 16828
+  },
+  {
+    "celebrity": "Tom Holland",
+    "gender": "Male",
+    "facts": [
+      "Accidentally revealed the title of Avengers: Infinity War on social media before Marvel could announce it.",
+      "Trained as a ballet dancer for years before being cast as Spider-Man.",
+      "Went viral for lip-syncing to Rihanna's 'Umbrella' in a video from his audition materials."
+    ],
+    "tmdb_id": 1136406
+  },
+  {
+    "celebrity": "Zac Efron",
+    "gender": "Male",
+    "facts": [
+      "Broke his jaw slipping on a wet floor in his own home, and the jaw fused asymmetrically.",
+      "Trained intensely for Neighbors and Baywatch, sparking widespread viral discussion about his physique transformation.",
+      "Nearly drowned while filming on location in Papua New Guinea during a travel documentary."
+    ],
+    "tmdb_id": 29222
+  },
+  {
+    "celebrity": "Natalie Portman",
+    "gender": "Female",
+    "facts": [
+      "Graduated from Harvard University with a degree in psychology while filming Star Wars.",
+      "Co-authored a scientific paper on memory and aromatherapy while still a teenager.",
+      "Became the youngest person to win a Best Actress Oscar for Black Swan."
+    ],
+    "tmdb_id": 524
+  },
+  {
+    "celebrity": "Emma Watson",
+    "gender": "Female",
+    "facts": [
+      "Enrolled at Brown University to study English Literature, attending classes between film shoots.",
+      "Founded the feminist campaign HeForShe and delivered a landmark speech at the United Nations.",
+      "She and Daniel Radcliffe reportedly had no romantic chemistry while filming their earlier Harry Potter scenes because they grew up together."
+    ],
+    "tmdb_id": 10990
+  },
+  {
+    "celebrity": "Daniel Radcliffe",
+    "gender": "Male",
+    "facts": [
+      "Memorized the whole of Eminem's 'The Real Slim Shady' as a party trick and performed it on lip sync battle.",
+      "Sought treatment for alcohol dependency while still filming Harry Potter.",
+      "Wore the same clothes every day during a period when he was photographed constantly to make paparazzi photos unsellable."
+    ],
+    "tmdb_id": 10980
+  },
+  {
+    "celebrity": "Tom Cruise",
+    "gender": "Male",
+    "facts": [
+      "Performs the majority of his own stunts and once clung to the side of a flying Airbus A400M.",
+      "Has been divorced three times, from Nicole Kidman, Mimi Rogers, and Katie Holmes, with many noting his relationships often end around age 33.",
+      "Is a prominent member of the Church of Scientology and was instrumental in recruiting other celebrities."
+    ],
+    "tmdb_id": 500
+  },
+  {
+    "celebrity": "Nicole Kidman",
+    "gender": "Female",
+    "facts": [
+      "Clapped at the Oscars in a distinctive seal-like manner that spawned years of internet mockery and jokes.",
+      "Was married to Tom Cruise for 11 years and reportedly discovered she was pregnant after their divorce was announced.",
+      "Is a UN Women Goodwill Ambassador and has campaigned globally on issues of gender equality."
+    ],
+    "tmdb_id": 2227
+  },
+  {
+    "celebrity": "Reese Witherspoon",
+    "gender": "Female",
+    "facts": [
+      "Was arrested in 2013 after telling a police officer 'Do you know who I am?' during her husband's DUI stop.",
+      "Founded Hello Sunshine, a production company that created Big Little Lies and The Morning Show.",
+      "Ate a pie at the speed of a montage for Legally Blonde to prepare for a scene."
+    ],
+    "tmdb_id": 368
+  },
+  {
+    "celebrity": "Jennifer Aniston",
+    "gender": "Female",
+    "facts": [
+      "Her Friends haircut, 'The Rachel,' became the most requested haircut at salons worldwide in the 1990s.",
+      "Has been publicly vocal about her struggles with infertility and the media pressure she faced to have children.",
+      "Is best friends with Courteney Cox, a friendship that began on the Friends set and lasted decades."
+    ],
+    "tmdb_id": 4491
+  },
+  {
+    "celebrity": "Sandra Bullock",
+    "gender": "Female",
+    "facts": [
+      "Her husband Jesse James was caught having an affair weeks after she won her first Academy Award for The Blind Side.",
+      "Produced and starred in Bird Box, which became a massive Netflix hit and spawned an internet challenge of doing things blindfolded.",
+      "Is a trained ballet dancer and speaks fluent German from spending time in Germany as a child."
+    ],
+    "tmdb_id": 18277
+  },
+  {
+    "celebrity": "Julia Roberts",
+    "gender": "Female",
+    "facts": [
+      "Was paid $1 million for her role in Pretty Woman in 1990, but earned $25 million for Erin Brockovich, making her the first actress to earn that for a single film.",
+      "Was almost cast as Vivian Ward in Pretty Woman but the studio initially had concerns about her as the lead.",
+      "Has three children with cinematographer Daniel Moder, who she met on the set of The Mexican."
+    ],
+    "tmdb_id": 1204
+  },
+  {
+    "celebrity": "Charlize Theron",
+    "gender": "Female",
+    "facts": [
+      "Gained 30 pounds for Monster to play serial killer Aileen Wuornos, winning an Academy Award.",
+      "Witnessed her mother shoot her abusive father in self-defense when she was 15.",
+      "Was a classically trained ballet dancer who moved to New York to dance professionally before a knee injury changed her path."
+    ],
+    "tmdb_id": 6885
+  },
+  {
+    "celebrity": "Cate Blanchett",
+    "gender": "Female",
+    "facts": [
+      "Has been referred to by directors as 'uncategorizable' for the variety of roles she plays.",
+      "Was accidentally hit with a prop leaf blower on the set of Thor: Ragnarok during her first day on set.",
+      "Is fluent in French and studied economics before pivoting to drama school."
+    ],
+    "tmdb_id": 112
+  },
+  {
+    "celebrity": "Helen Mirren",
+    "gender": "Female",
+    "facts": [
+      "Has a tattoo of two tiny joined Vs on her hand, which she got before it was considered fashionable for women.",
+      "Got her first major film role after director Michael Powell spotted her during a stage production.",
+      "Has played Queen Elizabeth II three times across different eras of the monarch's life."
+    ],
+    "tmdb_id": 15735
+  },
+  {
+    "celebrity": "Viola Davis",
+    "gender": "Female",
+    "facts": [
+      "Is the first Black actress to win the Triple Crown of Acting: Emmy, Oscar, and Tony.",
+      "Grew up in extreme poverty in Central Falls, Rhode Island, and frequently went without food as a child.",
+      "Her memoir Finding Me describes escaping her childhood by running barefoot down the street when life became too difficult."
+    ],
+    "tmdb_id": 19492
+  },
+  {
+    "celebrity": "Regina King",
+    "gender": "Female",
+    "facts": [
+      "Won her first Oscar for If Beale Street Could Talk while already working on multiple television projects.",
+      "Has been acting since she was 14 years old, appearing on 227 as Brenda Jenkins.",
+      "Directed One Night in Miami as her feature directorial debut and received widespread critical acclaim."
+    ],
+    "tmdb_id": 9788
+  },
+  {
+    "celebrity": "Lupita Nyong'o",
+    "gender": "Female",
+    "facts": [
+      "Gave her Oscar acceptance speech for 12 Years a Slave partly in her native Dholuo language.",
+      "Was named People Magazine's Most Beautiful Person on her very first cover appearance.",
+      "Published a children's book called Sulwe about a girl with very dark skin who wishes for lighter skin."
+    ],
+    "tmdb_id": 1267329
+  },
+  {
+    "celebrity": "Halle Berry",
+    "gender": "Female",
+    "facts": [
+      "Was the first and, for two decades, only Black woman to win Best Actress at the Academy Awards for Monster's Ball.",
+      "Was left partially deaf in one ear after an abusive relationship when she was 24.",
+      "Has a scar on her wrist from a role that required her to break a glass and she accidentally cut herself."
+    ],
+    "tmdb_id": 4587
+  },
+  {
+    "celebrity": "Will Ferrell",
+    "gender": "Male",
+    "facts": [
+      "Ran a marathon in a Chewbacca costume for charity.",
+      "His Elf singing voice, which is deliberately off-key, took hours of practice to achieve.",
+      "Graduated from USC with a sports information degree before joining the Second City improv comedy troupe."
+    ],
+    "tmdb_id": 23659
+  },
+  {
+    "celebrity": "Adam Sandler",
+    "gender": "Male",
+    "facts": [
+      "Was fired from Saturday Night Live in 1995 and went on to build a billion-dollar comedy career from films.",
+      "Has reportedly worn the same three outfits on loop and been photographed in them constantly, which became a meme.",
+      "His film Uncut Gems, a departure from his usual comedies, was considered a masterclass in performance by critics."
+    ],
+    "tmdb_id": 19292
+  },
+  {
+    "celebrity": "Jim Carrey",
+    "gender": "Male",
+    "facts": [
+      "Wrote himself a check for $10 million dollars for 'acting services rendered' when he was broke, and carried it in his wallet until he earned exactly that for Dumb and Dumber.",
+      "Gave his character Andy Kaufman's family a standing ovation at Cannes after finishing the documentary Jim and Andy.",
+      "Retired from acting publicly in 2022, saying he had done enough."
+    ],
+    "tmdb_id": 206
+  },
+  {
+    "celebrity": "Ben Stiller",
+    "gender": "Male",
+    "facts": [
+      "Directed his first short film on a Super 8 camera when he was ten years old.",
+      "His parents are both comedians Jerry Stiller and Anne Meara, who were famous as a duo.",
+      "The Blue Steel look in Zoolander became a pop culture shorthand for vapid male modeling poses."
+    ],
+    "tmdb_id": 7399
+  },
+  {
+    "celebrity": "Steve Carell",
+    "gender": "Male",
+    "facts": [
+      "Had his chest waxed for real on camera during the chest-waxing scene in The 40-Year-Old Virgin, and the crew's shocked reactions are genuine.",
+      "His departure from The Office was so impactful that the show lost millions of viewers and never fully recovered.",
+      "Was rejected from every other major role he tried out for before finally landing in comedic television."
+    ],
+    "tmdb_id": 4495
+  },
+  {
+    "celebrity": "Tina Fey",
+    "gender": "Female",
+    "facts": [
+      "Has a scar on her left cheek from a stranger who slashed her face when she was five years old, which she rarely discusses.",
+      "Her Mean Girls screenplay was based on the nonfiction self-help book Queen Bees and Wannabes.",
+      "Created 30 Rock as a roman à clef about her time at Saturday Night Live."
+    ],
+    "tmdb_id": 56323
+  },
+  {
+    "celebrity": "Amy Poehler",
+    "gender": "Female",
+    "facts": [
+      "Improvised many of her lines in Parks and Recreation and was known for making everyone on set laugh between takes.",
+      "Was part of UCB, the Upright Citizens Brigade improv theater, which she co-founded.",
+      "Her book Yes Please described her journey to self-acceptance and was written while she was going through a divorce."
+    ],
+    "tmdb_id": 56322
+  },
+  {
+    "celebrity": "Mindy Kaling",
+    "gender": "Female",
+    "facts": [
+      "Wrote for The Office, played Kelly Kapoor, and was the first South Asian woman to create and star in her own network TV series.",
+      "Her mother was a gynecologist in India who inspired her to create The Mindy Project.",
+      "Has spoken openly about maintaining her fashion and appearance as cultural armor in an industry that undervalues her type."
+    ],
+    "tmdb_id": 125167
+  },
+  {
+    "celebrity": "Awkwafina",
+    "gender": "Female",
+    "facts": [
+      "Her real name is Nora Lum and she went viral playing rap songs on a flute outside.",
+      "Was the first Asian-American to win a Golden Globe for Best Actress in a Motion Picture, Musical or Comedy.",
+      "Created a Comedy Central series loosely based on her own life growing up in Queens."
+    ],
+    "tmdb_id": 1625558
+  },
+  {
+    "celebrity": "Ali Wong",
+    "gender": "Female",
+    "facts": [
+      "Filmed both of her Netflix specials while visibly and heavily pregnant.",
+      "Went to UC Berkeley and the American Conservatory Theater before pivoting to stand-up comedy.",
+      "Her Netflix special Baby Cobra instantly made her a household name after years of mid-level stand-up."
+    ],
+    "tmdb_id": 591835
+  },
+  {
+    "celebrity": "John Mulaney",
+    "gender": "Male",
+    "facts": [
+      "Checked himself into rehab in 2020, which his friends staged as an intervention, which he later addressed publicly in a stand-up special.",
+      "Was a Saturday Night Live writer for six years and is credited with popularizing the 'Bill Hader as Stefon' character.",
+      "His 'Salt and Pepper Diner' bit is widely considered one of the best standalone comedy bits of the 2010s."
+    ],
+    "tmdb_id": 933558
+  },
+  {
+    "celebrity": "Conan O'Brien",
+    "gender": "Male",
+    "facts": [
+      "Has a Harvard degree and was president of The Harvard Lampoon before becoming a late night host.",
+      "Was replaced by Jay Leno at The Tonight Show in a controversy so large it became a cultural flashpoint.",
+      "Has a recurring bit where he visits countries and participates in their customs with deliberately poor results."
+    ],
+    "tmdb_id": 81200
+  },
+  {
+    "celebrity": "Howard Stern",
+    "gender": "Male",
+    "facts": [
+      "Is regarded as the 'King of All Media' for revolutionizing both radio and television with uncensored content.",
+      "Moved his show to satellite radio in 2006 in a deal reportedly worth $500 million.",
+      "Underwent years of psychoanalysis and openly credits it with transforming his personality and relationships."
+    ],
+    "tmdb_id": 58098
+  },
+  {
+    "celebrity": "Joe Rogan",
+    "gender": "Male",
+    "facts": [
+      "Signed a deal with Spotify that was originally reported to be worth over $100 million.",
+      "Is a black belt in taekwondo and Brazilian jiu-jitsu and frequently trains MMA.",
+      "Hosts the most downloaded podcast in the world and has been criticized for platforming controversial guests."
+    ],
+    "tmdb_id": 91609
+  },
+  {
+    "celebrity": "Bill Burr",
+    "gender": "Male",
+    "facts": [
+      "Went off on an entire Philadelphia crowd for 12 minutes when they booed him and turned it into one of the most celebrated comedy moments ever.",
+      "Voices a Boston Celtics superfan character named Burlap on his animated series F is for Family.",
+      "Is married to actress Nia Renee Hill and has spoken extensively about his growth regarding race and gender perspectives."
+    ],
+    "tmdb_id": 109708
+  },
+  {
+    "celebrity": "Louis C.K.",
+    "gender": "Male",
+    "facts": [
+      "Had his career temporarily destroyed in 2017 after he admitted to sexual misconduct with women in the comedy industry.",
+      "Wrote a film called I Think I Love My Wife that served as a direct remake of a French Eric Rohmer film.",
+      "Won five Emmy Awards for his series Louie and was considered one of the most important comedians of his generation."
+    ],
+    "tmdb_id": 52849
+  },
+  {
+    "celebrity": "Eddie Murphy",
+    "gender": "Male",
+    "facts": [
+      "Was the highest-paid entertainer in the world throughout much of the 1980s.",
+      "His stand-up specials Delirious and Raw are considered among the greatest in the genre.",
+      "Was originally considered for the role of Axel Foley in Beverly Hills Cop, then it was rewritten for him."
+    ],
+    "tmdb_id": 776
+  },
+  {
+    "celebrity": "Richard Pryor",
+    "gender": "Male",
+    "facts": [
+      "Set himself on fire while freebasing cocaine in 1980 and survived with severe burns over much of his body.",
+      "His 1979 special Live in Concert is cited by nearly every major comedian as a foundational influence.",
+      "Was posthumously awarded a Grammy Lifetime Achievement Award in 2020."
+    ],
+    "tmdb_id": 9309
+  },
+  {
+    "celebrity": "George Carlin",
+    "gender": "Male",
+    "facts": [
+      "Was arrested for obscenity at the Milwaukee Summerfest for performing his 'Seven Words You Can Never Say on Television' routine.",
+      "His 'Seven Words' Supreme Court case in 1978 set a landmark precedent for broadcast decency standards.",
+      "Performed a stand-up special a year before his death at age 71 and received a Mark Twain Prize for American Humor."
+    ],
+    "tmdb_id": 15903
+  },
+  {
+    "celebrity": "Robin Williams",
+    "gender": "Male",
+    "facts": [
+      "Improvised so many jokes on the set of Mrs. Doubtfire that the film required additional takes just to collect all the alternate versions.",
+      "Was posthumously diagnosed with Lewy body dementia, which his wife says caused the depression that led to his death.",
+      "Was the first person to make Christopher Reeve laugh again after his accident by showing up to the hospital in character as a Russian proctologist."
+    ],
+    "tmdb_id": 2157
+  },
+  {
+    "celebrity": "Jerry Seinfeld",
+    "gender": "Male",
+    "facts": [
+      "Drove vintage Porsches through New York City on Comedians in Cars Getting Coffee while interviewing fellow comedians.",
+      "Keeps a legal pad and pen by his bed and writes jokes every single day, a ritual he calls 'the chain.'",
+      "His sitcom Seinfeld is frequently cited as the greatest situation comedy in television history."
+    ],
+    "tmdb_id": 16377
+  },
+  {
+    "celebrity": "Larry David",
+    "gender": "Male",
+    "facts": [
+      "Co-created Seinfeld and based George Costanza partly on himself.",
+      "Plays a fictionalized version of himself in Curb Your Enthusiasm, where he constantly violates social norms.",
+      "Was famously cheap on Seinfeld, reportedly arguing over who paid for lunch with the cast."
+    ],
+    "tmdb_id": 16376
+  },
+  {
+    "celebrity": "Seth Rogen",
+    "gender": "Male",
+    "facts": [
+      "Started making pottery and candles, selling them through his company Houseplant, which is also a cannabis brand.",
+      "Testified before Congress to raise awareness about Alzheimer's disease after his mother-in-law was diagnosed.",
+      "Has a distinctive laugh that has been sampled and remixed into music tracks."
+    ],
+    "tmdb_id": 19274
+  },
+  {
+    "celebrity": "Jonah Hill",
+    "gender": "Male",
+    "facts": [
+      "His documentary Stutz, filmed with his therapist, premiered at Cannes and was praised for reducing mental health stigma.",
+      "Was nominated for two Academy Awards relatively early in his career for dramas after being primarily known for comedies.",
+      "Asked his social media followers to stop commenting on his body after years of public weight scrutiny."
+    ],
+    "tmdb_id": 21007
+  },
+  {
+    "celebrity": "Mark Zuckerberg",
+    "gender": "Male",
+    "facts": [
+      "Once promised to kill and eat a goat that he killed himself and served at a party.",
+      "Trained in Brazilian jiu-jitsu and competed in tournaments, winning gold and silver medals.",
+      "Challenged Elon Musk to a cage match publicly on Twitter, with both men initially agreeing before it fell through."
+    ],
+    "tmdb_id": 1188953
+  },
+  {
+    "celebrity": "Bill Gates",
+    "gender": "Male",
+    "facts": [
+      "Leaped over chairs for fun during meetings in the early Microsoft days, known as the 'chair jumping' quirk.",
+      "Has pledged to give away virtually all of his wealth through the Bill and Melinda Gates Foundation.",
+      "Reads approximately 50 books per year and publishes an annual list of his favorites."
+    ],
+    "tmdb_id": 240633
+  },
+  {
+    "celebrity": "Steve Jobs",
+    "gender": "Male",
+    "facts": [
+      "Was adopted and the biological son of Syrian immigrant Abdulfattah Jandali and Joanne Schieble.",
+      "Wore the same outfit every day — black turtleneck, jeans, and New Balance sneakers — to eliminate decision fatigue.",
+      "Notoriously refused to put license plates on his car, exploiting a California law that allowed six months without plates."
+    ],
+    "tmdb_id": 12897
+  },
+  {
+    "celebrity": "Warren Buffett",
+    "gender": "Male",
+    "facts": [
+      "Still lives in the Omaha, Nebraska home he bought in 1958 for $31,500.",
+      "Eats McDonald's for breakfast almost every morning and measures his spending by how the stock market is doing that day.",
+      "Has pledged to give away 99% of his fortune to philanthropy."
+    ],
+    "tmdb_id": 116345
+  },
+  {
+    "celebrity": "Greta Thunberg",
+    "gender": "Female",
+    "facts": [
+      "Started striking outside the Swedish parliament alone at age 15, with a handmade sign, before becoming a global climate icon.",
+      "Turned 'How dare you' into a defining soundbite of generational climate anger at the UN.",
+      "Is autistic and has said it is her 'superpower' that helps her focus on the climate crisis without distraction."
+    ],
+    "tmdb_id": 2297949
+  },
+  {
+    "celebrity": "Malala Yousafzai",
+    "gender": "Female",
+    "facts": [
+      "Was shot in the head by a Taliban gunman on her school bus in Pakistan in 2012 and survived.",
+      "Became the youngest Nobel Peace Prize laureate in history at age 17.",
+      "Secretly blogged for the BBC about life under the Taliban as a child under the pseudonym Gul Makai."
+    ],
+    "tmdb_id": 1463952
+  },
+  {
+    "celebrity": "Michelle Obama",
+    "gender": "Female",
+    "facts": [
+      "Her arms became such a topic of media fascination that she was credited with normalizing sleeveless tops in formal occasions.",
+      "Grew up in a small apartment on the South Side of Chicago and was the first in her family to attend an Ivy League school.",
+      "Her memoir Becoming became the best-selling memoir of all time."
+    ],
+    "tmdb_id": 964843
+  },
+  {
+    "celebrity": "Barack Obama",
+    "gender": "Male",
+    "facts": [
+      "Was the first sitting U.S. president to appear on a late-night comedy show.",
+      "Has a secret tattoo that he has refused to describe or show publicly.",
+      "Won a Grammy for the spoken word recording of his audiobook Dreams from My Father."
+    ],
+    "tmdb_id": 102786
+  },
+  {
+    "celebrity": "Kamala Harris",
+    "gender": "Female",
+    "facts": [
+      "Her coconut tree quote 'You didn't fall out of a coconut tree' became a viral meme in 2024.",
+      "Was the first woman, first Black American, and first South Asian American to serve as Vice President.",
+      "Attended Howard University, a historically Black university, rather than a predominantly white institution."
+    ],
+    "tmdb_id": 2065569
+  },
+  {
+    "celebrity": "Donald Trump",
+    "gender": "Male",
+    "facts": [
+      "Was convicted on 34 felony counts of falsifying business records in May 2024, the first U.S. president to be convicted of a crime.",
+      "Is the only U.S. president to have been impeached twice.",
+      "His spray tan and distinctive hair became subjects of impersonation by comedians worldwide."
+    ],
+    "tmdb_id": 33663
+  },
+  {
+    "celebrity": "Joe Biden",
+    "gender": "Male",
+    "facts": [
+      "Overcome a severe stutter as a child by reciting poetry in front of a mirror for hours.",
+      "Commuted by Amtrak from Delaware to Washington so regularly that Amtrak workers knew him personally.",
+      "Dropped out of the 2024 presidential race under significant party pressure, endorsing Kamala Harris."
+    ],
+    "tmdb_id": 1508927
+  },
+  {
+    "celebrity": "Gordon Ramsay",
+    "gender": "Male",
+    "facts": [
+      "Holds 7 Michelin stars across his restaurants, one of the highest totals in the UK.",
+      "Had dreams of being a professional footballer in Scotland before a knee injury ended his athletic career.",
+      "His 'This lamb sauce is MISSING' rant became one of the most parodied chef moments on the internet."
+    ],
+    "tmdb_id": 208630
+  },
+  {
+    "celebrity": "Anthony Bourdain",
+    "gender": "Male",
+    "facts": [
+      "Published Kitchen Confidential at age 44, launching a second career as a writer and television personality after decades as a restaurant cook.",
+      "Was candid about his past heroin addiction in his memoir and television appearances.",
+      "Died by suicide in Strasbourg, France, while filming Parts Unknown in 2018."
+    ],
+    "tmdb_id": 1223677
+  },
+  {
+    "celebrity": "Guy Fieri",
+    "gender": "Male",
+    "facts": [
+      "Has a bleach-blonde hair spiky look and sunglasses-on-the-back-of-head style that became a defining American food TV image.",
+      "His Triple D diner reviews have made dozens of otherwise unknown restaurants internationally famous.",
+      "Officiated hundreds of same-sex marriages in California after Proposition 8 was overturned."
+    ],
+    "tmdb_id": 1235334
+  },
+  {
+    "celebrity": "Martha Stewart",
+    "gender": "Female",
+    "facts": [
+      "Served five months in federal prison for insider trading in 2004 and emerged with her brand more resilient than before.",
+      "Became the oldest person ever to appear on a Sports Illustrated Swimsuit cover at age 81.",
+      "Has become unlikely internet friends with Snoop Dogg, appearing in commercials and shows together."
+    ],
+    "tmdb_id": 1218610
+  },
+  {
+    "celebrity": "PewDiePie",
+    "gender": "Male",
+    "facts": [
+      "Was the most subscribed individual YouTuber on the platform for most of the 2010s.",
+      "Faced major controversy in 2017 after publishing videos with antisemitic imagery, leading brands like Disney to drop him.",
+      "Moved with his wife Marzia to Japan and has kept a notably lower profile since retiring from regular YouTube uploads."
+    ],
+    "tmdb_id": 1651940
+  },
+  {
+    "celebrity": "MrBeast",
+    "gender": "Male",
+    "facts": [
+      "Has spent millions of dollars of his own money on elaborate YouTube videos including burying himself alive and counting to 100,000.",
+      "Started his first fast food chain, MrBeast Burger, as a virtual restaurant delivered exclusively through delivery apps.",
+      "Gave away a private island, a house, and a full supermarket's worth of groceries in separate videos."
+    ],
+    "tmdb_id": 2282154
+  },
+  {
+    "celebrity": "Ninja",
+    "gender": "Male",
+    "facts": [
+      "Was the first professional gamer to appear on the cover of ESPN The Magazine.",
+      "Set streaming records on Twitch when he played Fortnite with Drake, causing the platform to crash.",
+      "Has blue hair that he dyes himself and that became synonymous with his gaming persona."
+    ],
+    "tmdb_id": 985041
+  },
+  {
+    "celebrity": "Pokimane",
+    "gender": "Female",
+    "facts": [
+      "Is one of the most-followed female streamers on Twitch and has been involved in multiple streamer controversies.",
+      "Left Twitch for YouTube after years of exclusivity, signaling a broader creator migration.",
+      "Once went live without makeup deliberately to challenge gaming culture's expectations of female streamers."
+    ],
+    "tmdb_id": 2610062
+  },
+  {
+    "celebrity": "xQc",
+    "gender": "Male",
+    "facts": [
+      "Played as a professional Overwatch player for the Dallas Fuel before becoming a full-time streamer.",
+      "Signed an exclusive deal with Kick streaming platform for a reported $100 million over two years.",
+      "Is notorious for reacting to other streamers' and creators' content for hours, often sparking drama."
+    ],
+    "tmdb_id": 4004837
+  },
+  {
+    "celebrity": "Logan Paul",
+    "gender": "Male",
+    "facts": [
+      "Posted a video showing a body in Japan's Aokigahara Forest in 2018, which caused widespread condemnation and a temporary YouTube demonetization.",
+      "Boxed Floyd Mayweather in an exhibition match that grossed an estimated $50 million in pay-per-view.",
+      "Co-founded Prime Hydration with KSI, which became one of the fastest-growing beverage brands."
+    ],
+    "tmdb_id": 1635720
+  },
+  {
+    "celebrity": "KSI",
+    "gender": "Male",
+    "facts": [
+      "Rose to fame through FIFA gaming videos on YouTube before pivoting to boxing and music.",
+      "His rivalry with Logan Paul, fought across two boxing matches, generated enormous media coverage.",
+      "Co-founded Prime Hydration, which partnered with the UFC and became a billion-dollar brand."
+    ],
+    "tmdb_id": 1513866
+  },
+  {
+    "celebrity": "Addison Rae",
+    "gender": "Female",
+    "facts": [
+      "Was the highest-paid TikTok creator in the world in 2021 before most of her peers.",
+      "Appeared on The Tonight Show to demonstrate TikTok dances to Jimmy Fallon without crediting the original Black creators.",
+      "Launched a music career with the song 'Obsessed' and later 'Headphones On.'"
+    ],
+    "tmdb_id": 2773990
+  },
+  {
+    "celebrity": "Charli D'Amelio",
+    "gender": "Female",
+    "facts": [
+      "Became the first TikTok creator to reach 50 million and then 100 million followers.",
+      "Was a competitive dancer for over a decade before she began posting dance videos on TikTok.",
+      "Starred with her family in The D'Amelio Show on Hulu, a docuseries about their life post-fame."
+    ],
+    "tmdb_id": 2579527
+  },
+  {
+    "celebrity": "David Dobrik",
+    "gender": "Male",
+    "facts": [
+      "Built a YouTube channel based on four-minute-and-twenty-second vlogs for years before it turned controversial.",
+      "Faced a severe boycott after a sexual assault allegation against a former Vlog Squad member emerged.",
+      "Originally came to the U.S. from Slovakia on a student visa and has discussed his complicated immigration status publicly."
+    ],
+    "tmdb_id": 1908800
+  },
+  {
+    "celebrity": "Jake Paul",
+    "gender": "Male",
+    "facts": [
+      "Boxed retired professional fighter Mike Tyson in a 2024 Netflix event viewed by millions.",
+      "Was banned from Vine and then YouTube for various rule violations before building his own media company.",
+      "Has a tattoo of his own face on his leg."
+    ],
+    "tmdb_id": 1602979
+  },
+  {
+    "celebrity": "Trisha Paytas",
+    "gender": "Female",
+    "facts": [
+      "Has posted videos about literally every part of her personal life, including mental health crises, breakups, and meals.",
+      "Sparked massive drama by briefly joining and then leaving the Frenemies podcast with Ethan Klein of H3H3.",
+      "Married Moses Hacmon, brother-in-law of Ethan Klein, in a heavily filmed ceremony."
+    ],
+    "tmdb_id": 1929339
+  },
+  {
+    "celebrity": "James Charles",
+    "gender": "Male",
+    "facts": [
+      "Was the first male CoverGirl ambassador at age 17.",
+      "Lost nearly 3 million followers in 24 hours after fellow YouTuber Tati Westbrook accused him of manipulating men.",
+      "His sister sister catchphrase became a widespread internet joke."
+    ],
+    "tmdb_id": 2626595
+  },
+  {
+    "celebrity": "Jeffree Star",
+    "gender": "Male",
+    "facts": [
+      "Built a cosmetics empire worth hundreds of millions of dollars from a YouTube channel.",
+      "Moved to Wyoming, bought a yak ranch, and documented farm life for followers accustomed to his glamorous persona.",
+      "Was involved in intense public feuds with Shane Dawson and James Charles."
+    ],
+    "tmdb_id": 1244308
+  },
+  {
+    "celebrity": "Shane Dawson",
+    "gender": "Male",
+    "facts": [
+      "Was one of the earliest YouTube celebrities, gaining fame with parody sketches before pivoting to documentary-style videos.",
+      "His conspiracy theory videos became so popular that they crashed YouTube's trending algorithm.",
+      "Faced massive backlash in 2020 over resurfaced racist content from his early career."
+    ],
+    "tmdb_id": 168349
+  },
+  {
+    "celebrity": "Pewdiepie",
+    "gender": "Male",
+    "facts": [
+      "His 'Subscribe to PewDiePie' campaign against T-Series became one of the biggest social media movements of 2019.",
+      "His viral 'Pew News' video segments humorously covered internet drama.",
+      "His own fans staged billboards, airline announcements, and live event interruptions to promote his channel."
+    ],
+    "tmdb_id": 1651940
+  },
+  {
+    "celebrity": "iJustine",
+    "gender": "Female",
+    "facts": [
+      "Was one of the original YouTube life-vloggers, building an audience in the mid-2000s before monetization existed.",
+      "Filmed an iPhone unboxing video in 2007 that went viral, becoming one of the first tech-unboxing hits.",
+      "Regularly appears in gaming content and has hosted events for major tech companies."
+    ],
+    "tmdb_id": 1460919
+  },
+  {
+    "celebrity": "Markiplier",
+    "gender": "Male",
+    "facts": [
+      "Made his channel's breakthrough with Let's Play videos of horror games, screaming dramatically for comedic effect.",
+      "Has a distinctive pink mustache in his logo and used to wear a pink wig in early videos.",
+      "Has raised millions of dollars for charity through charity live streams."
+    ],
+    "tmdb_id": 1494060
+  },
+  {
+    "celebrity": "Jacksepticeye",
+    "gender": "Male",
+    "facts": [
+      "Is from a tiny village in County Offaly, Ireland, population under 500.",
+      "His intro 'Top of the morning to ya laddies' became a catchphrase parodied across the internet.",
+      "Played a small role in the independent film Free Guy alongside Ryan Reynolds."
+    ],
+    "tmdb_id": 1777399
+  },
+  {
+    "celebrity": "Dream",
+    "gender": "Male",
+    "facts": [
+      "Kept his face hidden from viewers for years, with the eventual face reveal generating massive anticipation.",
+      "Was accused of cheating in Minecraft speedruns, a controversy that generated hundreds of analysis videos.",
+      "His Minecraft manhunt video format, where friends hunt him as he tries to complete the game, became a flagship YouTube series."
+    ],
+    "tmdb_id": 4741096
+  },
+  {
+    "celebrity": "Valkyrae",
+    "gender": "Female",
+    "facts": [
+      "Was named YouTube Gaming Creator of the Year in 2020, one of the highest-profile streaming awards.",
+      "Launched a skincare-gaming product that faced scientific criticism and led her to cancel it publicly.",
+      "Is one of the co-owners of 100 Thieves esports organization."
+    ],
+    "tmdb_id": 3832701
+  },
+  {
+    "celebrity": "Asmongold",
+    "gender": "Male",
+    "facts": [
+      "Is known for his messy apartment that he streams in and has refused to clean despite years of viewers commenting on it.",
+      "Is one of the biggest World of Warcraft streamers on Twitch.",
+      "Co-owns the streaming organization OTK with other top Twitch streamers."
+    ]
+  },
+  {
+    "celebrity": "Hasan Piker",
+    "gender": "Male",
+    "facts": [
+      "Is the nephew of The Young Turks founder Cenk Uygur and rose to fame through political commentary streams.",
+      "Earned up to $200,000 a month on Twitch while openly identifying as a socialist, prompting widespread internet debates.",
+      "Speaks fluent Turkish and regularly engages with Turkish politics on stream."
+    ],
+    "tmdb_id": 1778240
+  },
+  {
+    "celebrity": "Imane Anys",
+    "gender": "Female",
+    "facts": [
+      "Better known as Pokimane, she was one of the first female streamers to truly break into mainstream gaming culture.",
+      "Received a cease-and-desist after a YouTuber posted a 'body pillow' version of her and she responded by reviewing their content critically.",
+      "Co-founded a content house called OfflineTV with several other major streamers."
+    ],
+    "tmdb_id": 2610062
+  },
+  {
+    "celebrity": "Shroud",
+    "gender": "Male",
+    "facts": [
+      "Was a professional CS:GO player for Cloud9 before retiring to stream full-time.",
+      "Is considered one of the most mechanically skilled FPS streamers in history and is called 'the human aimbot.'",
+      "Returned to Twitch after a brief exclusive deal with Mixer, which then shut down."
+    ],
+    "tmdb_id": 5839555
+  },
+  {
+    "celebrity": "Kai Cenat",
+    "gender": "Male",
+    "facts": [
+      "Caused a riot in New York City's Union Square Park in 2023 when he announced a surprise PS5 giveaway and thousands of fans arrived.",
+      "Broke Twitch's subscriber record multiple times and became the platform's most-subscribed streamer.",
+      "Is known for his energetic reactions, screaming, and inviting celebrities like Kevin Hart and 21 Savage onto streams."
+    ],
+    "tmdb_id": 4230854
+  },
+  {
+    "celebrity": "IShowSpeed",
+    "gender": "Male",
+    "facts": [
+      "Gained viral notoriety for his extreme reactions, breaking keyboards, and screaming during soccer games.",
+      "Declared his love for Cristiano Ronaldo on stream so many times it became an internet meme.",
+      "Was banned from Valorant for toxic behavior, which ironically increased his audience."
+    ],
+    "tmdb_id": 4536441
+  },
+  {
+    "celebrity": "Neymar Jr.",
+    "gender": "Male",
+    "facts": [
+      "Was sold to PSG for a then-world record fee of €222 million from Barcelona.",
+      "Is famous for his elaborate hair styles and has changed his look before virtually every major tournament.",
+      "Has a pink house in his Brazilian hometown that has become a tourist attraction."
+    ],
+    "tmdb_id": 1328983
+  },
+  {
+    "celebrity": "Kylian Mbappé",
+    "gender": "Male",
+    "facts": [
+      "Signed a record-breaking contract with Real Madrid reportedly worth over €1 billion when including bonuses.",
+      "Won the FIFA World Cup with France at age 19 and scored in the final.",
+      "Grew up in Bondy, a suburb north of Paris, and says his idol was Cristiano Ronaldo."
+    ],
+    "tmdb_id": 2053049
+  },
+  {
+    "celebrity": "Erling Haaland",
+    "gender": "Male",
+    "facts": [
+      "Eats his steaks with ketchup and watches tinted glasses to improve his sleep, claiming it is part of his biohacking routine.",
+      "Scored 36 goals in a single Premier League season, breaking the all-time record.",
+      "His father Alfie Haaland played for Manchester City and had his career ended by a Roy Keane tackle."
+    ],
+    "tmdb_id": 2910734
+  },
+  {
+    "celebrity": "Steph Curry",
+    "gender": "Male",
+    "facts": [
+      "Was undrafted by or unsought by top NBA teams and nearly went undrafted, then became the consensus greatest shooter in NBA history.",
+      "Revolutionized the game by proving the three-pointer could be a primary offensive weapon.",
+      "Has an unusual routine of dribbling with goggles and doing no-look passes at warmups that is widely mimicked by fans."
+    ],
+    "tmdb_id": 1718307
+  },
+  {
+    "celebrity": "Kevin Durant",
+    "gender": "Male",
+    "facts": [
+      "Is nicknamed 'Slim Reaper' for his impossibly tall and thin frame combined with elite scoring ability.",
+      "Famously called his former Thunder teammate Russell Westbrook out on a burner Twitter account, which was quickly discovered.",
+      "Tore his Achilles tendon during the 2019 NBA Finals in one of the most painful moments in recent sports history."
+    ],
+    "tmdb_id": 1009931
+  },
+  {
+    "celebrity": "Giannis Antetokounmpo",
+    "gender": "Male",
+    "facts": [
+      "Grew up in extreme poverty in Athens, Greece, selling watches and sunglasses on the street to help his Nigerian immigrant family.",
+      "Became the NBA MVP and then won the championship with Milwaukee, staying loyal to a small market in an era of superteams.",
+      "Has five brothers, all of whom have played or tried to play professional basketball."
+    ],
+    "tmdb_id": 2341898
+  },
+  {
+    "celebrity": "Simone Biles",
+    "gender": "Female",
+    "facts": [
+      "Withdrew from the 2020 Tokyo Olympics team final citing mental health and the 'twisties,' a loss of spatial awareness mid-air.",
+      "Returned at the 2024 Paris Olympics and won four medals, including gold in the all-around.",
+      "Has a skill on the balance beam and two on the floor exercise named after her because she's the first to perform them."
+    ],
+    "tmdb_id": 2806979
+  },
+  {
+    "celebrity": "Naomi Osaka",
+    "gender": "Female",
+    "facts": [
+      "Withdrew from the 2021 French Open citing depression and anxiety over mandatory press conferences.",
+      "Won four Grand Slam titles between 2018 and 2021, all at hard court majors.",
+      "Her mother is Japanese and her father is from Haiti, making her one of the most high-profile Japanese-Haitian athletes."
+    ],
+    "tmdb_id": 2860051
+  },
+  {
+    "celebrity": "Roger Federer",
+    "gender": "Male",
+    "facts": [
+      "Was known for crying openly on court after major wins and losses, humanizing elite sports in a new way.",
+      "Won Wimbledon eight times, the most by any player in history.",
+      "Retired in 2022 at the Laver Cup, weeping alongside his longtime rival Rafael Nadal."
+    ],
+    "tmdb_id": 1228056
+  },
+  {
+    "celebrity": "Rafael Nadal",
+    "gender": "Male",
+    "facts": [
+      "Won the French Open fourteen times on clay, a record that may never be broken.",
+      "Has a series of pre-serve rituals including adjusting his hair, touching his nose, and pulling his shorts.",
+      "Plays left-handed despite being naturally right-handed, on the advice of his uncle."
+    ],
+    "tmdb_id": 1565476
+  },
+  {
+    "celebrity": "Novak Djokovic",
+    "gender": "Male",
+    "facts": [
+      "Was deported from Australia in 2022 after a visa controversy related to his COVID-19 vaccination status.",
+      "Has won more Grand Slam singles titles than any man in history.",
+      "Is known for unusual wellness practices including eating gluten-free bread that he chewed for 45 seconds each morning."
+    ],
+    "tmdb_id": 1231873
+  },
+  {
+    "celebrity": "Tiger Woods",
+    "gender": "Male",
+    "facts": [
+      "Was caught in a sex scandal in 2009 that cost him sponsorships worth hundreds of millions and led to a public divorce.",
+      "Made his first professional hole-in-one at age 8 and appeared on The Mike Douglas Show.",
+      "Crashed his car into a fire hydrant and a tree in 2021 and required emergency surgery to save his leg."
+    ],
+    "tmdb_id": 1218607
+  },
+  {
+    "celebrity": "Michael Jordan",
+    "gender": "Male",
+    "facts": [
+      "Was cut from his high school varsity basketball team as a sophomore before becoming the greatest player ever.",
+      "The Last Dance documentary in 2020 revealed his intense competitive obsession with enemies both real and invented.",
+      "His Air Jordan sneakers, launched in 1985, created the billion-dollar celebrity sneaker market that still exists today."
+    ],
+    "tmdb_id": 23678
+  },
+  {
+    "celebrity": "Muhammad Ali",
+    "gender": "Male",
+    "facts": [
+      "Refused to be drafted into the Vietnam War on religious grounds, saying 'No Viet Cong ever called me n*****.'",
+      "Was stripped of his heavyweight title and banned from boxing for three years at the height of his career.",
+      "Lit the Olympic torch at the 1996 Atlanta Games while visibly trembling from Parkinson's disease."
+    ],
+    "tmdb_id": 65605
+  },
+  {
+    "celebrity": "Mike Tyson",
+    "gender": "Male",
+    "facts": [
+      "Bit off a piece of Evander Holyfield's ear during their 1997 rematch fight.",
+      "Has a Māori-style facial tattoo that he got in 2003.",
+      "Was in prison for three years for rape, from which he emerged to return to boxing."
+    ],
+    "tmdb_id": 80757
+  },
+  {
+    "celebrity": "Conor McGregor",
+    "gender": "Male",
+    "facts": [
+      "Threw a hand truck through a bus window at a media event, injuring multiple fighters including Michael Chiesa.",
+      "Knocked out Jose Aldo in 13 seconds, the fastest finish in UFC title fight history.",
+      "Became the first UFC fighter to hold two championship belts simultaneously in two weight classes."
+    ],
+    "tmdb_id": 1199115
+  },
+  {
+    "celebrity": "Khabib Nurmagomedov",
+    "gender": "Male",
+    "facts": [
+      "Retired undefeated at 29-0 after defeating Justin Gaethje and dedicating the win to his late father.",
+      "Jumped into the crowd to brawl with Conor McGregor's team after their 2018 fight.",
+      "Is known for his wrestling-based grappling style and was trained by fighting with bears as a child in Dagestan."
+    ],
+    "tmdb_id": 1068407
+  },
+  {
+    "celebrity": "Floyd Mayweather",
+    "gender": "Male",
+    "facts": [
+      "Retired 50-0, finishing as arguably the most accurate boxer of the modern era.",
+      "Lives a flashy lifestyle that includes carrying briefcases of cash to nightclubs, documented on social media.",
+      "Reportedly can't read, a story that circulated after a reading difficulty was observed during a public appearance."
+    ],
+    "tmdb_id": 265297
+  },
+  {
+    "celebrity": "Usain Bolt",
+    "gender": "Male",
+    "facts": [
+      "Set the 100m world record of 9.58 seconds in 2009 in Berlin and has held it ever since.",
+      "His celebration pose — the lightning bolt — is one of the most replicated athletic celebrations in the world.",
+      "Ate 100 Chicken McNuggets per day during the 2008 Beijing Olympics because he was too nervous to eat other food."
+    ],
+    "tmdb_id": 216300
+  },
+  {
+    "celebrity": "Colin Kaepernick",
+    "gender": "Male",
+    "facts": [
+      "Sparked a national debate about race and patriotism by kneeling during the national anthem before NFL games in 2016.",
+      "Has not played in the NFL since 2016 despite being widely regarded as still capable of playing at a high level.",
+      "Starred in a Nike ad with the slogan 'Believe in something, even if it means sacrificing everything.'"
+    ],
+    "tmdb_id": 2417599
+  },
+  {
+    "celebrity": "Tom Brady",
+    "gender": "Male",
+    "facts": [
+      "Was drafted in the sixth round of the NFL Draft as the 199th pick and went on to win seven Super Bowls.",
+      "Follows an extremely strict dietary regimen called the TB12 Method that eliminates nightshades, sugar, and most dairy.",
+      "Officially retired twice, with his second and final retirement announcement in February 2023."
+    ],
+    "tmdb_id": 66512
+  },
+  {
+    "celebrity": "Aaron Rodgers",
+    "gender": "Male",
+    "facts": [
+      "Tore his Achilles tendon on the fourth play of his first game as a New York Jet in 2023.",
+      "Went through an ayahuasca retreat and said the experience of ego death gave him back-to-back MVP seasons.",
+      "Estranged from his family and spoke publicly about the falling out, which prompted his family to respond on social media."
+    ],
+    "tmdb_id": 2615465
+  },
+  {
+    "celebrity": "Patrick Mahomes",
+    "gender": "Male",
+    "facts": [
+      "Won his fourth Super Bowl before turning 30, more than any quarterback except Tom Brady.",
+      "His father was a professional baseball player and Patrick was also drafted by the Detroit Tigers before choosing football.",
+      "Is known for off-balance, no-look throws and sidearm passes that other quarterbacks cannot replicate."
+    ],
+    "tmdb_id": 2601830
+  },
+  {
+    "celebrity": "Caitlin Clark",
+    "gender": "Female",
+    "facts": [
+      "Broke the all-time NCAA scoring record and became the most-watched college basketball player of the modern era.",
+      "Her rivalry with Angel Reese during the 2023 NCAA tournament drove viewership records not seen since the 1990s.",
+      "Was drafted first overall in the WNBA Draft in 2024 and broke WNBA attendance and viewership records as a rookie."
+    ],
+    "tmdb_id": 4655274
+  },
+  {
+    "celebrity": "Angel Reese",
+    "gender": "Female",
+    "facts": [
+      "Did the 'you can't see me' hand gesture toward Caitlin Clark after winning the 2023 NCAA championship, igniting controversy.",
+      "Was the first WNBA player to record 20 consecutive double-doubles in her rookie season.",
+      "Has a fashion brand partnership and was one of the most commercially successful WNBA rookies ever."
+    ],
+    "tmdb_id": 4995594
+  },
+  {
+    "celebrity": "Victor Wembanyama",
+    "gender": "Male",
+    "facts": [
+      "Was described by scouts as 'a once in a generation, or maybe once in an era' talent before being drafted first overall.",
+      "Stands at 7'4\" with a seven-foot-plus wingspan and plays guard-like skills at center.",
+      "Accidentally hit Britney Spears's bodyguard, causing a brief but enormous media controversy before he had played a single NBA game."
+    ],
+    "tmdb_id": 4300964
+  },
+  {
+    "celebrity": "Emma Chamberlain",
+    "gender": "Female",
+    "facts": [
+      "Is credited with pioneering a raw, lo-fi editing style on YouTube that influenced an entire generation of creators.",
+      "Attended the Met Gala as a Vogue correspondent, interviewing celebrities on the red carpet.",
+      "Dropped out of high school to pursue YouTube and later earned her GED while creating content."
+    ],
+    "tmdb_id": 2741137
+  },
+  {
+    "celebrity": "Bella Hadid",
+    "gender": "Female",
+    "facts": [
+      "Was scientifically declared the most beautiful face in the world according to the Golden Ratio of Beauty Phi.",
+      "Came out about her struggles with Lyme disease after years of publicly battling chronic illness.",
+      "Has cried at nearly every major runway show she's walked due to anxiety, which she has discussed openly."
+    ],
+    "tmdb_id": 1701005
+  },
+  {
+    "celebrity": "Kendall Jenner",
+    "gender": "Female",
+    "facts": [
+      "Was featured in the notorious Pepsi protest ad in 2017, which sparked immediate and intense backlash.",
+      "Became the highest-paid model in the world in 2017 and 2018.",
+      "Has a widely mocked cucumber-cutting scene from Keeping Up with the Kardashians where her mother suggests a chef would do it."
+    ],
+    "tmdb_id": 1549005
+  },
+  {
+    "celebrity": "Gigi Hadid",
+    "gender": "Female",
+    "facts": [
+      "Was physically removed from a magazine cover by an advertiser who thought she 'wasn't a real model' before she became globally famous.",
+      "Graduated from the Real World with a degree in criminal psychology from The New School.",
+      "Knits clothing for her daughter Khai and friends and has documented it online."
+    ],
+    "tmdb_id": 1305687
+  },
+  {
+    "celebrity": "Naomi Campbell",
+    "gender": "Female",
+    "facts": [
+      "Was ordered to do community service in 2006 after throwing a mobile phone at her housekeeper and was photographed sweeping streets in a couture outfit.",
+      "Was the first Black model on the cover of French Vogue.",
+      "Wears latex gloves in airports to avoid germs, a habit predating her fame for health consciousness."
+    ],
+    "tmdb_id": 56367
+  },
+  {
+    "celebrity": "Winona Ryder",
+    "gender": "Female",
+    "facts": [
+      "Was arrested for shoplifting over $5,500 worth of merchandise from Saks Fifth Avenue in 2001.",
+      "Made a career resurgence through Stranger Things after a decade of lower-profile work.",
+      "Was engaged to Johnny Depp in 1990 who had 'Winona Forever' tattooed on his arm, later changed to 'Wino Forever.'"
+    ],
+    "tmdb_id": 1920
+  },
+  {
+    "celebrity": "Pamela Anderson",
+    "gender": "Female",
+    "facts": [
+      "Her stolen sex tape with Tommy Lee became one of the most widely distributed pieces of unauthorized content in pre-internet history.",
+      "Wrote a memoir and released a Netflix documentary that reframed her public narrative entirely in 2023.",
+      "Appeared at the Academy Awards in 2024 without makeup, which became a major fashion moment."
+    ],
+    "tmdb_id": 6736
+  },
+  {
+    "celebrity": "Paris Hilton",
+    "gender": "Female",
+    "facts": [
+      "Pioneered the 'celebrity DJ' era and earned millions playing sets before it became standard.",
+      "Her reality show The Simple Life predated the era of unscripted entertainment and launched a new genre.",
+      "Testified before Congress about the abuse she suffered at a Utah boarding school, helping pass legislation."
+    ],
+    "tmdb_id": 38406
+  },
+  {
+    "celebrity": "Lindsay Lohan",
+    "gender": "Female",
+    "facts": [
+      "Received multiple DUI convictions and jail sentences in the late 2000s, becoming a tabloid fixture.",
+      "Made a widely praised return to mainstream film with Falling for Christmas on Netflix in 2022.",
+      "Her face has been so studied for apparent changes that internet communities dedicated to analyzing her photos emerged."
+    ],
+    "tmdb_id": 49265
+  },
+  {
+    "celebrity": "Hilary Duff",
+    "gender": "Female",
+    "facts": [
+      "Was the first celebrity to successfully sue a gossip website for defamation, settling with Radar Online.",
+      "Reprised her role as Lizzie McGuire in an adult reboot that was later cancelled due to creative differences with Disney.",
+      "Has been vocal about having her entire childhood public life make adult decisions difficult."
+    ],
+    "tmdb_id": 5958
+  },
+  {
+    "celebrity": "Selena Gomez",
+    "gender": "Female",
+    "facts": [
+      "Received a kidney transplant in 2017 from her best friend Francia Raisa.",
+      "Was the most-followed person on Instagram for years before Cristiano Ronaldo overtook her.",
+      "Has been open about her diagnosis of bipolar disorder and lupus throughout her career."
+    ],
+    "tmdb_id": 77948
+  },
+  {
+    "celebrity": "Demi Lovato",
+    "gender": "Female",
+    "facts": [
+      "Overdosed in 2018 and was found unconscious by their assistant at their Hollywood Hills home.",
+      "Came out as non-binary in 2021 and subsequently reverted to she/her pronouns in 2023.",
+      "Claims to have spotted UFOs while in a spiritual retreat in the desert."
+    ],
+    "tmdb_id": 85138
+  },
+  {
+    "celebrity": "Vanessa Hudgens",
+    "gender": "Female",
+    "facts": [
+      "Was photographed on FaceTime on a public flight while saying 'it's just like the flu' about COVID deaths in 2020, causing enormous backlash.",
+      "Starred in the viral Coachella-era Boho style images that defined festival fashion for a decade.",
+      "Her private photos were hacked and released without her consent multiple times during her Disney career."
+    ],
+    "tmdb_id": 67599
+  },
+  {
+    "celebrity": "Dylan O'Brien",
+    "gender": "Male",
+    "facts": [
+      "Suffered serious injuries including fractures and lacerations on the set of Maze Runner: The Death Cure when a stunt went wrong.",
+      "Started his career making YouTube videos and film reviews as a teenager before being cast in Teen Wolf.",
+      "Built a devoted fan following called 'O'Brieners' who tracked his film releases intensely."
+    ],
+    "tmdb_id": 527393
+  },
+  {
+    "celebrity": "Kit Harington",
+    "gender": "Male",
+    "facts": [
+      "Checked himself into a wellness retreat for stress and alcohol issues after Game of Thrones ended.",
+      "His character Jon Snow's death and resurrection in Game of Thrones caused him to lie publicly about it for an entire year.",
+      "Got engaged to Rose Leslie, who played Ygritte on Game of Thrones, after years of denying they were together."
+    ],
+    "tmdb_id": 239019
+  },
+  {
+    "celebrity": "Emilia Clarke",
+    "gender": "Female",
+    "facts": [
+      "Survived two brain aneurysms while filming Game of Thrones and wrote about the experience in The New Yorker.",
+      "Filmed Daenerys's most powerful scenes while recovering from surgery, with no one on set knowing what she had experienced.",
+      "Co-founded a charity called SameYou for young people recovering from brain injuries and strokes."
+    ],
+    "tmdb_id": 1223786
+  },
+  {
+    "celebrity": "Sophie Turner",
+    "gender": "Female",
+    "facts": [
+      "Auditioned for Game of Thrones at age 13 without any acting experience.",
+      "Filed for divorce from Joe Jonas in 2023 in a highly publicized split involving their children.",
+      "Kept her first dog, Zunni, whom she adopted during filming, and credits it with helping her mental health."
+    ],
+    "tmdb_id": 1001657
+  },
+  {
+    "celebrity": "Joe Jonas",
+    "gender": "Male",
+    "facts": [
+      "Famously broke up with Taylor Swift by phone in a 27-second call, which she told the world on The Ellen Show.",
+      "Was in the Jonas Brothers from childhood and launched a solo career called DNCE with the hit 'Cake by the Ocean.'",
+      "Married Sophie Turner in Las Vegas after the Billboard Music Awards in an impromptu ceremony officiated by an Elvis impersonator."
+    ],
+    "tmdb_id": 85757
+  },
+  {
+    "celebrity": "Nick Jonas",
+    "gender": "Male",
+    "facts": [
+      "Has Type 1 diabetes and has been an outspoken advocate for diabetes awareness since his teenage diagnosis.",
+      "Married Priyanka Chopra in two elaborate ceremonies, one Hindu and one Christian, over multiple days.",
+      "First auditioned for Broadway at age six and appeared in Annie and Les Misérables before the Jonas Brothers formed."
+    ],
+    "tmdb_id": 130565
+  },
+  {
+    "celebrity": "Cillian Murphy",
+    "gender": "Male",
+    "facts": [
+      "Won his first Oscar for Oppenheimer after being a supporting player in multiple critically acclaimed films for years.",
+      "Is vegan and trained to an extremely low body weight for his role as Tommy Shelby in Peaky Blinders.",
+      "Was almost cast as Batman by Christopher Nolan before Christian Bale got the role."
+    ],
+    "tmdb_id": 2037
+  },
+  {
+    "celebrity": "Pedro Pascal",
+    "gender": "Male",
+    "facts": [
+      "Became an internet 'daddy' figure in his 40s through The Mandalorian and The Last of Us.",
+      "Grew up as a political refugee after his parents fled Chile under Pinochet's regime.",
+      "His sister Lux Pascal came out as trans in 2021 and Pedro has been a vocal public ally."
+    ],
+    "tmdb_id": 1253360
+  },
+  {
+    "celebrity": "Florence Pugh",
+    "gender": "Female",
+    "facts": [
+      "Wore a sheer Valentino dress to a fashion show that exposed her nipples, sparking enormous coverage and a feminist discussion.",
+      "Posted ASMR-style cooking videos on Instagram that became an unexpected fan favorite.",
+      "Publicly feuded with her Midsommar director Ari Aster over characterizations of her performance."
+    ],
+    "tmdb_id": 1373737
+  },
+  {
+    "celebrity": "Sydney Sweeney",
+    "gender": "Female",
+    "facts": [
+      "Used earnings from Euphoria and White Lotus to pay off her family's house and her mother's debt.",
+      "Was a competitive arm wrestler as a teenager before acting.",
+      "Appeared on Saturday Night Live and played Hooters chicken commercials from her small-town Wisconsin childhood as a persona."
+    ],
+    "tmdb_id": 115440
+  },
+  {
+    "celebrity": "Austin Butler",
+    "gender": "Male",
+    "facts": [
+      "Kept Elvis Presley's speaking and singing voice for so long after filming that he needed a vocal coach to deprogram it.",
+      "Dated Vanessa Hudgens for nearly a decade before they split.",
+      "Lost 15 pounds over three days of flu while filming a scene in Dune: Part Two."
+    ],
+    "tmdb_id": 86654
+  },
+  {
+    "celebrity": "Barry Keoghan",
+    "gender": "Male",
+    "facts": [
+      "Spent time in foster care as a child in Dublin after a difficult family situation.",
+      "Improvised the naked dance sequence at the end of Saltburn, a scene that became one of the most viral moments in cinema in 2023.",
+      "Dated Sabrina Carpenter briefly and appeared in her music video."
+    ],
+    "tmdb_id": 1290466
+  }
+]

@@ -1,0 +1,762 @@
+{
+  "tetsutani": [
+    0,
+    100,
+    "Tetsutani.webp"
+  ],
+  "rei": [
+    0,
+    98,
+    "Rei.webp"
+  ],
+  "yatsu": [
+    0,
+    96,
+    "Yatsu.webp"
+  ],
+  "sabito": [
+    0,
+    94,
+    "Sabito.webp"
+  ],
+  "kagaya ubuyashiki": [
+    0,
+    92,
+    "Kagaya Ubuyashiki.webp"
+  ],
+  "kyojuro rengoku": [
+    0,
+    90,
+    "Kyojuro Rengoku.webp"
+  ],
+  "fuku": [
+    0,
+    88,
+    "Fuku.webp"
+  ],
+  "kanata kamado": [
+    0,
+    86,
+    "Kanata Kamado.webp"
+  ],
+  "kozo kanamori": [
+    0,
+    84,
+    "Kozo Kanamori.webp"
+  ],
+  "hotaru haganezuka": [
+    0,
+    82,
+    "Hotaru Haganezuka.webp"
+  ],
+  "kanata ubuyashiki": [
+    0,
+    80,
+    "Kanata Ubuyashiki.webp"
+  ],
+  "giyu tomioka": [
+    0,
+    78,
+    "Giyu Tomioka.webp"
+  ],
+  "shinjuro rengoku": [
+    0,
+    76,
+    "Shinjuro Rengoku.webp"
+  ],
+  "kokushibo": [
+    0,
+    74,
+    "Kokushibo.webp"
+  ],
+  "makio": [
+    0,
+    72,
+    "Makio.webp"
+  ],
+  "yahaba": [
+    0,
+    70,
+    "Yahaba.webp"
+  ],
+  "saburo": [
+    0,
+    68,
+    "Saburo.webp"
+  ],
+  "hiroshi shinazugawa": [
+    0,
+    66,
+    "Hiroshi Shinazugawa.webp"
+  ],
+  "kanao tsuyuri": [
+    0,
+    64,
+    "Kanao Tsuyuri.webp"
+  ],
+  "tsutako tomioka": [
+    0,
+    62,
+    "Tsutako Tomioka.webp"
+  ],
+  "tomi": [
+    0,
+    60,
+    "Tomi.webp"
+  ],
+  "kotoha hashibira": [
+    0,
+    58,
+    "Kotoha Hashibira.webp"
+  ],
+  "kaigaku": [
+    0,
+    56,
+    "Kaigaku.webp"
+  ],
+  "asakusa demon": [
+    0,
+    54,
+    "Asakusa Demon.webp"
+  ],
+  "tanjiro kamado": [
+    0,
+    52,
+    "Tanjiro Kamado.webp"
+  ],
+  "kiyoshi": [
+    0,
+    50,
+    "Kiyoshi.webp"
+  ],
+  "hisa": [
+    0,
+    48,
+    "Hisa.webp"
+  ],
+  "yushiro": [
+    0,
+    46,
+    "Yushiro.webp"
+  ],
+  "tamayo": [
+    0,
+    44,
+    "Tamayo.webp"
+  ],
+  "yoriichi tsugikuni": [
+    0,
+    42,
+    "Yoriichi Tsugikuni.webp"
+  ],
+  "sumi shinazugawa": [
+    0,
+    40,
+    "Sumi Shinazugawa.webp"
+  ],
+  "kanae kocho": [
+    0,
+    38,
+    "Kanae Kocho.webp"
+  ],
+  "suyako kamado": [
+    0,
+    36,
+    "Suyako Kamado.webp"
+  ],
+  "shuya shinazugawa": [
+    0,
+    34,
+    "Shuya Shinazugawa.webp"
+  ],
+  "akeno tsugikuni": [
+    0,
+    32,
+    "Akeno Tsugikuni.webp"
+  ],
+  "yuichiro tokito": [
+    0,
+    30,
+    "Yuichiro Tokito.webp"
+  ],
+  "swamp demon": [
+    0,
+    28,
+    "Swamp Demon.webp"
+  ],
+  "spider demon mother": [
+    0,
+    26,
+    "Spider Demon Mother.webp"
+  ],
+  "kie kamado": [
+    0,
+    24,
+    "Kie Kamado.webp"
+  ],
+  "sanemi shinazugawa": [
+    0,
+    22,
+    "Sanemi Shinazugawa.webp"
+  ],
+  "spider demon son": [
+    0,
+    20,
+    "Spider Demon Son.webp"
+  ],
+  "kuina ubuyashiki": [
+    0,
+    18,
+    "Kuina Ubuyashiki.webp"
+  ],
+  "genya shinazugawa": [
+    0,
+    16,
+    "Genya Shinazugawa.webp"
+  ],
+  "horned demon": [
+    0,
+    14,
+    "Horned Demon.webp"
+  ],
+  "koto shinazugawa": [
+    0,
+    12,
+    "Koto Shinazugawa.webp"
+  ],
+  "slasher": [
+    0,
+    10,
+    "Slasher.webp"
+  ],
+  "keizo": [
+    0,
+    8,
+    "Keizo.webp"
+  ],
+  "tecchin tecchikawahara": [
+    0,
+    6,
+    "Tecchin Tecchikawahara.webp"
+  ],
+  "gyomei himejima": [
+    0,
+    4,
+    "Gyomei Himejima.webp"
+  ],
+  "koinatsu": [
+    0,
+    2,
+    "Koinatsu.webp"
+  ],
+  "teruko": [
+    0,
+    2,
+    "Teruko.webp"
+  ],
+  "akaza": [
+    0,
+    2,
+    "Akaza.webp"
+  ],
+  "sumire kamado": [
+    0,
+    2,
+    "Sumire Kamado.webp"
+  ],
+  "amane ubuyashiki": [
+    0,
+    2,
+    "Amane Ubuyashiki.webp"
+  ],
+  "mitsuri kanroji": [
+    0,
+    2,
+    "Mitsuri Kanroji.webp"
+  ],
+  "ozaki": [
+    0,
+    2,
+    "Ozaki.webp"
+  ],
+  "woodland demon": [
+    0,
+    2,
+    "Woodland Demon.webp"
+  ],
+  "chachamaru": [
+    0,
+    2,
+    "Chachamaru.webp"
+  ],
+  "omitsu": [
+    0,
+    2,
+    "Omitsu.webp"
+  ],
+  "yoshiteru agatsuma": [
+    0,
+    2,
+    "Yoshiteru Agatsuma.webp"
+  ],
+  "toyo": [
+    0,
+    2,
+    "Toyo.webp"
+  ],
+  "sayo": [
+    0,
+    2,
+    "Sayo.webp"
+  ],
+  "aoi kanzaki": [
+    0,
+    2,
+    "Aoi Kanzaki.webp"
+  ],
+  "satoko": [
+    0,
+    2,
+    "Satoko.webp"
+  ],
+  "hantengu": [
+    0,
+    2,
+    "Hantengu.webp"
+  ],
+  "sumiyoshi kamado": [
+    0,
+    2,
+    "Sumiyoshi Kamado.webp"
+  ],
+  "susamaru": [
+    0,
+    2,
+    "Susamaru.webp"
+  ],
+  "matazo": [
+    0,
+    2,
+    "Matazo.webp"
+  ],
+  "noguchi": [
+    0,
+    2,
+    "Noguchi.webp"
+  ],
+  "tenma uzui": [
+    0,
+    2,
+    "Tenma Uzui.webp"
+  ],
+  "jigoro kuwajima": [
+    0,
+    2,
+    "Jigoro Kuwajima.webp"
+  ],
+  "wakuraba": [
+    0,
+    2,
+    "Wakuraba.webp"
+  ],
+  "hinatsuru": [
+    0,
+    2,
+    "Hinatsuru.webp"
+  ],
+  "characters minor": [
+    0,
+    2,
+    "Characters Minor.webp"
+  ],
+  "suma": [
+    0,
+    2,
+    "Suma.webp"
+  ],
+  "naho takada": [
+    0,
+    2,
+    "Naho Takada.webp"
+  ],
+  "tengen uzui": [
+    0,
+    2,
+    "Tengen Uzui.webp"
+  ],
+  "characters": [
+    0,
+    2,
+    "Characters.webp"
+  ],
+  "teiko shinazugawa": [
+    0,
+    2,
+    "Teiko Shinazugawa.webp"
+  ],
+  "takeo kamado": [
+    0,
+    2,
+    "Takeo Kamado.webp"
+  ],
+  "senjuro rengoku": [
+    0,
+    2,
+    "Senjuro Rengoku.webp"
+  ],
+  "tokie": [
+    0,
+    2,
+    "Tokie.webp"
+  ],
+  "rokuro": [
+    0,
+    2,
+    "Rokuro.webp"
+  ],
+  "flute demon": [
+    0,
+    2,
+    "Flute Demon.webp"
+  ],
+  "kazumi": [
+    0,
+    2,
+    "Kazumi.webp"
+  ],
+  "sumi nakahara": [
+    0,
+    2,
+    "Sumi Nakahara.webp"
+  ],
+  "tetsudoji": [
+    0,
+    2,
+    "Tetsudoji.webp"
+  ],
+  "masachika kumeno": [
+    0,
+    2,
+    "Masachika Kumeno.webp"
+  ],
+  "tongue demon": [
+    0,
+    2,
+    "Tongue Demon.webp"
+  ],
+  "temple demon": [
+    0,
+    2,
+    "Temple Demon.webp"
+  ],
+  "goto": [
+    0,
+    2,
+    "Goto.webp"
+  ],
+  "hand demon": [
+    0,
+    2,
+    "Hand Demon.webp"
+  ],
+  "sanehiro shinazugawa": [
+    0,
+    2,
+    "Sanehiro Shinazugawa.webp"
+  ],
+  "spider demon father": [
+    0,
+    2,
+    "Spider Demon Father.webp"
+  ],
+  "obanai iguro": [
+    0,
+    2,
+    "Obanai Iguro.webp"
+  ],
+  "ruka rengoku": [
+    0,
+    2,
+    "Ruka Rengoku.webp"
+  ],
+  "toko agatsuma": [
+    0,
+    2,
+    "Toko Agatsuma.webp"
+  ],
+  "nichika ubuyashiki": [
+    0,
+    2,
+    "Nichika Ubuyashiki.webp"
+  ],
+  "spider demon daughter": [
+    0,
+    2,
+    "Spider Demon Daughter.webp"
+  ],
+  "chuntaro": [
+    0,
+    2,
+    "Chuntaro.webp"
+  ],
+  "rokuta kamado": [
+    0,
+    2,
+    "Rokuta Kamado.webp"
+  ],
+  "zenitsu agatsuma": [
+    0,
+    2,
+    "Zenitsu Agatsuma.webp"
+  ],
+  "doma": [
+    0,
+    2,
+    "Doma.webp"
+  ],
+  "mantis demon": [
+    0,
+    2,
+    "Mantis Demon.webp"
+  ],
+  "masao maeda": [
+    0,
+    2,
+    "Masao Maeda.webp"
+  ],
+  "hanako kamado": [
+    0,
+    2,
+    "Hanako Kamado.webp"
+  ],
+  "headless demon": [
+    0,
+    2,
+    "Headless Demon.webp"
+  ],
+  "senri ubuyashiki": [
+    0,
+    2,
+    "Senri Ubuyashiki.webp"
+  ],
+  "nagakura": [
+    0,
+    2,
+    "Nagakura.webp"
+  ],
+  "muichiro tokito": [
+    0,
+    2,
+    "Muichiro Tokito.webp"
+  ],
+  "gyokko": [
+    0,
+    2,
+    "Gyokko.webp"
+  ],
+  "shimamoto": [
+    0,
+    2,
+    "Shimamoto.webp"
+  ],
+  "enmu": [
+    0,
+    2,
+    "Enmu.webp"
+  ],
+  "kyogai": [
+    0,
+    2,
+    "Kyogai.webp"
+  ],
+  "kiriya ubuyashiki": [
+    0,
+    2,
+    "Kiriya Ubuyashiki.webp"
+  ],
+  "nakime": [
+    0,
+    2,
+    "Nakime.webp"
+  ],
+  "sakonji urokodaki": [
+    0,
+    2,
+    "Sakonji Urokodaki.webp"
+  ],
+  "giichi tomioka": [
+    0,
+    2,
+    "Giichi Tomioka.webp"
+  ],
+  "shizu shinazugawa": [
+    0,
+    2,
+    "Shizu Shinazugawa.webp"
+  ],
+  "serpent demon": [
+    0,
+    2,
+    "Serpent Demon.webp"
+  ],
+  "tatsu": [
+    0,
+    2,
+    "Tatsu.webp"
+  ],
+  "gyutaro": [
+    0,
+    2,
+    "Gyutaro.webp"
+  ],
+  "kotetsu": [
+    0,
+    2,
+    "Kotetsu.webp"
+  ],
+  "kamanue": [
+    0,
+    2,
+    "Kamanue.webp"
+  ],
+  "takeuchi": [
+    0,
+    2,
+    "Takeuchi.webp"
+  ],
+  "taro": [
+    0,
+    2,
+    "Taro.webp"
+  ],
+  "yae": [
+    0,
+    2,
+    "Yae.webp"
+  ],
+  "hinaki ubuyashiki": [
+    0,
+    2,
+    "Hinaki Ubuyashiki.webp"
+  ],
+  "tetsuido": [
+    0,
+    2,
+    "Tetsuido.webp"
+  ],
+  "kaburamaru": [
+    0,
+    2,
+    "Kaburamaru.webp"
+  ],
+  "tanjuro kamado": [
+    0,
+    2,
+    "Tanjuro Kamado.webp"
+  ],
+  "tojuro rengoku": [
+    0,
+    2,
+    "Tojuro Rengoku.webp"
+  ],
+  "shigeru kamado": [
+    0,
+    2,
+    "Shigeru Kamado.webp"
+  ],
+  "akito ubuyashiki": [
+    0,
+    2,
+    "Akito Ubuyashiki.webp"
+  ],
+  "muzan kibutsuji": [
+    0,
+    2,
+    "Muzan Kibutsuji.webp"
+  ],
+  "makomo": [
+    0,
+    2,
+    "Makomo.webp"
+  ],
+  "murata": [
+    0,
+    2,
+    "Murata.webp"
+  ],
+  "yoshioka": [
+    0,
+    2,
+    "Yoshioka.webp"
+  ],
+  "sumihiko kamado": [
+    0,
+    2,
+    "Sumihiko Kamado.webp"
+  ],
+  "koyuki": [
+    0,
+    2,
+    "Koyuki.webp"
+  ],
+  "tetsumotonaka": [
+    0,
+    2,
+    "Tetsumotonaka.webp"
+  ],
+  "uta": [
+    0,
+    2,
+    "Uta.webp"
+  ],
+  "inosuke hashibira": [
+    0,
+    2,
+    "Inosuke Hashibira.webp"
+  ],
+  "rui": [
+    0,
+    2,
+    "Rui.webp"
+  ],
+  "hairo": [
+    0,
+    2,
+    "Hairo.webp"
+  ],
+  "shinobu kocho": [
+    0,
+    2,
+    "Shinobu Kocho.webp"
+  ],
+  "daki": [
+    0,
+    2,
+    "Daki.webp"
+  ],
+  "shoichi": [
+    0,
+    2,
+    "Shoichi.webp"
+  ],
+  "nezuko kamado": [
+    0,
+    2,
+    "Nezuko Kamado.webp"
+  ],
+  "takaharu": [
+    0,
+    2,
+    "Takaharu.webp"
+  ],
+  "kiyo terauchi": [
+    0,
+    2,
+    "Kiyo Terauchi.webp"
+  ],
+  "mukago": [
+    0,
+    2,
+    "Mukago.webp"
+  ]
+}

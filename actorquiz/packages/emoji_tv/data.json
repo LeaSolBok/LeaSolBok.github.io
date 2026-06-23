@@ -1,0 +1,1002 @@
+[
+  {
+    "show": "Friends",
+    "emojis": "☕🛋️👫",
+    "tmdb_id": 1668
+  },
+  {
+    "show": "Breaking Bad",
+    "emojis": "🧪💰🚐",
+    "tmdb_id": 1396
+  },
+  {
+    "show": "Game of Thrones",
+    "emojis": "🐉👑⚔️",
+    "tmdb_id": 1399
+  },
+  {
+    "show": "Stranger Things",
+    "emojis": "🚲🧇👾",
+    "tmdb_id": 66732
+  },
+  {
+    "show": "The Office",
+    "emojis": "🏢😂📄",
+    "tmdb_id": 2316
+  },
+  {
+    "show": "The Walking Dead",
+    "emojis": "🧟🔫🌲",
+    "tmdb_id": 1402
+  },
+  {
+    "show": "Wednesday",
+    "emojis": "🖤🕷️💃",
+    "tmdb_id": 119051
+  },
+  {
+    "show": "The Big Bang Theory",
+    "emojis": "🧠🚀😂",
+    "tmdb_id": 1418
+  },
+  {
+    "show": "How I Met Your Mother",
+    "emojis": "🍻💛☂️",
+    "tmdb_id": 1100
+  },
+  {
+    "show": "Brooklyn Nine-Nine",
+    "emojis": "👮😂🚔",
+    "tmdb_id": 48891
+  },
+  {
+    "show": "The Mandalorian",
+    "emojis": "🪖👶🌌",
+    "tmdb_id": 82856
+  },
+  {
+    "show": "Loki",
+    "emojis": "🟢⏳👑",
+    "tmdb_id": 84958
+  },
+  {
+    "show": "WandaVision",
+    "emojis": "📺🪄❤️",
+    "tmdb_id": 85271
+  },
+  {
+    "show": "Moon Knight",
+    "emojis": "🌙🤍⚔️",
+    "tmdb_id": 92749
+  },
+  {
+    "show": "Daredevil",
+    "emojis": "😈⚖️🟥",
+    "tmdb_id": 202555
+  },
+  {
+    "show": "Arrow",
+    "emojis": "🏹🟢🌃",
+    "tmdb_id": 1412
+  },
+  {
+    "show": "The Flash",
+    "emojis": "⚡🏃🔴",
+    "tmdb_id": 60735
+  },
+  {
+    "show": "Supergirl",
+    "emojis": "🦸‍♀️🌍💥",
+    "tmdb_id": 62688
+  },
+  {
+    "show": "Smallville",
+    "emojis": "🌽🦸🛸",
+    "tmdb_id": 4604
+  },
+  {
+    "show": "Gotham",
+    "emojis": "🦇🌃🕵️",
+    "tmdb_id": 60708
+  },
+  {
+    "show": "Peaky Blinders",
+    "emojis": "🎩🚬💵",
+    "tmdb_id": 60574
+  },
+  {
+    "show": "Sherlock",
+    "emojis": "🔍🎻🧠",
+    "tmdb_id": 19885
+  },
+  {
+    "show": "House",
+    "emojis": "🏥🩺😒",
+    "tmdb_id": 1408
+  },
+  {
+    "show": "Grey's Anatomy",
+    "emojis": "❤️🏥🩺",
+    "tmdb_id": 1416
+  },
+  {
+    "show": "ER",
+    "emojis": "🚑🏥😷",
+    "tmdb_id": 4588
+  },
+  {
+    "show": "The Good Doctor",
+    "emojis": "🧠👨‍⚕️🏥",
+    "tmdb_id": 71712
+  },
+  {
+    "show": "Suits",
+    "emojis": "💼⚖️🕴️",
+    "tmdb_id": 37680
+  },
+  {
+    "show": "Better Call Saul",
+    "emojis": "📞⚖️💰",
+    "tmdb_id": 60059
+  },
+  {
+    "show": "Ozark",
+    "emojis": "💵🚤🔫",
+    "tmdb_id": 69740
+  },
+  {
+    "show": "Narcos",
+    "emojis": "💊🇨🇴🔫",
+    "tmdb_id": 63351
+  },
+  {
+    "show": "Money Heist",
+    "emojis": "💰🎭🏦",
+    "tmdb_id": 71446
+  },
+  {
+    "show": "Dark",
+    "emojis": "⏳🌧️🕳️",
+    "tmdb_id": 70523
+  },
+  {
+    "show": "Lost",
+    "emojis": "✈️🏝️❓",
+    "tmdb_id": 4607
+  },
+  {
+    "show": "Prison Break",
+    "emojis": "🔒🗺️🏃",
+    "tmdb_id": 2288
+  },
+  {
+    "show": "Dexter",
+    "emojis": "🔪🩸🧤",
+    "tmdb_id": 1405
+  },
+  {
+    "show": "You",
+    "emojis": "📚❤️🔪",
+    "tmdb_id": 78191
+  },
+  {
+    "show": "Lucifer",
+    "emojis": "😈🔥🍷",
+    "tmdb_id": 63174
+  },
+  {
+    "show": "Supernatural",
+    "emojis": "👻🚗🔫",
+    "tmdb_id": 1622
+  },
+  {
+    "show": "The Vampire Diaries",
+    "emojis": "🧛📓❤️",
+    "tmdb_id": 18165
+  },
+  {
+    "show": "Teen Wolf",
+    "emojis": "🐺🏫🌕",
+    "tmdb_id": 34524
+  },
+  {
+    "show": "Riverdale",
+    "emojis": "🍔🕵️🏫",
+    "tmdb_id": 69050
+  },
+  {
+    "show": "Gossip Girl",
+    "emojis": "📱👗👑",
+    "tmdb_id": 1395
+  },
+  {
+    "show": "Pretty Little Liars",
+    "emojis": "🤫💄📱",
+    "tmdb_id": 31917
+  },
+  {
+    "show": "Euphoria",
+    "emojis": "💄💊🌈",
+    "tmdb_id": 85552
+  },
+  {
+    "show": "Outer Banks",
+    "emojis": "🏝️💰🌊",
+    "tmdb_id": 100757
+  },
+  {
+    "show": "Cobra Kai",
+    "emojis": "🥋🐍🔥",
+    "tmdb_id": 77169
+  },
+  {
+    "show": "The Boys",
+    "emojis": "🩸🦸😈",
+    "tmdb_id": 76479
+  },
+  {
+    "show": "The Umbrella Academy",
+    "emojis": "☂️🦸⏳",
+    "tmdb_id": 75006
+  },
+  {
+    "show": "Squid Game",
+    "emojis": "🦑🎮💀",
+    "tmdb_id": 93405
+  },
+  {
+    "show": "Black Mirror",
+    "emojis": "📱🪞😨",
+    "tmdb_id": 42009
+  },
+  {
+    "show": "The Witcher",
+    "emojis": "⚔️🐺🪙",
+    "tmdb_id": 71912
+  },
+  {
+    "show": "Vikings",
+    "emojis": "🪓🚢🔥",
+    "tmdb_id": 44217
+  },
+  {
+    "show": "The Last of Us",
+    "emojis": "🍄🧟❤️",
+    "tmdb_id": 100088
+  },
+  {
+    "show": "The Bear",
+    "emojis": "🍔🔥👨‍🍳",
+    "tmdb_id": 136315
+  },
+  {
+    "show": "Succession",
+    "emojis": "💼👑📺",
+    "tmdb_id": 76331
+  },
+  {
+    "show": "Yellowstone",
+    "emojis": "🤠🐎🏔️",
+    "tmdb_id": 73586
+  },
+  {
+    "show": "1883",
+    "emojis": "🤠🚂🌄",
+    "tmdb_id": 118357
+  },
+  {
+    "show": "1923",
+    "emojis": "🐎❄️👴",
+    "tmdb_id": 157744
+  },
+  {
+    "show": "The Sopranos",
+    "emojis": "🍝🔫🦆",
+    "tmdb_id": 1398
+  },
+  {
+    "show": "Seinfeld",
+    "emojis": "☕😂🏙️",
+    "tmdb_id": 1400
+  },
+  {
+    "show": "Modern Family",
+    "emojis": "👨‍👩‍👧‍👦🏡😂",
+    "tmdb_id": 1421
+  },
+  {
+    "show": "New Girl",
+    "emojis": "👓🏠😂",
+    "tmdb_id": 1420
+  },
+  {
+    "show": "Parks and Recreation",
+    "emojis": "🌳🏛️😂",
+    "tmdb_id": 8592
+  },
+  {
+    "show": "Community",
+    "emojis": "🏫😂🎲",
+    "tmdb_id": 18347
+  },
+  {
+    "show": "Scrubs",
+    "emojis": "🏥😂🩺",
+    "tmdb_id": 4556
+  },
+  {
+    "show": "Ted Lasso",
+    "emojis": "⚽👨‍🏫💙",
+    "tmdb_id": 97546
+  },
+  {
+    "show": "The Crown",
+    "emojis": "👑🇬🇧📸",
+    "tmdb_id": 65494
+  },
+  {
+    "show": "Bridgerton",
+    "emojis": "🎻💌👑",
+    "tmdb_id": 91239
+  },
+  {
+    "show": "Downton Abbey",
+    "emojis": "🏰🍽️🎩",
+    "tmdb_id": 33907
+  },
+  {
+    "show": "The Queen's Gambit",
+    "emojis": "♟️👩🍷",
+    "tmdb_id": 87739
+  },
+  {
+    "show": "House of the Dragon",
+    "emojis": "🐉🔥👑",
+    "tmdb_id": 94997
+  },
+  {
+    "show": "True Detective",
+    "emojis": "🕵️🌙🩸",
+    "tmdb_id": 46648
+  },
+  {
+    "show": "Mindhunter",
+    "emojis": "🧠🔪📼",
+    "tmdb_id": 67744
+  },
+  {
+    "show": "Hannibal",
+    "emojis": "🍷🧠🔪",
+    "tmdb_id": 40008
+  },
+  {
+    "show": "CSI",
+    "emojis": "🧪🔍🩸",
+    "tmdb_id": 1431
+  },
+  {
+    "show": "NCIS",
+    "emojis": "⚓🔫🕵️",
+    "tmdb_id": 4614
+  },
+  {
+    "show": "Criminal Minds",
+    "emojis": "🧠🔪👮",
+    "tmdb_id": 4057
+  },
+  {
+    "show": "Law & Order",
+    "emojis": "⚖️🚔📁",
+    "tmdb_id": 549
+  },
+  {
+    "show": "The X-Files",
+    "emojis": "👽🔦🛸",
+    "tmdb_id": 4087
+  },
+  {
+    "show": "Doctor Who",
+    "emojis": "🌀⏳👽",
+    "tmdb_id": 57243
+  },
+  {
+    "show": "Star Trek",
+    "emojis": "🚀🌌🖖",
+    "tmdb_id": 253
+  },
+  {
+    "show": "Star Trek: Discovery",
+    "emojis": "🚀✨🖖",
+    "tmdb_id": 67198
+  },
+  {
+    "show": "Star Trek: Picard",
+    "emojis": "🖖👴🚀",
+    "tmdb_id": 85949
+  },
+  {
+    "show": "Battlestar Galactica",
+    "emojis": "🚀🤖⚔️",
+    "tmdb_id": 1972
+  },
+  {
+    "show": "The Expanse",
+    "emojis": "🪐🚀⚔️",
+    "tmdb_id": 63639
+  },
+  {
+    "show": "Westworld",
+    "emojis": "🤖🤠🌵",
+    "tmdb_id": 63247
+  },
+  {
+    "show": "Foundation",
+    "emojis": "📚🌌👑",
+    "tmdb_id": 93740
+  },
+  {
+    "show": "Silo",
+    "emojis": "🕳️🏙️😷",
+    "tmdb_id": 125988
+  },
+  {
+    "show": "The Handmaid's Tale",
+    "emojis": "🟥👒📖",
+    "tmdb_id": 69478
+  },
+  {
+    "show": "The 100",
+    "emojis": "☢️🌎🏹",
+    "tmdb_id": 48866
+  },
+  {
+    "show": "Manifest",
+    "emojis": "✈️⏳❓",
+    "tmdb_id": 79696
+  },
+  {
+    "show": "24",
+    "emojis": "⏰🔫🇺🇸",
+    "tmdb_id": 1973
+  },
+  {
+    "show": "Homeland",
+    "emojis": "🕵️🇺🇸💣",
+    "tmdb_id": 1407
+  },
+  {
+    "show": "Jack Ryan",
+    "emojis": "📡🔫🌍",
+    "tmdb_id": 73375
+  },
+  {
+    "show": "Reacher",
+    "emojis": "💪🕵️🚔",
+    "tmdb_id": 108978
+  },
+  {
+    "show": "The Night Agent",
+    "emojis": "📞🏛️🔫",
+    "tmdb_id": 129552
+  },
+  {
+    "show": "Designated Survivor",
+    "emojis": "🏛️💥🇺🇸",
+    "tmdb_id": 67026
+  },
+  {
+    "show": "Scandal",
+    "emojis": "🏛️📱🔥",
+    "tmdb_id": 39269
+  },
+  {
+    "show": "How to Get Away with Murder",
+    "emojis": "⚖️🔪📚",
+    "tmdb_id": 61056
+  },
+  {
+    "show": "Jane the Virgin",
+    "emojis": "💐👶📺",
+    "tmdb_id": 61418
+  },
+  {
+    "show": "Ugly Betty",
+    "emojis": "👓👗🏢",
+    "tmdb_id": 4626
+  },
+  {
+    "show": "Emily in Paris",
+    "emojis": "🗼📸👠",
+    "tmdb_id": 82596
+  },
+  {
+    "show": "Sex Education",
+    "emojis": "🍌🏫❤️",
+    "tmdb_id": 81356
+  },
+  {
+    "show": "Heartstopper",
+    "emojis": "🍂❤️🏳️‍🌈",
+    "tmdb_id": 124834
+  },
+  {
+    "show": "Never Have I Ever",
+    "emojis": "📚💘😂",
+    "tmdb_id": 100883
+  },
+  {
+    "show": "Ginny & Georgia",
+    "emojis": "👩‍👧🔪🏡",
+    "tmdb_id": 117581
+  },
+  {
+    "show": "Elite",
+    "emojis": "💰🏫🔪",
+    "tmdb_id": 76669
+  },
+  {
+    "show": "Baby",
+    "emojis": "👠💋🇮🇹",
+    "tmdb_id": 82700
+  },
+  {
+    "show": "Skins",
+    "emojis": "🎉💊😢",
+    "tmdb_id": 900
+  },
+  {
+    "show": "Glee",
+    "emojis": "🎤🏫🎶",
+    "tmdb_id": 1417
+  },
+  {
+    "show": "High School Musical: The Musical: The Series",
+    "emojis": "🏫🎤🎬",
+    "tmdb_id": 85801
+  },
+  {
+    "show": "American Idol",
+    "emojis": "🎤⭐📺",
+    "tmdb_id": 3626
+  },
+  {
+    "show": "The Voice",
+    "emojis": "🎤🔴🎶",
+    "tmdb_id": 37678
+  },
+  {
+    "show": "RuPaul's Drag Race",
+    "emojis": "👠💄🏁",
+    "tmdb_id": 8514
+  },
+  {
+    "show": "Survivor",
+    "emojis": "🏝️🔥🗳️",
+    "tmdb_id": 14658
+  },
+  {
+    "show": "Big Brother",
+    "emojis": "🏠📹👀",
+    "tmdb_id": 10160
+  },
+  {
+    "show": "Love Island",
+    "emojis": "🏝️❤️☀️",
+    "tmdb_id": 66636
+  },
+  {
+    "show": "The Bachelor",
+    "emojis": "🌹🤵💔",
+    "tmdb_id": 355
+  },
+  {
+    "show": "Too Hot to Handle",
+    "emojis": "🔥🚫💋",
+    "tmdb_id": 102085
+  },
+  {
+    "show": "The Amazing Race",
+    "emojis": "🌍🏃✈️",
+    "tmdb_id": 30957
+  },
+  {
+    "show": "Hell's Kitchen",
+    "emojis": "🔥👨‍🍳😡",
+    "tmdb_id": 2370
+  },
+  {
+    "show": "MasterChef",
+    "emojis": "🍽️👨‍🍳🏆",
+    "tmdb_id": 40290
+  },
+  {
+    "show": "Kitchen Nightmares",
+    "emojis": "🍽️😡🔥",
+    "tmdb_id": 11294
+  },
+  {
+    "show": "Top Chef",
+    "emojis": "👨‍🍳🥘🏆",
+    "tmdb_id": 41822
+  },
+  {
+    "show": "Shark Tank",
+    "emojis": "🦈💰📈",
+    "tmdb_id": 30703
+  },
+  {
+    "show": "The Apprentice",
+    "emojis": "💼📞🔥",
+    "tmdb_id": 2472
+  },
+  {
+    "show": "Jeopardy!",
+    "emojis": "❓💰🧠",
+    "tmdb_id": 2912
+  },
+  {
+    "show": "Wheel of Fortune",
+    "emojis": "🎡🔤💰",
+    "tmdb_id": 2778
+  },
+  {
+    "show": "Who Wants to Be a Millionaire?",
+    "emojis": "❓💵👑",
+    "tmdb_id": 55089
+  },
+  {
+    "show": "Deal or No Deal",
+    "emojis": "💼💰🤔",
+    "tmdb_id": 2462
+  },
+  {
+    "show": "The Price Is Right",
+    "emojis": "🛒💲📺",
+    "tmdb_id": 2051
+  },
+  {
+    "show": "Power Rangers",
+    "emojis": "🦖⚡🦸",
+    "tmdb_id": 2328
+  },
+  {
+    "show": "iCarly",
+    "emojis": "📹😂🌐",
+    "tmdb_id": 5371
+  },
+  {
+    "show": "Drake & Josh",
+    "emojis": "🎸😂🏠",
+    "tmdb_id": 2038
+  },
+  {
+    "show": "Victorious",
+    "emojis": "🎤🏫⭐",
+    "tmdb_id": 31251
+  },
+  {
+    "show": "Zoey 101",
+    "emojis": "🏫🌴📱",
+    "tmdb_id": 1778
+  },
+  {
+    "show": "Hannah Montana",
+    "emojis": "🎤👱‍♀️⭐",
+    "tmdb_id": 4610
+  },
+  {
+    "show": "Wizards of Waverly Place",
+    "emojis": "🪄🏙️👨‍👩‍👧",
+    "tmdb_id": 3498
+  },
+  {
+    "show": "Suite Life of Zack & Cody",
+    "emojis": "🏨👬😂",
+    "tmdb_id": 4605
+  },
+  {
+    "show": "Freaks and Geeks",
+    "emojis": "🎸📚🤓",
+    "tmdb_id": 2382
+  },
+  {
+    "show": "That '70s Show",
+    "emojis": "🪩🍁🚗",
+    "tmdb_id": 52
+  },
+  {
+    "show": "Malcolm in the Middle",
+    "emojis": "👦🏡😂",
+    "tmdb_id": 2004
+  },
+  {
+    "show": "Everybody Hates Chris",
+    "emojis": "🏫😂🧢",
+    "tmdb_id": 252
+  },
+  {
+    "show": "Fresh Prince of Bel-Air",
+    "emojis": "👑🏀🏡",
+    "tmdb_id": 1892
+  },
+  {
+    "show": "Martin",
+    "emojis": "🎤😂🏙️",
+    "tmdb_id": 171
+  },
+  {
+    "show": "Full House",
+    "emojis": "🏠👨‍👧‍👧😂",
+    "tmdb_id": 4313
+  },
+  {
+    "show": "Boy Meets World",
+    "emojis": "🏫❤️🌎",
+    "tmdb_id": 1777
+  },
+  {
+    "show": "Saved by the Bell",
+    "emojis": "🔔🏫😂",
+    "tmdb_id": 4345
+  },
+  {
+    "show": "The Fresh Beat Band",
+    "emojis": "🎶🕺🎤",
+    "tmdb_id": 30772
+  },
+  {
+    "show": "Mister Rogers' Neighborhood",
+    "emojis": "🧥🏡😊",
+    "tmdb_id": 15
+  },
+  {
+    "show": "Goosebumps",
+    "emojis": "📚👻😱",
+    "tmdb_id": 5835
+  },
+  {
+    "show": "Are You Afraid of the Dark?",
+    "emojis": "🔥🌙😨",
+    "tmdb_id": 2913
+  },
+  {
+    "show": "The Haunting of Hill House",
+    "emojis": "🏚️👻🕯️",
+    "tmdb_id": 72844
+  },
+  {
+    "show": "American Horror Story",
+    "emojis": "😱🏚️🩸",
+    "tmdb_id": 1413
+  },
+  {
+    "show": "Chucky",
+    "emojis": "🧸🔪🩸",
+    "tmdb_id": 90462
+  },
+  {
+    "show": "Bates Motel",
+    "emojis": "🏨🔪🛁",
+    "tmdb_id": 46786
+  },
+  {
+    "show": "Mr. Robot",
+    "emojis": "💻😷💣",
+    "tmdb_id": 62560
+  },
+  {
+    "show": "Silicon Valley",
+    "emojis": "💻📈😂",
+    "tmdb_id": 60573
+  },
+  {
+    "show": "Black Sails",
+    "emojis": "🏴‍☠️⚔️🌊",
+    "tmdb_id": 47665
+  },
+  {
+    "show": "Boardwalk Empire",
+    "emojis": "🍸💰🚬",
+    "tmdb_id": 1621
+  },
+  {
+    "show": "Sons of Anarchy",
+    "emojis": "🏍️🔫🖤",
+    "tmdb_id": 1409
+  },
+  {
+    "show": "Mayans M.C.",
+    "emojis": "🏍️🛣️🔥",
+    "tmdb_id": 76231
+  },
+  {
+    "show": "The Punisher",
+    "emojis": "💀🔫🖤",
+    "tmdb_id": 272323
+  },
+  {
+    "show": "Jessica Jones",
+    "emojis": "🍺🕵️💪",
+    "tmdb_id": 38472
+  },
+  {
+    "show": "Iron Fist",
+    "emojis": "👊🐉💚",
+    "tmdb_id": 62127
+  },
+  {
+    "show": "Luke Cage",
+    "emojis": "🟡💪🛡️",
+    "tmdb_id": 62126
+  },
+  {
+    "show": "Agents of S.H.I.E.L.D.",
+    "emojis": "🛡️✈️🦸",
+    "tmdb_id": 1403
+  },
+  {
+    "show": "Small Axe",
+    "emojis": "🪓🇬🇧✊",
+    "tmdb_id": 90705
+  },
+  {
+    "show": "The OA",
+    "emojis": "👁️🕊️🌌",
+    "tmdb_id": 69061
+  },
+  {
+    "show": "Sense8",
+    "emojis": "🧠🌍❤️",
+    "tmdb_id": 61664
+  },
+  {
+    "show": "Orphan Black",
+    "emojis": "🧬👩👩",
+    "tmdb_id": 56296
+  },
+  {
+    "show": "Fringe",
+    "emojis": "🧪👽🧠",
+    "tmdb_id": 1705
+  },
+  {
+    "show": "Alias",
+    "emojis": "🕵️👩💣",
+    "tmdb_id": 2046
+  },
+  {
+    "show": "Heroes",
+    "emojis": "🦸🌎⏳",
+    "tmdb_id": 1639
+  },
+  {
+    "show": "Once Upon a Time",
+    "emojis": "📖👑🪄",
+    "tmdb_id": 39272
+  },
+  {
+    "show": "Grimm",
+    "emojis": "🐺📚🔍",
+    "tmdb_id": 39351
+  },
+  {
+    "show": "Merlin",
+    "emojis": "🪄⚔️👑",
+    "tmdb_id": 7225
+  },
+  {
+    "show": "Buffy the Vampire Slayer",
+    "emojis": "🧛⚔️👧",
+    "tmdb_id": 95
+  },
+  {
+    "show": "Charmed",
+    "emojis": "🪄👭📖",
+    "tmdb_id": 1981
+  },
+  {
+    "show": "Small Wonder",
+    "emojis": "🤖👧🏡",
+    "tmdb_id": 2898
+  },
+  {
+    "show": "ALF",
+    "emojis": "👽🐱😂",
+    "tmdb_id": 4658
+  },
+  {
+    "show": "Knight Rider",
+    "emojis": "🚗🕶️📡",
+    "tmdb_id": 2384
+  },
+  {
+    "show": "Baywatch",
+    "emojis": "🏖️🚨🏊",
+    "tmdb_id": 4386
+  },
+  {
+    "show": "Miami Vice",
+    "emojis": "🌴🚤👔",
+    "tmdb_id": 1908
+  },
+  {
+    "show": "MacGyver",
+    "emojis": "🧰💡🔧",
+    "tmdb_id": 2875
+  },
+  {
+    "show": "The A-Team",
+    "emojis": "🚐💥🪖",
+    "tmdb_id": 1516
+  },
+  {
+    "show": "Walker, Texas Ranger",
+    "emojis": "🤠🥋⭐",
+    "tmdb_id": 3772
+  },
+  {
+    "show": "Bones",
+    "emojis": "🦴🔍💀",
+    "tmdb_id": 1911
+  },
+  {
+    "show": "Castle",
+    "emojis": "📚🔫❤️",
+    "tmdb_id": 1419
+  },
+  {
+    "show": "Monk",
+    "emojis": "🧼🕵️🤧",
+    "tmdb_id": 1695
+  },
+  {
+    "show": "Psych",
+    "emojis": "🍍🔍😂",
+    "tmdb_id": 1447
+  },
+  {
+    "show": "White Collar",
+    "emojis": "💎🕴️🚓",
+    "tmdb_id": 21510
+  },
+  {
+    "show": "Burn Notice",
+    "emojis": "🔥📄🕶️",
+    "tmdb_id": 2919
+  },
+  {
+    "show": "The Mentalist",
+    "emojis": "🧠🔴🕵️",
+    "tmdb_id": 5920
+  },
+  {
+    "show": "Lie to Me",
+    "emojis": "😏🔍🧠",
+    "tmdb_id": 8358
+  },
+  {
+    "show": "One Tree Hill",
+    "emojis": "🏀🌳❤️",
+    "tmdb_id": 269
+  },
+  {
+    "show": "The O.C.",
+    "emojis": "🌴🏄💔",
+    "tmdb_id": 2673
+  },
+  {
+    "show": "90210",
+    "emojis": "🏖️📱👠",
+    "tmdb_id": 5917
+  },
+  {
+    "show": "The Hills",
+    "emojis": "🌆👠📺",
+    "tmdb_id": 4466
+  },
+  {
+    "show": "Jersey Shore",
+    "emojis": "🏖️🍹💪",
+    "tmdb_id": 31343
+  }
+]

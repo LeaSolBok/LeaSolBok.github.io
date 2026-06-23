@@ -1,0 +1,1034 @@
+{
+  "ahri": [
+    0,
+    172,
+    "Ahri.png",
+    "Ahri.jpg"
+  ],
+  "jinx": [
+    0,
+    171,
+    "Jinx.png",
+    "Jinx.jpg"
+  ],
+  "yasuo": [
+    0,
+    170,
+    "Yasuo.png",
+    "Yasuo.jpg"
+  ],
+  "teemo": [
+    0,
+    169,
+    "Teemo.jpg",
+    "Teemo.jpg"
+  ],
+  "lux": [
+    0,
+    168,
+    "Lux.png",
+    "Lux.jpg"
+  ],
+  "lee sin": [
+    0,
+    167,
+    "Lee Sin.png",
+    "Lee Sin.jpg"
+  ],
+  "ezreal": [
+    0,
+    166,
+    "Ezreal.png",
+    "Ezreal.jpg"
+  ],
+  "caitlyn": [
+    0,
+    165,
+    "Caitlyn.png",
+    "Caitlyn.jpg"
+  ],
+  "akali": [
+    0,
+    164,
+    "Akali.png",
+    "Akali.jpg"
+  ],
+  "darius": [
+    0,
+    163,
+    "Darius.png",
+    "Darius.jpg"
+  ],
+  "garen": [
+    0,
+    162,
+    "Garen.png",
+    "Garen.jpg"
+  ],
+  "thresh": [
+    0,
+    161,
+    "Thresh.png",
+    "Thresh.jpg"
+  ],
+  "zed": [
+    0,
+    160,
+    "Zed.png",
+    "Zed.jpg"
+  ],
+  "miss fortune": [
+    0,
+    159,
+    "Miss Fortune.png",
+    "Miss Fortune.jpg"
+  ],
+  "ashe": [
+    0,
+    158,
+    "Ashe.png",
+    "Ashe.jpg"
+  ],
+  "riven": [
+    0,
+    157,
+    "Riven.png",
+    "Riven.jpg"
+  ],
+  "vi": [
+    0,
+    156,
+    "Vi.png",
+    "Vi.jpg"
+  ],
+  "ekko": [
+    0,
+    155,
+    "Ekko.png",
+    "Ekko.jpg"
+  ],
+  "jhin": [
+    0,
+    154,
+    "Jhin.png",
+    "Jhin.jpg"
+  ],
+  "vayne": [
+    0,
+    153,
+    "Vayne.png",
+    "Vayne.jpg"
+  ],
+  "aatrox": [
+    0,
+    152,
+    "Aatrox.png",
+    "Aatrox.jpg"
+  ],
+  "akshan": [
+    0,
+    151,
+    "Akshan.png",
+    "Akshan.jpg"
+  ],
+  "alistar": [
+    0,
+    150,
+    "Alistar.png",
+    "Alistar.jpg"
+  ],
+  "ambessa": [
+    0,
+    149,
+    "Ambessa.png",
+    "Ambessa.jpg"
+  ],
+  "amumu": [
+    0,
+    148,
+    "Amumu.png",
+    "Amumu.jpg"
+  ],
+  "anivia": [
+    0,
+    147,
+    "Anivia.png",
+    "Anivia.jpg"
+  ],
+  "annie": [
+    0,
+    146,
+    "Annie.png",
+    "Annie.jpg"
+  ],
+  "aphelios": [
+    0,
+    145,
+    "Aphelios.png",
+    "Aphelios.jpg"
+  ],
+  "aurelion sol": [
+    0,
+    144,
+    "Aurelion Sol.png",
+    "Aurelion Sol.jpg"
+  ],
+  "aurora": [
+    0,
+    143,
+    "Aurora.png",
+    "Aurora.jpg"
+  ],
+  "azir": [
+    0,
+    142,
+    "Azir.png",
+    "Azir.jpg"
+  ],
+  "bard": [
+    0,
+    141,
+    "Bard.png",
+    "Bard.jpg"
+  ],
+  "bel'veth": [
+    0,
+    140,
+    "Bel'Veth.png",
+    "Bel'Veth.jpg"
+  ],
+  "blitzcrank": [
+    0,
+    139,
+    "Blitzcrank.png",
+    "Blitzcrank.jpg"
+  ],
+  "brand": [
+    0,
+    138,
+    "Brand.png",
+    "Brand.jpg"
+  ],
+  "braum": [
+    0,
+    137,
+    "Braum.png",
+    "Braum.jpg"
+  ],
+  "briar": [
+    0,
+    136,
+    "Briar.png",
+    "Briar.jpg"
+  ],
+  "camille": [
+    0,
+    135,
+    "Camille.png",
+    "Camille.jpg"
+  ],
+  "cassiopeia": [
+    0,
+    134,
+    "Cassiopeia.png",
+    "Cassiopeia.jpg"
+  ],
+  "cho'gath": [
+    0,
+    133,
+    "Cho'Gath.png",
+    "Cho'Gath.jpg"
+  ],
+  "corki": [
+    0,
+    132,
+    "Corki.png",
+    "Corki.jpg"
+  ],
+  "diana": [
+    0,
+    131,
+    "Diana.png",
+    "Diana.jpg"
+  ],
+  "dr mundo": [
+    0,
+    130,
+    "Dr. Mundo.png",
+    "Dr. Mundo.jpg"
+  ],
+  "draven": [
+    0,
+    129,
+    "Draven.png",
+    "Draven.jpg"
+  ],
+  "elise": [
+    0,
+    128,
+    "Elise.png",
+    "Elise.jpg"
+  ],
+  "evelynn": [
+    0,
+    127,
+    "Evelynn.png",
+    "Evelynn.jpg"
+  ],
+  "fiddlesticks": [
+    0,
+    126,
+    "Fiddlesticks.png",
+    "Fiddlesticks.jpg"
+  ],
+  "fiora": [
+    0,
+    125,
+    "Fiora.png",
+    "Fiora.jpg"
+  ],
+  "fizz": [
+    0,
+    124,
+    "Fizz.png",
+    "Fizz.jpg"
+  ],
+  "galio": [
+    0,
+    123,
+    "Galio.png",
+    "Galio.jpg"
+  ],
+  "gangplank": [
+    0,
+    122,
+    "Gangplank.png",
+    "Gangplank.jpg"
+  ],
+  "gnar": [
+    0,
+    121,
+    "Gnar.png",
+    "Gnar.jpg"
+  ],
+  "gragas": [
+    0,
+    120,
+    "Gragas.png",
+    "Gragas.jpg"
+  ],
+  "graves": [
+    0,
+    119,
+    "Graves.png",
+    "Graves.jpg"
+  ],
+  "gwen": [
+    0,
+    118,
+    "Gwen.png",
+    "Gwen.jpg"
+  ],
+  "hecarim": [
+    0,
+    117,
+    "Hecarim.png",
+    "Hecarim.jpg"
+  ],
+  "heimerdinger": [
+    0,
+    116,
+    "Heimerdinger.png",
+    "Heimerdinger.jpg"
+  ],
+  "hwei": [
+    0,
+    115,
+    "Hwei.png",
+    "Hwei.jpg"
+  ],
+  "illaoi": [
+    0,
+    114,
+    "Illaoi.png",
+    "Illaoi.jpg"
+  ],
+  "irelia": [
+    0,
+    113,
+    "Irelia.png",
+    "Irelia.jpg"
+  ],
+  "ivern": [
+    0,
+    112,
+    "Ivern.png",
+    "Ivern.jpg"
+  ],
+  "janna": [
+    0,
+    111,
+    "Janna.png",
+    "Janna.jpg"
+  ],
+  "jarvan iv": [
+    0,
+    110,
+    "Jarvan IV.png",
+    "Jarvan IV.jpg"
+  ],
+  "jax": [
+    0,
+    109,
+    "Jax.png",
+    "Jax.jpg"
+  ],
+  "jayce": [
+    0,
+    108,
+    "Jayce.png",
+    "Jayce.jpg"
+  ],
+  "k'sante": [
+    0,
+    107,
+    "K'Sante.png",
+    "K'Sante.jpg"
+  ],
+  "kai'sa": [
+    0,
+    106,
+    "Kai'Sa.png",
+    "Kai'Sa.jpg"
+  ],
+  "kalista": [
+    0,
+    105,
+    "Kalista.png",
+    "Kalista.jpg"
+  ],
+  "karma": [
+    0,
+    104,
+    "Karma.png",
+    "Karma.jpg"
+  ],
+  "karthus": [
+    0,
+    103,
+    "Karthus.png",
+    "Karthus.jpg"
+  ],
+  "kassadin": [
+    0,
+    102,
+    "Kassadin.png",
+    "Kassadin.jpg"
+  ],
+  "katarina": [
+    0,
+    101,
+    "Katarina.png",
+    "Katarina.jpg"
+  ],
+  "kayle": [
+    0,
+    100,
+    "Kayle.png",
+    "Kayle.jpg"
+  ],
+  "kayn": [
+    0,
+    99,
+    "Kayn.png",
+    "Kayn.jpg"
+  ],
+  "kennen": [
+    0,
+    98,
+    "Kennen.png",
+    "Kennen.jpg"
+  ],
+  "kha'zix": [
+    0,
+    97,
+    "Kha'Zix.png",
+    "Kha'Zix.jpg"
+  ],
+  "kindred": [
+    0,
+    96,
+    "Kindred.png",
+    "Kindred.jpg"
+  ],
+  "kled": [
+    0,
+    95,
+    "Kled.png",
+    "Kled.jpg"
+  ],
+  "kog'maw": [
+    0,
+    94,
+    "Kog'Maw.png",
+    "Kog'Maw.jpg"
+  ],
+  "leblanc": [
+    0,
+    93,
+    "LeBlanc.png",
+    "LeBlanc.jpg"
+  ],
+  "leona": [
+    0,
+    92,
+    "Leona.png",
+    "Leona.jpg"
+  ],
+  "lillia": [
+    0,
+    91,
+    "Lillia.png",
+    "Lillia.jpg"
+  ],
+  "lissandra": [
+    0,
+    90,
+    "Lissandra.png",
+    "Lissandra.jpg"
+  ],
+  "lucian": [
+    0,
+    89,
+    "Lucian.png",
+    "Lucian.jpg"
+  ],
+  "lulu": [
+    0,
+    88,
+    "Lulu.png",
+    "Lulu.jpg"
+  ],
+  "malphite": [
+    0,
+    87,
+    "Malphite.png",
+    "Malphite.jpg"
+  ],
+  "malzahar": [
+    0,
+    86,
+    "Malzahar.png",
+    "Malzahar.jpg"
+  ],
+  "maokai": [
+    0,
+    85,
+    "Maokai.png",
+    "Maokai.jpg"
+  ],
+  "master yi": [
+    0,
+    84,
+    "Master Yi.png",
+    "Master Yi.jpg"
+  ],
+  "mel": [
+    0,
+    83,
+    "Mel.png",
+    "Mel.jpg"
+  ],
+  "milio": [
+    0,
+    82,
+    "Milio.png",
+    "Milio.jpg"
+  ],
+  "mordekaiser": [
+    0,
+    81,
+    "Mordekaiser.png",
+    "Mordekaiser.jpg"
+  ],
+  "morgana": [
+    0,
+    80,
+    "Morgana.png",
+    "Morgana.jpg"
+  ],
+  "naafiri": [
+    0,
+    79,
+    "Naafiri.png",
+    "Naafiri.jpg"
+  ],
+  "nami": [
+    0,
+    78,
+    "Nami.png",
+    "Nami.jpg"
+  ],
+  "nasus": [
+    0,
+    77,
+    "Nasus.png",
+    "Nasus.jpg"
+  ],
+  "nautilus": [
+    0,
+    76,
+    "Nautilus.png",
+    "Nautilus.jpg"
+  ],
+  "neeko": [
+    0,
+    75,
+    "Neeko.png",
+    "Neeko.jpg"
+  ],
+  "nidalee": [
+    0,
+    74,
+    "Nidalee.jpg",
+    "Nidalee.jpg"
+  ],
+  "nilah": [
+    0,
+    73,
+    "Nilah.png",
+    "Nilah.jpg"
+  ],
+  "nocturne": [
+    0,
+    72,
+    "Nocturne.png",
+    "Nocturne.jpg"
+  ],
+  "nunu willump": [
+    0,
+    71,
+    "Nunu Willump.png",
+    "Nunu Willump.jpg"
+  ],
+  "olaf": [
+    0,
+    70,
+    "Olaf.png",
+    "Olaf.jpg"
+  ],
+  "orianna": [
+    0,
+    69,
+    "Orianna.png",
+    "Orianna.jpg"
+  ],
+  "ornn": [
+    0,
+    68,
+    "Ornn.png",
+    "Ornn.jpg"
+  ],
+  "pantheon": [
+    0,
+    67,
+    "Pantheon.png",
+    "Pantheon.jpg"
+  ],
+  "poppy": [
+    0,
+    66,
+    "Poppy.png",
+    "Poppy.jpg"
+  ],
+  "pyke": [
+    0,
+    65,
+    "Pyke.png",
+    "Pyke.jpg"
+  ],
+  "qiyana": [
+    0,
+    64,
+    "Qiyana.png",
+    "Qiyana.jpg"
+  ],
+  "quinn": [
+    0,
+    63,
+    "Quinn.png",
+    "Quinn.jpg"
+  ],
+  "rakan": [
+    0,
+    62,
+    "Rakan.png",
+    "Rakan.jpg"
+  ],
+  "rammus": [
+    0,
+    61,
+    "Rammus.png",
+    "Rammus.jpg"
+  ],
+  "rek'sai": [
+    0,
+    60,
+    "Rek'Sai.png",
+    "Rek'Sai.jpg"
+  ],
+  "rell": [
+    0,
+    59,
+    "Rell.png",
+    "Rell.jpg"
+  ],
+  "renata glasc": [
+    0,
+    58,
+    "Renata Glasc.png",
+    "Renata Glasc.jpg"
+  ],
+  "renekton": [
+    0,
+    57,
+    "Renekton.png",
+    "Renekton.jpg"
+  ],
+  "rengar": [
+    0,
+    56,
+    "Rengar.png",
+    "Rengar.jpg"
+  ],
+  "rumble": [
+    0,
+    55,
+    "Rumble.png",
+    "Rumble.jpg"
+  ],
+  "ryze": [
+    0,
+    54,
+    "Ryze.png",
+    "Ryze.jpg"
+  ],
+  "samira": [
+    0,
+    53,
+    "Samira.png",
+    "Samira.jpg"
+  ],
+  "sejuani": [
+    0,
+    52,
+    "Sejuani.png",
+    "Sejuani.jpg"
+  ],
+  "senna": [
+    0,
+    51,
+    "Senna.png",
+    "Senna.jpg"
+  ],
+  "seraphine": [
+    0,
+    50,
+    "Seraphine.png",
+    "Seraphine.jpg"
+  ],
+  "sett": [
+    0,
+    49,
+    "Sett.png",
+    "Sett.jpg"
+  ],
+  "shaco": [
+    0,
+    48,
+    "Shaco.png",
+    "Shaco.jpg"
+  ],
+  "shen": [
+    0,
+    47,
+    "Shen.png",
+    "Shen.jpg"
+  ],
+  "shyvana": [
+    0,
+    46,
+    "Shyvana.png",
+    "Shyvana.jpg"
+  ],
+  "singed": [
+    0,
+    45,
+    "Singed.png",
+    "Singed.jpg"
+  ],
+  "sion": [
+    0,
+    44,
+    "Sion.png",
+    "Sion.jpg"
+  ],
+  "sivir": [
+    0,
+    43,
+    "Sivir.png",
+    "Sivir.jpg"
+  ],
+  "skarner": [
+    0,
+    42,
+    "Skarner.png",
+    "Skarner.jpg"
+  ],
+  "smolder": [
+    0,
+    41,
+    "Smolder.png",
+    "Smolder.jpg"
+  ],
+  "sona": [
+    0,
+    40,
+    "Sona.png",
+    "Sona.jpg"
+  ],
+  "soraka": [
+    0,
+    39,
+    "Soraka.png",
+    "Soraka.jpg"
+  ],
+  "swain": [
+    0,
+    38,
+    "Swain.png",
+    "Swain.jpg"
+  ],
+  "sylas": [
+    0,
+    37,
+    "Sylas.png",
+    "Sylas.jpg"
+  ],
+  "syndra": [
+    0,
+    36,
+    "Syndra.png",
+    "Syndra.jpg"
+  ],
+  "tahm kench": [
+    0,
+    35,
+    "Tahm Kench.png",
+    "Tahm Kench.jpg"
+  ],
+  "taliyah": [
+    0,
+    34,
+    "Taliyah.png",
+    "Taliyah.jpg"
+  ],
+  "talon": [
+    0,
+    33,
+    "Talon.png",
+    "Talon.jpg"
+  ],
+  "taric": [
+    0,
+    32,
+    "Taric.png",
+    "Taric.jpg"
+  ],
+  "tristana": [
+    0,
+    31,
+    "Tristana.png",
+    "Tristana.jpg"
+  ],
+  "trundle": [
+    0,
+    30,
+    "Trundle.png",
+    "Trundle.jpg"
+  ],
+  "tryndamere": [
+    0,
+    29,
+    "Tryndamere.png",
+    "Tryndamere.jpg"
+  ],
+  "twisted fate": [
+    0,
+    28,
+    "Twisted Fate.png",
+    "Twisted Fate.jpg"
+  ],
+  "twitch": [
+    0,
+    27,
+    "Twitch.png",
+    "Twitch.jpg"
+  ],
+  "udyr": [
+    0,
+    26,
+    "Udyr.png",
+    "Udyr.jpg"
+  ],
+  "urgot": [
+    0,
+    25,
+    "Urgot.png",
+    "Urgot.jpg"
+  ],
+  "varus": [
+    0,
+    24,
+    "Varus.png",
+    "Varus.jpg"
+  ],
+  "veigar": [
+    0,
+    23,
+    "Veigar.png",
+    "Veigar.jpg"
+  ],
+  "vel'koz": [
+    0,
+    22,
+    "Vel'Koz.png",
+    "Vel'Koz.jpg"
+  ],
+  "vex": [
+    0,
+    21,
+    "Vex.png",
+    "Vex.jpg"
+  ],
+  "viego": [
+    0,
+    20,
+    "Viego.png",
+    "Viego.jpg"
+  ],
+  "viktor": [
+    0,
+    19,
+    "Viktor.png",
+    "Viktor.jpg"
+  ],
+  "vladimir": [
+    0,
+    18,
+    "Vladimir.png",
+    "Vladimir.jpg"
+  ],
+  "volibear": [
+    0,
+    17,
+    "Volibear.png",
+    "Volibear.jpg"
+  ],
+  "warwick": [
+    0,
+    16,
+    "Warwick.png",
+    "Warwick.jpg"
+  ],
+  "wukong": [
+    0,
+    15,
+    "Wukong.png",
+    "Wukong.jpg"
+  ],
+  "xayah": [
+    0,
+    14,
+    "Xayah.png",
+    "Xayah.jpg"
+  ],
+  "xerath": [
+    0,
+    13,
+    "Xerath.png",
+    "Xerath.jpg"
+  ],
+  "xin zhao": [
+    0,
+    12,
+    "Xin Zhao.png",
+    "Xin Zhao.jpg"
+  ],
+  "yone": [
+    0,
+    11,
+    "Yone.png",
+    "Yone.jpg"
+  ],
+  "yorick": [
+    0,
+    10,
+    "Yorick.png",
+    "Yorick.jpg"
+  ],
+  "yunara": [
+    0,
+    9,
+    "Yunara.png",
+    "Yunara.jpg"
+  ],
+  "yuumi": [
+    0,
+    8,
+    "Yuumi.png",
+    "Yuumi.jpg"
+  ],
+  "zaahen": [
+    0,
+    7,
+    "Zaahen.png",
+    "Zaahen.jpg"
+  ],
+  "zac": [
+    0,
+    6,
+    "Zac.png",
+    "Zac.jpg"
+  ],
+  "zeri": [
+    0,
+    5,
+    "Zeri.png",
+    "Zeri.jpg"
+  ],
+  "ziggs": [
+    0,
+    4,
+    "Ziggs.png",
+    "Ziggs.jpg"
+  ],
+  "zilean": [
+    0,
+    3,
+    "Zilean.png",
+    "Zilean.jpg"
+  ],
+  "zoe": [
+    0,
+    2,
+    "Zoe.png",
+    "Zoe.jpg"
+  ],
+  "zyra": [
+    0,
+    1,
+    "Zyra.png",
+    "Zyra.jpg"
+  ]
+}

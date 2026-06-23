@@ -1,0 +1,1022 @@
+{
+  "aang": [
+    0,
+    100,
+    "Aang.png"
+  ],
+  "zuko": [
+    0,
+    98,
+    "Zuko.png"
+  ],
+  "katara": [
+    0,
+    96,
+    "Katara.png"
+  ],
+  "sokka": [
+    0,
+    94,
+    "Sokka.png"
+  ],
+  "toph beifong": [
+    0,
+    92,
+    "Toph Beifong.png"
+  ],
+  "azula": [
+    0,
+    90,
+    "Azula.png"
+  ],
+  "iroh": [
+    0,
+    88,
+    "Iroh.png"
+  ],
+  "korra": [
+    0,
+    86,
+    "Korra.png"
+  ],
+  "appa": [
+    0,
+    84,
+    "Appa.png"
+  ],
+  "momo": [
+    0,
+    82,
+    "Momo.png"
+  ],
+  "suki": [
+    0,
+    80,
+    "Suki.png"
+  ],
+  "mai": [
+    0,
+    78,
+    "Mai.png"
+  ],
+  "ty lee": [
+    0,
+    76,
+    "Ty Lee.png"
+  ],
+  "ozai": [
+    0,
+    74,
+    "Ozai.png"
+  ],
+  "roku": [
+    0,
+    72,
+    "Roku.png"
+  ],
+  "kyoshi": [
+    0,
+    70,
+    "Kyoshi.png"
+  ],
+  "tenzin": [
+    0,
+    68,
+    "Tenzin.png"
+  ],
+  "asami sato": [
+    0,
+    66,
+    "Asami Sato.png"
+  ],
+  "bolin": [
+    0,
+    64,
+    "Bolin.png"
+  ],
+  "mako": [
+    0,
+    62,
+    "Mako.png"
+  ],
+  "amon": [
+    0,
+    60,
+    "Amon.png"
+  ],
+  "kuvira": [
+    0,
+    58,
+    "Kuvira.png"
+  ],
+  "zaheer": [
+    0,
+    56,
+    "Zaheer.png"
+  ],
+  "lin beifong": [
+    0,
+    54,
+    "Lin Beifong.png"
+  ],
+  "jinora": [
+    0,
+    52,
+    "Jinora.png"
+  ],
+  "bumi": [
+    0,
+    50,
+    "Bumi.png"
+  ],
+  "jet": [
+    0,
+    48,
+    "Jet.png"
+  ],
+  "combustion man": [
+    0,
+    46,
+    "Combustion Man.png"
+  ],
+  "pabu": [
+    0,
+    44,
+    "Pabu.png"
+  ],
+  "naga": [
+    0,
+    42,
+    "Naga.png"
+  ],
+  "aiwei": [
+    0,
+    0,
+    "Aiwei.png"
+  ],
+  "amak": [
+    0,
+    0,
+    "Amak.png"
+  ],
+  "arnook": [
+    0,
+    0,
+    "Arnook.png"
+  ],
+  "azulon": [
+    0,
+    0,
+    "Azulon.png"
+  ],
+  "baatar": [
+    0,
+    0,
+    "Baatar.png"
+  ],
+  "baatar jr.": [
+    0,
+    0,
+    "Baatar Jr..png"
+  ],
+  "bosco": [
+    0,
+    0,
+    "Bosco.png"
+  ],
+  "bujing": [
+    0,
+    0,
+    "Bujing.png"
+  ],
+  "bum-ju": [
+    0,
+    0,
+    "Bum-Ju.png"
+  ],
+  "bumi 2": [
+    0,
+    0,
+    "Bumi_2 .png"
+  ],
+  "butakha": [
+    0,
+    0,
+    "Butakha.png"
+  ],
+  "butler": [
+    0,
+    0,
+    "Butler.png"
+  ],
+  "buttercup raiko": [
+    0,
+    0,
+    "Buttercup Raiko.png"
+  ],
+  "cabbage merchant": [
+    0,
+    0,
+    "Cabbage merchant.png"
+  ],
+  "cam": [
+    0,
+    0,
+    "Cam.png"
+  ],
+  "chan": [
+    0,
+    0,
+    "Chan.png"
+  ],
+  "chanyu": [
+    0,
+    0,
+    "Chanyu.png"
+  ],
+  "chong": [
+    0,
+    0,
+    "Chong.png"
+  ],
+  "chow": [
+    0,
+    0,
+    "Chow.png"
+  ],
+  "chung": [
+    0,
+    0,
+    "Chung.png"
+  ],
+  "daw": [
+    0,
+    0,
+    "Daw.png"
+  ],
+  "desna and eska": [
+    0,
+    0,
+    "Desna and Eska.png"
+  ],
+  "ding": [
+    0,
+    0,
+    "Ding.png"
+  ],
+  "druk": [
+    0,
+    0,
+    "Druk.png"
+  ],
+  "due": [
+    0,
+    0,
+    "Due.png"
+  ],
+  "fang": [
+    0,
+    0,
+    "Fang.png"
+  ],
+  "flopsie": [
+    0,
+    0,
+    "Flopsie.png"
+  ],
+  "fong": [
+    0,
+    0,
+    "Fong.png"
+  ],
+  "fung": [
+    0,
+    0,
+    "Fung.png"
+  ],
+  "ganbat": [
+    0,
+    0,
+    "Ganbat.png"
+  ],
+  "ghazan": [
+    0,
+    0,
+    "Ghazan.png"
+  ],
+  "ginger": [
+    0,
+    0,
+    "Ginger.png"
+  ],
+  "gombo": [
+    0,
+    0,
+    "Gombo.png"
+  ],
+  "gommu": [
+    0,
+    0,
+    "Gommu.png"
+  ],
+  "governor of yi": [
+    0,
+    0,
+    "Governor of Yi.png"
+  ],
+  "gow": [
+    0,
+    0,
+    "Gow.png"
+  ],
+  "gyatso": [
+    0,
+    0,
+    "Gyatso.png"
+  ],
+  "hahn": [
+    0,
+    0,
+    "Hahn.png"
+  ],
+  "hakoda": [
+    0,
+    0,
+    "Hakoda.png"
+  ],
+  "hama": [
+    0,
+    0,
+    "Hama.png"
+  ],
+  "haru": [
+    0,
+    0,
+    "Haru.png"
+  ],
+  "hawky": [
+    0,
+    0,
+    "Hawky.png"
+  ],
+  "hide": [
+    0,
+    0,
+    "Hide.png"
+  ],
+  "hiroshi sato": [
+    0,
+    0,
+    "Hiroshi Sato.png"
+  ],
+  "hong li": [
+    0,
+    0,
+    "Hong Li.png"
+  ],
+  "hotah": [
+    0,
+    0,
+    "Hotah.png"
+  ],
+  "hou-ting": [
+    0,
+    0,
+    "Hou-Ting.png"
+  ],
+  "hundun": [
+    0,
+    0,
+    "Hundun.png"
+  ],
+  "huu": [
+    0,
+    0,
+    "Huu.png"
+  ],
+  "ikki": [
+    0,
+    0,
+    "Ikki.png"
+  ],
+  "iroh 2": [
+    0,
+    0,
+    "Iroh_2.png"
+  ],
+  "izumi": [
+    0,
+    0,
+    "Izumi.png"
+  ],
+  "jee": [
+    0,
+    0,
+    "Jee.png"
+  ],
+  "jeong jeong": [
+    0,
+    0,
+    "Jeong Jeong.png"
+  ],
+  "jin": [
+    0,
+    0,
+    "Jin.png"
+  ],
+  "joo dee": [
+    0,
+    0,
+    "Joo Dee.png"
+  ],
+  "kahchi": [
+    0,
+    0,
+    "Kahchi.png"
+  ],
+  "kai": [
+    0,
+    0,
+    "Kai.png"
+  ],
+  "kanna": [
+    0,
+    0,
+    "Kanna.png"
+  ],
+  "karu": [
+    0,
+    0,
+    "Karu.png"
+  ],
+  "kay-fon": [
+    0,
+    0,
+    "Kay-fon.png"
+  ],
+  "kenji": [
+    0,
+    0,
+    "Kenji.png"
+  ],
+  "koh": [
+    0,
+    0,
+    "Koh.png"
+  ],
+  "kong": [
+    0,
+    0,
+    "Kong.png"
+  ],
+  "kuei": [
+    0,
+    0,
+    "Kuei.png"
+  ],
+  "kuon": [
+    0,
+    0,
+    "Kuon.png"
+  ],
+  "kuruk": [
+    0,
+    0,
+    "Kuruk.png"
+  ],
+  "kwan": [
+    0,
+    0,
+    "Kwan.png"
+  ],
+  "kya": [
+    0,
+    0,
+    "Kya.png"
+  ],
+  "la": [
+    0,
+    0,
+    "La.png"
+  ],
+  "lao beifong": [
+    0,
+    0,
+    "Lao Beifong.png"
+  ],
+  "lily": [
+    0,
+    0,
+    "Lily.png"
+  ],
+  "long feng": [
+    0,
+    0,
+    "Long Feng.png"
+  ],
+  "longshot": [
+    0,
+    0,
+    "Longshot.png"
+  ],
+  "macmu-ling": [
+    0,
+    0,
+    "Macmu-Ling.png"
+  ],
+  "masaru": [
+    0,
+    0,
+    "Masaru.png"
+  ],
+  "meelo": [
+    0,
+    0,
+    "Meelo.png"
+  ],
+  "meng": [
+    0,
+    0,
+    "Meng.png"
+  ],
+  "michi": [
+    0,
+    0,
+    "Michi.png"
+  ],
+  "ming": [
+    0,
+    0,
+    "Ming.png"
+  ],
+  "ming-hua": [
+    0,
+    0,
+    "Ming-Hua.png"
+  ],
+  "miyuki": [
+    0,
+    0,
+    "Miyuki.png"
+  ],
+  "moku": [
+    0,
+    0,
+    "Moku.png"
+  ],
+  "mongke": [
+    0,
+    0,
+    "Mongke.png"
+  ],
+  "mui": [
+    0,
+    0,
+    "Mui.png"
+  ],
+  "mula": [
+    0,
+    0,
+    "Mula.png"
+  ],
+  "mung": [
+    0,
+    0,
+    "Mung.png"
+  ],
+  "nyla": [
+    0,
+    0,
+    "Nyla.png"
+  ],
+  "ogodei": [
+    0,
+    0,
+    "Ogodei.png"
+  ],
+  "oh": [
+    0,
+    0,
+    "Oh.png"
+  ],
+  "on ji": [
+    0,
+    0,
+    "On Ji.png"
+  ],
+  "oogi": [
+    0,
+    0,
+    "Oogi.png"
+  ],
+  "opal": [
+    0,
+    0,
+    "Opal.png"
+  ],
+  "oyaji": [
+    0,
+    0,
+    "Oyaji.png"
+  ],
+  "p li": [
+    0,
+    0,
+    "P Li.png"
+  ],
+  "pakku": [
+    0,
+    0,
+    "Pakku.png"
+  ],
+  "pao": [
+    0,
+    0,
+    "Pao.png"
+  ],
+  "pasang": [
+    0,
+    0,
+    "Pasang.png"
+  ],
+  "pathik": [
+    0,
+    0,
+    "Pathik.png"
+  ],
+  "pema": [
+    0,
+    0,
+    "Pema.png"
+  ],
+  "piandao": [
+    0,
+    0,
+    "Piandao.png"
+  ],
+  "pipsqueak": [
+    0,
+    0,
+    "Pipsqueak.png"
+  ],
+  "poki": [
+    0,
+    0,
+    "Poki.png"
+  ],
+  "pong": [
+    0,
+    0,
+    "Pong.png"
+  ],
+  "poon": [
+    0,
+    0,
+    "Poon.png"
+  ],
+  "poppy beifong": [
+    0,
+    0,
+    "Poppy Beifong.png"
+  ],
+  "qin": [
+    0,
+    0,
+    "Qin.png"
+  ],
+  "qin lee": [
+    0,
+    0,
+    "Qin Lee.png"
+  ],
+  "quon": [
+    0,
+    0,
+    "Quon.png"
+  ],
+  "raava": [
+    0,
+    0,
+    "Raava.png"
+  ],
+  "raiko": [
+    0,
+    0,
+    "Raiko.png"
+  ],
+  "rohan": [
+    0,
+    0,
+    "Rohan.png"
+  ],
+  "ruon-jian": [
+    0,
+    0,
+    "Ruon-Jian.png"
+  ],
+  "ryu": [
+    0,
+    0,
+    "Ryu.png"
+  ],
+  "saikhan": [
+    0,
+    0,
+    "Saikhan.png"
+  ],
+  "sangok": [
+    0,
+    0,
+    "Sangok.png"
+  ],
+  "sela": [
+    0,
+    0,
+    "Sela.png"
+  ],
+  "senna": [
+    0,
+    0,
+    "Senna.png"
+  ],
+  "sha-mo": [
+    0,
+    0,
+    "Sha-Mo.png"
+  ],
+  "shady shin": [
+    0,
+    0,
+    "Shady Shin.png"
+  ],
+  "shaozu": [
+    0,
+    0,
+    "Shaozu.png"
+  ],
+  "shinu": [
+    0,
+    0,
+    "Shinu.png"
+  ],
+  "shiro shinobi": [
+    0,
+    0,
+    "Shiro Shinobi.png"
+  ],
+  "shoji": [
+    0,
+    0,
+    "Shoji.png"
+  ],
+  "shung": [
+    0,
+    0,
+    "Shung.png"
+  ],
+  "shuzumu": [
+    0,
+    0,
+    "Shuzumu.png"
+  ],
+  "shyu": [
+    0,
+    0,
+    "Shyu.png"
+  ],
+  "skoochy": [
+    0,
+    0,
+    "Skoochy.png"
+  ],
+  "slim": [
+    0,
+    0,
+    "Slim.png"
+  ],
+  "smellerbee": [
+    0,
+    0,
+    "Smellerbee.png"
+  ],
+  "song": [
+    0,
+    0,
+    "Song.png"
+  ],
+  "sozin": [
+    0,
+    0,
+    "Sozin.png"
+  ],
+  "sud": [
+    0,
+    0,
+    "Sud.png"
+  ],
+  "sung": [
+    0,
+    0,
+    "Sung.png"
+  ],
+  "suyin beifong": [
+    0,
+    0,
+    "Suyin Beifong.png"
+  ],
+  "swami": [
+    0,
+    0,
+    "Swami.png"
+  ],
+  "ta min": [
+    0,
+    0,
+    "Ta Min.png"
+  ],
+  "tahno": [
+    0,
+    0,
+    "Tahno.png"
+  ],
+  "taliriktug": [
+    0,
+    0,
+    "Taliriktug.png"
+  ],
+  "taqukaq": [
+    0,
+    0,
+    "Taqukaq.png"
+  ],
+  "tarrlok": [
+    0,
+    0,
+    "Tarrlok.png"
+  ],
+  "teo": [
+    0,
+    0,
+    "Teo.png"
+  ],
+  "the boulder": [
+    0,
+    0,
+    "The Boulder.png"
+  ],
+  "the duke": [
+    0,
+    0,
+    "The Duke.png"
+  ],
+  "the gopher": [
+    0,
+    0,
+    "The Gopher.png"
+  ],
+  "tong": [
+    0,
+    0,
+    "Tong.png"
+  ],
+  "tonraq": [
+    0,
+    0,
+    "Tonraq.png"
+  ],
+  "toza": [
+    0,
+    0,
+    "Toza.png"
+  ],
+  "tu": [
+    0,
+    0,
+    "Tu.png"
+  ],
+  "tui": [
+    0,
+    0,
+    "Tui.png"
+  ],
+  "tuyen": [
+    0,
+    0,
+    "Tuyen.png"
+  ],
+  "tycho": [
+    0,
+    0,
+    "Tycho.png"
+  ],
+  "tyro": [
+    0,
+    0,
+    "Tyro.png"
+  ],
+  "unalaq": [
+    0,
+    0,
+    "Unalaq.png"
+  ],
+  "ursa": [
+    0,
+    0,
+    "Ursa.png"
+  ],
+  "vaatu": [
+    0,
+    0,
+    "Vaatu.png"
+  ],
+  "vachir": [
+    0,
+    0,
+    "Vachir.png"
+  ],
+  "varrick": [
+    0,
+    0,
+    "Varrick.png"
+  ],
+  "viper": [
+    0,
+    0,
+    "Viper.png"
+  ],
+  "wan": [
+    0,
+    0,
+    "Wan.png"
+  ],
+  "wan shi tong": [
+    0,
+    0,
+    "Wan Shi Tong.png"
+  ],
+  "wei and wing": [
+    0,
+    0,
+    "Wei and Wing.png"
+  ],
+  "wen": [
+    0,
+    0,
+    "Wen.png"
+  ],
+  "wu": [
+    0,
+    0,
+    "Wu.png"
+  ],
+  "wu fortuneteller": [
+    0,
+    0,
+    "Wu fortuneteller .png"
+  ],
+  "xin fu": [
+    0,
+    0,
+    "Xin Fu.png"
+  ],
+  "yao": [
+    0,
+    0,
+    "Yao.png"
+  ],
+  "yeh-lu": [
+    0,
+    0,
+    "Yeh-Lu.png"
+  ],
+  "yin": [
+    0,
+    0,
+    "Yin.png"
+  ],
+  "yon rha": [
+    0,
+    0,
+    "Yon Rha.png"
+  ],
+  "yu": [
+    0,
+    0,
+    "Yu.png"
+  ],
+  "yue": [
+    0,
+    0,
+    "Yue.png"
+  ],
+  "zei": [
+    0,
+    0,
+    "Zei.png"
+  ],
+  "zhao": [
+    0,
+    0,
+    "Zhao.png"
+  ]
+}

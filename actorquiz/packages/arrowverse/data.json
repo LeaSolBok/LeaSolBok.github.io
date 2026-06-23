@@ -1,0 +1,722 @@
+{
+  "barry allen": [
+    122616,
+    100,
+    "Barry Allen.webp"
+  ],
+  "oliver queen": [
+    76110,
+    98,
+    "Oliver Queen.webp"
+  ],
+  "kara danvers": [
+    129104,
+    96,
+    "Kara Danvers.webp"
+  ],
+  "sara lance": [
+    1046143,
+    94,
+    "Sara Lance.webp"
+  ],
+  "felicity smoak": [
+    1224027,
+    92,
+    "Felicity Smoak.webp"
+  ],
+  "cisco ramon": [
+    1428398,
+    90,
+    "Cisco Ramon.webp"
+  ],
+  "eobard thawne": [
+    59216,
+    88,
+    "Eobard Thawne.webp"
+  ],
+  "iris west-allen": [
+    212700,
+    86,
+    "Iris West-allen.webp"
+  ],
+  "caitlin snow": [
+    31838,
+    84,
+    "Caitlin Snow.webp"
+  ],
+  "john diggle": [
+    116774,
+    82,
+    "John Diggle.webp"
+  ],
+  "laurel lance": [
+    55775,
+    80,
+    "Laurel Lance.webp"
+  ],
+  "clark kent": [
+    78198,
+    78,
+    "Clark Kent.webp"
+  ],
+  "lois lane": [
+    74577,
+    76,
+    "Lois Lane.webp"
+  ],
+  "wally west": [
+    1251875,
+    74,
+    "Wally West.webp"
+  ],
+  "ray palmer": [
+    17271,
+    72,
+    "Ray Palmer.webp"
+  ],
+  "leonard snart": [
+    3972,
+    70,
+    "Leonard Snart.webp"
+  ],
+  "slade wilson": [
+    41782,
+    68,
+    "Slade Wilson.webp"
+  ],
+  "john constantine": [
+    127712,
+    66,
+    "John Constantine.webp"
+  ],
+  "lex luthor": [
+    69718,
+    64,
+    "Lex Luthor.webp"
+  ],
+  "lena luthor": [
+    150587,
+    62,
+    "Lena Luthor.webp"
+  ],
+  "alex danvers": [
+    69210,
+    60,
+    "Alex Danvers.webp"
+  ],
+  "malcolm merlyn": [
+    182287,
+    58,
+    "Malcolm Merlyn.webp"
+  ],
+  "thea queen": [
+    1223171,
+    56,
+    "Thea Queen.webp"
+  ],
+  "roy harper": [
+    211800,
+    54,
+    "Roy Harper.webp"
+  ],
+  "damien darhk": [
+    2203,
+    52,
+    "Damien Darhk.webp"
+  ],
+  "joe west": [
+    19392,
+    50,
+    "Joe West.webp"
+  ],
+  "harrison wells": [
+    59216,
+    48,
+    "Harrison Wells.webp"
+  ],
+  "mick rory": [
+    10862,
+    46,
+    "Mick Rory.webp"
+  ],
+  "sara diggle": [
+    2528686,
+    44,
+    "Sara Diggle.webp"
+  ],
+  "jonn jonzz": [
+    1750171,
+    42,
+    "Jonn Jonzz.webp"
+  ],
+  "brainiac 5 earth-tud15": [
+    0,
+    40,
+    "Brainiac 5 Earth-tud15.webp"
+  ],
+  "mon-el": [
+    1475647,
+    38,
+    "Mon-el.webp"
+  ],
+  "james olsen": [
+    51684,
+    36,
+    "James Olsen.webp"
+  ],
+  "nia nal": [
+    1718957,
+    34,
+    "Nia Nal.webp"
+  ],
+  "winn schott": [
+    1188558,
+    32,
+    "Winn Schott.webp"
+  ],
+  "martin stein": [
+    8536,
+    30,
+    "Martin Stein.webp"
+  ],
+  "ronnie raymond": [
+    1223726,
+    28,
+    "Ronnie Raymond.webp"
+  ],
+  "firestorm": [
+    1363086,
+    26,
+    "Firestorm.webp"
+  ],
+  "jefferson jackson": [
+    3321218,
+    24,
+    "Jefferson Jackson.webp"
+  ],
+  "rip hunter": [
+    146457,
+    22,
+    "Rip Hunter.webp"
+  ],
+  "nate heywood": [
+    84076,
+    20,
+    "Nate Heywood.webp"
+  ],
+  "zari tomaz": [
+    1966585,
+    18,
+    "Zari Tomaz.webp"
+  ],
+  "zari tarazi": [
+    1966585,
+    16,
+    "Zari Tarazi.webp"
+  ],
+  "ava sharpe": [
+    984780,
+    14,
+    "Ava Sharpe.webp"
+  ],
+  "amaya jiwe": [
+    1163405,
+    12,
+    "Amaya Jiwe.webp"
+  ],
+  "kendra saunders": [
+    1465043,
+    10,
+    "Kendra Saunders.webp"
+  ],
+  "carter hall": [
+    118643,
+    8,
+    "Carter Hall.webp"
+  ],
+  "quentin lance": [
+    43231,
+    6,
+    "Quentin Lance.webp"
+  ],
+  "tommy merlyn": [
+    1093632,
+    4,
+    "Tommy Merlyn.webp"
+  ],
+  "moira queen": [
+    62547,
+    2,
+    "Moira Queen.webp"
+  ],
+  "robert queen": [
+    2977,
+    2,
+    "Robert Queen.webp"
+  ],
+  "ras al ghul": [
+    55788,
+    2,
+    "Ras Al Ghul.webp"
+  ],
+  "nyssa al ghul": [
+    164930,
+    2,
+    "Nyssa Al Ghul.webp"
+  ],
+  "mia queen": [
+    968006,
+    2,
+    "Mia Queen.webp"
+  ],
+  "connor hawke": [
+    1581190,
+    2,
+    "Connor Hawke.webp"
+  ],
+  "dinah drake": [
+    576474,
+    2,
+    "Dinah Drake.webp"
+  ],
+  "rene ramirez": [
+    53184,
+    2,
+    "Rene Ramirez.webp"
+  ],
+  "curtis holt": [
+    1255907,
+    2,
+    "Curtis Holt.webp"
+  ],
+  "adrian chase": [
+    426216,
+    2,
+    "Adrian Chase.webp"
+  ],
+  "ricardo diaz": [
+    55861,
+    2,
+    "Ricardo Diaz.webp"
+  ],
+  "emiko adachi": [
+    0,
+    2,
+    "Emiko Adachi.webp"
+  ],
+  "anatoly knyazev": [
+    53324,
+    2,
+    "Anatoly Knyazev.webp"
+  ],
+  "lyla michaels": [
+    21417,
+    2,
+    "Lyla Michaels.webp"
+  ],
+  "andy diggle": [
+    342,
+    2,
+    "Andy Diggle.webp"
+  ],
+  "carly diggle": [
+    168554,
+    2,
+    "Carly Diggle.webp"
+  ],
+  "william clayton": [
+    1761125,
+    2,
+    "William Clayton.webp"
+  ],
+  "hunter zolomon": [
+    63540,
+    2,
+    "Hunter Zolomon.webp"
+  ],
+  "savitar": [
+    1368836,
+    2,
+    "Savitar.webp"
+  ],
+  "jay garrick": [
+    63540,
+    2,
+    "Jay Garrick.webp"
+  ],
+  "ralph dibny": [
+    508357,
+    2,
+    "Ralph Dibny.webp"
+  ],
+  "grodd": [
+    164614,
+    2,
+    "Grodd.webp"
+  ],
+  "nora west-allen": [
+    211540,
+    2,
+    "Nora West-allen.webp"
+  ],
+  "bart west-allen": [
+    55788,
+    2,
+    "Bart West-allen.webp"
+  ],
+  "patty spivot": [
+    94423,
+    2,
+    "Patty Spivot.webp"
+  ],
+  "linda park": [
+    86764,
+    2,
+    "Linda Park.webp"
+  ],
+  "cecile horton": [
+    101060,
+    2,
+    "Cecile Horton.webp"
+  ],
+  "hartley rathaway": [
+    1254616,
+    2,
+    "Hartley Rathaway.webp"
+  ],
+  "allegra garcia": [
+    1163405,
+    2,
+    "Allegra Garcia.webp"
+  ],
+  "julian albert": [
+    1648626,
+    2,
+    "Julian Albert.webp"
+  ],
+  "august heart": [
+    1140988,
+    2,
+    "August Heart.webp"
+  ],
+  "ramsey rosso": [
+    165425,
+    2,
+    "Ramsey Rosso.webp"
+  ],
+  "clyde mardon": [
+    74678,
+    2,
+    "Clyde Mardon.webp"
+  ],
+  "mark mardon": [
+    934219,
+    2,
+    "Mark Mardon.webp"
+  ],
+  "david singh": [
+    102742,
+    2,
+    "David Singh.webp"
+  ],
+  "kate kane": [
+    1246972,
+    2,
+    "Kate Kane.webp"
+  ],
+  "ryan wilder": [
+    1697199,
+    2,
+    "Ryan Wilder.webp"
+  ],
+  "luke fox": [
+    1785142,
+    2,
+    "Luke Fox.webp"
+  ],
+  "mary hamilton": [
+    2081650,
+    2,
+    "Mary Hamilton.webp"
+  ],
+  "sophie moore": [
+    142205,
+    2,
+    "Sophie Moore.webp"
+  ],
+  "julia pennyworth": [
+    1332029,
+    2,
+    "Julia Pennyworth.webp"
+  ],
+  "beth kane": [
+    80018,
+    2,
+    "Beth Kane.webp"
+  ],
+  "jacob kane": [
+    15336,
+    2,
+    "Jacob Kane.webp"
+  ],
+  "catherine hamilton-kane": [
+    1047718,
+    2,
+    "Catherine Hamilton-kane.webp"
+  ],
+  "alice bolen": [
+    2630461,
+    2,
+    "Alice Bolen.webp"
+  ],
+  "bruce wayne": [
+    232525,
+    2,
+    "Bruce Wayne.webp"
+  ],
+  "barbara gordon": [
+    2133,
+    2,
+    "Barbara Gordon.webp"
+  ],
+  "safiyah sohail": [
+    342100,
+    2,
+    "Safiyah Sohail.webp"
+  ],
+  "jefferson pierce": [
+    157847,
+    2,
+    "Jefferson Pierce.webp"
+  ],
+  "anissa pierce": [
+    0,
+    2,
+    "Anissa Pierce.webp"
+  ],
+  "jennifer pierce": [
+    290112,
+    2,
+    "Jennifer Pierce.webp"
+  ],
+  "tobias whale": [
+    55788,
+    2,
+    "Tobias Whale.webp"
+  ],
+  "lynn stewart": [
+    0,
+    2,
+    "Lynn Stewart.webp"
+  ],
+  "peter gambi": [
+    169747,
+    2,
+    "Peter Gambi.webp"
+  ],
+  "khalil payne": [
+    55788,
+    2,
+    "Khalil Payne.webp"
+  ],
+  "painkiller": [
+    0,
+    2,
+    "Painkiller.webp"
+  ],
+  "grace choi": [
+    0,
+    2,
+    "Grace Choi.webp"
+  ],
+  "querl dox": [
+    303020,
+    2,
+    "Querl Dox.webp"
+  ],
+  "cat grant": [
+    49148,
+    2,
+    "Cat Grant.webp"
+  ],
+  "mxyzptlk": [
+    539,
+    2,
+    "Mxyzptlk.webp"
+  ],
+  "alura zor-el": [
+    60034,
+    2,
+    "Alura Zor-el.webp"
+  ],
+  "astra logue": [
+    2008565,
+    2,
+    "Astra Logue.webp"
+  ],
+  "hank henshaw": [
+    2404306,
+    2,
+    "Hank Henshaw.webp"
+  ],
+  "lillian luthor": [
+    101396,
+    2,
+    "Lillian Luthor.webp"
+  ],
+  "lucy lane": [
+    20381,
+    2,
+    "Lucy Lane.webp"
+  ],
+  "sam lane earth-38": [
+    0,
+    2,
+    "Sam Lane Earth-38.webp"
+  ],
+  "zod earth-38": [
+    0,
+    2,
+    "Zod Earth-38.webp"
+  ],
+  "odell": [
+    0,
+    2,
+    "Odell.webp"
+  ],
+  "andrea rojas": [
+    68769,
+    2,
+    "Andrea Rojas.webp"
+  ],
+  "ben lockwood": [
+    46362,
+    2,
+    "Ben Lockwood.webp"
+  ],
+  "chay-ara": [
+    0,
+    2,
+    "Chay-ara.webp"
+  ],
+  "martha kent": [
+    168241,
+    2,
+    "Martha Kent.webp"
+  ],
+  "jonathan kent": [
+    1719127,
+    2,
+    "Jonathan Kent.webp"
+  ],
+  "jordan kent": [
+    1393181,
+    2,
+    "Jordan Kent.webp"
+  ],
+  "lana lang": [
+    59192,
+    2,
+    "Lana Lang.webp"
+  ],
+  "john henry irons": [
+    1132104,
+    2,
+    "John Henry Irons.webp"
+  ],
+  "natalie lane irons": [
+    227841,
+    2,
+    "Natalie Lane Irons.webp"
+  ],
+  "tal-rho": [
+    144292,
+    2,
+    "Tal-rho.webp"
+  ],
+  "bruno mannheim earth-tud25": [
+    2231755,
+    2,
+    "Bruno Mannheim Earth-tud25.webp"
+  ],
+  "peia mannheim": [
+    155317,
+    2,
+    "Peia Mannheim.webp"
+  ],
+  "kyle cushing": [
+    1367619,
+    2,
+    "Kyle Cushing.webp"
+  ],
+  "mitch anderson": [
+    1727020,
+    2,
+    "Mitch Anderson.webp"
+  ],
+  "frost": [
+    31838,
+    2,
+    "Frost.webp"
+  ],
+  "helena bertinelli": [
+    1196822,
+    2,
+    "Helena Bertinelli.webp"
+  ],
+  "amanda waller": [
+    182272,
+    2,
+    "Amanda Waller.webp"
+  ],
+  "eve teschmacher": [
+    204975,
+    2,
+    "Eve Teschmacher.webp"
+  ],
+  "behrad tarazi": [
+    2637934,
+    2,
+    "Behrad Tarazi.webp"
+  ],
+  "gary green": [
+    476556,
+    2,
+    "Gary Green.webp"
+  ],
+  "mona wu": [
+    1685831,
+    2,
+    "Mona Wu.webp"
+  ],
+  "jakeem williams": [
+    1761125,
+    2,
+    "Jakeem Williams.webp"
+  ],
+  "icicle": [
+    40258,
+    2,
+    "Icicle.webp"
+  ],
+  "hourman earth-2": [
+    2231755,
+    2,
+    "Hourman Earth-2.webp"
+  ],
+  "laurel lance earth-2": [
+    55775,
+    2,
+    "Laurel Lance Earth-2.webp"
+  ],
+  "cindy simone": [
+    1938338,
+    2,
+    "Cindy Simone.webp"
+  ],
+  "chrissy beppo": [
+    1538574,
+    2,
+    "Chrissy Beppo.webp"
+  ]
+}

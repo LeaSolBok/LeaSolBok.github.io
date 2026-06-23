@@ -1,0 +1,308 @@
+{
+  "tracer": [
+    0,
+    51,
+    "Tracer.png",
+    "Tracer.png"
+  ],
+  "genji": [
+    0,
+    50,
+    "Genji.png",
+    "Genji.png"
+  ],
+  "mercy": [
+    0,
+    49,
+    "Mercy.png",
+    "Mercy.png"
+  ],
+  "d va": [
+    0,
+    48,
+    "D.Va.png",
+    "D.Va.png"
+  ],
+  "reinhardt": [
+    0,
+    47,
+    "Reinhardt.png",
+    "Reinhardt.png"
+  ],
+  "reaper": [
+    0,
+    46,
+    "Reaper.png",
+    "Reaper.png"
+  ],
+  "widowmaker": [
+    0,
+    45,
+    "Widowmaker.png",
+    "Widowmaker.png"
+  ],
+  "hanzo": [
+    0,
+    44,
+    "Hanzo.png",
+    "Hanzo.png"
+  ],
+  "winston": [
+    0,
+    43,
+    "Winston.png",
+    "Winston.png"
+  ],
+  "soldier 76": [
+    0,
+    42,
+    "Soldier_76.png",
+    "Soldier_76.png"
+  ],
+  "ana": [
+    0,
+    41,
+    "Ana.png",
+    "Ana.png"
+  ],
+  "anran": [
+    0,
+    40,
+    "Anran.png",
+    "Anran.png"
+  ],
+  "ashe": [
+    0,
+    39,
+    "Ashe.png",
+    "Ashe.png"
+  ],
+  "baptiste": [
+    0,
+    38,
+    "Baptiste.png",
+    "Baptiste.png"
+  ],
+  "bastion": [
+    0,
+    37,
+    "Bastion.png",
+    "Bastion.png"
+  ],
+  "brigitte": [
+    0,
+    36,
+    "Brigitte.png",
+    "Brigitte.png"
+  ],
+  "cassidy": [
+    0,
+    35,
+    "Cassidy.png",
+    "Cassidy.png"
+  ],
+  "domina": [
+    0,
+    34,
+    "Domina.png",
+    "Domina.png"
+  ],
+  "doomfist": [
+    0,
+    33,
+    "Doomfist.png",
+    "Doomfist.png"
+  ],
+  "echo": [
+    0,
+    32,
+    "Echo.png",
+    "Echo.png"
+  ],
+  "emre": [
+    0,
+    31,
+    "Emre.png",
+    "Emre.png"
+  ],
+  "freja": [
+    0,
+    30,
+    "Freja.png",
+    "Freja.png"
+  ],
+  "hazard": [
+    0,
+    29,
+    "Hazard.png",
+    "Hazard.png"
+  ],
+  "illari": [
+    0,
+    28,
+    "Illari.png",
+    "Illari.png"
+  ],
+  "jetpack cat": [
+    0,
+    27,
+    "Jetpack_Cat.png",
+    "Jetpack_Cat.png"
+  ],
+  "junker queen": [
+    0,
+    26,
+    "Junker_Queen.png",
+    "Junker_Queen.png"
+  ],
+  "junkrat": [
+    0,
+    25,
+    "Junkrat.png",
+    "Junkrat.png"
+  ],
+  "juno": [
+    0,
+    24,
+    "Juno.png",
+    "Juno.png"
+  ],
+  "kiriko": [
+    0,
+    23,
+    "Kiriko.png",
+    "Kiriko.png"
+  ],
+  "lifeweaver": [
+    0,
+    22,
+    "Lifeweaver.png",
+    "Lifeweaver.png"
+  ],
+  "lucio": [
+    0,
+    21,
+    "Lucio.png",
+    "Lucio.png"
+  ],
+  "mauga": [
+    0,
+    20,
+    "Mauga.png",
+    "Mauga.png"
+  ],
+  "mei": [
+    0,
+    19,
+    "Mei.png",
+    "Mei.png"
+  ],
+  "mizuki": [
+    0,
+    18,
+    "Mizuki.png",
+    "Mizuki.png"
+  ],
+  "moira": [
+    0,
+    17,
+    "Moira.png",
+    "Moira.png"
+  ],
+  "orisa": [
+    0,
+    16,
+    "Orisa.png",
+    "Orisa.png"
+  ],
+  "pharah": [
+    0,
+    15,
+    "Pharah.png",
+    "Pharah.png"
+  ],
+  "ramattra": [
+    0,
+    14,
+    "Ramattra.png",
+    "Ramattra.png"
+  ],
+  "roadhog": [
+    0,
+    13,
+    "Roadhog.png",
+    "Roadhog.png"
+  ],
+  "sierra": [
+    0,
+    12,
+    "Sierra.png",
+    "Sierra.png"
+  ],
+  "sigma": [
+    0,
+    11,
+    "Sigma.png",
+    "Sigma.png"
+  ],
+  "sojourn": [
+    0,
+    10,
+    "Sojourn.png",
+    "Sojourn.png"
+  ],
+  "sombra": [
+    0,
+    9,
+    "Sombra.png",
+    "Sombra.png"
+  ],
+  "symmetra": [
+    0,
+    8,
+    "Symmetra.png",
+    "Symmetra.png"
+  ],
+  "torbjorn": [
+    0,
+    7,
+    "Torbjorn.png",
+    "Torbjorn.png"
+  ],
+  "vendetta": [
+    0,
+    6,
+    "Vendetta.png",
+    "Vendetta.png"
+  ],
+  "venture": [
+    0,
+    5,
+    "Venture.png",
+    "Venture.png"
+  ],
+  "wrecking ball": [
+    0,
+    4,
+    "Wrecking_Ball.png",
+    "Wrecking_Ball.png"
+  ],
+  "wuyang": [
+    0,
+    3,
+    "Wuyang.png",
+    "Wuyang.png"
+  ],
+  "zarya": [
+    0,
+    2,
+    "Zarya.png",
+    "Zarya.png"
+  ],
+  "zenyatta": [
+    0,
+    1,
+    "Zenyatta.png",
+    "Zenyatta.png"
+  ]
+}

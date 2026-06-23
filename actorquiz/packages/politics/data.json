@@ -1,0 +1,762 @@
+{
+  "donald trump": [
+    33663,
+    3.411
+  ],
+  "theresa may": [
+    2134341,
+    1.3
+  ],
+  "nelson mandela": [
+    89300,
+    0.441
+  ],
+  "barack obama": [
+    102786,
+    0.376
+  ],
+  "abdel fattah el-sisi": [
+    -1,
+    0.0
+  ],
+  "abdullah ahmad badawi": [
+    -1,
+    0.0
+  ],
+  "abiy ahmed": [
+    -1,
+    0.0
+  ],
+  "abraham lincoln": [
+    -1,
+    0.0
+  ],
+  "adolfo suarez": [
+    -1,
+    0.0
+  ],
+  "al gore": [
+    -1,
+    0.0
+  ],
+  "alberto fujimori": [
+    -1,
+    0.0
+  ],
+  "alexander de croo": [
+    -1,
+    0.0
+  ],
+  "alexander lukashenko": [
+    -1,
+    0.0
+  ],
+  "alexandria ocasio-cortez": [
+    -1,
+    0.0
+  ],
+  "andrei sakharov": [
+    -1,
+    0.0
+  ],
+  "andres manuel lopez obrador": [
+    -1,
+    0.0
+  ],
+  "aneurin bevan": [
+    -1,
+    0.0
+  ],
+  "angela merkel": [
+    -1,
+    0.0
+  ],
+  "antonio costa": [
+    -1,
+    0.0
+  ],
+  "antonio salazar": [
+    -1,
+    0.0
+  ],
+  "anwar ibrahim": [
+    -1,
+    0.0
+  ],
+  "anwar sadat": [
+    -1,
+    0.0
+  ],
+  "ariel sharon": [
+    -1,
+    0.0
+  ],
+  "atal bihari vajpayee": [
+    -1,
+    0.0
+  ],
+  "aung san suu kyi": [
+    -1,
+    0.0
+  ],
+  "b. r. ambedkar": [
+    -1,
+    0.0
+  ],
+  "ban ki-moon": [
+    -1,
+    0.0
+  ],
+  "bart de wever": [
+    -1,
+    0.0
+  ],
+  "benazir bhutto": [
+    -1,
+    0.0
+  ],
+  "benigno aquino jr.": [
+    -1,
+    0.0
+  ],
+  "benjamin netanyahu": [
+    -1,
+    0.0
+  ],
+  "bernie sanders": [
+    -1,
+    0.0
+  ],
+  "bill clinton": [
+    -1,
+    0.0
+  ],
+  "bongbong marcos": [
+    -1,
+    0.0
+  ],
+  "boris johnson": [
+    -1,
+    0.0
+  ],
+  "boris yeltsin": [
+    -1,
+    0.0
+  ],
+  "cesar chavez": [
+    -1,
+    0.0
+  ],
+  "charles de gaulle": [
+    -1,
+    0.0
+  ],
+  "che guevara": [
+    -1,
+    0.0
+  ],
+  "chiang kai-shek": [
+    -1,
+    0.0
+  ],
+  "claudia sheinbaum": [
+    -1,
+    0.0
+  ],
+  "clement attlee": [
+    -1,
+    0.0
+  ],
+  "corazon aquino": [
+    -1,
+    0.0
+  ],
+  "cristina fernandez de kirchner": [
+    -1,
+    0.0
+  ],
+  "cyril ramaphosa test": [
+    -1,
+    0.0
+  ],
+  "dag hammarskjold": [
+    -1,
+    0.0
+  ],
+  "david cameron": [
+    -1,
+    0.0
+  ],
+  "deng xiaoping": [
+    -1,
+    0.0
+  ],
+  "desmond tutu": [
+    -1,
+    0.0
+  ],
+  "dilma rousseff": [
+    -1,
+    0.0
+  ],
+  "dmitry medvedev": [
+    -1,
+    0.0
+  ],
+  "eleanor roosevelt": [
+    -1,
+    0.0
+  ],
+  "elie wiesel": [
+    -1,
+    0.0
+  ],
+  "ellen johnson sirleaf": [
+    -1,
+    0.0
+  ],
+  "emmanuel macron": [
+    -1,
+    0.0
+  ],
+  "enrique pena nieto": [
+    -1,
+    0.0
+  ],
+  "eva peron": [
+    -1,
+    0.0
+  ],
+  "evo morales": [
+    -1,
+    0.0
+  ],
+  "ferdinand marcos": [
+    -1,
+    0.0
+  ],
+  "fidel castro": [
+    -1,
+    0.0
+  ],
+  "francois mitterrand": [
+    -1,
+    0.0
+  ],
+  "franjo tudman": [
+    -1,
+    0.0
+  ],
+  "franklin d. roosevelt": [
+    -1,
+    0.0
+  ],
+  "fumio kishida": [
+    -1,
+    0.0
+  ],
+  "gamal abdel nasser": [
+    -1,
+    0.0
+  ],
+  "geert wilders": [
+    -1,
+    0.0
+  ],
+  "george h. w. bush": [
+    -1,
+    0.0
+  ],
+  "george w. bush": [
+    -1,
+    0.0
+  ],
+  "george washington": [
+    -1,
+    0.0
+  ],
+  "getulio vargas": [
+    -1,
+    0.0
+  ],
+  "giorgia meloni": [
+    -1,
+    0.0
+  ],
+  "golda meir": [
+    -1,
+    0.0
+  ],
+  "harvey milk": [
+    -1,
+    0.0
+  ],
+  "helmut kohl": [
+    -1,
+    0.0
+  ],
+  "hillary clinton": [
+    -1,
+    0.0
+  ],
+  "ho chi minh": [
+    -1,
+    0.0
+  ],
+  "hosni mubarak": [
+    -1,
+    0.0
+  ],
+  "hu jintao": [
+    -1,
+    0.0
+  ],
+  "hugo chavez": [
+    -1,
+    0.0
+  ],
+  "hun sen": [
+    -1,
+    0.0
+  ],
+  "imran khan": [
+    -1,
+    0.0
+  ],
+  "indira gandhi": [
+    -1,
+    0.0
+  ],
+  "jacob zuma": [
+    -1,
+    0.0
+  ],
+  "jacques chirac": [
+    -1,
+    0.0
+  ],
+  "jagmeet singh": [
+    -1,
+    0.0
+  ],
+  "jair bolsonaro": [
+    -1,
+    0.0
+  ],
+  "javier milei": [
+    -1,
+    0.0
+  ],
+  "jawaharlal nehru": [
+    -1,
+    0.0
+  ],
+  "jiang zemin": [
+    -1,
+    0.0
+  ],
+  "jimmy carter": [
+    -1,
+    0.0
+  ],
+  "joe biden": [
+    -1,
+    0.0
+  ],
+  "john f. kennedy": [
+    -1,
+    0.0
+  ],
+  "john mccain": [
+    -1,
+    0.0
+  ],
+  "joko widodo": [
+    -1,
+    0.0
+  ],
+  "jomo kenyatta": [
+    -1,
+    0.0
+  ],
+  "jose mujica": [
+    -1,
+    0.0
+  ],
+  "josip broz tito": [
+    -1,
+    0.0
+  ],
+  "juan peron": [
+    -1,
+    0.0
+  ],
+  "julius nyerere": [
+    -1,
+    0.0
+  ],
+  "justin trudeau": [
+    -1,
+    0.0
+  ],
+  "kamala harris": [
+    -1,
+    0.0
+  ],
+  "keir starmer": [
+    -1,
+    0.0
+  ],
+  "kim il-sung": [
+    -1,
+    0.0
+  ],
+  "kim jong-il": [
+    -1,
+    0.0
+  ],
+  "kim jong-un": [
+    -1,
+    0.0
+  ],
+  "kofi annan": [
+    -1,
+    0.0
+  ],
+  "kwame nkrumah": [
+    -1,
+    0.0
+  ],
+  "lech walesa": [
+    -1,
+    0.0
+  ],
+  "lee kuan yew": [
+    -1,
+    0.0
+  ],
+  "leon trotsky": [
+    -1,
+    0.0
+  ],
+  "leopold sedar senghor": [
+    -1,
+    0.0
+  ],
+  "luiz inacio lula da silva": [
+    -1,
+    0.0
+  ],
+  "mahathir mohamad": [
+    -1,
+    0.0
+  ],
+  "mahmoud abbas": [
+    -1,
+    0.0
+  ],
+  "manmohan singh": [
+    -1,
+    0.0
+  ],
+  "marcelo rebelo de sousa": [
+    -1,
+    0.0
+  ],
+  "margaret thatcher": [
+    -1,
+    0.0
+  ],
+  "mariano rajoy": [
+    -1,
+    0.0
+  ],
+  "marine le pen": [
+    -1,
+    0.0
+  ],
+  "mario draghi": [
+    -1,
+    0.0
+  ],
+  "mark rutte": [
+    -1,
+    0.0
+  ],
+  "mary robinson": [
+    -1,
+    0.0
+  ],
+  "matteo renzi": [
+    -1,
+    0.0
+  ],
+  "menachem begin": [
+    -1,
+    0.0
+  ],
+  "mette frederiksen": [
+    -1,
+    0.0
+  ],
+  "michelle bachelet": [
+    -1,
+    0.0
+  ],
+  "mikhail gorbachev": [
+    -1,
+    0.0
+  ],
+  "mitt romney": [
+    -1,
+    0.0
+  ],
+  "moon jae-in": [
+    -1,
+    0.0
+  ],
+  "muhammad ali jinnah": [
+    -1,
+    0.0
+  ],
+  "muhammad yunus": [
+    -1,
+    0.0
+  ],
+  "muhammadu buhari": [
+    -1,
+    0.0
+  ],
+  "mustafa kemal ataturk": [
+    -1,
+    0.0
+  ],
+  "nancy pelosi": [
+    -1,
+    0.0
+  ],
+  "napoleon bonaparte": [
+    -1,
+    0.0
+  ],
+  "narendra modi": [
+    -1,
+    0.0
+  ],
+  "neville chamberlain": [
+    -1,
+    0.0
+  ],
+  "ngo dinh diem": [
+    -1,
+    0.0
+  ],
+  "nicolae ceausescu": [
+    -1,
+    0.0
+  ],
+  "nicolas maduro": [
+    -1,
+    0.0
+  ],
+  "nicolas sarkozy": [
+    -1,
+    0.0
+  ],
+  "norodom sihanouk": [
+    -1,
+    0.0
+  ],
+  "nouri al-maliki": [
+    -1,
+    0.0
+  ],
+  "olaf scholz": [
+    -1,
+    0.0
+  ],
+  "olof palme": [
+    -1,
+    0.0
+  ],
+  "otto von bismarck": [
+    -1,
+    0.0
+  ],
+  "park chung-hee": [
+    -1,
+    0.0
+  ],
+  "patrice lumumba": [
+    -1,
+    0.0
+  ],
+  "paul kagame": [
+    -1,
+    0.0
+  ],
+  "pedro sanchez": [
+    -1,
+    0.0
+  ],
+  "pierre trudeau": [
+    -1,
+    0.0
+  ],
+  "rafael correa": [
+    -1,
+    0.0
+  ],
+  "raul castro": [
+    -1,
+    0.0
+  ],
+  "recep tayyip erdogan": [
+    -1,
+    0.0
+  ],
+  "richard nixon": [
+    -1,
+    0.0
+  ],
+  "rishi sunak": [
+    -1,
+    0.0
+  ],
+  "robert f. kennedy": [
+    -1,
+    0.0
+  ],
+  "robert mugabe": [
+    -1,
+    0.0
+  ],
+  "rodrigo duterte": [
+    -1,
+    0.0
+  ],
+  "ronald reagan": [
+    -1,
+    0.0
+  ],
+  "salvador allende": [
+    -1,
+    0.0
+  ],
+  "sani abacha": [
+    -1,
+    0.0
+  ],
+  "sheikh hasina": [
+    -1,
+    0.0
+  ],
+  "sheikh mujibur rahman": [
+    -1,
+    0.0
+  ],
+  "shimon peres": [
+    -1,
+    0.0
+  ],
+  "shinzo abe": [
+    -1,
+    0.0
+  ],
+  "shirley chisholm": [
+    -1,
+    0.0
+  ],
+  "silvio berlusconi": [
+    -1,
+    0.0
+  ],
+  "stephen harper": [
+    -1,
+    0.0
+  ],
+  "suharto": [
+    -1,
+    0.0
+  ],
+  "sukarno": [
+    -1,
+    0.0
+  ],
+  "sun yat-sen": [
+    -1,
+    0.0
+  ],
+  "syngman rhee": [
+    -1,
+    0.0
+  ],
+  "thabo mbeki": [
+    -1,
+    0.0
+  ],
+  "theodore roosevelt": [
+    -1,
+    0.0
+  ],
+  "thomas jefferson": [
+    -1,
+    0.0
+  ],
+  "thomas sankara": [
+    -1,
+    0.0
+  ],
+  "tony blair": [
+    -1,
+    0.0
+  ],
+  "turgut ozal": [
+    -1,
+    0.0
+  ],
+  "vaclav havel": [
+    -1,
+    0.0
+  ],
+  "viktor orban": [
+    -1,
+    0.0
+  ],
+  "vladimir putin": [
+    -1,
+    0.0
+  ],
+  "volodymyr zelenskyy": [
+    -1,
+    0.0
+  ],
+  "wangari maathai": [
+    -1,
+    0.0
+  ],
+  "willy brandt": [
+    -1,
+    0.0
+  ],
+  "winston churchill": [
+    -1,
+    0.0
+  ],
+  "xi jinping": [
+    -1,
+    0.0
+  ],
+  "yitzhak rabin": [
+    -1,
+    0.0
+  ],
+  "yoon suk yeol": [
+    -1,
+    0.0
+  ],
+  "yukio hatoyama": [
+    -1,
+    0.0
+  ]
+}

@@ -1,0 +1,1002 @@
+[
+  {
+    "show": "The Simpsons",
+    "emojis": "🍩👨👩👦",
+    "tmdb_id": 456
+  },
+  {
+    "show": "South Park",
+    "emojis": "🧢❄️😂",
+    "tmdb_id": 2190
+  },
+  {
+    "show": "Family Guy",
+    "emojis": "🐔🍺👨",
+    "tmdb_id": 1434
+  },
+  {
+    "show": "Rick and Morty",
+    "emojis": "🧪🌌🤪",
+    "tmdb_id": 60625
+  },
+  {
+    "show": "Invincible",
+    "emojis": "🟡🩸🦸",
+    "tmdb_id": 95557
+  },
+  {
+    "show": "Bluey",
+    "emojis": "🐶💙🏡",
+    "tmdb_id": 82728
+  },
+  {
+    "show": "Peppa Pig",
+    "emojis": "🐷🌧️👢",
+    "tmdb_id": 12225
+  },
+  {
+    "show": "Paw Patrol",
+    "emojis": "🐶🚒🚓",
+    "tmdb_id": 57532
+  },
+  {
+    "show": "SpongeBob SquarePants",
+    "emojis": "🧽🍍🌊",
+    "tmdb_id": 387
+  },
+  {
+    "show": "Adventure Time",
+    "emojis": "🗡️🐶🍬",
+    "tmdb_id": 15260
+  },
+  {
+    "show": "Regular Show",
+    "emojis": "🦝🐦😂",
+    "tmdb_id": 31132
+  },
+  {
+    "show": "The Amazing World of Gumball",
+    "emojis": "🐱🌈😂",
+    "tmdb_id": 37606
+  },
+  {
+    "show": "Teen Titans Go!",
+    "emojis": "🦸🍕😂",
+    "tmdb_id": 45140
+  },
+  {
+    "show": "Ben 10",
+    "emojis": "⌚👽💥",
+    "tmdb_id": 4686
+  },
+  {
+    "show": "Danny Phantom",
+    "emojis": "👻⚡🧑",
+    "tmdb_id": 2309
+  },
+  {
+    "show": "Avatar: The Last Airbender",
+    "emojis": "🌊🔥🪨💨",
+    "tmdb_id": 246
+  },
+  {
+    "show": "The Legend of Korra",
+    "emojis": "💧🔥👊",
+    "tmdb_id": 33880
+  },
+  {
+    "show": "Naruto",
+    "emojis": "🍜🦊🥷",
+    "tmdb_id": 46260
+  },
+  {
+    "show": "Naruto: Shippuden",
+    "emojis": "🥷🔥🌀",
+    "tmdb_id": 31910
+  },
+  {
+    "show": "One Piece",
+    "emojis": "🏴‍☠️🍖🌊",
+    "tmdb_id": 37854
+  },
+  {
+    "show": "Dragon Ball Z",
+    "emojis": "🐉⚡👊",
+    "tmdb_id": 12971
+  },
+  {
+    "show": "Attack on Titan",
+    "emojis": "🧱👹⚔️",
+    "tmdb_id": 1429
+  },
+  {
+    "show": "Death Note",
+    "emojis": "📓☠️🍎",
+    "tmdb_id": 13916
+  },
+  {
+    "show": "Demon Slayer",
+    "emojis": "🗡️👹🔥",
+    "tmdb_id": 85937
+  },
+  {
+    "show": "Jujutsu Kaisen",
+    "emojis": "👹⚡🏫",
+    "tmdb_id": 95479
+  },
+  {
+    "show": "Bleach",
+    "emojis": "⚔️👻🧡",
+    "tmdb_id": 30984
+  },
+  {
+    "show": "Chainsaw Man",
+    "emojis": "🪚🩸😈",
+    "tmdb_id": 114410
+  },
+  {
+    "show": "Tokyo Ghoul",
+    "emojis": "👁️🍴🩸",
+    "tmdb_id": 61374
+  },
+  {
+    "show": "Spy x Family",
+    "emojis": "🕵️👨‍👩‍👧🐶",
+    "tmdb_id": 120089
+  },
+  {
+    "show": "Pokemon",
+    "emojis": "⚡🐭🎒",
+    "tmdb_id": 60572
+  },
+  {
+    "show": "Digimon",
+    "emojis": "📱🐲⚡",
+    "tmdb_id": 31654
+  },
+  {
+    "show": "Yu-Gi-Oh!",
+    "emojis": "🃏👁️⚔️",
+    "tmdb_id": 36406
+  },
+  {
+    "show": "Beyblade",
+    "emojis": "🌀⚔️🔥",
+    "tmdb_id": 54728
+  },
+  {
+    "show": "Sailor Moon",
+    "emojis": "🌙✨👧",
+    "tmdb_id": 3570
+  },
+  {
+    "show": "Winx Club",
+    "emojis": "🧚✨🏫",
+    "tmdb_id": 1848
+  },
+  {
+    "show": "Phineas and Ferb",
+    "emojis": "🔧☀️🦆",
+    "tmdb_id": 1877
+  },
+  {
+    "show": "Gravity Falls",
+    "emojis": "🌲👁️📓",
+    "tmdb_id": 40075
+  },
+  {
+    "show": "DuckTales",
+    "emojis": "🦆💰🌍",
+    "tmdb_id": 72350
+  },
+  {
+    "show": "The Fairly OddParents",
+    "emojis": "🪄👦🧚",
+    "tmdb_id": 4630
+  },
+  {
+    "show": "Jimmy Neutron",
+    "emojis": "🧠🚀👦",
+    "tmdb_id": 2129
+  },
+  {
+    "show": "Johnny Bravo",
+    "emojis": "💪🕶️😎",
+    "tmdb_id": 2405
+  },
+  {
+    "show": "Courage the Cowardly Dog",
+    "emojis": "🐶👻😱",
+    "tmdb_id": 2085
+  },
+  {
+    "show": "Ed, Edd n Eddy",
+    "emojis": "🪙🍬😂",
+    "tmdb_id": 606
+  },
+  {
+    "show": "Dexter's Laboratory",
+    "emojis": "🧪👦🔬",
+    "tmdb_id": 4229
+  },
+  {
+    "show": "Samurai Jack",
+    "emojis": "⚔️⏳🥷",
+    "tmdb_id": 2723
+  },
+  {
+    "show": "The Powerpuff Girls",
+    "emojis": "🩷💙💚💥",
+    "tmdb_id": 607
+  },
+  {
+    "show": "Futurama",
+    "emojis": "🚀🍕🤖",
+    "tmdb_id": 615
+  },
+  {
+    "show": "BoJack Horseman",
+    "emojis": "🐴🍺📺",
+    "tmdb_id": 61222
+  },
+  {
+    "show": "Archer",
+    "emojis": "🕵️🍸🔫",
+    "tmdb_id": 10283
+  },
+  {
+    "show": "Bob's Burgers",
+    "emojis": "🍔👨‍🍳👨‍👩‍👧",
+    "tmdb_id": 32726
+  },
+  {
+    "show": "King of the Hill",
+    "emojis": "🍺🏡🔥",
+    "tmdb_id": 2122
+  },
+  {
+    "show": "American Dad!",
+    "emojis": "🇺🇸👽👨",
+    "tmdb_id": 1433
+  },
+  {
+    "show": "Sesame Street",
+    "emojis": "🍪🟡📚",
+    "tmdb_id": 502
+  },
+  {
+    "show": "Barney & Friends",
+    "emojis": "🦖💜🎶",
+    "tmdb_id": 4887
+  },
+  {
+    "show": "Teletubbies",
+    "emojis": "🌈📺👶",
+    "tmdb_id": 1682
+  },
+  {
+    "show": "Thomas & Friends",
+    "emojis": "🚂😊🛤️",
+    "tmdb_id": 2304
+  },
+  {
+    "show": "The Wiggles",
+    "emojis": "🎶🟥🟨🟦",
+    "tmdb_id": 34921
+  },
+  {
+    "show": "Arthur",
+    "emojis": "🐜📚👓",
+    "tmdb_id": 2153
+  },
+  {
+    "show": "Caillou",
+    "emojis": "👦🟡🧸",
+    "tmdb_id": 3218
+  },
+  {
+    "show": "Blue's Clues",
+    "emojis": "🐶🔍📝",
+    "tmdb_id": 10821
+  },
+  {
+    "show": "Dora the Explorer",
+    "emojis": "🎒🗺️🦊",
+    "tmdb_id": 79
+  },
+  {
+    "show": "My Hero Academia",
+    "emojis": "🦸🏫💥",
+    "tmdb_id": 65930
+  },
+  {
+    "show": "Cowboy Bebop",
+    "emojis": "🚀🎷🔫",
+    "tmdb_id": 30991
+  },
+  {
+    "show": "Neon Genesis Evangelion",
+    "emojis": "🤖🧠✝️",
+    "tmdb_id": 890
+  },
+  {
+    "show": "Fullmetal Alchemist: Brotherhood",
+    "emojis": "⚗️🤖🔥",
+    "tmdb_id": 31911
+  },
+  {
+    "show": "Hunter x Hunter",
+    "emojis": "🎣⚡🃏",
+    "tmdb_id": 46298
+  },
+  {
+    "show": "Haikyuu!!",
+    "emojis": "🏐🔥🦅",
+    "tmdb_id": 60863
+  },
+  {
+    "show": "Mob Psycho 100",
+    "emojis": "🌀🧠👻",
+    "tmdb_id": 67075
+  },
+  {
+    "show": "One Punch Man",
+    "emojis": "👊🦲💥",
+    "tmdb_id": 63926
+  },
+  {
+    "show": "Black Clover",
+    "emojis": "🍀⚔️📖",
+    "tmdb_id": 73223
+  },
+  {
+    "show": "Fairy Tail",
+    "emojis": "🧚🔥🐱",
+    "tmdb_id": 46261
+  },
+  {
+    "show": "JoJo's Bizarre Adventure",
+    "emojis": "💪⭐🕺",
+    "tmdb_id": 45790
+  },
+  {
+    "show": "Code Geass",
+    "emojis": "👁️♟️🤖",
+    "tmdb_id": 31724
+  },
+  {
+    "show": "Steins;Gate",
+    "emojis": "⏱️🍌🧪",
+    "tmdb_id": 42509
+  },
+  {
+    "show": "Sword Art Online",
+    "emojis": "⚔️🎮💙",
+    "tmdb_id": 45782
+  },
+  {
+    "show": "Dr. Stone",
+    "emojis": "🧪🪨🌍",
+    "tmdb_id": 86031
+  },
+  {
+    "show": "Boruto: Naruto Next Generations",
+    "emojis": "🥷⚡🍥",
+    "tmdb_id": 70881
+  },
+  {
+    "show": "Dragon Ball Super",
+    "emojis": "🐉✨👊",
+    "tmdb_id": 62715
+  },
+  {
+    "show": "Dragon Ball",
+    "emojis": "🐉☁️👊",
+    "tmdb_id": 12609
+  },
+  {
+    "show": "Inuyasha",
+    "emojis": "🐕⚔️🌙",
+    "tmdb_id": 35610
+  },
+  {
+    "show": "Rurouni Kenshin",
+    "emojis": "⚔️🌸🧣",
+    "tmdb_id": 210879
+  },
+  {
+    "show": "Trigun",
+    "emojis": "🔫🌵😎",
+    "tmdb_id": 26453
+  },
+  {
+    "show": "Yu Yu Hakusho",
+    "emojis": "👻🥊🔥",
+    "tmdb_id": 30669
+  },
+  {
+    "show": "Fruits Basket",
+    "emojis": "🐱🍙💞",
+    "tmdb_id": 85991
+  },
+  {
+    "show": "Ouran High School Host Club",
+    "emojis": "🌹🏫💖",
+    "tmdb_id": 1043
+  },
+  {
+    "show": "Kaguya-sama: Love Is War",
+    "emojis": "💘♟️🏫",
+    "tmdb_id": 83121
+  },
+  {
+    "show": "Toradora!",
+    "emojis": "🐯💘🏫",
+    "tmdb_id": 42916
+  },
+  {
+    "show": "Clannad",
+    "emojis": "🌸🎻😭",
+    "tmdb_id": 24835
+  },
+  {
+    "show": "Violet Evergarden",
+    "emojis": "✉️🌸🤖",
+    "tmdb_id": 75214
+  },
+  {
+    "show": "Your Lie in April",
+    "emojis": "🎹🎻🌸",
+    "tmdb_id": 61663
+  },
+  {
+    "show": "Made in Abyss",
+    "emojis": "🕳️🧭🌟",
+    "tmdb_id": 72636
+  },
+  {
+    "show": "Vinland Saga",
+    "emojis": "⚔️🚢❄️",
+    "tmdb_id": 88803
+  },
+  {
+    "show": "Berserk",
+    "emojis": "⚔️🩸🌑",
+    "tmdb_id": 35935
+  },
+  {
+    "show": "Monster",
+    "emojis": "🧠🔪🏥",
+    "tmdb_id": 30981
+  },
+  {
+    "show": "Psycho-Pass",
+    "emojis": "🔫⚖️🤖",
+    "tmdb_id": 43865
+  },
+  {
+    "show": "Parasyte",
+    "emojis": "👽🖐️🩸",
+    "tmdb_id": 61459
+  },
+  {
+    "show": "Erased",
+    "emojis": "⏳❄️🔍",
+    "tmdb_id": 65249
+  },
+  {
+    "show": "Tokyo Revengers",
+    "emojis": "🏍️⏳👊",
+    "tmdb_id": 105009
+  },
+  {
+    "show": "Fire Force",
+    "emojis": "🔥🚒👁️",
+    "tmdb_id": 88046
+  },
+  {
+    "show": "Food Wars!",
+    "emojis": "🍳🔥😋",
+    "tmdb_id": 32354
+  },
+  {
+    "show": "Assassination Classroom",
+    "emojis": "🎯🏫🐙",
+    "tmdb_id": 62110
+  },
+  {
+    "show": "The Promised Neverland",
+    "emojis": "🏠👧😱",
+    "tmdb_id": 83097
+  },
+  {
+    "show": "Black Butler",
+    "emojis": "🖤🍽️😈",
+    "tmdb_id": 50712
+  },
+  {
+    "show": "Blue Lock",
+    "emojis": "⚽🔒🔥",
+    "tmdb_id": 131041
+  },
+  {
+    "show": "Solo Leveling",
+    "emojis": "🗡️📈👑",
+    "tmdb_id": 127532
+  },
+  {
+    "show": "Frieren: Beyond Journey's End",
+    "emojis": "🧝⏳🌸",
+    "tmdb_id": 209867
+  },
+  {
+    "show": "Bungo Stray Dogs",
+    "emojis": "📚🐅🕵️",
+    "tmdb_id": 65931
+  },
+  {
+    "show": "Noragami",
+    "emojis": "⛩️⚔️👻",
+    "tmdb_id": 64710
+  },
+  {
+    "show": "Akame ga Kill!",
+    "emojis": "⚔️🩸🌙",
+    "tmdb_id": 61223
+  },
+  {
+    "show": "Hellsing",
+    "emojis": "🧛🔫🩸",
+    "tmdb_id": 16830
+  },
+  {
+    "show": "Devilman Crybaby",
+    "emojis": "😈😭🔥",
+    "tmdb_id": 75208
+  },
+  {
+    "show": "Castlevania",
+    "emojis": "🧛🏰⚔️",
+    "tmdb_id": 71024
+  },
+  {
+    "show": "Arcane",
+    "emojis": "💎⚙️🥊",
+    "tmdb_id": 94605
+  },
+  {
+    "show": "X-Men '97",
+    "emojis": "❌🧬⚡",
+    "tmdb_id": 138502
+  },
+  {
+    "show": "Batman: The Animated Series",
+    "emojis": "🦇🌃🃏",
+    "tmdb_id": 2098
+  },
+  {
+    "show": "Superman: The Animated Series",
+    "emojis": "🦸🌆☀️",
+    "tmdb_id": 4303
+  },
+  {
+    "show": "Justice League",
+    "emojis": "🦸⚖️🌍",
+    "tmdb_id": 1618
+  },
+  {
+    "show": "Justice League Unlimited",
+    "emojis": "🦸🌌⚖️",
+    "tmdb_id": 84200
+  },
+  {
+    "show": "Young Justice",
+    "emojis": "🦸🕵️⚡",
+    "tmdb_id": 33217
+  },
+  {
+    "show": "Teen Titans",
+    "emojis": "🦸🍕🌃",
+    "tmdb_id": 604
+  },
+  {
+    "show": "Batman Beyond",
+    "emojis": "🦇🚀🌃",
+    "tmdb_id": 513
+  },
+  {
+    "show": "Harley Quinn",
+    "emojis": "♦️🔨😂",
+    "tmdb_id": 74440
+  },
+  {
+    "show": "Star Wars: The Clone Wars",
+    "emojis": "⚔️🌌🤖",
+    "tmdb_id": 4194
+  },
+  {
+    "show": "Star Wars Rebels",
+    "emojis": "🚀⚔️🔥",
+    "tmdb_id": 60554
+  },
+  {
+    "show": "Star Wars: The Bad Batch",
+    "emojis": "🧬🪖🌌",
+    "tmdb_id": 105971
+  },
+  {
+    "show": "The Dragon Prince",
+    "emojis": "🐉👑✨",
+    "tmdb_id": 81046
+  },
+  {
+    "show": "She-Ra and the Princesses of Power",
+    "emojis": "🌈⚔️👑",
+    "tmdb_id": 79732
+  },
+  {
+    "show": "Voltron: Legendary Defender",
+    "emojis": "🦁🤖🌌",
+    "tmdb_id": 66558
+  },
+  {
+    "show": "Trollhunters",
+    "emojis": "🗡️🧌🌉",
+    "tmdb_id": 68267
+  },
+  {
+    "show": "Kipo and the Age of Wonderbeasts",
+    "emojis": "🎸🐺🌈",
+    "tmdb_id": 95599
+  },
+  {
+    "show": "Hilda",
+    "emojis": "🦌🌲✨",
+    "tmdb_id": 82456
+  },
+  {
+    "show": "Over the Garden Wall",
+    "emojis": "🍂🐸🌙",
+    "tmdb_id": 61617
+  },
+  {
+    "show": "Steven Universe",
+    "emojis": "💎🌟❤️",
+    "tmdb_id": 61175
+  },
+  {
+    "show": "Adventure Time: Distant Lands",
+    "emojis": "🗡️🌌🍬",
+    "tmdb_id": 94810
+  },
+  {
+    "show": "Fionna and Cake",
+    "emojis": "🐱⚔️🌌",
+    "tmdb_id": 131378
+  },
+  {
+    "show": "Amphibia",
+    "emojis": "🐸🌿🗡️",
+    "tmdb_id": 85349
+  },
+  {
+    "show": "The Owl House",
+    "emojis": "🦉🪄🏠",
+    "tmdb_id": 92685
+  },
+  {
+    "show": "Star vs. the Forces of Evil",
+    "emojis": "⭐🪄🦄",
+    "tmdb_id": 61923
+  },
+  {
+    "show": "Kim Possible",
+    "emojis": "📟🕵️💚",
+    "tmdb_id": 2345
+  },
+  {
+    "show": "Lilo & Stitch: The Series",
+    "emojis": "👽🌺🏄",
+    "tmdb_id": 2355
+  },
+  {
+    "show": "Recess",
+    "emojis": "🏫⚽😂",
+    "tmdb_id": 1546
+  },
+  {
+    "show": "Doug",
+    "emojis": "👦✏️🎒",
+    "tmdb_id": 384
+  },
+  {
+    "show": "Rugrats",
+    "emojis": "👶🍼🧸",
+    "tmdb_id": 3022
+  },
+  {
+    "show": "Hey Arnold!",
+    "emojis": "🏈🏙️👦",
+    "tmdb_id": 537
+  },
+  {
+    "show": "Rocko's Modern Life",
+    "emojis": "🦘📺😂",
+    "tmdb_id": 657
+  },
+  {
+    "show": "The Ren & Stimpy Show",
+    "emojis": "🐶🐱🤪",
+    "tmdb_id": 504
+  },
+  {
+    "show": "Aaahh!!! Real Monsters",
+    "emojis": "👹🏫😱",
+    "tmdb_id": 2429
+  },
+  {
+    "show": "CatDog",
+    "emojis": "🐱🐶🔁",
+    "tmdb_id": 1567
+  },
+  {
+    "show": "Rocket Power",
+    "emojis": "🛹🌊🔥",
+    "tmdb_id": 2009
+  },
+  {
+    "show": "As Told by Ginger",
+    "emojis": "👧📓🏫",
+    "tmdb_id": 1760
+  },
+  {
+    "show": "The Wild Thornberrys",
+    "emojis": "🌍🐒🎥",
+    "tmdb_id": 2408
+  },
+  {
+    "show": "Invader Zim",
+    "emojis": "👽🛸💚",
+    "tmdb_id": 3793
+  },
+  {
+    "show": "ChalkZone",
+    "emojis": "🖍️🌈🧒",
+    "tmdb_id": 4413
+  },
+  {
+    "show": "The Loud House",
+    "emojis": "🏠👨‍👩‍👧‍👦📣",
+    "tmdb_id": 68073
+  },
+  {
+    "show": "Big City Greens",
+    "emojis": "🌽🏙️😂",
+    "tmdb_id": 80587
+  },
+  {
+    "show": "Craig of the Creek",
+    "emojis": "🌲🗺️👑",
+    "tmdb_id": 79061
+  },
+  {
+    "show": "We Bare Bears",
+    "emojis": "🐻🐼🐻‍❄️",
+    "tmdb_id": 63401
+  },
+  {
+    "show": "Clarence",
+    "emojis": "👦🌳😂",
+    "tmdb_id": 50035
+  },
+  {
+    "show": "Uncle Grandpa",
+    "emojis": "👴🚐🌈",
+    "tmdb_id": 47035
+  },
+  {
+    "show": "Chowder",
+    "emojis": "🍲👨‍🍳😂",
+    "tmdb_id": 9907
+  },
+  {
+    "show": "The Marvelous Misadventures of Flapjack",
+    "emojis": "⚓🍬🌊",
+    "tmdb_id": 6673
+  },
+  {
+    "show": "Camp Lazlo",
+    "emojis": "🏕️🐒🔥",
+    "tmdb_id": 557
+  },
+  {
+    "show": "Foster's Home for Imaginary Friends",
+    "emojis": "🏠👻🌈",
+    "tmdb_id": 1720
+  },
+  {
+    "show": "Codename: Kids Next Door",
+    "emojis": "🕶️🏠🚀",
+    "tmdb_id": 2660
+  },
+  {
+    "show": "Mucha Lucha",
+    "emojis": "🤼‍♂️🎭🔥",
+    "tmdb_id": 288
+  },
+  {
+    "show": "Static Shock",
+    "emojis": "⚡🦸🏙️",
+    "tmdb_id": 1487
+  },
+  {
+    "show": "Gargoyles",
+    "emojis": "🗿🌃🦇",
+    "tmdb_id": 1719
+  },
+  {
+    "show": "Darkwing Duck",
+    "emojis": "🦆🦸🌙",
+    "tmdb_id": 3319
+  },
+  {
+    "show": "TaleSpin",
+    "emojis": "🐻✈️🌴",
+    "tmdb_id": 2720
+  },
+  {
+    "show": "Chip 'n Dale: Rescue Rangers",
+    "emojis": "🐿️🔍✈️",
+    "tmdb_id": 1615
+  },
+  {
+    "show": "Goof Troop",
+    "emojis": "🐶🏡😂",
+    "tmdb_id": 2235
+  },
+  {
+    "show": "Bonkers",
+    "emojis": "🚓🐱😂",
+    "tmdb_id": 6616
+  },
+  {
+    "show": "The New Adventures of Winnie the Pooh",
+    "emojis": "🍯🐻🌳",
+    "tmdb_id": 2005
+  },
+  {
+    "show": "Muppet Babies",
+    "emojis": "🐸👶🎭",
+    "tmdb_id": 565
+  },
+  {
+    "show": "Inspector Gadget",
+    "emojis": "🕵️🤖🧥",
+    "tmdb_id": 4035
+  },
+  {
+    "show": "He-Man and the Masters of the Universe",
+    "emojis": "⚔️💪🏰",
+    "tmdb_id": 931
+  },
+  {
+    "show": "ThunderCats",
+    "emojis": "🐱⚔️⚡",
+    "tmdb_id": 1988
+  },
+  {
+    "show": "G.I. Joe: A Real American Hero",
+    "emojis": "🪖🇺🇸💥",
+    "tmdb_id": 29200
+  },
+  {
+    "show": "Transformers",
+    "emojis": "🤖🚗⚔️",
+    "tmdb_id": 4269
+  },
+  {
+    "show": "Teenage Mutant Ninja Turtles",
+    "emojis": "🐢🥷🍕",
+    "tmdb_id": 51817
+  },
+  {
+    "show": "The Smurfs",
+    "emojis": "💙🍄🧙",
+    "tmdb_id": 5687
+  },
+  {
+    "show": "Garfield and Friends",
+    "emojis": "🐱🍝😴",
+    "tmdb_id": 4606
+  },
+  {
+    "show": "Animaniacs",
+    "emojis": "🎬🐶🐱",
+    "tmdb_id": 82
+  },
+  {
+    "show": "Pinky and the Brain",
+    "emojis": "🐭🧠🌍",
+    "tmdb_id": 2228
+  },
+  {
+    "show": "Tiny Toon Adventures",
+    "emojis": "🐰🎬😂",
+    "tmdb_id": 1830
+  },
+  {
+    "show": "The Jetsons",
+    "emojis": "🚀🏠🤖",
+    "tmdb_id": 2362
+  },
+  {
+    "show": "The Flintstones",
+    "emojis": "🦴🏠🦕",
+    "tmdb_id": 1996
+  },
+  {
+    "show": "Scooby-Doo, Where Are You!",
+    "emojis": "🐶🔍👻",
+    "tmdb_id": 926
+  },
+  {
+    "show": "Tom and Jerry",
+    "emojis": "🐱🐭💥",
+    "tmdb_id": 217288
+  },
+  {
+    "show": "Looney Tunes",
+    "emojis": "🐰🥕💥",
+    "tmdb_id": 320602
+  },
+  {
+    "show": "Mickey Mouse Clubhouse",
+    "emojis": "🐭🏠✨",
+    "tmdb_id": 3934
+  },
+  {
+    "show": "Doc McStuffins",
+    "emojis": "🧸🩺💜",
+    "tmdb_id": 46262
+  },
+  {
+    "show": "Sofia the First",
+    "emojis": "👑✨🏰",
+    "tmdb_id": 46928
+  },
+  {
+    "show": "Elena of Avalor",
+    "emojis": "👑🎸✨",
+    "tmdb_id": 67175
+  },
+  {
+    "show": "PJ Masks",
+    "emojis": "🌙🦸🐱",
+    "tmdb_id": 65417
+  },
+  {
+    "show": "Octonauts",
+    "emojis": "🐙🌊🚢",
+    "tmdb_id": 37472
+  },
+  {
+    "show": "Shaun the Sheep",
+    "emojis": "🐑🚜😂",
+    "tmdb_id": 3902
+  },
+  {
+    "show": "Masha and the Bear",
+    "emojis": "👧🐻🌲",
+    "tmdb_id": 46080
+  },
+  {
+    "show": "Miraculous: Tales of Ladybug & Cat Noir",
+    "emojis": "🐞🐱🗼",
+    "tmdb_id": 65334
+  },
+  {
+    "show": "Totally Spies!",
+    "emojis": "🕵️‍♀️💄🌍",
+    "tmdb_id": 2808
+  }
+]
