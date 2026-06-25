@@ -1,0 +1,772 @@
+{
+  "50 cent": [
+    62644,
+    1.3281,
+    "50_Cent.jpeg"
+  ],
+  "adam driver": [
+    1023139,
+    2.2695,
+    "Adam_Driver.jpeg"
+  ],
+  "addison rae": [
+    2773990,
+    1.633,
+    "Addison_Rae.jpeg"
+  ],
+  "adele": [
+    449538,
+    1.252,
+    "Adele.jpeg"
+  ],
+  "adrien brody": [
+    3490,
+    40.572,
+    "Adrien_Brody.jpeg"
+  ],
+  "al pacino": [
+    1158,
+    65.893,
+    "Al_Pacino.jpeg"
+  ],
+  "alia bhatt": [
+    1108120,
+    1.823,
+    "Alia_Bhatt.jpeg"
+  ],
+  "amy adams": [
+    9273,
+    41.697,
+    "Amy_Adams.jpeg"
+  ],
+  "angelina jolie": [
+    11701,
+    58.416,
+    "Angelina_Jolie.jpeg"
+  ],
+  "anne hathaway": [
+    1813,
+    72.569,
+    "Anne_Hathaway.jpeg"
+  ],
+  "anthony mackie": [
+    53650,
+    39.308,
+    "Anthony_Mackie.jpeg"
+  ],
+  "antonio banderas": [
+    3131,
+    43.581,
+    "Antonio_Banderas.jpeg"
+  ],
+  "anya taylor joy": [
+    1397778,
+    52.496,
+    "Anya_Taylor_Joy.jpeg"
+  ],
+  "arnold schwarzenegger": [
+    1100,
+    37.426,
+    "Arnold_Schwarzenegger.jpeg"
+  ],
+  "ben affleck": [
+    880,
+    66.087,
+    "Ben_Affleck.jpeg"
+  ],
+  "benedict cumberbatch": [
+    71580,
+    3.85,
+    "Benedict_Cumberbatch.jpeg"
+  ],
+  "benedict wong": [
+    30082,
+    3.33,
+    "Benedict_Wong.jpeg"
+  ],
+  "bill murray": [
+    1532,
+    39.512,
+    "Bill_Murray.jpeg"
+  ],
+  "brad pitt": [
+    287,
+    58.568,
+    "Brad_Pitt.jpeg"
+  ],
+  "bradley cooper": [
+    51329,
+    2.02,
+    "Bradley_Cooper.jpeg"
+  ],
+  "bruno mars": [
+    969218,
+    0.9473,
+    "Bruno_Mars.jpeg"
+  ],
+  "cardi b": [
+    1562344,
+    1.569,
+    "Cardi_B.jpeg"
+  ],
+  "carrie fisher": [
+    4,
+    1.632,
+    "Carrie_Fisher.jpeg"
+  ],
+  "cate blanchett": [
+    112,
+    33.342,
+    "Cate_Blanchett.jpeg"
+  ],
+  "charlize theron": [
+    6885,
+    48.3,
+    "Charlize_Theron.jpeg"
+  ],
+  "chris hemsworth": [
+    74568,
+    2.5,
+    "Chris_Hemsworth.jpeg"
+  ],
+  "chris pratt": [
+    73457,
+    3.21,
+    "Chris_Pratt.jpeg"
+  ],
+  "christian bale": [
+    3894,
+    40.922,
+    "Christian_Bale.jpeg"
+  ],
+  "cillian murphy": [
+    2037,
+    71.121,
+    "Cillian_Murphy.jpeg"
+  ],
+  "colin farrell": [
+    72466,
+    3.8,
+    "Colin_Farrell.jpeg"
+  ],
+  "conan o brien": [
+    81200,
+    1.7186,
+    "Conan_O_Brien.jpeg"
+  ],
+  "courteney cox": [
+    14405,
+    34.1,
+    "Courteney_Cox.jpeg"
+  ],
+  "daisy ridley": [
+    1315036,
+    25.842,
+    "Daisy_Ridley.jpeg"
+  ],
+  "daniel craig": [
+    8784,
+    49.767,
+    "Daniel_Craig.jpeg"
+  ],
+  "daniel kaluuya": [
+    206919,
+    1.44,
+    "Daniel_Kaluuya.jpeg"
+  ],
+  "dave bautista": [
+    543530,
+    2.68,
+    "Dave_Bautista.jpeg"
+  ],
+  "deepika padukone": [
+    53975,
+    2.585,
+    "Deepika_Padukone.jpeg"
+  ],
+  "dev patel": [
+    76788,
+    1.4854,
+    "Dev_Patel.jpeg"
+  ],
+  "don cheadle": [
+    1896,
+    24.827,
+    "Don_Cheadle.jpeg"
+  ],
+  "donnie yen": [
+    1341,
+    4.393,
+    "Donnie_Yen.jpeg"
+  ],
+  "dwayne johnson": [
+    18918,
+    49.259,
+    "Dwayne_Johnson.jpeg"
+  ],
+  "eddie murphy": [
+    1414933,
+    40.728,
+    "Eddie_Murphy.jpeg"
+  ],
+  "elizabeth olsen": [
+    550843,
+    40.678,
+    "Elizabeth_Olsen.jpeg"
+  ],
+  "emily blunt": [
+    5081,
+    71.054,
+    "Emily_Blunt.jpeg"
+  ],
+  "eminem": [
+    325,
+    19.811,
+    "Eminem.jpeg"
+  ],
+  "emma stone": [
+    54693,
+    127.016,
+    "Emma_Stone.jpeg"
+  ],
+  "eva green": [
+    10912,
+    62.417,
+    "Eva_Green.jpeg"
+  ],
+  "florence pugh": [
+    1373737,
+    122.101,
+    "Florence_Pugh.jpeg"
+  ],
+  "gal gadot": [
+    90633,
+    36.475,
+    "Gal_Gadot.jpeg"
+  ],
+  "gary oldman": [
+    64,
+    189.279,
+    "Gary_Oldman.jpeg"
+  ],
+  "george clooney": [
+    1461,
+    51.319,
+    "George_Clooney.jpeg"
+  ],
+  "gigi hadid": [
+    1305687,
+    0.853,
+    "Gigi_Hadid.jpeg"
+  ],
+  "hailey bieber": [
+    1742091,
+    0.755,
+    "Hailey_Bieber.jpeg"
+  ],
+  "harvey keitel": [
+    1037,
+    23.675,
+    "Harvey_Keitel.jpeg"
+  ],
+  "helena bonham carter": [
+    1283,
+    3.898,
+    "Helena_Bonham_Carter.jpeg"
+  ],
+  "henry cavill": [
+    73968,
+    8.2643,
+    "Henry_Cavill.jpeg"
+  ],
+  "hrithik roshan": [
+    78749,
+    2.3451,
+    "Hrithik_Roshan.jpeg"
+  ],
+  "hugh jackman": [
+    6968,
+    42.588,
+    "Hugh_Jackman.jpeg"
+  ],
+  "ice cube": [
+    9778,
+    3.218,
+    "Ice_Cube.jpeg"
+  ],
+  "idris elba": [
+    17605,
+    46.929,
+    "Idris_Elba.jpeg"
+  ],
+  "jack nicholson": [
+    514,
+    37.385,
+    "Jack_Nicholson.jpeg"
+  ],
+  "jackie chan": [
+    18897,
+    82.984,
+    "Jackie_Chan.jpeg"
+  ],
+  "jake gyllenhaal": [
+    131,
+    167.639,
+    "Jake_Gyllenhaal.jpeg"
+  ],
+  "jason momoa": [
+    117642,
+    77.724,
+    "Jason_Momoa.jpeg"
+  ],
+  "jason statham": [
+    976,
+    155.524,
+    "Jason_Statham.jpeg"
+  ],
+  "javier bardem": [
+    3810,
+    48.265,
+    "Javier_Bardem.jpeg"
+  ],
+  "jean reno": [
+    1003,
+    59.426,
+    "Jean_Reno.jpeg"
+  ],
+  "jennifer aniston": [
+    4491,
+    2.57,
+    "Jennifer_Aniston.jpeg"
+  ],
+  "jennifer lawrence": [
+    72129,
+    3.88,
+    "Jennifer_Lawrence.jpeg"
+  ],
+  "jennifer lopez": [
+    16866,
+    49.595,
+    "Jennifer_Lopez.jpeg"
+  ],
+  "jeremy renner": [
+    17604,
+    43.37,
+    "Jeremy_Renner.jpeg"
+  ],
+  "jessica chastain": [
+    83002,
+    3.716,
+    "Jessica_Chastain.jpeg"
+  ],
+  "jet li": [
+    2031862,
+    40.36,
+    "Jet_Li.jpeg"
+  ],
+  "jim carrey": [
+    206,
+    44.96,
+    "Jim_Carrey.jpeg"
+  ],
+  "joaquin phoenix": [
+    73421,
+    3.2999,
+    "Joaquin_Phoenix.jpeg"
+  ],
+  "joe pesci": [
+    4517,
+    31.08,
+    "Joe_Pesci.jpeg"
+  ],
+  "johnny depp": [
+    85,
+    77.72,
+    "Johnny_Depp.jpeg"
+  ],
+  "jonah hill": [
+    21007,
+    2.19,
+    "Jonah_Hill.jpeg"
+  ],
+  "joseph gordon levitt": [
+    24045,
+    37.773,
+    "Joseph_Gordon_Levitt.jpeg"
+  ],
+  "julia roberts": [
+    1204,
+    39.38,
+    "Julia_Roberts.jpeg"
+  ],
+  "kai cenat": [
+    4230854,
+    0.5063,
+    "Kai_Cenat.jpeg"
+  ],
+  "kanye west": [
+    4720,
+    1.1568,
+    "Kanye_West.jpeg"
+  ],
+  "kareena kapoor khan": [
+    37233,
+    2.0546,
+    "Kareena_Kapoor_Khan.jpeg"
+  ],
+  "karen gillan": [
+    543261,
+    45.75,
+    "Karen_Gillan.jpeg"
+  ],
+  "keanu reeves": [
+    6384,
+    134.894,
+    "Keanu_Reeves.jpeg"
+  ],
+  "kendrick lamar": [
+    1008292,
+    0.8548,
+    "Kendrick_Lamar.jpeg"
+  ],
+  "kevin hart": [
+    55638,
+    54.297,
+    "Kevin_Hart.jpeg"
+  ],
+  "kris jenner": [
+    1234688,
+    1.295,
+    "Kris_Jenner.jpeg"
+  ],
+  "lady gaga": [
+    237405,
+    3.221,
+    "Lady_Gaga.jpeg"
+  ],
+  "lakeith stanfield": [
+    1200864,
+    2.253,
+    "Lakeith_Stanfield.jpeg"
+  ],
+  "lea seydoux": [
+    121529,
+    1.7,
+    "Lea_Seydoux.jpeg"
+  ],
+  "leonardo dicaprio": [
+    6193,
+    58.115,
+    "Leonardo_DiCaprio.jpeg"
+  ],
+  "lisa kudrow": [
+    14406,
+    40.128,
+    "Lisa_Kudrow.jpeg"
+  ],
+  "mads mikkelsen": [
+    1019,
+    59.298,
+    "Mads_Mikkelsen.jpeg"
+  ],
+  "maggie smith": [
+    1288647,
+    20.388,
+    "Maggie_Smith.jpeg"
+  ],
+  "margot robbie": [
+    234352,
+    95.685,
+    "Margot_Robbie.jpeg"
+  ],
+  "mark ruffalo": [
+    103,
+    54.559,
+    "Mark_Ruffalo.jpeg"
+  ],
+  "martin freeman": [
+    7060,
+    2.2,
+    "Martin_Freeman.jpeg"
+  ],
+  "matt damon": [
+    1892,
+    67.243,
+    "Matt_Damon.jpeg"
+  ],
+  "matt leblanc": [
+    14407,
+    14.093,
+    "Matt_LeBlanc.jpeg"
+  ],
+  "matthew mcconaughey": [
+    10297,
+    4.649,
+    "Matthew_McConaughey.jpeg"
+  ],
+  "matthew perry": [
+    2579038,
+    26.617,
+    "Matthew_Perry.jpeg"
+  ],
+  "megan thee stallion": [
+    2396830,
+    0.6523,
+    "Megan_Thee_Stallion.jpeg"
+  ],
+  "mel gibson": [
+    2461,
+    60.308,
+    "Mel_Gibson.jpeg"
+  ],
+  "meryl streep": [
+    5064,
+    37.876,
+    "Meryl_Streep.jpeg"
+  ],
+  "michael b jordan": [
+    135651,
+    29.705,
+    "Michael_B_Jordan.jpeg"
+  ],
+  "michelle yeoh": [
+    1620,
+    3.7,
+    "Michelle_Yeoh.jpeg"
+  ],
+  "morgan freeman": [
+    192,
+    75.393,
+    "Morgan_Freeman.jpeg"
+  ],
+  "mrbeast": [
+    2282154,
+    0.73,
+    "MrBeast.jpeg"
+  ],
+  "natalie portman": [
+    524,
+    3.81,
+    "Natalie_Portman.jpeg"
+  ],
+  "nicolas cage": [
+    2963,
+    82.288,
+    "Nicolas_Cage.jpeg"
+  ],
+  "nicole kidman": [
+    2227,
+    80.279,
+    "Nicole_Kidman.jpeg"
+  ],
+  "omar sy": [
+    78423,
+    2.0585,
+    "Omar_Sy.jpeg"
+  ],
+  "paul bettany": [
+    6162,
+    3.7,
+    "Paul_Bettany.jpeg"
+  ],
+  "paul mescal": [
+    2326151,
+    1.4442,
+    "Paul_Mescal.jpeg"
+  ],
+  "paul rudd": [
+    22226,
+    69.769,
+    "Paul_Rudd.jpeg"
+  ],
+  "pedro pascal": [
+    1253360,
+    7.7,
+    "Pedro_Pascal.jpeg"
+  ],
+  "penelope cruz": [
+    955,
+    2.0,
+    "Penelope_Cruz.jpeg"
+  ],
+  "pierce brosnan": [
+    517,
+    3.8,
+    "Pierce_Brosnan.jpeg"
+  ],
+  "post malone": [
+    1821863,
+    1.31,
+    "Post_Malone.jpeg"
+  ],
+  "priyanka chopra jonas": [
+    77234,
+    6.89,
+    "Priyanka_Chopra_Jonas.jpeg"
+  ],
+  "rachel mcadams": [
+    53714,
+    39.695,
+    "Rachel_McAdams.jpeg"
+  ],
+  "ranbir kapoor": [
+    85034,
+    1.0551,
+    "Ranbir_Kapoor.jpeg"
+  ],
+  "ranveer singh": [
+    224223,
+    2.179,
+    "Ranveer_Singh.jpeg"
+  ],
+  "robert de niro": [
+    380,
+    4.51,
+    "Robert_De_Niro.jpeg"
+  ],
+  "robert downey jr": [
+    3223,
+    58.733,
+    "Robert_Downey_Jr.jpeg"
+  ],
+  "robin williams": [
+    2010415,
+    0.036,
+    "Robin_Williams.jpeg"
+  ],
+  "russell crowe": [
+    934,
+    63.96,
+    "Russell_Crowe.jpeg"
+  ],
+  "ryan gosling": [
+    30614,
+    62.43,
+    "Ryan_Gosling.jpeg"
+  ],
+  "ryan reynolds": [
+    10859,
+    2.707,
+    "Ryan_Reynolds.jpeg"
+  ],
+  "salma hayek": [
+    3136,
+    54.939,
+    "Salma_Hayek.jpeg"
+  ],
+  "salman khan": [
+    42802,
+    4.2105,
+    "Salman_Khan.jpeg"
+  ],
+  "samuel l jackson": [
+    2231,
+    8.23,
+    "Samuel_L_Jackson.jpeg"
+  ],
+  "sandra bullock": [
+    18277,
+    34.346,
+    "Sandra_Bullock.jpeg"
+  ],
+  "scarlett johansson": [
+    1245,
+    83.701,
+    "Scarlett_Johansson.jpeg"
+  ],
+  "sebastian stan": [
+    60898,
+    31.398,
+    "Sebastian_Stan.jpeg"
+  ],
+  "selena gomez": [
+    77948,
+    4.341,
+    "Selena_Gomez.jpeg"
+  ],
+  "seth rogen": [
+    19274,
+    35.968,
+    "Seth_Rogen.jpeg"
+  ],
+  "shah rukh khan": [
+    35742,
+    4.803,
+    "Shah_Rukh_Khan.jpeg"
+  ],
+  "shia labeouf": [
+    10959,
+    47.153,
+    "Shia_LaBeouf.jpeg"
+  ],
+  "snoop dogg": [
+    19767,
+    23.644,
+    "Snoop_Dogg.jpeg"
+  ],
+  "stephen colbert": [
+    58769,
+    1.924,
+    "Stephen_Colbert.jpeg"
+  ],
+  "sydney sweeney": [
+    115440,
+    232.637,
+    "Sydney_Sweeney.jpeg"
+  ],
+  "sylvester stallone": [
+    16483,
+    5.99,
+    "Sylvester_Stallone.jpeg"
+  ],
+  "tessa thompson": [
+    62561,
+    27.682,
+    "Tessa_Thompson.jpeg"
+  ],
+  "tom cruise": [
+    500,
+    56.149,
+    "Tom_Cruise.jpg"
+  ],
+  "tom hanks": [
+    31,
+    91.597,
+    "Tom_Hanks.jpeg"
+  ],
+  "tony leung": [
+    1337,
+    4.4829,
+    "Tony_Leung.jpeg"
+  ],
+  "vin diesel": [
+    12835,
+    74.552,
+    "Vin_Diesel.jpeg"
+  ],
+  "vincent cassel": [
+    1925,
+    32.117,
+    "Vincent_Cassel.jpeg"
+  ],
+  "viola davis": [
+    19492,
+    40.452,
+    "Viola_Davis.jpeg"
+  ],
+  "will smith": [
+    2888,
+    60.34,
+    "Will_Smith.jpeg"
+  ],
+  "woody harrelson": [
+    57755,
+    48.704,
+    "Woody_Harrelson.jpeg"
+  ],
+  "yahya abdul mateen ii": [
+    1639847,
+    21.942,
+    "Yahya_Abdul_Mateen_II.jpeg"
+  ]
+}
