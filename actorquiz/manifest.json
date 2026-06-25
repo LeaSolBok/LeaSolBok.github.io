@@ -1300,32 +1300,6 @@
       "questionCount": 139
     },
     {
-      "id": "steinsgate",
-      "tab": "characters",
-      "subtab": "anime",
-      "displayName": "Steins;Gate",
-      "displayNames": {
-        "am": "ስቴይንስ ጌት",
-        "es": "Steins;Gate",
-        "ru": "Врата Штейна",
-        "he": "שטיינס גייט",
-        "hi": "स्टेन्स;गेट",
-        "ar": "شتاينز جيت",
-        "ja": "シュタインズ・ゲート",
-        "ko": "슈타인즈 게이트",
-        "zh": "命运石之门",
-        "el": "Steins;Gate"
-      },
-      "cardImageUrl": "https://raw.githubusercontent.com/LeaSolBok/LeaSolBok.github.io/main/actorquiz/packages/steinsgate/card.png",
-      "dataUrl": "https://raw.githubusercontent.com/LeaSolBok/LeaSolBok.github.io/main/actorquiz/packages/steinsgate/data.json",
-      "geminiFolder": "steinsgate/gemini",
-      "originalFolder": "steinsgate/steinsgate",
-      "releaseDate": null,
-      "isVip": false,
-      "sortOrder": 90,
-      "questionCount": 34
-    },
-    {
       "id": "seinfeld",
       "tab": "characters",
       "subtab": "tvshows",
