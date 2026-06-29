@@ -1,0 +1,878 @@
+{
+  "saitama": [
+    0,
+    146,
+    "001 Saitama.png",
+    "001 Saitama.jpg"
+  ],
+  "genos": [
+    0,
+    145,
+    "002 Genos.png",
+    "002 Genos.jpg"
+  ],
+  "tatsumaki": [
+    0,
+    144,
+    "003 Tatsumaki.png",
+    "003 Tatsumaki.png"
+  ],
+  "fubuki": [
+    0,
+    143,
+    "004 Fubuki.png",
+    "004 Fubuki.png"
+  ],
+  "onsoku no sonic": [
+    0,
+    142,
+    "005 Onsoku no Sonic.png",
+    "005 Onsoku no Sonic.png"
+  ],
+  "satoru": [
+    0,
+    141,
+    "006 Satoru.png",
+    "006 Satoru.png"
+  ],
+  "bad": [
+    0,
+    140,
+    "007 Bad.png",
+    "007 Bad.png"
+  ],
+  "king": [
+    0,
+    139,
+    "008 King.png",
+    "008 King.png"
+  ],
+  "bang": [
+    0,
+    138,
+    "009 Bang.png",
+    "009 Bang.png"
+  ],
+  "zombieman": [
+    0,
+    137,
+    "010 Zombieman.png",
+    "010 Zombieman.png"
+  ],
+  "banken man": [
+    0,
+    136,
+    "011 Banken Man.png",
+    "011 Banken Man.png"
+  ],
+  "boros-sama": [
+    0,
+    135,
+    "012 Boros-sama.png",
+    "012 Boros-sama.png"
+  ],
+  "puri-puri prisoner": [
+    0,
+    134,
+    "013 Puri-Puri Prisoner.png",
+    "013 Puri-Puri Prisoner.png"
+  ],
+  "isamu": [
+    0,
+    133,
+    "014 Isamu.png",
+    "014 Isamu.png"
+  ],
+  "senkou no flash": [
+    0,
+    132,
+    "016 Senkou no Flash.png",
+    "016 Senkou no Flash.png"
+  ],
+  "ikemen kamen amai mask": [
+    0,
+    131,
+    "017 Ikemen Kamen Amai Mask.png",
+    "017 Ikemen Kamen Amai Mask.png"
+  ],
+  "kamikaze": [
+    0,
+    130,
+    "018 Kamikaze.png",
+    "018 Kamikaze.png"
+  ],
+  "kuroi seishi": [
+    0,
+    129,
+    "019 Kuroi Seishi.png",
+    "019 Kuroi Seishi.png"
+  ],
+  "mosquito musume": [
+    0,
+    128,
+    "020 Mosquito Musume.png",
+    "020 Mosquito Musume.png"
+  ],
+  "kudou kishi": [
+    0,
+    127,
+    "021 Kudou Kishi.png",
+    "021 Kudou Kishi.png"
+  ],
+  "chougoukin kurobikari": [
+    0,
+    126,
+    "022 Chougoukin Kurobikari.png",
+    "022 Chougoukin Kurobikari.png"
+  ],
+  "lin lin": [
+    0,
+    125,
+    "023 Lin Lin.png",
+    "023 Lin Lin.jpg"
+  ],
+  "bomb": [
+    0,
+    124,
+    "024 Bomb.png",
+    "024 Bomb.png"
+  ],
+  "shinkaiou": [
+    0,
+    123,
+    "025 Shinkaiou.png",
+    "025 Shinkaiou.png"
+  ],
+  "sneck": [
+    0,
+    122,
+    "026 Sneck.png",
+    "026 Sneck.png"
+  ],
+  "butagami": [
+    0,
+    121,
+    "027 Butagami.png",
+    "027 Butagami.jpg"
+  ],
+  "armored gorilla": [
+    0,
+    120,
+    "028 Armored Gorilla.png",
+    "028 Armored Gorilla.jpg"
+  ],
+  "genus-hakase": [
+    0,
+    119,
+    "030 Genus-hakase.png",
+    "030 Genus-hakase.jpg"
+  ],
+  "banehige": [
+    0,
+    118,
+    "031 Banehige.png",
+    "031 Banehige.png"
+  ],
+  "kanirante": [
+    0,
+    117,
+    "032 Kanirante.png",
+    "032 Kanirante.jpg"
+  ],
+  "bofoi": [
+    0,
+    116,
+    "033 Bofoi.png",
+    "033 Bofoi.jpg"
+  ],
+  "charanko": [
+    0,
+    115,
+    "034 Charanko.png",
+    "034 Charanko.jpg"
+  ],
+  "stinger": [
+    0,
+    114,
+    "035 Stinger.png",
+    "035 Stinger.png"
+  ],
+  "tanktop master": [
+    0,
+    113,
+    "036 Tanktop Master.png",
+    "036 Tanktop Master.png"
+  ],
+  "max": [
+    0,
+    112,
+    "037 Max.png",
+    "037 Max.jpg"
+  ],
+  "geryuganshoop": [
+    0,
+    111,
+    "038 Geryuganshoop.png",
+    "038 Geryuganshoop.jpg"
+  ],
+  "kombu infinity": [
+    0,
+    110,
+    "039 Kombu Infinity.png",
+    "039 Kombu Infinity.png"
+  ],
+  "ground dragon": [
+    0,
+    109,
+    "040 Ground Dragon.png",
+    "040 Ground Dragon.jpg"
+  ],
+  "hammer-head": [
+    0,
+    108,
+    "041 Hammer-Head.png",
+    "041 Hammer-Head.jpg"
+  ],
+  "asura kabuto": [
+    0,
+    107,
+    "042 Asura Kabuto.png",
+    "042 Asura Kabuto.jpg"
+  ],
+  "iaian": [
+    0,
+    106,
+    "043 Iaian.png",
+    "043 Iaian.png"
+  ],
+  "orochi": [
+    0,
+    105,
+    "044 Orochi.png",
+    "044 Orochi.png"
+  ],
+  "ougon ball": [
+    0,
+    104,
+    "045 Ougon Ball.png",
+    "045 Ougon Ball.jpg"
+  ],
+  "vaccine man": [
+    0,
+    103,
+    "046 Vaccine Man.png",
+    "046 Vaccine Man.jpg"
+  ],
+  "zenko": [
+    0,
+    102,
+    "047 Zenko.png",
+    "047 Zenko.jpg"
+  ],
+  "kuseno-hakase": [
+    0,
+    101,
+    "048 Kuseno-hakase.png",
+    "048 Kuseno-hakase.jpg"
+  ],
+  "groribas": [
+    0,
+    100,
+    "049 Groribas.png",
+    "049 Groribas.jpg"
+  ],
+  "tanktop tiger": [
+    0,
+    99,
+    "050 Tanktop Tiger.png",
+    "050 Tanktop Tiger.jpg"
+  ],
+  "death gatling": [
+    0,
+    98,
+    "051 Death Gatling.png",
+    "051 Death Gatling.png"
+  ],
+  "melzargard": [
+    0,
+    97,
+    "052 Melzargard.png",
+    "052 Melzargard.jpg"
+  ],
+  "tanktop black hole": [
+    0,
+    96,
+    "053 Tanktop Black Hole.png",
+    "053 Tanktop Black Hole.jpg"
+  ],
+  "gyoro gyoro": [
+    0,
+    95,
+    "054 Gyoro Gyoro.png",
+    "054 Gyoro Gyoro.jpg"
+  ],
+  "juu ou": [
+    0,
+    94,
+    "055 Juu Ou.png",
+    "055 Juu Ou.jpg"
+  ],
+  "mukade chourou": [
+    0,
+    93,
+    "056 Mukade Chourou.png",
+    "056 Mukade Chourou.png"
+  ],
+  "phoenix otoko": [
+    0,
+    92,
+    "057 Phoenix Otoko.png",
+    "057 Phoenix Otoko.png"
+  ],
+  "all back-man": [
+    0,
+    91,
+    "058 All Back-Man.png",
+    "058 All Back-Man.jpg"
+  ],
+  "genji": [
+    0,
+    90,
+    "059 Genji.png",
+    "059 Genji.jpg"
+  ],
+  "sitch": [
+    0,
+    89,
+    "060 Sitch.png",
+    "060 Sitch.jpg"
+  ],
+  "exma": [
+    0,
+    88,
+    "061 Exma.png",
+    "061 Exma.png"
+  ],
+  "kaeru otoko": [
+    0,
+    87,
+    "062 Kaeru Otoko.png",
+    "062 Kaeru Otoko.png"
+  ],
+  "namekujarasu": [
+    0,
+    86,
+    "063 Namekujarasu.png",
+    "063 Namekujarasu.png"
+  ],
+  "tareo": [
+    0,
+    85,
+    "064 Tareo.png",
+    "064 Tareo.png"
+  ],
+  "blue fire": [
+    0,
+    84,
+    "065 Blue Fire.png",
+    "065 Blue Fire.png"
+  ],
+  "choze": [
+    0,
+    83,
+    "066 Choze.png",
+    "066 Choze.png"
+  ],
+  "fukegao": [
+    0,
+    82,
+    "067 Fukegao.png",
+    "067 Fukegao.jpg"
+  ],
+  "g4": [
+    0,
+    81,
+    "068 G4.png",
+    "068 G4.png"
+  ],
+  "kamakyuri": [
+    0,
+    80,
+    "069 Kamakyuri.png",
+    "069 Kamakyuri.png"
+  ],
+  "marshall gorilla": [
+    0,
+    79,
+    "070 Marshall Gorilla.png",
+    "070 Marshall Gorilla.png"
+  ],
+  "nigamushi": [
+    0,
+    78,
+    "071 Nigamushi.png",
+    "071 Nigamushi.jpg"
+  ],
+  "shibabawa": [
+    0,
+    77,
+    "072 Shibabawa.png",
+    "072 Shibabawa.png"
+  ],
+  "smile man": [
+    0,
+    76,
+    "073 Smile Man.png",
+    "073 Smile Man.png"
+  ],
+  "zeniru": [
+    0,
+    75,
+    "074 Zeniru.png",
+    "074 Zeniru.jpg"
+  ],
+  "chainntoad": [
+    0,
+    74,
+    "075 Chain'n'toad.png",
+    "075 Chain'n'toad.jpg"
+  ],
+  "chitei hito": [
+    0,
+    73,
+    "076 Chitei Hito.png",
+    "076 Chitei Hito.png"
+  ],
+  "chitei ou": [
+    0,
+    72,
+    "077 Chitei Ou.png",
+    "077 Chitei Ou.png"
+  ],
+  "denchi man": [
+    0,
+    71,
+    "078 Denchi Man.png",
+    "078 Denchi Man.jpg"
+  ],
+  "ganriki": [
+    0,
+    70,
+    "079 Ganriki.png",
+    "079 Ganriki.png"
+  ],
+  "haragiri": [
+    0,
+    69,
+    "080 Haragiri.png",
+    "080 Haragiri.png"
+  ],
+  "maiko plasma": [
+    0,
+    68,
+    "081 Maiko Plasma.png",
+    "081 Maiko Plasma.png"
+  ],
+  "marugori": [
+    0,
+    67,
+    "082 Marugori.png",
+    "082 Marugori.jpg"
+  ],
+  "megane": [
+    0,
+    66,
+    "083 Megane.png",
+    "083 Megane.png"
+  ],
+  "pineapple": [
+    0,
+    65,
+    "084 Pineapple.png",
+    "084 Pineapple.png"
+  ],
+  "super custom yo649z mk ii": [
+    0,
+    64,
+    "085 Super Custom YO649Z Mk. II.png",
+    "085 Super Custom YO649Z Mk. II.png"
+  ],
+  "bakuzan": [
+    0,
+    63,
+    "086 Bakuzan.png",
+    "086 Bakuzan.png"
+  ],
+  "benpatsu": [
+    0,
+    62,
+    "087 Benpatsu.png",
+    "087 Benpatsu.png"
+  ],
+  "butterfly dx": [
+    0,
+    61,
+    "088 Butterfly DX.png",
+    "088 Butterfly DX.png"
+  ],
+  "gatlin": [
+    0,
+    60,
+    "089 Gatlin.png",
+    "089 Gatlin.png"
+  ],
+  "gouka no flame": [
+    0,
+    59,
+    "090 Gouka no Flame.png",
+    "090 Gouka no Flame.png"
+  ],
+  "gouketsu": [
+    0,
+    58,
+    "091 Gouketsu.png",
+    "091 Gouketsu.png"
+  ],
+  "gun gun": [
+    0,
+    57,
+    "092 Gun Gun.png",
+    "092 Gun Gun.png"
+  ],
+  "gyoffrey": [
+    0,
+    56,
+    "093 Gyoffrey.png",
+    "093 Gyoffrey.png"
+  ],
+  "hamukichi": [
+    0,
+    55,
+    "094 Hamukichi.png",
+    "094 Hamukichi.png"
+  ],
+  "hayete no wind": [
+    0,
+    54,
+    "095 Hayete no Wind.png",
+    "095 Hayete no Wind.png"
+  ],
+  "hedorokurage": [
+    0,
+    53,
+    "096 Hedorokurage.png",
+    "096 Hedorokurage.png"
+  ],
+  "hitotorigusa": [
+    0,
+    52,
+    "097 Hitotorigusa.png",
+    "097 Hitotorigusa.png"
+  ],
+  "juu sensha fundoshi": [
+    0,
+    51,
+    "099 Juu Sensha Fundoshi.png",
+    "099 Juu Sensha Fundoshi.png"
+  ],
+  "kakusei gokiburi": [
+    0,
+    50,
+    "100 Kakusei Gokiburi.png",
+    "100 Kakusei Gokiburi.png"
+  ],
+  "kaohagi": [
+    0,
+    49,
+    "101 Kaohagi.png",
+    "101 Kaohagi.png"
+  ],
+  "kata pads": [
+    0,
+    48,
+    "102 Kata Pads.png",
+    "102 Kata Pads.png"
+  ],
+  "kusari ga ma": [
+    0,
+    47,
+    "103 Kusari Ga Ma.png",
+    "103 Kusari Ga Ma.png"
+  ],
+  "mentai": [
+    0,
+    46,
+    "104 Mentai.png",
+    "104 Mentai.png"
+  ],
+  "mohican": [
+    0,
+    45,
+    "105 Mohican.png",
+    "105 Mohican.jpg"
+  ],
+  "mukade kouhai": [
+    0,
+    44,
+    "106 Mukade Kouhai.png",
+    "106 Mukade Kouhai.png"
+  ],
+  "mukade senpai": [
+    0,
+    43,
+    "107 Mukade Senpai.png",
+    "107 Mukade Senpai.png"
+  ],
+  "narinki": [
+    0,
+    42,
+    "108 Narinki.png",
+    "108 Narinki.png"
+  ],
+  "rosie": [
+    0,
+    41,
+    "109 Rosie.png",
+    "109 Rosie.png"
+  ],
+  "sairesuraa": [
+    0,
+    40,
+    "110 Sairesuraa.png",
+    "110 Sairesuraa.png"
+  ],
+  "shitanobiiru": [
+    0,
+    39,
+    "111 Shitanobiiru.png",
+    "111 Shitanobiiru.png"
+  ],
+  "suppon": [
+    0,
+    38,
+    "112 Suppon.png",
+    "112 Suppon.png"
+  ],
+  "tanktop hatter": [
+    0,
+    37,
+    "113 Tanktop Hatter.png",
+    "113 Tanktop Hatter.jpg"
+  ],
+  "tanktop vegetarian": [
+    0,
+    36,
+    "114 Tanktop Vegetarian.png",
+    "114 Tanktop Vegetarian.jpg"
+  ],
+  "tejina man": [
+    0,
+    35,
+    "115 Tejina Man.png",
+    "115 Tejina Man.png"
+  ],
+  "waganma": [
+    0,
+    34,
+    "116 Waganma.png",
+    "116 Waganma.png"
+  ],
+  "wild horn": [
+    0,
+    33,
+    "117 Wild Horn.png",
+    "117 Wild Horn.png"
+  ],
+  "yamazaru": [
+    0,
+    32,
+    "118 Yamazaru.png",
+    "118 Yamazaru.png"
+  ],
+  "zakos": [
+    0,
+    31,
+    "119 Zakos.png",
+    "119 Zakos.png"
+  ],
+  "garou": [
+    0,
+    30,
+    "120 Garou.png",
+    "120 Garou.png"
+  ],
+  "suiryu": [
+    0,
+    29,
+    "121 Suiryu.png",
+    "121 Suiryu.png"
+  ],
+  "lily": [
+    0,
+    28,
+    "122 Lily.png",
+    "122 Lily.png"
+  ],
+  "nyan": [
+    0,
+    27,
+    "123 Nyan.png",
+    "123 Nyan.png"
+  ],
+  "darkness blade": [
+    0,
+    26,
+    "124 Darkness Blade.png",
+    "124 Darkness Blade.jpg"
+  ],
+  "nichirin": [
+    0,
+    25,
+    "125 Nichirin.png",
+    "125 Nichirin.png"
+  ],
+  "agoni": [
+    0,
+    24,
+    "126 Agoni.png",
+    "126 Agoni.jpg"
+  ],
+  "sekingar": [
+    0,
+    23,
+    "127 Sekingar.png",
+    "127 Sekingar.png"
+  ],
+  "hero kyoukai shokuin": [
+    0,
+    22,
+    "128 Hero Kyoukai Shokuin.png",
+    "128 Hero Kyoukai Shokuin.png"
+  ],
+  "jet nice guy": [
+    0,
+    21,
+    "129 Jet Nice Guy.png",
+    "129 Jet Nice Guy.jpg"
+  ],
+  "amahare": [
+    0,
+    20,
+    "130 Amahare.png",
+    "130 Amahare.jpg"
+  ],
+  "armored kakarichou": [
+    0,
+    19,
+    "131 Armored Kakarichou.png",
+    "131 Armored Kakarichou.png"
+  ],
+  "bun-bun man": [
+    0,
+    18,
+    "132 Bun-Bun Man.png",
+    "132 Bun-Bun Man.png"
+  ],
+  "hige shokuin": [
+    0,
+    17,
+    "133 Hige Shokuin.png",
+    "133 Hige Shokuin.png"
+  ],
+  "matsuge": [
+    0,
+    16,
+    "134 Matsuge.png",
+    "134 Matsuge.png"
+  ],
+  "megane shokuin": [
+    0,
+    15,
+    "135 Megane Shokuin.png",
+    "135 Megane Shokuin.png"
+  ],
+  "zanbai": [
+    0,
+    14,
+    "136 Zanbai.png",
+    "136 Zanbai.jpg"
+  ],
+  "zeimeet": [
+    0,
+    13,
+    "137 Zeimeet.png",
+    "137 Zeimeet.png"
+  ],
+  "170000-year-old cicada adult": [
+    0,
+    12,
+    "138 170000-Year-Old Cicada Adult.png",
+    "138 170000-Year-Old Cicada Adult.jpg"
+  ],
+  "170000-year-old cicada larva": [
+    0,
+    11,
+    "139 170000-Year-Old Cicada Larva.png",
+    "139 170000-Year-Old Cicada Larva.jpg"
+  ],
+  "a": [
+    0,
+    10,
+    "140 A.png",
+    "140 A.jpg"
+  ],
+  "accel": [
+    0,
+    9,
+    "141 Accel.png",
+    "141 Accel.jpg"
+  ],
+  "aggregation": [
+    0,
+    8,
+    "142 Aggregation.png",
+    "142 Aggregation.jpg"
+  ],
+  "air": [
+    0,
+    7,
+    "143 Air.png",
+    "143 Air.jpg"
+  ],
+  "alien seer": [
+    0,
+    6,
+    "144 Alien Seer.png",
+    "144 Alien Seer.jpg"
+  ],
+  "ancient king": [
+    0,
+    5,
+    "145 Ancient King.png",
+    "145 Ancient King.jpg"
+  ],
+  "angry man": [
+    0,
+    4,
+    "147 Angry Man.png",
+    "147 Angry Man.jpg"
+  ],
+  "apex rabbit": [
+    0,
+    3,
+    "148 Apex Rabbit.png",
+    "148 Apex Rabbit.jpg"
+  ],
+  "apollo": [
+    0,
+    2,
+    "149 Apollo.png",
+    "149 Apollo.jpg"
+  ],
+  "armored chief clerk": [
+    0,
+    1,
+    "150 Armored Chief Clerk.png",
+    "150 Armored Chief Clerk.jpg"
+  ]
+}

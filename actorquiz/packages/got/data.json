@@ -1,129 +1,632 @@
-[
-  "stannis baratheon",
-  "bran stark",
-  "criston cole",
-  "mysaria",
-  "rhaegal",
-  "arya stark",
-  "grey worm",
-  "corlys velaryon",
-  "larys strong",
-  "jaime lannister",
-  "cersei lannister",
-  "ellaria sand",
-  "margaery tyrell",
-  "olenna tyrell",
-  "rhaenys targaryen",
-  "daenerys targaryen",
-  "rakharo",
-  "jaqen hghar",
-  "gendry",
-  "harrold westerling",
-  "tormund giantsbane",
-  "grand maester pycelle",
-  "tommen baratheon",
-  "borros baratheon",
-  "ros",
-  "varys",
-  "hobert hightower",
-  "sansa stark",
-  "high sparrow",
-  "samwell tarly",
-  "eddison tollett",
-  "wun wun",
-  "daario naharis",
-  "khal drogo",
-  "joffrey baratheon",
-  "otto hightower",
-  "pyat pree",
-  "viserys i targaryen",
-  "melisandre",
-  "sunfyre",
-  "brynden tully",
-  "ghost",
-  "lysa arryn",
-  "mace tyrell",
-  "syrax",
-  "boremund baratheon",
-  "three eyed raven",
-  "irri",
-  "euron greyjoy",
-  "orwyle",
-  "benjen stark",
-  "petyr baelish",
-  "tycho nestoris",
-  "lucerys velaryon",
-  "kevan lannister",
-  "craghas drahar",
-  "lyman beesbury",
-  "rodrik cassel",
-  "viserys targaryen",
-  "robett glover",
-  "sandor clegane",
-  "doreah",
-  "beric dondarrion",
-  "aegon ii targaryen",
-  "bronn",
-  "aemma arryn",
-  "walder frey",
-  "talisa maegyr",
-  "gilly",
-  "laenor velaryon",
-  "laena velaryon",
-  "renly baratheon",
-  "vaemond velaryon",
-  "the night king",
-  "the waif",
-  "gwayne hightower",
-  "eddard stark",
-  "addam of hull",
-  "myrcella baratheon",
-  "caraxes",
-  "drogon",
-  "silverwing",
-  "yara greyjoy",
-  "catelyn stark",
-  "osha",
-  "tywin lannister",
-  "aemond targaryen",
-  "moondancer",
-  "rhaenyra targaryen",
-  "qyburn",
-  "thoros of myr",
-  "ygritte",
-  "vhagar",
-  "meera reed",
-  "jason lannister",
-  "balerion",
-  "jorah mormont",
-  "roose bolton",
-  "baela targaryen",
-  "tyrion lannister",
-  "jeyne arryn",
-  "alys rivers",
-  "meryn trant",
-  "lyonel strong",
-  "jacaerys velaryon",
-  "daemon targaryen",
-  "robin arryn",
-  "robb stark",
-  "rhaena targaryen",
-  "seasmoke",
-  "davos seaworth",
-  "loras tyrell",
-  "missandei",
-  "theon greyjoy",
-  "podrick payne",
-  "brienne of tarth",
-  "jon snow",
-  "hodor",
-  "helaena targaryen",
-  "silver denys",
-  "viserion",
-  "lancel lannister",
-  "alicent hightower",
-  "meleys",
-  ".DS_Store",
-  "ramsay bolton",
-  "qarl correy"
-]
+{
+  "stannis baratheon": [
+    8435,
+    100,
+    "Stannis Baratheon.webp"
+  ],
+  "bran stark": [
+    239020,
+    98,
+    "Bran Stark.webp"
+  ],
+  "criston cole": [
+    2583704,
+    96,
+    "Criston Cole.webp"
+  ],
+  "mysaria": [
+    1457238,
+    94,
+    "Mysaria.webp"
+  ],
+  "rhaegal": [
+    0,
+    92,
+    "Rhaegal.webp"
+  ],
+  "arya stark": [
+    1181313,
+    90,
+    "Arya Stark.webp"
+  ],
+  "grey worm": [
+    964792,
+    88,
+    "Grey Worm.webp"
+  ],
+  "corlys velaryon": [
+    55412,
+    86,
+    "Corlys Velaryon.webp"
+  ],
+  "larys strong": [
+    1584566,
+    84,
+    "Larys Strong.webp"
+  ],
+  "jaime lannister": [
+    12795,
+    82,
+    "Jaime Lannister.webp"
+  ],
+  "cersei lannister": [
+    17286,
+    80,
+    "Cersei Lannister.webp"
+  ],
+  "ellaria sand": [
+    30430,
+    78,
+    "Ellaria Sand.webp"
+  ],
+  "margaery tyrell": [
+    58502,
+    76,
+    "Margaery Tyrell.webp"
+  ],
+  "olenna tyrell": [
+    10168,
+    74,
+    "Olenna Tyrell.webp"
+  ],
+  "rhaenys targaryen": [
+    201665,
+    72,
+    "Rhaenys Targaryen.webp"
+  ],
+  "daenerys targaryen": [
+    1223786,
+    70,
+    "Daenerys Targaryen.webp"
+  ],
+  "rakharo": [
+    78050,
+    68,
+    "Rakharo.webp"
+  ],
+  "jaqen hghar": [
+    52639,
+    66,
+    "Jaqen Hghar.webp"
+  ],
+  "gendry": [
+    570296,
+    64,
+    "Gendry.webp"
+  ],
+  "harrold westerling": [
+    95047,
+    62,
+    "Harrold Westerling.webp"
+  ],
+  "tormund giantsbane": [
+    571418,
+    60,
+    "Tormund Giantsbane.webp"
+  ],
+  "grand maester pycelle": [
+    740,
+    58,
+    "Grand Maester Pycelle.webp"
+  ],
+  "tommen baratheon": [
+    1332971,
+    56,
+    "Tommen Baratheon.webp"
+  ],
+  "borros baratheon": [
+    229710,
+    54,
+    "Borros Baratheon.webp"
+  ],
+  "ros": [
+    1014921,
+    52,
+    "Ros.webp"
+  ],
+  "varys": [
+    84423,
+    50,
+    "Varys.webp"
+  ],
+  "hobert hightower": [
+    143892,
+    48,
+    "Hobert Hightower.webp"
+  ],
+  "sansa stark": [
+    1001657,
+    46,
+    "Sansa Stark.webp"
+  ],
+  "high sparrow": [
+    378,
+    44,
+    "High Sparrow.webp"
+  ],
+  "samwell tarly": [
+    1010135,
+    42,
+    "Samwell Tarly.webp"
+  ],
+  "eddison tollett": [
+    72315,
+    40,
+    "Eddison Tollett.webp"
+  ],
+  "wun wun": [
+    946696,
+    38,
+    "Wun Wun.webp"
+  ],
+  "daario naharis": [
+    91520,
+    36,
+    "Daario Naharis.webp"
+  ],
+  "khal drogo": [
+    117642,
+    34,
+    "Khal Drogo.webp"
+  ],
+  "joffrey baratheon": [
+    489467,
+    32,
+    "Joffrey Baratheon.webp"
+  ],
+  "otto hightower": [
+    7026,
+    30,
+    "Otto Hightower.webp"
+  ],
+  "pyat pree": [
+    3076,
+    28,
+    "Pyat Pree.webp"
+  ],
+  "viserys i targaryen": [
+    14887,
+    26,
+    "Viserys I Targaryen.webp"
+  ],
+  "melisandre": [
+    23229,
+    24,
+    "Melisandre.webp"
+  ],
+  "sunfyre": [
+    0,
+    22,
+    "Sunfyre.webp"
+  ],
+  "brynden tully": [
+    19901,
+    20,
+    "Brynden Tully.webp"
+  ],
+  "ghost": [
+    0,
+    18,
+    "Ghost.webp"
+  ],
+  "lysa arryn": [
+    71083,
+    16,
+    "Lysa Arryn.webp"
+  ],
+  "mace tyrell": [
+    20243,
+    14,
+    "Mace Tyrell.webp"
+  ],
+  "syrax": [
+    0,
+    12,
+    "Syrax.webp"
+  ],
+  "boremund baratheon": [
+    109650,
+    10,
+    "Boremund Baratheon.webp"
+  ],
+  "three eyed raven": [
+    2201,
+    8,
+    "Three Eyed Raven.webp"
+  ],
+  "irri": [
+    1048692,
+    6,
+    "Irri.webp"
+  ],
+  "euron greyjoy": [
+    90060,
+    4,
+    "Euron Greyjoy.webp"
+  ],
+  "orwyle": [
+    1526130,
+    2,
+    "Orwyle.webp"
+  ],
+  "benjen stark": [
+    119783,
+    2,
+    "Benjen Stark.webp"
+  ],
+  "petyr baelish": [
+    49735,
+    2,
+    "Petyr Baelish.webp"
+  ],
+  "tycho nestoris": [
+    34546,
+    2,
+    "Tycho Nestoris.webp"
+  ],
+  "lucerys velaryon": [
+    3734436,
+    2,
+    "Lucerys Velaryon.webp"
+  ],
+  "kevan lannister": [
+    1211852,
+    2,
+    "Kevan Lannister.webp"
+  ],
+  "craghas drahar": [
+    2399173,
+    2,
+    "Craghas Drahar.webp"
+  ],
+  "lyman beesbury": [
+    104795,
+    2,
+    "Lyman Beesbury.webp"
+  ],
+  "rodrik cassel": [
+    63141,
+    2,
+    "Rodrik Cassel.webp"
+  ],
+  "viserys targaryen": [
+    205258,
+    2,
+    "Viserys Targaryen.webp"
+  ],
+  "robett glover": [
+    41043,
+    2,
+    "Robett Glover.webp"
+  ],
+  "sandor clegane": [
+    3075,
+    2,
+    "Sandor Clegane.webp"
+  ],
+  "doreah": [
+    228969,
+    2,
+    "Doreah.webp"
+  ],
+  "beric dondarrion": [
+    97416,
+    2,
+    "Beric Dondarrion.webp"
+  ],
+  "aegon ii targaryen": [
+    1765227,
+    2,
+    "Aegon II Targaryen.webp"
+  ],
+  "bronn": [
+    195930,
+    2,
+    "Bronn.webp"
+  ],
+  "aemma arryn": [
+    1237956,
+    2,
+    "Aemma Arryn.webp"
+  ],
+  "walder frey": [
+    11180,
+    2,
+    "Walder Frey.webp"
+  ],
+  "talisa maegyr": [
+    566331,
+    2,
+    "Talisa Maegyr.webp"
+  ],
+  "gilly": [
+    213395,
+    2,
+    "Gilly.webp"
+  ],
+  "laenor velaryon": [
+    550549,
+    2,
+    "Laenor Velaryon.webp"
+  ],
+  "laena velaryon": [
+    1309110,
+    2,
+    "Laena Velaryon.webp"
+  ],
+  "renly baratheon": [
+    1001702,
+    2,
+    "Renly Baratheon.webp"
+  ],
+  "vaemond velaryon": [
+    197126,
+    2,
+    "Vaemond Velaryon.webp"
+  ],
+  "the night king": [
+    1074616,
+    2,
+    "The Night King.webp"
+  ],
+  "the waif": [
+    1204956,
+    2,
+    "The Waif.webp"
+  ],
+  "gwayne hightower": [
+    1014931,
+    2,
+    "Gwayne Hightower.webp"
+  ],
+  "eddard stark": [
+    48,
+    2,
+    "Eddard Stark.webp"
+  ],
+  "addam of hull": [
+    2485308,
+    2,
+    "Addam Of Hull.webp"
+  ],
+  "myrcella baratheon": [
+    1472584,
+    2,
+    "Myrcella Baratheon.webp"
+  ],
+  "caraxes": [
+    0,
+    2,
+    "Caraxes.webp"
+  ],
+  "drogon": [
+    0,
+    2,
+    "Drogon.webp"
+  ],
+  "silverwing": [
+    0,
+    2,
+    "Silverwing.webp"
+  ],
+  "yara greyjoy": [
+    1475127,
+    2,
+    "Yara Greyjoy.webp"
+  ],
+  "catelyn stark": [
+    20057,
+    2,
+    "Catelyn Stark.webp"
+  ],
+  "osha": [
+    3300,
+    2,
+    "Osha.webp"
+  ],
+  "tywin lannister": [
+    4391,
+    2,
+    "Tywin Lannister.webp"
+  ],
+  "aemond targaryen": [
+    1829122,
+    2,
+    "Aemond Targaryen.webp"
+  ],
+  "moondancer": [
+    0,
+    2,
+    "Moondancer.webp"
+  ],
+  "rhaenyra targaryen": [
+    2121005,
+    2,
+    "Rhaenyra Targaryen.webp"
+  ],
+  "qyburn": [
+    27397,
+    2,
+    "Qyburn.webp"
+  ],
+  "thoros of myr": [
+    71281,
+    2,
+    "Thoros Of Myr.webp"
+  ],
+  "ygritte": [
+    1223793,
+    2,
+    "Ygritte.webp"
+  ],
+  "vhagar": [
+    0,
+    2,
+    "Vhagar.webp"
+  ],
+  "meera reed": [
+    220290,
+    2,
+    "Meera Reed.webp"
+  ],
+  "jason lannister": [
+    109322,
+    2,
+    "Jason Lannister.webp"
+  ],
+  "balerion": [
+    0,
+    2,
+    "Balerion.webp"
+  ],
+  "jorah mormont": [
+    20508,
+    2,
+    "Jorah Mormont.webp"
+  ],
+  "roose bolton": [
+    73288,
+    2,
+    "Roose Bolton.webp"
+  ],
+  "baela targaryen": [
+    1881108,
+    2,
+    "Baela Targaryen.webp"
+  ],
+  "tyrion lannister": [
+    22970,
+    2,
+    "Tyrion Lannister.webp"
+  ],
+  "jeyne arryn": [
+    1602451,
+    2,
+    "Jeyne Arryn.webp"
+  ],
+  "alys rivers": [
+    1782144,
+    2,
+    "Alys Rivers.webp"
+  ],
+  "meryn trant": [
+    1403284,
+    2,
+    "Meryn Trant.webp"
+  ],
+  "lyonel strong": [
+    2085743,
+    2,
+    "Lyonel Strong.webp"
+  ],
+  "jacaerys velaryon": [
+    1789952,
+    2,
+    "Jacaerys Velaryon.webp"
+  ],
+  "daemon targaryen": [
+    136532,
+    2,
+    "Daemon Targaryen.webp"
+  ],
+  "robin arryn": [
+    1014926,
+    2,
+    "Robin Arryn.webp"
+  ],
+  "robb stark": [
+    512991,
+    2,
+    "Robb Stark.webp"
+  ],
+  "rhaena targaryen": [
+    1677635,
+    2,
+    "Rhaena Targaryen.webp"
+  ],
+  "seasmoke": [
+    0,
+    2,
+    "Seasmoke.webp"
+  ],
+  "davos seaworth": [
+    15498,
+    2,
+    "Davos Seaworth.webp"
+  ],
+  "loras tyrell": [
+    1223787,
+    2,
+    "Loras Tyrell.webp"
+  ],
+  "missandei": [
+    1251069,
+    2,
+    "Missandei.webp"
+  ],
+  "theon greyjoy": [
+    71586,
+    2,
+    "Theon Greyjoy.webp"
+  ],
+  "podrick payne": [
+    1034702,
+    2,
+    "Podrick Payne.webp"
+  ],
+  "brienne of tarth": [
+    1011904,
+    2,
+    "Brienne Of Tarth.webp"
+  ],
+  "jon snow": [
+    239019,
+    2,
+    "Jon Snow.webp"
+  ],
+  "hodor": [
+    1223792,
+    2,
+    "Hodor.webp"
+  ],
+  "helaena targaryen": [
+    3594113,
+    2,
+    "Helaena Targaryen.webp"
+  ],
+  "silver denys": [
+    4502181,
+    2,
+    "Silver Denys.webp"
+  ],
+  "viserion": [
+    0,
+    2,
+    "Viserion.webp"
+  ],
+  "lancel lannister": [
+    1223789,
+    2,
+    "Lancel Lannister.webp"
+  ],
+  "alicent hightower": [
+    1173984,
+    2,
+    "Alicent Hightower.webp"
+  ],
+  "meleys": [
+    0,
+    2,
+    "Meleys.webp"
+  ],
+  "ramsay bolton": [
+    221978,
+    2,
+    "Ramsay Bolton.webp"
+  ],
+  "qarl correy": [
+    2399904,
+    2,
+    "Qarl Correy.webp"
+  ]
+}

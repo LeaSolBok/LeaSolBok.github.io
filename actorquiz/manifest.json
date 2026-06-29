@@ -1662,6 +1662,32 @@
       }
     },
     {
+      "id": "onepunch",
+      "tab": "characters",
+      "subtab": "anime",
+      "displayName": "One Punch Man",
+      "cardImageUrl": "https://raw.githubusercontent.com/LeaSolBok/LeaSolBok.github.io/main/actorquiz/packages/onepunch/card.webp",
+      "dataUrl": "https://raw.githubusercontent.com/LeaSolBok/LeaSolBok.github.io/main/actorquiz/packages/onepunch/data.json",
+      "geminiFolder": "onepunch/gemini",
+      "originalFolder": "onepunch/onepunch",
+      "releaseDate": null,
+      "isVip": true,
+      "sortOrder": 77,
+      "questionCount": 146,
+      "displayNames": {
+        "am": "ዋን ፓንች ማን",
+        "es": "One Punch Man",
+        "ru": "Ванпанчмен",
+        "he": "וואן פאנץ׳ מן",
+        "hi": "वन पंच मैन",
+        "ar": "ون بنش مان",
+        "ja": "ワンパンマン",
+        "ko": "원펀맨",
+        "zh": "一拳超人",
+        "el": "One Punch Man"
+      }
+    },
+    {
       "id": "chibis",
       "tab": "special",
       "staticGenId": 78,
