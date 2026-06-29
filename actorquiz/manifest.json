@@ -228,6 +228,17 @@
       }
     },
     {
+      "id": "parents",
+      "tab": "special",
+      "displayName": "Parents",
+      "cardImageUrl": "https://raw.githubusercontent.com/LeaSolBok/LeaSolBok.github.io/main/actorquiz/packages/parents/card.webp",
+      "dataUrl": "https://raw.githubusercontent.com/LeaSolBok/LeaSolBok.github.io/main/actorquiz/packages/parents/data.json",
+      "releaseDate": null,
+      "isVip": false,
+      "sortOrder": 10,
+      "questionCount": 109
+    },
+    {
       "id": "childhood",
       "tab": "special",
       "displayName": "Childhood Pictures",
