@@ -236,7 +236,19 @@
       "releaseDate": null,
       "isVip": false,
       "sortOrder": 10,
-      "questionCount": 109
+      "questionCount": 109,
+      "displayNames": {
+        "am": "ወላጆች",
+        "es": "Padres",
+        "ru": "Родители",
+        "he": "הורים",
+        "hi": "माता-पिता",
+        "ar": "الوالدان",
+        "ja": "親",
+        "ko": "부모",
+        "zh": "父母",
+        "el": "Γονείς"
+      }
     },
     {
       "id": "childhood",
