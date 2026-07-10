@@ -1773,6 +1773,116 @@
       "questionCount": 19
     },
     {
+      "id": "israel_actors",
+      "staticGenId": 60,
+      "tab": "celebrities",
+      "displayName": "Israeli Actors",
+      "displayNames": {
+        "he": "שחקנים ישראלים",
+        "ja": "イスラエルの俳優"
+      },
+      "cardImageUrl": "https://raw.githubusercontent.com/LeaSolBok/LeaSolBok.github.io/main/actorquiz/packages/israel_actors/card.webp",
+      "dataUrl": "https://raw.githubusercontent.com/LeaSolBok/LeaSolBok.github.io/main/actorquiz/packages/israel_actors/data.json",
+      "geminiFolder": "israel/actors/gemini",
+      "originalFolder": "israel/actors/israel",
+      "releaseDate": null,
+      "isVip": false,
+      "sortOrder": 60,
+      "questionCount": 301,
+      "pinnedOnFirstRun": true
+    },
+    {
+      "id": "israel_singers",
+      "staticGenId": 61,
+      "tab": "celebrities",
+      "displayName": "Israeli Singers",
+      "displayNames": {
+        "he": "זמרים ישראלים",
+        "ja": "イスラエルの歌手"
+      },
+      "cardImageUrl": "https://raw.githubusercontent.com/LeaSolBok/LeaSolBok.github.io/main/actorquiz/packages/israel_singers/card.webp",
+      "dataUrl": "https://raw.githubusercontent.com/LeaSolBok/LeaSolBok.github.io/main/actorquiz/packages/israel_singers/data.json",
+      "geminiFolder": "israel/singers/gemini",
+      "originalFolder": "israel/singers/israel",
+      "releaseDate": null,
+      "isVip": false,
+      "sortOrder": 61,
+      "questionCount": 135,
+      "pinnedOnFirstRun": true
+    },
+    {
+      "id": "israel_athletes",
+      "staticGenId": 62,
+      "tab": "celebrities",
+      "displayName": "Israeli Athletes",
+      "displayNames": {
+        "he": "ספורטאים ישראלים",
+        "ja": "イスラエルのアスリート"
+      },
+      "cardImageUrl": "https://raw.githubusercontent.com/LeaSolBok/LeaSolBok.github.io/main/actorquiz/packages/israel_athletes/card.webp",
+      "dataUrl": "https://raw.githubusercontent.com/LeaSolBok/LeaSolBok.github.io/main/actorquiz/packages/israel_athletes/data.json",
+      "geminiFolder": "israel/athletes/gemini",
+      "originalFolder": "israel/athletes/israel",
+      "releaseDate": null,
+      "isVip": false,
+      "sortOrder": 62,
+      "questionCount": 20
+    },
+    {
+      "id": "israel_authors",
+      "staticGenId": 63,
+      "tab": "celebrities",
+      "displayName": "Israeli Authors",
+      "displayNames": {
+        "he": "סופרים ישראלים",
+        "ja": "イスラエルの作家"
+      },
+      "cardImageUrl": "https://raw.githubusercontent.com/LeaSolBok/LeaSolBok.github.io/main/actorquiz/packages/israel_authors/card.webp",
+      "dataUrl": "https://raw.githubusercontent.com/LeaSolBok/LeaSolBok.github.io/main/actorquiz/packages/israel_authors/data.json",
+      "geminiFolder": "israel/authors/gemini",
+      "originalFolder": "israel/authors/israel",
+      "releaseDate": null,
+      "isVip": false,
+      "sortOrder": 63,
+      "questionCount": 1
+    },
+    {
+      "id": "israel_comedians",
+      "staticGenId": 65,
+      "tab": "celebrities",
+      "displayName": "Israeli Comedians",
+      "displayNames": {
+        "he": "קומיקאים ישראלים",
+        "ja": "イスラエルのコメディアン"
+      },
+      "cardImageUrl": "https://raw.githubusercontent.com/LeaSolBok/LeaSolBok.github.io/main/actorquiz/packages/israel_comedians/card.webp",
+      "dataUrl": "https://raw.githubusercontent.com/LeaSolBok/LeaSolBok.github.io/main/actorquiz/packages/israel_comedians/data.json",
+      "geminiFolder": "israel/comedians/gemini",
+      "originalFolder": "israel/comedians/israel",
+      "releaseDate": null,
+      "isVip": false,
+      "sortOrder": 65,
+      "questionCount": 13
+    },
+    {
+      "id": "israel_personalities",
+      "staticGenId": 66,
+      "tab": "celebrities",
+      "displayName": "Israeli Personalities",
+      "displayNames": {
+        "he": "אנשי ציבור ישראלים",
+        "ja": "イスラエルの著名人"
+      },
+      "cardImageUrl": "https://raw.githubusercontent.com/LeaSolBok/LeaSolBok.github.io/main/actorquiz/packages/israel_personalities/card.webp",
+      "dataUrl": "https://raw.githubusercontent.com/LeaSolBok/LeaSolBok.github.io/main/actorquiz/packages/israel_personalities/data.json",
+      "geminiFolder": "israel/personalities/gemini",
+      "originalFolder": "israel/personalities/israel",
+      "releaseDate": null,
+      "isVip": false,
+      "sortOrder": 66,
+      "questionCount": 17
+    },
+    {
       "id": "avatar",
       "tab": "characters",
       "subtab": "cartoons",
