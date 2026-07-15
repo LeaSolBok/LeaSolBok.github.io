@@ -1775,7 +1775,7 @@
     {
       "id": "israel_actors",
       "staticGenId": 60,
-      "tab": "celebrities",
+      "tab": "israel",
       "displayName": "Israeli Actors",
       "displayNames": {
         "he": "שחקנים ישראלים",
@@ -1789,12 +1789,24 @@
       "isVip": false,
       "sortOrder": 60,
       "questionCount": 301,
-      "pinnedOnFirstRun": true
+      "pinnedOnFirstRun": true,
+      "dataUrls": {
+        "he": "https://raw.githubusercontent.com/LeaSolBok/LeaSolBok.github.io/main/actorquiz/packages/israel_actors/data_he.json",
+        "ar": "https://raw.githubusercontent.com/LeaSolBok/LeaSolBok.github.io/main/actorquiz/packages/israel_actors/data_ar.json",
+        "es": "https://raw.githubusercontent.com/LeaSolBok/LeaSolBok.github.io/main/actorquiz/packages/israel_actors/data_es.json",
+        "ru": "https://raw.githubusercontent.com/LeaSolBok/LeaSolBok.github.io/main/actorquiz/packages/israel_actors/data_ru.json",
+        "ja": "https://raw.githubusercontent.com/LeaSolBok/LeaSolBok.github.io/main/actorquiz/packages/israel_actors/data_ja.json",
+        "ko": "https://raw.githubusercontent.com/LeaSolBok/LeaSolBok.github.io/main/actorquiz/packages/israel_actors/data_ko.json",
+        "zh": "https://raw.githubusercontent.com/LeaSolBok/LeaSolBok.github.io/main/actorquiz/packages/israel_actors/data_zh.json",
+        "el": "https://raw.githubusercontent.com/LeaSolBok/LeaSolBok.github.io/main/actorquiz/packages/israel_actors/data_el.json",
+        "am": "https://raw.githubusercontent.com/LeaSolBok/LeaSolBok.github.io/main/actorquiz/packages/israel_actors/data_am.json",
+        "hi": "https://raw.githubusercontent.com/LeaSolBok/LeaSolBok.github.io/main/actorquiz/packages/israel_actors/data_hi.json"
+      }
     },
     {
       "id": "israel_singers",
       "staticGenId": 61,
-      "tab": "celebrities",
+      "tab": "israel",
       "displayName": "Israeli Singers",
       "displayNames": {
         "he": "זמרים ישראלים",
@@ -1808,12 +1820,24 @@
       "isVip": false,
       "sortOrder": 61,
       "questionCount": 135,
-      "pinnedOnFirstRun": true
+      "pinnedOnFirstRun": true,
+      "dataUrls": {
+        "he": "https://raw.githubusercontent.com/LeaSolBok/LeaSolBok.github.io/main/actorquiz/packages/israel_singers/data_he.json",
+        "ar": "https://raw.githubusercontent.com/LeaSolBok/LeaSolBok.github.io/main/actorquiz/packages/israel_singers/data_ar.json",
+        "es": "https://raw.githubusercontent.com/LeaSolBok/LeaSolBok.github.io/main/actorquiz/packages/israel_singers/data_es.json",
+        "ru": "https://raw.githubusercontent.com/LeaSolBok/LeaSolBok.github.io/main/actorquiz/packages/israel_singers/data_ru.json",
+        "ja": "https://raw.githubusercontent.com/LeaSolBok/LeaSolBok.github.io/main/actorquiz/packages/israel_singers/data_ja.json",
+        "ko": "https://raw.githubusercontent.com/LeaSolBok/LeaSolBok.github.io/main/actorquiz/packages/israel_singers/data_ko.json",
+        "zh": "https://raw.githubusercontent.com/LeaSolBok/LeaSolBok.github.io/main/actorquiz/packages/israel_singers/data_zh.json",
+        "el": "https://raw.githubusercontent.com/LeaSolBok/LeaSolBok.github.io/main/actorquiz/packages/israel_singers/data_el.json",
+        "am": "https://raw.githubusercontent.com/LeaSolBok/LeaSolBok.github.io/main/actorquiz/packages/israel_singers/data_am.json",
+        "hi": "https://raw.githubusercontent.com/LeaSolBok/LeaSolBok.github.io/main/actorquiz/packages/israel_singers/data_hi.json"
+      }
     },
     {
       "id": "israel_athletes",
       "staticGenId": 62,
-      "tab": "celebrities",
+      "tab": "israel",
       "displayName": "Israeli Athletes",
       "displayNames": {
         "he": "ספורטאים ישראלים",
@@ -1826,12 +1850,24 @@
       "releaseDate": null,
       "isVip": false,
       "sortOrder": 62,
-      "questionCount": 20
+      "questionCount": 20,
+      "dataUrls": {
+        "he": "https://raw.githubusercontent.com/LeaSolBok/LeaSolBok.github.io/main/actorquiz/packages/israel_athletes/data_he.json",
+        "ar": "https://raw.githubusercontent.com/LeaSolBok/LeaSolBok.github.io/main/actorquiz/packages/israel_athletes/data_ar.json",
+        "es": "https://raw.githubusercontent.com/LeaSolBok/LeaSolBok.github.io/main/actorquiz/packages/israel_athletes/data_es.json",
+        "ru": "https://raw.githubusercontent.com/LeaSolBok/LeaSolBok.github.io/main/actorquiz/packages/israel_athletes/data_ru.json",
+        "ja": "https://raw.githubusercontent.com/LeaSolBok/LeaSolBok.github.io/main/actorquiz/packages/israel_athletes/data_ja.json",
+        "ko": "https://raw.githubusercontent.com/LeaSolBok/LeaSolBok.github.io/main/actorquiz/packages/israel_athletes/data_ko.json",
+        "zh": "https://raw.githubusercontent.com/LeaSolBok/LeaSolBok.github.io/main/actorquiz/packages/israel_athletes/data_zh.json",
+        "el": "https://raw.githubusercontent.com/LeaSolBok/LeaSolBok.github.io/main/actorquiz/packages/israel_athletes/data_el.json",
+        "am": "https://raw.githubusercontent.com/LeaSolBok/LeaSolBok.github.io/main/actorquiz/packages/israel_athletes/data_am.json",
+        "hi": "https://raw.githubusercontent.com/LeaSolBok/LeaSolBok.github.io/main/actorquiz/packages/israel_athletes/data_hi.json"
+      }
     },
     {
       "id": "israel_authors",
       "staticGenId": 63,
-      "tab": "celebrities",
+      "tab": "israel",
       "displayName": "Israeli Authors",
       "displayNames": {
         "he": "סופרים ישראלים",
@@ -1844,12 +1880,24 @@
       "releaseDate": null,
       "isVip": false,
       "sortOrder": 63,
-      "questionCount": 1
+      "questionCount": 1,
+      "dataUrls": {
+        "he": "https://raw.githubusercontent.com/LeaSolBok/LeaSolBok.github.io/main/actorquiz/packages/israel_authors/data_he.json",
+        "ar": "https://raw.githubusercontent.com/LeaSolBok/LeaSolBok.github.io/main/actorquiz/packages/israel_authors/data_ar.json",
+        "es": "https://raw.githubusercontent.com/LeaSolBok/LeaSolBok.github.io/main/actorquiz/packages/israel_authors/data_es.json",
+        "ru": "https://raw.githubusercontent.com/LeaSolBok/LeaSolBok.github.io/main/actorquiz/packages/israel_authors/data_ru.json",
+        "ja": "https://raw.githubusercontent.com/LeaSolBok/LeaSolBok.github.io/main/actorquiz/packages/israel_authors/data_ja.json",
+        "ko": "https://raw.githubusercontent.com/LeaSolBok/LeaSolBok.github.io/main/actorquiz/packages/israel_authors/data_ko.json",
+        "zh": "https://raw.githubusercontent.com/LeaSolBok/LeaSolBok.github.io/main/actorquiz/packages/israel_authors/data_zh.json",
+        "el": "https://raw.githubusercontent.com/LeaSolBok/LeaSolBok.github.io/main/actorquiz/packages/israel_authors/data_el.json",
+        "am": "https://raw.githubusercontent.com/LeaSolBok/LeaSolBok.github.io/main/actorquiz/packages/israel_authors/data_am.json",
+        "hi": "https://raw.githubusercontent.com/LeaSolBok/LeaSolBok.github.io/main/actorquiz/packages/israel_authors/data_hi.json"
+      }
     },
     {
       "id": "israel_comedians",
       "staticGenId": 65,
-      "tab": "celebrities",
+      "tab": "israel",
       "displayName": "Israeli Comedians",
       "displayNames": {
         "he": "קומיקאים ישראלים",
@@ -1862,12 +1910,24 @@
       "releaseDate": null,
       "isVip": false,
       "sortOrder": 65,
-      "questionCount": 13
+      "questionCount": 13,
+      "dataUrls": {
+        "he": "https://raw.githubusercontent.com/LeaSolBok/LeaSolBok.github.io/main/actorquiz/packages/israel_comedians/data_he.json",
+        "ar": "https://raw.githubusercontent.com/LeaSolBok/LeaSolBok.github.io/main/actorquiz/packages/israel_comedians/data_ar.json",
+        "es": "https://raw.githubusercontent.com/LeaSolBok/LeaSolBok.github.io/main/actorquiz/packages/israel_comedians/data_es.json",
+        "ru": "https://raw.githubusercontent.com/LeaSolBok/LeaSolBok.github.io/main/actorquiz/packages/israel_comedians/data_ru.json",
+        "ja": "https://raw.githubusercontent.com/LeaSolBok/LeaSolBok.github.io/main/actorquiz/packages/israel_comedians/data_ja.json",
+        "ko": "https://raw.githubusercontent.com/LeaSolBok/LeaSolBok.github.io/main/actorquiz/packages/israel_comedians/data_ko.json",
+        "zh": "https://raw.githubusercontent.com/LeaSolBok/LeaSolBok.github.io/main/actorquiz/packages/israel_comedians/data_zh.json",
+        "el": "https://raw.githubusercontent.com/LeaSolBok/LeaSolBok.github.io/main/actorquiz/packages/israel_comedians/data_el.json",
+        "am": "https://raw.githubusercontent.com/LeaSolBok/LeaSolBok.github.io/main/actorquiz/packages/israel_comedians/data_am.json",
+        "hi": "https://raw.githubusercontent.com/LeaSolBok/LeaSolBok.github.io/main/actorquiz/packages/israel_comedians/data_hi.json"
+      }
     },
     {
       "id": "israel_personalities",
       "staticGenId": 66,
-      "tab": "celebrities",
+      "tab": "israel",
       "displayName": "Israeli Personalities",
       "displayNames": {
         "he": "אנשי ציבור ישראלים",
@@ -1880,7 +1940,19 @@
       "releaseDate": null,
       "isVip": false,
       "sortOrder": 66,
-      "questionCount": 17
+      "questionCount": 17,
+      "dataUrls": {
+        "he": "https://raw.githubusercontent.com/LeaSolBok/LeaSolBok.github.io/main/actorquiz/packages/israel_personalities/data_he.json",
+        "ar": "https://raw.githubusercontent.com/LeaSolBok/LeaSolBok.github.io/main/actorquiz/packages/israel_personalities/data_ar.json",
+        "es": "https://raw.githubusercontent.com/LeaSolBok/LeaSolBok.github.io/main/actorquiz/packages/israel_personalities/data_es.json",
+        "ru": "https://raw.githubusercontent.com/LeaSolBok/LeaSolBok.github.io/main/actorquiz/packages/israel_personalities/data_ru.json",
+        "ja": "https://raw.githubusercontent.com/LeaSolBok/LeaSolBok.github.io/main/actorquiz/packages/israel_personalities/data_ja.json",
+        "ko": "https://raw.githubusercontent.com/LeaSolBok/LeaSolBok.github.io/main/actorquiz/packages/israel_personalities/data_ko.json",
+        "zh": "https://raw.githubusercontent.com/LeaSolBok/LeaSolBok.github.io/main/actorquiz/packages/israel_personalities/data_zh.json",
+        "el": "https://raw.githubusercontent.com/LeaSolBok/LeaSolBok.github.io/main/actorquiz/packages/israel_personalities/data_el.json",
+        "am": "https://raw.githubusercontent.com/LeaSolBok/LeaSolBok.github.io/main/actorquiz/packages/israel_personalities/data_am.json",
+        "hi": "https://raw.githubusercontent.com/LeaSolBok/LeaSolBok.github.io/main/actorquiz/packages/israel_personalities/data_hi.json"
+      }
     },
     {
       "id": "avatar",
