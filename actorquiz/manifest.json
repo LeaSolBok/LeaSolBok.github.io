@@ -2923,6 +2923,46 @@
         "zh": "游戏趣闻",
         "el": "Γεγονότα Παιχνιδιών"
       }
+    },
+    {
+      "id": "france",
+      "tab": "celebrities",
+      "displayName": "French Celebs",
+      "displayNames": {
+        "de": "Französische Promis",
+        "fr": "Célébrités françaises",
+        "es": "Famosos franceses",
+        "he": "מפורסמים צרפתים"
+      },
+      "cardImageUrl": "https://raw.githubusercontent.com/LeaSolBok/LeaSolBok.github.io/main/actorquiz/packages/france/card.webp",
+      "dataUrl": "https://raw.githubusercontent.com/LeaSolBok/LeaSolBok.github.io/main/actorquiz/packages/france/data.json",
+      "geminiFolder": "france",
+      "originalFolder": "france",
+      "releaseDate": null,
+      "isVip": false,
+      "sortOrder": 37,
+      "questionCount": 10,
+      "pinnedOnFirstRun": false
+    },
+    {
+      "id": "germany",
+      "tab": "celebrities",
+      "displayName": "German Celebs",
+      "displayNames": {
+        "de": "Deutsche Promis",
+        "fr": "Célébrités allemandes",
+        "es": "Famosos alemanes",
+        "he": "מפורסמים גרמנים"
+      },
+      "cardImageUrl": "https://raw.githubusercontent.com/LeaSolBok/LeaSolBok.github.io/main/actorquiz/packages/germany/card.webp",
+      "dataUrl": "https://raw.githubusercontent.com/LeaSolBok/LeaSolBok.github.io/main/actorquiz/packages/germany/data.json",
+      "geminiFolder": "germany",
+      "originalFolder": "germany",
+      "releaseDate": null,
+      "isVip": false,
+      "sortOrder": 38,
+      "questionCount": 5,
+      "pinnedOnFirstRun": false
     }
   ]
 }
