@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.soldar.drawfind",
+      "sha256_cert_fingerprints": [
+        "E8:88:FF:2B:0C:4B:52:DD:C2:DC:5F:08:F3:67:E7:9B:04:BC:FE:99:48:3D:B7:72:77:B1:E3:2D:21:7C:E2:6F"
+      ]
+    }
+  }
+]
