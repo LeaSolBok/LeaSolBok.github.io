@@ -21,6 +21,8 @@
         "he": "שחקני הוליווד",
         "hi": "हॉलीवुड अभिनेता",
         "ar": "ممثلو هوليوود",
+        "fr": "Acteurs hollywoodiens",
+        "de": "Hollywood-Schauspieler",
         "ja": "ハリウッド俳優",
         "ko": "할리우드 배우",
         "zh": "好莱坞演员",
@@ -46,6 +48,8 @@
         "he": "זמרים",
         "hi": "गायक",
         "ar": "مغنون",
+        "fr": "Chanteurs",
+        "de": "Sänger",
         "ja": "歌手",
         "ko": "가수",
         "zh": "歌手",
@@ -71,6 +75,8 @@
         "he": "דוגמניות",
         "hi": "मॉडल",
         "ar": "عارضات أزياء",
+        "fr": "Mannequins",
+        "de": "Fotomodelle",
         "ja": "モデル",
         "ko": "모델",
         "zh": "模特",
@@ -96,6 +102,8 @@
         "he": "כוכבי ריאליטי",
         "hi": "रियलिटी स्टार्स",
         "ar": "نجوم الواقع",
+        "fr": "Stars de téléréalité",
+        "de": "Reality-Stars",
         "ja": "リアリティスター",
         "ko": "리얼리티 스타",
         "zh": "真人秀明星",
@@ -121,6 +129,8 @@
         "he": "במאים",
         "hi": "निर्देशक",
         "ar": "مخرجون",
+        "fr": "Réalisateurs",
+        "de": "Regisseure",
         "ja": "映画監督",
         "ko": "감독",
         "zh": "导演",
@@ -141,11 +151,13 @@
       "questionCount": 88,
       "displayNames": {
         "am": "ሼፎች",
-        "es": "Chefs",
+        "es": "Cocineros",
         "ru": "Шеф-повара",
         "he": "שפים",
         "hi": "शेफ",
         "ar": "طهاة",
+        "fr": "Chefs cuisiniers",
+        "de": "Köche",
         "ja": "シェフ",
         "ko": "셰프",
         "zh": "厨师",
@@ -171,6 +183,8 @@
         "he": "ספורטאים",
         "hi": "एथलीट",
         "ar": "رياضيون",
+        "fr": "Athlètes",
+        "de": "Sportler",
         "ja": "アスリート",
         "ko": "운동선수",
         "zh": "运动员",
@@ -196,6 +210,8 @@
         "he": "סופרים",
         "hi": "लेखक",
         "ar": "مؤلفون",
+        "fr": "Auteurs",
+        "de": "Autoren",
         "ja": "作家",
         "ko": "작가",
         "zh": "作家",
@@ -221,6 +237,8 @@
         "he": "מדענים",
         "hi": "वैज्ञानिक",
         "ar": "علماء",
+        "fr": "Scientifiques",
+        "de": "Wissenschaftler",
         "ja": "科学者",
         "ko": "과학자",
         "zh": "科学家",
@@ -244,6 +262,8 @@
         "he": "הורים",
         "hi": "माता-पिता",
         "ar": "الوالدان",
+        "fr": "Parents célèbres",
+        "de": "Berühmte Eltern",
         "ja": "親",
         "ko": "부모",
         "zh": "父母",
@@ -261,6 +281,8 @@
         "he": "תמונות ילדות",
         "hi": "बचपन की तस्वीरें",
         "ar": "صور الطفولة",
+        "fr": "Photos d’enfance",
+        "de": "Kinderfotos",
         "ja": "子ども時代の写真",
         "ko": "어린 시절 사진",
         "zh": "童年照片",
@@ -286,6 +308,8 @@
         "he": "קרוב ואישי",
         "hi": "क्लोज़ अप",
         "ar": "عن قرب وشخصي",
+        "fr": "De près et personnel",
+        "de": "Ganz nah und persönlich",
         "ja": "クローズアップ",
         "ko": "클로즈업",
         "zh": "特写",
@@ -310,6 +334,8 @@
         "he": "אוסף מאתגר",
         "hi": "कठिन कलेक्शन",
         "ar": "المجموعة الصعبة",
+        "fr": "Collection difficile",
+        "de": "Schwierige Sammlung",
         "ja": "チャレンジコレクション",
         "ko": "도전 컬렉션",
         "zh": "挑战收藏",
@@ -335,6 +361,8 @@
         "he": "ערבוב דמויות",
         "hi": "किरदार मिक्सअप",
         "ar": "خلط الشخصيات",
+        "fr": "Méli-mélo de personnages",
+        "de": "Figuren-Mix",
         "ja": "キャラクターミックス",
         "ko": "캐릭터 믹스업",
         "zh": "角色混搭",
@@ -359,16 +387,18 @@
       "geminiFolder": "actors-influencers/gemini",
       "originalFolder": "actors-influencers/influencers",
       "displayNames": {
-        "am": "ኢንፍሉዌንሰሮች",
+        "am": "ተጽዕኖ ፈጣሪዎች",
         "es": "Influencers",
         "ru": "Инфлюенсеры",
-        "he": "אינפלואנסרים",
+        "he": "משפיענים",
         "hi": "इन्फ्लुएंसर",
         "ar": "مؤثرون",
+        "fr": "Influenceurs",
+        "de": "Influencer",
         "ja": "インフルエンサー",
         "ko": "인플루언서",
         "zh": "网红",
-        "el": "Influencers"
+        "el": "Δημιουργοί περιεχομένου"
       }
     },
     {
@@ -390,6 +420,8 @@
         "he": "אופנה",
         "hi": "फैशन",
         "ar": "الموضة",
+        "fr": "Mode",
+        "de": "Mode",
         "ja": "ファッション",
         "ko": "패션",
         "zh": "时尚",
@@ -415,6 +447,8 @@
         "he": "קומיקאים",
         "hi": "हास्य कलाकार",
         "ar": "كوميديون",
+        "fr": "Humoristes",
+        "de": "Komiker",
         "ja": "コメディアン",
         "ko": "코미디언",
         "zh": "喜剧演员",
@@ -440,6 +474,8 @@
         "he": "דמויות היסטוריות",
         "hi": "ऐतिहासिक शख्सियतें",
         "ar": "شخصيات تاريخية",
+        "fr": "Personnages historiques",
+        "de": "Historische Persönlichkeiten",
         "ja": "歴史上の人物",
         "ko": "역사적 인물",
         "zh": "历史人物",
@@ -465,6 +501,8 @@
         "he": "פוליטיקאים",
         "hi": "राजनेता",
         "ar": "سياسيون",
+        "fr": "Politiciens",
+        "de": "Politiker",
         "ja": "政治家",
         "ko": "정치인",
         "zh": "政治家",
@@ -484,16 +522,18 @@
       "geminiFolder": "actors-rip/gemini",
       "originalFolder": "actors-rip/rip",
       "displayNames": {
-        "am": "R.I.P.",
-        "es": "R.I.P.",
-        "ru": "R.I.P.",
+        "am": "የሞቱ ታዋቂዎች",
+        "es": "Fallecidos",
+        "ru": "Ушедшие из жизни",
         "he": "נפטרו",
-        "hi": "R.I.P.",
-        "ar": "R.I.P.",
-        "ja": "R.I.P.",
-        "ko": "R.I.P.",
-        "zh": "R.I.P.",
-        "el": "R.I.P."
+        "hi": "दिवंगत हस्तियां",
+        "ar": "مشاهير راحلون",
+        "fr": "Disparus",
+        "de": "Verstorbene",
+        "ja": "故人",
+        "ko": "고인이 된 유명인",
+        "zh": "已故名人",
+        "el": "Αποθανόντες"
       }
     },
     {
@@ -510,15 +550,17 @@
       "originalFolder": "actors-gamers/gamers",
       "displayNames": {
         "am": "ጌመሮች",
-        "es": "Gamers",
+        "es": "Jugadores",
         "ru": "Геймеры",
         "he": "גיימרים",
         "hi": "गेमर्स",
         "ar": "لاعبون",
+        "fr": "Joueurs",
+        "de": "Gamer",
         "ja": "ゲーマー",
         "ko": "게이머",
         "zh": "游戏玩家",
-        "el": "Gamers"
+        "el": "Παίκτες"
       }
     },
     {
@@ -540,6 +582,8 @@
         "he": "נשיאים",
         "hi": "राष्ट्रपति",
         "ar": "رؤساء",
+        "fr": "Présidents",
+        "de": "Präsidenten",
         "ja": "大統領",
         "ko": "대통령",
         "zh": "总统",
@@ -565,6 +609,8 @@
         "he": "רוצחים סדרתיים",
         "hi": "सीरियल किलर",
         "ar": "قتلة متسلسلون",
+        "fr": "Tueurs en série",
+        "de": "Serienmörder",
         "ja": "シリアルキラー",
         "ko": "연쇄 살인마",
         "zh": "连环杀手",
@@ -598,15 +644,17 @@
       "questionCount": 182,
       "displayNames": {
         "am": "ድራጎን ቦል",
-        "es": "Dragon Ball",
+        "es": "Bola de Dragón",
         "ru": "Драконий жемчуг",
         "he": "דרגון בול",
         "hi": "ड्रैगन बॉल",
         "ar": "دراغون بول",
+        "fr": "Boules de dragon",
+        "de": "Drachenkugel",
         "ja": "ドラゴンボール",
         "ko": "드래곤볼",
         "zh": "龙珠",
-        "el": "Dragon Ball"
+        "el": "Μπάλα του Δράκου"
       }
     },
     {
@@ -636,15 +684,17 @@
       "questionCount": 189,
       "displayNames": {
         "am": "ብሊች",
-        "es": "Bleach",
+        "es": "Decolorante",
         "ru": "Блич",
         "he": "בליץ'",
         "hi": "ब्लीच",
         "ar": "بليتش",
+        "fr": "Eau de Javel",
+        "de": "Bleichmittel",
         "ja": "ブリーチ",
         "ko": "블리치",
         "zh": "死神",
-        "el": "Bleach"
+        "el": "Χλωρίνη"
       }
     },
     {
@@ -674,15 +724,17 @@
       "questionCount": 152,
       "displayNames": {
         "am": "ዲሞን ስሌየር",
-        "es": "Demon Slayer",
+        "es": "Cazador de demonios",
         "ru": "Клинок, рассекающий демонов",
         "he": "קוצר השדים",
         "hi": "डेमन स्लेयर",
         "ar": "قاتل الشياطي��",
+        "fr": "Pourfendeur de démons",
+        "de": "Dämonenjäger",
         "ja": "鬼滅の刃",
         "ko": "귀멸의 칼날",
         "zh": "鬼灭之刃",
-        "el": "Demon Slayer"
+        "el": "Κυνηγός Δαιμόνων"
       }
     },
     {
@@ -712,15 +764,17 @@
       "questionCount": 254,
       "displayNames": {
         "am": "ስታር ዋርስ",
-        "es": "Star Wars",
+        "es": "La guerra de las galaxias",
         "ru": "Звёздные войны",
         "he": "מלחמת הכוכבים",
         "hi": "स्टार वॉर्स",
         "ar": "حرب النجوم",
+        "fr": "La Guerre des étoiles",
+        "de": "Krieg der Sterne",
         "ja": "スター・ウォーズ",
         "ko": "스타워즈",
         "zh": "星球大战",
-        "el": "Star Wars"
+        "el": "Πόλεμος των Άστρων"
       }
     },
     {
@@ -754,10 +808,12 @@
         "he": "משחקי הכס",
         "hi": "गेम ऑफ थ्रोन्स",
         "ar": "صراع العروش",
+        "fr": "Le Trône de fer",
+        "de": "Das Lied von Eis und Feuer",
         "ja": "ゲーム・オブ・スローンズ",
         "ko": "왕좌의 게임",
         "zh": "权力的游戏",
-        "el": "Game of Thrones"
+        "el": "Παιχνίδι του Στέμματος"
       }
     },
     {
@@ -792,10 +848,12 @@
         "he": "פעם בממלכה קסומה",
         "hi": "वन्स अपॉन अ टाइम",
         "ar": "كان يا ما كان",
+        "fr": "Il était une fois",
+        "de": "Es war einmal",
         "ja": "ワンス・アポン・ア・タイム",
         "ko": "원스 어폰 어 타임",
         "zh": "童话镇",
-        "el": "Once Upon a Time"
+        "el": "Μια φορά κι έναν καιρό"
       }
     },
     {
@@ -825,15 +883,17 @@
       "questionCount": 130,
       "displayNames": {
         "am": "ጁጁትሱ ካይሰን",
-        "es": "Jujutsu Kaisen",
+        "es": "Hechicería Kaisen",
         "ru": "Магическая битва",
         "he": "ג'וג'וטסו קייסן",
         "hi": "जुजुत्सु काइसेन",
         "ar": "جوجوتسو كايسن",
+        "fr": "Combat de sorcellerie",
+        "de": "Magiekampf Kaisen",
         "ja": "呪術廻戦",
         "ko": "주술회전",
         "zh": "咒术回战",
-        "el": "Jujutsu Kaisen"
+        "el": "Μάχη Μαγείας"
       }
     },
     {
@@ -847,6 +907,8 @@
         "he": "מיזוג פנים",
         "hi": "फेस मैशअप",
         "ar": "دمج الوجوه",
+        "fr": "Mashup de visages",
+        "de": "Gesichter-Mashup",
         "ja": "フェイスマッシュアップ",
         "ko": "얼굴 매시업",
         "zh": "人脸混搭",
@@ -892,10 +954,12 @@
         "he": "שנות ה-70",
         "hi": "दैट 70s शो",
         "ar": "عرض السبعينيات",
+        "fr": "That ’70s Show",
+        "de": "Die wilden Siebziger",
         "ja": "ザット'70sショー",
         "ko": "70년대 쇼",
         "zh": "70年代秀",
-        "el": "That '70s Show"
+        "el": "Εκείνη η εκπομπή των 70s"
       }
     },
     {
@@ -903,16 +967,18 @@
       "tab": "special",
       "displayName": "Saturday Night Live",
       "displayNames": {
-        "am": "Saturday Night Live",
-        "es": "Saturday Night Live",
+        "am": "ቅዳሜ ምሽት ቀጥታ",
+        "es": "Sábado por la noche en vivo",
         "ru": "Субботним вечером в прямом эфире",
         "he": "מוצאי שבת בשידור חי",
-        "hi": "Saturday Night Live",
-        "ar": "Saturday Night Live",
+        "hi": "शनिवार रात लाइव",
+        "ar": "ليلة السبت مباشرة",
+        "fr": "Samedi soir en direct",
+        "de": "Samstagabend live",
         "ja": "サタデー・ナイト・ライブ",
-        "ko": "Saturday Night Live",
+        "ko": "토요일 밤 라이브",
         "zh": "周六夜现场",
-        "el": "Saturday Night Live"
+        "el": "Ζωντανά το Σάββατο βράδυ"
       },
       "cardImageUrl": "https://raw.githubusercontent.com/LeaSolBok/LeaSolBok.github.io/main/actorquiz/packages/snl/card.webp",
       "dataUrl": "https://raw.githubusercontent.com/LeaSolBok/LeaSolBok.github.io/main/actorquiz/packages/snl/data.json",
@@ -955,10 +1021,12 @@
         "he": "שניים וחצי גברים",
         "hi": "टू एंड हाफ मेन",
         "ar": "رجلان ونصف",
+        "fr": "Mon oncle Charlie",
+        "de": "Zweieinhalb Männer",
         "ja": "ハーパー★ボーイズ",
         "ko": "투 앤 하프 맨",
         "zh": "好汉两个半",
-        "el": "Two and a Half Men"
+        "el": "Δύο και μισός άντρες"
       }
     },
     {
@@ -994,6 +1062,8 @@
         "he": "פוקימון",
         "hi": "पोकेमॉन",
         "ar": "بوكيمون",
+        "fr": "Pokémon",
+        "de": "Pokémon",
         "ja": "ポケモン",
         "ko": "포켓몬",
         "zh": "宝可梦",
@@ -1029,8 +1099,10 @@
         "es": "Películas",
         "ru": "Фильмы",
         "he": "סרטים",
-        "hi": "फिल्में",
+        "hi": "फ़िल्में",
         "ar": "أفلام",
+        "fr": "Films",
+        "de": "Filme",
         "ja": "映画",
         "ko": "영화",
         "zh": "电影",
@@ -1068,6 +1140,8 @@
         "he": "משחקי וידאו",
         "hi": "वीडियो गेम",
         "ar": "ألعاب الفيديو",
+        "fr": "Jeux vidéo",
+        "de": "Videospiele",
         "ja": "ビデオゲーム",
         "ko": "비디오 게임",
         "zh": "电子游戏",
@@ -1100,15 +1174,17 @@
       },
       "displayNames": {
         "am": "አኒሜ",
-        "es": "Anime",
+        "es": "Animación japonesa",
         "ru": "Аниме",
         "he": "אנימה",
         "hi": "एनिमे",
         "ar": "أنمي",
+        "fr": "Animation japonaise",
+        "de": "Japanische Animation",
         "ja": "アニメ",
         "ko": "애니메이션",
         "zh": "动漫",
-        "el": "Anime"
+        "el": "Ιαπωνικά κινούμενα σχέδια"
       }
     },
     {
@@ -1136,16 +1212,18 @@
         "zh": "https://raw.githubusercontent.com/LeaSolBok/LeaSolBok.github.io/main/actorquiz/packages/tvshows/data_zh.json"
       },
       "displayNames": {
-        "am": "የቴሌቪዥን ትዕይንቶች",
+        "am": "የቴሌቪዥን ትርዒቶች",
         "es": "Series de TV",
-        "ru": "Сериалы",
+        "ru": "Телешоу",
         "he": "סדרות טלוויזיה",
         "hi": "टीवी शो",
         "ar": "مسلسلات تلفزيونية",
+        "fr": "Séries TV",
+        "de": "TV-Serien",
         "ja": "テレビ番組",
-        "ko": "TV 시리즈",
-        "zh": "电视剧",
-        "el": "Τηλεοπτικές Σειρές"
+        "ko": "TV 프로그램",
+        "zh": "电视节目",
+        "el": "Τηλεοπτικές σειρές"
       }
     },
     {
@@ -1178,6 +1256,8 @@
         "he": "חברות",
         "hi": "कंपनियाँ",
         "ar": "شركات",
+        "fr": "Entreprises",
+        "de": "Unternehmen",
         "ja": "企業",
         "ko": "기업",
         "zh": "公司",
@@ -1214,6 +1294,8 @@
         "he": "קבוצות כדורגל",
         "hi": "फुटबॉल टीमें",
         "ar": "فرق كرة القدم",
+        "fr": "Équipes de football",
+        "de": "Fußballteams",
         "ja": "サッカーチーム",
         "ko": "축구팀",
         "zh": "足球队",
@@ -1250,6 +1332,8 @@
         "he": "מכוניות",
         "hi": "कारें",
         "ar": "سيارات",
+        "fr": "Voitures",
+        "de": "Autos",
         "ja": "車",
         "ko": "자동차",
         "zh": "汽车",
@@ -1262,7 +1346,18 @@
       "staticGenId": 45,
       "displayName": "Flags",
       "displayNames": {
-        "he": "דגלים"
+        "am": "ባንዲራዎች",
+        "es": "Banderas",
+        "ru": "Флаги",
+        "he": "דגלים",
+        "hi": "झंडे",
+        "ar": "أعلام",
+        "fr": "Drapeaux",
+        "de": "Flaggen",
+        "ja": "旗",
+        "ko": "국기",
+        "zh": "旗帜",
+        "el": "Σημαίες"
       },
       "cardImageUrl": "https://raw.githubusercontent.com/LeaSolBok/LeaSolBok.github.io/main/actorquiz/packages/flags/card.webp",
       "dataUrl": "https://raw.githubusercontent.com/LeaSolBok/LeaSolBok.github.io/main/actorquiz/packages/flags/data.json",
@@ -1312,15 +1407,17 @@
       "questionCount": 128,
       "displayNames": {
         "am": "ቼይንሶ ማን",
-        "es": "Chainsaw Man",
+        "es": "Hombre motosierra",
         "ru": "Человек-бензопила",
         "he": "מסור שרשרת",
         "hi": "चेनसॉ मैन",
         "ar": "رجل المنشار",
+        "fr": "L’homme tronçonneuse",
+        "de": "Kettensägenmann",
         "ja": "チェンソーマン",
         "ko": "체인소 맨",
         "zh": "电锯人",
-        "el": "Chainsaw Man"
+        "el": "Άνθρωπος Αλυσοπρίονο"
       }
     },
     {
@@ -1355,10 +1452,12 @@
         "he": "יקום החץ",
         "hi": "ऐरोवर्स",
         "ar": "عالم آرو",
+        "fr": "Univers d’Arrow",
+        "de": "Arrow-Universum",
         "ja": "アローバース",
         "ko": "애로우버스",
         "zh": "绿箭宇宙",
-        "el": "Arrowverse"
+        "el": "Σύμπαν του Arrow"
       }
     },
     {
@@ -1392,6 +1491,8 @@
         "he": "קומיקס ומצויירים",
         "hi": "कार्टून",
         "ar": "رسوم متحركة",
+        "fr": "Dessins animés",
+        "de": "Zeichentrickfilme",
         "ja": "カートゥーン",
         "ko": "만화",
         "zh": "卡通",
@@ -1430,10 +1531,12 @@
         "he": "ריק ומורטי",
         "hi": "रिक एंड मोर्टी",
         "ar": "ريك ومورتي",
+        "fr": "Rick et Morty",
+        "de": "Rick und Morty",
         "ja": "リック・アンド・モーティ",
         "ko": "릭 앤 모티",
         "zh": "瑞克和莫蒂",
-        "el": "Rick and Morty"
+        "el": "Ρικ και Μόρτι"
       }
     },
     {
@@ -1463,15 +1566,17 @@
       "questionCount": 284,
       "displayNames": {
         "am": "ፍሬንድስ",
-        "es": "Friends",
+        "es": "Amigos",
         "ru": "Друзья",
         "he": "חברים",
         "hi": "फ्रेंड्स",
         "ar": "الأصدقاء",
+        "fr": "Amis",
+        "de": "Freunde",
         "ja": "フレンズ",
         "ko": "프렌즈",
         "zh": "老友记",
-        "el": "Friends"
+        "el": "Φίλοι"
       }
     },
     {
@@ -1498,15 +1603,17 @@
       "questionCount": 105,
       "displayNames": {
         "am": "አኒሜ",
-        "es": "Anime",
+        "es": "Animación japonesa",
         "ru": "Аниме",
         "he": "אנימה",
         "hi": "एनिमे",
         "ar": "أنمي",
+        "fr": "Animation japonaise",
+        "de": "Japanische Animation",
         "ja": "アニメ",
         "ko": "애니메이션",
         "zh": "动漫",
-        "el": "Anime"
+        "el": "Ιαπωνικά κινούμενα σχέδια"
       }
     },
     {
@@ -1538,6 +1645,8 @@
         "he": "מצויירים",
         "hi": "कार्टून",
         "ar": "رسوم متحركة",
+        "fr": "Dessins animés",
+        "de": "Zeichentrickfilme",
         "ja": "カートゥーン",
         "ko": "만화",
         "zh": "卡通",
@@ -1561,6 +1670,8 @@
         "he": "מפורסמים",
         "hi": "सेलेब्स",
         "ar": "مشاهير",
+        "fr": "Célébrités",
+        "de": "Promis",
         "ja": "セレブ",
         "ko": "셀럽",
         "zh": "名人",
@@ -1596,6 +1707,8 @@
         "he": "חברות",
         "hi": "कंपनियाँ",
         "ar": "شركات",
+        "fr": "Entreprises",
+        "de": "Unternehmen",
         "ja": "企業",
         "ko": "기업",
         "zh": "公司",
@@ -1631,6 +1744,8 @@
         "he": "משחקים",
         "hi": "गेम्स",
         "ar": "ألعاب",
+        "fr": "Jeux",
+        "de": "Spiele",
         "ja": "ゲーム",
         "ko": "게임",
         "zh": "游戏",
@@ -1664,8 +1779,10 @@
         "es": "Películas",
         "ru": "Фильмы",
         "he": "סרטים",
-        "hi": "फिल्में",
+        "hi": "फ़िल्में",
         "ar": "أفلام",
+        "fr": "Films",
+        "de": "Filme",
         "ja": "映画",
         "ko": "영화",
         "zh": "电影",
@@ -1695,16 +1812,18 @@
       "sortOrder": 57,
       "questionCount": 200,
       "displayNames": {
-        "am": "የቴሌቪዥን ትዕይንቶች",
+        "am": "የቴሌቪዥን ትርዒቶች",
         "es": "Series de TV",
-        "ru": "Сериалы",
+        "ru": "Телешоу",
         "he": "סדרות טלוויזיה",
         "hi": "टीवी शो",
         "ar": "مسلسلات تلفزيونية",
+        "fr": "Séries TV",
+        "de": "TV-Serien",
         "ja": "テレビ番組",
-        "ko": "TV 시리즈",
-        "zh": "电视剧",
-        "el": "Τηλεοπτικές Σειρές"
+        "ko": "TV 프로그램",
+        "zh": "电视节目",
+        "el": "Τηλεοπτικές σειρές"
       }
     },
     {
@@ -1738,6 +1857,8 @@
         "he": "עובדות על מפורסמים",
         "hi": "सेलेब तथ्य",
         "ar": "حقائق المشاهير",
+        "fr": "Infos sur les célébrités",
+        "de": "Promi-Fakten",
         "ja": "セレブの豆知識",
         "ko": "셀럽 팩트",
         "zh": "名人趣闻",
@@ -1756,7 +1877,8 @@
         "he": "עובדות סלבס ישראלים",
         "hi": "इज़राइली सेलिब्रिटी तथ्य",
         "ar": "حقائق مشاهير إسرائيل",
-        "fr": "Faits sur les celebrites israeliennes",
+        "fr": "Infos sur les célébrités israéliennes",
+        "de": "Fakten zu israelischen Promis",
         "ja": "イスラエルのセレブ豆知識",
         "ko": "이스라엘 셀럽 팩트",
         "zh": "以色列名人事实",
@@ -1778,8 +1900,18 @@
       "tab": "israel",
       "displayName": "Israeli Actors",
       "displayNames": {
+        "am": "እስራኤላዊ ተዋናዮች",
+        "es": "Actores israelíes",
+        "ru": "Израильские актёры",
         "he": "שחקנים ישראלים",
-        "ja": "イスラエルの俳優"
+        "hi": "इजराइली अभिनेता",
+        "ar": "ممثلون إسرائيليون",
+        "fr": "Acteurs israéliens",
+        "de": "Israelische Schauspieler",
+        "ja": "イスラエルの俳優",
+        "ko": "이스라엘 배우",
+        "zh": "以色列演员",
+        "el": "Ισραηλινοί ηθοποιοί"
       },
       "cardImageUrl": "https://raw.githubusercontent.com/LeaSolBok/LeaSolBok.github.io/main/actorquiz/packages/israel_actors/card.webp",
       "dataUrl": "https://raw.githubusercontent.com/LeaSolBok/LeaSolBok.github.io/main/actorquiz/packages/israel_actors/data.json",
@@ -1809,8 +1941,18 @@
       "tab": "israel",
       "displayName": "Israeli Singers",
       "displayNames": {
+        "am": "እስራኤላዊ ዘፋኞች",
+        "es": "Cantantes israelíes",
+        "ru": "Израильские певцы",
         "he": "זמרים ישראלים",
-        "ja": "イスラエルの歌手"
+        "hi": "इजराइली गायक",
+        "ar": "مغنون إسرائيليون",
+        "fr": "Chanteurs israéliens",
+        "de": "Israelische Sänger",
+        "ja": "イスラエルの歌手",
+        "ko": "이스라엘 가수",
+        "zh": "以色列歌手",
+        "el": "Ισραηλινοί τραγουδιστές"
       },
       "cardImageUrl": "https://raw.githubusercontent.com/LeaSolBok/LeaSolBok.github.io/main/actorquiz/packages/israel_singers/card.webp",
       "dataUrl": "https://raw.githubusercontent.com/LeaSolBok/LeaSolBok.github.io/main/actorquiz/packages/israel_singers/data.json",
@@ -1840,8 +1982,18 @@
       "tab": "israel",
       "displayName": "Israeli Athletes",
       "displayNames": {
+        "am": "እስራኤላዊ አትሌቶች",
+        "es": "Atletas israelíes",
+        "ru": "Израильские спортсмены",
         "he": "ספורטאים ישראלים",
-        "ja": "イスラエルのアスリート"
+        "hi": "इजराइली एथलीट",
+        "ar": "رياضيون إسرائيليون",
+        "fr": "Athlètes israéliens",
+        "de": "Israelische Sportler",
+        "ja": "イスラエルのアスリート",
+        "ko": "이스라엘 운동선수",
+        "zh": "以色列运动员",
+        "el": "Ισραηλινοί αθλητές"
       },
       "cardImageUrl": "https://raw.githubusercontent.com/LeaSolBok/LeaSolBok.github.io/main/actorquiz/packages/israel_athletes/card.webp",
       "dataUrl": "https://raw.githubusercontent.com/LeaSolBok/LeaSolBok.github.io/main/actorquiz/packages/israel_athletes/data.json",
@@ -1870,8 +2022,18 @@
       "tab": "israel",
       "displayName": "Israeli Authors",
       "displayNames": {
+        "am": "እስራኤላዊ ደራሲዎች",
+        "es": "Autores israelíes",
+        "ru": "Израильские авторы",
         "he": "סופרים ישראלים",
-        "ja": "イスラエルの作家"
+        "hi": "इजराइली लेखक",
+        "ar": "مؤلفون إسرائيليون",
+        "fr": "Auteurs israéliens",
+        "de": "Israelische Autoren",
+        "ja": "イスラエルの作家",
+        "ko": "이스라엘 작가",
+        "zh": "以色列作家",
+        "el": "Ισραηλινοί συγγραφείς"
       },
       "cardImageUrl": "https://raw.githubusercontent.com/LeaSolBok/LeaSolBok.github.io/main/actorquiz/packages/israel_authors/card.webp",
       "dataUrl": "https://raw.githubusercontent.com/LeaSolBok/LeaSolBok.github.io/main/actorquiz/packages/israel_authors/data.json",
@@ -1900,8 +2062,18 @@
       "tab": "israel",
       "displayName": "Israeli Comedians",
       "displayNames": {
+        "am": "እስራኤላዊ ኮሜዲያኖች",
+        "es": "Comediantes israelíes",
+        "ru": "Израильские комики",
         "he": "קומיקאים ישראלים",
-        "ja": "イスラエルのコメディアン"
+        "hi": "इजराइली कॉमेडियन",
+        "ar": "كوميديون إسرائيليون",
+        "fr": "Humoristes israéliens",
+        "de": "Israelische Comedians",
+        "ja": "イスラエルのコメディアン",
+        "ko": "이스라엘 코미디언",
+        "zh": "以色列喜剧演员",
+        "el": "Ισραηλινοί κωμικοί"
       },
       "cardImageUrl": "https://raw.githubusercontent.com/LeaSolBok/LeaSolBok.github.io/main/actorquiz/packages/israel_comedians/card.webp",
       "dataUrl": "https://raw.githubusercontent.com/LeaSolBok/LeaSolBok.github.io/main/actorquiz/packages/israel_comedians/data.json",
@@ -1930,8 +2102,18 @@
       "tab": "israel",
       "displayName": "Israeli Personalities",
       "displayNames": {
-        "he": "אנשי ציבור ישראלים",
-        "ja": "イスラエルの著名人"
+        "am": "እስራኤላዊ ታዋቂ ሰዎች",
+        "es": "Personalidades israelíes",
+        "ru": "Израильские знаменитости",
+        "he": "ידוענים ישראלים",
+        "hi": "इजराइली हस्तियां",
+        "ar": "شخصيات إسرائيلية",
+        "fr": "Personnalités israéliennes",
+        "de": "Israelische Persönlichkeiten",
+        "ja": "イスラエルの有名人",
+        "ko": "이스라엘 유명인",
+        "zh": "以色列名人",
+        "el": "Ισραηλινές προσωπικότητες"
       },
       "cardImageUrl": "https://raw.githubusercontent.com/LeaSolBok/LeaSolBok.github.io/main/actorquiz/packages/israel_personalities/card.webp",
       "dataUrl": "https://raw.githubusercontent.com/LeaSolBok/LeaSolBok.github.io/main/actorquiz/packages/israel_personalities/data.json",
@@ -1981,11 +2163,13 @@
       "questionCount": 204,
       "displayNames": {
         "am": "አቫታር",
-        "es": "Avatar",
+        "es": "Avatar: La leyenda de Aang",
         "ru": "Аватар",
         "he": "אווטאר",
         "hi": "अवतार",
         "ar": "أفاتار",
+        "fr": "Avatar : le dernier maître de l’air",
+        "de": "Avatar: Der Herr der Elemente",
         "ja": "アバター",
         "ko": "아바타",
         "zh": "阿凡达",
@@ -1998,7 +2182,18 @@
       "staticGenId": 68,
       "displayName": "Songs",
       "displayNames": {
-        "he": "שירים"
+        "am": "ዘፈኖች",
+        "es": "Canciones",
+        "ru": "Песни",
+        "he": "שירים",
+        "hi": "गीत",
+        "ar": "أغانٍ",
+        "fr": "Chansons",
+        "de": "Lieder",
+        "ja": "曲",
+        "ko": "노래",
+        "zh": "歌曲",
+        "el": "Τραγούδια"
       },
       "cardImageUrl": "https://raw.githubusercontent.com/LeaSolBok/LeaSolBok.github.io/main/actorquiz/packages/riddles_songs_rebus/card.webp",
       "dataUrl": "https://raw.githubusercontent.com/LeaSolBok/LeaSolBok.github.io/main/actorquiz/packages/riddles_songs_rebus/data.json",
@@ -2027,7 +2222,18 @@
       "staticGenId": 69,
       "displayName": "TV Shows",
       "displayNames": {
-        "he": "סדרות"
+        "am": "የቴሌቪዥን ትርዒቶች",
+        "es": "Series de TV",
+        "ru": "Телешоу",
+        "he": "סדרות טלוויזיה",
+        "hi": "टीवी शो",
+        "ar": "مسلسلات تلفزيونية",
+        "fr": "Séries TV",
+        "de": "TV-Serien",
+        "ja": "テレビ番組",
+        "ko": "TV 프로그램",
+        "zh": "电视节目",
+        "el": "Τηλεοπτικές σειρές"
       },
       "cardImageUrl": "https://raw.githubusercontent.com/LeaSolBok/LeaSolBok.github.io/main/actorquiz/packages/riddles_tv_rebus/card.webp",
       "dataUrl": "https://raw.githubusercontent.com/LeaSolBok/LeaSolBok.github.io/main/actorquiz/packages/riddles_tv_rebus/data.json",
@@ -2056,7 +2262,18 @@
       "staticGenId": 70,
       "displayName": "Hebrew Names",
       "displayNames": {
-        "he": "שמות בעברית"
+        "am": "የዕብራይስጥ ስሞች",
+        "es": "Nombres hebreos",
+        "ru": "Ивритские имена",
+        "he": "שמות בעברית",
+        "hi": "हिब्रू नाम",
+        "ar": "أسماء عبرية",
+        "fr": "Prénoms hébreux",
+        "de": "Hebräische Namen",
+        "ja": "ヘブライ語の名前",
+        "ko": "히브리어 이름",
+        "zh": "希伯来语名字",
+        "el": "Εβραϊκά ονόματα"
       },
       "cardImageUrl": "https://raw.githubusercontent.com/LeaSolBok/LeaSolBok.github.io/main/actorquiz/packages/riddles_henames/card.webp",
       "dataUrl": "https://raw.githubusercontent.com/LeaSolBok/LeaSolBok.github.io/main/actorquiz/packages/riddles_henames/data.json",
@@ -2073,7 +2290,18 @@
       "staticGenId": 71,
       "displayName": "Hebrew Songs",
       "displayNames": {
-        "he": "שירים בעברית"
+        "am": "የዕብራይስጥ ዘፈኖች",
+        "es": "Canciones hebreas",
+        "ru": "Песни на иврите",
+        "he": "שירים בעברית",
+        "hi": "हिब्रू गीत",
+        "ar": "أغانٍ عبرية",
+        "fr": "Chansons hébraïques",
+        "de": "Hebräische Lieder",
+        "ja": "ヘブライ語の曲",
+        "ko": "히브리어 노래",
+        "zh": "希伯来语歌曲",
+        "el": "Εβραϊκά τραγούδια"
       },
       "cardImageUrl": "https://raw.githubusercontent.com/LeaSolBok/LeaSolBok.github.io/main/actorquiz/packages/riddles_songs_rebus_he/card.webp",
       "dataUrl": "https://raw.githubusercontent.com/LeaSolBok/LeaSolBok.github.io/main/actorquiz/packages/riddles_songs_rebus_he/data.json",
@@ -2102,7 +2330,18 @@
       "staticGenId": 72,
       "displayName": "Movies",
       "displayNames": {
-        "he": "סרטים"
+        "am": "ፊልሞች",
+        "es": "Películas",
+        "ru": "Фильмы",
+        "he": "סרטים",
+        "hi": "फ़िल्में",
+        "ar": "أفلام",
+        "fr": "Films",
+        "de": "Filme",
+        "ja": "映画",
+        "ko": "영화",
+        "zh": "电影",
+        "el": "Ταινίες"
       },
       "cardImageUrl": "https://raw.githubusercontent.com/LeaSolBok/LeaSolBok.github.io/main/actorquiz/packages/riddles_movie_rebus/card.webp",
       "dataUrl": "https://raw.githubusercontent.com/LeaSolBok/LeaSolBok.github.io/main/actorquiz/packages/riddles_movie_rebus/data.json",
@@ -2131,7 +2370,18 @@
       "staticGenId": 73,
       "displayName": "Characters",
       "displayNames": {
-        "he": "דמויות"
+        "am": "ገጸ ባሕርያት",
+        "es": "Personajes",
+        "ru": "Персонажи",
+        "he": "דמויות",
+        "hi": "किरदार",
+        "ar": "شخصيات",
+        "fr": "Personnages",
+        "de": "Figuren",
+        "ja": "キャラクター",
+        "ko": "캐릭터",
+        "zh": "角色",
+        "el": "Χαρακτήρες"
       },
       "cardImageUrl": "https://raw.githubusercontent.com/LeaSolBok/LeaSolBok.github.io/main/actorquiz/packages/riddles_chars_rebus/card.webp",
       "dataUrl": "https://raw.githubusercontent.com/LeaSolBok/LeaSolBok.github.io/main/actorquiz/packages/riddles_chars_rebus/data.json",
@@ -2160,7 +2410,18 @@
       "staticGenId": 74,
       "displayName": "Celebrities",
       "displayNames": {
-        "he": "מפורסמים"
+        "am": "ታዋቂ ሰዎች",
+        "es": "Celebridades",
+        "ru": "Знаменитости",
+        "he": "מפורסמים",
+        "hi": "हस्तियां",
+        "ar": "مشاهير",
+        "fr": "Célébrités",
+        "de": "Prominente",
+        "ja": "有名人",
+        "ko": "유명인",
+        "zh": "名人",
+        "el": "Διασημότητες"
       },
       "cardImageUrl": "https://raw.githubusercontent.com/LeaSolBok/LeaSolBok.github.io/main/actorquiz/packages/riddles_celebrity_riddle_prompts/card.webp",
       "dataUrl": "https://raw.githubusercontent.com/LeaSolBok/LeaSolBok.github.io/main/actorquiz/packages/riddles_celebrity_riddle_prompts/data.json",
@@ -2177,7 +2438,18 @@
       "staticGenId": 75,
       "displayName": "Bands",
       "displayNames": {
-        "he": "להקות"
+        "am": "ባንዶች",
+        "es": "Bandas",
+        "ru": "Группы",
+        "he": "להקות",
+        "hi": "बैंड",
+        "ar": "فرق موسيقية",
+        "fr": "Groupes",
+        "de": "Musikgruppen",
+        "ja": "バンド",
+        "ko": "밴드",
+        "zh": "乐队",
+        "el": "Συγκροτήματα"
       },
       "cardImageUrl": "https://raw.githubusercontent.com/LeaSolBok/LeaSolBok.github.io/main/actorquiz/packages/riddles_bands_rebus/card.webp",
       "dataUrl": "https://raw.githubusercontent.com/LeaSolBok/LeaSolBok.github.io/main/actorquiz/packages/riddles_bands_rebus/data.json",
@@ -2227,15 +2499,17 @@
       "questionCount": 314,
       "displayNames": {
         "am": "ዋን ፒስ",
-        "es": "One Piece",
+        "es": "Una pieza",
         "ru": "Ван Пис",
         "he": "וואן פיס",
         "hi": "वन पीस",
         "ar": "ون بيس",
+        "fr": "Une pièce",
+        "de": "Ein Stück",
         "ja": "ワンピース",
         "ko": "원피스",
         "zh": "海贼王",
-        "el": "One Piece"
+        "el": "Ένα κομμάτι"
       }
     },
     {
@@ -2265,15 +2539,17 @@
       "questionCount": 146,
       "displayNames": {
         "am": "ዋን ፓንች ማን",
-        "es": "One Punch Man",
+        "es": "Hombre de un solo golpe",
         "ru": "Ванпанчмен",
         "he": "וואן פאנץ׳ מן",
         "hi": "वन पंच मैन",
         "ar": "ون بنش مان",
+        "fr": "L’homme au coup unique",
+        "de": "Ein-Schlag-Mann",
         "ja": "ワンパンマン",
         "ko": "원펀맨",
         "zh": "一拳超人",
-        "el": "One Punch Man"
+        "el": "Άνθρωπος με μία γροθιά"
       }
     },
     {
@@ -2282,7 +2558,18 @@
       "staticGenId": 78,
       "displayName": "Chibis",
       "displayNames": {
-        "he": "צ'יביז"
+        "am": "ቺቢዎች",
+        "es": "Personajes chibi",
+        "ru": "Чиби",
+        "he": "צ׳יבי",
+        "hi": "चिबी",
+        "ar": "تشيبي",
+        "fr": "Personnages chibi",
+        "de": "Chibi-Figuren",
+        "ja": "ちび",
+        "ko": "치비",
+        "zh": "Q版角色",
+        "el": "Χαριτωμένοι μικροί χαρακτήρες"
       },
       "cardImageUrl": "https://raw.githubusercontent.com/LeaSolBok/LeaSolBok.github.io/main/actorquiz/packages/chibis/card.png",
       "dataUrl": "https://raw.githubusercontent.com/LeaSolBok/LeaSolBok.github.io/main/actorquiz/packages/chibis/data.json",
@@ -2320,15 +2607,17 @@
       "questionCount": 51,
       "displayNames": {
         "am": "ኦቨርዎች",
-        "es": "Overwatch",
+        "es": "Vigilancia",
         "ru": "Овервотч",
         "he": "אוברווץ׳",
         "hi": "ओवरवॉच",
         "ar": "أوفرووتش",
+        "fr": "Surveillance",
+        "de": "Überwachung",
         "ja": "オーバーウォッチ",
         "ko": "오버워치",
         "zh": "守望先锋",
-        "el": "Overwatch"
+        "el": "Επιτήρηση"
       }
     },
     {
@@ -2358,15 +2647,17 @@
       "questionCount": 149,
       "displayNames": {
         "am": "ሀንተር ኤክስ ሀንተር",
-        "es": "Hunter x Hunter",
+        "es": "Cazador x Cazador",
         "ru": "Охотник × Охотник",
         "he": "האנטר x האנטר",
         "hi": "हंटर x हंटर",
         "ar": "هانتر × هانتر",
+        "fr": "Chasseur x Chasseur",
+        "de": "Jäger x Jäger",
         "ja": "HUNTER×HUNTER",
         "ko": "헌터 X 헌터",
         "zh": "全职猎人",
-        "el": "Hunter x Hunter"
+        "el": "Κυνηγός x Κυνηγός"
       }
     },
     {
@@ -2396,15 +2687,17 @@
       "questionCount": 46,
       "displayNames": {
         "am": "ዴዝ ኖት",
-        "es": "Death Note",
+        "es": "Cuaderno de muerte",
         "ru": "Тетрадь смерти",
         "he": "מחברת המוות",
         "hi": "डेथ नोट",
         "ar": "دفتر الموت",
+        "fr": "Cahier de la mort",
+        "de": "Todesnotiz",
         "ja": "デスノート",
         "ko": "데스노트",
         "zh": "死亡笔记",
-        "el": "Death Note"
+        "el": "Τετράδιο Θανάτου"
       }
     },
     {
@@ -2434,15 +2727,17 @@
       "questionCount": 150,
       "displayNames": {
         "am": "ናሩቶ",
-        "es": "Naruto",
+        "es": "Naruto: remolino",
         "ru": "Наруто",
         "he": "נארוטו",
         "hi": "नारुतो",
         "ar": "ناروتو",
+        "fr": "Naruto : tourbillon",
+        "de": "Naruto: Strudel",
         "ja": "ナルト",
         "ko": "나루토",
         "zh": "火影忍者",
-        "el": "Naruto"
+        "el": "Ναρούτο"
       }
     },
     {
@@ -2472,15 +2767,17 @@
       "questionCount": 172,
       "displayNames": {
         "am": "ሊግ ኦፍ ሌጀንድስ",
-        "es": "League of Legends",
+        "es": "Liga de leyendas",
         "ru": "Лига легенд",
         "he": "ליג אוף לג׳ינדס",
         "hi": "लीग ऑफ लीजेंड्स",
         "ar": "ليغ أوف ليجيندز",
+        "fr": "Ligue des légendes",
+        "de": "Liga der Legenden",
         "ja": "リーグ・オブ・レジェンド",
         "ko": "리그 오브 레전드",
         "zh": "英雄联盟",
-        "el": "League of Legends"
+        "el": "Λίγκα των Θρύλων"
       }
     },
     {
@@ -2510,15 +2807,17 @@
       "questionCount": 148,
       "displayNames": {
         "am": "ፉልሜታል አልኬሚስት",
-        "es": "Fullmetal Alchemist",
+        "es": "Alquimista de metal completo",
         "ru": "Стальной алхимик",
         "he": "אלכימאי המתכת",
         "hi": "फुलमेटल एल्केमिस्ट",
         "ar": "الكيميائي الفولاذي",
+        "fr": "Alchimiste de métal intégral",
+        "de": "Vollmetall-Alchemist",
         "ja": "鋼の錬金術師",
         "ko": "강철의 연금술사",
         "zh": "钢之炼金术师",
-        "el": "Fullmetal Alchemist"
+        "el": "Αλχημιστής από ατσάλι"
       }
     },
     {
@@ -2548,15 +2847,17 @@
       "questionCount": 537,
       "displayNames": {
         "am": "ማርቬል ስናፕ",
-        "es": "Marvel Snap",
-        "ru": "Marvel Snap",
+        "es": "Chasquido de Marvel",
+        "ru": "Щелчок Marvel",
         "he": "מארוול סנאפ",
         "hi": "मार्वल स्नैप",
         "ar": "مارفل سناب",
+        "fr": "Claquement Marvel",
+        "de": "Marvel-Schnippen",
         "ja": "マーベルスナップ",
         "ko": "마블 스냅",
         "zh": "漫威快打",
-        "el": "Marvel Snap"
+        "el": "Χτύπημα Marvel"
       }
     },
     {
@@ -2586,15 +2887,17 @@
       "questionCount": 162,
       "displayNames": {
         "am": "ኮሚዩኒቲ",
-        "es": "Community",
+        "es": "Comunidad",
         "ru": "Сообщество",
         "he": "קומיוניטי",
         "hi": "कम्युनिटी",
         "ar": "المجتمع",
+        "fr": "Communauté",
+        "de": "Gemeinschaft",
         "ja": "コミュニティ",
         "ko": "커뮤니티",
         "zh": "社区",
-        "el": "Community"
+        "el": "Κοινότητα"
       }
     },
     {
@@ -2624,15 +2927,17 @@
       "questionCount": 146,
       "displayNames": {
         "am": "ሶርድ አርት ኦንላይን",
-        "es": "Sword Art Online",
+        "es": "Arte de espada en línea",
         "ru": "Мастера меча онлайн",
         "he": "חרב אמנות אונליין",
         "hi": "स्वोर्ड आर्ट ऑनलाइन",
         "ar": "فن السيف أونلاين",
+        "fr": "Art de l’épée en ligne",
+        "de": "Schwertkunst Online",
         "ja": "ソードアート・オンライン",
         "ko": "소드 아트 온라인",
         "zh": "刀剑神域",
-        "el": "Sword Art Online"
+        "el": "Τέχνη Σπαθιού Online"
       }
     },
     {
@@ -2662,15 +2967,17 @@
       "questionCount": 150,
       "displayNames": {
         "am": "ስታርጌት",
-        "es": "Stargate",
+        "es": "Puerta estelar",
         "ru": "Звёздные врата",
         "he": "סטארגייט",
         "hi": "स्टारगेट",
         "ar": "بوابة النجوم",
+        "fr": "Porte des étoiles",
+        "de": "Sternentor",
         "ja": "スターゲイト",
         "ko": "스타게이트",
         "zh": "星际之门",
-        "el": "Stargate"
+        "el": "Αστρική πύλη"
       }
     },
     {
@@ -2700,15 +3007,17 @@
       "questionCount": 139,
       "displayNames": {
         "am": "ስክራብስ",
-        "es": "Scrubs",
+        "es": "Batas médicas",
         "ru": "Клиника",
         "he": "סקראבס",
         "hi": "स्क्रब्स",
         "ar": "سكروبز",
+        "fr": "Blouses médicales",
+        "de": "Arztkittel",
         "ja": "スクラブス",
         "ko": "스크럽스",
         "zh": "实习医生风云",
-        "el": "Scrubs"
+        "el": "Ιατρικές στολές"
       }
     },
     {
@@ -2738,15 +3047,17 @@
       "questionCount": 149,
       "displayNames": {
         "am": "ሰይንፌልድ",
-        "es": "Seinfeld",
+        "es": "Seinfeld: comedia de situación",
         "ru": "Сайнфелд",
         "he": "סיינפלד",
         "hi": "सेनफेल्ड",
         "ar": "سينفيلد",
+        "fr": "Seinfeld : comédie de situation",
+        "de": "Seinfeld: Sitcom",
         "ja": "となりのサインフェルド",
         "ko": "사인필드",
         "zh": "宋飞正传",
-        "el": "Seinfeld"
+        "el": "Σάινφελντ"
       }
     },
     {
@@ -2778,6 +3089,8 @@
         "he": "עובדות על סרטים",
         "hi": "फिल्म तथ्य",
         "ar": "حقائق الأفلام",
+        "fr": "Infos cinéma",
+        "de": "Film-Fakten",
         "ja": "映画の豆知識",
         "ko": "영화 팩트",
         "zh": "电影趣闻",
@@ -2813,6 +3126,8 @@
         "he": "עובדות על סדרות",
         "hi": "टीवी तथ्य",
         "ar": "حقائق المسلسلات",
+        "fr": "Infos séries TV",
+        "de": "TV-Fakten",
         "ja": "テレビの豆知識",
         "ko": "TV 팩트",
         "zh": "电视剧趣闻",
@@ -2848,6 +3163,8 @@
         "he": "עובדות על אנימה",
         "hi": "एनिमे तथ्य",
         "ar": "حقائق الأنمي",
+        "fr": "Infos anime",
+        "de": "Anime-Fakten",
         "ja": "アニメの豆知識",
         "ko": "애니메이션 팩트",
         "zh": "动漫趣闻",
@@ -2883,6 +3200,8 @@
         "he": "עובדות על קומיקס",
         "hi": "कार्टून तथ्य",
         "ar": "حقائق الرسوم المتحركة",
+        "fr": "Infos dessins animés",
+        "de": "Cartoon-Fakten",
         "ja": "カートゥーンの豆知識",
         "ko": "만화 팩트",
         "zh": "卡通趣闻",
@@ -2918,6 +3237,8 @@
         "he": "עובדות על משחקים",
         "hi": "गेम तथ्य",
         "ar": "حقائق الألعاب",
+        "fr": "Infos jeux",
+        "de": "Spiel-Fakten",
         "ja": "ゲームの豆知識",
         "ko": "게임 팩트",
         "zh": "游戏趣闻",
@@ -2929,10 +3250,18 @@
       "tab": "celebrities",
       "displayName": "French Celebs",
       "displayNames": {
-        "de": "Französische Promis",
-        "fr": "Célébrités françaises",
+        "am": "ፈረንሳዊ ታዋቂዎች",
         "es": "Famosos franceses",
-        "he": "מפורסמים צרפתים"
+        "ru": "Французские знаменитости",
+        "he": "מפורסמים צרפתים",
+        "hi": "फ्रांसीसी हस्तियां",
+        "ar": "مشاهير فرنسيون",
+        "fr": "Célébrités françaises",
+        "de": "Französische Promis",
+        "ja": "フランスの有名人",
+        "ko": "프랑스 유명인",
+        "zh": "法国名人",
+        "el": "Γάλλοι διάσημοι"
       },
       "cardImageUrl": "https://raw.githubusercontent.com/LeaSolBok/LeaSolBok.github.io/main/actorquiz/packages/france/card.webp",
       "dataUrl": "https://raw.githubusercontent.com/LeaSolBok/LeaSolBok.github.io/main/actorquiz/packages/france/data.json",
@@ -2949,10 +3278,18 @@
       "tab": "celebrities",
       "displayName": "German Celebs",
       "displayNames": {
-        "de": "Deutsche Promis",
-        "fr": "Célébrités allemandes",
+        "am": "ጀርመናዊ ታዋቂዎች",
         "es": "Famosos alemanes",
-        "he": "מפורסמים גרמנים"
+        "ru": "Немецкие знаменитости",
+        "he": "מפורסמים גרמנים",
+        "hi": "जर्मन हस्तियां",
+        "ar": "مشاهير ألمان",
+        "fr": "Célébrités allemandes",
+        "de": "Deutsche Promis",
+        "ja": "ドイツの有名人",
+        "ko": "독일 유명인",
+        "zh": "德国名人",
+        "el": "Γερμανοί διάσημοι"
       },
       "cardImageUrl": "https://raw.githubusercontent.com/LeaSolBok/LeaSolBok.github.io/main/actorquiz/packages/germany/card.webp",
       "dataUrl": "https://raw.githubusercontent.com/LeaSolBok/LeaSolBok.github.io/main/actorquiz/packages/germany/data.json",
