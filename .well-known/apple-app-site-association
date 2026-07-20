@@ -1,0 +1,22 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appIDs": [
+          "457MH6X99F.com.soldar.drawfind"
+        ],
+        "components": [
+          {
+            "/": "/artbook/*",
+            "comment": "Open direct shared artbook links in Draw & Find."
+          },
+          {
+            "/": "/*",
+            "comment": "Open short artbook links in Draw & Find."
+          }
+        ]
+      }
+    ]
+  }
+}
