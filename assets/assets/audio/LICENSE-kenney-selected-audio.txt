@@ -1,0 +1,24 @@
+Selected audio sources for Draw & Find
+
+All listed Kenney assets are licensed Creative Commons Zero (CC0):
+https://creativecommons.org/publicdomain/zero/1.0/
+
+Source pages:
+- UI Audio: https://kenney.nl/assets/ui-audio
+- Casino Audio: https://kenney.nl/assets/casino-audio
+- Digital Audio: https://kenney.nl/assets/digital-audio
+
+Imported files:
+- ui_press.ogg: UI Audio / Audio/click3.ogg
+- ui_select_bright.ogg: UI Audio / Audio/switch23.ogg
+- coin_reward.ogg: Casino Audio / Audio/chips-stack-3.ogg
+- coin_bonus.ogg: Casino Audio / Audio/chips-handle-5.ogg
+- bonus_powerup.ogg: Digital Audio / Audio/powerUp3.ogg
+
+WAV files with matching names are transcoded from these imported Ogg files for
+Darwin playback compatibility.
+
+Credit is not required by the license, but: Created/distributed by Kenney
+(https://kenney.nl).
+
+Music is documented separately in LICENSE-incompetech-music.txt.

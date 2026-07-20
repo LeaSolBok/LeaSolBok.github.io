@@ -1,0 +1,34 @@
+Active background music for Draw & Find
+
+Track:
+- music_loop.mp3: "Glitter Blast" by Kevin MacLeod
+
+Source:
+- Incompetech catalog page: https://incompetech.com/music/royalty-free/music.html
+- Direct MP3 source:
+  https://incompetech.com/music/royalty-free/mp3-royaltyfree/Glitter%20Blast.mp3
+- FilmMusic listing:
+  https://incompetech.filmmusic.io/song/4707-glitter-blast/
+
+Catalog metadata from Incompetech:
+- ISRC: USUAN1900001
+- Length: 00:02:58
+- BPM: 100
+- Feel: Bouncy, Bright, Grooving
+- Instruments: Glockenspiel, Percussion, Bass, Flutes, Ukulele
+- Uploaded: 2019-04-05
+
+License:
+Creative Commons Attribution 4.0 International (CC BY 4.0)
+https://creativecommons.org/licenses/by/4.0/
+
+Required attribution:
+"Glitter Blast" Kevin MacLeod (incompetech.com)
+Licensed under Creative Commons: By Attribution 4.0 License
+http://creativecommons.org/licenses/by/4.0/
+
+Selection note:
+This is a real human-composed royalty-free track from Kevin MacLeod's
+Incompetech catalog. It was chosen for Draw & Find because it is bright,
+playful, compact, and instrumented with ukulele, flutes, glockenspiel,
+percussion, and bass, which fits a cheerful drawing/guessing mobile game.
