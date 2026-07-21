@@ -1,6 +1,5 @@
 {
   "13 going on 30": "13 يجري 30",
-  "angels & demons": "ملائكة وشياطين",
   "ant-man": "الرجل النملة",
   "aquaman": "أكوا مان",
   "avatar": "الصورة الرمزية",
@@ -58,10 +57,7 @@
   "men in black": "رجال باللون الأسود",
   "minions": "التوابع",
   "mission impossible": "المهمة المستحيلة",
-  "monsters inc.": "شركة الوحوش",
-  "mrs. doubtfire": "السّيدة. شكفاير",
   "national treasure": "الكنز الوطني",
-  "ocean's eleven": "المحيط الحادي عشر",
   "onward": "فصاعدًا",
   "pulp fiction": "خيال لب",
   "ratatouille": "راتاتوي",
@@ -70,7 +66,6 @@
   "rush hour": "ساعة الذروة",
   "school of rock": "مدرسة الروك",
   "sing": "غناء",
-  "singin' in the rain": "الغناء تحت المطر",
   "skyfall": "سكايفول",
   "sleeping beauty": "الجميلة النائمة",
   "soul": "الروح",
@@ -99,5 +94,10 @@
   "toy story": "قصة لعبة",
   "up": "فوق",
   "wedding crashers": "تحطم الزفاف",
-  "who framed roger rabbit": "من قام بتأطير أرنب روجر"
+  "who framed roger rabbit": "من قام بتأطير أرنب روجر",
+  "angels demons": "ملائكة وشياطين",
+  "monsters inc": "شركة الوحوش",
+  "mrs doubtfire": "السّيدة. شكفاير",
+  "oceans eleven": "المحيط الحادي عشر",
+  "singin in the rain": "الغناء تحت المطر"
 }

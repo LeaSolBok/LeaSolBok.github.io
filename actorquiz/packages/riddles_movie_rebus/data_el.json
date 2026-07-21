@@ -1,6 +1,5 @@
 {
   "13 going on 30": "13 σε εξέλιξη 30",
-  "angels & demons": "άγγελοι & δαίμονες",
   "ant-man": "μυρμηγκάνθρωπος",
   "aquaman": "aquaman",
   "avatar": "άβαταρ",
@@ -58,10 +57,7 @@
   "men in black": "άνδρες στα μαύρα",
   "minions": "τσιράκια",
   "mission impossible": "αποστολή αδύνατη",
-  "monsters inc.": "Monsters Inc.",
-  "mrs. doubtfire": "κα. αμφισβήτηση",
   "national treasure": "εθνικός θησαυρός",
-  "ocean's eleven": "έντεκα του ωκεανού",
   "onward": "προς τα εμπρός",
   "pulp fiction": "pulp μυθοπλασία",
   "ratatouille": "ρατατούιγ",
@@ -70,7 +66,6 @@
   "rush hour": "ώρα αιχμής",
   "school of rock": "σχολή ροκ",
   "sing": "τραγουδώ",
-  "singin' in the rain": "τραγουδώντας στη βροχή",
   "skyfall": "skyfall",
   "sleeping beauty": "Κοιμωμένη ομορφιά",
   "soul": "ψυχή",
@@ -99,5 +94,10 @@
   "toy story": "ιστορία παιχνιδιών",
   "up": "επάνω",
   "wedding crashers": "crashers γάμου",
-  "who framed roger rabbit": "που πλαισίωνε το roger rabbit"
+  "who framed roger rabbit": "που πλαισίωνε το roger rabbit",
+  "angels demons": "άγγελοι & δαίμονες",
+  "monsters inc": "Monsters Inc.",
+  "mrs doubtfire": "κα. αμφισβήτηση",
+  "oceans eleven": "έντεκα του ωκεανού",
+  "singin in the rain": "τραγουδώντας στη βροχή"
 }

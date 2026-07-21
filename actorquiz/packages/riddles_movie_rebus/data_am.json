@@ -1,6 +1,5 @@
 {
   "13 going on 30": "13 እየሄደ 30",
-  "angels & demons": "መላእክት እና አጋንንት",
   "ant-man": "ጉንዳን-ሰው",
   "aquaman": "aquaman",
   "avatar": "አምሳያ",
@@ -58,10 +57,7 @@
   "men in black": "ወንዶች በጥቁር",
   "minions": "ምእመናን",
   "mission impossible": "የማይቻል ተልዕኮ",
-  "monsters inc.": "monsters Inc.",
-  "mrs. doubtfire": "ወይዘሮ አጠራጣሪ እሳት",
   "national treasure": "የሀገር ሀብት",
-  "ocean's eleven": "የውቅያኖስ አስራ አንድ",
   "onward": "ወደ ፊት",
   "pulp fiction": "pulp ልቦለድ",
   "ratatouille": "ratatouille",
@@ -70,7 +66,6 @@
   "rush hour": "የችኮላ ሰአት",
   "school of rock": "የአለት ትምህርት ቤት",
   "sing": "ዘምሩ",
-  "singin' in the rain": "በዝናብ ውስጥ ዘፈን",
   "skyfall": "ሰማይ መውደቅ",
   "sleeping beauty": "የመኝታ ውበት",
   "soul": "ነፍስ",
@@ -99,5 +94,10 @@
   "toy story": "የአሻንጉሊት ታሪክ",
   "up": "ወደላይ",
   "wedding crashers": "የሰርግ ፈራሾች",
-  "who framed roger rabbit": "ሮጀር ጥንቸል ያዘጋጀው"
+  "who framed roger rabbit": "ሮጀር ጥንቸል ያዘጋጀው",
+  "angels demons": "መላእክት እና አጋንንት",
+  "monsters inc": "monsters Inc.",
+  "mrs doubtfire": "ወይዘሮ አጠራጣሪ እሳት",
+  "oceans eleven": "የውቅያኖስ አስራ አንድ",
+  "singin in the rain": "በዝናብ ውስጥ ዘፈን"
 }

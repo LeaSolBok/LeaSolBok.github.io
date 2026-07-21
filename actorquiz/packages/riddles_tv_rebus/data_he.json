@@ -1,5 +1,4 @@
 {
-  "agents of s.h.i.e.l.d.": "סוכני S.H.I.E.L.D.",
   "arrested development": "משפחה בהפרעה",
   "arrow": "חץ",
   "black mirror": "מראה שחורה",
@@ -24,7 +23,6 @@
   "full house": "צער גידול בנות",
   "game of thrones": "משחקי הכס",
   "gotham": "גות'האם",
-  "grey's anatomy": "האנטומיה של גריי",
   "homeland": "הומלנד",
   "house of cards": "בית הקלפים",
   "how i met your mother": "איך פגשתי את אמא",
@@ -64,5 +62,7 @@
   "the x-files": "תיקים באפלה",
   "true detective": "בלש אמיתי",
   "vikings": "ויקינגים",
-  "wandavision": "וונדה-ויז'ן"
+  "wandavision": "וונדה-ויז'ן",
+  "agents of shield": "סוכני S.H.I.E.L.D.",
+  "greys anatomy": "האנטומיה של גריי"
 }

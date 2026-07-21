@@ -1,6 +1,5 @@
 {
   "13 going on 30": "13 進行中 30",
-  "angels & demons": "天使と悪魔",
   "ant-man": "アントマン",
   "aquaman": "アクアマン",
   "avatar": "アバター",
@@ -58,10 +57,7 @@
   "men in black": "黒服の男たち",
   "minions": "ミニオン",
   "mission impossible": "ミッションインポッシブル",
-  "monsters inc.": "モンスターズインク",
-  "mrs. doubtfire": "夫人。ダウトファイア",
   "national treasure": "国宝",
-  "ocean's eleven": "オーシャンズイレブン",
   "onward": "今後",
   "pulp fiction": "パルプ フィクション",
   "ratatouille": "ラタトゥイユ",
@@ -70,7 +66,6 @@
   "rush hour": "ラッシュアワー",
   "school of rock": "スクール オブ ロック",
   "sing": "歌う",
-  "singin' in the rain": "雨の中で歌う",
   "skyfall": "スカイフォール",
   "sleeping beauty": "眠れる森の美女",
   "soul": "魂",
@@ -99,5 +94,10 @@
   "toy story": "トイ ストーリー",
   "up": "上",
   "wedding crashers": "ウェディング クラッシャー",
-  "who framed roger rabbit": "ロジャー ラビットを組み立てたのは誰"
+  "who framed roger rabbit": "ロジャー ラビットを組み立てたのは誰",
+  "angels demons": "天使と悪魔",
+  "monsters inc": "モンスターズインク",
+  "mrs doubtfire": "夫人。ダウトファイア",
+  "oceans eleven": "オーシャンズイレブン",
+  "singin in the rain": "雨の中で歌う"
 }

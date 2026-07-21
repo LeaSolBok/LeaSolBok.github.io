@@ -1,6 +1,5 @@
 {
   "13 going on 30": "13 चल रहा है 30",
-  "angels & demons": "देवदूत और राक्षस",
   "ant-man": "चींटी-आदमी",
   "aquaman": "एक्वामैन",
   "avatar": "अवतार",
@@ -58,10 +57,7 @@
   "men in black": "काले रंग में पुरुष",
   "minions": "मिनियन्स",
   "mission impossible": "मिशन असंभव",
-  "monsters inc.": "मौनस्टर इंक।",
-  "mrs. doubtfire": "श्रीमती। डाउटफायर",
   "national treasure": "राष्ट्रीय खजाना",
-  "ocean's eleven": "सागर के ग्यारह",
   "onward": "आगे",
   "pulp fiction": "पल्प फिक्शन",
   "ratatouille": "रैटटौली",
@@ -70,7 +66,6 @@
   "rush hour": "व्यस्त समय",
   "school of rock": "रॉक स्कूल",
   "sing": "गाओ",
-  "singin' in the rain": "बारिश में गाना",
   "skyfall": "स्काईफॉल",
   "sleeping beauty": "स्लीपिंग ब्यूटी",
   "soul": "आत्मा",
@@ -99,5 +94,10 @@
   "toy story": "खिलौना कहानी",
   "up": "ऊपर",
   "wedding crashers": "वेडिंग क्रैशर्स",
-  "who framed roger rabbit": "रोजर खरगोश को किसने फंसाया"
+  "who framed roger rabbit": "रोजर खरगोश को किसने फंसाया",
+  "angels demons": "देवदूत और राक्षस",
+  "monsters inc": "मौनस्टर इंक।",
+  "mrs doubtfire": "श्रीमती। डाउटफायर",
+  "oceans eleven": "सागर के ग्यारह",
+  "singin in the rain": "बारिश में गाना"
 }

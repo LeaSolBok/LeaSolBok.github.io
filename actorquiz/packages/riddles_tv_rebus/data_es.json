@@ -1,5 +1,4 @@
 {
-  "agents of s.h.i.e.l.d.": "Agentes de S.H.I.E.L.D.",
   "arrested development": "desarrollo detenido",
   "arrow": "flecha",
   "black mirror": "espejo negro",
@@ -24,7 +23,6 @@
   "full house": "casa llena",
   "game of thrones": "juego de tronos",
   "gotham": "ciudad gótica",
-  "grey's anatomy": "anatomía de grey",
   "homeland": "patria",
   "house of cards": "castillo de naipes",
   "how i met your mother": "cómo conocí a tu madre",
@@ -64,5 +62,7 @@
   "the x-files": "los expedientes x",
   "true detective": "verdadero detective",
   "vikings": "vikingos",
-  "wandavision": "wandavisión"
+  "wandavision": "wandavisión",
+  "agents of shield": "Agentes de S.H.I.E.L.D.",
+  "greys anatomy": "anatomía de grey"
 }

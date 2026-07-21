@@ -1,5 +1,4 @@
 {
-  "agents of s.h.i.e.l.d.": "s.h.i.e.l.d.의 요원",
   "arrested development": "개발 중단",
   "arrow": "화살표",
   "black mirror": "검은 거울",
@@ -24,7 +23,6 @@
   "full house": "풀하우스",
   "game of thrones": "왕좌의 게임",
   "gotham": "고담",
-  "grey's anatomy": "그레이의 해부학",
   "homeland": "조국",
   "house of cards": "카드 하우스",
   "how i met your mother": "내가 어떻게 네 어머니를 만났어?",
@@ -64,5 +62,7 @@
   "the x-files": "X 파일",
   "true detective": "진정한 탐정",
   "vikings": "바이킹",
-  "wandavision": "완다비전"
+  "wandavision": "완다비전",
+  "agents of shield": "s.h.i.e.l.d.의 요원",
+  "greys anatomy": "그레이의 해부학"
 }

@@ -1,6 +1,5 @@
 {
   "13 going on 30": "13 pasando por 30",
-  "angels & demons": "ángeles y demonios",
   "ant-man": "hombre hormiga",
   "aquaman": "aquaman",
   "avatar": "avatar",
@@ -58,10 +57,7 @@
   "men in black": "hombres de negro",
   "minions": "secuaces",
   "mission impossible": "misión imposible",
-  "monsters inc.": "monstruos inc.",
-  "mrs. doubtfire": "señora. dudafuego",
   "national treasure": "tesoro nacional",
-  "ocean's eleven": "once del océano",
   "onward": "adelante",
   "pulp fiction": "ficción pulp",
   "ratatouille": "pisto",
@@ -70,7 +66,6 @@
   "rush hour": "hora punta",
   "school of rock": "escuela de rock",
   "sing": "cantar",
-  "singin' in the rain": "cantando bajo la lluvia",
   "skyfall": "caída del cielo",
   "sleeping beauty": "la bella durmiente",
   "soul": "alma",
@@ -99,5 +94,10 @@
   "toy story": "historia del juguete",
   "up": "arriba",
   "wedding crashers": "Intrusos en bodas",
-  "who framed roger rabbit": "quién incriminó a Roger Rabbit"
+  "who framed roger rabbit": "quién incriminó a Roger Rabbit",
+  "angels demons": "ángeles y demonios",
+  "monsters inc": "monstruos inc.",
+  "mrs doubtfire": "señora. dudafuego",
+  "oceans eleven": "once del océano",
+  "singin in the rain": "cantando bajo la lluvia"
 }

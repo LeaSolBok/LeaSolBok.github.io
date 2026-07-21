@@ -1,6 +1,5 @@
 {
   "13 going on 30": "13 продолжается 30",
-  "angels & demons": "ангелы и демоны",
   "ant-man": "человек-муравей",
   "aquaman": "аквамен",
   "avatar": "аватар",
@@ -58,10 +57,7 @@
   "men in black": "люди в черном",
   "minions": "миньоны",
   "mission impossible": "миссия невыполнима",
-  "monsters inc.": "корпорация монстров.",
-  "mrs. doubtfire": "Миссис. огонь сомнений",
   "national treasure": "национальное достояние",
-  "ocean's eleven": "одиннадцать океана",
   "onward": "вперед",
   "pulp fiction": "криминальное чтиво",
   "ratatouille": "рататуй",
@@ -70,7 +66,6 @@
   "rush hour": "час пик",
   "school of rock": "школа рока",
   "sing": "петь",
-  "singin' in the rain": "пою под дождем",
   "skyfall": "скайфолл",
   "sleeping beauty": "спящая красавица",
   "soul": "душа",
@@ -99,5 +94,10 @@
   "toy story": "история игрушек",
   "up": "вверх",
   "wedding crashers": "свадебные незваные гости",
-  "who framed roger rabbit": "кто подставил кролика роджера"
+  "who framed roger rabbit": "кто подставил кролика роджера",
+  "angels demons": "ангелы и демоны",
+  "monsters inc": "корпорация монстров.",
+  "mrs doubtfire": "Миссис. огонь сомнений",
+  "oceans eleven": "одиннадцать океана",
+  "singin in the rain": "пою под дождем"
 }

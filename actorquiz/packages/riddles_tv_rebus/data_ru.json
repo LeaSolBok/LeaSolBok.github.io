@@ -1,5 +1,4 @@
 {
-  "agents of s.h.i.e.l.d.": "агенты щита.",
   "arrested development": "задержка развития",
   "arrow": "стрелка",
   "black mirror": "черное зеркало",
@@ -24,7 +23,6 @@
   "full house": "аншлаг",
   "game of thrones": "игра престолов",
   "gotham": "Готэм",
-  "grey's anatomy": "анатомия Грея",
   "homeland": "родина",
   "house of cards": "карточный домик",
   "how i met your mother": "как я встретил твою маму",
@@ -64,5 +62,7 @@
   "the x-files": "секретные материалы",
   "true detective": "настоящий детектив",
   "vikings": "викинги",
-  "wandavision": "вандавижн"
+  "wandavision": "вандавижн",
+  "agents of shield": "агенты щита.",
+  "greys anatomy": "анатомия Грея"
 }

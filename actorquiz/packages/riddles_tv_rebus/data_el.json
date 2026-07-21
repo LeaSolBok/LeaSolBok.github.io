@@ -1,5 +1,4 @@
 {
-  "agents of s.h.i.e.l.d.": "πράκτορες της σ.χ.ι.ε.λ.δ.",
   "arrested development": "διακόπηκε ανάπτυξη",
   "arrow": "βέλος",
   "black mirror": "μαύρος καθρέφτης",
@@ -24,7 +23,6 @@
   "full house": "πλήρες σπίτι",
   "game of thrones": "παιχνίδι των θρόνων",
   "gotham": "Gotham",
-  "grey's anatomy": "ανατομία του γκρίζου",
   "homeland": "πατρίδα",
   "house of cards": "σπίτι από κάρτες",
   "how i met your mother": "πώς γνώρισα τη μητέρα σου",
@@ -64,5 +62,7 @@
   "the x-files": "τα x-αρχεία",
   "true detective": "αληθινός ντετέκτιβ",
   "vikings": "Βίκινγκς",
-  "wandavision": "wandavision"
+  "wandavision": "wandavision",
+  "agents of shield": "πράκτορες της σ.χ.ι.ε.λ.δ.",
+  "greys anatomy": "ανατομία του γκρίζου"
 }

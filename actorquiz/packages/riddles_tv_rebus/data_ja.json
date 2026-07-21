@@ -1,5 +1,4 @@
 {
-  "agents of s.h.i.e.l.d.": "S.H.I.E.L.D.のエージェント",
   "arrested development": "開発を停止",
   "arrow": "矢印",
   "black mirror": "黒い鏡",
@@ -24,7 +23,6 @@
   "full house": "満員御礼",
   "game of thrones": "ゲーム・オブ・スローンズ",
   "gotham": "ゴッサム",
-  "grey's anatomy": "グレイの解剖学",
   "homeland": "祖国",
   "house of cards": "砂上の楼閣",
   "how i met your mother": "あなたのお母さんと出会ったきっかけ",
@@ -64,5 +62,7 @@
   "the x-files": "X ファイル",
   "true detective": "本物の探偵",
   "vikings": "ヴァイキング",
-  "wandavision": "ワンダビジョン"
+  "wandavision": "ワンダビジョン",
+  "agents of shield": "S.H.I.E.L.D.のエージェント",
+  "greys anatomy": "グレイの解剖学"
 }

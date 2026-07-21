@@ -1,5 +1,4 @@
 {
-  "agents of s.h.i.e.l.d.": "神盾局特工",
   "arrested development": "发展受阻",
   "arrow": "箭头",
   "black mirror": "黑镜",
@@ -24,7 +23,6 @@
   "full house": "满座",
   "game of thrones": "权力的游戏",
   "gotham": "哥谭",
-  "grey's anatomy": "实习医生格蕾",
   "homeland": "祖国",
   "house of cards": "纸牌屋",
   "how i met your mother": "我是怎么认识你妈妈的",
@@ -64,5 +62,7 @@
   "the x-files": "x档案",
   "true detective": "真正的侦探",
   "vikings": "维京人",
-  "wandavision": "万达幻视"
+  "wandavision": "万达幻视",
+  "agents of shield": "神盾局特工",
+  "greys anatomy": "实习医生格蕾"
 }

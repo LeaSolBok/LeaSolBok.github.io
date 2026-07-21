@@ -1,6 +1,5 @@
 {
   "13 going on 30": "13 계속 30",
-  "angels & demons": "천사와 악마",
   "ant-man": "개미",
   "aquaman": "아쿠아맨",
   "avatar": "아바타",
@@ -58,10 +57,7 @@
   "men in black": "검은 옷을 입은 남자들",
   "minions": "하수인",
   "mission impossible": "미션 임파서블",
-  "monsters inc.": "몬스터 주식회사",
-  "mrs. doubtfire": "부인 의심의 불",
   "national treasure": "국보",
-  "ocean's eleven": "오션스 일레븐",
   "onward": "앞으로",
   "pulp fiction": "펄프픽션",
   "ratatouille": "라따뚜이",
@@ -70,7 +66,6 @@
   "rush hour": "러시아워",
   "school of rock": "바위 학교",
   "sing": "노래하다",
-  "singin' in the rain": "빗속에서 노래를 부르네",
   "skyfall": "급상승",
   "sleeping beauty": "잠자는 숲속의 미녀",
   "soul": "영혼",
@@ -99,5 +94,10 @@
   "toy story": "토이스토리",
   "up": "위로",
   "wedding crashers": "결혼식을 망치는 사람들",
-  "who framed roger rabbit": "누가 로저 래빗을 모함했나"
+  "who framed roger rabbit": "누가 로저 래빗을 모함했나",
+  "angels demons": "천사와 악마",
+  "monsters inc": "몬스터 주식회사",
+  "mrs doubtfire": "부인 의심의 불",
+  "oceans eleven": "오션스 일레븐",
+  "singin in the rain": "빗속에서 노래를 부르네"
 }

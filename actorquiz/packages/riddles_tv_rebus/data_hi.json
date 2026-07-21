@@ -1,5 +1,4 @@
 {
-  "agents of s.h.i.e.l.d.": "ढाल की एजेंट।",
   "arrested development": "गिरफ्तार विकास",
   "arrow": "तीर",
   "black mirror": "काला दर्पण",
@@ -24,7 +23,6 @@
   "full house": "पूरा घर",
   "game of thrones": "सिंहासन का खेल",
   "gotham": "गोथम",
-  "grey's anatomy": "ग्रेज़ एनाटॉमी",
   "homeland": "मातृभूमि",
   "house of cards": "ताश का घर",
   "how i met your mother": "मैं तुम्हारी माँ से कैसे मिला",
@@ -64,5 +62,7 @@
   "the x-files": "एक्स-फ़ाइलें",
   "true detective": "सच्चा जासूस",
   "vikings": "वाइकिंग्स",
-  "wandavision": "वांडाविज़न"
+  "wandavision": "वांडाविज़न",
+  "agents of shield": "ढाल की एजेंट।",
+  "greys anatomy": "ग्रेज़ एनाटॉमी"
 }

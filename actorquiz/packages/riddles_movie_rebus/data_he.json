@@ -1,6 +1,5 @@
 {
   "13 going on 30": "פתאום 30",
-  "angels & demons": "מלאכים ושדים",
   "ant-man": "אנטמן",
   "aquaman": "אקוומן",
   "avatar": "אווטאר",
@@ -58,10 +57,7 @@
   "men in black": "גברים בשחור",
   "minions": "מיניונים",
   "mission impossible": "משימה בלתי אפשרית",
-  "monsters inc.": "מפלצות בע\"מ",
-  "mrs. doubtfire": "גברת דאוטפייר",
   "national treasure": "אוצר לאומי",
-  "ocean's eleven": "אושן 11",
   "onward": "קדימה",
   "pulp fiction": "ספרות זולה",
   "ratatouille": "רטטוי",
@@ -70,7 +66,6 @@
   "rush hour": "שעת שיא",
   "school of rock": "רוק בבית הספר",
   "sing": "לשיר",
-  "singin' in the rain": "שיר אשיר בגשם",
   "skyfall": "סקייפול",
   "sleeping beauty": "היפהפייה הנרדמת",
   "soul": "נשמה",
@@ -99,5 +94,10 @@
   "toy story": "צעצוע של סיפור",
   "up": "למעלה",
   "wedding crashers": "לדפוק חתונה",
-  "who framed roger rabbit": "מי הפליל את רוג'ר רביט"
+  "who framed roger rabbit": "מי הפליל את רוג'ר רביט",
+  "angels demons": "מלאכים ושדים",
+  "monsters inc": "מפלצות בע\"מ",
+  "mrs doubtfire": "גברת דאוטפייר",
+  "oceans eleven": "אושן 11",
+  "singin in the rain": "שיר אשיר בגשם"
 }

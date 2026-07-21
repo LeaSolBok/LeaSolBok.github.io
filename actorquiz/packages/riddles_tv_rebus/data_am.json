@@ -1,5 +1,4 @@
 {
-  "agents of s.h.i.e.l.d.": "የ sh.e.l.d ወኪሎች.",
   "arrested development": "የታሰረ ልማት",
   "arrow": "ቀስት",
   "black mirror": "ጥቁር መስታወት",
@@ -24,7 +23,6 @@
   "full house": "ሙሉ ቤት",
   "game of thrones": "የዙፋን ጨዋታ",
   "gotham": "ጎታም",
-  "grey's anatomy": "ግራጫ የሰውነት አካል",
   "homeland": "የትውልድ ሀገር",
   "house of cards": "የካርድ ቤት",
   "how i met your mother": "እናትህን እንዴት እንዳገኘኋት",
@@ -64,5 +62,7 @@
   "the x-files": "x-ፋይሎቹ",
   "true detective": "እውነተኛ መርማሪ",
   "vikings": "ቫይኪንግስ",
-  "wandavision": "ዋንዳቪዥን"
+  "wandavision": "ዋንዳቪዥን",
+  "agents of shield": "የ sh.e.l.d ወኪሎች.",
+  "greys anatomy": "ግራጫ የሰውነት አካል"
 }
