@@ -3244,62 +3244,6 @@
         "zh": "游戏趣闻",
         "el": "Γεγονότα Παιχνιδιών"
       }
-    },
-    {
-      "id": "france",
-      "tab": "celebrities",
-      "displayName": "French Celebs",
-      "displayNames": {
-        "am": "ፈረንሳዊ ታዋቂዎች",
-        "es": "Famosos franceses",
-        "ru": "Французские знаменитости",
-        "he": "מפורסמים צרפתים",
-        "hi": "फ्रांसीसी हस्तियां",
-        "ar": "مشاهير فرنسيون",
-        "fr": "Célébrités françaises",
-        "de": "Französische Promis",
-        "ja": "フランスの有名人",
-        "ko": "프랑스 유명인",
-        "zh": "法国名人",
-        "el": "Γάλλοι διάσημοι"
-      },
-      "cardImageUrl": "https://raw.githubusercontent.com/LeaSolBok/LeaSolBok.github.io/main/actorquiz/packages/france/card.webp",
-      "dataUrl": "https://raw.githubusercontent.com/LeaSolBok/LeaSolBok.github.io/main/actorquiz/packages/france/data.json",
-      "geminiFolder": "france",
-      "originalFolder": "france",
-      "releaseDate": null,
-      "isVip": false,
-      "sortOrder": 37,
-      "questionCount": 10,
-      "pinnedOnFirstRun": false
-    },
-    {
-      "id": "germany",
-      "tab": "celebrities",
-      "displayName": "German Celebs",
-      "displayNames": {
-        "am": "ጀርመናዊ ታዋቂዎች",
-        "es": "Famosos alemanes",
-        "ru": "Немецкие знаменитости",
-        "he": "מפורסמים גרמנים",
-        "hi": "जर्मन हस्तियां",
-        "ar": "مشاهير ألمان",
-        "fr": "Célébrités allemandes",
-        "de": "Deutsche Promis",
-        "ja": "ドイツの有名人",
-        "ko": "독일 유명인",
-        "zh": "德国名人",
-        "el": "Γερμανοί διάσημοι"
-      },
-      "cardImageUrl": "https://raw.githubusercontent.com/LeaSolBok/LeaSolBok.github.io/main/actorquiz/packages/germany/card.webp",
-      "dataUrl": "https://raw.githubusercontent.com/LeaSolBok/LeaSolBok.github.io/main/actorquiz/packages/germany/data.json",
-      "geminiFolder": "germany",
-      "originalFolder": "germany",
-      "releaseDate": null,
-      "isVip": false,
-      "sortOrder": 38,
-      "questionCount": 5,
-      "pinnedOnFirstRun": false
     }
   ]
 }
