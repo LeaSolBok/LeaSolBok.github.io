@@ -39,7 +39,7 @@ For the easier loop, run:
 python3 -B actorquiz/photoroom_batches.py run
 ```
 
-This defaults to 50 images per batch. To choose another size:
+This defaults to 250 images per batch. To choose another size:
 
 ```sh
 python3 -B actorquiz/photoroom_batches.py run --size 100
@@ -56,6 +56,10 @@ The script will:
 At the prompt:
 
 - Press Enter after PhotoRoom outputs are in the `output` folder.
+- Type `i` to open the current input folder.
+- Type `o` to open the current output folder.
+- Type `ci` to copy the current input folder path.
+- Type `co` to copy the current output folder path.
 - Type `s` for progress.
 - Type `r` to reprint the current folders.
 - Type `q` or press Ctrl-C to stop.

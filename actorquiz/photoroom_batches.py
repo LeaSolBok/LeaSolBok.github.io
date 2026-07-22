@@ -14,6 +14,7 @@ import csv
 import json
 import re
 import shutil
+import subprocess
 from dataclasses import dataclass
 from datetime import datetime
 from pathlib import Path
@@ -467,6 +468,24 @@ def active_batch_id(ledger: dict) -> str | None:
     return None
 
 
+def batch_input_dir(ledger: dict, batch_id: str) -> Path:
+    return ROOT / ledger["batches"][batch_id]["input_dir"]
+
+
+def batch_output_dir(ledger: dict, batch_id: str) -> Path:
+    return ROOT / ledger["batches"][batch_id]["output_dir"]
+
+
+def open_folder(path: Path) -> None:
+    subprocess.run(["open", str(path)], check=False)
+    print(f"Opened: {path}")
+
+
+def copy_path(path: Path) -> None:
+    subprocess.run(["pbcopy"], input=str(path), text=True, check=False)
+    print(f"Copied: {path}")
+
+
 def print_batch_instructions(ledger: dict, batch_id: str) -> None:
     batch = ledger["batches"][batch_id]
     remaining = sum(
@@ -482,10 +501,11 @@ def print_batch_instructions(ledger: dict, batch_id: str) -> None:
     print("")
     print(f"Current batch: {batch_id}")
     print(f"Remaining in this batch: {remaining}  Done: {done}")
-    print(f"PhotoRoom input:  {ROOT / batch['input_dir']}")
-    print(f"PhotoRoom output: {ROOT / batch['output_dir']}")
+    print(f"PhotoRoom input:  {batch_input_dir(ledger, batch_id)}")
+    print(f"PhotoRoom output: {batch_output_dir(ledger, batch_id)}")
     print("After the processed files are in output, press Enter.")
-    print("Type s for status, r to reprint these folders, or q to quit.")
+    print("Actions: i=open input, o=open output, ci=copy input path, co=copy output path.")
+    print("Other: s=status, r=reprint folders, q=quit.")
 
 
 def print_short_status(ledger: dict) -> None:
@@ -528,6 +548,18 @@ def run_session(args: argparse.Namespace) -> None:
                 if command in {"r", "repeat", "folders"}:
                     print_batch_instructions(ledger, batch_id)
                     continue
+                if command in {"i", "input", "open input"}:
+                    open_folder(batch_input_dir(ledger, batch_id))
+                    continue
+                if command in {"o", "output", "open output"}:
+                    open_folder(batch_output_dir(ledger, batch_id))
+                    continue
+                if command in {"ci", "copy input", "copy-input"}:
+                    copy_path(batch_input_dir(ledger, batch_id))
+                    continue
+                if command in {"co", "copy output", "copy-output"}:
+                    copy_path(batch_output_dir(ledger, batch_id))
+                    continue
                 if command == "":
                     result = complete_batch_in_ledger(ledger, batch_id)
                     print_completion_result(result)
@@ -536,7 +568,7 @@ def run_session(args: argparse.Namespace) -> None:
                     print("Still waiting on missing outputs for this same batch.")
                     print_batch_instructions(ledger, batch_id)
                     continue
-                print("Press Enter to complete, s for status, r for folders, or q to quit.")
+                print("Enter=complete, i/o=open folders, ci/co=copy paths, s=status, r=folders, q=quit.")
     except KeyboardInterrupt:
         print("\nStopped. The current batch is saved and will resume next time.")
 
@@ -577,7 +609,7 @@ def build_parser() -> argparse.ArgumentParser:
     run_parser = subparsers.add_parser(
         "run", help="Continuously create, wait for, and complete PhotoRoom batches."
     )
-    run_parser.add_argument("--size", type=int, default=50)
+    run_parser.add_argument("--size", type=int, default=250)
     run_parser.set_defaults(func=run_session)
 
     complete_parser = subparsers.add_parser(
