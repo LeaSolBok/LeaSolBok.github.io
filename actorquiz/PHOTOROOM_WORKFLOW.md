@@ -3,6 +3,51 @@
 This workflow is for bulk background removal on people packages plus SNL, excluding
 `actors-actors` / Hollywood actors.
 
+## One-By-One Browser Automation
+
+If bulk processing is limited, use the remove-background.com one-by-one helper:
+
+```sh
+python3 -B actorquiz/remove_background_auto.py run
+```
+
+The upload, download, and HD buttons are found from screenshot templates:
+
+```text
+actorquiz/remove_background_auto_assets/upload_image_button.png
+actorquiz/remove_background_auto_assets/download_button.png
+actorquiz/remove_background_auto_assets/hd_button_selected.png
+actorquiz/remove_background_auto_assets/hd_button_unselected.png
+```
+
+If template matching ever fails, save fallback click points:
+
+```sh
+python3 -B actorquiz/remove_background_auto.py calibrate
+```
+
+The script will:
+
+- Pick the next pending image from the same progress ledger (`todo` or `batched`).
+- Stage it with a normal `.jpg`, `.png`, or `.webp` extension for upload.
+- Find the upload button on screen and upload through the browser using PyAutoGUI.
+- Find the download button on screen, click it, then find and click the HD option.
+- Watch `~/Downloads` for the processed image.
+- Back up the original source image.
+- Replace the original source image.
+- Mark the item `done`.
+
+Avoid starting unrelated downloads while it is running; it watches `~/Downloads`
+for the newest image file after clicking the download button.
+
+Useful options:
+
+```sh
+python3 -B actorquiz/remove_background_auto.py run --limit 10
+python3 -B actorquiz/remove_background_auto.py run --prompt-each
+python3 -B actorquiz/remove_background_auto.py run --keep-downloads
+```
+
 ## Check Progress
 
 ```sh

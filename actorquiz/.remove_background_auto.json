@@ -1,0 +1,17 @@
+{
+  "download_point": {
+    "x": 1205,
+    "y": 766
+  },
+  "download_wait_seconds": 90,
+  "high_quality_point": {
+    "x": 1129,
+    "y": 851
+  },
+  "page_wait_seconds": 3,
+  "upload_point": {
+    "x": 990,
+    "y": 453
+  },
+  "upload_wait_seconds": 20
+}
