@@ -1,0 +1,22 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Opening Draw &amp; Find</title>
+  <script>
+    var target = "/index.html" + window.location.search + window.location.hash;
+    if (window.location.pathname.indexOf("/artbook/") === 0) {
+      var artbook = window.location.pathname.split("/").filter(Boolean)[1];
+      target = "/index.html?artbook=" + encodeURIComponent(artbook);
+    } else {
+      var part = window.location.pathname.split("/").filter(Boolean)[0];
+      if (part) target = "/index.html?artbook=" + encodeURIComponent(part);
+    }
+    window.location.replace(target);
+  </script>
+</head>
+<body>
+  <p>Opening Draw &amp; Find...</p>
+</body>
+</html>

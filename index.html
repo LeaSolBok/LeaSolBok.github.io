@@ -1,0 +1,68 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Opening Draw &amp; Find</title>
+  <style>
+    :root {
+      color-scheme: light;
+      font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      background: #f7fbff;
+      color: #12233d;
+    }
+
+    body {
+      margin: 0;
+      min-height: 100vh;
+      display: grid;
+      place-items: center;
+    }
+
+    main {
+      width: min(420px, calc(100vw - 40px));
+      text-align: center;
+    }
+
+    h1 {
+      margin: 0 0 12px;
+      font-size: 28px;
+      line-height: 1.1;
+    }
+
+    p {
+      margin: 0;
+      color: #4b5d75;
+      line-height: 1.45;
+    }
+  </style>
+</head>
+<body>
+  <main id="content">
+    <h1>Open this Artbook in Draw &amp; Find</h1>
+    <p>Use the Open in Draw &amp; Find button at the top of this page.</p>
+  </main>
+
+  <script>
+    (function () {
+      var params = new URLSearchParams(window.location.search);
+      var artbook = params.get("artbook");
+      var pathParts = window.location.pathname.split("/").filter(Boolean);
+
+      if (!artbook && pathParts[0] === "artbook" && pathParts[1]) {
+        artbook = pathParts[1];
+      }
+
+      if (!artbook && pathParts.length === 1 && pathParts[0] !== "index.html") {
+        artbook = pathParts[0];
+      }
+
+      if (!artbook) {
+        var content = document.getElementById("content");
+        content.querySelector("h1").textContent = "Artbook link missing";
+        content.querySelector("p").textContent = "This link does not include an artbook id.";
+      }
+    })();
+  </script>
+</body>
+</html>
