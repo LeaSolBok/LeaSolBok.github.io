@@ -2277,10 +2277,13 @@
       },
       "cardImageUrl": "https://raw.githubusercontent.com/LeaSolBok/LeaSolBok.github.io/main/actorquiz/packages/riddles_henames/card.webp",
       "dataUrl": "https://raw.githubusercontent.com/LeaSolBok/LeaSolBok.github.io/main/actorquiz/packages/riddles_henames/data.json",
+      "dataUrls": {
+        "he": "https://raw.githubusercontent.com/LeaSolBok/LeaSolBok.github.io/main/actorquiz/packages/riddles_henames/data_he.json"
+      },
       "releaseDate": null,
       "isVip": false,
       "sortOrder": 70,
-      "questionCount": 57,
+      "questionCount": 56,
       "geminiFolder": "riddles/henames",
       "originalFolder": "riddles/henames"
     },
