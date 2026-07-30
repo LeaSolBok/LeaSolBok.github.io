@@ -6,7 +6,23 @@
       "A mustached plumber jumps through side-scrolling kingdoms to rescue royalty from a turtle-like villain.",
       "Mushrooms, pipes, coins, fire flowers, and flagpoles are major clues.",
       "Its simple run-and-jump design helped define console platform games."
-    ]
+    ],
+    "rawg_id": 25080,
+    "media_type": "game",
+    "localized_titles": {
+      "am": "Super Mario Bros.",
+      "ar": "Super Mario Bros.",
+      "de": "Super Mario Bros.",
+      "el": "Super Mario Bros.",
+      "es": "Super Mario Bros.",
+      "fr": "Super Mario Bros.",
+      "he": "Super Mario Bros.",
+      "hi": "Super Mario Bros.",
+      "ja": "Super Mario Bros.",
+      "ko": "Super Mario Bros.",
+      "ru": "Super Mario Bros.",
+      "zh": "Super Mario Bros."
+    }
   },
   {
     "celebrity": "The Legend of Zelda Ocarina of Time",
@@ -15,7 +31,23 @@
       "A green-clad hero travels between childhood and adulthood to save a fantasy kingdom.",
       "A magical instrument, temples, sages, and a horse across open fields are major clues.",
       "Its lock-on combat and era-shifting structure became landmarks for 3D adventure games."
-    ]
+    ],
+    "rawg_id": 25097,
+    "media_type": "game",
+    "localized_titles": {
+      "am": "The Legend of Zelda: Ocarina of Time",
+      "ar": "The Legend of Zelda: Ocarina of Time",
+      "de": "The Legend of Zelda: Ocarina of Time",
+      "el": "The Legend of Zelda: Ocarina of Time",
+      "es": "The Legend of Zelda: Ocarina of Time",
+      "fr": "The Legend of Zelda: Ocarina of Time",
+      "he": "The Legend of Zelda: Ocarina of Time",
+      "hi": "The Legend of Zelda: Ocarina of Time",
+      "ja": "The Legend of Zelda: Ocarina of Time",
+      "ko": "The Legend of Zelda: Ocarina of Time",
+      "ru": "The Legend of Zelda: Ocarina of Time",
+      "zh": "The Legend of Zelda: Ocarina of Time"
+    }
   },
   {
     "celebrity": "Minecraft",
@@ -24,7 +56,23 @@
       "Players mine blocks and build almost anything in a procedurally generated world.",
       "Creepers, crafting tables, pickaxes, and square animals are major clues.",
       "Survival nights, creative mode, and redstone contraptions drive its endless replayability."
-    ]
+    ],
+    "rawg_id": 22509,
+    "media_type": "game",
+    "localized_titles": {
+      "am": "Minecraft",
+      "ar": "Minecraft",
+      "de": "Minecraft",
+      "el": "Minecraft",
+      "es": "Minecraft",
+      "fr": "Minecraft",
+      "he": "Minecraft",
+      "hi": "Minecraft",
+      "ja": "Minecraft",
+      "ko": "Minecraft",
+      "ru": "Minecraft",
+      "zh": "Minecraft"
+    }
   },
   {
     "celebrity": "Fortnite",
@@ -33,7 +81,23 @@
       "A colorful battle royale drops players onto an island where building can matter as much as aiming.",
       "Seasonal events, dances, skins, and crossover characters are major clues.",
       "Its map keeps changing, turning matches into a live pop-culture stage."
-    ]
+    ],
+    "rawg_id": 583859,
+    "media_type": "game",
+    "localized_titles": {
+      "am": "Fortnite",
+      "ar": "Fortnite",
+      "de": "Fortnite",
+      "el": "Fortnite",
+      "es": "Fortnite",
+      "fr": "Fortnite",
+      "he": "Fortnite",
+      "hi": "Fortnite",
+      "ja": "Fortnite",
+      "ko": "Fortnite",
+      "ru": "Fortnite",
+      "zh": "Fortnite"
+    }
   },
   {
     "celebrity": "Grand Theft Auto V",
@@ -42,7 +106,23 @@
       "Three criminals in a satirical open-world city plan heists and switch perspectives.",
       "Cars, radio stations, wanted levels, and a sprawling Los Angeles-inspired map are major clues.",
       "Its online mode became a playground for chaos, luxury purchases, and roleplay."
-    ]
+    ],
+    "rawg_id": 3498,
+    "media_type": "game",
+    "localized_titles": {
+      "am": "Grand Theft Auto V",
+      "ar": "Grand Theft Auto V",
+      "de": "Grand Theft Auto V",
+      "el": "Grand Theft Auto V",
+      "es": "Grand Theft Auto V",
+      "fr": "Grand Theft Auto V",
+      "he": "Grand Theft Auto V",
+      "hi": "Grand Theft Auto V",
+      "ja": "Grand Theft Auto V",
+      "ko": "Grand Theft Auto V",
+      "ru": "Grand Theft Auto V",
+      "zh": "Grand Theft Auto V"
+    }
   },
   {
     "celebrity": "Tetris",
@@ -51,7 +131,23 @@
       "Falling blocks must be rotated and cleared before the stack reaches the top.",
       "Its tension comes from simple shapes, increasing speed, and one long piece everyone waits for.",
       "A Russian folk melody and perfectly fitting lines are major clues."
-    ]
+    ],
+    "rawg_id": 5731,
+    "media_type": "game",
+    "localized_titles": {
+      "am": "TETRIS",
+      "ar": "TETRIS",
+      "de": "TETRIS",
+      "el": "TETRIS",
+      "es": "TETRIS",
+      "fr": "TETRIS",
+      "he": "TETRIS",
+      "hi": "TETRIS",
+      "ja": "TETRIS",
+      "ko": "TETRIS",
+      "ru": "TETRIS",
+      "zh": "TETRIS"
+    }
   },
   {
     "celebrity": "Pac Man",
@@ -60,7 +156,23 @@
       "A yellow maze runner eats dots while avoiding four colorful ghosts.",
       "Power pellets briefly turn the hunted character into the hunter.",
       "Fruit bonuses, corner tunnels, and arcade cabinet nostalgia are major clues."
-    ]
+    ],
+    "rawg_id": 24881,
+    "media_type": "game",
+    "localized_titles": {
+      "am": "Pac-Man",
+      "ar": "Pac-Man",
+      "de": "Pac-Man",
+      "el": "Pac-Man",
+      "es": "Pac-Man",
+      "fr": "Pac-Man",
+      "he": "Pac-Man",
+      "hi": "Pac-Man",
+      "ja": "Pac-Man",
+      "ko": "Pac-Man",
+      "ru": "Pac-Man",
+      "zh": "Pac-Man"
+    }
   },
   {
     "celebrity": "Doom",
@@ -69,7 +181,23 @@
       "A lone space marine fights demonic hordes with fast movement and heavy weapons.",
       "Keycards, shotguns, metal music energy, and corridors full of monsters are major clues.",
       "Its modding scene and first-person combat helped define an entire genre."
-    ]
+    ],
+    "rawg_id": 52884,
+    "media_type": "game",
+    "localized_titles": {
+      "am": "DOOM",
+      "ar": "DOOM",
+      "de": "DOOM",
+      "el": "DOOM",
+      "es": "DOOM",
+      "fr": "DOOM",
+      "he": "DOOM",
+      "hi": "DOOM",
+      "ja": "DOOM",
+      "ko": "DOOM",
+      "ru": "DOOM",
+      "zh": "DOOM"
+    }
   },
   {
     "celebrity": "Half Life",
@@ -78,7 +206,23 @@
       "Its clues draw from what players do moment to moment: movement, fighting, building, collecting, racing, or solving.",
       "Think about the play loop: the tools you use, the enemies you face, and the reward that keeps you playing.",
       "The hint is in its controller memory: maps, resources, weapons, abilities, upgrades, or the sound of success."
-    ]
+    ],
+    "rawg_id": 18080,
+    "media_type": "game",
+    "localized_titles": {
+      "am": "Half-Life",
+      "ar": "Half-Life",
+      "de": "Half-Life",
+      "el": "Half-Life",
+      "es": "Half-Life",
+      "fr": "Half-Life",
+      "he": "Half-Life",
+      "hi": "Half-Life",
+      "ja": "Half-Life",
+      "ko": "Half-Life",
+      "ru": "Half-Life",
+      "zh": "Half-Life"
+    }
   },
   {
     "celebrity": "Portal",
@@ -87,7 +231,23 @@
       "A test subject solves physics puzzles using linked doorways placed on walls and floors.",
       "A sarcastic facility AI, weighted cubes, and promises of cake are major clues.",
       "The humor hides inside sterile test chambers and increasingly sinister experiments."
-    ]
+    ],
+    "rawg_id": 13536,
+    "media_type": "game",
+    "localized_titles": {
+      "am": "Portal",
+      "ar": "Portal",
+      "de": "Portal",
+      "el": "Portal",
+      "es": "Portal",
+      "fr": "Portal",
+      "he": "Portal",
+      "hi": "Portal",
+      "ja": "Portal",
+      "ko": "Portal",
+      "ru": "Portal",
+      "zh": "Portal"
+    }
   },
   {
     "celebrity": "Bioshock",
@@ -96,7 +256,23 @@
       "An underwater city built on extreme individualism collapses into genetic horror.",
       "A wrench, little girls guarded by huge drill-armed protectors, and moral choices are major clues.",
       "Its famous twist questions free will through one repeated polite phrase."
-    ]
+    ],
+    "rawg_id": 4286,
+    "media_type": "game",
+    "localized_titles": {
+      "am": "BioShock",
+      "ar": "BioShock",
+      "de": "BioShock",
+      "el": "BioShock",
+      "es": "BioShock",
+      "fr": "BioShock",
+      "he": "BioShock",
+      "hi": "BioShock",
+      "ja": "BioShock",
+      "ko": "BioShock",
+      "ru": "BioShock",
+      "zh": "BioShock"
+    }
   },
   {
     "celebrity": "The Last of Us",
@@ -105,7 +281,23 @@
       "A hardened smuggler escorts an immune teenager across a ruined fungal-infected America.",
       "Clicking monsters, improvised stealth, and a surrogate-parent bond are central clues.",
       "The ending turns a possible cure into a devastating personal choice."
-    ]
+    ],
+    "rawg_id": 3990,
+    "media_type": "game",
+    "localized_titles": {
+      "am": "The Last Of Us",
+      "ar": "The Last Of Us",
+      "de": "The Last Of Us",
+      "el": "The Last Of Us",
+      "es": "The Last Of Us",
+      "fr": "The Last Of Us",
+      "he": "The Last Of Us",
+      "hi": "The Last Of Us",
+      "ja": "The Last Of Us",
+      "ko": "The Last Of Us",
+      "ru": "The Last Of Us",
+      "zh": "The Last Of Us"
+    }
   },
   {
     "celebrity": "God of War",
@@ -114,7 +306,23 @@
       "A rage-filled warrior battles gods while carrying deep guilt and family tragedy.",
       "Bladed chains, mythological monsters, and later a colder father-son journey are major clues.",
       "Its combat mixes divine revenge with a struggle to break a cycle of violence."
-    ]
+    ],
+    "rawg_id": 930477,
+    "media_type": "game",
+    "localized_titles": {
+      "am": "God Of War",
+      "ar": "God Of War",
+      "de": "God Of War",
+      "el": "God Of War",
+      "es": "God Of War",
+      "fr": "God Of War",
+      "he": "God Of War",
+      "hi": "God Of War",
+      "ja": "God Of War",
+      "ko": "God Of War",
+      "ru": "God Of War",
+      "zh": "God Of War"
+    }
   },
   {
     "celebrity": "Red Dead Redemption 2",
@@ -123,7 +331,23 @@
       "Its clues draw from what players do moment to moment: movement, fighting, building, collecting, racing, or solving.",
       "Think about the play loop: the tools you use, the enemies you face, and the reward that keeps you playing.",
       "The hint is in its controller memory: maps, resources, weapons, abilities, upgrades, or the sound of success."
-    ]
+    ],
+    "rawg_id": 28,
+    "media_type": "game",
+    "localized_titles": {
+      "am": "Red Dead Redemption 2",
+      "ar": "Red Dead Redemption 2",
+      "de": "Red Dead Redemption 2",
+      "el": "Red Dead Redemption 2",
+      "es": "Red Dead Redemption 2",
+      "fr": "Red Dead Redemption 2",
+      "he": "Red Dead Redemption 2",
+      "hi": "Red Dead Redemption 2",
+      "ja": "Red Dead Redemption 2",
+      "ko": "Red Dead Redemption 2",
+      "ru": "Red Dead Redemption 2",
+      "zh": "Red Dead Redemption 2"
+    }
   },
   {
     "celebrity": "The Elder Scrolls V Skyrim",
@@ -132,7 +356,23 @@
       "Its clues draw from what players do moment to moment: movement, fighting, building, collecting, racing, or solving.",
       "Think about the play loop: the tools you use, the enemies you face, and the reward that keeps you playing.",
       "The hint is in its controller memory: maps, resources, weapons, abilities, upgrades, or the sound of success."
-    ]
+    ],
+    "rawg_id": 5679,
+    "media_type": "game",
+    "localized_titles": {
+      "am": "The Elder Scrolls V: Skyrim",
+      "ar": "The Elder Scrolls V: Skyrim",
+      "de": "The Elder Scrolls V: Skyrim",
+      "el": "The Elder Scrolls V: Skyrim",
+      "es": "The Elder Scrolls V: Skyrim",
+      "fr": "The Elder Scrolls V: Skyrim",
+      "he": "The Elder Scrolls V: Skyrim",
+      "hi": "The Elder Scrolls V: Skyrim",
+      "ja": "The Elder Scrolls V: Skyrim",
+      "ko": "The Elder Scrolls V: Skyrim",
+      "ru": "The Elder Scrolls V: Skyrim",
+      "zh": "The Elder Scrolls V: Skyrim"
+    }
   },
   {
     "celebrity": "Fallout New Vegas",
@@ -141,7 +381,23 @@
       "Its clues draw from what players do moment to moment: movement, fighting, building, collecting, racing, or solving.",
       "Think about the play loop: the tools you use, the enemies you face, and the reward that keeps you playing.",
       "The hint is in its controller memory: maps, resources, weapons, abilities, upgrades, or the sound of success."
-    ]
+    ],
+    "rawg_id": 5563,
+    "media_type": "game",
+    "localized_titles": {
+      "am": "Fallout: New Vegas",
+      "ar": "Fallout: New Vegas",
+      "de": "Fallout: New Vegas",
+      "el": "Fallout: New Vegas",
+      "es": "Fallout: New Vegas",
+      "fr": "Fallout: New Vegas",
+      "he": "Fallout: New Vegas",
+      "hi": "Fallout: New Vegas",
+      "ja": "Fallout: New Vegas",
+      "ko": "Fallout: New Vegas",
+      "ru": "Fallout: New Vegas",
+      "zh": "Fallout: New Vegas"
+    }
   },
   {
     "celebrity": "Mass Effect 2",
@@ -150,7 +406,23 @@
       "Its clues draw from what players do moment to moment: movement, fighting, building, collecting, racing, or solving.",
       "Think about the play loop: the tools you use, the enemies you face, and the reward that keeps you playing.",
       "The hint is in its controller memory: maps, resources, weapons, abilities, upgrades, or the sound of success."
-    ]
+    ],
+    "rawg_id": 4806,
+    "media_type": "game",
+    "localized_titles": {
+      "am": "Mass Effect 2",
+      "ar": "Mass Effect 2",
+      "de": "Mass Effect 2",
+      "el": "Mass Effect 2",
+      "es": "Mass Effect 2",
+      "fr": "Mass Effect 2",
+      "he": "Mass Effect 2",
+      "hi": "Mass Effect 2",
+      "ja": "Mass Effect 2",
+      "ko": "Mass Effect 2",
+      "ru": "Mass Effect 2",
+      "zh": "Mass Effect 2"
+    }
   },
   {
     "celebrity": "Halo Combat Evolved",
@@ -159,7 +431,23 @@
       "Its clues draw from what players do moment to moment: movement, fighting, building, collecting, racing, or solving.",
       "Think about the play loop: the tools you use, the enemies you face, and the reward that keeps you playing.",
       "The hint is in its controller memory: maps, resources, weapons, abilities, upgrades, or the sound of success."
-    ]
+    ],
+    "rawg_id": 28448,
+    "media_type": "game",
+    "localized_titles": {
+      "am": "Halo: Combat Evolved",
+      "ar": "Halo: Combat Evolved",
+      "de": "Halo: Combat Evolved",
+      "el": "Halo: Combat Evolved",
+      "es": "Halo: Combat Evolved",
+      "fr": "Halo: Combat Evolved",
+      "he": "Halo: Combat Evolved",
+      "hi": "Halo: Combat Evolved",
+      "ja": "Halo: Combat Evolved",
+      "ko": "Halo: Combat Evolved",
+      "ru": "Halo: Combat Evolved",
+      "zh": "Halo: Combat Evolved"
+    }
   },
   {
     "celebrity": "Call of Duty Modern Warfare",
@@ -168,7 +456,23 @@
       "Its clues draw from what players do moment to moment: movement, fighting, building, collecting, racing, or solving.",
       "Think about the play loop: the tools you use, the enemies you face, and the reward that keeps you playing.",
       "The hint is in its controller memory: maps, resources, weapons, abilities, upgrades, or the sound of success."
-    ]
+    ],
+    "rawg_id": 884,
+    "media_type": "game",
+    "localized_titles": {
+      "am": "Call of Duty Modern Warfare",
+      "ar": "Call of Duty Modern Warfare",
+      "de": "Call of Duty Modern Warfare",
+      "el": "Call of Duty Modern Warfare",
+      "es": "Call of Duty Modern Warfare",
+      "fr": "Call of Duty Modern Warfare",
+      "he": "Call of Duty Modern Warfare",
+      "hi": "Call of Duty Modern Warfare",
+      "ja": "Call of Duty Modern Warfare",
+      "ko": "Call of Duty Modern Warfare",
+      "ru": "Call of Duty Modern Warfare",
+      "zh": "Call of Duty Modern Warfare"
+    }
   },
   {
     "celebrity": "World of Warcraft",
@@ -177,7 +481,23 @@
       "Its clues draw from what players do moment to moment: movement, fighting, building, collecting, racing, or solving.",
       "Think about the play loop: the tools you use, the enemies you face, and the reward that keeps you playing.",
       "The hint is in its controller memory: maps, resources, weapons, abilities, upgrades, or the sound of success."
-    ]
+    ],
+    "rawg_id": 23599,
+    "media_type": "game",
+    "localized_titles": {
+      "am": "World of Warcraft",
+      "ar": "World of Warcraft",
+      "de": "World of Warcraft",
+      "el": "World of Warcraft",
+      "es": "World of Warcraft",
+      "fr": "World of Warcraft",
+      "he": "World of Warcraft",
+      "hi": "World of Warcraft",
+      "ja": "World of Warcraft",
+      "ko": "World of Warcraft",
+      "ru": "World of Warcraft",
+      "zh": "World of Warcraft"
+    }
   },
   {
     "celebrity": "Diablo Ii",
@@ -186,7 +506,23 @@
       "Its clues draw from what players do moment to moment: movement, fighting, building, collecting, racing, or solving.",
       "Think about the play loop: the tools you use, the enemies you face, and the reward that keeps you playing.",
       "The hint is in its controller memory: maps, resources, weapons, abilities, upgrades, or the sound of success."
-    ]
+    ],
+    "rawg_id": 22512,
+    "media_type": "game",
+    "localized_titles": {
+      "am": "Diablo II",
+      "ar": "Diablo II",
+      "de": "Diablo II",
+      "el": "Diablo II",
+      "es": "Diablo II",
+      "fr": "Diablo II",
+      "he": "Diablo II",
+      "hi": "Diablo II",
+      "ja": "Diablo II",
+      "ko": "Diablo II",
+      "ru": "Diablo II",
+      "zh": "Diablo II"
+    }
   },
   {
     "celebrity": "Starcraft",
@@ -195,7 +531,23 @@
       "Its clues draw from what players do moment to moment: movement, fighting, building, collecting, racing, or solving.",
       "Think about the play loop: the tools you use, the enemies you face, and the reward that keeps you playing.",
       "The hint is in its controller memory: maps, resources, weapons, abilities, upgrades, or the sound of success."
-    ]
+    ],
+    "rawg_id": 32716,
+    "media_type": "game",
+    "localized_titles": {
+      "am": "StarCraft",
+      "ar": "StarCraft",
+      "de": "StarCraft",
+      "el": "StarCraft",
+      "es": "StarCraft",
+      "fr": "StarCraft",
+      "he": "StarCraft",
+      "hi": "StarCraft",
+      "ja": "StarCraft",
+      "ko": "StarCraft",
+      "ru": "StarCraft",
+      "zh": "StarCraft"
+    }
   },
   {
     "celebrity": "Warcraft Iii",
@@ -204,7 +556,23 @@
       "Its clues draw from what players do moment to moment: movement, fighting, building, collecting, racing, or solving.",
       "Think about the play loop: the tools you use, the enemies you face, and the reward that keeps you playing.",
       "The hint is in its controller memory: maps, resources, weapons, abilities, upgrades, or the sound of success."
-    ]
+    ],
+    "rawg_id": 30445,
+    "media_type": "game",
+    "localized_titles": {
+      "am": "Warcraft Iii",
+      "ar": "Warcraft Iii",
+      "de": "Warcraft Iii",
+      "el": "Warcraft Iii",
+      "es": "Warcraft Iii",
+      "fr": "Warcraft Iii",
+      "he": "Warcraft Iii",
+      "hi": "Warcraft Iii",
+      "ja": "Warcraft Iii",
+      "ko": "Warcraft Iii",
+      "ru": "Warcraft Iii",
+      "zh": "Warcraft Iii"
+    }
   },
   {
     "celebrity": "League of Legends",
@@ -213,7 +581,23 @@
       "Its clues draw from what players do moment to moment: movement, fighting, building, collecting, racing, or solving.",
       "Think about the play loop: the tools you use, the enemies you face, and the reward that keeps you playing.",
       "The hint is in its controller memory: maps, resources, weapons, abilities, upgrades, or the sound of success."
-    ]
+    ],
+    "rawg_id": 23598,
+    "media_type": "game",
+    "localized_titles": {
+      "am": "League of Legends",
+      "ar": "League of Legends",
+      "de": "League of Legends",
+      "el": "League of Legends",
+      "es": "League of Legends",
+      "fr": "League of Legends",
+      "he": "League of Legends",
+      "hi": "League of Legends",
+      "ja": "League of Legends",
+      "ko": "League of Legends",
+      "ru": "League of Legends",
+      "zh": "League of Legends"
+    }
   },
   {
     "celebrity": "Dota 2",
@@ -222,7 +606,23 @@
       "Its clues draw from what players do moment to moment: movement, fighting, building, collecting, racing, or solving.",
       "Think about the play loop: the tools you use, the enemies you face, and the reward that keeps you playing.",
       "The hint is in its controller memory: maps, resources, weapons, abilities, upgrades, or the sound of success."
-    ]
+    ],
+    "rawg_id": 10213,
+    "media_type": "game",
+    "localized_titles": {
+      "am": "Dota 2",
+      "ar": "Dota 2",
+      "de": "Dota 2",
+      "el": "Dota 2",
+      "es": "Dota 2",
+      "fr": "Dota 2",
+      "he": "Dota 2",
+      "hi": "Dota 2",
+      "ja": "Dota 2",
+      "ko": "Dota 2",
+      "ru": "Dota 2",
+      "zh": "Dota 2"
+    }
   },
   {
     "celebrity": "Counter Strike",
@@ -231,7 +631,23 @@
       "Its clues draw from what players do moment to moment: movement, fighting, building, collecting, racing, or solving.",
       "Think about the play loop: the tools you use, the enemies you face, and the reward that keeps you playing.",
       "The hint is in its controller memory: maps, resources, weapons, abilities, upgrades, or the sound of success."
-    ]
+    ],
+    "rawg_id": 19301,
+    "media_type": "game",
+    "localized_titles": {
+      "am": "Counter-Strike",
+      "ar": "Counter-Strike",
+      "de": "Counter-Strike",
+      "el": "Counter-Strike",
+      "es": "Counter-Strike",
+      "fr": "Counter-Strike",
+      "he": "Counter-Strike",
+      "hi": "Counter-Strike",
+      "ja": "Counter-Strike",
+      "ko": "Counter-Strike",
+      "ru": "Counter-Strike",
+      "zh": "Counter-Strike"
+    }
   },
   {
     "celebrity": "Valorant",
@@ -240,7 +656,23 @@
       "Its clues draw from what players do moment to moment: movement, fighting, building, collecting, racing, or solving.",
       "Think about the play loop: the tools you use, the enemies you face, and the reward that keeps you playing.",
       "The hint is in its controller memory: maps, resources, weapons, abilities, upgrades, or the sound of success."
-    ]
+    ],
+    "rawg_id": 415171,
+    "media_type": "game",
+    "localized_titles": {
+      "am": "Valorant",
+      "ar": "Valorant",
+      "de": "Valorant",
+      "el": "Valorant",
+      "es": "Valorant",
+      "fr": "Valorant",
+      "he": "Valorant",
+      "hi": "Valorant",
+      "ja": "Valorant",
+      "ko": "Valorant",
+      "ru": "Valorant",
+      "zh": "Valorant"
+    }
   },
   {
     "celebrity": "Overwatch",
@@ -249,7 +681,23 @@
       "Its clues draw from what players do moment to moment: movement, fighting, building, collecting, racing, or solving.",
       "Think about the play loop: the tools you use, the enemies you face, and the reward that keeps you playing.",
       "The hint is in its controller memory: maps, resources, weapons, abilities, upgrades, or the sound of success."
-    ]
+    ],
+    "rawg_id": 22508,
+    "media_type": "game",
+    "localized_titles": {
+      "am": "Overwatch",
+      "ar": "Overwatch",
+      "de": "Overwatch",
+      "el": "Overwatch",
+      "es": "Overwatch",
+      "fr": "Overwatch",
+      "he": "Overwatch",
+      "hi": "Overwatch",
+      "ja": "Overwatch",
+      "ko": "Overwatch",
+      "ru": "Overwatch",
+      "zh": "Overwatch"
+    }
   },
   {
     "celebrity": "Hearthstone",
@@ -258,7 +706,23 @@
       "Its clues draw from what players do moment to moment: movement, fighting, building, collecting, racing, or solving.",
       "Think about the play loop: the tools you use, the enemies you face, and the reward that keeps you playing.",
       "The hint is in its controller memory: maps, resources, weapons, abilities, upgrades, or the sound of success."
-    ]
+    ],
+    "rawg_id": 181,
+    "media_type": "game",
+    "localized_titles": {
+      "am": "Hearthstone",
+      "ar": "Hearthstone",
+      "de": "Hearthstone",
+      "el": "Hearthstone",
+      "es": "Hearthstone",
+      "fr": "Hearthstone",
+      "he": "Hearthstone",
+      "hi": "Hearthstone",
+      "ja": "Hearthstone",
+      "ko": "Hearthstone",
+      "ru": "Hearthstone",
+      "zh": "Hearthstone"
+    }
   },
   {
     "celebrity": "Pokemon Red and Blue",
@@ -267,7 +731,23 @@
       "Its clues draw from what players do moment to moment: movement, fighting, building, collecting, racing, or solving.",
       "Think about the play loop: the tools you use, the enemies you face, and the reward that keeps you playing.",
       "The hint is in its controller memory: maps, resources, weapons, abilities, upgrades, or the sound of success."
-    ]
+    ],
+    "rawg_id": 23762,
+    "media_type": "game",
+    "localized_titles": {
+      "am": "Pokemon Red and Blue",
+      "ar": "Pokemon Red and Blue",
+      "de": "Pokemon Red and Blue",
+      "el": "Pokemon Red and Blue",
+      "es": "Pokemon Red and Blue",
+      "fr": "Pokemon Red and Blue",
+      "he": "Pokemon Red and Blue",
+      "hi": "Pokemon Red and Blue",
+      "ja": "Pokemon Red and Blue",
+      "ko": "Pokemon Red and Blue",
+      "ru": "Pokemon Red and Blue",
+      "zh": "Pokemon Red and Blue"
+    }
   },
   {
     "celebrity": "Animal Crossing New Horizons",
@@ -276,7 +756,23 @@
       "Its clues draw from what players do moment to moment: movement, fighting, building, collecting, racing, or solving.",
       "Think about the play loop: the tools you use, the enemies you face, and the reward that keeps you playing.",
       "The hint is in its controller memory: maps, resources, weapons, abilities, upgrades, or the sound of success."
-    ]
+    ],
+    "rawg_id": 421698,
+    "media_type": "game",
+    "localized_titles": {
+      "am": "Animal Crossing: New Horizons",
+      "ar": "Animal Crossing: New Horizons",
+      "de": "Animal Crossing: New Horizons",
+      "el": "Animal Crossing: New Horizons",
+      "es": "Animal Crossing: New Horizons",
+      "fr": "Animal Crossing: New Horizons",
+      "he": "Animal Crossing: New Horizons",
+      "hi": "Animal Crossing: New Horizons",
+      "ja": "Animal Crossing: New Horizons",
+      "ko": "Animal Crossing: New Horizons",
+      "ru": "Animal Crossing: New Horizons",
+      "zh": "Animal Crossing: New Horizons"
+    }
   },
   {
     "celebrity": "Super Smash Bros Ultimate",
@@ -285,7 +781,23 @@
       "Its clues draw from what players do moment to moment: movement, fighting, building, collecting, racing, or solving.",
       "Think about the play loop: the tools you use, the enemies you face, and the reward that keeps you playing.",
       "The hint is in its controller memory: maps, resources, weapons, abilities, upgrades, or the sound of success."
-    ]
+    ],
+    "rawg_id": 58829,
+    "media_type": "game",
+    "localized_titles": {
+      "am": "Super Smash Bros. Ultimate",
+      "ar": "Super Smash Bros. Ultimate",
+      "de": "Super Smash Bros. Ultimate",
+      "el": "Super Smash Bros. Ultimate",
+      "es": "Super Smash Bros. Ultimate",
+      "fr": "Super Smash Bros. Ultimate",
+      "he": "Super Smash Bros. Ultimate",
+      "hi": "Super Smash Bros. Ultimate",
+      "ja": "Super Smash Bros. Ultimate",
+      "ko": "Super Smash Bros. Ultimate",
+      "ru": "Super Smash Bros. Ultimate",
+      "zh": "Super Smash Bros. Ultimate"
+    }
   },
   {
     "celebrity": "Mario Kart 8 Deluxe",
@@ -294,7 +806,23 @@
       "Its clues draw from what players do moment to moment: movement, fighting, building, collecting, racing, or solving.",
       "Think about the play loop: the tools you use, the enemies you face, and the reward that keeps you playing.",
       "The hint is in its controller memory: maps, resources, weapons, abilities, upgrades, or the sound of success."
-    ]
+    ],
+    "rawg_id": 23165,
+    "media_type": "game",
+    "localized_titles": {
+      "am": "Mario Kart 8 Deluxe",
+      "ar": "Mario Kart 8 Deluxe",
+      "de": "Mario Kart 8 Deluxe",
+      "el": "Mario Kart 8 Deluxe",
+      "es": "Mario Kart 8 Deluxe",
+      "fr": "Mario Kart 8 Deluxe",
+      "he": "Mario Kart 8 Deluxe",
+      "hi": "Mario Kart 8 Deluxe",
+      "ja": "Mario Kart 8 Deluxe",
+      "ko": "Mario Kart 8 Deluxe",
+      "ru": "Mario Kart 8 Deluxe",
+      "zh": "Mario Kart 8 Deluxe"
+    }
   },
   {
     "celebrity": "Elden Ring",
@@ -303,7 +831,23 @@
       "Its clues draw from what players do moment to moment: movement, fighting, building, collecting, racing, or solving.",
       "Think about the play loop: the tools you use, the enemies you face, and the reward that keeps you playing.",
       "The hint is in its controller memory: maps, resources, weapons, abilities, upgrades, or the sound of success."
-    ]
+    ],
+    "rawg_id": 326243,
+    "media_type": "game",
+    "localized_titles": {
+      "am": "Elden Ring",
+      "ar": "Elden Ring",
+      "de": "Elden Ring",
+      "el": "Elden Ring",
+      "es": "Elden Ring",
+      "fr": "Elden Ring",
+      "he": "Elden Ring",
+      "hi": "Elden Ring",
+      "ja": "Elden Ring",
+      "ko": "Elden Ring",
+      "ru": "Elden Ring",
+      "zh": "Elden Ring"
+    }
   },
   {
     "celebrity": "Dark Souls",
@@ -312,7 +856,23 @@
       "Its clues draw from what players do moment to moment: movement, fighting, building, collecting, racing, or solving.",
       "Think about the play loop: the tools you use, the enemies you face, and the reward that keeps you playing.",
       "The hint is in its controller memory: maps, resources, weapons, abilities, upgrades, or the sound of success."
-    ]
+    ],
+    "rawg_id": 5538,
+    "media_type": "game",
+    "localized_titles": {
+      "am": "Dark Souls",
+      "ar": "Dark Souls",
+      "de": "Dark Souls",
+      "el": "Dark Souls",
+      "es": "Dark Souls",
+      "fr": "Dark Souls",
+      "he": "Dark Souls",
+      "hi": "Dark Souls",
+      "ja": "Dark Souls",
+      "ko": "Dark Souls",
+      "ru": "Dark Souls",
+      "zh": "Dark Souls"
+    }
   },
   {
     "celebrity": "Bloodborne",
@@ -321,7 +881,23 @@
       "Its clues draw from what players do moment to moment: movement, fighting, building, collecting, racing, or solving.",
       "Think about the play loop: the tools you use, the enemies you face, and the reward that keeps you playing.",
       "The hint is in its controller memory: maps, resources, weapons, abilities, upgrades, or the sound of success."
-    ]
+    ],
+    "rawg_id": 3387,
+    "media_type": "game",
+    "localized_titles": {
+      "am": "Bloodborne",
+      "ar": "Bloodborne",
+      "de": "Bloodborne",
+      "el": "Bloodborne",
+      "es": "Bloodborne",
+      "fr": "Bloodborne",
+      "he": "Bloodborne",
+      "hi": "Bloodborne",
+      "ja": "Bloodborne",
+      "ko": "Bloodborne",
+      "ru": "Bloodborne",
+      "zh": "Bloodborne"
+    }
   },
   {
     "celebrity": "Sekiro Shadows Die Twice",
@@ -330,7 +906,23 @@
       "Its clues draw from what players do moment to moment: movement, fighting, building, collecting, racing, or solving.",
       "Think about the play loop: the tools you use, the enemies you face, and the reward that keeps you playing.",
       "The hint is in its controller memory: maps, resources, weapons, abilities, upgrades, or the sound of success."
-    ]
+    ],
+    "rawg_id": 50734,
+    "media_type": "game",
+    "localized_titles": {
+      "am": "Sekiro: Shadows Die Twice",
+      "ar": "Sekiro: Shadows Die Twice",
+      "de": "Sekiro: Shadows Die Twice",
+      "el": "Sekiro: Shadows Die Twice",
+      "es": "Sekiro: Shadows Die Twice",
+      "fr": "Sekiro: Shadows Die Twice",
+      "he": "Sekiro: Shadows Die Twice",
+      "hi": "Sekiro: Shadows Die Twice",
+      "ja": "Sekiro: Shadows Die Twice",
+      "ko": "Sekiro: Shadows Die Twice",
+      "ru": "Sekiro: Shadows Die Twice",
+      "zh": "Sekiro: Shadows Die Twice"
+    }
   },
   {
     "celebrity": "Resident Evil 4",
@@ -339,7 +931,23 @@
       "Its clues draw from what players do moment to moment: movement, fighting, building, collecting, racing, or solving.",
       "Think about the play loop: the tools you use, the enemies you face, and the reward that keeps you playing.",
       "The hint is in its controller memory: maps, resources, weapons, abilities, upgrades, or the sound of success."
-    ]
+    ],
+    "rawg_id": 795632,
+    "media_type": "game",
+    "localized_titles": {
+      "am": "Resident Evil 4",
+      "ar": "Resident Evil 4",
+      "de": "Resident Evil 4",
+      "el": "Resident Evil 4",
+      "es": "Resident Evil 4",
+      "fr": "Resident Evil 4",
+      "he": "Resident Evil 4",
+      "hi": "Resident Evil 4",
+      "ja": "Resident Evil 4",
+      "ko": "Resident Evil 4",
+      "ru": "Resident Evil 4",
+      "zh": "Resident Evil 4"
+    }
   },
   {
     "celebrity": "Silent Hill 2",
@@ -348,7 +956,23 @@
       "Its clues draw from what players do moment to moment: movement, fighting, building, collecting, racing, or solving.",
       "Think about the play loop: the tools you use, the enemies you face, and the reward that keeps you playing.",
       "The hint is in its controller memory: maps, resources, weapons, abilities, upgrades, or the sound of success."
-    ]
+    ],
+    "rawg_id": 868086,
+    "media_type": "game",
+    "localized_titles": {
+      "am": "Silent Hill 2",
+      "ar": "Silent Hill 2",
+      "de": "Silent Hill 2",
+      "el": "Silent Hill 2",
+      "es": "Silent Hill 2",
+      "fr": "Silent Hill 2",
+      "he": "Silent Hill 2",
+      "hi": "Silent Hill 2",
+      "ja": "Silent Hill 2",
+      "ko": "Silent Hill 2",
+      "ru": "Silent Hill 2",
+      "zh": "Silent Hill 2"
+    }
   },
   {
     "celebrity": "Metal Gear Solid",
@@ -357,7 +981,23 @@
       "Its clues draw from what players do moment to moment: movement, fighting, building, collecting, racing, or solving.",
       "Think about the play loop: the tools you use, the enemies you face, and the reward that keeps you playing.",
       "The hint is in its controller memory: maps, resources, weapons, abilities, upgrades, or the sound of success."
-    ]
+    ],
+    "rawg_id": 57607,
+    "media_type": "game",
+    "localized_titles": {
+      "am": "Metal Gear Solid",
+      "ar": "Metal Gear Solid",
+      "de": "Metal Gear Solid",
+      "el": "Metal Gear Solid",
+      "es": "Metal Gear Solid",
+      "fr": "Metal Gear Solid",
+      "he": "Metal Gear Solid",
+      "hi": "Metal Gear Solid",
+      "ja": "Metal Gear Solid",
+      "ko": "Metal Gear Solid",
+      "ru": "Metal Gear Solid",
+      "zh": "Metal Gear Solid"
+    }
   },
   {
     "celebrity": "Final Fantasy Vii",
@@ -366,7 +1006,23 @@
       "Its clues draw from what players do moment to moment: movement, fighting, building, collecting, racing, or solving.",
       "Think about the play loop: the tools you use, the enemies you face, and the reward that keeps you playing.",
       "The hint is in its controller memory: maps, resources, weapons, abilities, upgrades, or the sound of success."
-    ]
+    ],
+    "rawg_id": 259801,
+    "media_type": "game",
+    "localized_titles": {
+      "am": "Final Fantasy VII",
+      "ar": "Final Fantasy VII",
+      "de": "Final Fantasy VII",
+      "el": "Final Fantasy VII",
+      "es": "Final Fantasy VII",
+      "fr": "Final Fantasy VII",
+      "he": "Final Fantasy VII",
+      "hi": "Final Fantasy VII",
+      "ja": "Final Fantasy VII",
+      "ko": "Final Fantasy VII",
+      "ru": "Final Fantasy VII",
+      "zh": "Final Fantasy VII"
+    }
   },
   {
     "celebrity": "Chrono Trigger",
@@ -375,7 +1031,23 @@
       "Its clues draw from what players do moment to moment: movement, fighting, building, collecting, racing, or solving.",
       "Think about the play loop: the tools you use, the enemies you face, and the reward that keeps you playing.",
       "The hint is in its controller memory: maps, resources, weapons, abilities, upgrades, or the sound of success."
-    ]
+    ],
+    "rawg_id": 52800,
+    "media_type": "game",
+    "localized_titles": {
+      "am": "Chrono Trigger",
+      "ar": "Chrono Trigger",
+      "de": "Chrono Trigger",
+      "el": "Chrono Trigger",
+      "es": "Chrono Trigger",
+      "fr": "Chrono Trigger",
+      "he": "Chrono Trigger",
+      "hi": "Chrono Trigger",
+      "ja": "Chrono Trigger",
+      "ko": "Chrono Trigger",
+      "ru": "Chrono Trigger",
+      "zh": "Chrono Trigger"
+    }
   },
   {
     "celebrity": "Persona 5",
@@ -384,7 +1056,23 @@
       "Its clues draw from what players do moment to moment: movement, fighting, building, collecting, racing, or solving.",
       "Think about the play loop: the tools you use, the enemies you face, and the reward that keeps you playing.",
       "The hint is in its controller memory: maps, resources, weapons, abilities, upgrades, or the sound of success."
-    ]
+    ],
+    "rawg_id": 49,
+    "media_type": "game",
+    "localized_titles": {
+      "am": "Persona 5",
+      "ar": "Persona 5",
+      "de": "Persona 5",
+      "el": "Persona 5",
+      "es": "Persona 5",
+      "fr": "Persona 5",
+      "he": "Persona 5",
+      "hi": "Persona 5",
+      "ja": "Persona 5",
+      "ko": "Persona 5",
+      "ru": "Persona 5",
+      "zh": "Persona 5"
+    }
   },
   {
     "celebrity": "Street Fighter Ii",
@@ -393,7 +1081,23 @@
       "Its clues draw from what players do moment to moment: movement, fighting, building, collecting, racing, or solving.",
       "Think about the play loop: the tools you use, the enemies you face, and the reward that keeps you playing.",
       "The hint is in its controller memory: maps, resources, weapons, abilities, upgrades, or the sound of success."
-    ]
+    ],
+    "rawg_id": 55132,
+    "media_type": "game",
+    "localized_titles": {
+      "am": "Street Fighter Ii",
+      "ar": "Street Fighter Ii",
+      "de": "Street Fighter Ii",
+      "el": "Street Fighter Ii",
+      "es": "Street Fighter Ii",
+      "fr": "Street Fighter Ii",
+      "he": "Street Fighter Ii",
+      "hi": "Street Fighter Ii",
+      "ja": "Street Fighter Ii",
+      "ko": "Street Fighter Ii",
+      "ru": "Street Fighter Ii",
+      "zh": "Street Fighter Ii"
+    }
   },
   {
     "celebrity": "Mortal Kombat",
@@ -402,7 +1106,23 @@
       "Its clues draw from what players do moment to moment: movement, fighting, building, collecting, racing, or solving.",
       "Think about the play loop: the tools you use, the enemies you face, and the reward that keeps you playing.",
       "The hint is in its controller memory: maps, resources, weapons, abilities, upgrades, or the sound of success."
-    ]
+    ],
+    "rawg_id": 54285,
+    "media_type": "game",
+    "localized_titles": {
+      "am": "Mortal Kombat",
+      "ar": "Mortal Kombat",
+      "de": "Mortal Kombat",
+      "el": "Mortal Kombat",
+      "es": "Mortal Kombat",
+      "fr": "Mortal Kombat",
+      "he": "Mortal Kombat",
+      "hi": "Mortal Kombat",
+      "ja": "Mortal Kombat",
+      "ko": "Mortal Kombat",
+      "ru": "Mortal Kombat",
+      "zh": "Mortal Kombat"
+    }
   },
   {
     "celebrity": "Tekken 3",
@@ -411,7 +1131,23 @@
       "Its clues draw from what players do moment to moment: movement, fighting, building, collecting, racing, or solving.",
       "Think about the play loop: the tools you use, the enemies you face, and the reward that keeps you playing.",
       "The hint is in its controller memory: maps, resources, weapons, abilities, upgrades, or the sound of success."
-    ]
+    ],
+    "rawg_id": 57842,
+    "media_type": "game",
+    "localized_titles": {
+      "am": "Tekken 3",
+      "ar": "Tekken 3",
+      "de": "Tekken 3",
+      "el": "Tekken 3",
+      "es": "Tekken 3",
+      "fr": "Tekken 3",
+      "he": "Tekken 3",
+      "hi": "Tekken 3",
+      "ja": "Tekken 3",
+      "ko": "Tekken 3",
+      "ru": "Tekken 3",
+      "zh": "Tekken 3"
+    }
   },
   {
     "celebrity": "Sonic the Hedgehog",
@@ -420,7 +1156,23 @@
       "Its clues draw from what players do moment to moment: movement, fighting, building, collecting, racing, or solving.",
       "Think about the play loop: the tools you use, the enemies you face, and the reward that keeps you playing.",
       "The hint is in its controller memory: maps, resources, weapons, abilities, upgrades, or the sound of success."
-    ]
+    ],
+    "rawg_id": 283965,
+    "media_type": "game",
+    "localized_titles": {
+      "am": "Sonic the Hedgehog",
+      "ar": "Sonic the Hedgehog",
+      "de": "Sonic the Hedgehog",
+      "el": "Sonic the Hedgehog",
+      "es": "Sonic the Hedgehog",
+      "fr": "Sonic the Hedgehog",
+      "he": "Sonic the Hedgehog",
+      "hi": "Sonic the Hedgehog",
+      "ja": "Sonic the Hedgehog",
+      "ko": "Sonic the Hedgehog",
+      "ru": "Sonic the Hedgehog",
+      "zh": "Sonic the Hedgehog"
+    }
   },
   {
     "celebrity": "Mega Man 2",
@@ -429,7 +1181,23 @@
       "Its clues draw from what players do moment to moment: movement, fighting, building, collecting, racing, or solving.",
       "Think about the play loop: the tools you use, the enemies you face, and the reward that keeps you playing.",
       "The hint is in its controller memory: maps, resources, weapons, abilities, upgrades, or the sound of success."
-    ]
+    ],
+    "rawg_id": 53939,
+    "media_type": "game",
+    "localized_titles": {
+      "am": "Mega Man 2",
+      "ar": "Mega Man 2",
+      "de": "Mega Man 2",
+      "el": "Mega Man 2",
+      "es": "Mega Man 2",
+      "fr": "Mega Man 2",
+      "he": "Mega Man 2",
+      "hi": "Mega Man 2",
+      "ja": "Mega Man 2",
+      "ko": "Mega Man 2",
+      "ru": "Mega Man 2",
+      "zh": "Mega Man 2"
+    }
   },
   {
     "celebrity": "Castlevania Symphony of the Night",
@@ -438,7 +1206,23 @@
       "Its clues draw from what players do moment to moment: movement, fighting, building, collecting, racing, or solving.",
       "Think about the play loop: the tools you use, the enemies you face, and the reward that keeps you playing.",
       "The hint is in its controller memory: maps, resources, weapons, abilities, upgrades, or the sound of success."
-    ]
+    ],
+    "rawg_id": 52790,
+    "media_type": "game",
+    "localized_titles": {
+      "am": "Castlevania: Symphony of the Night",
+      "ar": "Castlevania: Symphony of the Night",
+      "de": "Castlevania: Symphony of the Night",
+      "el": "Castlevania: Symphony of the Night",
+      "es": "Castlevania: Symphony of the Night",
+      "fr": "Castlevania: Symphony of the Night",
+      "he": "Castlevania: Symphony of the Night",
+      "hi": "Castlevania: Symphony of the Night",
+      "ja": "Castlevania: Symphony of the Night",
+      "ko": "Castlevania: Symphony of the Night",
+      "ru": "Castlevania: Symphony of the Night",
+      "zh": "Castlevania: Symphony of the Night"
+    }
   },
   {
     "celebrity": "Hades",
@@ -447,7 +1231,23 @@
       "Its clues draw from what players do moment to moment: movement, fighting, building, collecting, racing, or solving.",
       "Think about the play loop: the tools you use, the enemies you face, and the reward that keeps you playing.",
       "The hint is in its controller memory: maps, resources, weapons, abilities, upgrades, or the sound of success."
-    ]
+    ],
+    "rawg_id": 274755,
+    "media_type": "game",
+    "localized_titles": {
+      "am": "Hades",
+      "ar": "Hades",
+      "de": "Hades",
+      "el": "Hades",
+      "es": "Hades",
+      "fr": "Hades",
+      "he": "Hades",
+      "hi": "Hades",
+      "ja": "Hades",
+      "ko": "Hades",
+      "ru": "Hades",
+      "zh": "Hades"
+    }
   },
   {
     "celebrity": "Stardew Valley",
@@ -456,7 +1256,23 @@
       "Its clues draw from what players do moment to moment: movement, fighting, building, collecting, racing, or solving.",
       "Think about the play loop: the tools you use, the enemies you face, and the reward that keeps you playing.",
       "The hint is in its controller memory: maps, resources, weapons, abilities, upgrades, or the sound of success."
-    ]
+    ],
+    "rawg_id": 654,
+    "media_type": "game",
+    "localized_titles": {
+      "am": "Stardew Valley",
+      "ar": "Stardew Valley",
+      "de": "Stardew Valley",
+      "el": "Stardew Valley",
+      "es": "Stardew Valley",
+      "fr": "Stardew Valley",
+      "he": "Stardew Valley",
+      "hi": "Stardew Valley",
+      "ja": "Stardew Valley",
+      "ko": "Stardew Valley",
+      "ru": "Stardew Valley",
+      "zh": "Stardew Valley"
+    }
   },
   {
     "celebrity": "Terraria",
@@ -465,7 +1281,23 @@
       "Its clues draw from what players do moment to moment: movement, fighting, building, collecting, racing, or solving.",
       "Think about the play loop: the tools you use, the enemies you face, and the reward that keeps you playing.",
       "The hint is in its controller memory: maps, resources, weapons, abilities, upgrades, or the sound of success."
-    ]
+    ],
+    "rawg_id": 422,
+    "media_type": "game",
+    "localized_titles": {
+      "am": "Terraria",
+      "ar": "Terraria",
+      "de": "Terraria",
+      "el": "Terraria",
+      "es": "Terraria",
+      "fr": "Terraria",
+      "he": "Terraria",
+      "hi": "Terraria",
+      "ja": "Terraria",
+      "ko": "Terraria",
+      "ru": "Terraria",
+      "zh": "Terraria"
+    }
   },
   {
     "celebrity": "Hollow Knight",
@@ -474,7 +1306,23 @@
       "Its clues draw from what players do moment to moment: movement, fighting, building, collecting, racing, or solving.",
       "Think about the play loop: the tools you use, the enemies you face, and the reward that keeps you playing.",
       "The hint is in its controller memory: maps, resources, weapons, abilities, upgrades, or the sound of success."
-    ]
+    ],
+    "rawg_id": 9767,
+    "media_type": "game",
+    "localized_titles": {
+      "am": "Hollow Knight",
+      "ar": "Hollow Knight",
+      "de": "Hollow Knight",
+      "el": "Hollow Knight",
+      "es": "Hollow Knight",
+      "fr": "Hollow Knight",
+      "he": "Hollow Knight",
+      "hi": "Hollow Knight",
+      "ja": "Hollow Knight",
+      "ko": "Hollow Knight",
+      "ru": "Hollow Knight",
+      "zh": "Hollow Knight"
+    }
   },
   {
     "celebrity": "Celeste",
@@ -483,7 +1331,23 @@
       "Its clues draw from what players do moment to moment: movement, fighting, building, collecting, racing, or solving.",
       "Think about the play loop: the tools you use, the enemies you face, and the reward that keeps you playing.",
       "The hint is in its controller memory: maps, resources, weapons, abilities, upgrades, or the sound of success."
-    ]
+    ],
+    "rawg_id": 22121,
+    "media_type": "game",
+    "localized_titles": {
+      "am": "Celeste",
+      "ar": "Celeste",
+      "de": "Celeste",
+      "el": "Celeste",
+      "es": "Celeste",
+      "fr": "Celeste",
+      "he": "Celeste",
+      "hi": "Celeste",
+      "ja": "Celeste",
+      "ko": "Celeste",
+      "ru": "Celeste",
+      "zh": "Celeste"
+    }
   },
   {
     "celebrity": "Undertale",
@@ -492,7 +1356,23 @@
       "Its clues draw from what players do moment to moment: movement, fighting, building, collecting, racing, or solving.",
       "Think about the play loop: the tools you use, the enemies you face, and the reward that keeps you playing.",
       "The hint is in its controller memory: maps, resources, weapons, abilities, upgrades, or the sound of success."
-    ]
+    ],
+    "rawg_id": 13627,
+    "media_type": "game",
+    "localized_titles": {
+      "am": "Undertale",
+      "ar": "Undertale",
+      "de": "Undertale",
+      "el": "Undertale",
+      "es": "Undertale",
+      "fr": "Undertale",
+      "he": "Undertale",
+      "hi": "Undertale",
+      "ja": "Undertale",
+      "ko": "Undertale",
+      "ru": "Undertale",
+      "zh": "Undertale"
+    }
   },
   {
     "celebrity": "Among Us",
@@ -501,7 +1381,23 @@
       "Its clues draw from what players do moment to moment: movement, fighting, building, collecting, racing, or solving.",
       "Think about the play loop: the tools you use, the enemies you face, and the reward that keeps you playing.",
       "The hint is in its controller memory: maps, resources, weapons, abilities, upgrades, or the sound of success."
-    ]
+    ],
+    "rawg_id": 356714,
+    "media_type": "game",
+    "localized_titles": {
+      "am": "Among Us",
+      "ar": "Among Us",
+      "de": "Among Us",
+      "el": "Among Us",
+      "es": "Among Us",
+      "fr": "Among Us",
+      "he": "Among Us",
+      "hi": "Among Us",
+      "ja": "Among Us",
+      "ko": "Among Us",
+      "ru": "Among Us",
+      "zh": "Among Us"
+    }
   },
   {
     "celebrity": "Rocket League",
@@ -510,7 +1406,23 @@
       "Its clues draw from what players do moment to moment: movement, fighting, building, collecting, racing, or solving.",
       "Think about the play loop: the tools you use, the enemies you face, and the reward that keeps you playing.",
       "The hint is in its controller memory: maps, resources, weapons, abilities, upgrades, or the sound of success."
-    ]
+    ],
+    "rawg_id": 3272,
+    "media_type": "game",
+    "localized_titles": {
+      "am": "Rocket League",
+      "ar": "Rocket League",
+      "de": "Rocket League",
+      "el": "Rocket League",
+      "es": "Rocket League",
+      "fr": "Rocket League",
+      "he": "Rocket League",
+      "hi": "Rocket League",
+      "ja": "Rocket League",
+      "ko": "Rocket League",
+      "ru": "Rocket League",
+      "zh": "Rocket League"
+    }
   },
   {
     "celebrity": "The Sims",
@@ -519,7 +1431,23 @@
       "Its clues draw from what players do moment to moment: movement, fighting, building, collecting, racing, or solving.",
       "Think about the play loop: the tools you use, the enemies you face, and the reward that keeps you playing.",
       "The hint is in its controller memory: maps, resources, weapons, abilities, upgrades, or the sound of success."
-    ]
+    ],
+    "rawg_id": 31080,
+    "media_type": "game",
+    "localized_titles": {
+      "am": "The Sims",
+      "ar": "The Sims",
+      "de": "The Sims",
+      "el": "The Sims",
+      "es": "The Sims",
+      "fr": "The Sims",
+      "he": "The Sims",
+      "hi": "The Sims",
+      "ja": "The Sims",
+      "ko": "The Sims",
+      "ru": "The Sims",
+      "zh": "The Sims"
+    }
   },
   {
     "celebrity": "Civilization Vi",
@@ -528,7 +1456,23 @@
       "Its clues draw from what players do moment to moment: movement, fighting, building, collecting, racing, or solving.",
       "Think about the play loop: the tools you use, the enemies you face, and the reward that keeps you playing.",
       "The hint is in its controller memory: maps, resources, weapons, abilities, upgrades, or the sound of success."
-    ]
+    ],
+    "rawg_id": 10297,
+    "media_type": "game",
+    "localized_titles": {
+      "am": "Civilization Vi",
+      "ar": "Civilization Vi",
+      "de": "Civilization Vi",
+      "el": "Civilization Vi",
+      "es": "Civilization Vi",
+      "fr": "Civilization Vi",
+      "he": "Civilization Vi",
+      "hi": "Civilization Vi",
+      "ja": "Civilization Vi",
+      "ko": "Civilization Vi",
+      "ru": "Civilization Vi",
+      "zh": "Civilization Vi"
+    }
   },
   {
     "celebrity": "Xcom Enemy Unknown",
@@ -537,7 +1481,23 @@
       "Its clues draw from what players do moment to moment: movement, fighting, building, collecting, racing, or solving.",
       "Think about the play loop: the tools you use, the enemies you face, and the reward that keeps you playing.",
       "The hint is in its controller memory: maps, resources, weapons, abilities, upgrades, or the sound of success."
-    ]
+    ],
+    "rawg_id": 13910,
+    "media_type": "game",
+    "localized_titles": {
+      "am": "XCOM: Enemy Unknown",
+      "ar": "XCOM: Enemy Unknown",
+      "de": "XCOM: Enemy Unknown",
+      "el": "XCOM: Enemy Unknown",
+      "es": "XCOM: Enemy Unknown",
+      "fr": "XCOM: Enemy Unknown",
+      "he": "XCOM: Enemy Unknown",
+      "hi": "XCOM: Enemy Unknown",
+      "ja": "XCOM: Enemy Unknown",
+      "ko": "XCOM: Enemy Unknown",
+      "ru": "XCOM: Enemy Unknown",
+      "zh": "XCOM: Enemy Unknown"
+    }
   },
   {
     "celebrity": "The Witcher 3 Wild Hunt",
@@ -546,7 +1506,23 @@
       "Its clues draw from what players do moment to moment: movement, fighting, building, collecting, racing, or solving.",
       "Think about the play loop: the tools you use, the enemies you face, and the reward that keeps you playing.",
       "The hint is in its controller memory: maps, resources, weapons, abilities, upgrades, or the sound of success."
-    ]
+    ],
+    "rawg_id": 3328,
+    "media_type": "game",
+    "localized_titles": {
+      "am": "The Witcher 3: Wild Hunt",
+      "ar": "The Witcher 3: Wild Hunt",
+      "de": "The Witcher 3: Wild Hunt",
+      "el": "The Witcher 3: Wild Hunt",
+      "es": "The Witcher 3: Wild Hunt",
+      "fr": "The Witcher 3: Wild Hunt",
+      "he": "The Witcher 3: Wild Hunt",
+      "hi": "The Witcher 3: Wild Hunt",
+      "ja": "The Witcher 3: Wild Hunt",
+      "ko": "The Witcher 3: Wild Hunt",
+      "ru": "The Witcher 3: Wild Hunt",
+      "zh": "The Witcher 3: Wild Hunt"
+    }
   },
   {
     "celebrity": "A Plague Tale Innocence",
@@ -555,7 +1531,23 @@
       "Its clues draw from what players do moment to moment: movement, fighting, building, collecting, racing, or solving.",
       "Think about the play loop: the tools you use, the enemies you face, and the reward that keeps you playing.",
       "The hint is in its controller memory: maps, resources, weapons, abilities, upgrades, or the sound of success."
-    ]
+    ],
+    "rawg_id": 59359,
+    "media_type": "game",
+    "localized_titles": {
+      "am": "A Plague Tale: Innocence",
+      "ar": "A Plague Tale: Innocence",
+      "de": "A Plague Tale: Innocence",
+      "el": "A Plague Tale: Innocence",
+      "es": "A Plague Tale: Innocence",
+      "fr": "A Plague Tale: Innocence",
+      "he": "A Plague Tale: Innocence",
+      "hi": "A Plague Tale: Innocence",
+      "ja": "A Plague Tale: Innocence",
+      "ko": "A Plague Tale: Innocence",
+      "ru": "A Plague Tale: Innocence",
+      "zh": "A Plague Tale: Innocence"
+    }
   },
   {
     "celebrity": "A Story About My Uncle",
@@ -564,7 +1556,23 @@
       "Its clues draw from what players do moment to moment: movement, fighting, building, collecting, racing, or solving.",
       "Think about the play loop: the tools you use, the enemies you face, and the reward that keeps you playing.",
       "The hint is in its controller memory: maps, resources, weapons, abilities, upgrades, or the sound of success."
-    ]
+    ],
+    "rawg_id": 16343,
+    "media_type": "game",
+    "localized_titles": {
+      "am": "A Story About My Uncle",
+      "ar": "A Story About My Uncle",
+      "de": "A Story About My Uncle",
+      "el": "A Story About My Uncle",
+      "es": "A Story About My Uncle",
+      "fr": "A Story About My Uncle",
+      "he": "A Story About My Uncle",
+      "hi": "A Story About My Uncle",
+      "ja": "A Story About My Uncle",
+      "ko": "A Story About My Uncle",
+      "ru": "A Story About My Uncle",
+      "zh": "A Story About My Uncle"
+    }
   },
   {
     "celebrity": "Age of Wonders Iii",
@@ -573,7 +1581,23 @@
       "Its clues draw from what players do moment to moment: movement, fighting, building, collecting, racing, or solving.",
       "Think about the play loop: the tools you use, the enemies you face, and the reward that keeps you playing.",
       "The hint is in its controller memory: maps, resources, weapons, abilities, upgrades, or the sound of success."
-    ]
+    ],
+    "rawg_id": 14512,
+    "media_type": "game",
+    "localized_titles": {
+      "am": "Age of Wonders III",
+      "ar": "Age of Wonders III",
+      "de": "Age of Wonders III",
+      "el": "Age of Wonders III",
+      "es": "Age of Wonders III",
+      "fr": "Age of Wonders III",
+      "he": "Age of Wonders III",
+      "hi": "Age of Wonders III",
+      "ja": "Age of Wonders III",
+      "ko": "Age of Wonders III",
+      "ru": "Age of Wonders III",
+      "zh": "Age of Wonders III"
+    }
   },
   {
     "celebrity": "Alan Wake",
@@ -582,7 +1606,23 @@
       "Its clues draw from what players do moment to moment: movement, fighting, building, collecting, racing, or solving.",
       "Think about the play loop: the tools you use, the enemies you face, and the reward that keeps you playing.",
       "The hint is in its controller memory: maps, resources, weapons, abilities, upgrades, or the sound of success."
-    ]
+    ],
+    "rawg_id": 19487,
+    "media_type": "game",
+    "localized_titles": {
+      "am": "Alan Wake",
+      "ar": "Alan Wake",
+      "de": "Alan Wake",
+      "el": "Alan Wake",
+      "es": "Alan Wake",
+      "fr": "Alan Wake",
+      "he": "Alan Wake",
+      "hi": "Alan Wake",
+      "ja": "Alan Wake",
+      "ko": "Alan Wake",
+      "ru": "Alan Wake",
+      "zh": "Alan Wake"
+    }
   },
   {
     "celebrity": "Alan Wakes American Nightmare",
@@ -591,7 +1631,23 @@
       "Its clues draw from what players do moment to moment: movement, fighting, building, collecting, racing, or solving.",
       "Think about the play loop: the tools you use, the enemies you face, and the reward that keeps you playing.",
       "The hint is in its controller memory: maps, resources, weapons, abilities, upgrades, or the sound of success."
-    ]
+    ],
+    "rawg_id": 18336,
+    "media_type": "game",
+    "localized_titles": {
+      "am": "Alan Wake's American Nightmare",
+      "ar": "Alan Wake's American Nightmare",
+      "de": "Alan Wake's American Nightmare",
+      "el": "Alan Wake's American Nightmare",
+      "es": "Alan Wake's American Nightmare",
+      "fr": "Alan Wake's American Nightmare",
+      "he": "Alan Wake's American Nightmare",
+      "hi": "Alan Wake's American Nightmare",
+      "ja": "Alan Wake's American Nightmare",
+      "ko": "Alan Wake's American Nightmare",
+      "ru": "Alan Wake's American Nightmare",
+      "zh": "Alan Wake's American Nightmare"
+    }
   },
   {
     "celebrity": "Alien Isolation",
@@ -600,7 +1656,23 @@
       "Its clues draw from what players do moment to moment: movement, fighting, building, collecting, racing, or solving.",
       "Think about the play loop: the tools you use, the enemies you face, and the reward that keeps you playing.",
       "The hint is in its controller memory: maps, resources, weapons, abilities, upgrades, or the sound of success."
-    ]
+    ],
+    "rawg_id": 3556,
+    "media_type": "game",
+    "localized_titles": {
+      "am": "Alien: Isolation",
+      "ar": "Alien: Isolation",
+      "de": "Alien: Isolation",
+      "el": "Alien: Isolation",
+      "es": "Alien: Isolation",
+      "fr": "Alien: Isolation",
+      "he": "Alien: Isolation",
+      "hi": "Alien: Isolation",
+      "ja": "Alien: Isolation",
+      "ko": "Alien: Isolation",
+      "ru": "Alien: Isolation",
+      "zh": "Alien: Isolation"
+    }
   },
   {
     "celebrity": "Amnesia a Machine for Pigs",
@@ -609,7 +1681,23 @@
       "Its clues draw from what players do moment to moment: movement, fighting, building, collecting, racing, or solving.",
       "Think about the play loop: the tools you use, the enemies you face, and the reward that keeps you playing.",
       "The hint is in its controller memory: maps, resources, weapons, abilities, upgrades, or the sound of success."
-    ]
+    ],
+    "rawg_id": 13268,
+    "media_type": "game",
+    "localized_titles": {
+      "am": "Amnesia: A Machine for Pigs",
+      "ar": "Amnesia: A Machine for Pigs",
+      "de": "Amnesia: A Machine for Pigs",
+      "el": "Amnesia: A Machine for Pigs",
+      "es": "Amnesia: A Machine for Pigs",
+      "fr": "Amnesia: A Machine for Pigs",
+      "he": "Amnesia: A Machine for Pigs",
+      "hi": "Amnesia: A Machine for Pigs",
+      "ja": "Amnesia: A Machine for Pigs",
+      "ko": "Amnesia: A Machine for Pigs",
+      "ru": "Amnesia: A Machine for Pigs",
+      "zh": "Amnesia: A Machine for Pigs"
+    }
   },
   {
     "celebrity": "Amnesia the Dark Descent",
@@ -618,7 +1706,23 @@
       "Its clues draw from what players do moment to moment: movement, fighting, building, collecting, racing, or solving.",
       "Think about the play loop: the tools you use, the enemies you face, and the reward that keeps you playing.",
       "The hint is in its controller memory: maps, resources, weapons, abilities, upgrades, or the sound of success."
-    ]
+    ],
+    "rawg_id": 13668,
+    "media_type": "game",
+    "localized_titles": {
+      "am": "Amnesia: The Dark Descent",
+      "ar": "Amnesia: The Dark Descent",
+      "de": "Amnesia: The Dark Descent",
+      "el": "Amnesia: The Dark Descent",
+      "es": "Amnesia: The Dark Descent",
+      "fr": "Amnesia: The Dark Descent",
+      "he": "Amnesia: The Dark Descent",
+      "hi": "Amnesia: The Dark Descent",
+      "ja": "Amnesia: The Dark Descent",
+      "ko": "Amnesia: The Dark Descent",
+      "ru": "Amnesia: The Dark Descent",
+      "zh": "Amnesia: The Dark Descent"
+    }
   },
   {
     "celebrity": "Apex Legends",
@@ -627,7 +1731,23 @@
       "Its clues draw from what players do moment to moment: movement, fighting, building, collecting, racing, or solving.",
       "Think about the play loop: the tools you use, the enemies you face, and the reward that keeps you playing.",
       "The hint is in its controller memory: maps, resources, weapons, abilities, upgrades, or the sound of success."
-    ]
+    ],
+    "rawg_id": 290856,
+    "media_type": "game",
+    "localized_titles": {
+      "am": "Apex Legends",
+      "ar": "Apex Legends",
+      "de": "Apex Legends",
+      "el": "Apex Legends",
+      "es": "Apex Legends",
+      "fr": "Apex Legends",
+      "he": "Apex Legends",
+      "hi": "Apex Legends",
+      "ja": "Apex Legends",
+      "ko": "Apex Legends",
+      "ru": "Apex Legends",
+      "zh": "Apex Legends"
+    }
   },
   {
     "celebrity": "Ark Survival Evolved",
@@ -636,7 +1756,23 @@
       "Its clues draw from what players do moment to moment: movement, fighting, building, collecting, racing, or solving.",
       "Think about the play loop: the tools you use, the enemies you face, and the reward that keeps you playing.",
       "The hint is in its controller memory: maps, resources, weapons, abilities, upgrades, or the sound of success."
-    ]
+    ],
+    "rawg_id": 9810,
+    "media_type": "game",
+    "localized_titles": {
+      "am": "ARK: Survival Evolved",
+      "ar": "ARK: Survival Evolved",
+      "de": "ARK: Survival Evolved",
+      "el": "ARK: Survival Evolved",
+      "es": "ARK: Survival Evolved",
+      "fr": "ARK: Survival Evolved",
+      "he": "ARK: Survival Evolved",
+      "hi": "ARK: Survival Evolved",
+      "ja": "ARK: Survival Evolved",
+      "ko": "ARK: Survival Evolved",
+      "ru": "ARK: Survival Evolved",
+      "zh": "ARK: Survival Evolved"
+    }
   },
   {
     "celebrity": "Ark Survival of the Fittest",
@@ -645,7 +1781,23 @@
       "Its clues draw from what players do moment to moment: movement, fighting, building, collecting, racing, or solving.",
       "Think about the play loop: the tools you use, the enemies you face, and the reward that keeps you playing.",
       "The hint is in its controller memory: maps, resources, weapons, abilities, upgrades, or the sound of success."
-    ]
+    ],
+    "rawg_id": 11147,
+    "media_type": "game",
+    "localized_titles": {
+      "am": "ARK: Survival Of The Fittest",
+      "ar": "ARK: Survival Of The Fittest",
+      "de": "ARK: Survival Of The Fittest",
+      "el": "ARK: Survival Of The Fittest",
+      "es": "ARK: Survival Of The Fittest",
+      "fr": "ARK: Survival Of The Fittest",
+      "he": "ARK: Survival Of The Fittest",
+      "hi": "ARK: Survival Of The Fittest",
+      "ja": "ARK: Survival Of The Fittest",
+      "ko": "ARK: Survival Of The Fittest",
+      "ru": "ARK: Survival Of The Fittest",
+      "zh": "ARK: Survival Of The Fittest"
+    }
   },
   {
     "celebrity": "Assassins Creed Ii",
@@ -654,7 +1806,23 @@
       "Its clues draw from what players do moment to moment: movement, fighting, building, collecting, racing, or solving.",
       "Think about the play loop: the tools you use, the enemies you face, and the reward that keeps you playing.",
       "The hint is in its controller memory: maps, resources, weapons, abilities, upgrades, or the sound of success."
-    ]
+    ],
+    "rawg_id": 28568,
+    "media_type": "game",
+    "localized_titles": {
+      "am": "Assassin's Creed II",
+      "ar": "Assassin's Creed II",
+      "de": "Assassin's Creed II",
+      "el": "Assassin's Creed II",
+      "es": "Assassin's Creed II",
+      "fr": "Assassin's Creed II",
+      "he": "Assassin's Creed II",
+      "hi": "Assassin's Creed II",
+      "ja": "Assassin's Creed II",
+      "ko": "Assassin's Creed II",
+      "ru": "Assassin's Creed II",
+      "zh": "Assassin's Creed II"
+    }
   },
   {
     "celebrity": "Assassins Creed Iii",
@@ -663,7 +1831,23 @@
       "Its clues draw from what players do moment to moment: movement, fighting, building, collecting, racing, or solving.",
       "Think about the play loop: the tools you use, the enemies you face, and the reward that keeps you playing.",
       "The hint is in its controller memory: maps, resources, weapons, abilities, upgrades, or the sound of success."
-    ]
+    ],
+    "rawg_id": 13305,
+    "media_type": "game",
+    "localized_titles": {
+      "am": "Assassin’s Creed III",
+      "ar": "Assassin’s Creed III",
+      "de": "Assassin’s Creed III",
+      "el": "Assassin’s Creed III",
+      "es": "Assassin’s Creed III",
+      "fr": "Assassin’s Creed III",
+      "he": "Assassin’s Creed III",
+      "hi": "Assassin’s Creed III",
+      "ja": "Assassin’s Creed III",
+      "ko": "Assassin’s Creed III",
+      "ru": "Assassin’s Creed III",
+      "zh": "Assassin’s Creed III"
+    }
   },
   {
     "celebrity": "Assassins Creed Iv Black Flag",
@@ -672,7 +1856,23 @@
       "Its clues draw from what players do moment to moment: movement, fighting, building, collecting, racing, or solving.",
       "Think about the play loop: the tools you use, the enemies you face, and the reward that keeps you playing.",
       "The hint is in its controller memory: maps, resources, weapons, abilities, upgrades, or the sound of success."
-    ]
+    ],
+    "rawg_id": 3841,
+    "media_type": "game",
+    "localized_titles": {
+      "am": "Assassin’s Creed IV: Black Flag",
+      "ar": "Assassin’s Creed IV: Black Flag",
+      "de": "Assassin’s Creed IV: Black Flag",
+      "el": "Assassin’s Creed IV: Black Flag",
+      "es": "Assassin’s Creed IV: Black Flag",
+      "fr": "Assassin’s Creed IV: Black Flag",
+      "he": "Assassin’s Creed IV: Black Flag",
+      "hi": "Assassin’s Creed IV: Black Flag",
+      "ja": "Assassin’s Creed IV: Black Flag",
+      "ko": "Assassin’s Creed IV: Black Flag",
+      "ru": "Assassin’s Creed IV: Black Flag",
+      "zh": "Assassin’s Creed IV: Black Flag"
+    }
   },
   {
     "celebrity": "Assassins Creed Odyssey",
@@ -681,7 +1881,23 @@
       "Its clues draw from what players do moment to moment: movement, fighting, building, collecting, racing, or solving.",
       "Think about the play loop: the tools you use, the enemies you face, and the reward that keeps you playing.",
       "The hint is in its controller memory: maps, resources, weapons, abilities, upgrades, or the sound of success."
-    ]
+    ],
+    "rawg_id": 58616,
+    "media_type": "game",
+    "localized_titles": {
+      "am": "Assassin's Creed Odyssey",
+      "ar": "Assassin's Creed Odyssey",
+      "de": "Assassin's Creed Odyssey",
+      "el": "Assassin's Creed Odyssey",
+      "es": "Assassin's Creed Odyssey",
+      "fr": "Assassin's Creed Odyssey",
+      "he": "Assassin's Creed Odyssey",
+      "hi": "Assassin's Creed Odyssey",
+      "ja": "Assassin's Creed Odyssey",
+      "ko": "Assassin's Creed Odyssey",
+      "ru": "Assassin's Creed Odyssey",
+      "zh": "Assassin's Creed Odyssey"
+    }
   },
   {
     "celebrity": "Assassins Creed Origins",
@@ -690,7 +1906,23 @@
       "Its clues draw from what players do moment to moment: movement, fighting, building, collecting, racing, or solving.",
       "Think about the play loop: the tools you use, the enemies you face, and the reward that keeps you playing.",
       "The hint is in its controller memory: maps, resources, weapons, abilities, upgrades, or the sound of success."
-    ]
+    ],
+    "rawg_id": 28153,
+    "media_type": "game",
+    "localized_titles": {
+      "am": "Assassin's Creed Origins",
+      "ar": "Assassin's Creed Origins",
+      "de": "Assassin's Creed Origins",
+      "el": "Assassin's Creed Origins",
+      "es": "Assassin's Creed Origins",
+      "fr": "Assassin's Creed Origins",
+      "he": "Assassin's Creed Origins",
+      "hi": "Assassin's Creed Origins",
+      "ja": "Assassin's Creed Origins",
+      "ko": "Assassin's Creed Origins",
+      "ru": "Assassin's Creed Origins",
+      "zh": "Assassin's Creed Origins"
+    }
   },
   {
     "celebrity": "Assassins Creed Syndicate",
@@ -699,7 +1931,23 @@
       "Its clues draw from what players do moment to moment: movement, fighting, building, collecting, racing, or solving.",
       "Think about the play loop: the tools you use, the enemies you face, and the reward that keeps you playing.",
       "The hint is in its controller memory: maps, resources, weapons, abilities, upgrades, or the sound of success."
-    ]
+    ],
+    "rawg_id": 42895,
+    "media_type": "game",
+    "localized_titles": {
+      "am": "Assassin's Creed Syndicate",
+      "ar": "Assassin's Creed Syndicate",
+      "de": "Assassin's Creed Syndicate",
+      "el": "Assassin's Creed Syndicate",
+      "es": "Assassin's Creed Syndicate",
+      "fr": "Assassin's Creed Syndicate",
+      "he": "Assassin's Creed Syndicate",
+      "hi": "Assassin's Creed Syndicate",
+      "ja": "Assassin's Creed Syndicate",
+      "ko": "Assassin's Creed Syndicate",
+      "ru": "Assassin's Creed Syndicate",
+      "zh": "Assassin's Creed Syndicate"
+    }
   },
   {
     "celebrity": "Assassins Creed Unity",
@@ -708,7 +1956,23 @@
       "Its clues draw from what players do moment to moment: movement, fighting, building, collecting, racing, or solving.",
       "Think about the play loop: the tools you use, the enemies you face, and the reward that keeps you playing.",
       "The hint is in its controller memory: maps, resources, weapons, abilities, upgrades, or the sound of success."
-    ]
+    ],
+    "rawg_id": 8146,
+    "media_type": "game",
+    "localized_titles": {
+      "am": "Assassin's Creed Unity",
+      "ar": "Assassin's Creed Unity",
+      "de": "Assassin's Creed Unity",
+      "el": "Assassin's Creed Unity",
+      "es": "Assassin's Creed Unity",
+      "fr": "Assassin's Creed Unity",
+      "he": "Assassin's Creed Unity",
+      "hi": "Assassin's Creed Unity",
+      "ja": "Assassin's Creed Unity",
+      "ko": "Assassin's Creed Unity",
+      "ru": "Assassin's Creed Unity",
+      "zh": "Assassin's Creed Unity"
+    }
   },
   {
     "celebrity": "Bastion",
@@ -717,7 +1981,23 @@
       "Its clues draw from what players do moment to moment: movement, fighting, building, collecting, racing, or solving.",
       "Think about the play loop: the tools you use, the enemies you face, and the reward that keeps you playing.",
       "The hint is in its controller memory: maps, resources, weapons, abilities, upgrades, or the sound of success."
-    ]
+    ],
+    "rawg_id": 613,
+    "media_type": "game",
+    "localized_titles": {
+      "am": "Bastion",
+      "ar": "Bastion",
+      "de": "Bastion",
+      "el": "Bastion",
+      "es": "Bastion",
+      "fr": "Bastion",
+      "he": "Bastion",
+      "hi": "Bastion",
+      "ja": "Bastion",
+      "ko": "Bastion",
+      "ru": "Bastion",
+      "zh": "Bastion"
+    }
   },
   {
     "celebrity": "Batman Arkham Asylum",
@@ -726,7 +2006,23 @@
       "Its clues draw from what players do moment to moment: movement, fighting, building, collecting, racing, or solving.",
       "Think about the play loop: the tools you use, the enemies you face, and the reward that keeps you playing.",
       "The hint is in its controller memory: maps, resources, weapons, abilities, upgrades, or the sound of success."
-    ]
+    ],
+    "rawg_id": 4123,
+    "media_type": "game",
+    "localized_titles": {
+      "am": "Batman: Arkham Asylum",
+      "ar": "Batman: Arkham Asylum",
+      "de": "Batman: Arkham Asylum",
+      "el": "Batman: Arkham Asylum",
+      "es": "Batman: Arkham Asylum",
+      "fr": "Batman: Arkham Asylum",
+      "he": "Batman: Arkham Asylum",
+      "hi": "Batman: Arkham Asylum",
+      "ja": "Batman: Arkham Asylum",
+      "ko": "Batman: Arkham Asylum",
+      "ru": "Batman: Arkham Asylum",
+      "zh": "Batman: Arkham Asylum"
+    }
   },
   {
     "celebrity": "Batman Arkham City",
@@ -735,7 +2031,23 @@
       "Its clues draw from what players do moment to moment: movement, fighting, building, collecting, racing, or solving.",
       "Think about the play loop: the tools you use, the enemies you face, and the reward that keeps you playing.",
       "The hint is in its controller memory: maps, resources, weapons, abilities, upgrades, or the sound of success."
-    ]
+    ],
+    "rawg_id": 28623,
+    "media_type": "game",
+    "localized_titles": {
+      "am": "Batman: Arkham City",
+      "ar": "Batman: Arkham City",
+      "de": "Batman: Arkham City",
+      "el": "Batman: Arkham City",
+      "es": "Batman: Arkham City",
+      "fr": "Batman: Arkham City",
+      "he": "Batman: Arkham City",
+      "hi": "Batman: Arkham City",
+      "ja": "Batman: Arkham City",
+      "ko": "Batman: Arkham City",
+      "ru": "Batman: Arkham City",
+      "zh": "Batman: Arkham City"
+    }
   },
   {
     "celebrity": "Batman Arkham Knight",
@@ -744,7 +2056,23 @@
       "Its clues draw from what players do moment to moment: movement, fighting, building, collecting, racing, or solving.",
       "Think about the play loop: the tools you use, the enemies you face, and the reward that keeps you playing.",
       "The hint is in its controller memory: maps, resources, weapons, abilities, upgrades, or the sound of success."
-    ]
+    ],
+    "rawg_id": 3287,
+    "media_type": "game",
+    "localized_titles": {
+      "am": "Batman: Arkham Knight",
+      "ar": "Batman: Arkham Knight",
+      "de": "Batman: Arkham Knight",
+      "el": "Batman: Arkham Knight",
+      "es": "Batman: Arkham Knight",
+      "fr": "Batman: Arkham Knight",
+      "he": "Batman: Arkham Knight",
+      "hi": "Batman: Arkham Knight",
+      "ja": "Batman: Arkham Knight",
+      "ko": "Batman: Arkham Knight",
+      "ru": "Batman: Arkham Knight",
+      "zh": "Batman: Arkham Knight"
+    }
   },
   {
     "celebrity": "Batman Arkham Origins",
@@ -753,7 +2081,23 @@
       "Its clues draw from what players do moment to moment: movement, fighting, building, collecting, racing, or solving.",
       "Think about the play loop: the tools you use, the enemies you face, and the reward that keeps you playing.",
       "The hint is in its controller memory: maps, resources, weapons, abilities, upgrades, or the sound of success."
-    ]
+    ],
+    "rawg_id": 2235,
+    "media_type": "game",
+    "localized_titles": {
+      "am": "Batman: Arkham Origins",
+      "ar": "Batman: Arkham Origins",
+      "de": "Batman: Arkham Origins",
+      "el": "Batman: Arkham Origins",
+      "es": "Batman: Arkham Origins",
+      "fr": "Batman: Arkham Origins",
+      "he": "Batman: Arkham Origins",
+      "hi": "Batman: Arkham Origins",
+      "ja": "Batman: Arkham Origins",
+      "ko": "Batman: Arkham Origins",
+      "ru": "Batman: Arkham Origins",
+      "zh": "Batman: Arkham Origins"
+    }
   },
   {
     "celebrity": "Battlefield 1",
@@ -762,7 +2106,23 @@
       "Its clues draw from what players do moment to moment: movement, fighting, building, collecting, racing, or solving.",
       "Think about the play loop: the tools you use, the enemies you face, and the reward that keeps you playing.",
       "The hint is in its controller memory: maps, resources, weapons, abilities, upgrades, or the sound of success."
-    ]
+    ],
+    "rawg_id": 998,
+    "media_type": "game",
+    "localized_titles": {
+      "am": "Battlefield 1",
+      "ar": "Battlefield 1",
+      "de": "Battlefield 1",
+      "el": "Battlefield 1",
+      "es": "Battlefield 1",
+      "fr": "Battlefield 1",
+      "he": "Battlefield 1",
+      "hi": "Battlefield 1",
+      "ja": "Battlefield 1",
+      "ko": "Battlefield 1",
+      "ru": "Battlefield 1",
+      "zh": "Battlefield 1"
+    }
   },
   {
     "celebrity": "Battlefield 4",
@@ -771,7 +2131,23 @@
       "Its clues draw from what players do moment to moment: movement, fighting, building, collecting, racing, or solving.",
       "Think about the play loop: the tools you use, the enemies you face, and the reward that keeps you playing.",
       "The hint is in its controller memory: maps, resources, weapons, abilities, upgrades, or the sound of success."
-    ]
+    ],
+    "rawg_id": 3842,
+    "media_type": "game",
+    "localized_titles": {
+      "am": "Battlefield 4",
+      "ar": "Battlefield 4",
+      "de": "Battlefield 4",
+      "el": "Battlefield 4",
+      "es": "Battlefield 4",
+      "fr": "Battlefield 4",
+      "he": "Battlefield 4",
+      "hi": "Battlefield 4",
+      "ja": "Battlefield 4",
+      "ko": "Battlefield 4",
+      "ru": "Battlefield 4",
+      "zh": "Battlefield 4"
+    }
   },
   {
     "celebrity": "Bayonetta",
@@ -780,7 +2156,23 @@
       "Its clues draw from what players do moment to moment: movement, fighting, building, collecting, racing, or solving.",
       "Think about the play loop: the tools you use, the enemies you face, and the reward that keeps you playing.",
       "The hint is in its controller memory: maps, resources, weapons, abilities, upgrades, or the sound of success."
-    ]
+    ],
+    "rawg_id": 4101,
+    "media_type": "game",
+    "localized_titles": {
+      "am": "Bayonetta",
+      "ar": "Bayonetta",
+      "de": "Bayonetta",
+      "el": "Bayonetta",
+      "es": "Bayonetta",
+      "fr": "Bayonetta",
+      "he": "Bayonetta",
+      "hi": "Bayonetta",
+      "ja": "Bayonetta",
+      "ko": "Bayonetta",
+      "ru": "Bayonetta",
+      "zh": "Bayonetta"
+    }
   },
   {
     "celebrity": "Beyond Two Souls",
@@ -789,7 +2181,23 @@
       "Its clues draw from what players do moment to moment: movement, fighting, building, collecting, racing, or solving.",
       "Think about the play loop: the tools you use, the enemies you face, and the reward that keeps you playing.",
       "The hint is in its controller memory: maps, resources, weapons, abilities, upgrades, or the sound of success."
-    ]
+    ],
+    "rawg_id": 3028,
+    "media_type": "game",
+    "localized_titles": {
+      "am": "Beyond: Two Souls",
+      "ar": "Beyond: Two Souls",
+      "de": "Beyond: Two Souls",
+      "el": "Beyond: Two Souls",
+      "es": "Beyond: Two Souls",
+      "fr": "Beyond: Two Souls",
+      "he": "Beyond: Two Souls",
+      "hi": "Beyond: Two Souls",
+      "ja": "Beyond: Two Souls",
+      "ko": "Beyond: Two Souls",
+      "ru": "Beyond: Two Souls",
+      "zh": "Beyond: Two Souls"
+    }
   },
   {
     "celebrity": "Bioshock 2 Remastered",
@@ -798,7 +2206,23 @@
       "Its clues draw from what players do moment to moment: movement, fighting, building, collecting, racing, or solving.",
       "Think about the play loop: the tools you use, the enemies you face, and the reward that keeps you playing.",
       "The hint is in its controller memory: maps, resources, weapons, abilities, upgrades, or the sound of success."
-    ]
+    ],
+    "rawg_id": 11142,
+    "media_type": "game",
+    "localized_titles": {
+      "am": "BioShock 2 Remastered",
+      "ar": "BioShock 2 Remastered",
+      "de": "BioShock 2 Remastered",
+      "el": "BioShock 2 Remastered",
+      "es": "BioShock 2 Remastered",
+      "fr": "BioShock 2 Remastered",
+      "he": "BioShock 2 Remastered",
+      "hi": "BioShock 2 Remastered",
+      "ja": "BioShock 2 Remastered",
+      "ko": "BioShock 2 Remastered",
+      "ru": "BioShock 2 Remastered",
+      "zh": "BioShock 2 Remastered"
+    }
   },
   {
     "celebrity": "Bioshock Infinite",
@@ -807,7 +2231,23 @@
       "Its clues draw from what players do moment to moment: movement, fighting, building, collecting, racing, or solving.",
       "Think about the play loop: the tools you use, the enemies you face, and the reward that keeps you playing.",
       "The hint is in its controller memory: maps, resources, weapons, abilities, upgrades, or the sound of success."
-    ]
+    ],
+    "rawg_id": 4062,
+    "media_type": "game",
+    "localized_titles": {
+      "am": "BioShock Infinite",
+      "ar": "BioShock Infinite",
+      "de": "BioShock Infinite",
+      "el": "BioShock Infinite",
+      "es": "BioShock Infinite",
+      "fr": "BioShock Infinite",
+      "he": "BioShock Infinite",
+      "hi": "BioShock Infinite",
+      "ja": "BioShock Infinite",
+      "ko": "BioShock Infinite",
+      "ru": "BioShock Infinite",
+      "zh": "BioShock Infinite"
+    }
   },
   {
     "celebrity": "Bioshock Remastered",
@@ -816,7 +2256,23 @@
       "Its clues draw from what players do moment to moment: movement, fighting, building, collecting, racing, or solving.",
       "Think about the play loop: the tools you use, the enemies you face, and the reward that keeps you playing.",
       "The hint is in its controller memory: maps, resources, weapons, abilities, upgrades, or the sound of success."
-    ]
+    ],
+    "rawg_id": 10754,
+    "media_type": "game",
+    "localized_titles": {
+      "am": "BioShock Remastered",
+      "ar": "BioShock Remastered",
+      "de": "BioShock Remastered",
+      "el": "BioShock Remastered",
+      "es": "BioShock Remastered",
+      "fr": "BioShock Remastered",
+      "he": "BioShock Remastered",
+      "hi": "BioShock Remastered",
+      "ja": "BioShock Remastered",
+      "ko": "BioShock Remastered",
+      "ru": "BioShock Remastered",
+      "zh": "BioShock Remastered"
+    }
   },
   {
     "celebrity": "Black Desert Online",
@@ -825,7 +2281,23 @@
       "Its clues draw from what players do moment to moment: movement, fighting, building, collecting, racing, or solving.",
       "Think about the play loop: the tools you use, the enemies you face, and the reward that keeps you playing.",
       "The hint is in its controller memory: maps, resources, weapons, abilities, upgrades, or the sound of success."
-    ]
+    ],
+    "rawg_id": 22571,
+    "media_type": "game",
+    "localized_titles": {
+      "am": "Black Desert Online",
+      "ar": "Black Desert Online",
+      "de": "Black Desert Online",
+      "el": "Black Desert Online",
+      "es": "Black Desert Online",
+      "fr": "Black Desert Online",
+      "he": "Black Desert Online",
+      "hi": "Black Desert Online",
+      "ja": "Black Desert Online",
+      "ko": "Black Desert Online",
+      "ru": "Black Desert Online",
+      "zh": "Black Desert Online"
+    }
   },
   {
     "celebrity": "Borderlands",
@@ -834,7 +2306,23 @@
       "Its clues draw from what players do moment to moment: movement, fighting, building, collecting, racing, or solving.",
       "Think about the play loop: the tools you use, the enemies you face, and the reward that keeps you playing.",
       "The hint is in its controller memory: maps, resources, weapons, abilities, upgrades, or the sound of success."
-    ]
+    ],
+    "rawg_id": 4828,
+    "media_type": "game",
+    "localized_titles": {
+      "am": "Borderlands",
+      "ar": "Borderlands",
+      "de": "Borderlands",
+      "el": "Borderlands",
+      "es": "Borderlands",
+      "fr": "Borderlands",
+      "he": "Borderlands",
+      "hi": "Borderlands",
+      "ja": "Borderlands",
+      "ko": "Borderlands",
+      "ru": "Borderlands",
+      "zh": "Borderlands"
+    }
   },
   {
     "celebrity": "Borderlands 2",
@@ -843,7 +2331,23 @@
       "Its clues draw from what players do moment to moment: movement, fighting, building, collecting, racing, or solving.",
       "Think about the play loop: the tools you use, the enemies you face, and the reward that keeps you playing.",
       "The hint is in its controller memory: maps, resources, weapons, abilities, upgrades, or the sound of success."
-    ]
+    ],
+    "rawg_id": 802,
+    "media_type": "game",
+    "localized_titles": {
+      "am": "Borderlands 2",
+      "ar": "Borderlands 2",
+      "de": "Borderlands 2",
+      "el": "Borderlands 2",
+      "es": "Borderlands 2",
+      "fr": "Borderlands 2",
+      "he": "Borderlands 2",
+      "hi": "Borderlands 2",
+      "ja": "Borderlands 2",
+      "ko": "Borderlands 2",
+      "ru": "Borderlands 2",
+      "zh": "Borderlands 2"
+    }
   },
   {
     "celebrity": "Borderlands 3",
@@ -852,7 +2356,23 @@
       "Its clues draw from what players do moment to moment: movement, fighting, building, collecting, racing, or solving.",
       "Think about the play loop: the tools you use, the enemies you face, and the reward that keeps you playing.",
       "The hint is in its controller memory: maps, resources, weapons, abilities, upgrades, or the sound of success."
-    ]
+    ],
+    "rawg_id": 58617,
+    "media_type": "game",
+    "localized_titles": {
+      "am": "Borderlands 3",
+      "ar": "Borderlands 3",
+      "de": "Borderlands 3",
+      "el": "Borderlands 3",
+      "es": "Borderlands 3",
+      "fr": "Borderlands 3",
+      "he": "Borderlands 3",
+      "hi": "Borderlands 3",
+      "ja": "Borderlands 3",
+      "ko": "Borderlands 3",
+      "ru": "Borderlands 3",
+      "zh": "Borderlands 3"
+    }
   },
   {
     "celebrity": "Borderlands Game of the Year Enhanced",
@@ -861,7 +2381,23 @@
       "Its clues draw from what players do moment to moment: movement, fighting, building, collecting, racing, or solving.",
       "Think about the play loop: the tools you use, the enemies you face, and the reward that keeps you playing.",
       "The hint is in its controller memory: maps, resources, weapons, abilities, upgrades, or the sound of success."
-    ]
+    ],
+    "rawg_id": 306124,
+    "media_type": "game",
+    "localized_titles": {
+      "am": "Borderlands Game of the Year Enhanced",
+      "ar": "Borderlands Game of the Year Enhanced",
+      "de": "Borderlands Game of the Year Enhanced",
+      "el": "Borderlands Game of the Year Enhanced",
+      "es": "Borderlands Game of the Year Enhanced",
+      "fr": "Borderlands Game of the Year Enhanced",
+      "he": "Borderlands Game of the Year Enhanced",
+      "hi": "Borderlands Game of the Year Enhanced",
+      "ja": "Borderlands Game of the Year Enhanced",
+      "ko": "Borderlands Game of the Year Enhanced",
+      "ru": "Borderlands Game of the Year Enhanced",
+      "zh": "Borderlands Game of the Year Enhanced"
+    }
   },
   {
     "celebrity": "Brawlhalla",
@@ -870,7 +2406,23 @@
       "Its clues draw from what players do moment to moment: movement, fighting, building, collecting, racing, or solving.",
       "Think about the play loop: the tools you use, the enemies you face, and the reward that keeps you playing.",
       "The hint is in its controller memory: maps, resources, weapons, abilities, upgrades, or the sound of success."
-    ]
+    ],
+    "rawg_id": 9830,
+    "media_type": "game",
+    "localized_titles": {
+      "am": "Brawlhalla",
+      "ar": "Brawlhalla",
+      "de": "Brawlhalla",
+      "el": "Brawlhalla",
+      "es": "Brawlhalla",
+      "fr": "Brawlhalla",
+      "he": "Brawlhalla",
+      "hi": "Brawlhalla",
+      "ja": "Brawlhalla",
+      "ko": "Brawlhalla",
+      "ru": "Brawlhalla",
+      "zh": "Brawlhalla"
+    }
   },
   {
     "celebrity": "Brothers a Tale of Two Sons",
@@ -879,7 +2431,23 @@
       "Its clues draw from what players do moment to moment: movement, fighting, building, collecting, racing, or solving.",
       "Think about the play loop: the tools you use, the enemies you face, and the reward that keeps you playing.",
       "The hint is in its controller memory: maps, resources, weapons, abilities, upgrades, or the sound of success."
-    ]
+    ],
+    "rawg_id": 18240,
+    "media_type": "game",
+    "localized_titles": {
+      "am": "Brothers: A Tale of Two Sons",
+      "ar": "Brothers: A Tale of Two Sons",
+      "de": "Brothers: A Tale of Two Sons",
+      "el": "Brothers: A Tale of Two Sons",
+      "es": "Brothers: A Tale of Two Sons",
+      "fr": "Brothers: A Tale of Two Sons",
+      "he": "Brothers: A Tale of Two Sons",
+      "hi": "Brothers: A Tale of Two Sons",
+      "ja": "Brothers: A Tale of Two Sons",
+      "ko": "Brothers: A Tale of Two Sons",
+      "ru": "Brothers: A Tale of Two Sons",
+      "zh": "Brothers: A Tale of Two Sons"
+    }
   },
   {
     "celebrity": "Brutal Legend",
@@ -888,7 +2456,23 @@
       "Its clues draw from what players do moment to moment: movement, fighting, building, collecting, racing, or solving.",
       "Think about the play loop: the tools you use, the enemies you face, and the reward that keeps you playing.",
       "The hint is in its controller memory: maps, resources, weapons, abilities, upgrades, or the sound of success."
-    ]
+    ],
+    "rawg_id": 5525,
+    "media_type": "game",
+    "localized_titles": {
+      "am": "Brutal Legend",
+      "ar": "Brutal Legend",
+      "de": "Brutal Legend",
+      "el": "Brutal Legend",
+      "es": "Brutal Legend",
+      "fr": "Brutal Legend",
+      "he": "Brutal Legend",
+      "hi": "Brutal Legend",
+      "ja": "Brutal Legend",
+      "ko": "Brutal Legend",
+      "ru": "Brutal Legend",
+      "zh": "Brutal Legend"
+    }
   },
   {
     "celebrity": "Call of Duty Black Ops",
@@ -897,7 +2481,23 @@
       "Its clues draw from what players do moment to moment: movement, fighting, building, collecting, racing, or solving.",
       "Think about the play loop: the tools you use, the enemies you face, and the reward that keeps you playing.",
       "The hint is in its controller memory: maps, resources, weapons, abilities, upgrades, or the sound of success."
-    ]
+    ],
+    "rawg_id": 865,
+    "media_type": "game",
+    "localized_titles": {
+      "am": "Call of Duty: Black Ops",
+      "ar": "Call of Duty: Black Ops",
+      "de": "Call of Duty: Black Ops",
+      "el": "Call of Duty: Black Ops",
+      "es": "Call of Duty: Black Ops",
+      "fr": "Call of Duty: Black Ops",
+      "he": "Call of Duty: Black Ops",
+      "hi": "Call of Duty: Black Ops",
+      "ja": "Call of Duty: Black Ops",
+      "ko": "Call of Duty: Black Ops",
+      "ru": "Call of Duty: Black Ops",
+      "zh": "Call of Duty: Black Ops"
+    }
   },
   {
     "celebrity": "Call of Duty Black Ops Ii",
@@ -906,7 +2506,23 @@
       "Its clues draw from what players do moment to moment: movement, fighting, building, collecting, racing, or solving.",
       "Think about the play loop: the tools you use, the enemies you face, and the reward that keeps you playing.",
       "The hint is in its controller memory: maps, resources, weapons, abilities, upgrades, or the sound of success."
-    ]
+    ],
+    "rawg_id": 14446,
+    "media_type": "game",
+    "localized_titles": {
+      "am": "Call of Duty: Black Ops II",
+      "ar": "Call of Duty: Black Ops II",
+      "de": "Call of Duty: Black Ops II",
+      "el": "Call of Duty: Black Ops II",
+      "es": "Call of Duty: Black Ops II",
+      "fr": "Call of Duty: Black Ops II",
+      "he": "Call of Duty: Black Ops II",
+      "hi": "Call of Duty: Black Ops II",
+      "ja": "Call of Duty: Black Ops II",
+      "ko": "Call of Duty: Black Ops II",
+      "ru": "Call of Duty: Black Ops II",
+      "zh": "Call of Duty: Black Ops II"
+    }
   },
   {
     "celebrity": "Call of Duty Black Ops Iii",
@@ -915,7 +2531,23 @@
       "Its clues draw from what players do moment to moment: movement, fighting, building, collecting, racing, or solving.",
       "Think about the play loop: the tools you use, the enemies you face, and the reward that keeps you playing.",
       "The hint is in its controller memory: maps, resources, weapons, abilities, upgrades, or the sound of success."
-    ]
+    ],
+    "rawg_id": 906,
+    "media_type": "game",
+    "localized_titles": {
+      "am": "Call of Duty: Black Ops III",
+      "ar": "Call of Duty: Black Ops III",
+      "de": "Call of Duty: Black Ops III",
+      "el": "Call of Duty: Black Ops III",
+      "es": "Call of Duty: Black Ops III",
+      "fr": "Call of Duty: Black Ops III",
+      "he": "Call of Duty: Black Ops III",
+      "hi": "Call of Duty: Black Ops III",
+      "ja": "Call of Duty: Black Ops III",
+      "ko": "Call of Duty: Black Ops III",
+      "ru": "Call of Duty: Black Ops III",
+      "zh": "Call of Duty: Black Ops III"
+    }
   },
   {
     "celebrity": "Call of Duty Modern Warfare 2",
@@ -924,7 +2556,23 @@
       "Its clues draw from what players do moment to moment: movement, fighting, building, collecting, racing, or solving.",
       "Think about the play loop: the tools you use, the enemies you face, and the reward that keeps you playing.",
       "The hint is in its controller memory: maps, resources, weapons, abilities, upgrades, or the sound of success."
-    ]
+    ],
+    "rawg_id": 4527,
+    "media_type": "game",
+    "localized_titles": {
+      "am": "Call of Duty: Modern Warfare 2",
+      "ar": "Call of Duty: Modern Warfare 2",
+      "de": "Call of Duty: Modern Warfare 2",
+      "el": "Call of Duty: Modern Warfare 2",
+      "es": "Call of Duty: Modern Warfare 2",
+      "fr": "Call of Duty: Modern Warfare 2",
+      "he": "Call of Duty: Modern Warfare 2",
+      "hi": "Call of Duty: Modern Warfare 2",
+      "ja": "Call of Duty: Modern Warfare 2",
+      "ko": "Call of Duty: Modern Warfare 2",
+      "ru": "Call of Duty: Modern Warfare 2",
+      "zh": "Call of Duty: Modern Warfare 2"
+    }
   },
   {
     "celebrity": "Call of Duty Modern Warfare 3",
@@ -933,7 +2581,23 @@
       "Its clues draw from what players do moment to moment: movement, fighting, building, collecting, racing, or solving.",
       "Think about the play loop: the tools you use, the enemies you face, and the reward that keeps you playing.",
       "The hint is in its controller memory: maps, resources, weapons, abilities, upgrades, or the sound of success."
-    ]
+    ],
+    "rawg_id": 11276,
+    "media_type": "game",
+    "localized_titles": {
+      "am": "Call of Duty: Modern Warfare 3",
+      "ar": "Call of Duty: Modern Warfare 3",
+      "de": "Call of Duty: Modern Warfare 3",
+      "el": "Call of Duty: Modern Warfare 3",
+      "es": "Call of Duty: Modern Warfare 3",
+      "fr": "Call of Duty: Modern Warfare 3",
+      "he": "Call of Duty: Modern Warfare 3",
+      "hi": "Call of Duty: Modern Warfare 3",
+      "ja": "Call of Duty: Modern Warfare 3",
+      "ko": "Call of Duty: Modern Warfare 3",
+      "ru": "Call of Duty: Modern Warfare 3",
+      "zh": "Call of Duty: Modern Warfare 3"
+    }
   },
   {
     "celebrity": "Call of Duty Wwii",
@@ -942,7 +2606,23 @@
       "Its clues draw from what players do moment to moment: movement, fighting, building, collecting, racing, or solving.",
       "Think about the play loop: the tools you use, the enemies you face, and the reward that keeps you playing.",
       "The hint is in its controller memory: maps, resources, weapons, abilities, upgrades, or the sound of success."
-    ]
+    ],
+    "rawg_id": 21924,
+    "media_type": "game",
+    "localized_titles": {
+      "am": "Call of Duty: WWII",
+      "ar": "Call of Duty: WWII",
+      "de": "Call of Duty: WWII",
+      "el": "Call of Duty: WWII",
+      "es": "Call of Duty: WWII",
+      "fr": "Call of Duty: WWII",
+      "he": "Call of Duty: WWII",
+      "hi": "Call of Duty: WWII",
+      "ja": "Call of Duty: WWII",
+      "ko": "Call of Duty: WWII",
+      "ru": "Call of Duty: WWII",
+      "zh": "Call of Duty: WWII"
+    }
   },
   {
     "celebrity": "Call of Juarez Gunslinger",
@@ -951,7 +2631,23 @@
       "Its clues draw from what players do moment to moment: movement, fighting, building, collecting, racing, or solving.",
       "Think about the play loop: the tools you use, the enemies you face, and the reward that keeps you playing.",
       "The hint is in its controller memory: maps, resources, weapons, abilities, upgrades, or the sound of success."
-    ]
+    ],
+    "rawg_id": 4013,
+    "media_type": "game",
+    "localized_titles": {
+      "am": "Call of Juarez: Gunslinger",
+      "ar": "Call of Juarez: Gunslinger",
+      "de": "Call of Juarez: Gunslinger",
+      "el": "Call of Juarez: Gunslinger",
+      "es": "Call of Juarez: Gunslinger",
+      "fr": "Call of Juarez: Gunslinger",
+      "he": "Call of Juarez: Gunslinger",
+      "hi": "Call of Juarez: Gunslinger",
+      "ja": "Call of Juarez: Gunslinger",
+      "ko": "Call of Juarez: Gunslinger",
+      "ru": "Call of Juarez: Gunslinger",
+      "zh": "Call of Juarez: Gunslinger"
+    }
   },
   {
     "celebrity": "Castle Crashers",
@@ -960,7 +2656,23 @@
       "Its clues draw from what players do moment to moment: movement, fighting, building, collecting, racing, or solving.",
       "Think about the play loop: the tools you use, the enemies you face, and the reward that keeps you playing.",
       "The hint is in its controller memory: maps, resources, weapons, abilities, upgrades, or the sound of success."
-    ]
+    ],
+    "rawg_id": 4954,
+    "media_type": "game",
+    "localized_titles": {
+      "am": "Castle Crashers",
+      "ar": "Castle Crashers",
+      "de": "Castle Crashers",
+      "el": "Castle Crashers",
+      "es": "Castle Crashers",
+      "fr": "Castle Crashers",
+      "he": "Castle Crashers",
+      "hi": "Castle Crashers",
+      "ja": "Castle Crashers",
+      "ko": "Castle Crashers",
+      "ru": "Castle Crashers",
+      "zh": "Castle Crashers"
+    }
   },
   {
     "celebrity": "Chivalry Medieval Warfare",
@@ -969,7 +2681,23 @@
       "Its clues draw from what players do moment to moment: movement, fighting, building, collecting, racing, or solving.",
       "Think about the play loop: the tools you use, the enemies you face, and the reward that keeps you playing.",
       "The hint is in its controller memory: maps, resources, weapons, abilities, upgrades, or the sound of success."
-    ]
+    ],
+    "rawg_id": 3015,
+    "media_type": "game",
+    "localized_titles": {
+      "am": "Chivalry: Medieval Warfare",
+      "ar": "Chivalry: Medieval Warfare",
+      "de": "Chivalry: Medieval Warfare",
+      "el": "Chivalry: Medieval Warfare",
+      "es": "Chivalry: Medieval Warfare",
+      "fr": "Chivalry: Medieval Warfare",
+      "he": "Chivalry: Medieval Warfare",
+      "hi": "Chivalry: Medieval Warfare",
+      "ja": "Chivalry: Medieval Warfare",
+      "ko": "Chivalry: Medieval Warfare",
+      "ru": "Chivalry: Medieval Warfare",
+      "zh": "Chivalry: Medieval Warfare"
+    }
   },
   {
     "celebrity": "Cities Skylines",
@@ -978,7 +2706,23 @@
       "Its clues draw from what players do moment to moment: movement, fighting, building, collecting, racing, or solving.",
       "Think about the play loop: the tools you use, the enemies you face, and the reward that keeps you playing.",
       "The hint is in its controller memory: maps, resources, weapons, abilities, upgrades, or the sound of success."
-    ]
+    ],
+    "rawg_id": 10065,
+    "media_type": "game",
+    "localized_titles": {
+      "am": "Cities: Skylines",
+      "ar": "Cities: Skylines",
+      "de": "Cities: Skylines",
+      "el": "Cities: Skylines",
+      "es": "Cities: Skylines",
+      "fr": "Cities: Skylines",
+      "he": "Cities: Skylines",
+      "hi": "Cities: Skylines",
+      "ja": "Cities: Skylines",
+      "ko": "Cities: Skylines",
+      "ru": "Cities: Skylines",
+      "zh": "Cities: Skylines"
+    }
   },
   {
     "celebrity": "Company of Heroes 2",
@@ -987,7 +2731,23 @@
       "Its clues draw from what players do moment to moment: movement, fighting, building, collecting, racing, or solving.",
       "Think about the play loop: the tools you use, the enemies you face, and the reward that keeps you playing.",
       "The hint is in its controller memory: maps, resources, weapons, abilities, upgrades, or the sound of success."
-    ]
+    ],
+    "rawg_id": 10243,
+    "media_type": "game",
+    "localized_titles": {
+      "am": "Company of Heroes 2",
+      "ar": "Company of Heroes 2",
+      "de": "Company of Heroes 2",
+      "el": "Company of Heroes 2",
+      "es": "Company of Heroes 2",
+      "fr": "Company of Heroes 2",
+      "he": "Company of Heroes 2",
+      "hi": "Company of Heroes 2",
+      "ja": "Company of Heroes 2",
+      "ko": "Company of Heroes 2",
+      "ru": "Company of Heroes 2",
+      "zh": "Company of Heroes 2"
+    }
   },
   {
     "celebrity": "Control",
@@ -996,7 +2756,23 @@
       "Its clues draw from what players do moment to moment: movement, fighting, building, collecting, racing, or solving.",
       "Think about the play loop: the tools you use, the enemies you face, and the reward that keeps you playing.",
       "The hint is in its controller memory: maps, resources, weapons, abilities, upgrades, or the sound of success."
-    ]
+    ],
+    "rawg_id": 58812,
+    "media_type": "game",
+    "localized_titles": {
+      "am": "Control",
+      "ar": "Control",
+      "de": "Control",
+      "el": "Control",
+      "es": "Control",
+      "fr": "Control",
+      "he": "Control",
+      "hi": "Control",
+      "ja": "Control",
+      "ko": "Control",
+      "ru": "Control",
+      "zh": "Control"
+    }
   },
   {
     "celebrity": "Counter Strike",
@@ -1005,7 +2781,23 @@
       "Its clues draw from what players do moment to moment: movement, fighting, building, collecting, racing, or solving.",
       "Think about the play loop: the tools you use, the enemies you face, and the reward that keeps you playing.",
       "The hint is in its controller memory: maps, resources, weapons, abilities, upgrades, or the sound of success."
-    ]
+    ],
+    "rawg_id": 19301,
+    "media_type": "game",
+    "localized_titles": {
+      "am": "Counter-Strike",
+      "ar": "Counter-Strike",
+      "de": "Counter-Strike",
+      "el": "Counter-Strike",
+      "es": "Counter-Strike",
+      "fr": "Counter-Strike",
+      "he": "Counter-Strike",
+      "hi": "Counter-Strike",
+      "ja": "Counter-Strike",
+      "ko": "Counter-Strike",
+      "ru": "Counter-Strike",
+      "zh": "Counter-Strike"
+    }
   },
   {
     "celebrity": "Counter Strike Condition Zero",
@@ -1014,7 +2806,23 @@
       "Its clues draw from what players do moment to moment: movement, fighting, building, collecting, racing, or solving.",
       "Think about the play loop: the tools you use, the enemies you face, and the reward that keeps you playing.",
       "The hint is in its controller memory: maps, resources, weapons, abilities, upgrades, or the sound of success."
-    ]
+    ],
+    "rawg_id": 18613,
+    "media_type": "game",
+    "localized_titles": {
+      "am": "Counter-Strike: Condition Zero",
+      "ar": "Counter-Strike: Condition Zero",
+      "de": "Counter-Strike: Condition Zero",
+      "el": "Counter-Strike: Condition Zero",
+      "es": "Counter-Strike: Condition Zero",
+      "fr": "Counter-Strike: Condition Zero",
+      "he": "Counter-Strike: Condition Zero",
+      "hi": "Counter-Strike: Condition Zero",
+      "ja": "Counter-Strike: Condition Zero",
+      "ko": "Counter-Strike: Condition Zero",
+      "ru": "Counter-Strike: Condition Zero",
+      "zh": "Counter-Strike: Condition Zero"
+    }
   },
   {
     "celebrity": "Counter Strike Global Offensive",
@@ -1023,7 +2831,23 @@
       "Its clues draw from what players do moment to moment: movement, fighting, building, collecting, racing, or solving.",
       "Think about the play loop: the tools you use, the enemies you face, and the reward that keeps you playing.",
       "The hint is in its controller memory: maps, resources, weapons, abilities, upgrades, or the sound of success."
-    ]
+    ],
+    "rawg_id": 4291,
+    "media_type": "game",
+    "localized_titles": {
+      "am": "Counter-Strike: Global Offensive",
+      "ar": "Counter-Strike: Global Offensive",
+      "de": "Counter-Strike: Global Offensive",
+      "el": "Counter-Strike: Global Offensive",
+      "es": "Counter-Strike: Global Offensive",
+      "fr": "Counter-Strike: Global Offensive",
+      "he": "Counter-Strike: Global Offensive",
+      "hi": "Counter-Strike: Global Offensive",
+      "ja": "Counter-Strike: Global Offensive",
+      "ko": "Counter-Strike: Global Offensive",
+      "ru": "Counter-Strike: Global Offensive",
+      "zh": "Counter-Strike: Global Offensive"
+    }
   },
   {
     "celebrity": "Counter Strike Source",
@@ -1032,7 +2856,23 @@
       "Its clues draw from what players do moment to moment: movement, fighting, building, collecting, racing, or solving.",
       "Think about the play loop: the tools you use, the enemies you face, and the reward that keeps you playing.",
       "The hint is in its controller memory: maps, resources, weapons, abilities, upgrades, or the sound of success."
-    ]
+    ],
+    "rawg_id": 11934,
+    "media_type": "game",
+    "localized_titles": {
+      "am": "Counter-Strike: Source",
+      "ar": "Counter-Strike: Source",
+      "de": "Counter-Strike: Source",
+      "el": "Counter-Strike: Source",
+      "es": "Counter-Strike: Source",
+      "fr": "Counter-Strike: Source",
+      "he": "Counter-Strike: Source",
+      "hi": "Counter-Strike: Source",
+      "ja": "Counter-Strike: Source",
+      "ko": "Counter-Strike: Source",
+      "ru": "Counter-Strike: Source",
+      "zh": "Counter-Strike: Source"
+    }
   },
   {
     "celebrity": "Crusader Kings Ii",
@@ -1041,7 +2881,23 @@
       "Its clues draw from what players do moment to moment: movement, fighting, building, collecting, racing, or solving.",
       "Think about the play loop: the tools you use, the enemies you face, and the reward that keeps you playing.",
       "The hint is in its controller memory: maps, resources, weapons, abilities, upgrades, or the sound of success."
-    ]
+    ],
+    "rawg_id": 10340,
+    "media_type": "game",
+    "localized_titles": {
+      "am": "Crusader Kings II",
+      "ar": "Crusader Kings II",
+      "de": "Crusader Kings II",
+      "el": "Crusader Kings II",
+      "es": "Crusader Kings II",
+      "fr": "Crusader Kings II",
+      "he": "Crusader Kings II",
+      "hi": "Crusader Kings II",
+      "ja": "Crusader Kings II",
+      "ko": "Crusader Kings II",
+      "ru": "Crusader Kings II",
+      "zh": "Crusader Kings II"
+    }
   },
   {
     "celebrity": "Cuphead",
@@ -1050,7 +2906,23 @@
       "Its clues draw from what players do moment to moment: movement, fighting, building, collecting, racing, or solving.",
       "Think about the play loop: the tools you use, the enemies you face, and the reward that keeps you playing.",
       "The hint is in its controller memory: maps, resources, weapons, abilities, upgrades, or the sound of success."
-    ]
+    ],
+    "rawg_id": 28154,
+    "media_type": "game",
+    "localized_titles": {
+      "am": "Cuphead",
+      "ar": "Cuphead",
+      "de": "Cuphead",
+      "el": "Cuphead",
+      "es": "Cuphead",
+      "fr": "Cuphead",
+      "he": "Cuphead",
+      "hi": "Cuphead",
+      "ja": "Cuphead",
+      "ko": "Cuphead",
+      "ru": "Cuphead",
+      "zh": "Cuphead"
+    }
   },
   {
     "celebrity": "Cyberpunk 2077",
@@ -1059,7 +2931,23 @@
       "Its clues draw from what players do moment to moment: movement, fighting, building, collecting, racing, or solving.",
       "Think about the play loop: the tools you use, the enemies you face, and the reward that keeps you playing.",
       "The hint is in its controller memory: maps, resources, weapons, abilities, upgrades, or the sound of success."
-    ]
+    ],
+    "rawg_id": 41494,
+    "media_type": "game",
+    "localized_titles": {
+      "am": "Cyberpunk 2077",
+      "ar": "Cyberpunk 2077",
+      "de": "Cyberpunk 2077",
+      "el": "Cyberpunk 2077",
+      "es": "Cyberpunk 2077",
+      "fr": "Cyberpunk 2077",
+      "he": "Cyberpunk 2077",
+      "hi": "Cyberpunk 2077",
+      "ja": "Cyberpunk 2077",
+      "ko": "Cyberpunk 2077",
+      "ru": "Cyberpunk 2077",
+      "zh": "Cyberpunk 2077"
+    }
   },
   {
     "celebrity": "Dark Souls Iii",
@@ -1068,7 +2956,23 @@
       "Its clues draw from what players do moment to moment: movement, fighting, building, collecting, racing, or solving.",
       "Think about the play loop: the tools you use, the enemies you face, and the reward that keeps you playing.",
       "The hint is in its controller memory: maps, resources, weapons, abilities, upgrades, or the sound of success."
-    ]
+    ],
+    "rawg_id": 2551,
+    "media_type": "game",
+    "localized_titles": {
+      "am": "Dark Souls III",
+      "ar": "Dark Souls III",
+      "de": "Dark Souls III",
+      "el": "Dark Souls III",
+      "es": "Dark Souls III",
+      "fr": "Dark Souls III",
+      "he": "Dark Souls III",
+      "hi": "Dark Souls III",
+      "ja": "Dark Souls III",
+      "ko": "Dark Souls III",
+      "ru": "Dark Souls III",
+      "zh": "Dark Souls III"
+    }
   },
   {
     "celebrity": "Darkest Dungeon",
@@ -1077,7 +2981,23 @@
       "Its clues draw from what players do moment to moment: movement, fighting, building, collecting, racing, or solving.",
       "Think about the play loop: the tools you use, the enemies you face, and the reward that keeps you playing.",
       "The hint is in its controller memory: maps, resources, weapons, abilities, upgrades, or the sound of success."
-    ]
+    ],
+    "rawg_id": 1244,
+    "media_type": "game",
+    "localized_titles": {
+      "am": "Darkest Dungeon",
+      "ar": "Darkest Dungeon",
+      "de": "Darkest Dungeon",
+      "el": "Darkest Dungeon",
+      "es": "Darkest Dungeon",
+      "fr": "Darkest Dungeon",
+      "he": "Darkest Dungeon",
+      "hi": "Darkest Dungeon",
+      "ja": "Darkest Dungeon",
+      "ko": "Darkest Dungeon",
+      "ru": "Darkest Dungeon",
+      "zh": "Darkest Dungeon"
+    }
   },
   {
     "celebrity": "Darksiders",
@@ -1086,7 +3006,23 @@
       "Its clues draw from what players do moment to moment: movement, fighting, building, collecting, racing, or solving.",
       "Think about the play loop: the tools you use, the enemies you face, and the reward that keeps you playing.",
       "The hint is in its controller memory: maps, resources, weapons, abilities, upgrades, or the sound of success."
-    ]
+    ],
+    "rawg_id": 4502,
+    "media_type": "game",
+    "localized_titles": {
+      "am": "Darksiders",
+      "ar": "Darksiders",
+      "de": "Darksiders",
+      "el": "Darksiders",
+      "es": "Darksiders",
+      "fr": "Darksiders",
+      "he": "Darksiders",
+      "hi": "Darksiders",
+      "ja": "Darksiders",
+      "ko": "Darksiders",
+      "ru": "Darksiders",
+      "zh": "Darksiders"
+    }
   },
   {
     "celebrity": "Darksiders Warmastered Edition",
@@ -1095,7 +3031,23 @@
       "Its clues draw from what players do moment to moment: movement, fighting, building, collecting, racing, or solving.",
       "Think about the play loop: the tools you use, the enemies you face, and the reward that keeps you playing.",
       "The hint is in its controller memory: maps, resources, weapons, abilities, upgrades, or the sound of success."
-    ]
+    ],
+    "rawg_id": 10548,
+    "media_type": "game",
+    "localized_titles": {
+      "am": "Darksiders Warmastered Edition",
+      "ar": "Darksiders Warmastered Edition",
+      "de": "Darksiders Warmastered Edition",
+      "el": "Darksiders Warmastered Edition",
+      "es": "Darksiders Warmastered Edition",
+      "fr": "Darksiders Warmastered Edition",
+      "he": "Darksiders Warmastered Edition",
+      "hi": "Darksiders Warmastered Edition",
+      "ja": "Darksiders Warmastered Edition",
+      "ko": "Darksiders Warmastered Edition",
+      "ru": "Darksiders Warmastered Edition",
+      "zh": "Darksiders Warmastered Edition"
+    }
   },
   {
     "celebrity": "Days Gone",
@@ -1104,7 +3056,23 @@
       "Its clues draw from what players do moment to moment: movement, fighting, building, collecting, racing, or solving.",
       "Think about the play loop: the tools you use, the enemies you face, and the reward that keeps you playing.",
       "The hint is in its controller memory: maps, resources, weapons, abilities, upgrades, or the sound of success."
-    ]
+    ],
+    "rawg_id": 29338,
+    "media_type": "game",
+    "localized_titles": {
+      "am": "Days Gone",
+      "ar": "Days Gone",
+      "de": "Days Gone",
+      "el": "Days Gone",
+      "es": "Days Gone",
+      "fr": "Days Gone",
+      "he": "Days Gone",
+      "hi": "Days Gone",
+      "ja": "Days Gone",
+      "ko": "Days Gone",
+      "ru": "Days Gone",
+      "zh": "Days Gone"
+    }
   },
   {
     "celebrity": "Dead by Daylight",
@@ -1113,7 +3081,23 @@
       "Its clues draw from what players do moment to moment: movement, fighting, building, collecting, racing, or solving.",
       "Think about the play loop: the tools you use, the enemies you face, and the reward that keeps you playing.",
       "The hint is in its controller memory: maps, resources, weapons, abilities, upgrades, or the sound of success."
-    ]
+    ],
+    "rawg_id": 9966,
+    "media_type": "game",
+    "localized_titles": {
+      "am": "Dead by Daylight",
+      "ar": "Dead by Daylight",
+      "de": "Dead by Daylight",
+      "el": "Dead by Daylight",
+      "es": "Dead by Daylight",
+      "fr": "Dead by Daylight",
+      "he": "Dead by Daylight",
+      "hi": "Dead by Daylight",
+      "ja": "Dead by Daylight",
+      "ko": "Dead by Daylight",
+      "ru": "Dead by Daylight",
+      "zh": "Dead by Daylight"
+    }
   },
   {
     "celebrity": "Dead Cells",
@@ -1122,7 +3106,23 @@
       "Its clues draw from what players do moment to moment: movement, fighting, building, collecting, racing, or solving.",
       "Think about the play loop: the tools you use, the enemies you face, and the reward that keeps you playing.",
       "The hint is in its controller memory: maps, resources, weapons, abilities, upgrades, or the sound of success."
-    ]
+    ],
+    "rawg_id": 11726,
+    "media_type": "game",
+    "localized_titles": {
+      "am": "Dead Cells",
+      "ar": "Dead Cells",
+      "de": "Dead Cells",
+      "el": "Dead Cells",
+      "es": "Dead Cells",
+      "fr": "Dead Cells",
+      "he": "Dead Cells",
+      "hi": "Dead Cells",
+      "ja": "Dead Cells",
+      "ko": "Dead Cells",
+      "ru": "Dead Cells",
+      "zh": "Dead Cells"
+    }
   },
   {
     "celebrity": "Dead Island",
@@ -1131,7 +3131,23 @@
       "Its clues draw from what players do moment to moment: movement, fighting, building, collecting, racing, or solving.",
       "Think about the play loop: the tools you use, the enemies you face, and the reward that keeps you playing.",
       "The hint is in its controller memory: maps, resources, weapons, abilities, upgrades, or the sound of success."
-    ]
+    ],
+    "rawg_id": 28492,
+    "media_type": "game",
+    "localized_titles": {
+      "am": "Dead Island",
+      "ar": "Dead Island",
+      "de": "Dead Island",
+      "el": "Dead Island",
+      "es": "Dead Island",
+      "fr": "Dead Island",
+      "he": "Dead Island",
+      "hi": "Dead Island",
+      "ja": "Dead Island",
+      "ko": "Dead Island",
+      "ru": "Dead Island",
+      "zh": "Dead Island"
+    }
   },
   {
     "celebrity": "Dead Space 2",
@@ -1140,7 +3156,23 @@
       "Its clues draw from what players do moment to moment: movement, fighting, building, collecting, racing, or solving.",
       "Think about the play loop: the tools you use, the enemies you face, and the reward that keeps you playing.",
       "The hint is in its controller memory: maps, resources, weapons, abilities, upgrades, or the sound of success."
-    ]
+    ],
+    "rawg_id": 4550,
+    "media_type": "game",
+    "localized_titles": {
+      "am": "Dead Space 2",
+      "ar": "Dead Space 2",
+      "de": "Dead Space 2",
+      "el": "Dead Space 2",
+      "es": "Dead Space 2",
+      "fr": "Dead Space 2",
+      "he": "Dead Space 2",
+      "hi": "Dead Space 2",
+      "ja": "Dead Space 2",
+      "ko": "Dead Space 2",
+      "ru": "Dead Space 2",
+      "zh": "Dead Space 2"
+    }
   },
   {
     "celebrity": "Dead Space 2008",
@@ -1149,7 +3181,23 @@
       "Its clues draw from what players do moment to moment: movement, fighting, building, collecting, racing, or solving.",
       "Think about the play loop: the tools you use, the enemies you face, and the reward that keeps you playing.",
       "The hint is in its controller memory: maps, resources, weapons, abilities, upgrades, or the sound of success."
-    ]
+    ],
+    "rawg_id": 4570,
+    "media_type": "game",
+    "localized_titles": {
+      "am": "Dead Space (2008)",
+      "ar": "Dead Space (2008)",
+      "de": "Dead Space (2008)",
+      "el": "Dead Space (2008)",
+      "es": "Dead Space (2008)",
+      "fr": "Dead Space (2008)",
+      "he": "Dead Space (2008)",
+      "hi": "Dead Space (2008)",
+      "ja": "Dead Space (2008)",
+      "ko": "Dead Space (2008)",
+      "ru": "Dead Space (2008)",
+      "zh": "Dead Space (2008)"
+    }
   },
   {
     "celebrity": "Death Stranding",
@@ -1158,7 +3206,23 @@
       "Its clues draw from what players do moment to moment: movement, fighting, building, collecting, racing, or solving.",
       "Think about the play loop: the tools you use, the enemies you face, and the reward that keeps you playing.",
       "The hint is in its controller memory: maps, resources, weapons, abilities, upgrades, or the sound of success."
-    ]
+    ],
+    "rawg_id": 50738,
+    "media_type": "game",
+    "localized_titles": {
+      "am": "Death Stranding",
+      "ar": "Death Stranding",
+      "de": "Death Stranding",
+      "el": "Death Stranding",
+      "es": "Death Stranding",
+      "fr": "Death Stranding",
+      "he": "Death Stranding",
+      "hi": "Death Stranding",
+      "ja": "Death Stranding",
+      "ko": "Death Stranding",
+      "ru": "Death Stranding",
+      "zh": "Death Stranding"
+    }
   },
   {
     "celebrity": "Destiny 2",
@@ -1167,7 +3231,23 @@
       "Its clues draw from what players do moment to moment: movement, fighting, building, collecting, racing, or solving.",
       "Think about the play loop: the tools you use, the enemies you face, and the reward that keeps you playing.",
       "The hint is in its controller memory: maps, resources, weapons, abilities, upgrades, or the sound of success."
-    ]
+    ],
+    "rawg_id": 32,
+    "media_type": "game",
+    "localized_titles": {
+      "am": "Destiny 2",
+      "ar": "Destiny 2",
+      "de": "Destiny 2",
+      "el": "Destiny 2",
+      "es": "Destiny 2",
+      "fr": "Destiny 2",
+      "he": "Destiny 2",
+      "hi": "Destiny 2",
+      "ja": "Destiny 2",
+      "ko": "Destiny 2",
+      "ru": "Destiny 2",
+      "zh": "Destiny 2"
+    }
   },
   {
     "celebrity": "Detroit Become Human",
@@ -1176,7 +3256,23 @@
       "Its clues draw from what players do moment to moment: movement, fighting, building, collecting, racing, or solving.",
       "Think about the play loop: the tools you use, the enemies you face, and the reward that keeps you playing.",
       "The hint is in its controller memory: maps, resources, weapons, abilities, upgrades, or the sound of success."
-    ]
+    ],
+    "rawg_id": 29177,
+    "media_type": "game",
+    "localized_titles": {
+      "am": "Detroit: Become Human",
+      "ar": "Detroit: Become Human",
+      "de": "Detroit: Become Human",
+      "el": "Detroit: Become Human",
+      "es": "Detroit: Become Human",
+      "fr": "Detroit: Become Human",
+      "he": "Detroit: Become Human",
+      "hi": "Detroit: Become Human",
+      "ja": "Detroit: Become Human",
+      "ko": "Detroit: Become Human",
+      "ru": "Detroit: Become Human",
+      "zh": "Detroit: Become Human"
+    }
   },
   {
     "celebrity": "Deus Ex Human Revolution",
@@ -1185,7 +3281,23 @@
       "Its clues draw from what players do moment to moment: movement, fighting, building, collecting, racing, or solving.",
       "Think about the play loop: the tools you use, the enemies you face, and the reward that keeps you playing.",
       "The hint is in its controller memory: maps, resources, weapons, abilities, upgrades, or the sound of success."
-    ]
+    ],
+    "rawg_id": 4440,
+    "media_type": "game",
+    "localized_titles": {
+      "am": "Deus Ex: Human Revolution",
+      "ar": "Deus Ex: Human Revolution",
+      "de": "Deus Ex: Human Revolution",
+      "el": "Deus Ex: Human Revolution",
+      "es": "Deus Ex: Human Revolution",
+      "fr": "Deus Ex: Human Revolution",
+      "he": "Deus Ex: Human Revolution",
+      "hi": "Deus Ex: Human Revolution",
+      "ja": "Deus Ex: Human Revolution",
+      "ko": "Deus Ex: Human Revolution",
+      "ru": "Deus Ex: Human Revolution",
+      "zh": "Deus Ex: Human Revolution"
+    }
   },
   {
     "celebrity": "Deus Ex Mankind Divided",
@@ -1194,7 +3306,23 @@
       "Its clues draw from what players do moment to moment: movement, fighting, building, collecting, racing, or solving.",
       "Think about the play loop: the tools you use, the enemies you face, and the reward that keeps you playing.",
       "The hint is in its controller memory: maps, resources, weapons, abilities, upgrades, or the sound of success."
-    ]
+    ],
+    "rawg_id": 1447,
+    "media_type": "game",
+    "localized_titles": {
+      "am": "Deus Ex: Mankind Divided",
+      "ar": "Deus Ex: Mankind Divided",
+      "de": "Deus Ex: Mankind Divided",
+      "el": "Deus Ex: Mankind Divided",
+      "es": "Deus Ex: Mankind Divided",
+      "fr": "Deus Ex: Mankind Divided",
+      "he": "Deus Ex: Mankind Divided",
+      "hi": "Deus Ex: Mankind Divided",
+      "ja": "Deus Ex: Mankind Divided",
+      "ko": "Deus Ex: Mankind Divided",
+      "ru": "Deus Ex: Mankind Divided",
+      "zh": "Deus Ex: Mankind Divided"
+    }
   },
   {
     "celebrity": "Devil May Cry 5",
@@ -1203,7 +3331,23 @@
       "Its clues draw from what players do moment to moment: movement, fighting, building, collecting, racing, or solving.",
       "Think about the play loop: the tools you use, the enemies you face, and the reward that keeps you playing.",
       "The hint is in its controller memory: maps, resources, weapons, abilities, upgrades, or the sound of success."
-    ]
+    ],
+    "rawg_id": 58755,
+    "media_type": "game",
+    "localized_titles": {
+      "am": "Devil May Cry 5",
+      "ar": "Devil May Cry 5",
+      "de": "Devil May Cry 5",
+      "el": "Devil May Cry 5",
+      "es": "Devil May Cry 5",
+      "fr": "Devil May Cry 5",
+      "he": "Devil May Cry 5",
+      "hi": "Devil May Cry 5",
+      "ja": "Devil May Cry 5",
+      "ko": "Devil May Cry 5",
+      "ru": "Devil May Cry 5",
+      "zh": "Devil May Cry 5"
+    }
   },
   {
     "celebrity": "Dirt Rally",
@@ -1212,7 +3356,23 @@
       "Its clues draw from what players do moment to moment: movement, fighting, building, collecting, racing, or solving.",
       "Think about the play loop: the tools you use, the enemies you face, and the reward that keeps you playing.",
       "The hint is in its controller memory: maps, resources, weapons, abilities, upgrades, or the sound of success."
-    ]
+    ],
+    "rawg_id": 2572,
+    "media_type": "game",
+    "localized_titles": {
+      "am": "DiRT Rally",
+      "ar": "DiRT Rally",
+      "de": "DiRT Rally",
+      "el": "DiRT Rally",
+      "es": "DiRT Rally",
+      "fr": "DiRT Rally",
+      "he": "DiRT Rally",
+      "hi": "DiRT Rally",
+      "ja": "DiRT Rally",
+      "ko": "DiRT Rally",
+      "ru": "DiRT Rally",
+      "zh": "DiRT Rally"
+    }
   },
   {
     "celebrity": "Disco Elysium",
@@ -1221,7 +3381,23 @@
       "Its clues draw from what players do moment to moment: movement, fighting, building, collecting, racing, or solving.",
       "Think about the play loop: the tools you use, the enemies you face, and the reward that keeps you playing.",
       "The hint is in its controller memory: maps, resources, weapons, abilities, upgrades, or the sound of success."
-    ]
+    ],
+    "rawg_id": 262382,
+    "media_type": "game",
+    "localized_titles": {
+      "am": "Disco Elysium",
+      "ar": "Disco Elysium",
+      "de": "Disco Elysium",
+      "el": "Disco Elysium",
+      "es": "Disco Elysium",
+      "fr": "Disco Elysium",
+      "he": "Disco Elysium",
+      "hi": "Disco Elysium",
+      "ja": "Disco Elysium",
+      "ko": "Disco Elysium",
+      "ru": "Disco Elysium",
+      "zh": "Disco Elysium"
+    }
   },
   {
     "celebrity": "Dishonored",
@@ -1230,7 +3406,23 @@
       "Its clues draw from what players do moment to moment: movement, fighting, building, collecting, racing, or solving.",
       "Think about the play loop: the tools you use, the enemies you face, and the reward that keeps you playing.",
       "The hint is in its controller memory: maps, resources, weapons, abilities, upgrades, or the sound of success."
-    ]
+    ],
+    "rawg_id": 4248,
+    "media_type": "game",
+    "localized_titles": {
+      "am": "Dishonored",
+      "ar": "Dishonored",
+      "de": "Dishonored",
+      "el": "Dishonored",
+      "es": "Dishonored",
+      "fr": "Dishonored",
+      "he": "Dishonored",
+      "hi": "Dishonored",
+      "ja": "Dishonored",
+      "ko": "Dishonored",
+      "ru": "Dishonored",
+      "zh": "Dishonored"
+    }
   },
   {
     "celebrity": "Dishonored 2",
@@ -1239,7 +3431,23 @@
       "Its clues draw from what players do moment to moment: movement, fighting, building, collecting, racing, or solving.",
       "Think about the play loop: the tools you use, the enemies you face, and the reward that keeps you playing.",
       "The hint is in its controller memory: maps, resources, weapons, abilities, upgrades, or the sound of success."
-    ]
+    ],
+    "rawg_id": 864,
+    "media_type": "game",
+    "localized_titles": {
+      "am": "Dishonored 2",
+      "ar": "Dishonored 2",
+      "de": "Dishonored 2",
+      "el": "Dishonored 2",
+      "es": "Dishonored 2",
+      "fr": "Dishonored 2",
+      "he": "Dishonored 2",
+      "hi": "Dishonored 2",
+      "ja": "Dishonored 2",
+      "ko": "Dishonored 2",
+      "ru": "Dishonored 2",
+      "zh": "Dishonored 2"
+    }
   },
   {
     "celebrity": "Divinity Original Sin 2",
@@ -1248,7 +3456,23 @@
       "Its clues draw from what players do moment to moment: movement, fighting, building, collecting, racing, or solving.",
       "Think about the play loop: the tools you use, the enemies you face, and the reward that keeps you playing.",
       "The hint is in its controller memory: maps, resources, weapons, abilities, upgrades, or the sound of success."
-    ]
+    ],
+    "rawg_id": 10073,
+    "media_type": "game",
+    "localized_titles": {
+      "am": "Divinity: Original Sin 2",
+      "ar": "Divinity: Original Sin 2",
+      "de": "Divinity: Original Sin 2",
+      "el": "Divinity: Original Sin 2",
+      "es": "Divinity: Original Sin 2",
+      "fr": "Divinity: Original Sin 2",
+      "he": "Divinity: Original Sin 2",
+      "hi": "Divinity: Original Sin 2",
+      "ja": "Divinity: Original Sin 2",
+      "ko": "Divinity: Original Sin 2",
+      "ru": "Divinity: Original Sin 2",
+      "zh": "Divinity: Original Sin 2"
+    }
   },
   {
     "celebrity": "Dmc Devil May Cry",
@@ -1257,7 +3481,23 @@
       "Its clues draw from what players do moment to moment: movement, fighting, building, collecting, racing, or solving.",
       "Think about the play loop: the tools you use, the enemies you face, and the reward that keeps you playing.",
       "The hint is in its controller memory: maps, resources, weapons, abilities, upgrades, or the sound of success."
-    ]
+    ],
+    "rawg_id": 18241,
+    "media_type": "game",
+    "localized_titles": {
+      "am": "DmC: Devil May Cry",
+      "ar": "DmC: Devil May Cry",
+      "de": "DmC: Devil May Cry",
+      "el": "DmC: Devil May Cry",
+      "es": "DmC: Devil May Cry",
+      "fr": "DmC: Devil May Cry",
+      "he": "DmC: Devil May Cry",
+      "hi": "DmC: Devil May Cry",
+      "ja": "DmC: Devil May Cry",
+      "ko": "DmC: Devil May Cry",
+      "ru": "DmC: Devil May Cry",
+      "zh": "DmC: Devil May Cry"
+    }
   },
   {
     "celebrity": "Dont Starve",
@@ -1266,7 +3506,23 @@
       "Its clues draw from what players do moment to moment: movement, fighting, building, collecting, racing, or solving.",
       "Think about the play loop: the tools you use, the enemies you face, and the reward that keeps you playing.",
       "The hint is in its controller memory: maps, resources, weapons, abilities, upgrades, or the sound of success."
-    ]
+    ],
+    "rawg_id": 9475,
+    "media_type": "game",
+    "localized_titles": {
+      "am": "Don't Starve",
+      "ar": "Don't Starve",
+      "de": "Don't Starve",
+      "el": "Don't Starve",
+      "es": "Don't Starve",
+      "fr": "Don't Starve",
+      "he": "Don't Starve",
+      "hi": "Don't Starve",
+      "ja": "Don't Starve",
+      "ko": "Don't Starve",
+      "ru": "Don't Starve",
+      "zh": "Don't Starve"
+    }
   },
   {
     "celebrity": "Dont Starve Together",
@@ -1275,7 +3531,23 @@
       "Its clues draw from what players do moment to moment: movement, fighting, building, collecting, racing, or solving.",
       "Think about the play loop: the tools you use, the enemies you face, and the reward that keeps you playing.",
       "The hint is in its controller memory: maps, resources, weapons, abilities, upgrades, or the sound of success."
-    ]
+    ],
+    "rawg_id": 9882,
+    "media_type": "game",
+    "localized_titles": {
+      "am": "Don't Starve Together",
+      "ar": "Don't Starve Together",
+      "de": "Don't Starve Together",
+      "el": "Don't Starve Together",
+      "es": "Don't Starve Together",
+      "fr": "Don't Starve Together",
+      "he": "Don't Starve Together",
+      "hi": "Don't Starve Together",
+      "ja": "Don't Starve Together",
+      "ko": "Don't Starve Together",
+      "ru": "Don't Starve Together",
+      "zh": "Don't Starve Together"
+    }
   },
   {
     "celebrity": "Doom 2016",
@@ -1284,7 +3556,23 @@
       "Its clues draw from what players do moment to moment: movement, fighting, building, collecting, racing, or solving.",
       "Think about the play loop: the tools you use, the enemies you face, and the reward that keeps you playing.",
       "The hint is in its controller memory: maps, resources, weapons, abilities, upgrades, or the sound of success."
-    ]
+    ],
+    "rawg_id": 2454,
+    "media_type": "game",
+    "localized_titles": {
+      "am": "DOOM (2016)",
+      "ar": "DOOM (2016)",
+      "de": "DOOM (2016)",
+      "el": "DOOM (2016)",
+      "es": "DOOM (2016)",
+      "fr": "DOOM (2016)",
+      "he": "DOOM (2016)",
+      "hi": "DOOM (2016)",
+      "ja": "DOOM (2016)",
+      "ko": "DOOM (2016)",
+      "ru": "DOOM (2016)",
+      "zh": "DOOM (2016)"
+    }
   },
   {
     "celebrity": "Doom Eternal",
@@ -1293,7 +3581,23 @@
       "Its clues draw from what players do moment to moment: movement, fighting, building, collecting, racing, or solving.",
       "Think about the play loop: the tools you use, the enemies you face, and the reward that keeps you playing.",
       "The hint is in its controller memory: maps, resources, weapons, abilities, upgrades, or the sound of success."
-    ]
+    ],
+    "rawg_id": 58777,
+    "media_type": "game",
+    "localized_titles": {
+      "am": "DOOM Eternal",
+      "ar": "DOOM Eternal",
+      "de": "DOOM Eternal",
+      "el": "DOOM Eternal",
+      "es": "DOOM Eternal",
+      "fr": "DOOM Eternal",
+      "he": "DOOM Eternal",
+      "hi": "DOOM Eternal",
+      "ja": "DOOM Eternal",
+      "ko": "DOOM Eternal",
+      "ru": "DOOM Eternal",
+      "zh": "DOOM Eternal"
+    }
   },
   {
     "celebrity": "Dragon Age Inquisition",
@@ -1302,7 +3606,23 @@
       "Its clues draw from what players do moment to moment: movement, fighting, building, collecting, racing, or solving.",
       "Think about the play loop: the tools you use, the enemies you face, and the reward that keeps you playing.",
       "The hint is in its controller memory: maps, resources, weapons, abilities, upgrades, or the sound of success."
-    ]
+    ],
+    "rawg_id": 28559,
+    "media_type": "game",
+    "localized_titles": {
+      "am": "Dragon Age: Inquisition",
+      "ar": "Dragon Age: Inquisition",
+      "de": "Dragon Age: Inquisition",
+      "el": "Dragon Age: Inquisition",
+      "es": "Dragon Age: Inquisition",
+      "fr": "Dragon Age: Inquisition",
+      "he": "Dragon Age: Inquisition",
+      "hi": "Dragon Age: Inquisition",
+      "ja": "Dragon Age: Inquisition",
+      "ko": "Dragon Age: Inquisition",
+      "ru": "Dragon Age: Inquisition",
+      "zh": "Dragon Age: Inquisition"
+    }
   },
   {
     "celebrity": "Dragon Age Origins",
@@ -1311,7 +3631,23 @@
       "Its clues draw from what players do moment to moment: movement, fighting, building, collecting, racing, or solving.",
       "Think about the play loop: the tools you use, the enemies you face, and the reward that keeps you playing.",
       "The hint is in its controller memory: maps, resources, weapons, abilities, upgrades, or the sound of success."
-    ]
+    ],
+    "rawg_id": 4639,
+    "media_type": "game",
+    "localized_titles": {
+      "am": "Dragon Age: Origins",
+      "ar": "Dragon Age: Origins",
+      "de": "Dragon Age: Origins",
+      "el": "Dragon Age: Origins",
+      "es": "Dragon Age: Origins",
+      "fr": "Dragon Age: Origins",
+      "he": "Dragon Age: Origins",
+      "hi": "Dragon Age: Origins",
+      "ja": "Dragon Age: Origins",
+      "ko": "Dragon Age: Origins",
+      "ru": "Dragon Age: Origins",
+      "zh": "Dragon Age: Origins"
+    }
   },
   {
     "celebrity": "Dying Light the Following Enhanced Edition",
@@ -1320,7 +3656,23 @@
       "Its clues draw from what players do moment to moment: movement, fighting, building, collecting, racing, or solving.",
       "Think about the play loop: the tools you use, the enemies you face, and the reward that keeps you playing.",
       "The hint is in its controller memory: maps, resources, weapons, abilities, upgrades, or the sound of success."
-    ]
+    ],
+    "rawg_id": 14348,
+    "media_type": "game",
+    "localized_titles": {
+      "am": "Dying Light: The Following - Enhanced Edition",
+      "ar": "Dying Light: The Following - Enhanced Edition",
+      "de": "Dying Light: The Following - Enhanced Edition",
+      "el": "Dying Light: The Following - Enhanced Edition",
+      "es": "Dying Light: The Following - Enhanced Edition",
+      "fr": "Dying Light: The Following - Enhanced Edition",
+      "he": "Dying Light: The Following - Enhanced Edition",
+      "hi": "Dying Light: The Following - Enhanced Edition",
+      "ja": "Dying Light: The Following - Enhanced Edition",
+      "ko": "Dying Light: The Following - Enhanced Edition",
+      "ru": "Dying Light: The Following - Enhanced Edition",
+      "zh": "Dying Light: The Following - Enhanced Edition"
+    }
   },
   {
     "celebrity": "Euro Truck Simulator 2",
@@ -1329,7 +3681,23 @@
       "Its clues draw from what players do moment to moment: movement, fighting, building, collecting, racing, or solving.",
       "Think about the play loop: the tools you use, the enemies you face, and the reward that keeps you playing.",
       "The hint is in its controller memory: maps, resources, weapons, abilities, upgrades, or the sound of success."
-    ]
+    ],
+    "rawg_id": 9609,
+    "media_type": "game",
+    "localized_titles": {
+      "am": "Euro Truck Simulator 2",
+      "ar": "Euro Truck Simulator 2",
+      "de": "Euro Truck Simulator 2",
+      "el": "Euro Truck Simulator 2",
+      "es": "Euro Truck Simulator 2",
+      "fr": "Euro Truck Simulator 2",
+      "he": "Euro Truck Simulator 2",
+      "hi": "Euro Truck Simulator 2",
+      "ja": "Euro Truck Simulator 2",
+      "ko": "Euro Truck Simulator 2",
+      "ru": "Euro Truck Simulator 2",
+      "zh": "Euro Truck Simulator 2"
+    }
   },
   {
     "celebrity": "Fall Guys Ultimate Knockout",
@@ -1338,7 +3706,23 @@
       "Its clues draw from what players do moment to moment: movement, fighting, building, collecting, racing, or solving.",
       "Think about the play loop: the tools you use, the enemies you face, and the reward that keeps you playing.",
       "The hint is in its controller memory: maps, resources, weapons, abilities, upgrades, or the sound of success."
-    ]
+    ],
+    "rawg_id": 326292,
+    "media_type": "game",
+    "localized_titles": {
+      "am": "Fall Guys: Ultimate Knockout",
+      "ar": "Fall Guys: Ultimate Knockout",
+      "de": "Fall Guys: Ultimate Knockout",
+      "el": "Fall Guys: Ultimate Knockout",
+      "es": "Fall Guys: Ultimate Knockout",
+      "fr": "Fall Guys: Ultimate Knockout",
+      "he": "Fall Guys: Ultimate Knockout",
+      "hi": "Fall Guys: Ultimate Knockout",
+      "ja": "Fall Guys: Ultimate Knockout",
+      "ko": "Fall Guys: Ultimate Knockout",
+      "ru": "Fall Guys: Ultimate Knockout",
+      "zh": "Fall Guys: Ultimate Knockout"
+    }
   },
   {
     "celebrity": "Fallout",
@@ -1347,7 +3731,23 @@
       "Its clues draw from what players do moment to moment: movement, fighting, building, collecting, racing, or solving.",
       "Think about the play loop: the tools you use, the enemies you face, and the reward that keeps you playing.",
       "The hint is in its controller memory: maps, resources, weapons, abilities, upgrades, or the sound of success."
-    ]
+    ],
+    "rawg_id": 13554,
+    "media_type": "game",
+    "localized_titles": {
+      "am": "Fallout",
+      "ar": "Fallout",
+      "de": "Fallout",
+      "el": "Fallout",
+      "es": "Fallout",
+      "fr": "Fallout",
+      "he": "Fallout",
+      "hi": "Fallout",
+      "ja": "Fallout",
+      "ko": "Fallout",
+      "ru": "Fallout",
+      "zh": "Fallout"
+    }
   },
   {
     "celebrity": "Fallout 3",
@@ -1356,7 +3756,23 @@
       "Its clues draw from what players do moment to moment: movement, fighting, building, collecting, racing, or solving.",
       "Think about the play loop: the tools you use, the enemies you face, and the reward that keeps you playing.",
       "The hint is in its controller memory: maps, resources, weapons, abilities, upgrades, or the sound of success."
-    ]
+    ],
+    "rawg_id": 5562,
+    "media_type": "game",
+    "localized_titles": {
+      "am": "Fallout 3",
+      "ar": "Fallout 3",
+      "de": "Fallout 3",
+      "el": "Fallout 3",
+      "es": "Fallout 3",
+      "fr": "Fallout 3",
+      "he": "Fallout 3",
+      "hi": "Fallout 3",
+      "ja": "Fallout 3",
+      "ko": "Fallout 3",
+      "ru": "Fallout 3",
+      "zh": "Fallout 3"
+    }
   },
   {
     "celebrity": "Fallout 4",
@@ -1365,7 +3781,23 @@
       "Its clues draw from what players do moment to moment: movement, fighting, building, collecting, racing, or solving.",
       "Think about the play loop: the tools you use, the enemies you face, and the reward that keeps you playing.",
       "The hint is in its controller memory: maps, resources, weapons, abilities, upgrades, or the sound of success."
-    ]
+    ],
+    "rawg_id": 3070,
+    "media_type": "game",
+    "localized_titles": {
+      "am": "Fallout 4",
+      "ar": "Fallout 4",
+      "de": "Fallout 4",
+      "el": "Fallout 4",
+      "es": "Fallout 4",
+      "fr": "Fallout 4",
+      "he": "Fallout 4",
+      "hi": "Fallout 4",
+      "ja": "Fallout 4",
+      "ko": "Fallout 4",
+      "ru": "Fallout 4",
+      "zh": "Fallout 4"
+    }
   },
   {
     "celebrity": "Fallout Shelter",
@@ -1374,7 +3806,23 @@
       "Its clues draw from what players do moment to moment: movement, fighting, building, collecting, racing, or solving.",
       "Think about the play loop: the tools you use, the enemies you face, and the reward that keeps you playing.",
       "The hint is in its controller memory: maps, resources, weapons, abilities, upgrades, or the sound of success."
-    ]
+    ],
+    "rawg_id": 559,
+    "media_type": "game",
+    "localized_titles": {
+      "am": "Fallout Shelter",
+      "ar": "Fallout Shelter",
+      "de": "Fallout Shelter",
+      "el": "Fallout Shelter",
+      "es": "Fallout Shelter",
+      "fr": "Fallout Shelter",
+      "he": "Fallout Shelter",
+      "hi": "Fallout Shelter",
+      "ja": "Fallout Shelter",
+      "ko": "Fallout Shelter",
+      "ru": "Fallout Shelter",
+      "zh": "Fallout Shelter"
+    }
   },
   {
     "celebrity": "Far Cry 3",
@@ -1383,7 +3831,23 @@
       "Its clues draw from what players do moment to moment: movement, fighting, building, collecting, racing, or solving.",
       "Think about the play loop: the tools you use, the enemies you face, and the reward that keeps you playing.",
       "The hint is in its controller memory: maps, resources, weapons, abilities, upgrades, or the sound of success."
-    ]
+    ],
+    "rawg_id": 4161,
+    "media_type": "game",
+    "localized_titles": {
+      "am": "Far Cry 3",
+      "ar": "Far Cry 3",
+      "de": "Far Cry 3",
+      "el": "Far Cry 3",
+      "es": "Far Cry 3",
+      "fr": "Far Cry 3",
+      "he": "Far Cry 3",
+      "hi": "Far Cry 3",
+      "ja": "Far Cry 3",
+      "ko": "Far Cry 3",
+      "ru": "Far Cry 3",
+      "zh": "Far Cry 3"
+    }
   },
   {
     "celebrity": "Far Cry 4",
@@ -1392,7 +3856,23 @@
       "Its clues draw from what players do moment to moment: movement, fighting, building, collecting, racing, or solving.",
       "Think about the play loop: the tools you use, the enemies you face, and the reward that keeps you playing.",
       "The hint is in its controller memory: maps, resources, weapons, abilities, upgrades, or the sound of success."
-    ]
+    ],
+    "rawg_id": 3497,
+    "media_type": "game",
+    "localized_titles": {
+      "am": "Far Cry 4",
+      "ar": "Far Cry 4",
+      "de": "Far Cry 4",
+      "el": "Far Cry 4",
+      "es": "Far Cry 4",
+      "fr": "Far Cry 4",
+      "he": "Far Cry 4",
+      "hi": "Far Cry 4",
+      "ja": "Far Cry 4",
+      "ko": "Far Cry 4",
+      "ru": "Far Cry 4",
+      "zh": "Far Cry 4"
+    }
   },
   {
     "celebrity": "Far Cry 5",
@@ -1401,7 +3881,23 @@
       "Its clues draw from what players do moment to moment: movement, fighting, building, collecting, racing, or solving.",
       "Think about the play loop: the tools you use, the enemies you face, and the reward that keeps you playing.",
       "The hint is in its controller memory: maps, resources, weapons, abilities, upgrades, or the sound of success."
-    ]
+    ],
+    "rawg_id": 23585,
+    "media_type": "game",
+    "localized_titles": {
+      "am": "Far Cry 5",
+      "ar": "Far Cry 5",
+      "de": "Far Cry 5",
+      "el": "Far Cry 5",
+      "es": "Far Cry 5",
+      "fr": "Far Cry 5",
+      "he": "Far Cry 5",
+      "hi": "Far Cry 5",
+      "ja": "Far Cry 5",
+      "ko": "Far Cry 5",
+      "ru": "Far Cry 5",
+      "zh": "Far Cry 5"
+    }
   },
   {
     "celebrity": "Fez",
@@ -1410,7 +3906,23 @@
       "Its clues draw from what players do moment to moment: movement, fighting, building, collecting, racing, or solving.",
       "Think about the play loop: the tools you use, the enemies you face, and the reward that keeps you playing.",
       "The hint is in its controller memory: maps, resources, weapons, abilities, upgrades, or the sound of success."
-    ]
+    ],
+    "rawg_id": 3740,
+    "media_type": "game",
+    "localized_titles": {
+      "am": "FEZ",
+      "ar": "FEZ",
+      "de": "FEZ",
+      "el": "FEZ",
+      "es": "FEZ",
+      "fr": "FEZ",
+      "he": "FEZ",
+      "hi": "FEZ",
+      "ja": "FEZ",
+      "ko": "FEZ",
+      "ru": "FEZ",
+      "zh": "FEZ"
+    }
   },
   {
     "celebrity": "Firewatch",
@@ -1419,7 +3931,23 @@
       "Its clues draw from what players do moment to moment: movement, fighting, building, collecting, racing, or solving.",
       "Think about the play loop: the tools you use, the enemies you face, and the reward that keeps you playing.",
       "The hint is in its controller memory: maps, resources, weapons, abilities, upgrades, or the sound of success."
-    ]
+    ],
+    "rawg_id": 2819,
+    "media_type": "game",
+    "localized_titles": {
+      "am": "Firewatch",
+      "ar": "Firewatch",
+      "de": "Firewatch",
+      "el": "Firewatch",
+      "es": "Firewatch",
+      "fr": "Firewatch",
+      "he": "Firewatch",
+      "hi": "Firewatch",
+      "ja": "Firewatch",
+      "ko": "Firewatch",
+      "ru": "Firewatch",
+      "zh": "Firewatch"
+    }
   },
   {
     "celebrity": "For Honor",
@@ -1428,7 +3956,23 @@
       "Its clues draw from what players do moment to moment: movement, fighting, building, collecting, racing, or solving.",
       "Think about the play loop: the tools you use, the enemies you face, and the reward that keeps you playing.",
       "The hint is in its controller memory: maps, resources, weapons, abilities, upgrades, or the sound of success."
-    ]
+    ],
+    "rawg_id": 362,
+    "media_type": "game",
+    "localized_titles": {
+      "am": "For Honor",
+      "ar": "For Honor",
+      "de": "For Honor",
+      "el": "For Honor",
+      "es": "For Honor",
+      "fr": "For Honor",
+      "he": "For Honor",
+      "hi": "For Honor",
+      "ja": "For Honor",
+      "ko": "For Honor",
+      "ru": "For Honor",
+      "zh": "For Honor"
+    }
   },
   {
     "celebrity": "Forza Horizon 4",
@@ -1437,7 +3981,23 @@
       "Its clues draw from what players do moment to moment: movement, fighting, building, collecting, racing, or solving.",
       "Think about the play loop: the tools you use, the enemies you face, and the reward that keeps you playing.",
       "The hint is in its controller memory: maps, resources, weapons, abilities, upgrades, or the sound of success."
-    ]
+    ],
+    "rawg_id": 58753,
+    "media_type": "game",
+    "localized_titles": {
+      "am": "Forza Horizon 4",
+      "ar": "Forza Horizon 4",
+      "de": "Forza Horizon 4",
+      "el": "Forza Horizon 4",
+      "es": "Forza Horizon 4",
+      "fr": "Forza Horizon 4",
+      "he": "Forza Horizon 4",
+      "hi": "Forza Horizon 4",
+      "ja": "Forza Horizon 4",
+      "ko": "Forza Horizon 4",
+      "ru": "Forza Horizon 4",
+      "zh": "Forza Horizon 4"
+    }
   },
   {
     "celebrity": "Ghost of Tsushima",
@@ -1446,7 +4006,23 @@
       "Its clues draw from what players do moment to moment: movement, fighting, building, collecting, racing, or solving.",
       "Think about the play loop: the tools you use, the enemies you face, and the reward that keeps you playing.",
       "The hint is in its controller memory: maps, resources, weapons, abilities, upgrades, or the sound of success."
-    ]
+    ],
+    "rawg_id": 58550,
+    "media_type": "game",
+    "localized_titles": {
+      "am": "Ghost of Tsushima",
+      "ar": "Ghost of Tsushima",
+      "de": "Ghost of Tsushima",
+      "el": "Ghost of Tsushima",
+      "es": "Ghost of Tsushima",
+      "fr": "Ghost of Tsushima",
+      "he": "Ghost of Tsushima",
+      "hi": "Ghost of Tsushima",
+      "ja": "Ghost of Tsushima",
+      "ko": "Ghost of Tsushima",
+      "ru": "Ghost of Tsushima",
+      "zh": "Ghost of Tsushima"
+    }
   },
   {
     "celebrity": "God of War 2018",
@@ -1455,7 +4031,23 @@
       "Its clues draw from what players do moment to moment: movement, fighting, building, collecting, racing, or solving.",
       "Think about the play loop: the tools you use, the enemies you face, and the reward that keeps you playing.",
       "The hint is in its controller memory: maps, resources, weapons, abilities, upgrades, or the sound of success."
-    ]
+    ],
+    "rawg_id": 58175,
+    "media_type": "game",
+    "localized_titles": {
+      "am": "God of War (2018)",
+      "ar": "God of War (2018)",
+      "de": "God of War (2018)",
+      "el": "God of War (2018)",
+      "es": "God of War (2018)",
+      "fr": "God of War (2018)",
+      "he": "God of War (2018)",
+      "hi": "God of War (2018)",
+      "ja": "God of War (2018)",
+      "ko": "God of War (2018)",
+      "ru": "God of War (2018)",
+      "zh": "God of War (2018)"
+    }
   },
   {
     "celebrity": "Grand Theft Auto Iii",
@@ -1464,7 +4056,23 @@
       "Its clues draw from what players do moment to moment: movement, fighting, building, collecting, racing, or solving.",
       "Think about the play loop: the tools you use, the enemies you face, and the reward that keeps you playing.",
       "The hint is in its controller memory: maps, resources, weapons, abilities, upgrades, or the sound of success."
-    ]
+    ],
+    "rawg_id": 432,
+    "media_type": "game",
+    "localized_titles": {
+      "am": "Grand Theft Auto III",
+      "ar": "Grand Theft Auto III",
+      "de": "Grand Theft Auto III",
+      "el": "Grand Theft Auto III",
+      "es": "Grand Theft Auto III",
+      "fr": "Grand Theft Auto III",
+      "he": "Grand Theft Auto III",
+      "hi": "Grand Theft Auto III",
+      "ja": "Grand Theft Auto III",
+      "ko": "Grand Theft Auto III",
+      "ru": "Grand Theft Auto III",
+      "zh": "Grand Theft Auto III"
+    }
   },
   {
     "celebrity": "Grand Theft Auto Iv",
@@ -1473,7 +4081,23 @@
       "Its clues draw from what players do moment to moment: movement, fighting, building, collecting, racing, or solving.",
       "Think about the play loop: the tools you use, the enemies you face, and the reward that keeps you playing.",
       "The hint is in its controller memory: maps, resources, weapons, abilities, upgrades, or the sound of success."
-    ]
+    ],
+    "rawg_id": 4459,
+    "media_type": "game",
+    "localized_titles": {
+      "am": "Grand Theft Auto IV",
+      "ar": "Grand Theft Auto IV",
+      "de": "Grand Theft Auto IV",
+      "el": "Grand Theft Auto IV",
+      "es": "Grand Theft Auto IV",
+      "fr": "Grand Theft Auto IV",
+      "he": "Grand Theft Auto IV",
+      "hi": "Grand Theft Auto IV",
+      "ja": "Grand Theft Auto IV",
+      "ko": "Grand Theft Auto IV",
+      "ru": "Grand Theft Auto IV",
+      "zh": "Grand Theft Auto IV"
+    }
   },
   {
     "celebrity": "Grand Theft Auto San Andreas",
@@ -1482,7 +4106,23 @@
       "Its clues draw from what players do moment to moment: movement, fighting, building, collecting, racing, or solving.",
       "Think about the play loop: the tools you use, the enemies you face, and the reward that keeps you playing.",
       "The hint is in its controller memory: maps, resources, weapons, abilities, upgrades, or the sound of success."
-    ]
+    ],
+    "rawg_id": 416,
+    "media_type": "game",
+    "localized_titles": {
+      "am": "Grand Theft Auto: San Andreas",
+      "ar": "Grand Theft Auto: San Andreas",
+      "de": "Grand Theft Auto: San Andreas",
+      "el": "Grand Theft Auto: San Andreas",
+      "es": "Grand Theft Auto: San Andreas",
+      "fr": "Grand Theft Auto: San Andreas",
+      "he": "Grand Theft Auto: San Andreas",
+      "hi": "Grand Theft Auto: San Andreas",
+      "ja": "Grand Theft Auto: San Andreas",
+      "ko": "Grand Theft Auto: San Andreas",
+      "ru": "Grand Theft Auto: San Andreas",
+      "zh": "Grand Theft Auto: San Andreas"
+    }
   },
   {
     "celebrity": "Grand Theft Auto Vice City",
@@ -1491,7 +4131,23 @@
       "Its clues draw from what players do moment to moment: movement, fighting, building, collecting, racing, or solving.",
       "Think about the play loop: the tools you use, the enemies you face, and the reward that keeps you playing.",
       "The hint is in its controller memory: maps, resources, weapons, abilities, upgrades, or the sound of success."
-    ]
+    ],
+    "rawg_id": 430,
+    "media_type": "game",
+    "localized_titles": {
+      "am": "Grand Theft Auto: Vice City",
+      "ar": "Grand Theft Auto: Vice City",
+      "de": "Grand Theft Auto: Vice City",
+      "el": "Grand Theft Auto: Vice City",
+      "es": "Grand Theft Auto: Vice City",
+      "fr": "Grand Theft Auto: Vice City",
+      "he": "Grand Theft Auto: Vice City",
+      "hi": "Grand Theft Auto: Vice City",
+      "ja": "Grand Theft Auto: Vice City",
+      "ko": "Grand Theft Auto: Vice City",
+      "ru": "Grand Theft Auto: Vice City",
+      "zh": "Grand Theft Auto: Vice City"
+    }
   },
   {
     "celebrity": "Grid 2",
@@ -1500,7 +4156,23 @@
       "Its clues draw from what players do moment to moment: movement, fighting, building, collecting, racing, or solving.",
       "Think about the play loop: the tools you use, the enemies you face, and the reward that keeps you playing.",
       "The hint is in its controller memory: maps, resources, weapons, abilities, upgrades, or the sound of success."
-    ]
+    ],
+    "rawg_id": 4003,
+    "media_type": "game",
+    "localized_titles": {
+      "am": "GRID 2",
+      "ar": "GRID 2",
+      "de": "GRID 2",
+      "el": "GRID 2",
+      "es": "GRID 2",
+      "fr": "GRID 2",
+      "he": "GRID 2",
+      "hi": "GRID 2",
+      "ja": "GRID 2",
+      "ko": "GRID 2",
+      "ru": "GRID 2",
+      "zh": "GRID 2"
+    }
   },
   {
     "celebrity": "Half Life",
@@ -1509,7 +4181,23 @@
       "Its clues draw from what players do moment to moment: movement, fighting, building, collecting, racing, or solving.",
       "Think about the play loop: the tools you use, the enemies you face, and the reward that keeps you playing.",
       "The hint is in its controller memory: maps, resources, weapons, abilities, upgrades, or the sound of success."
-    ]
+    ],
+    "rawg_id": 18080,
+    "media_type": "game",
+    "localized_titles": {
+      "am": "Half-Life",
+      "ar": "Half-Life",
+      "de": "Half-Life",
+      "el": "Half-Life",
+      "es": "Half-Life",
+      "fr": "Half-Life",
+      "he": "Half-Life",
+      "hi": "Half-Life",
+      "ja": "Half-Life",
+      "ko": "Half-Life",
+      "ru": "Half-Life",
+      "zh": "Half-Life"
+    }
   },
   {
     "celebrity": "Half Life 2",
@@ -1518,7 +4206,23 @@
       "Its clues draw from what players do moment to moment: movement, fighting, building, collecting, racing, or solving.",
       "Think about the play loop: the tools you use, the enemies you face, and the reward that keeps you playing.",
       "The hint is in its controller memory: maps, resources, weapons, abilities, upgrades, or the sound of success."
-    ]
+    ],
+    "rawg_id": 13537,
+    "media_type": "game",
+    "localized_titles": {
+      "am": "Half-Life 2",
+      "ar": "Half-Life 2",
+      "de": "Half-Life 2",
+      "el": "Half-Life 2",
+      "es": "Half-Life 2",
+      "fr": "Half-Life 2",
+      "he": "Half-Life 2",
+      "hi": "Half-Life 2",
+      "ja": "Half-Life 2",
+      "ko": "Half-Life 2",
+      "ru": "Half-Life 2",
+      "zh": "Half-Life 2"
+    }
   },
   {
     "celebrity": "Half Life 2 Lost Coast",
@@ -1527,7 +4231,23 @@
       "Its clues draw from what players do moment to moment: movement, fighting, building, collecting, racing, or solving.",
       "Think about the play loop: the tools you use, the enemies you face, and the reward that keeps you playing.",
       "The hint is in its controller memory: maps, resources, weapons, abilities, upgrades, or the sound of success."
-    ]
+    ],
+    "rawg_id": 19103,
+    "media_type": "game",
+    "localized_titles": {
+      "am": "Half-Life 2: Lost Coast",
+      "ar": "Half-Life 2: Lost Coast",
+      "de": "Half-Life 2: Lost Coast",
+      "el": "Half-Life 2: Lost Coast",
+      "es": "Half-Life 2: Lost Coast",
+      "fr": "Half-Life 2: Lost Coast",
+      "he": "Half-Life 2: Lost Coast",
+      "hi": "Half-Life 2: Lost Coast",
+      "ja": "Half-Life 2: Lost Coast",
+      "ko": "Half-Life 2: Lost Coast",
+      "ru": "Half-Life 2: Lost Coast",
+      "zh": "Half-Life 2: Lost Coast"
+    }
   },
   {
     "celebrity": "Halo Infinite",
@@ -1536,7 +4256,23 @@
       "Its clues draw from what players do moment to moment: movement, fighting, building, collecting, racing, or solving.",
       "Think about the play loop: the tools you use, the enemies you face, and the reward that keeps you playing.",
       "The hint is in its controller memory: maps, resources, weapons, abilities, upgrades, or the sound of success."
-    ]
+    ],
+    "rawg_id": 58751,
+    "media_type": "game",
+    "localized_titles": {
+      "am": "Halo Infinite",
+      "ar": "Halo Infinite",
+      "de": "Halo Infinite",
+      "el": "Halo Infinite",
+      "es": "Halo Infinite",
+      "fr": "Halo Infinite",
+      "he": "Halo Infinite",
+      "hi": "Halo Infinite",
+      "ja": "Halo Infinite",
+      "ko": "Halo Infinite",
+      "ru": "Halo Infinite",
+      "zh": "Halo Infinite"
+    }
   },
   {
     "celebrity": "Halo the Master Chief Collection",
@@ -1545,7 +4281,23 @@
       "Its clues draw from what players do moment to moment: movement, fighting, building, collecting, racing, or solving.",
       "Think about the play loop: the tools you use, the enemies you face, and the reward that keeps you playing.",
       "The hint is in its controller memory: maps, resources, weapons, abilities, upgrades, or the sound of success."
-    ]
+    ],
+    "rawg_id": 857,
+    "media_type": "game",
+    "localized_titles": {
+      "am": "Halo: The Master Chief Collection",
+      "ar": "Halo: The Master Chief Collection",
+      "de": "Halo: The Master Chief Collection",
+      "el": "Halo: The Master Chief Collection",
+      "es": "Halo: The Master Chief Collection",
+      "fr": "Halo: The Master Chief Collection",
+      "he": "Halo: The Master Chief Collection",
+      "hi": "Halo: The Master Chief Collection",
+      "ja": "Halo: The Master Chief Collection",
+      "ko": "Halo: The Master Chief Collection",
+      "ru": "Halo: The Master Chief Collection",
+      "zh": "Halo: The Master Chief Collection"
+    }
   },
   {
     "celebrity": "Heavy Rain",
@@ -1554,7 +4306,23 @@
       "Its clues draw from what players do moment to moment: movement, fighting, building, collecting, racing, or solving.",
       "Think about the play loop: the tools you use, the enemies you face, and the reward that keeps you playing.",
       "The hint is in its controller memory: maps, resources, weapons, abilities, upgrades, or the sound of success."
-    ]
+    ],
+    "rawg_id": 2743,
+    "media_type": "game",
+    "localized_titles": {
+      "am": "Heavy Rain",
+      "ar": "Heavy Rain",
+      "de": "Heavy Rain",
+      "el": "Heavy Rain",
+      "es": "Heavy Rain",
+      "fr": "Heavy Rain",
+      "he": "Heavy Rain",
+      "hi": "Heavy Rain",
+      "ja": "Heavy Rain",
+      "ko": "Heavy Rain",
+      "ru": "Heavy Rain",
+      "zh": "Heavy Rain"
+    }
   },
   {
     "celebrity": "Hellblade Senuas Sacrifice",
@@ -1563,7 +4331,23 @@
       "Its clues draw from what players do moment to moment: movement, fighting, building, collecting, racing, or solving.",
       "Think about the play loop: the tools you use, the enemies you face, and the reward that keeps you playing.",
       "The hint is in its controller memory: maps, resources, weapons, abilities, upgrades, or the sound of success."
-    ]
+    ],
+    "rawg_id": 12536,
+    "media_type": "game",
+    "localized_titles": {
+      "am": "Hellblade: Senua's Sacrifice",
+      "ar": "Hellblade: Senua's Sacrifice",
+      "de": "Hellblade: Senua's Sacrifice",
+      "el": "Hellblade: Senua's Sacrifice",
+      "es": "Hellblade: Senua's Sacrifice",
+      "fr": "Hellblade: Senua's Sacrifice",
+      "he": "Hellblade: Senua's Sacrifice",
+      "hi": "Hellblade: Senua's Sacrifice",
+      "ja": "Hellblade: Senua's Sacrifice",
+      "ko": "Hellblade: Senua's Sacrifice",
+      "ru": "Hellblade: Senua's Sacrifice",
+      "zh": "Hellblade: Senua's Sacrifice"
+    }
   },
   {
     "celebrity": "Hitman",
@@ -1572,7 +4356,23 @@
       "Its clues draw from what players do moment to moment: movement, fighting, building, collecting, racing, or solving.",
       "Think about the play loop: the tools you use, the enemies you face, and the reward that keeps you playing.",
       "The hint is in its controller memory: maps, resources, weapons, abilities, upgrades, or the sound of success."
-    ]
+    ],
+    "rawg_id": 10035,
+    "media_type": "game",
+    "localized_titles": {
+      "am": "Hitman",
+      "ar": "Hitman",
+      "de": "Hitman",
+      "el": "Hitman",
+      "es": "Hitman",
+      "fr": "Hitman",
+      "he": "Hitman",
+      "hi": "Hitman",
+      "ja": "Hitman",
+      "ko": "Hitman",
+      "ru": "Hitman",
+      "zh": "Hitman"
+    }
   },
   {
     "celebrity": "Hitman 2",
@@ -1581,7 +4381,23 @@
       "Its clues draw from what players do moment to moment: movement, fighting, building, collecting, racing, or solving.",
       "Think about the play loop: the tools you use, the enemies you face, and the reward that keeps you playing.",
       "The hint is in its controller memory: maps, resources, weapons, abilities, upgrades, or the sound of success."
-    ]
+    ],
+    "rawg_id": 58654,
+    "media_type": "game",
+    "localized_titles": {
+      "am": "Hitman 2",
+      "ar": "Hitman 2",
+      "de": "Hitman 2",
+      "el": "Hitman 2",
+      "es": "Hitman 2",
+      "fr": "Hitman 2",
+      "he": "Hitman 2",
+      "hi": "Hitman 2",
+      "ja": "Hitman 2",
+      "ko": "Hitman 2",
+      "ru": "Hitman 2",
+      "zh": "Hitman 2"
+    }
   },
   {
     "celebrity": "Hitman Absolution",
@@ -1590,7 +4406,23 @@
       "Its clues draw from what players do moment to moment: movement, fighting, building, collecting, racing, or solving.",
       "Think about the play loop: the tools you use, the enemies you face, and the reward that keeps you playing.",
       "The hint is in its controller memory: maps, resources, weapons, abilities, upgrades, or the sound of success."
-    ]
+    ],
+    "rawg_id": 5583,
+    "media_type": "game",
+    "localized_titles": {
+      "am": "Hitman: Absolution",
+      "ar": "Hitman: Absolution",
+      "de": "Hitman: Absolution",
+      "el": "Hitman: Absolution",
+      "es": "Hitman: Absolution",
+      "fr": "Hitman: Absolution",
+      "he": "Hitman: Absolution",
+      "hi": "Hitman: Absolution",
+      "ja": "Hitman: Absolution",
+      "ko": "Hitman: Absolution",
+      "ru": "Hitman: Absolution",
+      "zh": "Hitman: Absolution"
+    }
   },
   {
     "celebrity": "Homefront",
@@ -1599,7 +4431,23 @@
       "Its clues draw from what players do moment to moment: movement, fighting, building, collecting, racing, or solving.",
       "Think about the play loop: the tools you use, the enemies you face, and the reward that keeps you playing.",
       "The hint is in its controller memory: maps, resources, weapons, abilities, upgrades, or the sound of success."
-    ]
+    ],
+    "rawg_id": 19365,
+    "media_type": "game",
+    "localized_titles": {
+      "am": "Homefront",
+      "ar": "Homefront",
+      "de": "Homefront",
+      "el": "Homefront",
+      "es": "Homefront",
+      "fr": "Homefront",
+      "he": "Homefront",
+      "hi": "Homefront",
+      "ja": "Homefront",
+      "ko": "Homefront",
+      "ru": "Homefront",
+      "zh": "Homefront"
+    }
   },
   {
     "celebrity": "Horizon Zero Dawn",
@@ -1608,7 +4456,23 @@
       "Its clues draw from what players do moment to moment: movement, fighting, building, collecting, racing, or solving.",
       "Think about the play loop: the tools you use, the enemies you face, and the reward that keeps you playing.",
       "The hint is in its controller memory: maps, resources, weapons, abilities, upgrades, or the sound of success."
-    ]
+    ],
+    "rawg_id": 278,
+    "media_type": "game",
+    "localized_titles": {
+      "am": "Horizon Zero Dawn",
+      "ar": "Horizon Zero Dawn",
+      "de": "Horizon Zero Dawn",
+      "el": "Horizon Zero Dawn",
+      "es": "Horizon Zero Dawn",
+      "fr": "Horizon Zero Dawn",
+      "he": "Horizon Zero Dawn",
+      "hi": "Horizon Zero Dawn",
+      "ja": "Horizon Zero Dawn",
+      "ko": "Horizon Zero Dawn",
+      "ru": "Horizon Zero Dawn",
+      "zh": "Horizon Zero Dawn"
+    }
   },
   {
     "celebrity": "Hotline Miami",
@@ -1617,7 +4481,23 @@
       "Its clues draw from what players do moment to moment: movement, fighting, building, collecting, racing, or solving.",
       "Think about the play loop: the tools you use, the enemies you face, and the reward that keeps you playing.",
       "The hint is in its controller memory: maps, resources, weapons, abilities, upgrades, or the sound of success."
-    ]
+    ],
+    "rawg_id": 3612,
+    "media_type": "game",
+    "localized_titles": {
+      "am": "Hotline Miami",
+      "ar": "Hotline Miami",
+      "de": "Hotline Miami",
+      "el": "Hotline Miami",
+      "es": "Hotline Miami",
+      "fr": "Hotline Miami",
+      "he": "Hotline Miami",
+      "hi": "Hotline Miami",
+      "ja": "Hotline Miami",
+      "ko": "Hotline Miami",
+      "ru": "Hotline Miami",
+      "zh": "Hotline Miami"
+    }
   },
   {
     "celebrity": "Infamous Second Son",
@@ -1626,7 +4506,23 @@
       "Its clues draw from what players do moment to moment: movement, fighting, building, collecting, racing, or solving.",
       "Think about the play loop: the tools you use, the enemies you face, and the reward that keeps you playing.",
       "The hint is in its controller memory: maps, resources, weapons, abilities, upgrades, or the sound of success."
-    ]
+    ],
+    "rawg_id": 3631,
+    "media_type": "game",
+    "localized_titles": {
+      "am": "inFAMOUS Second Son",
+      "ar": "inFAMOUS Second Son",
+      "de": "inFAMOUS Second Son",
+      "el": "inFAMOUS Second Son",
+      "es": "inFAMOUS Second Son",
+      "fr": "inFAMOUS Second Son",
+      "he": "inFAMOUS Second Son",
+      "hi": "inFAMOUS Second Son",
+      "ja": "inFAMOUS Second Son",
+      "ko": "inFAMOUS Second Son",
+      "ru": "inFAMOUS Second Son",
+      "zh": "inFAMOUS Second Son"
+    }
   },
   {
     "celebrity": "Injustice Gods Among Us Ultimate Edition",
@@ -1635,7 +4531,23 @@
       "Its clues draw from what players do moment to moment: movement, fighting, building, collecting, racing, or solving.",
       "Think about the play loop: the tools you use, the enemies you face, and the reward that keeps you playing.",
       "The hint is in its controller memory: maps, resources, weapons, abilities, upgrades, or the sound of success."
-    ]
+    ],
+    "rawg_id": 17540,
+    "media_type": "game",
+    "localized_titles": {
+      "am": "Injustice: Gods Among Us Ultimate Edition",
+      "ar": "Injustice: Gods Among Us Ultimate Edition",
+      "de": "Injustice: Gods Among Us Ultimate Edition",
+      "el": "Injustice: Gods Among Us Ultimate Edition",
+      "es": "Injustice: Gods Among Us Ultimate Edition",
+      "fr": "Injustice: Gods Among Us Ultimate Edition",
+      "he": "Injustice: Gods Among Us Ultimate Edition",
+      "hi": "Injustice: Gods Among Us Ultimate Edition",
+      "ja": "Injustice: Gods Among Us Ultimate Edition",
+      "ko": "Injustice: Gods Among Us Ultimate Edition",
+      "ru": "Injustice: Gods Among Us Ultimate Edition",
+      "zh": "Injustice: Gods Among Us Ultimate Edition"
+    }
   },
   {
     "celebrity": "Inside",
@@ -1644,7 +4556,23 @@
       "Its clues draw from what players do moment to moment: movement, fighting, building, collecting, racing, or solving.",
       "Think about the play loop: the tools you use, the enemies you face, and the reward that keeps you playing.",
       "The hint is in its controller memory: maps, resources, weapons, abilities, upgrades, or the sound of success."
-    ]
+    ],
+    "rawg_id": 1450,
+    "media_type": "game",
+    "localized_titles": {
+      "am": "INSIDE",
+      "ar": "INSIDE",
+      "de": "INSIDE",
+      "el": "INSIDE",
+      "es": "INSIDE",
+      "fr": "INSIDE",
+      "he": "INSIDE",
+      "hi": "INSIDE",
+      "ja": "INSIDE",
+      "ko": "INSIDE",
+      "ru": "INSIDE",
+      "zh": "INSIDE"
+    }
   },
   {
     "celebrity": "Insurgency",
@@ -1653,7 +4581,23 @@
       "Its clues draw from what players do moment to moment: movement, fighting, building, collecting, racing, or solving.",
       "Think about the play loop: the tools you use, the enemies you face, and the reward that keeps you playing.",
       "The hint is in its controller memory: maps, resources, weapons, abilities, upgrades, or the sound of success."
-    ]
+    ],
+    "rawg_id": 12024,
+    "media_type": "game",
+    "localized_titles": {
+      "am": "Insurgency",
+      "ar": "Insurgency",
+      "de": "Insurgency",
+      "el": "Insurgency",
+      "es": "Insurgency",
+      "fr": "Insurgency",
+      "he": "Insurgency",
+      "hi": "Insurgency",
+      "ja": "Insurgency",
+      "ko": "Insurgency",
+      "ru": "Insurgency",
+      "zh": "Insurgency"
+    }
   },
   {
     "celebrity": "Journey",
@@ -1662,7 +4606,23 @@
       "Its clues draw from what players do moment to moment: movement, fighting, building, collecting, racing, or solving.",
       "Think about the play loop: the tools you use, the enemies you face, and the reward that keeps you playing.",
       "The hint is in its controller memory: maps, resources, weapons, abilities, upgrades, or the sound of success."
-    ]
+    ],
+    "rawg_id": 3254,
+    "media_type": "game",
+    "localized_titles": {
+      "am": "Journey",
+      "ar": "Journey",
+      "de": "Journey",
+      "el": "Journey",
+      "es": "Journey",
+      "fr": "Journey",
+      "he": "Journey",
+      "hi": "Journey",
+      "ja": "Journey",
+      "ko": "Journey",
+      "ru": "Journey",
+      "zh": "Journey"
+    }
   },
   {
     "celebrity": "Just Cause 2",
@@ -1671,7 +4631,23 @@
       "Its clues draw from what players do moment to moment: movement, fighting, building, collecting, racing, or solving.",
       "Think about the play loop: the tools you use, the enemies you face, and the reward that keeps you playing.",
       "The hint is in its controller memory: maps, resources, weapons, abilities, upgrades, or the sound of success."
-    ]
+    ],
+    "rawg_id": 4513,
+    "media_type": "game",
+    "localized_titles": {
+      "am": "Just Cause 2",
+      "ar": "Just Cause 2",
+      "de": "Just Cause 2",
+      "el": "Just Cause 2",
+      "es": "Just Cause 2",
+      "fr": "Just Cause 2",
+      "he": "Just Cause 2",
+      "hi": "Just Cause 2",
+      "ja": "Just Cause 2",
+      "ko": "Just Cause 2",
+      "ru": "Just Cause 2",
+      "zh": "Just Cause 2"
+    }
   },
   {
     "celebrity": "Just Cause 3",
@@ -1680,7 +4656,23 @@
       "Its clues draw from what players do moment to moment: movement, fighting, building, collecting, racing, or solving.",
       "Think about the play loop: the tools you use, the enemies you face, and the reward that keeps you playing.",
       "The hint is in its controller memory: maps, resources, weapons, abilities, upgrades, or the sound of success."
-    ]
+    ],
+    "rawg_id": 3017,
+    "media_type": "game",
+    "localized_titles": {
+      "am": "Just Cause 3",
+      "ar": "Just Cause 3",
+      "de": "Just Cause 3",
+      "el": "Just Cause 3",
+      "es": "Just Cause 3",
+      "fr": "Just Cause 3",
+      "he": "Just Cause 3",
+      "hi": "Just Cause 3",
+      "ja": "Just Cause 3",
+      "ko": "Just Cause 3",
+      "ru": "Just Cause 3",
+      "zh": "Just Cause 3"
+    }
   },
   {
     "celebrity": "Killing Floor",
@@ -1689,7 +4681,23 @@
       "Its clues draw from what players do moment to moment: movement, fighting, building, collecting, racing, or solving.",
       "Think about the play loop: the tools you use, the enemies you face, and the reward that keeps you playing.",
       "The hint is in its controller memory: maps, resources, weapons, abilities, upgrades, or the sound of success."
-    ]
+    ],
+    "rawg_id": 17352,
+    "media_type": "game",
+    "localized_titles": {
+      "am": "Killing Floor",
+      "ar": "Killing Floor",
+      "de": "Killing Floor",
+      "el": "Killing Floor",
+      "es": "Killing Floor",
+      "fr": "Killing Floor",
+      "he": "Killing Floor",
+      "hi": "Killing Floor",
+      "ja": "Killing Floor",
+      "ko": "Killing Floor",
+      "ru": "Killing Floor",
+      "zh": "Killing Floor"
+    }
   },
   {
     "celebrity": "Kingdom Classic",
@@ -1698,7 +4706,23 @@
       "Its clues draw from what players do moment to moment: movement, fighting, building, collecting, racing, or solving.",
       "Think about the play loop: the tools you use, the enemies you face, and the reward that keeps you playing.",
       "The hint is in its controller memory: maps, resources, weapons, abilities, upgrades, or the sound of success."
-    ]
+    ],
+    "rawg_id": 16209,
+    "media_type": "game",
+    "localized_titles": {
+      "am": "Kingdom: Classic",
+      "ar": "Kingdom: Classic",
+      "de": "Kingdom: Classic",
+      "el": "Kingdom: Classic",
+      "es": "Kingdom: Classic",
+      "fr": "Kingdom: Classic",
+      "he": "Kingdom: Classic",
+      "hi": "Kingdom: Classic",
+      "ja": "Kingdom: Classic",
+      "ko": "Kingdom: Classic",
+      "ru": "Kingdom: Classic",
+      "zh": "Kingdom: Classic"
+    }
   },
   {
     "celebrity": "Kingdom Come Deliverance",
@@ -1707,7 +4731,23 @@
       "Its clues draw from what players do moment to moment: movement, fighting, building, collecting, racing, or solving.",
       "Think about the play loop: the tools you use, the enemies you face, and the reward that keeps you playing.",
       "The hint is in its controller memory: maps, resources, weapons, abilities, upgrades, or the sound of success."
-    ]
+    ],
+    "rawg_id": 28172,
+    "media_type": "game",
+    "localized_titles": {
+      "am": "Kingdom Come: Deliverance",
+      "ar": "Kingdom Come: Deliverance",
+      "de": "Kingdom Come: Deliverance",
+      "el": "Kingdom Come: Deliverance",
+      "es": "Kingdom Come: Deliverance",
+      "fr": "Kingdom Come: Deliverance",
+      "he": "Kingdom Come: Deliverance",
+      "hi": "Kingdom Come: Deliverance",
+      "ja": "Kingdom Come: Deliverance",
+      "ko": "Kingdom Come: Deliverance",
+      "ru": "Kingdom Come: Deliverance",
+      "zh": "Kingdom Come: Deliverance"
+    }
   },
   {
     "celebrity": "La Noire",
@@ -1716,7 +4756,23 @@
       "Its clues draw from what players do moment to moment: movement, fighting, building, collecting, racing, or solving.",
       "Think about the play loop: the tools you use, the enemies you face, and the reward that keeps you playing.",
       "The hint is in its controller memory: maps, resources, weapons, abilities, upgrades, or the sound of success."
-    ]
+    ],
+    "rawg_id": 4514,
+    "media_type": "game",
+    "localized_titles": {
+      "am": "L.A. Noire",
+      "ar": "L.A. Noire",
+      "de": "L.A. Noire",
+      "el": "L.A. Noire",
+      "es": "L.A. Noire",
+      "fr": "L.A. Noire",
+      "he": "L.A. Noire",
+      "hi": "L.A. Noire",
+      "ja": "L.A. Noire",
+      "ko": "L.A. Noire",
+      "ru": "L.A. Noire",
+      "zh": "L.A. Noire"
+    }
   },
   {
     "celebrity": "Lara Croft and the Temple of Osiris",
@@ -1725,7 +4781,23 @@
       "Its clues draw from what players do moment to moment: movement, fighting, building, collecting, racing, or solving.",
       "Think about the play loop: the tools you use, the enemies you face, and the reward that keeps you playing.",
       "The hint is in its controller memory: maps, resources, weapons, abilities, upgrades, or the sound of success."
-    ]
+    ],
+    "rawg_id": 3474,
+    "media_type": "game",
+    "localized_titles": {
+      "am": "Lara Croft and the Temple of Osiris",
+      "ar": "Lara Croft and the Temple of Osiris",
+      "de": "Lara Croft and the Temple of Osiris",
+      "el": "Lara Croft and the Temple of Osiris",
+      "es": "Lara Croft and the Temple of Osiris",
+      "fr": "Lara Croft and the Temple of Osiris",
+      "he": "Lara Croft and the Temple of Osiris",
+      "hi": "Lara Croft and the Temple of Osiris",
+      "ja": "Lara Croft and the Temple of Osiris",
+      "ko": "Lara Croft and the Temple of Osiris",
+      "ru": "Lara Croft and the Temple of Osiris",
+      "zh": "Lara Croft and the Temple of Osiris"
+    }
   },
   {
     "celebrity": "Layers of Fear",
@@ -1734,7 +4806,23 @@
       "Its clues draw from what players do moment to moment: movement, fighting, building, collecting, racing, or solving.",
       "Think about the play loop: the tools you use, the enemies you face, and the reward that keeps you playing.",
       "The hint is in its controller memory: maps, resources, weapons, abilities, upgrades, or the sound of success."
-    ]
+    ],
+    "rawg_id": 2792,
+    "media_type": "game",
+    "localized_titles": {
+      "am": "Layers of Fear",
+      "ar": "Layers of Fear",
+      "de": "Layers of Fear",
+      "el": "Layers of Fear",
+      "es": "Layers of Fear",
+      "fr": "Layers of Fear",
+      "he": "Layers of Fear",
+      "hi": "Layers of Fear",
+      "ja": "Layers of Fear",
+      "ko": "Layers of Fear",
+      "ru": "Layers of Fear",
+      "zh": "Layers of Fear"
+    }
   },
   {
     "celebrity": "Left 4 Dead",
@@ -1743,7 +4831,23 @@
       "Its clues draw from what players do moment to moment: movement, fighting, building, collecting, racing, or solving.",
       "Think about the play loop: the tools you use, the enemies you face, and the reward that keeps you playing.",
       "The hint is in its controller memory: maps, resources, weapons, abilities, upgrades, or the sound of success."
-    ]
+    ],
+    "rawg_id": 13535,
+    "media_type": "game",
+    "localized_titles": {
+      "am": "Left 4 Dead",
+      "ar": "Left 4 Dead",
+      "de": "Left 4 Dead",
+      "el": "Left 4 Dead",
+      "es": "Left 4 Dead",
+      "fr": "Left 4 Dead",
+      "he": "Left 4 Dead",
+      "hi": "Left 4 Dead",
+      "ja": "Left 4 Dead",
+      "ko": "Left 4 Dead",
+      "ru": "Left 4 Dead",
+      "zh": "Left 4 Dead"
+    }
   },
   {
     "celebrity": "Left 4 Dead 2",
@@ -1752,7 +4856,23 @@
       "Its clues draw from what players do moment to moment: movement, fighting, building, collecting, racing, or solving.",
       "Think about the play loop: the tools you use, the enemies you face, and the reward that keeps you playing.",
       "The hint is in its controller memory: maps, resources, weapons, abilities, upgrades, or the sound of success."
-    ]
+    ],
+    "rawg_id": 12020,
+    "media_type": "game",
+    "localized_titles": {
+      "am": "Left 4 Dead 2",
+      "ar": "Left 4 Dead 2",
+      "de": "Left 4 Dead 2",
+      "el": "Left 4 Dead 2",
+      "es": "Left 4 Dead 2",
+      "fr": "Left 4 Dead 2",
+      "he": "Left 4 Dead 2",
+      "hi": "Left 4 Dead 2",
+      "ja": "Left 4 Dead 2",
+      "ko": "Left 4 Dead 2",
+      "ru": "Left 4 Dead 2",
+      "zh": "Left 4 Dead 2"
+    }
   },
   {
     "celebrity": "Lego the Lord of the Rings",
@@ -1761,7 +4881,23 @@
       "Its clues draw from what players do moment to moment: movement, fighting, building, collecting, racing, or solving.",
       "Think about the play loop: the tools you use, the enemies you face, and the reward that keeps you playing.",
       "The hint is in its controller memory: maps, resources, weapons, abilities, upgrades, or the sound of success."
-    ]
+    ],
+    "rawg_id": 2597,
+    "media_type": "game",
+    "localized_titles": {
+      "am": "LEGO The Lord of the Rings",
+      "ar": "LEGO The Lord of the Rings",
+      "de": "LEGO The Lord of the Rings",
+      "el": "LEGO The Lord of the Rings",
+      "es": "LEGO The Lord of the Rings",
+      "fr": "LEGO The Lord of the Rings",
+      "he": "LEGO The Lord of the Rings",
+      "hi": "LEGO The Lord of the Rings",
+      "ja": "LEGO The Lord of the Rings",
+      "ko": "LEGO The Lord of the Rings",
+      "ru": "LEGO The Lord of the Rings",
+      "zh": "LEGO The Lord of the Rings"
+    }
   },
   {
     "celebrity": "Life Is Strange",
@@ -1770,7 +4906,23 @@
       "Its clues draw from what players do moment to moment: movement, fighting, building, collecting, racing, or solving.",
       "Think about the play loop: the tools you use, the enemies you face, and the reward that keeps you playing.",
       "The hint is in its controller memory: maps, resources, weapons, abilities, upgrades, or the sound of success."
-    ]
+    ],
+    "rawg_id": 3439,
+    "media_type": "game",
+    "localized_titles": {
+      "am": "Life is Strange",
+      "ar": "Life is Strange",
+      "de": "Life is Strange",
+      "el": "Life is Strange",
+      "es": "Life is Strange",
+      "fr": "Life is Strange",
+      "he": "Life is Strange",
+      "hi": "Life is Strange",
+      "ja": "Life is Strange",
+      "ko": "Life is Strange",
+      "ru": "Life is Strange",
+      "zh": "Life is Strange"
+    }
   },
   {
     "celebrity": "Limbo",
@@ -1779,7 +4931,23 @@
       "Its clues draw from what players do moment to moment: movement, fighting, building, collecting, racing, or solving.",
       "Think about the play loop: the tools you use, the enemies you face, and the reward that keeps you playing.",
       "The hint is in its controller memory: maps, resources, weapons, abilities, upgrades, or the sound of success."
-    ]
+    ],
+    "rawg_id": 1030,
+    "media_type": "game",
+    "localized_titles": {
+      "am": "Limbo",
+      "ar": "Limbo",
+      "de": "Limbo",
+      "el": "Limbo",
+      "es": "Limbo",
+      "fr": "Limbo",
+      "he": "Limbo",
+      "hi": "Limbo",
+      "ja": "Limbo",
+      "ko": "Limbo",
+      "ru": "Limbo",
+      "zh": "Limbo"
+    }
   },
   {
     "celebrity": "Little Nightmares",
@@ -1788,7 +4956,23 @@
       "Its clues draw from what players do moment to moment: movement, fighting, building, collecting, racing, or solving.",
       "Think about the play loop: the tools you use, the enemies you face, and the reward that keeps you playing.",
       "The hint is in its controller memory: maps, resources, weapons, abilities, upgrades, or the sound of success."
-    ]
+    ],
+    "rawg_id": 41,
+    "media_type": "game",
+    "localized_titles": {
+      "am": "Little Nightmares",
+      "ar": "Little Nightmares",
+      "de": "Little Nightmares",
+      "el": "Little Nightmares",
+      "es": "Little Nightmares",
+      "fr": "Little Nightmares",
+      "he": "Little Nightmares",
+      "hi": "Little Nightmares",
+      "ja": "Little Nightmares",
+      "ko": "Little Nightmares",
+      "ru": "Little Nightmares",
+      "zh": "Little Nightmares"
+    }
   },
   {
     "celebrity": "Mad Max",
@@ -1797,6 +4981,22 @@
       "Its clues draw from what players do moment to moment: movement, fighting, building, collecting, racing, or solving.",
       "Think about the play loop: the tools you use, the enemies you face, and the reward that keeps you playing.",
       "The hint is in its controller memory: maps, resources, weapons, abilities, upgrades, or the sound of success."
-    ]
+    ],
+    "rawg_id": 3191,
+    "media_type": "game",
+    "localized_titles": {
+      "am": "Mad Max",
+      "ar": "Mad Max",
+      "de": "Mad Max",
+      "el": "Mad Max",
+      "es": "Mad Max",
+      "fr": "Mad Max",
+      "he": "Mad Max",
+      "hi": "Mad Max",
+      "ja": "Mad Max",
+      "ko": "Mad Max",
+      "ru": "Mad Max",
+      "zh": "Mad Max"
+    }
   }
 ]

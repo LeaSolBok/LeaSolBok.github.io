@@ -1,21 +1,25 @@
 [
   {
-    "celebrity": "Regular Show",
+    "celebrity": "Un show más",
     "gender": "",
     "facts": [
       "Dos trabajadores del parque convierten la pereza ordinaria en desastres surrealistas con riesgos cósmicos.",
       "Un arrendajo azul, un mapache, juegos de arcade y un jefe enojado de la máquina de chicles son pistas importantes.",
       "Su humor comienza con vagos que evitan el trabajo y termina con un caos que rompe la realidad."
-    ]
+    ],
+    "tmdb_id": 31132,
+    "media_type": "tv"
   },
   {
-    "celebrity": "Adventure Time",
+    "celebrity": "Hora de Aventura",
     "gender": "",
     "facts": [
       "Un niño héroe y un elástico perro amarillo deambulan por una tierra de fantasía post-apocalíptica de color caramelo.",
       "Princesas, magia de hielo, dulces sensibles y conocimientos emocionales se esconden bajo misiones tontas.",
       "El mundo parece divertido pero poco a poco revela tragedias antiguas y reinos extraños."
-    ]
+    ],
+    "tmdb_id": 15260,
+    "media_type": "tv"
   },
   {
     "celebrity": "Futurama",
@@ -24,7 +28,9 @@
       "Un repartidor se despierta en un futuro lejano y se une a una tripulación de envío interplanetario.",
       "Un capitán tuerto, un robot grosero y un profesor loco son pistas importantes.",
       "Sus chistes mezclan comedia en el lugar de trabajo con extraterrestres, viajes en el tiempo y absurdos de ciencia ficción."
-    ]
+    ],
+    "tmdb_id": 615,
+    "media_type": "tv"
   },
   {
     "celebrity": "Gravity Falls",
@@ -33,34 +39,42 @@
       "Los gemelos pasan el verano en un pueblo lleno de misterios dirigido por su extraño tío abuelo.",
       "Un diario, símbolos ocultos y un demonio onírico triangular son pistas importantes.",
       "La historia convierte las rarezas de las trampas para turistas en una aventura sobrenatural tipo rompecabezas."
-    ]
+    ],
+    "tmdb_id": 40075,
+    "media_type": "tv"
   },
   {
-    "celebrity": "King of the Hill",
+    "celebrity": "Los Reyes de la Colina",
     "gender": "",
     "facts": [
       "Sus pistas se basan en las formas de los personajes, el ritmo cómico, el escenario y los chistes visuales repetibles.",
       "Piense en la configuración de dibujos animados que construye: trabajos ocasionales, reinos mágicos, caos doméstico o escapadas en el vecindario.",
       "La pista está en los ingredientes recurrentes que imitan los fanáticos: voces, eslóganes, compinches, villanos y chistes imposibles."
-    ]
+    ],
+    "tmdb_id": 2122,
+    "media_type": "tv"
   },
   {
-    "celebrity": "Dexters Laboratory",
+    "celebrity": "El laboratorio de Dexter",
     "gender": "",
     "facts": [
       "Un niño genio esconde un enorme laboratorio secreto detrás de su dormitorio.",
       "Su alegre hermana interrumpe constantemente los experimentos a pesar de que le dicen que se mantenga al margen.",
       "Los robots, los acentos, los inventores rivales y las máquinas cubiertas de botones son pistas importantes."
-    ]
+    ],
+    "tmdb_id": 4229,
+    "media_type": "tv"
   },
   {
-    "celebrity": "The Powerpuff Girls",
+    "celebrity": "Las chicas superpoderosas",
     "gender": "",
     "facts": [
       "Tres superhéroes de jardín de infantes protegen una colorida ciudad de monstruos y villanos.",
       "El azúcar, las especias y un misterioso accidente químico explican su creación.",
       "Un cerebro mono, un alcalde que habla y acción con ojos gigantes son pistas importantes."
-    ]
+    ],
+    "tmdb_id": 607,
+    "media_type": "tv"
   },
   {
     "celebrity": "Steven Universe",
@@ -69,34 +83,42 @@
       "Sus pistas se basan en las formas de los personajes, el ritmo cómico, el escenario y los chistes visuales repetibles.",
       "Piense en la configuración de dibujos animados que construye: trabajos ocasionales, reinos mágicos, caos doméstico o escapadas en el vecindario.",
       "La pista está en los ingredientes recurrentes que imitan los fanáticos: voces, eslóganes, compinches, villanos y chistes imposibles."
-    ]
+    ],
+    "tmdb_id": 61175,
+    "media_type": "tv"
   },
   {
-    "celebrity": "Jackie Chan Adventures",
+    "celebrity": "Las aventuras de Jackie Chan",
     "gender": "",
     "facts": [
       "Sus pistas se basan en las formas de los personajes, el ritmo cómico, el escenario y los chistes visuales repetibles.",
       "Piense en la configuración de dibujos animados que construye: trabajos ocasionales, reinos mágicos, caos doméstico o escapadas en el vecindario.",
       "La pista está en los ingredientes recurrentes que imitan los fanáticos: voces, eslóganes, compinches, villanos y chistes imposibles."
-    ]
+    ],
+    "tmdb_id": 240,
+    "media_type": "tv"
   },
   {
-    "celebrity": "Ben 10 4686",
+    "celebrity": "Ben 10",
     "gender": "",
     "facts": [
       "Un niño encuentra un dispositivo de muñeca que le permite transformarse en diferentes héroes alienígenas.",
       "Los viajes de verano por carretera con un primo y un abuelo enmarcan muchas de sus primeras aventuras.",
       "La pista principal es un dispositivo parecido a un reloj con una lista giratoria de formas."
-    ]
+    ],
+    "tmdb_id": 4686,
+    "media_type": "tv"
   },
   {
-    "celebrity": "Hey Arnold",
+    "celebrity": "¡Oye, Arnold!",
     "gender": "",
     "facts": [
       "Sus pistas se basan en las formas de los personajes, el ritmo cómico, el escenario y los chistes visuales repetibles.",
       "Piense en la configuración de dibujos animados que construye: trabajos ocasionales, reinos mágicos, caos doméstico o escapadas en el vecindario.",
       "La pista está en los ingredientes recurrentes que imitan los fanáticos: voces, eslóganes, compinches, villanos y chistes imposibles."
-    ]
+    ],
+    "tmdb_id": 537,
+    "media_type": "tv"
   },
   {
     "celebrity": "Kim Possible",
@@ -105,25 +127,31 @@
       "Sus pistas se basan en las formas de los personajes, el ritmo cómico, el escenario y los chistes visuales repetibles.",
       "Piense en la configuración de dibujos animados que construye: trabajos ocasionales, reinos mágicos, caos doméstico o escapadas en el vecindario.",
       "La pista está en los ingredientes recurrentes que imitan los fanáticos: voces, eslóganes, compinches, villanos y chistes imposibles."
-    ]
+    ],
+    "tmdb_id": 2345,
+    "media_type": "tv"
   },
   {
-    "celebrity": "The Adventures of Jimmy Neutron Boy Genius",
+    "celebrity": "Las Aventuras de Jimmy Neutron: El Niño Genio",
     "gender": "",
     "facts": [
       "Sus pistas se basan en las formas de los personajes, el ritmo cómico, el escenario y los chistes visuales repetibles.",
       "Piense en la configuración de dibujos animados que construye: trabajos ocasionales, reinos mágicos, caos doméstico o escapadas en el vecindario.",
       "La pista está en los ingredientes recurrentes que imitan los fanáticos: voces, eslóganes, compinches, villanos y chistes imposibles."
-    ]
+    ],
+    "tmdb_id": 2129,
+    "media_type": "tv"
   },
   {
-    "celebrity": "The Smurfs",
+    "celebrity": "Los Pitufos",
     "gender": "",
     "facts": [
       "Sus pistas se basan en las formas de los personajes, el ritmo cómico, el escenario y los chistes visuales repetibles.",
       "Piense en la configuración de dibujos animados que construye: trabajos ocasionales, reinos mágicos, caos doméstico o escapadas en el vecindario.",
       "La pista está en los ingredientes recurrentes que imitan los fanáticos: voces, eslóganes, compinches, villanos y chistes imposibles."
-    ]
+    ],
+    "tmdb_id": 5687,
+    "media_type": "tv"
   },
   {
     "celebrity": "Johnny Bravo",
@@ -132,7 +160,9 @@
       "Sus pistas se basan en las formas de los personajes, el ritmo cómico, el escenario y los chistes visuales repetibles.",
       "Piense en la configuración de dibujos animados que construye: trabajos ocasionales, reinos mágicos, caos doméstico o escapadas en el vecindario.",
       "La pista está en los ingredientes recurrentes que imitan los fanáticos: voces, eslóganes, compinches, villanos y chistes imposibles."
-    ]
+    ],
+    "tmdb_id": 2405,
+    "media_type": "tv"
   },
   {
     "celebrity": "The Loud House",
@@ -141,70 +171,86 @@
       "Sus pistas se basan en las formas de los personajes, el ritmo cómico, el escenario y los chistes visuales repetibles.",
       "Piense en la configuración de dibujos animados que construye: trabajos ocasionales, reinos mágicos, caos doméstico o escapadas en el vecindario.",
       "La pista está en los ingredientes recurrentes que imitan los fanáticos: voces, eslóganes, compinches, villanos y chistes imposibles."
-    ]
+    ],
+    "tmdb_id": 68073,
+    "media_type": "tv"
   },
   {
-    "celebrity": "Sofia the First",
+    "celebrity": "Princesita Sofía",
     "gender": "",
     "facts": [
       "Sus pistas se basan en las formas de los personajes, el ritmo cómico, el escenario y los chistes visuales repetibles.",
       "Piense en la configuración de dibujos animados que construye: trabajos ocasionales, reinos mágicos, caos doméstico o escapadas en el vecindario.",
       "La pista está en los ingredientes recurrentes que imitan los fanáticos: voces, eslóganes, compinches, villanos y chistes imposibles."
-    ]
+    ],
+    "tmdb_id": 46928,
+    "media_type": "tv"
   },
   {
-    "celebrity": "The Penguins of Madagascar",
+    "celebrity": "Los Pingüinos de Madagascar",
     "gender": "",
     "facts": [
       "Sus pistas se basan en las formas de los personajes, el ritmo cómico, el escenario y los chistes visuales repetibles.",
       "Piense en la configuración de dibujos animados que construye: trabajos ocasionales, reinos mágicos, caos doméstico o escapadas en el vecindario.",
       "La pista está en los ingredientes recurrentes que imitan los fanáticos: voces, eslóganes, compinches, villanos y chistes imposibles."
-    ]
+    ],
+    "tmdb_id": 7869,
+    "media_type": "tv"
   },
   {
-    "celebrity": "Garfield and Friends",
+    "celebrity": "Garfield y sus Amigos",
     "gender": "",
     "facts": [
       "Sus pistas se basan en las formas de los personajes, el ritmo cómico, el escenario y los chistes visuales repetibles.",
       "Piense en la configuración de dibujos animados que construye: trabajos ocasionales, reinos mágicos, caos doméstico o escapadas en el vecindario.",
       "La pista está en los ingredientes recurrentes que imitan los fanáticos: voces, eslóganes, compinches, villanos y chistes imposibles."
-    ]
+    ],
+    "tmdb_id": 4606,
+    "media_type": "tv"
   },
   {
-    "celebrity": "Cow and Chicken",
+    "celebrity": "La Vaca y el Pollito",
     "gender": "",
     "facts": [
       "Sus pistas se basan en las formas de los personajes, el ritmo cómico, el escenario y los chistes visuales repetibles.",
       "Piense en la configuración de dibujos animados que construye: trabajos ocasionales, reinos mágicos, caos doméstico o escapadas en el vecindario.",
       "La pista está en los ingredientes recurrentes que imitan los fanáticos: voces, eslóganes, compinches, villanos y chistes imposibles."
-    ]
+    ],
+    "tmdb_id": 3611,
+    "media_type": "tv"
   },
   {
-    "celebrity": "Ben 10 Alien Force",
+    "celebrity": "Ben 10: Alien Force",
     "gender": "",
     "facts": [
       "Sus pistas se basan en las formas de los personajes, el ritmo cómico, el escenario y los chistes visuales repetibles.",
       "Piense en la configuración de dibujos animados que construye: trabajos ocasionales, reinos mágicos, caos doméstico o escapadas en el vecindario.",
       "La pista está en los ingredientes recurrentes que imitan los fanáticos: voces, eslóganes, compinches, villanos y chistes imposibles."
-    ]
+    ],
+    "tmdb_id": 6040,
+    "media_type": "tv"
   },
   {
-    "celebrity": "Adventure Time Distant Lands",
+    "celebrity": "Hora De Aventura: Tierras Lejanas",
     "gender": "",
     "facts": [
       "Sus pistas se basan en las formas de los personajes, el ritmo cómico, el escenario y los chistes visuales repetibles.",
       "Piense en la configuración de dibujos animados que construye: trabajos ocasionales, reinos mágicos, caos doméstico o escapadas en el vecindario.",
       "La pista está en los ingredientes recurrentes que imitan los fanáticos: voces, eslóganes, compinches, villanos y chistes imposibles."
-    ]
+    ],
+    "tmdb_id": 94810,
+    "media_type": "tv"
   },
   {
-    "celebrity": "Popeye the Sailor",
+    "celebrity": "Popeye el marino",
     "gender": "",
     "facts": [
       "Sus pistas se basan en las formas de los personajes, el ritmo cómico, el escenario y los chistes visuales repetibles.",
       "Piense en la configuración de dibujos animados que construye: trabajos ocasionales, reinos mágicos, caos doméstico o escapadas en el vecindario.",
       "La pista está en los ingredientes recurrentes que imitan los fanáticos: voces, eslóganes, compinches, villanos y chistes imposibles."
-    ]
+    ],
+    "tmdb_id": 8392,
+    "media_type": "tv"
   },
   {
     "celebrity": "Clarence",
@@ -213,106 +259,130 @@
       "Sus pistas se basan en las formas de los personajes, el ritmo cómico, el escenario y los chistes visuales repetibles.",
       "Piense en la configuración de dibujos animados que construye: trabajos ocasionales, reinos mágicos, caos doméstico o escapadas en el vecindario.",
       "La pista está en los ingredientes recurrentes que imitan los fanáticos: voces, eslóganes, compinches, villanos y chistes imposibles."
-    ]
+    ],
+    "tmdb_id": 50035,
+    "media_type": "tv"
   },
   {
-    "celebrity": "Ben 10 Ultimate Alien",
+    "celebrity": "Ben 10: Supremacía Alienígena",
     "gender": "",
     "facts": [
       "Sus pistas se basan en las formas de los personajes, el ritmo cómico, el escenario y los chistes visuales repetibles.",
       "Piense en la configuración de dibujos animados que construye: trabajos ocasionales, reinos mágicos, caos doméstico o escapadas en el vecindario.",
       "La pista está en los ingredientes recurrentes que imitan los fanáticos: voces, eslóganes, compinches, villanos y chistes imposibles."
-    ]
+    ],
+    "tmdb_id": 31109,
+    "media_type": "tv"
   },
   {
-    "celebrity": "Thundercats",
+    "celebrity": "ThunderCats",
     "gender": "",
     "facts": [
       "Sus pistas se basan en las formas de los personajes, el ritmo cómico, el escenario y los chistes visuales repetibles.",
       "Piense en la configuración de dibujos animados que construye: trabajos ocasionales, reinos mágicos, caos doméstico o escapadas en el vecindario.",
       "La pista está en los ingredientes recurrentes que imitan los fanáticos: voces, eslóganes, compinches, villanos y chistes imposibles."
-    ]
+    ],
+    "tmdb_id": 1988,
+    "media_type": "tv"
   },
   {
-    "celebrity": "Ed Edd N Eddy",
+    "celebrity": "Ed, Edd y Eddy",
     "gender": "",
     "facts": [
       "Sus pistas se basan en las formas de los personajes, el ritmo cómico, el escenario y los chistes visuales repetibles.",
       "Piense en la configuración de dibujos animados que construye: trabajos ocasionales, reinos mágicos, caos doméstico o escapadas en el vecindario.",
       "La pista está en los ingredientes recurrentes que imitan los fanáticos: voces, eslóganes, compinches, villanos y chistes imposibles."
-    ]
+    ],
+    "tmdb_id": 606,
+    "media_type": "tv"
   },
   {
-    "celebrity": "Timon and Pumbaa",
+    "celebrity": "Las aventuras de Timón y Pumba",
     "gender": "",
     "facts": [
       "Sus pistas se basan en las formas de los personajes, el ritmo cómico, el escenario y los chistes visuales repetibles.",
       "Piense en la configuración de dibujos animados que construye: trabajos ocasionales, reinos mágicos, caos doméstico o escapadas en el vecindario.",
       "La pista está en los ingredientes recurrentes que imitan los fanáticos: voces, eslóganes, compinches, villanos y chistes imposibles."
-    ]
+    ],
+    "tmdb_id": 4429,
+    "media_type": "tv"
   },
   {
-    "celebrity": "Disenchantment",
+    "celebrity": "(Des)encanto",
     "gender": "",
     "facts": [
       "Sus pistas se basan en las formas de los personajes, el ritmo cómico, el escenario y los chistes visuales repetibles.",
       "Piense en la configuración de dibujos animados que construye: trabajos ocasionales, reinos mágicos, caos doméstico o escapadas en el vecindario.",
       "La pista está en los ingredientes recurrentes que imitan los fanáticos: voces, eslóganes, compinches, villanos y chistes imposibles."
-    ]
+    ],
+    "tmdb_id": 73021,
+    "media_type": "tv"
   },
   {
-    "celebrity": "Craig of the Creek",
+    "celebrity": "El mundo de Craig",
     "gender": "",
     "facts": [
       "Sus pistas se basan en las formas de los personajes, el ritmo cómico, el escenario y los chistes visuales repetibles.",
       "Piense en la configuración de dibujos animados que construye: trabajos ocasionales, reinos mágicos, caos doméstico o escapadas en el vecindario.",
       "La pista está en los ingredientes recurrentes que imitan los fanáticos: voces, eslóganes, compinches, villanos y chistes imposibles."
-    ]
+    ],
+    "tmdb_id": 79061,
+    "media_type": "tv"
   },
   {
-    "celebrity": "The Dragon Prince",
+    "celebrity": "Príncipe de los dragones",
     "gender": "",
     "facts": [
       "Sus pistas se basan en las formas de los personajes, el ritmo cómico, el escenario y los chistes visuales repetibles.",
       "Piense en la configuración de dibujos animados que construye: trabajos ocasionales, reinos mágicos, caos doméstico o escapadas en el vecindario.",
       "La pista está en los ingredientes recurrentes que imitan los fanáticos: voces, eslóganes, compinches, villanos y chistes imposibles."
-    ]
+    ],
+    "tmdb_id": 81046,
+    "media_type": "tv"
   },
   {
-    "celebrity": "We Baby Bears",
+    "celebrity": "Escandalositos",
     "gender": "",
     "facts": [
       "Sus pistas se basan en las formas de los personajes, el ritmo cómico, el escenario y los chistes visuales repetibles.",
       "Piense en la configuración de dibujos animados que construye: trabajos ocasionales, reinos mágicos, caos doméstico o escapadas en el vecindario.",
       "La pista está en los ingredientes recurrentes que imitan los fanáticos: voces, eslóganes, compinches, villanos y chistes imposibles."
-    ]
+    ],
+    "tmdb_id": 117030,
+    "media_type": "tv"
   },
   {
-    "celebrity": "Dora the Explorer",
+    "celebrity": "Dora, la exploradora",
     "gender": "",
     "facts": [
       "Sus pistas se basan en las formas de los personajes, el ritmo cómico, el escenario y los chistes visuales repetibles.",
       "Piense en la configuración de dibujos animados que construye: trabajos ocasionales, reinos mágicos, caos doméstico o escapadas en el vecindario.",
       "La pista está en los ingredientes recurrentes que imitan los fanáticos: voces, eslóganes, compinches, villanos y chistes imposibles."
-    ]
+    ],
+    "tmdb_id": 79,
+    "media_type": "tv"
   },
   {
-    "celebrity": "Totally Spies",
+    "celebrity": "Tres Espías Sin Límite",
     "gender": "",
     "facts": [
       "Sus pistas se basan en las formas de los personajes, el ritmo cómico, el escenario y los chistes visuales repetibles.",
       "Piense en la configuración de dibujos animados que construye: trabajos ocasionales, reinos mágicos, caos doméstico o escapadas en el vecindario.",
       "La pista está en los ingredientes recurrentes que imitan los fanáticos: voces, eslóganes, compinches, villanos y chistes imposibles."
-    ]
+    ],
+    "tmdb_id": 2808,
+    "media_type": "tv"
   },
   {
-    "celebrity": "Oggy and the Cockroaches",
+    "celebrity": "Oggy y las cucarachas",
     "gender": "",
     "facts": [
       "Sus pistas se basan en las formas de los personajes, el ritmo cómico, el escenario y los chistes visuales repetibles.",
       "Piense en la configuración de dibujos animados que construye: trabajos ocasionales, reinos mágicos, caos doméstico o escapadas en el vecindario.",
       "La pista está en los ingredientes recurrentes que imitan los fanáticos: voces, eslóganes, compinches, villanos y chistes imposibles."
-    ]
+    ],
+    "tmdb_id": 2777,
+    "media_type": "tv"
   },
   {
     "celebrity": "Danny Phantom",
@@ -321,34 +391,42 @@
       "Sus pistas se basan en las formas de los personajes, el ritmo cómico, el escenario y los chistes visuales repetibles.",
       "Piense en la configuración de dibujos animados que construye: trabajos ocasionales, reinos mágicos, caos doméstico o escapadas en el vecindario.",
       "La pista está en los ingredientes recurrentes que imitan los fanáticos: voces, eslóganes, compinches, villanos y chistes imposibles."
-    ]
+    ],
+    "tmdb_id": 2309,
+    "media_type": "tv"
   },
   {
-    "celebrity": "The Cleveland Show",
+    "celebrity": "Cleveland Show",
     "gender": "",
     "facts": [
       "Sus pistas se basan en las formas de los personajes, el ritmo cómico, el escenario y los chistes visuales repetibles.",
       "Piense en la configuración de dibujos animados que construye: trabajos ocasionales, reinos mágicos, caos doméstico o escapadas en el vecindario.",
       "La pista está en los ingredientes recurrentes que imitan los fanáticos: voces, eslóganes, compinches, villanos y chistes imposibles."
-    ]
+    ],
+    "tmdb_id": 15632,
+    "media_type": "tv"
   },
   {
-    "celebrity": "Kick Buttowski Suburban Daredevil",
+    "celebrity": "Kick Buttowski: Medio Doble de Riesgo",
     "gender": "",
     "facts": [
       "Sus pistas se basan en las formas de los personajes, el ritmo cómico, el escenario y los chistes visuales repetibles.",
       "Piense en la configuración de dibujos animados que construye: trabajos ocasionales, reinos mágicos, caos doméstico o escapadas en el vecindario.",
       "La pista está en los ingredientes recurrentes que imitan los fanáticos: voces, eslóganes, compinches, villanos y chistes imposibles."
-    ]
+    ],
+    "tmdb_id": 17572,
+    "media_type": "tv"
   },
   {
-    "celebrity": "The Wild Thornberrys",
+    "celebrity": "Los Thornberrys",
     "gender": "",
     "facts": [
       "Sus pistas se basan en las formas de los personajes, el ritmo cómico, el escenario y los chistes visuales repetibles.",
       "Piense en la configuración de dibujos animados que construye: trabajos ocasionales, reinos mágicos, caos doméstico o escapadas en el vecindario.",
       "La pista está en los ingredientes recurrentes que imitan los fanáticos: voces, eslóganes, compinches, villanos y chistes imposibles."
-    ]
+    ],
+    "tmdb_id": 2408,
+    "media_type": "tv"
   },
   {
     "celebrity": "Smiling Friends",
@@ -357,34 +435,42 @@
       "Sus pistas se basan en las formas de los personajes, el ritmo cómico, el escenario y los chistes visuales repetibles.",
       "Piense en la configuración de dibujos animados que construye: trabajos ocasionales, reinos mágicos, caos doméstico o escapadas en el vecindario.",
       "La pista está en los ingredientes recurrentes que imitan los fanáticos: voces, eslóganes, compinches, villanos y chistes imposibles."
-    ]
+    ],
+    "tmdb_id": 126506,
+    "media_type": "tv"
   },
   {
-    "celebrity": "Ben 10 Omniverse",
+    "celebrity": "Ben 10: Omniverse",
     "gender": "",
     "facts": [
       "Sus pistas se basan en las formas de los personajes, el ritmo cómico, el escenario y los chistes visuales repetibles.",
       "Piense en la configuración de dibujos animados que construye: trabajos ocasionales, reinos mágicos, caos doméstico o escapadas en el vecindario.",
       "La pista está en los ingredientes recurrentes que imitan los fanáticos: voces, eslóganes, compinches, villanos y chistes imposibles."
-    ]
+    ],
+    "tmdb_id": 46922,
+    "media_type": "tv"
   },
   {
-    "celebrity": "Mr Bean the Animated Series",
+    "celebrity": "Mr. Bean, la serie animada",
     "gender": "",
     "facts": [
       "Sus pistas se basan en las formas de los personajes, el ritmo cómico, el escenario y los chistes visuales repetibles.",
       "Piense en la configuración de dibujos animados que construye: trabajos ocasionales, reinos mágicos, caos doméstico o escapadas en el vecindario.",
       "La pista está en los ingredientes recurrentes que imitan los fanáticos: voces, eslóganes, compinches, villanos y chistes imposibles."
-    ]
+    ],
+    "tmdb_id": 2530,
+    "media_type": "tv"
   },
   {
-    "celebrity": "The Amazing Digital Circus",
+    "celebrity": "El Asombroso Circo Digital",
     "gender": "",
     "facts": [
       "Sus pistas se basan en las formas de los personajes, el ritmo cómico, el escenario y los chistes visuales repetibles.",
       "Piense en la configuración de dibujos animados que construye: trabajos ocasionales, reinos mágicos, caos doméstico o escapadas en el vecindario.",
       "La pista está en los ingredientes recurrentes que imitan los fanáticos: voces, eslóganes, compinches, villanos y chistes imposibles."
-    ]
+    ],
+    "tmdb_id": 261145,
+    "media_type": "tv"
   },
   {
     "celebrity": "Close Enough",
@@ -393,61 +479,75 @@
       "Sus pistas se basan en las formas de los personajes, el ritmo cómico, el escenario y los chistes visuales repetibles.",
       "Piense en la configuración de dibujos animados que construye: trabajos ocasionales, reinos mágicos, caos doméstico o escapadas en el vecindario.",
       "La pista está en los ingredientes recurrentes que imitan los fanáticos: voces, eslóganes, compinches, villanos y chistes imposibles."
-    ]
+    ],
+    "tmdb_id": 84503,
+    "media_type": "tv"
   },
   {
-    "celebrity": "Grizzy the Lemmings",
+    "celebrity": "Grizzy y los Lemmings",
     "gender": "",
     "facts": [
       "Sus pistas se basan en las formas de los personajes, el ritmo cómico, el escenario y los chistes visuales repetibles.",
       "Piense en la configuración de dibujos animados que construye: trabajos ocasionales, reinos mágicos, caos doméstico o escapadas en el vecindario.",
       "La pista está en los ingredientes recurrentes que imitan los fanáticos: voces, eslóganes, compinches, villanos y chistes imposibles."
-    ]
+    ],
+    "tmdb_id": 74415,
+    "media_type": "tv"
   },
   {
-    "celebrity": "Shaun the Sheep",
+    "celebrity": "La oveja Shaun",
     "gender": "",
     "facts": [
       "Sus pistas se basan en las formas de los personajes, el ritmo cómico, el escenario y los chistes visuales repetibles.",
       "Piense en la configuración de dibujos animados que construye: trabajos ocasionales, reinos mágicos, caos doméstico o escapadas en el vecindario.",
       "La pista está en los ingredientes recurrentes que imitan los fanáticos: voces, eslóganes, compinches, villanos y chistes imposibles."
-    ]
+    ],
+    "tmdb_id": 3902,
+    "media_type": "tv"
   },
   {
-    "celebrity": "Catdog",
+    "celebrity": "CatDog",
     "gender": "",
     "facts": [
       "Sus pistas se basan en las formas de los personajes, el ritmo cómico, el escenario y los chistes visuales repetibles.",
       "Piense en la configuración de dibujos animados que construye: trabajos ocasionales, reinos mágicos, caos doméstico o escapadas en el vecindario.",
       "La pista está en los ingredientes recurrentes que imitan los fanáticos: voces, eslóganes, compinches, villanos y chistes imposibles."
-    ]
+    ],
+    "tmdb_id": 1567,
+    "media_type": "tv"
   },
   {
-    "celebrity": "Mucha Lucha",
+    "celebrity": "¡Mucha Lucha!",
     "gender": "",
     "facts": [
       "Sus pistas se basan en las formas de los personajes, el ritmo cómico, el escenario y los chistes visuales repetibles.",
       "Piense en la configuración de dibujos animados que construye: trabajos ocasionales, reinos mágicos, caos doméstico o escapadas en el vecindario.",
       "La pista está en los ingredientes recurrentes que imitan los fanáticos: voces, eslóganes, compinches, villanos y chistes imposibles."
-    ]
+    ],
+    "tmdb_id": 288,
+    "media_type": "tv"
   },
   {
-    "celebrity": "He Man and the Masters of the Universe",
+    "celebrity": "He-Man y los Amos del Universo",
     "gender": "",
     "facts": [
       "Sus pistas se basan en las formas de los personajes, el ritmo cómico, el escenario y los chistes visuales repetibles.",
       "Piense en la configuración de dibujos animados que construye: trabajos ocasionales, reinos mágicos, caos doméstico o escapadas en el vecindario.",
       "La pista está en los ingredientes recurrentes que imitan los fanáticos: voces, eslóganes, compinches, villanos y chistes imposibles."
-    ]
+    ],
+    "tmdb_id": 931,
+    "media_type": "tv"
   },
   {
-    "celebrity": "The Ren Stimpy Show",
+    "celebrity": "Ren y Stimpy",
     "gender": "",
     "facts": [
       "Sus pistas se basan en las formas de los personajes, el ritmo cómico, el escenario y los chistes visuales repetibles.",
       "Piense en la configuración de dibujos animados que construye: trabajos ocasionales, reinos mágicos, caos doméstico o escapadas en el vecindario.",
       "La pista está en los ingredientes recurrentes que imitan los fanáticos: voces, eslóganes, compinches, villanos y chistes imposibles."
-    ]
+    ],
+    "tmdb_id": 504,
+    "media_type": "tv"
   },
   {
     "celebrity": "Doug",
@@ -456,7 +556,9 @@
       "Sus pistas se basan en las formas de los personajes, el ritmo cómico, el escenario y los chistes visuales repetibles.",
       "Piense en la configuración de dibujos animados que construye: trabajos ocasionales, reinos mágicos, caos doméstico o escapadas en el vecindario.",
       "La pista está en los ingredientes recurrentes que imitan los fanáticos: voces, eslóganes, compinches, villanos y chistes imposibles."
-    ]
+    ],
+    "tmdb_id": 384,
+    "media_type": "tv"
   },
   {
     "celebrity": "Aqua Teen Hunger Force",
@@ -465,34 +567,42 @@
       "Sus pistas se basan en las formas de los personajes, el ritmo cómico, el escenario y los chistes visuales repetibles.",
       "Piense en la configuración de dibujos animados que construye: trabajos ocasionales, reinos mágicos, caos doméstico o escapadas en el vecindario.",
       "La pista está en los ingredientes recurrentes que imitan los fanáticos: voces, eslóganes, compinches, villanos y chistes imposibles."
-    ]
+    ],
+    "tmdb_id": 251,
+    "media_type": "tv"
   },
   {
-    "celebrity": "Fast Furious Spy Racers",
+    "celebrity": "Rápidos y furiosos: Espías al volante",
     "gender": "",
     "facts": [
       "Sus pistas se basan en las formas de los personajes, el ritmo cómico, el escenario y los chistes visuales repetibles.",
       "Piense en la configuración de dibujos animados que construye: trabajos ocasionales, reinos mágicos, caos doméstico o escapadas en el vecindario.",
       "La pista está en los ingredientes recurrentes que imitan los fanáticos: voces, eslóganes, compinches, villanos y chistes imposibles."
-    ]
+    ],
+    "tmdb_id": 95594,
+    "media_type": "tv"
   },
   {
-    "celebrity": "Over the Garden Wall",
+    "celebrity": "Más allá del jardín",
     "gender": "",
     "facts": [
       "Sus pistas se basan en las formas de los personajes, el ritmo cómico, el escenario y los chistes visuales repetibles.",
       "Piense en la configuración de dibujos animados que construye: trabajos ocasionales, reinos mágicos, caos doméstico o escapadas en el vecindario.",
       "La pista está en los ingredientes recurrentes que imitan los fanáticos: voces, eslóganes, compinches, villanos y chistes imposibles."
-    ]
+    ],
+    "tmdb_id": 61617,
+    "media_type": "tv"
   },
   {
-    "celebrity": "The Boss Baby Back in Business",
+    "celebrity": "El bebé jefazo: Vuelta al curro",
     "gender": "",
     "facts": [
       "Sus pistas se basan en las formas de los personajes, el ritmo cómico, el escenario y los chistes visuales repetibles.",
       "Piense en la configuración de dibujos animados que construye: trabajos ocasionales, reinos mágicos, caos doméstico o escapadas en el vecindario.",
       "La pista está en los ingredientes recurrentes que imitan los fanáticos: voces, eslóganes, compinches, villanos y chistes imposibles."
-    ]
+    ],
+    "tmdb_id": 77606,
+    "media_type": "tv"
   },
   {
     "celebrity": "Velma",
@@ -501,43 +611,53 @@
       "Sus pistas se basan en las formas de los personajes, el ritmo cómico, el escenario y los chistes visuales repetibles.",
       "Piense en la configuración de dibujos animados que construye: trabajos ocasionales, reinos mágicos, caos doméstico o escapadas en el vecindario.",
       "La pista está en los ingredientes recurrentes que imitan los fanáticos: voces, eslóganes, compinches, villanos y chistes imposibles."
-    ]
+    ],
+    "tmdb_id": 126725,
+    "media_type": "tv"
   },
   {
-    "celebrity": "Trollhunters Tales of Arcadia",
+    "celebrity": "Trollhunters: Relatos de Arcadia",
     "gender": "",
     "facts": [
       "Sus pistas se basan en las formas de los personajes, el ritmo cómico, el escenario y los chistes visuales repetibles.",
       "Piense en la configuración de dibujos animados que construye: trabajos ocasionales, reinos mágicos, caos doméstico o escapadas en el vecindario.",
       "La pista está en los ingredientes recurrentes que imitan los fanáticos: voces, eslóganes, compinches, villanos y chistes imposibles."
-    ]
+    ],
+    "tmdb_id": 68267,
+    "media_type": "tv"
   },
   {
-    "celebrity": "The Tom and Jerry Show",
+    "celebrity": "El Show de Tom y Jerry",
     "gender": "",
     "facts": [
       "Sus pistas se basan en las formas de los personajes, el ritmo cómico, el escenario y los chistes visuales repetibles.",
       "Piense en la configuración de dibujos animados que construye: trabajos ocasionales, reinos mágicos, caos doméstico o escapadas en el vecindario.",
       "La pista está en los ingredientes recurrentes que imitan los fanáticos: voces, eslóganes, compinches, villanos y chistes imposibles."
-    ]
+    ],
+    "tmdb_id": 47480,
+    "media_type": "tv"
   },
   {
-    "celebrity": "Summer Camp Island",
+    "celebrity": "Campamento de Verano",
     "gender": "",
     "facts": [
       "Sus pistas se basan en las formas de los personajes, el ritmo cómico, el escenario y los chistes visuales repetibles.",
       "Piense en la configuración de dibujos animados que construye: trabajos ocasionales, reinos mágicos, caos doméstico o escapadas en el vecindario.",
       "La pista está en los ingredientes recurrentes que imitan los fanáticos: voces, eslóganes, compinches, villanos y chistes imposibles."
-    ]
+    ],
+    "tmdb_id": 81665,
+    "media_type": "tv"
   },
   {
-    "celebrity": "Inside Job",
+    "celebrity": "Trabajo Incógnito",
     "gender": "",
     "facts": [
       "Sus pistas se basan en las formas de los personajes, el ritmo cómico, el escenario y los chistes visuales repetibles.",
       "Piense en la configuración de dibujos animados que construye: trabajos ocasionales, reinos mágicos, caos doméstico o escapadas en el vecindario.",
       "La pista está en los ingredientes recurrentes que imitan los fanáticos: voces, eslóganes, compinches, villanos y chistes imposibles."
-    ]
+    ],
+    "tmdb_id": 97727,
+    "media_type": "tv"
   },
   {
     "celebrity": "Final Space",
@@ -546,34 +666,42 @@
       "Sus pistas se basan en las formas de los personajes, el ritmo cómico, el escenario y los chistes visuales repetibles.",
       "Piense en la configuración de dibujos animados que construye: trabajos ocasionales, reinos mágicos, caos doméstico o escapadas en el vecindario.",
       "La pista está en los ingredientes recurrentes que imitan los fanáticos: voces, eslóganes, compinches, villanos y chistes imposibles."
-    ]
+    ],
+    "tmdb_id": 74387,
+    "media_type": "tv"
   },
   {
-    "celebrity": "Slugterra",
+    "celebrity": "Bajoterra",
     "gender": "",
     "facts": [
       "Sus pistas se basan en las formas de los personajes, el ritmo cómico, el escenario y los chistes visuales repetibles.",
       "Piense en la configuración de dibujos animados que construye: trabajos ocasionales, reinos mágicos, caos doméstico o escapadas en el vecindario.",
       "La pista está en los ingredientes recurrentes que imitan los fanáticos: voces, eslóganes, compinches, villanos y chistes imposibles."
-    ]
+    ],
+    "tmdb_id": 46994,
+    "media_type": "tv"
   },
   {
-    "celebrity": "Thomas Friends",
+    "celebrity": "Thomas y sus amigos",
     "gender": "",
     "facts": [
       "Sus pistas se basan en las formas de los personajes, el ritmo cómico, el escenario y los chistes visuales repetibles.",
       "Piense en la configuración de dibujos animados que construye: trabajos ocasionales, reinos mágicos, caos doméstico o escapadas en el vecindario.",
       "La pista está en los ingredientes recurrentes que imitan los fanáticos: voces, eslóganes, compinches, villanos y chistes imposibles."
-    ]
+    ],
+    "tmdb_id": 2304,
+    "media_type": "tv"
   },
   {
-    "celebrity": "Kung Fu Panda the Paws of Destiny",
+    "celebrity": "Kung Fu Panda: El destino de Paws",
     "gender": "",
     "facts": [
       "Sus pistas se basan en las formas de los personajes, el ritmo cómico, el escenario y los chistes visuales repetibles.",
       "Piense en la configuración de dibujos animados que construye: trabajos ocasionales, reinos mágicos, caos doméstico o escapadas en el vecindario.",
       "La pista está en los ingredientes recurrentes que imitan los fanáticos: voces, eslóganes, compinches, villanos y chistes imposibles."
-    ]
+    ],
+    "tmdb_id": 82747,
+    "media_type": "tv"
   },
   {
     "celebrity": "Static Shock",
@@ -582,25 +710,31 @@
       "Sus pistas se basan en las formas de los personajes, el ritmo cómico, el escenario y los chistes visuales repetibles.",
       "Piense en la configuración de dibujos animados que construye: trabajos ocasionales, reinos mágicos, caos doméstico o escapadas en el vecindario.",
       "La pista está en los ingredientes recurrentes que imitan los fanáticos: voces, eslóganes, compinches, villanos y chistes imposibles."
-    ]
+    ],
+    "tmdb_id": 1487,
+    "media_type": "tv"
   },
   {
-    "celebrity": "Codename Kids Next Door",
+    "celebrity": "KND: Los chicos del barrio",
     "gender": "",
     "facts": [
       "Sus pistas se basan en las formas de los personajes, el ritmo cómico, el escenario y los chistes visuales repetibles.",
       "Piense en la configuración de dibujos animados que construye: trabajos ocasionales, reinos mágicos, caos doméstico o escapadas en el vecindario.",
       "La pista está en los ingredientes recurrentes que imitan los fanáticos: voces, eslóganes, compinches, villanos y chistes imposibles."
-    ]
+    ],
+    "tmdb_id": 2660,
+    "media_type": "tv"
   },
   {
-    "celebrity": "Doc Mcstuffins",
+    "celebrity": "Doctora Juguetes",
     "gender": "",
     "facts": [
       "Sus pistas se basan en las formas de los personajes, el ritmo cómico, el escenario y los chistes visuales repetibles.",
       "Piense en la configuración de dibujos animados que construye: trabajos ocasionales, reinos mágicos, caos doméstico o escapadas en el vecindario.",
       "La pista está en los ingredientes recurrentes que imitan los fanáticos: voces, eslóganes, compinches, villanos y chistes imposibles."
-    ]
+    ],
+    "tmdb_id": 46262,
+    "media_type": "tv"
   },
   {
     "celebrity": "Daria",
@@ -609,7 +743,9 @@
       "Sus pistas se basan en las formas de los personajes, el ritmo cómico, el escenario y los chistes visuales repetibles.",
       "Piense en la configuración de dibujos animados que construye: trabajos ocasionales, reinos mágicos, caos doméstico o escapadas en el vecindario.",
       "La pista está en los ingredientes recurrentes que imitan los fanáticos: voces, eslóganes, compinches, villanos y chistes imposibles."
-    ]
+    ],
+    "tmdb_id": 2131,
+    "media_type": "tv"
   },
   {
     "celebrity": "Ugly Americans",
@@ -618,43 +754,53 @@
       "Sus pistas se basan en las formas de los personajes, el ritmo cómico, el escenario y los chistes visuales repetibles.",
       "Piense en la configuración de dibujos animados que construye: trabajos ocasionales, reinos mágicos, caos doméstico o escapadas en el vecindario.",
       "La pista está en los ingredientes recurrentes que imitan los fanáticos: voces, eslóganes, compinches, villanos y chistes imposibles."
-    ]
+    ],
+    "tmdb_id": 32351,
+    "media_type": "tv"
   },
   {
-    "celebrity": "Tom Jerry Kids Show",
+    "celebrity": "Los pequeños Tom y Jerry",
     "gender": "",
     "facts": [
       "Sus pistas se basan en las formas de los personajes, el ritmo cómico, el escenario y los chistes visuales repetibles.",
       "Piense en la configuración de dibujos animados que construye: trabajos ocasionales, reinos mágicos, caos doméstico o escapadas en el vecindario.",
       "La pista está en los ingredientes recurrentes que imitan los fanáticos: voces, eslóganes, compinches, villanos y chistes imposibles."
-    ]
+    ],
+    "tmdb_id": 4274,
+    "media_type": "tv"
   },
   {
-    "celebrity": "The Bullwinkle Show",
+    "celebrity": "Las nuevas aventuras de Rocki y sus amigos",
     "gender": "",
     "facts": [
       "Sus pistas se basan en las formas de los personajes, el ritmo cómico, el escenario y los chistes visuales repetibles.",
       "Piense en la configuración de dibujos animados que construye: trabajos ocasionales, reinos mágicos, caos doméstico o escapadas en el vecindario.",
       "La pista está en los ingredientes recurrentes que imitan los fanáticos: voces, eslóganes, compinches, villanos y chistes imposibles."
-    ]
+    ],
+    "tmdb_id": 1025,
+    "media_type": "tv"
   },
   {
-    "celebrity": "Curious George",
+    "celebrity": "Jorge el curioso",
     "gender": "",
     "facts": [
       "Sus pistas se basan en las formas de los personajes, el ritmo cómico, el escenario y los chistes visuales repetibles.",
       "Piense en la configuración de dibujos animados que construye: trabajos ocasionales, reinos mágicos, caos doméstico o escapadas en el vecindario.",
       "La pista está en los ingredientes recurrentes que imitan los fanáticos: voces, eslóganes, compinches, villanos y chistes imposibles."
-    ]
+    ],
+    "tmdb_id": 656,
+    "media_type": "tv"
   },
   {
-    "celebrity": "Ben 10 68295",
+    "celebrity": "Ben 10",
     "gender": "",
     "facts": [
       "Sus pistas se basan en las formas de los personajes, el ritmo cómico, el escenario y los chistes visuales repetibles.",
       "Piense en la configuración de dibujos animados que construye: trabajos ocasionales, reinos mágicos, caos doméstico o escapadas en el vecindario.",
       "La pista está en los ingredientes recurrentes que imitan los fanáticos: voces, eslóganes, compinches, villanos y chistes imposibles."
-    ]
+    ],
+    "tmdb_id": 68295,
+    "media_type": "tv"
   },
   {
     "celebrity": "Sonic Prime",
@@ -663,16 +809,20 @@
       "Sus pistas se basan en las formas de los personajes, el ritmo cómico, el escenario y los chistes visuales repetibles.",
       "Piense en la configuración de dibujos animados que construye: trabajos ocasionales, reinos mágicos, caos doméstico o escapadas en el vecindario.",
       "La pista está en los ingredientes recurrentes que imitan los fanáticos: voces, eslóganes, compinches, villanos y chistes imposibles."
-    ]
+    ],
+    "tmdb_id": 115577,
+    "media_type": "tv"
   },
   {
-    "celebrity": "Dug Days",
+    "celebrity": "Dug y Carl",
     "gender": "",
     "facts": [
       "Sus pistas se basan en las formas de los personajes, el ritmo cómico, el escenario y los chistes visuales repetibles.",
       "Piense en la configuración de dibujos animados que construye: trabajos ocasionales, reinos mágicos, caos doméstico o escapadas en el vecindario.",
       "La pista está en los ingredientes recurrentes que imitan los fanáticos: voces, eslóganes, compinches, villanos y chistes imposibles."
-    ]
+    ],
+    "tmdb_id": 114501,
+    "media_type": "tv"
   },
   {
     "celebrity": "Wordgirl",
@@ -681,115 +831,141 @@
       "Sus pistas se basan en las formas de los personajes, el ritmo cómico, el escenario y los chistes visuales repetibles.",
       "Piense en la configuración de dibujos animados que construye: trabajos ocasionales, reinos mágicos, caos doméstico o escapadas en el vecindario.",
       "La pista está en los ingredientes recurrentes que imitan los fanáticos: voces, eslóganes, compinches, villanos y chistes imposibles."
-    ]
+    ],
+    "tmdb_id": 14511,
+    "media_type": "tv"
   },
   {
-    "celebrity": "Tiny Toon Adventures",
+    "celebrity": "Las aventuras de los Tiny Toon",
     "gender": "",
     "facts": [
       "Sus pistas se basan en las formas de los personajes, el ritmo cómico, el escenario y los chistes visuales repetibles.",
       "Piense en la configuración de dibujos animados que construye: trabajos ocasionales, reinos mágicos, caos doméstico o escapadas en el vecindario.",
       "La pista está en los ingredientes recurrentes que imitan los fanáticos: voces, eslóganes, compinches, villanos y chistes imposibles."
-    ]
+    ],
+    "tmdb_id": 1830,
+    "media_type": "tv"
   },
   {
-    "celebrity": "Secret Level",
+    "celebrity": "El nivel secreto",
     "gender": "",
     "facts": [
       "Sus pistas se basan en las formas de los personajes, el ritmo cómico, el escenario y los chistes visuales repetibles.",
       "Piense en la configuración de dibujos animados que construye: trabajos ocasionales, reinos mágicos, caos doméstico o escapadas en el vecindario.",
       "La pista está en los ingredientes recurrentes que imitan los fanáticos: voces, eslóganes, compinches, villanos y chistes imposibles."
-    ]
+    ],
+    "tmdb_id": 261579,
+    "media_type": "tv"
   },
   {
-    "celebrity": "Back at the Barnyard",
+    "celebrity": "La granja",
     "gender": "",
     "facts": [
       "Sus pistas se basan en las formas de los personajes, el ritmo cómico, el escenario y los chistes visuales repetibles.",
       "Piense en la configuración de dibujos animados que construye: trabajos ocasionales, reinos mágicos, caos doméstico o escapadas en el vecindario.",
       "La pista está en los ingredientes recurrentes que imitan los fanáticos: voces, eslóganes, compinches, villanos y chistes imposibles."
-    ]
+    ],
+    "tmdb_id": 9921,
+    "media_type": "tv"
   },
   {
-    "celebrity": "Fosters Home for Imaginary Friends",
+    "celebrity": "Mansión Foster para amigos imaginarios",
     "gender": "",
     "facts": [
       "Sus pistas se basan en las formas de los personajes, el ritmo cómico, el escenario y los chistes visuales repetibles.",
       "Piense en la configuración de dibujos animados que construye: trabajos ocasionales, reinos mágicos, caos doméstico o escapadas en el vecindario.",
       "La pista está en los ingredientes recurrentes que imitan los fanáticos: voces, eslóganes, compinches, villanos y chistes imposibles."
-    ]
+    ],
+    "tmdb_id": 1720,
+    "media_type": "tv"
   },
   {
-    "celebrity": "Recess",
+    "celebrity": "Recreo",
     "gender": "",
     "facts": [
       "Sus pistas se basan en las formas de los personajes, el ritmo cómico, el escenario y los chistes visuales repetibles.",
       "Piense en la configuración de dibujos animados que construye: trabajos ocasionales, reinos mágicos, caos doméstico o escapadas en el vecindario.",
       "La pista está en los ingredientes recurrentes que imitan los fanáticos: voces, eslóganes, compinches, villanos y chistes imposibles."
-    ]
+    ],
+    "tmdb_id": 1546,
+    "media_type": "tv"
   },
   {
-    "celebrity": "Take Two With Phineas and Ferb",
+    "celebrity": "Toma Dos con Phineas y Ferb",
     "gender": "",
     "facts": [
       "Sus pistas se basan en las formas de los personajes, el ritmo cómico, el escenario y los chistes visuales repetibles.",
       "Piense en la configuración de dibujos animados que construye: trabajos ocasionales, reinos mágicos, caos doméstico o escapadas en el vecindario.",
       "La pista está en los ingredientes recurrentes que imitan los fanáticos: voces, eslóganes, compinches, villanos y chistes imposibles."
-    ]
+    ],
+    "tmdb_id": 34406,
+    "media_type": "tv"
   },
   {
-    "celebrity": "The Mask Animated Series",
+    "celebrity": "La Máscara (serie animada)",
     "gender": "",
     "facts": [
       "Sus pistas se basan en las formas de los personajes, el ritmo cómico, el escenario y los chistes visuales repetibles.",
       "Piense en la configuración de dibujos animados que construye: trabajos ocasionales, reinos mágicos, caos doméstico o escapadas en el vecindario.",
       "La pista está en los ingredientes recurrentes que imitan los fanáticos: voces, eslóganes, compinches, villanos y chistes imposibles."
-    ]
+    ],
+    "tmdb_id": 9957,
+    "media_type": "tv"
   },
   {
-    "celebrity": "American Dragon Jake Long",
+    "celebrity": "Jake Long: El Dragón occidental",
     "gender": "",
     "facts": [
       "Sus pistas se basan en las formas de los personajes, el ritmo cómico, el escenario y los chistes visuales repetibles.",
       "Piense en la configuración de dibujos animados que construye: trabajos ocasionales, reinos mágicos, caos doméstico o escapadas en el vecindario.",
       "La pista está en los ingredientes recurrentes que imitan los fanáticos: voces, eslóganes, compinches, villanos y chistes imposibles."
-    ]
+    ],
+    "tmdb_id": 346,
+    "media_type": "tv"
   },
   {
-    "celebrity": "The Jetsons",
+    "celebrity": "Los supersónicos",
     "gender": "",
     "facts": [
       "Sus pistas se basan en las formas de los personajes, el ritmo cómico, el escenario y los chistes visuales repetibles.",
       "Piense en la configuración de dibujos animados que construye: trabajos ocasionales, reinos mágicos, caos doméstico o escapadas en el vecindario.",
       "La pista está en los ingredientes recurrentes que imitan los fanáticos: voces, eslóganes, compinches, villanos y chistes imposibles."
-    ]
+    ],
+    "tmdb_id": 2362,
+    "media_type": "tv"
   },
   {
-    "celebrity": "Victor and Valentino",
+    "celebrity": "Victor y Valentino",
     "gender": "",
     "facts": [
       "Sus pistas se basan en las formas de los personajes, el ritmo cómico, el escenario y los chistes visuales repetibles.",
       "Piense en la configuración de dibujos animados que construye: trabajos ocasionales, reinos mágicos, caos doméstico o escapadas en el vecindario.",
       "La pista está en los ingredientes recurrentes que imitan los fanáticos: voces, eslóganes, compinches, villanos y chistes imposibles."
-    ]
+    ],
+    "tmdb_id": 88786,
+    "media_type": "tv"
   },
   {
-    "celebrity": "I Am Groot",
+    "celebrity": "Yo soy Groot",
     "gender": "",
     "facts": [
       "Sus pistas se basan en las formas de los personajes, el ritmo cómico, el escenario y los chistes visuales repetibles.",
       "Piense en la configuración de dibujos animados que construye: trabajos ocasionales, reinos mágicos, caos doméstico o escapadas en el vecindario.",
       "La pista está en los ingredientes recurrentes que imitan los fanáticos: voces, eslóganes, compinches, villanos y chistes imposibles."
-    ]
+    ],
+    "tmdb_id": 232125,
+    "media_type": "tv"
   },
   {
-    "celebrity": "Invader Zim",
+    "celebrity": "Invasor Zim",
     "gender": "",
     "facts": [
       "Sus pistas se basan en las formas de los personajes, el ritmo cómico, el escenario y los chistes visuales repetibles.",
       "Piense en la configuración de dibujos animados que construye: trabajos ocasionales, reinos mágicos, caos doméstico o escapadas en el vecindario.",
       "La pista está en los ingredientes recurrentes que imitan los fanáticos: voces, eslóganes, compinches, villanos y chistes imposibles."
-    ]
+    ],
+    "tmdb_id": 3793,
+    "media_type": "tv"
   },
   {
     "celebrity": "Chowder",
@@ -798,79 +974,97 @@
       "Sus pistas se basan en las formas de los personajes, el ritmo cómico, el escenario y los chistes visuales repetibles.",
       "Piense en la configuración de dibujos animados que construye: trabajos ocasionales, reinos mágicos, caos doméstico o escapadas en el vecindario.",
       "La pista está en los ingredientes recurrentes que imitan los fanáticos: voces, eslóganes, compinches, villanos y chistes imposibles."
-    ]
+    ],
+    "tmdb_id": 9907,
+    "media_type": "tv"
   },
   {
-    "celebrity": "Beetlejuice",
+    "celebrity": "Bitelchús",
     "gender": "",
     "facts": [
       "Sus pistas se basan en las formas de los personajes, el ritmo cómico, el escenario y los chistes visuales repetibles.",
       "Piense en la configuración de dibujos animados que construye: trabajos ocasionales, reinos mágicos, caos doméstico o escapadas en el vecindario.",
       "La pista está en los ingredientes recurrentes que imitan los fanáticos: voces, eslóganes, compinches, villanos y chistes imposibles."
-    ]
+    ],
+    "tmdb_id": 4288,
+    "media_type": "tv"
   },
   {
-    "celebrity": "F Is for Family",
+    "celebrity": "F is for Family",
     "gender": "",
     "facts": [
       "Sus pistas se basan en las formas de los personajes, el ritmo cómico, el escenario y los chistes visuales repetibles.",
       "Piense en la configuración de dibujos animados que construye: trabajos ocasionales, reinos mágicos, caos doméstico o escapadas en el vecindario.",
       "La pista está en los ingredientes recurrentes que imitan los fanáticos: voces, eslóganes, compinches, villanos y chistes imposibles."
-    ]
+    ],
+    "tmdb_id": 63522,
+    "media_type": "tv"
   },
   {
-    "celebrity": "Jake and the Never Land Pirates",
+    "celebrity": "Jake and the Neverland Pirates",
     "gender": "",
     "facts": [
       "Sus pistas se basan en las formas de los personajes, el ritmo cómico, el escenario y los chistes visuales repetibles.",
       "Piense en la configuración de dibujos animados que construye: trabajos ocasionales, reinos mágicos, caos doméstico o escapadas en el vecindario.",
       "La pista está en los ingredientes recurrentes que imitan los fanáticos: voces, eslóganes, compinches, villanos y chistes imposibles."
-    ]
+    ],
+    "tmdb_id": 34891,
+    "media_type": "tv"
   },
   {
-    "celebrity": "Barbie Life in the Dreamhouse",
+    "celebrity": "Barbie - La casa de tus sueños",
     "gender": "",
     "facts": [
       "Sus pistas se basan en las formas de los personajes, el ritmo cómico, el escenario y los chistes visuales repetibles.",
       "Piense en la configuración de dibujos animados que construye: trabajos ocasionales, reinos mágicos, caos doméstico o escapadas en el vecindario.",
       "La pista está en los ingredientes recurrentes que imitan los fanáticos: voces, eslóganes, compinches, villanos y chistes imposibles."
-    ]
+    ],
+    "tmdb_id": 61838,
+    "media_type": "tv"
   },
   {
-    "celebrity": "Aaahh Real Monsters",
+    "celebrity": "Aaahh!!! Monstruos de verdad",
     "gender": "",
     "facts": [
       "Sus pistas se basan en las formas de los personajes, el ritmo cómico, el escenario y los chistes visuales repetibles.",
       "Piense en la configuración de dibujos animados que construye: trabajos ocasionales, reinos mágicos, caos doméstico o escapadas en el vecindario.",
       "La pista está en los ingredientes recurrentes que imitan los fanáticos: voces, eslóganes, compinches, villanos y chistes imposibles."
-    ]
+    ],
+    "tmdb_id": 2429,
+    "media_type": "tv"
   },
   {
-    "celebrity": "Inspector Gadget",
+    "celebrity": "El inspector Gadget",
     "gender": "",
     "facts": [
       "Sus pistas se basan en las formas de los personajes, el ritmo cómico, el escenario y los chistes visuales repetibles.",
       "Piense en la configuración de dibujos animados que construye: trabajos ocasionales, reinos mágicos, caos doméstico o escapadas en el vecindario.",
       "La pista está en los ingredientes recurrentes que imitan los fanáticos: voces, eslóganes, compinches, villanos y chistes imposibles."
-    ]
+    ],
+    "tmdb_id": 4035,
+    "media_type": "tv"
   },
   {
-    "celebrity": "Generator Rex",
+    "celebrity": "Generador Rex",
     "gender": "",
     "facts": [
       "Sus pistas se basan en las formas de los personajes, el ritmo cómico, el escenario y los chistes visuales repetibles.",
       "Piense en la configuración de dibujos animados que construye: trabajos ocasionales, reinos mágicos, caos doméstico o escapadas en el vecindario.",
       "La pista está en los ingredientes recurrentes que imitan los fanáticos: voces, eslóganes, compinches, villanos y chistes imposibles."
-    ]
+    ],
+    "tmdb_id": 32118,
+    "media_type": "tv"
   },
   {
-    "celebrity": "Scavengers Reign",
+    "celebrity": "Planeta de Recolectores",
     "gender": "",
     "facts": [
       "Sus pistas se basan en las formas de los personajes, el ritmo cómico, el escenario y los chistes visuales repetibles.",
       "Piense en la configuración de dibujos animados que construye: trabajos ocasionales, reinos mágicos, caos doméstico o escapadas en el vecindario.",
       "La pista está en los ingredientes recurrentes que imitan los fanáticos: voces, eslóganes, compinches, villanos y chistes imposibles."
-    ]
+    ],
+    "tmdb_id": 204154,
+    "media_type": "tv"
   },
   {
     "celebrity": "Krapopolis",
@@ -879,52 +1073,64 @@
       "Sus pistas se basan en las formas de los personajes, el ritmo cómico, el escenario y los chistes visuales repetibles.",
       "Piense en la configuración de dibujos animados que construye: trabajos ocasionales, reinos mágicos, caos doméstico o escapadas en el vecindario.",
       "La pista está en los ingredientes recurrentes que imitan los fanáticos: voces, eslóganes, compinches, villanos y chistes imposibles."
-    ]
+    ],
+    "tmdb_id": 131033,
+    "media_type": "tv"
   },
   {
-    "celebrity": "The Marvelous Misadventures of Flapjack",
+    "celebrity": "Las maravillosas desventuras de Flapjack",
     "gender": "",
     "facts": [
       "Sus pistas se basan en las formas de los personajes, el ritmo cómico, el escenario y los chistes visuales repetibles.",
       "Piense en la configuración de dibujos animados que construye: trabajos ocasionales, reinos mágicos, caos doméstico o escapadas en el vecindario.",
       "La pista está en los ingredientes recurrentes que imitan los fanáticos: voces, eslóganes, compinches, villanos y chistes imposibles."
-    ]
+    ],
+    "tmdb_id": 6673,
+    "media_type": "tv"
   },
   {
-    "celebrity": "Masters of the Universe Revelation",
+    "celebrity": "Amos del Universo: Revelación",
     "gender": "",
     "facts": [
       "Sus pistas se basan en las formas de los personajes, el ritmo cómico, el escenario y los chistes visuales repetibles.",
       "Piense en la configuración de dibujos animados que construye: trabajos ocasionales, reinos mágicos, caos doméstico o escapadas en el vecindario.",
       "La pista está en los ingredientes recurrentes que imitan los fanáticos: voces, eslóganes, compinches, villanos y chistes imposibles."
-    ]
+    ],
+    "tmdb_id": 96658,
+    "media_type": "tv"
   },
   {
-    "celebrity": "The Cuphead Show",
+    "celebrity": "¡El show de Cuphead!",
     "gender": "",
     "facts": [
       "Sus pistas se basan en las formas de los personajes, el ritmo cómico, el escenario y los chistes visuales repetibles.",
       "Piense en la configuración de dibujos animados que construye: trabajos ocasionales, reinos mágicos, caos doméstico o escapadas en el vecindario.",
       "La pista está en los ingredientes recurrentes que imitan los fanáticos: voces, eslóganes, compinches, villanos y chistes imposibles."
-    ]
+    ],
+    "tmdb_id": 103786,
+    "media_type": "tv"
   },
   {
-    "celebrity": "Top Cat",
+    "celebrity": "Don Gato y su Pandilla",
     "gender": "",
     "facts": [
       "Sus pistas se basan en las formas de los personajes, el ritmo cómico, el escenario y los chistes visuales repetibles.",
       "Piense en la configuración de dibujos animados que construye: trabajos ocasionales, reinos mágicos, caos doméstico o escapadas en el vecindario.",
       "La pista está en los ingredientes recurrentes que imitan los fanáticos: voces, eslóganes, compinches, villanos y chistes imposibles."
-    ]
+    ],
+    "tmdb_id": 4232,
+    "media_type": "tv"
   },
   {
-    "celebrity": "The Adventures of Tintin",
+    "celebrity": "Las aventuras de Tintín",
     "gender": "",
     "facts": [
       "Sus pistas se basan en las formas de los personajes, el ritmo cómico, el escenario y los chistes visuales repetibles.",
       "Piense en la configuración de dibujos animados que construye: trabajos ocasionales, reinos mágicos, caos doméstico o escapadas en el vecindario.",
       "La pista está en los ingredientes recurrentes que imitan los fanáticos: voces, eslóganes, compinches, villanos y chistes imposibles."
-    ]
+    ],
+    "tmdb_id": 1570,
+    "media_type": "tv"
   },
   {
     "celebrity": "Sonic Boom",
@@ -933,7 +1139,9 @@
       "Sus pistas se basan en las formas de los personajes, el ritmo cómico, el escenario y los chistes visuales repetibles.",
       "Piense en la configuración de dibujos animados que construye: trabajos ocasionales, reinos mágicos, caos doméstico o escapadas en el vecindario.",
       "La pista está en los ingredientes recurrentes que imitan los fanáticos: voces, eslóganes, compinches, villanos y chistes imposibles."
-    ]
+    ],
+    "tmdb_id": 62211,
+    "media_type": "tv"
   },
   {
     "celebrity": "Bubble Guppies",
@@ -942,25 +1150,31 @@
       "Sus pistas se basan en las formas de los personajes, el ritmo cómico, el escenario y los chistes visuales repetibles.",
       "Piense en la configuración de dibujos animados que construye: trabajos ocasionales, reinos mágicos, caos doméstico o escapadas en el vecindario.",
       "La pista está en los ingredientes recurrentes que imitan los fanáticos: voces, eslóganes, compinches, villanos y chistes imposibles."
-    ]
+    ],
+    "tmdb_id": 39107,
+    "media_type": "tv"
   },
   {
-    "celebrity": "The Garfield Show",
+    "celebrity": "El show de Garfield",
     "gender": "",
     "facts": [
       "Sus pistas se basan en las formas de los personajes, el ritmo cómico, el escenario y los chistes visuales repetibles.",
       "Piense en la configuración de dibujos animados que construye: trabajos ocasionales, reinos mágicos, caos doméstico o escapadas en el vecindario.",
       "La pista está en los ingredientes recurrentes que imitan los fanáticos: voces, eslóganes, compinches, villanos y chistes imposibles."
-    ]
+    ],
+    "tmdb_id": 18352,
+    "media_type": "tv"
   },
   {
-    "celebrity": "Silverhawks",
+    "celebrity": "Los Halcones Galacticos",
     "gender": "",
     "facts": [
       "Sus pistas se basan en las formas de los personajes, el ritmo cómico, el escenario y los chistes visuales repetibles.",
       "Piense en la configuración de dibujos animados que construye: trabajos ocasionales, reinos mágicos, caos doméstico o escapadas en el vecindario.",
       "La pista está en los ingredientes recurrentes que imitan los fanáticos: voces, eslóganes, compinches, villanos y chistes imposibles."
-    ]
+    ],
+    "tmdb_id": 12504,
+    "media_type": "tv"
   },
   {
     "celebrity": "Pound Puppies",
@@ -969,7 +1183,9 @@
       "Sus pistas se basan en las formas de los personajes, el ritmo cómico, el escenario y los chistes visuales repetibles.",
       "Piense en la configuración de dibujos animados que construye: trabajos ocasionales, reinos mágicos, caos doméstico o escapadas en el vecindario.",
       "La pista está en los ingredientes recurrentes que imitan los fanáticos: voces, eslóganes, compinches, villanos y chistes imposibles."
-    ]
+    ],
+    "tmdb_id": 33955,
+    "media_type": "tv"
   },
   {
     "celebrity": "Maya and the Three",
@@ -978,16 +1194,20 @@
       "Sus pistas se basan en las formas de los personajes, el ritmo cómico, el escenario y los chistes visuales repetibles.",
       "Piense en la configuración de dibujos animados que construye: trabajos ocasionales, reinos mágicos, caos doméstico o escapadas en el vecindario.",
       "La pista está en los ingredientes recurrentes que imitan los fanáticos: voces, eslóganes, compinches, villanos y chistes imposibles."
-    ]
+    ],
+    "tmdb_id": 132141,
+    "media_type": "tv"
   },
   {
-    "celebrity": "Scooby Doo and Scrappy Doo",
+    "celebrity": "El show de Scooby-Doo y Scrappy-Doo",
     "gender": "",
     "facts": [
       "Sus pistas se basan en las formas de los personajes, el ritmo cómico, el escenario y los chistes visuales repetibles.",
       "Piense en la configuración de dibujos animados que construye: trabajos ocasionales, reinos mágicos, caos doméstico o escapadas en el vecindario.",
       "La pista está en los ingredientes recurrentes que imitan los fanáticos: voces, eslóganes, compinches, villanos y chistes imposibles."
-    ]
+    ],
+    "tmdb_id": 6005,
+    "media_type": "tv"
   },
   {
     "celebrity": "Caillou",
@@ -996,16 +1216,20 @@
       "Sus pistas se basan en las formas de los personajes, el ritmo cómico, el escenario y los chistes visuales repetibles.",
       "Piense en la configuración de dibujos animados que construye: trabajos ocasionales, reinos mágicos, caos doméstico o escapadas en el vecindario.",
       "La pista está en los ingredientes recurrentes que imitan los fanáticos: voces, eslóganes, compinches, villanos y chistes imposibles."
-    ]
+    ],
+    "tmdb_id": 3218,
+    "media_type": "tv"
   },
   {
-    "celebrity": "Kid Vs Kat",
+    "celebrity": "Kid Vs. Kat",
     "gender": "",
     "facts": [
       "Sus pistas se basan en las formas de los personajes, el ritmo cómico, el escenario y los chistes visuales repetibles.",
       "Piense en la configuración de dibujos animados que construye: trabajos ocasionales, reinos mágicos, caos doméstico o escapadas en el vecindario.",
       "La pista está en los ingredientes recurrentes que imitan los fanáticos: voces, eslóganes, compinches, villanos y chistes imposibles."
-    ]
+    ],
+    "tmdb_id": 17463,
+    "media_type": "tv"
   },
   {
     "celebrity": "Wow Wow Wubbzy",
@@ -1014,7 +1238,9 @@
       "Sus pistas se basan en las formas de los personajes, el ritmo cómico, el escenario y los chistes visuales repetibles.",
       "Piense en la configuración de dibujos animados que construye: trabajos ocasionales, reinos mágicos, caos doméstico o escapadas en el vecindario.",
       "La pista está en los ingredientes recurrentes que imitan los fanáticos: voces, eslóganes, compinches, villanos y chistes imposibles."
-    ]
+    ],
+    "tmdb_id": 1346,
+    "media_type": "tv"
   },
   {
     "celebrity": "Apex Legends",
@@ -1023,52 +1249,64 @@
       "Sus pistas se basan en las formas de los personajes, el ritmo cómico, el escenario y los chistes visuales repetibles.",
       "Piense en la configuración de dibujos animados que construye: trabajos ocasionales, reinos mágicos, caos doméstico o escapadas en el vecindario.",
       "La pista está en los ingredientes recurrentes que imitan los fanáticos: voces, eslóganes, compinches, villanos y chistes imposibles."
-    ]
+    ],
+    "tmdb_id": 299141,
+    "media_type": "tv"
   },
   {
-    "celebrity": "Beast Wars Transformers",
+    "celebrity": "Transformers: La Guerra de Bestias",
     "gender": "",
     "facts": [
       "Sus pistas se basan en las formas de los personajes, el ritmo cómico, el escenario y los chistes visuales repetibles.",
       "Piense en la configuración de dibujos animados que construye: trabajos ocasionales, reinos mágicos, caos doméstico o escapadas en el vecindario.",
       "La pista está en los ingredientes recurrentes que imitan los fanáticos: voces, eslóganes, compinches, villanos y chistes imposibles."
-    ]
+    ],
+    "tmdb_id": 958,
+    "media_type": "tv"
   },
   {
-    "celebrity": "Octonauts",
+    "celebrity": "Octonautas",
     "gender": "",
     "facts": [
       "Sus pistas se basan en las formas de los personajes, el ritmo cómico, el escenario y los chistes visuales repetibles.",
       "Piense en la configuración de dibujos animados que construye: trabajos ocasionales, reinos mágicos, caos doméstico o escapadas en el vecindario.",
       "La pista está en los ingredientes recurrentes que imitan los fanáticos: voces, eslóganes, compinches, villanos y chistes imposibles."
-    ]
+    ],
+    "tmdb_id": 37472,
+    "media_type": "tv"
   },
   {
-    "celebrity": "Big City Greens",
+    "celebrity": "Los vecinos Green",
     "gender": "",
     "facts": [
       "Sus pistas se basan en las formas de los personajes, el ritmo cómico, el escenario y los chistes visuales repetibles.",
       "Piense en la configuración de dibujos animados que construye: trabajos ocasionales, reinos mágicos, caos doméstico o escapadas en el vecindario.",
       "La pista está en los ingredientes recurrentes que imitan los fanáticos: voces, eslóganes, compinches, villanos y chistes imposibles."
-    ]
+    ],
+    "tmdb_id": 80587,
+    "media_type": "tv"
   },
   {
-    "celebrity": "Infinity Train",
+    "celebrity": "El tren infinito",
     "gender": "",
     "facts": [
       "Sus pistas se basan en las formas de los personajes, el ritmo cómico, el escenario y los chistes visuales repetibles.",
       "Piense en la configuración de dibujos animados que construye: trabajos ocasionales, reinos mágicos, caos doméstico o escapadas en el vecindario.",
       "La pista está en los ingredientes recurrentes que imitan los fanáticos: voces, eslóganes, compinches, villanos y chistes imposibles."
-    ]
+    ],
+    "tmdb_id": 91425,
+    "media_type": "tv"
   },
   {
-    "celebrity": "Baby Looney Tunes",
+    "celebrity": "Los Pequeños Looney Tunes",
     "gender": "",
     "facts": [
       "Sus pistas se basan en las formas de los personajes, el ritmo cómico, el escenario y los chistes visuales repetibles.",
       "Piense en la configuración de dibujos animados que construye: trabajos ocasionales, reinos mágicos, caos doméstico o escapadas en el vecindario.",
       "La pista está en los ingredientes recurrentes que imitan los fanáticos: voces, eslóganes, compinches, villanos y chistes imposibles."
-    ]
+    ],
+    "tmdb_id": 670,
+    "media_type": "tv"
   },
   {
     "celebrity": "Rocket Power",
@@ -1077,16 +1315,20 @@
       "Sus pistas se basan en las formas de los personajes, el ritmo cómico, el escenario y los chistes visuales repetibles.",
       "Piense en la configuración de dibujos animados que construye: trabajos ocasionales, reinos mágicos, caos doméstico o escapadas en el vecindario.",
       "La pista está en los ingredientes recurrentes que imitan los fanáticos: voces, eslóganes, compinches, villanos y chistes imposibles."
-    ]
+    ],
+    "tmdb_id": 2009,
+    "media_type": "tv"
   },
   {
-    "celebrity": "Dawn of the Croods",
+    "celebrity": "El amanecer de los Croods",
     "gender": "",
     "facts": [
       "Sus pistas se basan en las formas de los personajes, el ritmo cómico, el escenario y los chistes visuales repetibles.",
       "Piense en la configuración de dibujos animados que construye: trabajos ocasionales, reinos mágicos, caos doméstico o escapadas en el vecindario.",
       "La pista está en los ingredientes recurrentes que imitan los fanáticos: voces, eslóganes, compinches, villanos y chistes imposibles."
-    ]
+    ],
+    "tmdb_id": 64783,
+    "media_type": "tv"
   },
   {
     "celebrity": "Villainous",
@@ -1095,70 +1337,86 @@
       "Sus pistas se basan en las formas de los personajes, el ritmo cómico, el escenario y los chistes visuales repetibles.",
       "Piense en la configuración de dibujos animados que construye: trabajos ocasionales, reinos mágicos, caos doméstico o escapadas en el vecindario.",
       "La pista está en los ingredientes recurrentes que imitan los fanáticos: voces, eslóganes, compinches, villanos y chistes imposibles."
-    ]
+    ],
+    "tmdb_id": 98214,
+    "media_type": "tv"
   },
   {
-    "celebrity": "Rockos Modern Life",
+    "celebrity": "La vida moderna de Rocko",
     "gender": "",
     "facts": [
       "Sus pistas se basan en las formas de los personajes, el ritmo cómico, el escenario y los chistes visuales repetibles.",
       "Piense en la configuración de dibujos animados que construye: trabajos ocasionales, reinos mágicos, caos doméstico o escapadas en el vecindario.",
       "La pista está en los ingredientes recurrentes que imitan los fanáticos: voces, eslóganes, compinches, villanos y chistes imposibles."
-    ]
+    ],
+    "tmdb_id": 657,
+    "media_type": "tv"
   },
   {
-    "celebrity": "The Patrick Star Show",
+    "celebrity": "El Show de Patricio Estrella",
     "gender": "",
     "facts": [
       "Sus pistas se basan en las formas de los personajes, el ritmo cómico, el escenario y los chistes visuales repetibles.",
       "Piense en la configuración de dibujos animados que construye: trabajos ocasionales, reinos mágicos, caos doméstico o escapadas en el vecindario.",
       "La pista está en los ingredientes recurrentes que imitan los fanáticos: voces, eslóganes, compinches, villanos y chistes imposibles."
-    ]
+    ],
+    "tmdb_id": 126824,
+    "media_type": "tv"
   },
   {
-    "celebrity": "All Hail King Julien",
+    "celebrity": "Viva el rey Julien",
     "gender": "",
     "facts": [
       "Sus pistas se basan en las formas de los personajes, el ritmo cómico, el escenario y los chistes visuales repetibles.",
       "Piense en la configuración de dibujos animados que construye: trabajos ocasionales, reinos mágicos, caos doméstico o escapadas en el vecindario.",
       "La pista está en los ingredientes recurrentes que imitan los fanáticos: voces, eslóganes, compinches, villanos y chistes imposibles."
-    ]
+    ],
+    "tmdb_id": 61751,
+    "media_type": "tv"
   },
   {
-    "celebrity": "Uncle Grandpa",
+    "celebrity": "Tío Grandpa",
     "gender": "",
     "facts": [
       "Sus pistas se basan en las formas de los personajes, el ritmo cómico, el escenario y los chistes visuales repetibles.",
       "Piense en la configuración de dibujos animados que construye: trabajos ocasionales, reinos mágicos, caos doméstico o escapadas en el vecindario.",
       "La pista está en los ingredientes recurrentes que imitan los fanáticos: voces, eslóganes, compinches, villanos y chistes imposibles."
-    ]
+    ],
+    "tmdb_id": 47035,
+    "media_type": "tv"
   },
   {
-    "celebrity": "Rock Paper Scissors",
+    "celebrity": "Piedra, Papel, Tijera",
     "gender": "",
     "facts": [
       "Sus pistas se basan en las formas de los personajes, el ritmo cómico, el escenario y los chistes visuales repetibles.",
       "Piense en la configuración de dibujos animados que construye: trabajos ocasionales, reinos mágicos, caos doméstico o escapadas en el vecindario.",
       "La pista está en los ingredientes recurrentes que imitan los fanáticos: voces, eslóganes, compinches, villanos y chistes imposibles."
-    ]
+    ],
+    "tmdb_id": 204024,
+    "media_type": "tv"
   },
   {
-    "celebrity": "Dragons the Nine Realms",
+    "celebrity": "Dragones: Los Nueve Reinos",
     "gender": "",
     "facts": [
       "Sus pistas se basan en las formas de los personajes, el ritmo cómico, el escenario y los chistes visuales repetibles.",
       "Piense en la configuración de dibujos animados que construye: trabajos ocasionales, reinos mágicos, caos doméstico o escapadas en el vecindario.",
       "La pista está en los ingredientes recurrentes que imitan los fanáticos: voces, eslóganes, compinches, villanos y chistes imposibles."
-    ]
+    ],
+    "tmdb_id": 136322,
+    "media_type": "tv"
   },
   {
-    "celebrity": "Common Side Effects",
+    "celebrity": "Efectos secundarios",
     "gender": "",
     "facts": [
       "Sus pistas se basan en las formas de los personajes, el ritmo cómico, el escenario y los chistes visuales repetibles.",
       "Piense en la configuración de dibujos animados que construye: trabajos ocasionales, reinos mágicos, caos doméstico o escapadas en el vecindario.",
       "La pista está en los ingredientes recurrentes que imitan los fanáticos: voces, eslóganes, compinches, villanos y chistes imposibles."
-    ]
+    ],
+    "tmdb_id": 228878,
+    "media_type": "tv"
   },
   {
     "celebrity": "Duncanville",
@@ -1167,52 +1425,64 @@
       "Sus pistas se basan en las formas de los personajes, el ritmo cómico, el escenario y los chistes visuales repetibles.",
       "Piense en la configuración de dibujos animados que construye: trabajos ocasionales, reinos mágicos, caos doméstico o escapadas en el vecindario.",
       "La pista está en los ingredientes recurrentes que imitan los fanáticos: voces, eslóganes, compinches, villanos y chistes imposibles."
-    ]
+    ],
+    "tmdb_id": 93292,
+    "media_type": "tv"
   },
   {
-    "celebrity": "Total Drama Island",
+    "celebrity": "Isla del drama",
     "gender": "",
     "facts": [
       "Sus pistas se basan en las formas de los personajes, el ritmo cómico, el escenario y los chistes visuales repetibles.",
       "Piense en la configuración de dibujos animados que construye: trabajos ocasionales, reinos mágicos, caos doméstico o escapadas en el vecindario.",
       "La pista está en los ingredientes recurrentes que imitan los fanáticos: voces, eslóganes, compinches, villanos y chistes imposibles."
-    ]
+    ],
+    "tmdb_id": 6618,
+    "media_type": "tv"
   },
   {
-    "celebrity": "This World Cant Tear Me Down",
+    "celebrity": "Este mundo no me hará mala persona",
     "gender": "",
     "facts": [
       "Sus pistas se basan en las formas de los personajes, el ritmo cómico, el escenario y los chistes visuales repetibles.",
       "Piense en la configuración de dibujos animados que construye: trabajos ocasionales, reinos mágicos, caos doméstico o escapadas en el vecindario.",
       "La pista está en los ingredientes recurrentes que imitan los fanáticos: voces, eslóganes, compinches, villanos y chistes imposibles."
-    ]
+    ],
+    "tmdb_id": 214603,
+    "media_type": "tv"
   },
   {
-    "celebrity": "Dungeons Dragons",
+    "celebrity": "Calabozos y Dragones",
     "gender": "",
     "facts": [
       "Sus pistas se basan en las formas de los personajes, el ritmo cómico, el escenario y los chistes visuales repetibles.",
       "Piense en la configuración de dibujos animados que construye: trabajos ocasionales, reinos mágicos, caos doméstico o escapadas en el vecindario.",
       "La pista está en los ingredientes recurrentes que imitan los fanáticos: voces, eslóganes, compinches, villanos y chistes imposibles."
-    ]
+    ],
+    "tmdb_id": 553,
+    "media_type": "tv"
   },
   {
-    "celebrity": "Felix the Cat",
+    "celebrity": "El gato Félix",
     "gender": "",
     "facts": [
       "Sus pistas se basan en las formas de los personajes, el ritmo cómico, el escenario y los chistes visuales repetibles.",
       "Piense en la configuración de dibujos animados que construye: trabajos ocasionales, reinos mágicos, caos doméstico o escapadas en el vecindario.",
       "La pista está en los ingredientes recurrentes que imitan los fanáticos: voces, eslóganes, compinches, villanos y chistes imposibles."
-    ]
+    ],
+    "tmdb_id": 101512,
+    "media_type": "tv"
   },
   {
-    "celebrity": "Madagascar a Little Wild",
+    "celebrity": "Madagascar: Algo Salvaje",
     "gender": "",
     "facts": [
       "Sus pistas se basan en las formas de los personajes, el ritmo cómico, el escenario y los chistes visuales repetibles.",
       "Piense en la configuración de dibujos animados que construye: trabajos ocasionales, reinos mágicos, caos doméstico o escapadas en el vecindario.",
       "La pista está en los ingredientes recurrentes que imitan los fanáticos: voces, eslóganes, compinches, villanos y chistes imposibles."
-    ]
+    ],
+    "tmdb_id": 109330,
+    "media_type": "tv"
   },
   {
     "celebrity": "Mad",
@@ -1221,25 +1491,31 @@
       "Sus pistas se basan en las formas de los personajes, el ritmo cómico, el escenario y los chistes visuales repetibles.",
       "Piense en la configuración de dibujos animados que construye: trabajos ocasionales, reinos mágicos, caos doméstico o escapadas en el vecindario.",
       "La pista está en los ingredientes recurrentes que imitan los fanáticos: voces, eslóganes, compinches, villanos y chistes imposibles."
-    ]
+    ],
+    "tmdb_id": 33428,
+    "media_type": "tv"
   },
   {
-    "celebrity": "Star Wars Young Jedi Adventures",
+    "celebrity": "Star Wars: Las aventuras de jóvenes Jedi",
     "gender": "",
     "facts": [
       "Sus pistas se basan en las formas de los personajes, el ritmo cómico, el escenario y los chistes visuales repetibles.",
       "Piense en la configuración de dibujos animados que construye: trabajos ocasionales, reinos mágicos, caos doméstico o escapadas en el vecindario.",
       "La pista está en los ingredientes recurrentes que imitan los fanáticos: voces, eslóganes, compinches, villanos y chistes imposibles."
-    ]
+    ],
+    "tmdb_id": 202998,
+    "media_type": "tv"
   },
   {
-    "celebrity": "Dennis the Menace",
+    "celebrity": "Daniel el travieso",
     "gender": "",
     "facts": [
       "Sus pistas se basan en las formas de los personajes, el ritmo cómico, el escenario y los chistes visuales repetibles.",
       "Piense en la configuración de dibujos animados que construye: trabajos ocasionales, reinos mágicos, caos doméstico o escapadas en el vecindario.",
       "La pista está en los ingredientes recurrentes que imitan los fanáticos: voces, eslóganes, compinches, villanos y chistes imposibles."
-    ]
+    ],
+    "tmdb_id": 9985,
+    "media_type": "tv"
   },
   {
     "celebrity": "The Great North",
@@ -1248,16 +1524,20 @@
       "Sus pistas se basan en las formas de los personajes, el ritmo cómico, el escenario y los chistes visuales repetibles.",
       "Piense en la configuración de dibujos animados que construye: trabajos ocasionales, reinos mágicos, caos doméstico o escapadas en el vecindario.",
       "La pista está en los ingredientes recurrentes que imitan los fanáticos: voces, eslóganes, compinches, villanos y chistes imposibles."
-    ]
+    ],
+    "tmdb_id": 93221,
+    "media_type": "tv"
   },
   {
-    "celebrity": "Wander Over Yonder",
+    "celebrity": "Galaxia Wander",
     "gender": "",
     "facts": [
       "Sus pistas se basan en las formas de los personajes, el ritmo cómico, el escenario y los chistes visuales repetibles.",
       "Piense en la configuración de dibujos animados que construye: trabajos ocasionales, reinos mágicos, caos doméstico o escapadas en el vecindario.",
       "La pista está en los ingredientes recurrentes que imitan los fanáticos: voces, eslóganes, compinches, villanos y chistes imposibles."
-    ]
+    ],
+    "tmdb_id": 45013,
+    "media_type": "tv"
   },
   {
     "celebrity": "Brickleberry",
@@ -1266,16 +1546,20 @@
       "Sus pistas se basan en las formas de los personajes, el ritmo cómico, el escenario y los chistes visuales repetibles.",
       "Piense en la configuración de dibujos animados que construye: trabajos ocasionales, reinos mágicos, caos doméstico o escapadas en el vecindario.",
       "La pista está en los ingredientes recurrentes que imitan los fanáticos: voces, eslóganes, compinches, villanos y chistes imposibles."
-    ]
+    ],
+    "tmdb_id": 44169,
+    "media_type": "tv"
   },
   {
-    "celebrity": "The Angry Beavers",
+    "celebrity": "Los Castores Cascarrabias",
     "gender": "",
     "facts": [
       "Sus pistas se basan en las formas de los personajes, el ritmo cómico, el escenario y los chistes visuales repetibles.",
       "Piense en la configuración de dibujos animados que construye: trabajos ocasionales, reinos mágicos, caos doméstico o escapadas en el vecindario.",
       "La pista está en los ingredientes recurrentes que imitan los fanáticos: voces, eslóganes, compinches, villanos y chistes imposibles."
-    ]
+    ],
+    "tmdb_id": 3579,
+    "media_type": "tv"
   },
   {
     "celebrity": "Johnny Test",
@@ -1284,34 +1568,42 @@
       "Sus pistas se basan en las formas de los personajes, el ritmo cómico, el escenario y los chistes visuales repetibles.",
       "Piense en la configuración de dibujos animados que construye: trabajos ocasionales, reinos mágicos, caos doméstico o escapadas en el vecindario.",
       "La pista está en los ingredientes recurrentes que imitan los fanáticos: voces, eslóganes, compinches, villanos y chistes imposibles."
-    ]
+    ],
+    "tmdb_id": 1769,
+    "media_type": "tv"
   },
   {
-    "celebrity": "Pj Masks",
+    "celebrity": "PJ Masks: Héroes en pijamas",
     "gender": "",
     "facts": [
       "Sus pistas se basan en las formas de los personajes, el ritmo cómico, el escenario y los chistes visuales repetibles.",
       "Piense en la configuración de dibujos animados que construye: trabajos ocasionales, reinos mágicos, caos doméstico o escapadas en el vecindario.",
       "La pista está en los ingredientes recurrentes que imitan los fanáticos: voces, eslóganes, compinches, villanos y chistes imposibles."
-    ]
+    ],
+    "tmdb_id": 65417,
+    "media_type": "tv"
   },
   {
-    "celebrity": "Rabbids Invasion",
+    "celebrity": "Rabbids: la invasión",
     "gender": "",
     "facts": [
       "Sus pistas se basan en las formas de los personajes, el ritmo cómico, el escenario y los chistes visuales repetibles.",
       "Piense en la configuración de dibujos animados que construye: trabajos ocasionales, reinos mágicos, caos doméstico o escapadas en el vecindario.",
       "La pista está en los ingredientes recurrentes que imitan los fanáticos: voces, eslóganes, compinches, villanos y chistes imposibles."
-    ]
+    ],
+    "tmdb_id": 62201,
+    "media_type": "tv"
   },
   {
-    "celebrity": "The Yogi Bear Show",
+    "celebrity": "El oso Yogui",
     "gender": "",
     "facts": [
       "Sus pistas se basan en las formas de los personajes, el ritmo cómico, el escenario y los chistes visuales repetibles.",
       "Piense en la configuración de dibujos animados que construye: trabajos ocasionales, reinos mágicos, caos doméstico o escapadas en el vecindario.",
       "La pista está en los ingredientes recurrentes que imitan los fanáticos: voces, eslóganes, compinches, villanos y chistes imposibles."
-    ]
+    ],
+    "tmdb_id": 30773,
+    "media_type": "tv"
   },
   {
     "celebrity": "Mickey Mouse",
@@ -1320,43 +1612,53 @@
       "Sus pistas se basan en las formas de los personajes, el ritmo cómico, el escenario y los chistes visuales repetibles.",
       "Piense en la configuración de dibujos animados que construye: trabajos ocasionales, reinos mágicos, caos doméstico o escapadas en el vecindario.",
       "La pista está en los ingredientes recurrentes que imitan los fanáticos: voces, eslóganes, compinches, villanos y chistes imposibles."
-    ]
+    ],
+    "tmdb_id": 46879,
+    "media_type": "tv"
   },
   {
-    "celebrity": "Wacky Races",
+    "celebrity": "La Carrera de Los Autos Locos",
     "gender": "",
     "facts": [
       "Sus pistas se basan en las formas de los personajes, el ritmo cómico, el escenario y los chistes visuales repetibles.",
       "Piense en la configuración de dibujos animados que construye: trabajos ocasionales, reinos mágicos, caos doméstico o escapadas en el vecindario.",
       "La pista está en los ingredientes recurrentes que imitan los fanáticos: voces, eslóganes, compinches, villanos y chistes imposibles."
-    ]
+    ],
+    "tmdb_id": 74916,
+    "media_type": "tv"
   },
   {
-    "celebrity": "Kipo and the Age of Wonderbeasts",
+    "celebrity": "Kipo y la era de las bestias mágicas",
     "gender": "",
     "facts": [
       "Sus pistas se basan en las formas de los personajes, el ritmo cómico, el escenario y los chistes visuales repetibles.",
       "Piense en la configuración de dibujos animados que construye: trabajos ocasionales, reinos mágicos, caos doméstico o escapadas en el vecindario.",
       "La pista está en los ingredientes recurrentes que imitan los fanáticos: voces, eslóganes, compinches, villanos y chistes imposibles."
-    ]
+    ],
+    "tmdb_id": 95599,
+    "media_type": "tv"
   },
   {
-    "celebrity": "Xiaolin Showdown",
+    "celebrity": "Duelo Xiaolin",
     "gender": "",
     "facts": [
       "Sus pistas se basan en las formas de los personajes, el ritmo cómico, el escenario y los chistes visuales repetibles.",
       "Piense en la configuración de dibujos animados que construye: trabajos ocasionales, reinos mágicos, caos doméstico o escapadas en el vecindario.",
       "La pista está en los ingredientes recurrentes que imitan los fanáticos: voces, eslóganes, compinches, villanos y chistes imposibles."
-    ]
+    ],
+    "tmdb_id": 679,
+    "media_type": "tv"
   },
   {
-    "celebrity": "Wild Kratts",
+    "celebrity": "Aventuras con los Kratt",
     "gender": "",
     "facts": [
       "Sus pistas se basan en las formas de los personajes, el ritmo cómico, el escenario y los chistes visuales repetibles.",
       "Piense en la configuración de dibujos animados que construye: trabajos ocasionales, reinos mágicos, caos doméstico o escapadas en el vecindario.",
       "La pista está en los ingredientes recurrentes que imitan los fanáticos: voces, eslóganes, compinches, villanos y chistes imposibles."
-    ]
+    ],
+    "tmdb_id": 35094,
+    "media_type": "tv"
   },
   {
     "celebrity": "Hilda",
@@ -1365,25 +1667,31 @@
       "Sus pistas se basan en las formas de los personajes, el ritmo cómico, el escenario y los chistes visuales repetibles.",
       "Piense en la configuración de dibujos animados que construye: trabajos ocasionales, reinos mágicos, caos doméstico o escapadas en el vecindario.",
       "La pista está en los ingredientes recurrentes que imitan los fanáticos: voces, eslóganes, compinches, villanos y chistes imposibles."
-    ]
+    ],
+    "tmdb_id": 82456,
+    "media_type": "tv"
   },
   {
-    "celebrity": "Elena of Avalor",
+    "celebrity": "Elena de Avalor",
     "gender": "",
     "facts": [
       "Sus pistas se basan en las formas de los personajes, el ritmo cómico, el escenario y los chistes visuales repetibles.",
       "Piense en la configuración de dibujos animados que construye: trabajos ocasionales, reinos mágicos, caos doméstico o escapadas en el vecindario.",
       "La pista está en los ingredientes recurrentes que imitan los fanáticos: voces, eslóganes, compinches, villanos y chistes imposibles."
-    ]
+    ],
+    "tmdb_id": 67175,
+    "media_type": "tv"
   },
   {
-    "celebrity": "She Ra Princess of Power",
+    "celebrity": "She-Ra, La Princesa del Poder",
     "gender": "",
     "facts": [
       "Sus pistas se basan en las formas de los personajes, el ritmo cómico, el escenario y los chistes visuales repetibles.",
       "Piense en la configuración de dibujos animados que construye: trabajos ocasionales, reinos mágicos, caos doméstico o escapadas en el vecindario.",
       "La pista está en los ingredientes recurrentes que imitan los fanáticos: voces, eslóganes, compinches, villanos y chistes imposibles."
-    ]
+    ],
+    "tmdb_id": 14755,
+    "media_type": "tv"
   },
   {
     "celebrity": "Pepper Ann",
@@ -1392,16 +1700,20 @@
       "Sus pistas se basan en las formas de los personajes, el ritmo cómico, el escenario y los chistes visuales repetibles.",
       "Piense en la configuración de dibujos animados que construye: trabajos ocasionales, reinos mágicos, caos doméstico o escapadas en el vecindario.",
       "La pista está en los ingredientes recurrentes que imitan los fanáticos: voces, eslóganes, compinches, villanos y chistes imposibles."
-    ]
+    ],
+    "tmdb_id": 4568,
+    "media_type": "tv"
   },
   {
-    "celebrity": "All Grown Up",
+    "celebrity": "Rugrats Crecidos",
     "gender": "",
     "facts": [
       "Sus pistas se basan en las formas de los personajes, el ritmo cómico, el escenario y los chistes visuales repetibles.",
       "Piense en la configuración de dibujos animados que construye: trabajos ocasionales, reinos mágicos, caos doméstico o escapadas en el vecindario.",
       "La pista está en los ingredientes recurrentes que imitan los fanáticos: voces, eslóganes, compinches, villanos y chistes imposibles."
-    ]
+    ],
+    "tmdb_id": 130,
+    "media_type": "tv"
   },
   {
     "celebrity": "My Little Pony Equestria Girls Better Together",
@@ -1410,106 +1722,130 @@
       "Sus pistas se basan en las formas de los personajes, el ritmo cómico, el escenario y los chistes visuales repetibles.",
       "Piense en la configuración de dibujos animados que construye: trabajos ocasionales, reinos mágicos, caos doméstico o escapadas en el vecindario.",
       "La pista está en los ingredientes recurrentes que imitan los fanáticos: voces, eslóganes, compinches, villanos y chistes imposibles."
-    ]
+    ],
+    "tmdb_id": 86673,
+    "media_type": "tv"
   },
   {
-    "celebrity": "I Am Weasel",
+    "celebrity": "Soy la Comadreja",
     "gender": "",
     "facts": [
       "Sus pistas se basan en las formas de los personajes, el ritmo cómico, el escenario y los chistes visuales repetibles.",
       "Piense en la configuración de dibujos animados que construye: trabajos ocasionales, reinos mágicos, caos doméstico o escapadas en el vecindario.",
       "La pista está en los ingredientes recurrentes que imitan los fanáticos: voces, eslóganes, compinches, villanos y chistes imposibles."
-    ]
+    ],
+    "tmdb_id": 177,
+    "media_type": "tv"
   },
   {
-    "celebrity": "Gabbys Dollhouse",
+    "celebrity": "La Casa de Muñecas de Gabby",
     "gender": "",
     "facts": [
       "Sus pistas se basan en las formas de los personajes, el ritmo cómico, el escenario y los chistes visuales repetibles.",
       "Piense en la configuración de dibujos animados que construye: trabajos ocasionales, reinos mágicos, caos doméstico o escapadas en el vecindario.",
       "La pista está en los ingredientes recurrentes que imitan los fanáticos: voces, eslóganes, compinches, villanos y chistes imposibles."
-    ]
+    ],
+    "tmdb_id": 111474,
+    "media_type": "tv"
   },
   {
-    "celebrity": "The Atom Ant Show",
+    "celebrity": "La hormiga atómica",
     "gender": "",
     "facts": [
       "Sus pistas se basan en las formas de los personajes, el ritmo cómico, el escenario y los chistes visuales repetibles.",
       "Piense en la configuración de dibujos animados que construye: trabajos ocasionales, reinos mágicos, caos doméstico o escapadas en el vecindario.",
       "La pista está en los ingredientes recurrentes que imitan los fanáticos: voces, eslóganes, compinches, villanos y chistes imposibles."
-    ]
+    ],
+    "tmdb_id": 22172,
+    "media_type": "tv"
   },
   {
-    "celebrity": "Big Hero 6 the Series",
+    "celebrity": "Grandes héroes: La serie",
     "gender": "",
     "facts": [
       "Sus pistas se basan en las formas de los personajes, el ritmo cómico, el escenario y los chistes visuales repetibles.",
       "Piense en la configuración de dibujos animados que construye: trabajos ocasionales, reinos mágicos, caos doméstico o escapadas en el vecindario.",
       "La pista está en los ingredientes recurrentes que imitan los fanáticos: voces, eslóganes, compinches, villanos y chistes imposibles."
-    ]
+    ],
+    "tmdb_id": 68665,
+    "media_type": "tv"
   },
   {
-    "celebrity": "Spongebob Squarepants",
+    "celebrity": "Bob Esponja",
     "gender": "",
     "facts": [
       "Sus pistas se basan en las formas de los personajes, el ritmo cómico, el escenario y los chistes visuales repetibles.",
       "Piense en la configuración de dibujos animados que construye: trabajos ocasionales, reinos mágicos, caos doméstico o escapadas en el vecindario.",
       "La pista está en los ingredientes recurrentes que imitan los fanáticos: voces, eslóganes, compinches, villanos y chistes imposibles."
-    ]
+    ],
+    "tmdb_id": 387,
+    "media_type": "tv"
   },
   {
-    "celebrity": "The Fairly Oddparents",
+    "celebrity": "Los Padrinos Mágicos",
     "gender": "",
     "facts": [
       "Sus pistas se basan en las formas de los personajes, el ritmo cómico, el escenario y los chistes visuales repetibles.",
       "Piense en la configuración de dibujos animados que construye: trabajos ocasionales, reinos mágicos, caos doméstico o escapadas en el vecindario.",
       "La pista está en los ingredientes recurrentes que imitan los fanáticos: voces, eslóganes, compinches, villanos y chistes imposibles."
-    ]
+    ],
+    "tmdb_id": 4630,
+    "media_type": "tv"
   },
   {
-    "celebrity": "Rugrats",
+    "celebrity": "Rugrats: Aventuras en pañales",
     "gender": "",
     "facts": [
       "Sus pistas se basan en las formas de los personajes, el ritmo cómico, el escenario y los chistes visuales repetibles.",
       "Piense en la configuración de dibujos animados que construye: trabajos ocasionales, reinos mágicos, caos doméstico o escapadas en el vecindario.",
       "La pista está en los ingredientes recurrentes que imitan los fanáticos: voces, eslóganes, compinches, villanos y chistes imposibles."
-    ]
+    ],
+    "tmdb_id": 3022,
+    "media_type": "tv"
   },
   {
-    "celebrity": "Avatar the Last Airbender",
+    "celebrity": "Avatar: La leyenda de Aang",
     "gender": "",
     "facts": [
       "Sus pistas se basan en las formas de los personajes, el ritmo cómico, el escenario y los chistes visuales repetibles.",
       "Piense en la configuración de dibujos animados que construye: trabajos ocasionales, reinos mágicos, caos doméstico o escapadas en el vecindario.",
       "La pista está en los ingredientes recurrentes que imitan los fanáticos: voces, eslóganes, compinches, villanos y chistes imposibles."
-    ]
+    ],
+    "tmdb_id": 82452,
+    "media_type": "tv"
   },
   {
-    "celebrity": "The Legend of Korra",
+    "celebrity": "Avatar: La Leyenda de Korra",
     "gender": "",
     "facts": [
       "Sus pistas se basan en las formas de los personajes, el ritmo cómico, el escenario y los chistes visuales repetibles.",
       "Piense en la configuración de dibujos animados que construye: trabajos ocasionales, reinos mágicos, caos doméstico o escapadas en el vecindario.",
       "La pista está en los ingredientes recurrentes que imitan los fanáticos: voces, eslóganes, compinches, villanos y chistes imposibles."
-    ]
+    ],
+    "tmdb_id": 33880,
+    "media_type": "tv"
   },
   {
-    "celebrity": "Teen Titans",
+    "celebrity": "Los jóvenes titanes",
     "gender": "",
     "facts": [
       "Sus pistas se basan en las formas de los personajes, el ritmo cómico, el escenario y los chistes visuales repetibles.",
       "Piense en la configuración de dibujos animados que construye: trabajos ocasionales, reinos mágicos, caos doméstico o escapadas en el vecindario.",
       "La pista está en los ingredientes recurrentes que imitan los fanáticos: voces, eslóganes, compinches, villanos y chistes imposibles."
-    ]
+    ],
+    "tmdb_id": 604,
+    "media_type": "tv"
   },
   {
-    "celebrity": "Teen Titans Go",
+    "celebrity": "Los Jóvenes Titanes en acción",
     "gender": "",
     "facts": [
       "Sus pistas se basan en las formas de los personajes, el ritmo cómico, el escenario y los chistes visuales repetibles.",
       "Piense en la configuración de dibujos animados que construye: trabajos ocasionales, reinos mágicos, caos doméstico o escapadas en el vecindario.",
       "La pista está en los ingredientes recurrentes que imitan los fanáticos: voces, eslóganes, compinches, villanos y chistes imposibles."
-    ]
+    ],
+    "tmdb_id": 45140,
+    "media_type": "tv"
   },
   {
     "celebrity": "Samurai Jack",
@@ -1518,88 +1854,108 @@
       "Sus pistas se basan en las formas de los personajes, el ritmo cómico, el escenario y los chistes visuales repetibles.",
       "Piense en la configuración de dibujos animados que construye: trabajos ocasionales, reinos mágicos, caos doméstico o escapadas en el vecindario.",
       "La pista está en los ingredientes recurrentes que imitan los fanáticos: voces, eslóganes, compinches, villanos y chistes imposibles."
-    ]
+    ],
+    "tmdb_id": 2723,
+    "media_type": "tv"
   },
   {
-    "celebrity": "Courage the Cowardly Dog",
+    "celebrity": "Coraje, el perro cobarde",
     "gender": "",
     "facts": [
       "Sus pistas se basan en las formas de los personajes, el ritmo cómico, el escenario y los chistes visuales repetibles.",
       "Piense en la configuración de dibujos animados que construye: trabajos ocasionales, reinos mágicos, caos doméstico o escapadas en el vecindario.",
       "La pista está en los ingredientes recurrentes que imitan los fanáticos: voces, eslóganes, compinches, villanos y chistes imposibles."
-    ]
+    ],
+    "tmdb_id": 2085,
+    "media_type": "tv"
   },
   {
-    "celebrity": "The Grim Adventures of Billy and Mandy",
+    "celebrity": "Las sombrías aventuras de Billy y Mandy",
     "gender": "",
     "facts": [
       "Sus pistas se basan en las formas de los personajes, el ritmo cómico, el escenario y los chistes visuales repetibles.",
       "Piense en la configuración de dibujos animados que construye: trabajos ocasionales, reinos mágicos, caos doméstico o escapadas en el vecindario.",
       "La pista está en los ingredientes recurrentes que imitan los fanáticos: voces, eslóganes, compinches, villanos y chistes imposibles."
-    ]
+    ],
+    "tmdb_id": 897,
+    "media_type": "tv"
   },
   {
-    "celebrity": "Phineas and Ferb",
+    "celebrity": "Phineas y Ferb",
     "gender": "",
     "facts": [
       "Sus pistas se basan en las formas de los personajes, el ritmo cómico, el escenario y los chistes visuales repetibles.",
       "Piense en la configuración de dibujos animados que construye: trabajos ocasionales, reinos mágicos, caos doméstico o escapadas en el vecindario.",
       "La pista está en los ingredientes recurrentes que imitan los fanáticos: voces, eslóganes, compinches, villanos y chistes imposibles."
-    ]
+    ],
+    "tmdb_id": 1877,
+    "media_type": "tv"
   },
   {
-    "celebrity": "The Proud Family",
+    "celebrity": "Los Proud",
     "gender": "",
     "facts": [
       "Sus pistas se basan en las formas de los personajes, el ritmo cómico, el escenario y los chistes visuales repetibles.",
       "Piense en la configuración de dibujos animados que construye: trabajos ocasionales, reinos mágicos, caos doméstico o escapadas en el vecindario.",
       "La pista está en los ingredientes recurrentes que imitan los fanáticos: voces, eslóganes, compinches, villanos y chistes imposibles."
-    ]
+    ],
+    "tmdb_id": 543,
+    "media_type": "tv"
   },
   {
-    "celebrity": "Lilo and Stitch the Series",
+    "celebrity": "Lilo & Stitch: La serie",
     "gender": "",
     "facts": [
       "Sus pistas se basan en las formas de los personajes, el ritmo cómico, el escenario y los chistes visuales repetibles.",
       "Piense en la configuración de dibujos animados que construye: trabajos ocasionales, reinos mágicos, caos doméstico o escapadas en el vecindario.",
       "La pista está en los ingredientes recurrentes que imitan los fanáticos: voces, eslóganes, compinches, villanos y chistes imposibles."
-    ]
+    ],
+    "tmdb_id": 2355,
+    "media_type": "tv"
   },
   {
-    "celebrity": "Talespin",
+    "celebrity": "Los Aventureros del Aire",
     "gender": "",
     "facts": [
       "Sus pistas se basan en las formas de los personajes, el ritmo cómico, el escenario y los chistes visuales repetibles.",
       "Piense en la configuración de dibujos animados que construye: trabajos ocasionales, reinos mágicos, caos doméstico o escapadas en el vecindario.",
       "La pista está en los ingredientes recurrentes que imitan los fanáticos: voces, eslóganes, compinches, villanos y chistes imposibles."
-    ]
+    ],
+    "tmdb_id": 2720,
+    "media_type": "tv"
   },
   {
-    "celebrity": "Ducktales",
+    "celebrity": "Patoaventuras",
     "gender": "",
     "facts": [
       "Sus pistas se basan en las formas de los personajes, el ritmo cómico, el escenario y los chistes visuales repetibles.",
       "Piense en la configuración de dibujos animados que construye: trabajos ocasionales, reinos mágicos, caos doméstico o escapadas en el vecindario.",
       "La pista está en los ingredientes recurrentes que imitan los fanáticos: voces, eslóganes, compinches, villanos y chistes imposibles."
-    ]
+    ],
+    "tmdb_id": 72350,
+    "media_type": "tv"
   },
   {
-    "celebrity": "Darkwing Duck",
+    "celebrity": "El Pato Darkwing",
     "gender": "",
     "facts": [
       "Sus pistas se basan en las formas de los personajes, el ritmo cómico, el escenario y los chistes visuales repetibles.",
       "Piense en la configuración de dibujos animados que construye: trabajos ocasionales, reinos mágicos, caos doméstico o escapadas en el vecindario.",
       "La pista está en los ingredientes recurrentes que imitan los fanáticos: voces, eslóganes, compinches, villanos y chistes imposibles."
-    ]
+    ],
+    "tmdb_id": 3319,
+    "media_type": "tv"
   },
   {
-    "celebrity": "Gargoyles",
+    "celebrity": "Gárgolas",
     "gender": "",
     "facts": [
       "Sus pistas se basan en las formas de los personajes, el ritmo cómico, el escenario y los chistes visuales repetibles.",
       "Piense en la configuración de dibujos animados que construye: trabajos ocasionales, reinos mágicos, caos doméstico o escapadas en el vecindario.",
       "La pista está en los ingredientes recurrentes que imitan los fanáticos: voces, eslóganes, compinches, villanos y chistes imposibles."
-    ]
+    ],
+    "tmdb_id": 1719,
+    "media_type": "tv"
   },
   {
     "celebrity": "Animaniacs",
@@ -1608,16 +1964,20 @@
       "Sus pistas se basan en las formas de los personajes, el ritmo cómico, el escenario y los chistes visuales repetibles.",
       "Piense en la configuración de dibujos animados que construye: trabajos ocasionales, reinos mágicos, caos doméstico o escapadas en el vecindario.",
       "La pista está en los ingredientes recurrentes que imitan los fanáticos: voces, eslóganes, compinches, villanos y chistes imposibles."
-    ]
+    ],
+    "tmdb_id": 82,
+    "media_type": "tv"
   },
   {
-    "celebrity": "Pinky and the Brain",
+    "celebrity": "Pinky y Cerebro",
     "gender": "",
     "facts": [
       "Sus pistas se basan en las formas de los personajes, el ritmo cómico, el escenario y los chistes visuales repetibles.",
       "Piense en la configuración de dibujos animados que construye: trabajos ocasionales, reinos mágicos, caos doméstico o escapadas en el vecindario.",
       "La pista está en los ingredientes recurrentes que imitan los fanáticos: voces, eslóganes, compinches, villanos y chistes imposibles."
-    ]
+    ],
+    "tmdb_id": 2228,
+    "media_type": "tv"
   },
   {
     "celebrity": "Looney Tunes",
@@ -1626,52 +1986,64 @@
       "Sus pistas se basan en las formas de los personajes, el ritmo cómico, el escenario y los chistes visuales repetibles.",
       "Piense en la configuración de dibujos animados que construye: trabajos ocasionales, reinos mágicos, caos doméstico o escapadas en el vecindario.",
       "La pista está en los ingredientes recurrentes que imitan los fanáticos: voces, eslóganes, compinches, villanos y chistes imposibles."
-    ]
+    ],
+    "tmdb_id": 330213,
+    "media_type": "tv"
   },
   {
-    "celebrity": "Tom and Jerry",
+    "celebrity": "Tom y Jerry",
     "gender": "",
     "facts": [
       "Sus pistas se basan en las formas de los personajes, el ritmo cómico, el escenario y los chistes visuales repetibles.",
       "Piense en la configuración de dibujos animados que construye: trabajos ocasionales, reinos mágicos, caos doméstico o escapadas en el vecindario.",
       "La pista está en los ingredientes recurrentes que imitan los fanáticos: voces, eslóganes, compinches, villanos y chistes imposibles."
-    ]
+    ],
+    "tmdb_id": 217288,
+    "media_type": "tv"
   },
   {
-    "celebrity": "Scooby Doo",
+    "celebrity": "¡Scooby-Doo! Misterios S.A.",
     "gender": "",
     "facts": [
       "Sus pistas se basan en las formas de los personajes, el ritmo cómico, el escenario y los chistes visuales repetibles.",
       "Piense en la configuración de dibujos animados que construye: trabajos ocasionales, reinos mágicos, caos doméstico o escapadas en el vecindario.",
       "La pista está en los ingredientes recurrentes que imitan los fanáticos: voces, eslóganes, compinches, villanos y chistes imposibles."
-    ]
+    ],
+    "tmdb_id": 18123,
+    "media_type": "tv"
   },
   {
-    "celebrity": "The Flintstones",
+    "celebrity": "Los Picapiedra",
     "gender": "",
     "facts": [
       "Sus pistas se basan en las formas de los personajes, el ritmo cómico, el escenario y los chistes visuales repetibles.",
       "Piense en la configuración de dibujos animados que construye: trabajos ocasionales, reinos mágicos, caos doméstico o escapadas en el vecindario.",
       "La pista está en los ingredientes recurrentes que imitan los fanáticos: voces, eslóganes, compinches, villanos y chistes imposibles."
-    ]
+    ],
+    "tmdb_id": 1996,
+    "media_type": "tv"
   },
   {
-    "celebrity": "Yogi Bear",
+    "celebrity": "El oso Yogui",
     "gender": "",
     "facts": [
       "Sus pistas se basan en las formas de los personajes, el ritmo cómico, el escenario y los chistes visuales repetibles.",
       "Piense en la configuración de dibujos animados que construye: trabajos ocasionales, reinos mágicos, caos doméstico o escapadas en el vecindario.",
       "La pista está en los ingredientes recurrentes que imitan los fanáticos: voces, eslóganes, compinches, villanos y chistes imposibles."
-    ]
+    ],
+    "tmdb_id": 30773,
+    "media_type": "tv"
   },
   {
-    "celebrity": "The Magic School Bus",
+    "celebrity": "Magic School Bus",
     "gender": "",
     "facts": [
       "Sus pistas se basan en las formas de los personajes, el ritmo cómico, el escenario y los chistes visuales repetibles.",
       "Piense en la configuración de dibujos animados que construye: trabajos ocasionales, reinos mágicos, caos doméstico o escapadas en el vecindario.",
       "La pista está en los ingredientes recurrentes que imitan los fanáticos: voces, eslóganes, compinches, villanos y chistes imposibles."
-    ]
+    ],
+    "tmdb_id": 7248,
+    "media_type": "tv"
   },
   {
     "celebrity": "Arthur",
@@ -1680,7 +2052,9 @@
       "Sus pistas se basan en las formas de los personajes, el ritmo cómico, el escenario y los chistes visuales repetibles.",
       "Piense en la configuración de dibujos animados que construye: trabajos ocasionales, reinos mágicos, caos doméstico o escapadas en el vecindario.",
       "La pista está en los ingredientes recurrentes que imitan los fanáticos: voces, eslóganes, compinches, villanos y chistes imposibles."
-    ]
+    ],
+    "tmdb_id": 2153,
+    "media_type": "tv"
   },
   {
     "celebrity": "Bluey",
@@ -1689,7 +2063,9 @@
       "Sus pistas se basan en las formas de los personajes, el ritmo cómico, el escenario y los chistes visuales repetibles.",
       "Piense en la configuración de dibujos animados que construye: trabajos ocasionales, reinos mágicos, caos doméstico o escapadas en el vecindario.",
       "La pista está en los ingredientes recurrentes que imitan los fanáticos: voces, eslóganes, compinches, villanos y chistes imposibles."
-    ]
+    ],
+    "tmdb_id": 82728,
+    "media_type": "tv"
   },
   {
     "celebrity": "Peppa Pig",
@@ -1698,25 +2074,31 @@
       "Sus pistas se basan en las formas de los personajes, el ritmo cómico, el escenario y los chistes visuales repetibles.",
       "Piense en la configuración de dibujos animados que construye: trabajos ocasionales, reinos mágicos, caos doméstico o escapadas en el vecindario.",
       "La pista está en los ingredientes recurrentes que imitan los fanáticos: voces, eslóganes, compinches, villanos y chistes imposibles."
-    ]
+    ],
+    "tmdb_id": 12225,
+    "media_type": "tv"
   },
   {
-    "celebrity": "Paw Patrol",
+    "celebrity": "Paw Patrol: Patrulla de Cachorros",
     "gender": "",
     "facts": [
       "Sus pistas se basan en las formas de los personajes, el ritmo cómico, el escenario y los chistes visuales repetibles.",
       "Piense en la configuración de dibujos animados que construye: trabajos ocasionales, reinos mágicos, caos doméstico o escapadas en el vecindario.",
       "La pista está en los ingredientes recurrentes que imitan los fanáticos: voces, eslóganes, compinches, villanos y chistes imposibles."
-    ]
+    ],
+    "tmdb_id": 57532,
+    "media_type": "tv"
   },
   {
-    "celebrity": "My Little Pony Friendship Is Magic",
+    "celebrity": "My Little Pony: La Magia de la Amistad",
     "gender": "",
     "facts": [
       "Sus pistas se basan en las formas de los personajes, el ritmo cómico, el escenario y los chistes visuales repetibles.",
       "Piense en la configuración de dibujos animados que construye: trabajos ocasionales, reinos mágicos, caos doméstico o escapadas en el vecindario.",
       "La pista está en los ingredientes recurrentes que imitan los fanáticos: voces, eslóganes, compinches, villanos y chistes imposibles."
-    ]
+    ],
+    "tmdb_id": 33765,
+    "media_type": "tv"
   },
   {
     "celebrity": "Transformers Animated",
@@ -1725,43 +2107,53 @@
       "Sus pistas se basan en las formas de los personajes, el ritmo cómico, el escenario y los chistes visuales repetibles.",
       "Piense en la configuración de dibujos animados que construye: trabajos ocasionales, reinos mágicos, caos doméstico o escapadas en el vecindario.",
       "La pista está en los ingredientes recurrentes que imitan los fanáticos: voces, eslóganes, compinches, villanos y chistes imposibles."
-    ]
+    ],
+    "tmdb_id": 10548,
+    "media_type": "tv"
   },
   {
-    "celebrity": "Voltron",
+    "celebrity": "Voltron: El defensor legendario",
     "gender": "",
     "facts": [
       "Sus pistas se basan en las formas de los personajes, el ritmo cómico, el escenario y los chistes visuales repetibles.",
       "Piense en la configuración de dibujos animados que construye: trabajos ocasionales, reinos mágicos, caos doméstico o escapadas en el vecindario.",
       "La pista está en los ingredientes recurrentes que imitan los fanáticos: voces, eslóganes, compinches, villanos y chistes imposibles."
-    ]
+    ],
+    "tmdb_id": 66558,
+    "media_type": "tv"
   },
   {
-    "celebrity": "The Ren and Stimpy Show",
+    "celebrity": "Ren y Stimpy",
     "gender": "",
     "facts": [
       "Sus pistas se basan en las formas de los personajes, el ritmo cómico, el escenario y los chistes visuales repetibles.",
       "Piense en la configuración de dibujos animados que construye: trabajos ocasionales, reinos mágicos, caos doméstico o escapadas en el vecindario.",
       "La pista está en los ingredientes recurrentes que imitan los fanáticos: voces, eslóganes, compinches, villanos y chistes imposibles."
-    ]
+    ],
+    "tmdb_id": 504,
+    "media_type": "tv"
   },
   {
-    "celebrity": "Beavis and Butt Head",
+    "celebrity": "Beavis y Butt-head",
     "gender": "",
     "facts": [
       "Sus pistas se basan en las formas de los personajes, el ritmo cómico, el escenario y los chistes visuales repetibles.",
       "Piense en la configuración de dibujos animados que construye: trabajos ocasionales, reinos mágicos, caos doméstico o escapadas en el vecindario.",
       "La pista está en los ingredientes recurrentes que imitan los fanáticos: voces, eslóganes, compinches, villanos y chistes imposibles."
-    ]
+    ],
+    "tmdb_id": 13943,
+    "media_type": "tv"
   },
   {
-    "celebrity": "The Boondocks",
+    "celebrity": "Boondocks",
     "gender": "",
     "facts": [
       "Sus pistas se basan en las formas de los personajes, el ritmo cómico, el escenario y los chistes visuales repetibles.",
       "Piense en la configuración de dibujos animados que construye: trabajos ocasionales, reinos mágicos, caos doméstico o escapadas en el vecindario.",
       "La pista está en los ingredientes recurrentes que imitan los fanáticos: voces, eslóganes, compinches, villanos y chistes imposibles."
-    ]
+    ],
+    "tmdb_id": 2604,
+    "media_type": "tv"
   },
   {
     "celebrity": "Archer",
@@ -1770,33 +2162,41 @@
       "Sus pistas se basan en las formas de los personajes, el ritmo cómico, el escenario y los chistes visuales repetibles.",
       "Piense en la configuración de dibujos animados que construye: trabajos ocasionales, reinos mágicos, caos doméstico o escapadas en el vecindario.",
       "La pista está en los ingredientes recurrentes que imitan los fanáticos: voces, eslóganes, compinches, villanos y chistes imposibles."
-    ]
+    ],
+    "tmdb_id": 10283,
+    "media_type": "tv"
   },
   {
-    "celebrity": "Bobs Burgers",
+    "celebrity": "Bob's Burgers",
     "gender": "",
     "facts": [
       "Sus pistas se basan en las formas de los personajes, el ritmo cómico, el escenario y los chistes visuales repetibles.",
       "Piense en la configuración de dibujos animados que construye: trabajos ocasionales, reinos mágicos, caos doméstico o escapadas en el vecindario.",
       "La pista está en los ingredientes recurrentes que imitan los fanáticos: voces, eslóganes, compinches, villanos y chistes imposibles."
-    ]
+    ],
+    "tmdb_id": 32726,
+    "media_type": "tv"
   },
   {
-    "celebrity": "Family Guy",
+    "celebrity": "Padre de Familia",
     "gender": "",
     "facts": [
       "Sus pistas se basan en las formas de los personajes, el ritmo cómico, el escenario y los chistes visuales repetibles.",
       "Piense en la configuración de dibujos animados que construye: trabajos ocasionales, reinos mágicos, caos doméstico o escapadas en el vecindario.",
       "La pista está en los ingredientes recurrentes que imitan los fanáticos: voces, eslóganes, compinches, villanos y chistes imposibles."
-    ]
+    ],
+    "tmdb_id": 1434,
+    "media_type": "tv"
   },
   {
-    "celebrity": "American Dad",
+    "celebrity": "American Dad: Un Agente de Familia",
     "gender": "",
     "facts": [
       "Sus pistas se basan en las formas de los personajes, el ritmo cómico, el escenario y los chistes visuales repetibles.",
       "Piense en la configuración de dibujos animados que construye: trabajos ocasionales, reinos mágicos, caos doméstico o escapadas en el vecindario.",
       "La pista está en los ingredientes recurrentes que imitan los fanáticos: voces, eslóganes, compinches, villanos y chistes imposibles."
-    ]
+    ],
+    "tmdb_id": 1433,
+    "media_type": "tv"
   }
 ]

@@ -6,7 +6,9 @@
       "Les super-héros soutenus par les entreprises se comportent comme des célébrités, des armes et des désastres en matière de relations publiques.",
       "Une équipe de vengeance tente de dénoncer des personnages masqués qui sont bien moins nobles que leur image de marque.",
       "Les yeux laser, les faux sauvetages et la satire brutale du culte des héros sont des indices majeurs."
-    ]
+    ],
+    "tmdb_id": 76479,
+    "media_type": "tv"
   },
   {
     "celebrity": "Euphoria",
@@ -15,79 +17,97 @@
       "La vie des adolescents est montrée à travers la dépendance, des visuels riches en paillettes, des fêtes et des retombées émotionnelles.",
       "La rechute et les amitiés du narrateur façonnent une grande partie de l'instabilité de l'histoire.",
       "Son style est connu pour son éclairage au néon, son maquillage intense et ses relations désordonnées au lycée."
-    ]
+    ],
+    "tmdb_id": 85552,
+    "media_type": "tv"
   },
   {
-    "celebrity": "The Rookie",
+    "celebrity": "La recrue",
     "gender": "",
     "facts": [
       "Ses indices s'inspirent du décor récurrent, de la dynamique des personnages et des conflits de longue date dont les fans se souviennent.",
       "Pensez à la configuration hebdomadaire qu'il crée : emplois, proches, enquêtes, danger, fantasme ou pression de survie.",
       "L’indice réside dans ses ingrédients reproductibles : les relations, les lieux, les rituels et le type de problèmes qui reviennent sans cesse."
-    ]
+    ],
+    "tmdb_id": 79744,
+    "media_type": "tv"
   },
   {
-    "celebrity": "Supernatural",
+    "celebrity": "Surnaturel",
     "gender": "",
     "facts": [
       "Deux frères traversent l'Amérique à la chasse aux démons, aux fantômes, aux monstres et aux menaces de niveau apocalypse.",
       "Une muscle car noire, des cercles de sel, des lames d'ange et du rock classique sont des indices majeurs.",
       "La loyauté familiale compte autant que les cas hebdomadaires de créatures."
-    ]
+    ],
+    "tmdb_id": 1622,
+    "media_type": "tv"
   },
   {
-    "celebrity": "Ncis",
+    "celebrity": "NCIS : Enquêtes Spéciales",
     "gender": "",
     "facts": [
       "Ses indices s'inspirent du décor récurrent, de la dynamique des personnages et des conflits de longue date dont les fans se souviennent.",
       "Pensez à la configuration hebdomadaire qu'il crée : emplois, proches, enquêtes, danger, fantasme ou pression de survie.",
       "L’indice réside dans ses ingrédients reproductibles : les relations, les lieux, les rituels et le type de problèmes qui reviennent sans cesse."
-    ]
+    ],
+    "tmdb_id": 4614,
+    "media_type": "tv"
   },
   {
-    "celebrity": "The Mentalist",
+    "celebrity": "Le Mentaliste",
     "gender": "",
     "facts": [
       "Ses indices s'inspirent du décor récurrent, de la dynamique des personnages et des conflits de longue date dont les fans se souviennent.",
       "Pensez à la configuration hebdomadaire qu'il crée : emplois, proches, enquêtes, danger, fantasme ou pression de survie.",
       "L’indice réside dans ses ingrédients reproductibles : les relations, les lieux, les rituels et le type de problèmes qui reviennent sans cesse."
-    ]
+    ],
+    "tmdb_id": 5920,
+    "media_type": "tv"
   },
   {
-    "celebrity": "Game of Thrones",
+    "celebrity": "Le trône de fer",
     "gender": "",
     "facts": [
       "Les maisons nobles se battent pour le pouvoir tandis qu'une ancienne menace gelée se développe au-delà d'un mur géant.",
       "Les dragons, les loups géants, les trahisons et les mariages choquants sont des indices majeurs.",
       "Son monde mélange de politique judiciaire, de bannières familiales et de batailles brutales pour la succession."
-    ]
+    ],
+    "tmdb_id": 1399,
+    "media_type": "tv"
   },
   {
-    "celebrity": "Criminal Minds",
+    "celebrity": "Esprits criminels",
     "gender": "",
     "facts": [
       "Ses indices s'inspirent du décor récurrent, de la dynamique des personnages et des conflits de longue date dont les fans se souviennent.",
       "Pensez à la configuration hebdomadaire qu'il crée : emplois, proches, enquêtes, danger, fantasme ou pression de survie.",
       "L’indice réside dans ses ingrédients reproductibles : les relations, les lieux, les rituels et le type de problèmes qui reviennent sans cesse."
-    ]
+    ],
+    "tmdb_id": 4057,
+    "media_type": "tv"
   },
   {
-    "celebrity": "House",
+    "celebrity": "Dr House",
     "gender": "",
     "facts": [
       "Ses indices s'inspirent du décor récurrent, de la dynamique des personnages et des conflits de longue date dont les fans se souviennent.",
       "Pensez à la configuration hebdomadaire qu'il crée : emplois, proches, enquêtes, danger, fantasme ou pression de survie.",
       "L’indice réside dans ses ingrédients reproductibles : les relations, les lieux, les rituels et le type de problèmes qui reviennent sans cesse."
-    ]
+    ],
+    "tmdb_id": 1408,
+    "media_type": "tv"
   },
   {
-    "celebrity": "The Blacklist",
+    "celebrity": "La liste noire",
     "gender": "",
     "facts": [
       "Ses indices s'inspirent du décor récurrent, de la dynamique des personnages et des conflits de longue date dont les fans se souviennent.",
       "Pensez à la configuration hebdomadaire qu'il crée : emplois, proches, enquêtes, danger, fantasme ou pression de survie.",
       "L’indice réside dans ses ingrédients reproductibles : les relations, les lieux, les rituels et le type de problèmes qui reviennent sans cesse."
-    ]
+    ],
+    "tmdb_id": 46952,
+    "media_type": "tv"
   },
   {
     "celebrity": "Smallville",
@@ -96,7 +116,9 @@
       "Ses indices s'inspirent du décor récurrent, de la dynamique des personnages et des conflits de longue date dont les fans se souviennent.",
       "Pensez à la configuration hebdomadaire qu'il crée : emplois, proches, enquêtes, danger, fantasme ou pression de survie.",
       "L’indice réside dans ses ingrédients reproductibles : les relations, les lieux, les rituels et le type de problèmes qui reviennent sans cesse."
-    ]
+    ],
+    "tmdb_id": 4604,
+    "media_type": "tv"
   },
   {
     "celebrity": "Stranger Things",
@@ -105,7 +127,9 @@
       "Les enfants d'une petite ville découvrent un monde cauchemardesque parallèle après la disparition d'un ami.",
       "Les lumières de Noël, les vélos, les jeux d’arcade et les pouvoirs psychiques sont des indices majeurs.",
       "Ses monstres et ses laboratoires gouvernementaux transforment la nostalgie des années 1980 en aventure d'horreur."
-    ]
+    ],
+    "tmdb_id": 66732,
+    "media_type": "tv"
   },
   {
     "celebrity": "The Walking Dead",
@@ -114,16 +138,20 @@
       "Les survivants se déplacent dans un monde effondré où les marcheurs sont dangereux mais où les gens peuvent être pires.",
       "Un chapeau de shérif, des clôtures de prison et des communautés dirigées par des dirigeants durs sont des indices récurrents.",
       "Le drame demande souvent ce que coûte la civilisation après l’effondrement de la société."
-    ]
+    ],
+    "tmdb_id": 1402,
+    "media_type": "tv"
   },
   {
-    "celebrity": "Suits",
+    "celebrity": "Suits : Les deux font la paire",
     "gender": "",
     "facts": [
       "Un brillant décrocheur universitaire entre dans un cabinet d'avocats de grande envergure malgré l'absence du diplôme requis.",
       "Des vêtements sur mesure, des plaisanteries acérées et des secrets de salle d'archives sont le moteur du drame.",
       "Le partenariat central survit en bluffant, en négociant et en protégeant un mensonge impossible."
-    ]
+    ],
+    "tmdb_id": 37680,
+    "media_type": "tv"
   },
   {
     "celebrity": "The Office",
@@ -132,16 +160,20 @@
       "Les employés d'une entreprise papetière sont filmés comme si une équipe de documentaires ne les laissait jamais tranquilles.",
       "Des réunions difficiles, des guerres de farces et un patron désespéré d'être aimé sont des indices centraux.",
       "Une agrafeuse en gélatine et un vendeur de betteraves sont devenus des sténographies de fans."
-    ]
+    ],
+    "tmdb_id": 2316,
+    "media_type": "tv"
   },
   {
-    "celebrity": "Breaking Bad",
+    "celebrity": "Breaking Bad : Le chimiste",
     "gender": "",
     "facts": [
       "Un professeur de chimie se tourne vers la cuisine de substances illégales après un diagnostic terminal.",
       "Un laboratoire du désert, un produit bleu et un chapeau en forme de tarte au porc marquent la transformation.",
       "L'histoire raconte comment la fierté et la peur transforment un fournisseur désespéré en un cerveau criminel."
-    ]
+    ],
+    "tmdb_id": 1396,
+    "media_type": "tv"
   },
   {
     "celebrity": "Peaky Blinders",
@@ -150,7 +182,9 @@
       "Ses indices s'inspirent du décor récurrent, de la dynamique des personnages et des conflits de longue date dont les fans se souviennent.",
       "Pensez à la configuration hebdomadaire qu'il crée : emplois, proches, enquêtes, danger, fantasme ou pression de survie.",
       "L’indice réside dans ses ingrédients reproductibles : les relations, les lieux, les rituels et le type de problèmes qui reviennent sans cesse."
-    ]
+    ],
+    "tmdb_id": 60574,
+    "media_type": "tv"
   },
   {
     "celebrity": "Scrubs",
@@ -159,7 +193,9 @@
       "Ses indices s'inspirent du décor récurrent, de la dynamique des personnages et des conflits de longue date dont les fans se souviennent.",
       "Pensez à la configuration hebdomadaire qu'il crée : emplois, proches, enquêtes, danger, fantasme ou pression de survie.",
       "L’indice réside dans ses ingrédients reproductibles : les relations, les lieux, les rituels et le type de problèmes qui reviennent sans cesse."
-    ]
+    ],
+    "tmdb_id": 4556,
+    "media_type": "tv"
   },
   {
     "celebrity": "Yellowstone",
@@ -168,16 +204,20 @@
       "Ses indices s'inspirent du décor récurrent, de la dynamique des personnages et des conflits de longue date dont les fans se souviennent.",
       "Pensez à la configuration hebdomadaire qu'il crée : emplois, proches, enquêtes, danger, fantasme ou pression de survie.",
       "L’indice réside dans ses ingrédients reproductibles : les relations, les lieux, les rituels et le type de problèmes qui reviennent sans cesse."
-    ]
+    ],
+    "tmdb_id": 73586,
+    "media_type": "tv"
   },
   {
-    "celebrity": "Man on Fire",
+    "celebrity": "L'homme en feu",
     "gender": "",
     "facts": [
       "Ses indices s'inspirent du décor récurrent, de la dynamique des personnages et des conflits de longue date dont les fans se souviennent.",
       "Pensez à la configuration hebdomadaire qu'il crée : emplois, proches, enquêtes, danger, fantasme ou pression de survie.",
       "L’indice réside dans ses ingrédients reproductibles : les relations, les lieux, les rituels et le type de problèmes qui reviennent sans cesse."
-    ]
+    ],
+    "tmdb_id": 223386,
+    "media_type": "tv"
   },
   {
     "celebrity": "Friends",
@@ -186,7 +226,9 @@
       "Six jeunes adultes considèrent un café et des appartements voisins comme leur résidence secondaire.",
       "Une porte d'appartement violette, une chanson malodorante et un tatou de vacances sont des indices de fans.",
       "Son humour vient des désastres amoureux, du chaos des colocataires et du confort de la famille retrouvée."
-    ]
+    ],
+    "tmdb_id": 1668,
+    "media_type": "tv"
   },
   {
     "celebrity": "Dexter",
@@ -195,16 +237,20 @@
       "Un analyste des éclaboussures de sang suit secrètement un code rituel pour tuer d'autres tueurs.",
       "Les pièces emballées dans du plastique, l'élimination des bateaux et la narration intérieure sont des indices majeurs.",
       "La tension vient du fait qu'il cache une double vie au sein d'un service de police."
-    ]
+    ],
+    "tmdb_id": 1405,
+    "media_type": "tv"
   },
   {
-    "celebrity": "Outlander",
+    "celebrity": "Outlander - Le Chardon et le Tartan",
     "gender": "",
     "facts": [
       "Ses indices s'inspirent du décor récurrent, de la dynamique des personnages et des conflits de longue date dont les fans se souviennent.",
       "Pensez à la configuration hebdomadaire qu'il crée : emplois, proches, enquêtes, danger, fantasme ou pression de survie.",
       "L’indice réside dans ses ingrédients reproductibles : les relations, les lieux, les rituels et le type de problèmes qui reviennent sans cesse."
-    ]
+    ],
+    "tmdb_id": 56570,
+    "media_type": "tv"
   },
   {
     "celebrity": "Fbi",
@@ -213,7 +259,9 @@
       "Ses indices s'inspirent du décor récurrent, de la dynamique des personnages et des conflits de longue date dont les fans se souviennent.",
       "Pensez à la configuration hebdomadaire qu'il crée : emplois, proches, enquêtes, danger, fantasme ou pression de survie.",
       "L’indice réside dans ses ingrédients reproductibles : les relations, les lieux, les rituels et le type de problèmes qui reviennent sans cesse."
-    ]
+    ],
+    "tmdb_id": 80748,
+    "media_type": "tv"
   },
   {
     "celebrity": "Castle",
@@ -222,7 +270,9 @@
       "Ses indices s'inspirent du décor récurrent, de la dynamique des personnages et des conflits de longue date dont les fans se souviennent.",
       "Pensez à la configuration hebdomadaire qu'il crée : emplois, proches, enquêtes, danger, fantasme ou pression de survie.",
       "L’indice réside dans ses ingrédients reproductibles : les relations, les lieux, les rituels et le type de problèmes qui reviennent sans cesse."
-    ]
+    ],
+    "tmdb_id": 1419,
+    "media_type": "tv"
   },
   {
     "celebrity": "Lucifer",
@@ -231,7 +281,9 @@
       "Ses indices s'inspirent du décor récurrent, de la dynamique des personnages et des conflits de longue date dont les fans se souviennent.",
       "Pensez à la configuration hebdomadaire qu'il crée : emplois, proches, enquêtes, danger, fantasme ou pression de survie.",
       "L’indice réside dans ses ingrédients reproductibles : les relations, les lieux, les rituels et le type de problèmes qui reviennent sans cesse."
-    ]
+    ],
+    "tmdb_id": 63174,
+    "media_type": "tv"
   },
   {
     "celebrity": "9 1 1",
@@ -240,70 +292,86 @@
       "Ses indices s'inspirent du décor récurrent, de la dynamique des personnages et des conflits de longue date dont les fans se souviennent.",
       "Pensez à la configuration hebdomadaire qu'il crée : emplois, proches, enquêtes, danger, fantasme ou pression de survie.",
       "L’indice réside dans ses ingrédients reproductibles : les relations, les lieux, les rituels et le type de problèmes qui reviennent sans cesse."
-    ]
+    ],
+    "tmdb_id": 75219,
+    "media_type": "tv"
   },
   {
-    "celebrity": "Desperate Housewives",
+    "celebrity": "Beautés désespérées",
     "gender": "",
     "facts": [
       "Ses indices s'inspirent du décor récurrent, de la dynamique des personnages et des conflits de longue date dont les fans se souviennent.",
       "Pensez à la configuration hebdomadaire qu'il crée : emplois, proches, enquêtes, danger, fantasme ou pression de survie.",
       "L’indice réside dans ses ingrédients reproductibles : les relations, les lieux, les rituels et le type de problèmes qui reviennent sans cesse."
-    ]
+    ],
+    "tmdb_id": 693,
+    "media_type": "tv"
   },
   {
-    "celebrity": "Hawaii Five 0",
+    "celebrity": "Hawaii 5-0",
     "gender": "",
     "facts": [
       "Ses indices s'inspirent du décor récurrent, de la dynamique des personnages et des conflits de longue date dont les fans se souviennent.",
       "Pensez à la configuration hebdomadaire qu'il crée : emplois, proches, enquêtes, danger, fantasme ou pression de survie.",
       "L’indice réside dans ses ingrédients reproductibles : les relations, les lieux, les rituels et le type de problèmes qui reviennent sans cesse."
-    ]
+    ],
+    "tmdb_id": 32798,
+    "media_type": "tv"
   },
   {
-    "celebrity": "Tracker",
+    "celebrity": "Le traqueur",
     "gender": "",
     "facts": [
       "Ses indices s'inspirent du décor récurrent, de la dynamique des personnages et des conflits de longue date dont les fans se souviennent.",
       "Pensez à la configuration hebdomadaire qu'il crée : emplois, proches, enquêtes, danger, fantasme ou pression de survie.",
       "L’indice réside dans ses ingrédients reproductibles : les relations, les lieux, les rituels et le type de problèmes qui reviennent sans cesse."
-    ]
+    ],
+    "tmdb_id": 211288,
+    "media_type": "tv"
   },
   {
-    "celebrity": "Stargate Sg 1",
+    "celebrity": "La Porte des étoiles",
     "gender": "",
     "facts": [
       "Ses indices s'inspirent du décor récurrent, de la dynamique des personnages et des conflits de longue date dont les fans se souviennent.",
       "Pensez à la configuration hebdomadaire qu'il crée : emplois, proches, enquêtes, danger, fantasme ou pression de survie.",
       "L’indice réside dans ses ingrédients reproductibles : les relations, les lieux, les rituels et le type de problèmes qui reviennent sans cesse."
-    ]
+    ],
+    "tmdb_id": 4629,
+    "media_type": "tv"
   },
   {
-    "celebrity": "Chicago Fire",
+    "celebrity": "Chicago Fire : Caserne 51",
     "gender": "",
     "facts": [
       "Ses indices s'inspirent du décor récurrent, de la dynamique des personnages et des conflits de longue date dont les fans se souviennent.",
       "Pensez à la configuration hebdomadaire qu'il crée : emplois, proches, enquêtes, danger, fantasme ou pression de survie.",
       "L’indice réside dans ses ingrédients reproductibles : les relations, les lieux, les rituels et le type de problèmes qui reviennent sans cesse."
-    ]
+    ],
+    "tmdb_id": 44006,
+    "media_type": "tv"
   },
   {
-    "celebrity": "The Vampire Diaries",
+    "celebrity": "Journal d’un vampire",
     "gender": "",
     "facts": [
       "Ses indices s'inspirent du décor récurrent, de la dynamique des personnages et des conflits de longue date dont les fans se souviennent.",
       "Pensez à la configuration hebdomadaire qu'il crée : emplois, proches, enquêtes, danger, fantasme ou pression de survie.",
       "L’indice réside dans ses ingrédients reproductibles : les relations, les lieux, les rituels et le type de problèmes qui reviennent sans cesse."
-    ]
+    ],
+    "tmdb_id": 18165,
+    "media_type": "tv"
   },
   {
-    "celebrity": "Prison Break",
+    "celebrity": "La Grande Évasion",
     "gender": "",
     "facts": [
       "Ses indices s'inspirent du décor récurrent, de la dynamique des personnages et des conflits de longue date dont les fans se souviennent.",
       "Pensez à la configuration hebdomadaire qu'il crée : emplois, proches, enquêtes, danger, fantasme ou pression de survie.",
       "L’indice réside dans ses ingrédients reproductibles : les relations, les lieux, les rituels et le type de problèmes qui reviennent sans cesse."
-    ]
+    ],
+    "tmdb_id": 2288,
+    "media_type": "tv"
   },
   {
     "celebrity": "Blue Bloods",
@@ -312,16 +380,20 @@
       "Ses indices s'inspirent du décor récurrent, de la dynamique des personnages et des conflits de longue date dont les fans se souviennent.",
       "Pensez à la configuration hebdomadaire qu'il crée : emplois, proches, enquêtes, danger, fantasme ou pression de survie.",
       "L’indice réside dans ses ingrédients reproductibles : les relations, les lieux, les rituels et le type de problèmes qui reviennent sans cesse."
-    ]
+    ],
+    "tmdb_id": 32692,
+    "media_type": "tv"
   },
   {
-    "celebrity": "The Sopranos",
+    "celebrity": "Les Sopranos",
     "gender": "",
     "facts": [
       "Ses indices s'inspirent du décor récurrent, de la dynamique des personnages et des conflits de longue date dont les fans se souviennent.",
       "Pensez à la configuration hebdomadaire qu'il crée : emplois, proches, enquêtes, danger, fantasme ou pression de survie.",
       "L’indice réside dans ses ingrédients reproductibles : les relations, les lieux, les rituels et le type de problèmes qui reviennent sans cesse."
-    ]
+    ],
+    "tmdb_id": 1398,
+    "media_type": "tv"
   },
   {
     "celebrity": "Homeland",
@@ -330,16 +402,20 @@
       "Ses indices s'inspirent du décor récurrent, de la dynamique des personnages et des conflits de longue date dont les fans se souviennent.",
       "Pensez à la configuration hebdomadaire qu'il crée : emplois, proches, enquêtes, danger, fantasme ou pression de survie.",
       "L’indice réside dans ses ingrédients reproductibles : les relations, les lieux, les rituels et le type de problèmes qui reviennent sans cesse."
-    ]
+    ],
+    "tmdb_id": 1407,
+    "media_type": "tv"
   },
   {
-    "celebrity": "The Cleaning Lady",
+    "celebrity": "La nettoyeuse",
     "gender": "",
     "facts": [
       "Ses indices s'inspirent du décor récurrent, de la dynamique des personnages et des conflits de longue date dont les fans se souviennent.",
       "Pensez à la configuration hebdomadaire qu'il crée : emplois, proches, enquêtes, danger, fantasme ou pression de survie.",
       "L’indice réside dans ses ingrédients reproductibles : les relations, les lieux, les rituels et le type de problèmes qui reviennent sans cesse."
-    ]
+    ],
+    "tmdb_id": 125282,
+    "media_type": "tv"
   },
   {
     "celebrity": "Vikings",
@@ -348,16 +424,20 @@
       "Ses indices s'inspirent du décor récurrent, de la dynamique des personnages et des conflits de longue date dont les fans se souviennent.",
       "Pensez à la configuration hebdomadaire qu'il crée : emplois, proches, enquêtes, danger, fantasme ou pression de survie.",
       "L’indice réside dans ses ingrédients reproductibles : les relations, les lieux, les rituels et le type de problèmes qui reviennent sans cesse."
-    ]
+    ],
+    "tmdb_id": 44217,
+    "media_type": "tv"
   },
   {
-    "celebrity": "Marshals",
+    "celebrity": "Marshals A Yellowstone Story",
     "gender": "",
     "facts": [
       "Ses indices s'inspirent du décor récurrent, de la dynamique des personnages et des conflits de longue date dont les fans se souviennent.",
       "Pensez à la configuration hebdomadaire qu'il crée : emplois, proches, enquêtes, danger, fantasme ou pression de survie.",
       "L’indice réside dans ses ingrédients reproductibles : les relations, les lieux, les rituels et le type de problèmes qui reviennent sans cesse."
-    ]
+    ],
+    "tmdb_id": 290856,
+    "media_type": "tv"
   },
   {
     "celebrity": "Fargo",
@@ -366,7 +446,9 @@
       "Ses indices s'inspirent du décor récurrent, de la dynamique des personnages et des conflits de longue date dont les fans se souviennent.",
       "Pensez à la configuration hebdomadaire qu'il crée : emplois, proches, enquêtes, danger, fantasme ou pression de survie.",
       "L’indice réside dans ses ingrédients reproductibles : les relations, les lieux, les rituels et le type de problèmes qui reviennent sans cesse."
-    ]
+    ],
+    "tmdb_id": 60622,
+    "media_type": "tv"
   },
   {
     "celebrity": "Young Sheldon",
@@ -375,7 +457,9 @@
       "Ses indices s'inspirent du décor récurrent, de la dynamique des personnages et des conflits de longue date dont les fans se souviennent.",
       "Pensez à la configuration hebdomadaire qu'il crée : emplois, proches, enquêtes, danger, fantasme ou pression de survie.",
       "L’indice réside dans ses ingrédients reproductibles : les relations, les lieux, les rituels et le type de problèmes qui reviennent sans cesse."
-    ]
+    ],
+    "tmdb_id": 71728,
+    "media_type": "tv"
   },
   {
     "celebrity": "Reacher",
@@ -384,16 +468,20 @@
       "Ses indices s'inspirent du décor récurrent, de la dynamique des personnages et des conflits de longue date dont les fans se souviennent.",
       "Pensez à la configuration hebdomadaire qu'il crée : emplois, proches, enquêtes, danger, fantasme ou pression de survie.",
       "L’indice réside dans ses ingrédients reproductibles : les relations, les lieux, les rituels et le type de problèmes qui reviennent sans cesse."
-    ]
+    ],
+    "tmdb_id": 108978,
+    "media_type": "tv"
   },
   {
-    "celebrity": "The Flash",
+    "celebrity": "Flash",
     "gender": "",
     "facts": [
       "Ses indices s'inspirent du décor récurrent, de la dynamique des personnages et des conflits de longue date dont les fans se souviennent.",
       "Pensez à la configuration hebdomadaire qu'il crée : emplois, proches, enquêtes, danger, fantasme ou pression de survie.",
       "L’indice réside dans ses ingrédients reproductibles : les relations, les lieux, les rituels et le type de problèmes qui reviennent sans cesse."
-    ]
+    ],
+    "tmdb_id": 60735,
+    "media_type": "tv"
   },
   {
     "celebrity": "Better Call Saul",
@@ -402,7 +490,9 @@
       "Ses indices s'inspirent du décor récurrent, de la dynamique des personnages et des conflits de longue date dont les fans se souviennent.",
       "Pensez à la configuration hebdomadaire qu'il crée : emplois, proches, enquêtes, danger, fantasme ou pression de survie.",
       "L’indice réside dans ses ingrédients reproductibles : les relations, les lieux, les rituels et le type de problèmes qui reviennent sans cesse."
-    ]
+    ],
+    "tmdb_id": 60059,
+    "media_type": "tv"
   },
   {
     "celebrity": "Grimm",
@@ -411,7 +501,9 @@
       "Ses indices s'inspirent du décor récurrent, de la dynamique des personnages et des conflits de longue date dont les fans se souviennent.",
       "Pensez à la configuration hebdomadaire qu'il crée : emplois, proches, enquêtes, danger, fantasme ou pression de survie.",
       "L’indice réside dans ses ingrédients reproductibles : les relations, les lieux, les rituels et le type de problèmes qui reviennent sans cesse."
-    ]
+    ],
+    "tmdb_id": 39351,
+    "media_type": "tv"
   },
   {
     "celebrity": "Charmed",
@@ -420,7 +512,9 @@
       "Ses indices s'inspirent du décor récurrent, de la dynamique des personnages et des conflits de longue date dont les fans se souviennent.",
       "Pensez à la configuration hebdomadaire qu'il crée : emplois, proches, enquêtes, danger, fantasme ou pression de survie.",
       "L’indice réside dans ses ingrédients reproductibles : les relations, les lieux, les rituels et le type de problèmes qui reviennent sans cesse."
-    ]
+    ],
+    "tmdb_id": 1981,
+    "media_type": "tv"
   },
   {
     "celebrity": "Arrow",
@@ -429,7 +523,9 @@
       "Ses indices s'inspirent du décor récurrent, de la dynamique des personnages et des conflits de longue date dont les fans se souviennent.",
       "Pensez à la configuration hebdomadaire qu'il crée : emplois, proches, enquêtes, danger, fantasme ou pression de survie.",
       "L’indice réside dans ses ingrédients reproductibles : les relations, les lieux, les rituels et le type de problèmes qui reviennent sans cesse."
-    ]
+    ],
+    "tmdb_id": 1412,
+    "media_type": "tv"
   },
   {
     "celebrity": "Spartacus",
@@ -438,7 +534,9 @@
       "Ses indices s'inspirent du décor récurrent, de la dynamique des personnages et des conflits de longue date dont les fans se souviennent.",
       "Pensez à la configuration hebdomadaire qu'il crée : emplois, proches, enquêtes, danger, fantasme ou pression de survie.",
       "L’indice réside dans ses ingrédients reproductibles : les relations, les lieux, les rituels et le type de problèmes qui reviennent sans cesse."
-    ]
+    ],
+    "tmdb_id": 46296,
+    "media_type": "tv"
   },
   {
     "celebrity": "Chicago Med",
@@ -447,16 +545,20 @@
       "Ses indices s'inspirent du décor récurrent, de la dynamique des personnages et des conflits de longue date dont les fans se souviennent.",
       "Pensez à la configuration hebdomadaire qu'il crée : emplois, proches, enquêtes, danger, fantasme ou pression de survie.",
       "L’indice réside dans ses ingrédients reproductibles : les relations, les lieux, les rituels et le type de problèmes qui reviennent sans cesse."
-    ]
+    ],
+    "tmdb_id": 62650,
+    "media_type": "tv"
   },
   {
-    "celebrity": "Sons of Anarchy",
+    "celebrity": "Les Sons of Anarchy",
     "gender": "",
     "facts": [
       "Ses indices s'inspirent du décor récurrent, de la dynamique des personnages et des conflits de longue date dont les fans se souviennent.",
       "Pensez à la configuration hebdomadaire qu'il crée : emplois, proches, enquêtes, danger, fantasme ou pression de survie.",
       "L’indice réside dans ses ingrédients reproductibles : les relations, les lieux, les rituels et le type de problèmes qui reviennent sans cesse."
-    ]
+    ],
+    "tmdb_id": 1409,
+    "media_type": "tv"
   },
   {
     "celebrity": "The Graham Norton Show",
@@ -465,7 +567,9 @@
       "Ses indices s'inspirent du décor récurrent, de la dynamique des personnages et des conflits de longue date dont les fans se souviennent.",
       "Pensez à la configuration hebdomadaire qu'il crée : emplois, proches, enquêtes, danger, fantasme ou pression de survie.",
       "L’indice réside dans ses ingrédients reproductibles : les relations, les lieux, les rituels et le type de problèmes qui reviennent sans cesse."
-    ]
+    ],
+    "tmdb_id": 1220,
+    "media_type": "tv"
   },
   {
     "celebrity": "Monk",
@@ -474,7 +578,9 @@
       "Ses indices s'inspirent du décor récurrent, de la dynamique des personnages et des conflits de longue date dont les fans se souviennent.",
       "Pensez à la configuration hebdomadaire qu'il crée : emplois, proches, enquêtes, danger, fantasme ou pression de survie.",
       "L’indice réside dans ses ingrédients reproductibles : les relations, les lieux, les rituels et le type de problèmes qui reviennent sans cesse."
-    ]
+    ],
+    "tmdb_id": 1695,
+    "media_type": "tv"
   },
   {
     "celebrity": "Teen Wolf",
@@ -483,7 +589,9 @@
       "Ses indices s'inspirent du décor récurrent, de la dynamique des personnages et des conflits de longue date dont les fans se souviennent.",
       "Pensez à la configuration hebdomadaire qu'il crée : emplois, proches, enquêtes, danger, fantasme ou pression de survie.",
       "L’indice réside dans ses ingrédients reproductibles : les relations, les lieux, les rituels et le type de problèmes qui reviennent sans cesse."
-    ]
+    ],
+    "tmdb_id": 34524,
+    "media_type": "tv"
   },
   {
     "celebrity": "Gilmore Girls",
@@ -492,34 +600,42 @@
       "Ses indices s'inspirent du décor récurrent, de la dynamique des personnages et des conflits de longue date dont les fans se souviennent.",
       "Pensez à la configuration hebdomadaire qu'il crée : emplois, proches, enquêtes, danger, fantasme ou pression de survie.",
       "L’indice réside dans ses ingrédients reproductibles : les relations, les lieux, les rituels et le type de problèmes qui reviennent sans cesse."
-    ]
+    ],
+    "tmdb_id": 4586,
+    "media_type": "tv"
   },
   {
-    "celebrity": "The Pitt",
+    "celebrity": "Le Pitt",
     "gender": "",
     "facts": [
       "Ses indices s'inspirent du décor récurrent, de la dynamique des personnages et des conflits de longue date dont les fans se souviennent.",
       "Pensez à la configuration hebdomadaire qu'il crée : emplois, proches, enquêtes, danger, fantasme ou pression de survie.",
       "L’indice réside dans ses ingrédients reproductibles : les relations, les lieux, les rituels et le type de problèmes qui reviennent sans cesse."
-    ]
+    ],
+    "tmdb_id": 250307,
+    "media_type": "tv"
   },
   {
-    "celebrity": "The X Files",
+    "celebrity": "X-Files : Aux frontières du réel",
     "gender": "",
     "facts": [
       "Ses indices s'inspirent du décor récurrent, de la dynamique des personnages et des conflits de longue date dont les fans se souviennent.",
       "Pensez à la configuration hebdomadaire qu'il crée : emplois, proches, enquêtes, danger, fantasme ou pression de survie.",
       "L’indice réside dans ses ingrédients reproductibles : les relations, les lieux, les rituels et le type de problèmes qui reviennent sans cesse."
-    ]
+    ],
+    "tmdb_id": 4087,
+    "media_type": "tv"
   },
   {
-    "celebrity": "Bridgerton",
+    "celebrity": "La Chronique des Bridgerton",
     "gender": "",
     "facts": [
       "Ses indices s'inspirent du décor récurrent, de la dynamique des personnages et des conflits de longue date dont les fans se souviennent.",
       "Pensez à la configuration hebdomadaire qu'il crée : emplois, proches, enquêtes, danger, fantasme ou pression de survie.",
       "L’indice réside dans ses ingrédients reproductibles : les relations, les lieux, les rituels et le type de problèmes qui reviennent sans cesse."
-    ]
+    ],
+    "tmdb_id": 91239,
+    "media_type": "tv"
   },
   {
     "celebrity": "Frasier",
@@ -528,61 +644,75 @@
       "Ses indices s'inspirent du décor récurrent, de la dynamique des personnages et des conflits de longue date dont les fans se souviennent.",
       "Pensez à la configuration hebdomadaire qu'il crée : emplois, proches, enquêtes, danger, fantasme ou pression de survie.",
       "L’indice réside dans ses ingrédients reproductibles : les relations, les lieux, les rituels et le type de problèmes qui reviennent sans cesse."
-    ]
+    ],
+    "tmdb_id": 3452,
+    "media_type": "tv"
   },
   {
-    "celebrity": "The Good Wife",
+    "celebrity": "Une femme exemplaire",
     "gender": "",
     "facts": [
       "Ses indices s'inspirent du décor récurrent, de la dynamique des personnages et des conflits de longue date dont les fans se souviennent.",
       "Pensez à la configuration hebdomadaire qu'il crée : emplois, proches, enquêtes, danger, fantasme ou pression de survie.",
       "L’indice réside dans ses ingrédients reproductibles : les relations, les lieux, les rituels et le type de problèmes qui reviennent sans cesse."
-    ]
+    ],
+    "tmdb_id": 1435,
+    "media_type": "tv"
   },
   {
-    "celebrity": "Elementary",
+    "celebrity": "Élémentaire",
     "gender": "",
     "facts": [
       "Ses indices s'inspirent du décor récurrent, de la dynamique des personnages et des conflits de longue date dont les fans se souviennent.",
       "Pensez à la configuration hebdomadaire qu'il crée : emplois, proches, enquêtes, danger, fantasme ou pression de survie.",
       "L’indice réside dans ses ingrédients reproductibles : les relations, les lieux, les rituels et le type de problèmes qui reviennent sans cesse."
-    ]
+    ],
+    "tmdb_id": 1415,
+    "media_type": "tv"
   },
   {
-    "celebrity": "Person of Interest",
+    "celebrity": "Personne d'intérêt",
     "gender": "",
     "facts": [
       "Ses indices s'inspirent du décor récurrent, de la dynamique des personnages et des conflits de longue date dont les fans se souviennent.",
       "Pensez à la configuration hebdomadaire qu'il crée : emplois, proches, enquêtes, danger, fantasme ou pression de survie.",
       "L’indice réside dans ses ingrédients reproductibles : les relations, les lieux, les rituels et le type de problèmes qui reviennent sans cesse."
-    ]
+    ],
+    "tmdb_id": 1411,
+    "media_type": "tv"
   },
   {
-    "celebrity": "Malcolm in the Middle",
+    "celebrity": "Malcolm",
     "gender": "",
     "facts": [
       "Ses indices s'inspirent du décor récurrent, de la dynamique des personnages et des conflits de longue date dont les fans se souviennent.",
       "Pensez à la configuration hebdomadaire qu'il crée : emplois, proches, enquêtes, danger, fantasme ou pression de survie.",
       "L’indice réside dans ses ingrédients reproductibles : les relations, les lieux, les rituels et le type de problèmes qui reviennent sans cesse."
-    ]
+    ],
+    "tmdb_id": 2004,
+    "media_type": "tv"
   },
   {
-    "celebrity": "American Horror Story",
+    "celebrity": "Histoire d'horreur",
     "gender": "",
     "facts": [
       "Ses indices s'inspirent du décor récurrent, de la dynamique des personnages et des conflits de longue date dont les fans se souviennent.",
       "Pensez à la configuration hebdomadaire qu'il crée : emplois, proches, enquêtes, danger, fantasme ou pression de survie.",
       "L’indice réside dans ses ingrédients reproductibles : les relations, les lieux, les rituels et le type de problèmes qui reviennent sans cesse."
-    ]
+    ],
+    "tmdb_id": 1413,
+    "media_type": "tv"
   },
   {
-    "celebrity": "Psych",
+    "celebrity": "Psych : Enquêteur malgré lui",
     "gender": "",
     "facts": [
       "Ses indices s'inspirent du décor récurrent, de la dynamique des personnages et des conflits de longue date dont les fans se souviennent.",
       "Pensez à la configuration hebdomadaire qu'il crée : emplois, proches, enquêtes, danger, fantasme ou pression de survie.",
       "L’indice réside dans ses ingrédients reproductibles : les relations, les lieux, les rituels et le type de problèmes qui reviennent sans cesse."
-    ]
+    ],
+    "tmdb_id": 1447,
+    "media_type": "tv"
   },
   {
     "celebrity": "Conan",
@@ -591,16 +721,20 @@
       "Ses indices s'inspirent du décor récurrent, de la dynamique des personnages et des conflits de longue date dont les fans se souviennent.",
       "Pensez à la configuration hebdomadaire qu'il crée : emplois, proches, enquêtes, danger, fantasme ou pression de survie.",
       "L’indice réside dans ses ingrédients reproductibles : les relations, les lieux, les rituels et le type de problèmes qui reviennent sans cesse."
-    ]
+    ],
+    "tmdb_id": 32415,
+    "media_type": "tv"
   },
   {
-    "celebrity": "You",
+    "celebrity": "Parfaite",
     "gender": "",
     "facts": [
       "Ses indices s'inspirent du décor récurrent, de la dynamique des personnages et des conflits de longue date dont les fans se souviennent.",
       "Pensez à la configuration hebdomadaire qu'il crée : emplois, proches, enquêtes, danger, fantasme ou pression de survie.",
       "L’indice réside dans ses ingrédients reproductibles : les relations, les lieux, les rituels et le type de problèmes qui reviennent sans cesse."
-    ]
+    ],
+    "tmdb_id": 78191,
+    "media_type": "tv"
   },
   {
     "celebrity": "Jag",
@@ -609,34 +743,42 @@
       "Ses indices s'inspirent du décor récurrent, de la dynamique des personnages et des conflits de longue date dont les fans se souviennent.",
       "Pensez à la configuration hebdomadaire qu'il crée : emplois, proches, enquêtes, danger, fantasme ou pression de survie.",
       "L’indice réside dans ses ingrédients reproductibles : les relations, les lieux, les rituels et le type de problèmes qui reviennent sans cesse."
-    ]
+    ],
+    "tmdb_id": 4376,
+    "media_type": "tv"
   },
   {
-    "celebrity": "The 100",
+    "celebrity": "Les 100",
     "gender": "",
     "facts": [
       "Ses indices s'inspirent du décor récurrent, de la dynamique des personnages et des conflits de longue date dont les fans se souviennent.",
       "Pensez à la configuration hebdomadaire qu'il crée : emplois, proches, enquêtes, danger, fantasme ou pression de survie.",
       "L’indice réside dans ses ingrédients reproductibles : les relations, les lieux, les rituels et le type de problèmes qui reviennent sans cesse."
-    ]
+    ],
+    "tmdb_id": 48866,
+    "media_type": "tv"
   },
   {
-    "celebrity": "How I Met Your Mother",
+    "celebrity": "Comment je l'ai rencontrée",
     "gender": "",
     "facts": [
       "Ses indices s'inspirent du décor récurrent, de la dynamique des personnages et des conflits de longue date dont les fans se souviennent.",
       "Pensez à la configuration hebdomadaire qu'il crée : emplois, proches, enquêtes, danger, fantasme ou pression de survie.",
       "L’indice réside dans ses ingrédients reproductibles : les relations, les lieux, les rituels et le type de problèmes qui reviennent sans cesse."
-    ]
+    ],
+    "tmdb_id": 1100,
+    "media_type": "tv"
   },
   {
-    "celebrity": "Squid Game",
+    "celebrity": "Le Jeu du calmar",
     "gender": "",
     "facts": [
       "Ses indices s'inspirent du décor récurrent, de la dynamique des personnages et des conflits de longue date dont les fans se souviennent.",
       "Pensez à la configuration hebdomadaire qu'il crée : emplois, proches, enquêtes, danger, fantasme ou pression de survie.",
       "L’indice réside dans ses ingrédients reproductibles : les relations, les lieux, les rituels et le type de problèmes qui reviennent sans cesse."
-    ]
+    ],
+    "tmdb_id": 93405,
+    "media_type": "tv"
   },
   {
     "celebrity": "Fringe",
@@ -645,34 +787,42 @@
       "Ses indices s'inspirent du décor récurrent, de la dynamique des personnages et des conflits de longue date dont les fans se souviennent.",
       "Pensez à la configuration hebdomadaire qu'il crée : emplois, proches, enquêtes, danger, fantasme ou pression de survie.",
       "L’indice réside dans ses ingrédients reproductibles : les relations, les lieux, les rituels et le type de problèmes qui reviennent sans cesse."
-    ]
+    ],
+    "tmdb_id": 1705,
+    "media_type": "tv"
   },
   {
-    "celebrity": "Er",
+    "celebrity": "Urgences",
     "gender": "",
     "facts": [
       "Ses indices s'inspirent du décor récurrent, de la dynamique des personnages et des conflits de longue date dont les fans se souviennent.",
       "Pensez à la configuration hebdomadaire qu'il crée : emplois, proches, enquêtes, danger, fantasme ou pression de survie.",
       "L’indice réside dans ses ingrédients reproductibles : les relations, les lieux, les rituels et le type de problèmes qui reviennent sans cesse."
-    ]
+    ],
+    "tmdb_id": 4588,
+    "media_type": "tv"
   },
   {
-    "celebrity": "One Tree Hill",
+    "celebrity": "Les frères Scott",
     "gender": "",
     "facts": [
       "Ses indices s'inspirent du décor récurrent, de la dynamique des personnages et des conflits de longue date dont les fans se souviennent.",
       "Pensez à la configuration hebdomadaire qu'il crée : emplois, proches, enquêtes, danger, fantasme ou pression de survie.",
       "L’indice réside dans ses ingrédients reproductibles : les relations, les lieux, les rituels et le type de problèmes qui reviennent sans cesse."
-    ]
+    ],
+    "tmdb_id": 269,
+    "media_type": "tv"
   },
   {
-    "celebrity": "Curb Your Enthusiasm",
+    "celebrity": "Larry et son nombril",
     "gender": "",
     "facts": [
       "Ses indices s'inspirent du décor récurrent, de la dynamique des personnages et des conflits de longue date dont les fans se souviennent.",
       "Pensez à la configuration hebdomadaire qu'il crée : emplois, proches, enquêtes, danger, fantasme ou pression de survie.",
       "L’indice réside dans ses ingrédients reproductibles : les relations, les lieux, les rituels et le type de problèmes qui reviennent sans cesse."
-    ]
+    ],
+    "tmdb_id": 4546,
+    "media_type": "tv"
   },
   {
     "celebrity": "Westworld",
@@ -681,7 +831,9 @@
       "Ses indices s'inspirent du décor récurrent, de la dynamique des personnages et des conflits de longue date dont les fans se souviennent.",
       "Pensez à la configuration hebdomadaire qu'il crée : emplois, proches, enquêtes, danger, fantasme ou pression de survie.",
       "L’indice réside dans ses ingrédients reproductibles : les relations, les lieux, les rituels et le type de problèmes qui reviennent sans cesse."
-    ]
+    ],
+    "tmdb_id": 63247,
+    "media_type": "tv"
   },
   {
     "celebrity": "Macgyver",
@@ -690,7 +842,9 @@
       "Ses indices s'inspirent du décor récurrent, de la dynamique des personnages et des conflits de longue date dont les fans se souviennent.",
       "Pensez à la configuration hebdomadaire qu'il crée : emplois, proches, enquêtes, danger, fantasme ou pression de survie.",
       "L’indice réside dans ses ingrédients reproductibles : les relations, les lieux, les rituels et le type de problèmes qui reviennent sans cesse."
-    ]
+    ],
+    "tmdb_id": 2875,
+    "media_type": "tv"
   },
   {
     "celebrity": "The Crown",
@@ -699,106 +853,130 @@
       "Ses indices s'inspirent du décor récurrent, de la dynamique des personnages et des conflits de longue date dont les fans se souviennent.",
       "Pensez à la configuration hebdomadaire qu'il crée : emplois, proches, enquêtes, danger, fantasme ou pression de survie.",
       "L’indice réside dans ses ingrédients reproductibles : les relations, les lieux, les rituels et le type de problèmes qui reviennent sans cesse."
-    ]
+    ],
+    "tmdb_id": 65494,
+    "media_type": "tv"
   },
   {
-    "celebrity": "Brooklyn Nine Nine",
+    "celebrity": "Brooklyn Nine-Nine",
     "gender": "",
     "facts": [
       "Ses indices s'inspirent du décor récurrent, de la dynamique des personnages et des conflits de longue date dont les fans se souviennent.",
       "Pensez à la configuration hebdomadaire qu'il crée : emplois, proches, enquêtes, danger, fantasme ou pression de survie.",
       "L’indice réside dans ses ingrédients reproductibles : les relations, les lieux, les rituels et le type de problèmes qui reviennent sans cesse."
-    ]
+    ],
+    "tmdb_id": 48891,
+    "media_type": "tv"
   },
   {
-    "celebrity": "The Resident",
+    "celebrity": "Le résident",
     "gender": "",
     "facts": [
       "Ses indices s'inspirent du décor récurrent, de la dynamique des personnages et des conflits de longue date dont les fans se souviennent.",
       "Pensez à la configuration hebdomadaire qu'il crée : emplois, proches, enquêtes, danger, fantasme ou pression de survie.",
       "L’indice réside dans ses ingrédients reproductibles : les relations, les lieux, les rituels et le type de problèmes qui reviennent sans cesse."
-    ]
+    ],
+    "tmdb_id": 74016,
+    "media_type": "tv"
   },
   {
-    "celebrity": "For All Mankind",
+    "celebrity": "Pour toute l'humanité",
     "gender": "",
     "facts": [
       "Ses indices s'inspirent du décor récurrent, de la dynamique des personnages et des conflits de longue date dont les fans se souviennent.",
       "Pensez à la configuration hebdomadaire qu'il crée : emplois, proches, enquêtes, danger, fantasme ou pression de survie.",
       "L’indice réside dans ses ingrédients reproductibles : les relations, les lieux, les rituels et le type de problèmes qui reviennent sans cesse."
-    ]
+    ],
+    "tmdb_id": 87917,
+    "media_type": "tv"
   },
   {
-    "celebrity": "The White Lotus",
+    "celebrity": "Le lotus blanc",
     "gender": "",
     "facts": [
       "Ses indices s'inspirent du décor récurrent, de la dynamique des personnages et des conflits de longue date dont les fans se souviennent.",
       "Pensez à la configuration hebdomadaire qu'il crée : emplois, proches, enquêtes, danger, fantasme ou pression de survie.",
       "L’indice réside dans ses ingrédients reproductibles : les relations, les lieux, les rituels et le type de problèmes qui reviennent sans cesse."
-    ]
+    ],
+    "tmdb_id": 111803,
+    "media_type": "tv"
   },
   {
-    "celebrity": "Buffy the Vampire Slayer",
+    "celebrity": "Buffy contre les vampires",
     "gender": "",
     "facts": [
       "Ses indices s'inspirent du décor récurrent, de la dynamique des personnages et des conflits de longue date dont les fans se souviennent.",
       "Pensez à la configuration hebdomadaire qu'il crée : emplois, proches, enquêtes, danger, fantasme ou pression de survie.",
       "L’indice réside dans ses ingrédients reproductibles : les relations, les lieux, les rituels et le type de problèmes qui reviennent sans cesse."
-    ]
+    ],
+    "tmdb_id": 95,
+    "media_type": "tv"
   },
   {
-    "celebrity": "The Closer",
+    "celebrity": "L.A. enquêtes prioritaires",
     "gender": "",
     "facts": [
       "Ses indices s'inspirent du décor récurrent, de la dynamique des personnages et des conflits de longue date dont les fans se souviennent.",
       "Pensez à la configuration hebdomadaire qu'il crée : emplois, proches, enquêtes, danger, fantasme ou pression de survie.",
       "L’indice réside dans ses ingrédients reproductibles : les relations, les lieux, les rituels et le type de problèmes qui reviennent sans cesse."
-    ]
+    ],
+    "tmdb_id": 1450,
+    "media_type": "tv"
   },
   {
-    "celebrity": "Wednesday",
+    "celebrity": "Mercredi",
     "gender": "",
     "facts": [
       "Ses indices s'inspirent du décor récurrent, de la dynamique des personnages et des conflits de longue date dont les fans se souviennent.",
       "Pensez à la configuration hebdomadaire qu'il crée : emplois, proches, enquêtes, danger, fantasme ou pression de survie.",
       "L’indice réside dans ses ingrédients reproductibles : les relations, les lieux, les rituels et le type de problèmes qui reviennent sans cesse."
-    ]
+    ],
+    "tmdb_id": 119051,
+    "media_type": "tv"
   },
   {
-    "celebrity": "Sesame Street",
+    "celebrity": "1 Rue Sesame",
     "gender": "",
     "facts": [
       "Ses indices s'inspirent du décor récurrent, de la dynamique des personnages et des conflits de longue date dont les fans se souviennent.",
       "Pensez à la configuration hebdomadaire qu'il crée : emplois, proches, enquêtes, danger, fantasme ou pression de survie.",
       "L’indice réside dans ses ingrédients reproductibles : les relations, les lieux, les rituels et le type de problèmes qui reviennent sans cesse."
-    ]
+    ],
+    "tmdb_id": 502,
+    "media_type": "tv"
   },
   {
-    "celebrity": "Foundation",
+    "celebrity": "Fondation",
     "gender": "",
     "facts": [
       "Ses indices s'inspirent du décor récurrent, de la dynamique des personnages et des conflits de longue date dont les fans se souviennent.",
       "Pensez à la configuration hebdomadaire qu'il crée : emplois, proches, enquêtes, danger, fantasme ou pression de survie.",
       "L’indice réside dans ses ingrédients reproductibles : les relations, les lieux, les rituels et le type de problèmes qui reviennent sans cesse."
-    ]
+    ],
+    "tmdb_id": 93740,
+    "media_type": "tv"
   },
   {
-    "celebrity": "Star Trek",
+    "celebrity": "Patrouille du cosmos",
     "gender": "",
     "facts": [
       "Ses indices s'inspirent du décor récurrent, de la dynamique des personnages et des conflits de longue date dont les fans se souviennent.",
       "Pensez à la configuration hebdomadaire qu'il crée : emplois, proches, enquêtes, danger, fantasme ou pression de survie.",
       "L’indice réside dans ses ingrédients reproductibles : les relations, les lieux, les rituels et le type de problèmes qui reviennent sans cesse."
-    ]
+    ],
+    "tmdb_id": 253,
+    "media_type": "tv"
   },
   {
-    "celebrity": "Once Upon a Time",
+    "celebrity": "Il était une fois",
     "gender": "",
     "facts": [
       "Ses indices s'inspirent du décor récurrent, de la dynamique des personnages et des conflits de longue date dont les fans se souviennent.",
       "Pensez à la configuration hebdomadaire qu'il crée : emplois, proches, enquêtes, danger, fantasme ou pression de survie.",
       "L’indice réside dans ses ingrédients reproductibles : les relations, les lieux, les rituels et le type de problèmes qui reviennent sans cesse."
-    ]
+    ],
+    "tmdb_id": 39272,
+    "media_type": "tv"
   },
   {
     "celebrity": "Paradise",
@@ -807,7 +985,9 @@
       "Ses indices s'inspirent du décor récurrent, de la dynamique des personnages et des conflits de longue date dont les fans se souviennent.",
       "Pensez à la configuration hebdomadaire qu'il crée : emplois, proches, enquêtes, danger, fantasme ou pression de survie.",
       "L’indice réside dans ses ingrédients reproductibles : les relations, les lieux, les rituels et le type de problèmes qui reviennent sans cesse."
-    ]
+    ],
+    "tmdb_id": 245927,
+    "media_type": "tv"
   },
   {
     "celebrity": "The Expanse",
@@ -816,7 +996,9 @@
       "Ses indices s'inspirent du décor récurrent, de la dynamique des personnages et des conflits de longue date dont les fans se souviennent.",
       "Pensez à la configuration hebdomadaire qu'il crée : emplois, proches, enquêtes, danger, fantasme ou pression de survie.",
       "L’indice réside dans ses ingrédients reproductibles : les relations, les lieux, les rituels et le type de problèmes qui reviennent sans cesse."
-    ]
+    ],
+    "tmdb_id": 63639,
+    "media_type": "tv"
   },
   {
     "celebrity": "Tulsa King",
@@ -825,34 +1007,42 @@
       "Ses indices s'inspirent du décor récurrent, de la dynamique des personnages et des conflits de longue date dont les fans se souviennent.",
       "Pensez à la configuration hebdomadaire qu'il crée : emplois, proches, enquêtes, danger, fantasme ou pression de survie.",
       "L’indice réside dans ses ingrédients reproductibles : les relations, les lieux, les rituels et le type de problèmes qui reviennent sans cesse."
-    ]
+    ],
+    "tmdb_id": 153312,
+    "media_type": "tv"
   },
   {
-    "celebrity": "Boston Legal",
+    "celebrity": "Justice à Boston",
     "gender": "",
     "facts": [
       "Ses indices s'inspirent du décor récurrent, de la dynamique des personnages et des conflits de longue date dont les fans se souviennent.",
       "Pensez à la configuration hebdomadaire qu'il crée : emplois, proches, enquêtes, danger, fantasme ou pression de survie.",
       "L’indice réside dans ses ingrédients reproductibles : les relations, les lieux, les rituels et le type de problèmes qui reviennent sans cesse."
-    ]
+    ],
+    "tmdb_id": 4598,
+    "media_type": "tv"
   },
   {
-    "celebrity": "Scandal",
+    "celebrity": "Scandale",
     "gender": "",
     "facts": [
       "Ses indices s'inspirent du décor récurrent, de la dynamique des personnages et des conflits de longue date dont les fans se souviennent.",
       "Pensez à la configuration hebdomadaire qu'il crée : emplois, proches, enquêtes, danger, fantasme ou pression de survie.",
       "L’indice réside dans ses ingrédients reproductibles : les relations, les lieux, les rituels et le type de problèmes qui reviennent sans cesse."
-    ]
+    ],
+    "tmdb_id": 39269,
+    "media_type": "tv"
   },
   {
-    "celebrity": "Miami Vice",
+    "celebrity": "Deux Flics à Miami",
     "gender": "",
     "facts": [
       "Ses indices s'inspirent du décor récurrent, de la dynamique des personnages et des conflits de longue date dont les fans se souviennent.",
       "Pensez à la configuration hebdomadaire qu'il crée : emplois, proches, enquêtes, danger, fantasme ou pression de survie.",
       "L’indice réside dans ses ingrédients reproductibles : les relations, les lieux, les rituels et le type de problèmes qui reviennent sans cesse."
-    ]
+    ],
+    "tmdb_id": 1908,
+    "media_type": "tv"
   },
   {
     "celebrity": "Doctor Who",
@@ -861,16 +1051,20 @@
       "Ses indices s'inspirent du décor récurrent, de la dynamique des personnages et des conflits de longue date dont les fans se souviennent.",
       "Pensez à la configuration hebdomadaire qu'il crée : emplois, proches, enquêtes, danger, fantasme ou pression de survie.",
       "L’indice réside dans ses ingrédients reproductibles : les relations, les lieux, les rituels et le type de problèmes qui reviennent sans cesse."
-    ]
+    ],
+    "tmdb_id": 57243,
+    "media_type": "tv"
   },
   {
-    "celebrity": "Melrose Place",
+    "celebrity": "Place Melrose",
     "gender": "",
     "facts": [
       "Ses indices s'inspirent du décor récurrent, de la dynamique des personnages et des conflits de longue date dont les fans se souviennent.",
       "Pensez à la configuration hebdomadaire qu'il crée : emplois, proches, enquêtes, danger, fantasme ou pression de survie.",
       "L’indice réside dans ses ingrédients reproductibles : les relations, les lieux, les rituels et le type de problèmes qui reviennent sans cesse."
-    ]
+    ],
+    "tmdb_id": 4349,
+    "media_type": "tv"
   },
   {
     "celebrity": "Numb3rs",
@@ -879,43 +1073,53 @@
       "Ses indices s'inspirent du décor récurrent, de la dynamique des personnages et des conflits de longue date dont les fans se souviennent.",
       "Pensez à la configuration hebdomadaire qu'il crée : emplois, proches, enquêtes, danger, fantasme ou pression de survie.",
       "L’indice réside dans ses ingrédients reproductibles : les relations, les lieux, les rituels et le type de problèmes qui reviennent sans cesse."
-    ]
+    ],
+    "tmdb_id": 578,
+    "media_type": "tv"
   },
   {
-    "celebrity": "The Wire",
+    "celebrity": "Sur écoute",
     "gender": "",
     "facts": [
       "Ses indices s'inspirent du décor récurrent, de la dynamique des personnages et des conflits de longue date dont les fans se souviennent.",
       "Pensez à la configuration hebdomadaire qu'il crée : emplois, proches, enquêtes, danger, fantasme ou pression de survie.",
       "L’indice réside dans ses ingrédients reproductibles : les relations, les lieux, les rituels et le type de problèmes qui reviennent sans cesse."
-    ]
+    ],
+    "tmdb_id": 1438,
+    "media_type": "tv"
   },
   {
-    "celebrity": "Gossip Girl",
+    "celebrity": "Gossip Girl : L'Élite de New York",
     "gender": "",
     "facts": [
       "Ses indices s'inspirent du décor récurrent, de la dynamique des personnages et des conflits de longue date dont les fans se souviennent.",
       "Pensez à la configuration hebdomadaire qu'il crée : emplois, proches, enquêtes, danger, fantasme ou pression de survie.",
       "L’indice réside dans ses ingrédients reproductibles : les relations, les lieux, les rituels et le type de problèmes qui reviennent sans cesse."
-    ]
+    ],
+    "tmdb_id": 1395,
+    "media_type": "tv"
   },
   {
-    "celebrity": "The Practice",
+    "celebrity": "The Practice : Bobby Donnell & Associés",
     "gender": "",
     "facts": [
       "Ses indices s'inspirent du décor récurrent, de la dynamique des personnages et des conflits de longue date dont les fans se souviennent.",
       "Pensez à la configuration hebdomadaire qu'il crée : emplois, proches, enquêtes, danger, fantasme ou pression de survie.",
       "L’indice réside dans ses ingrédients reproductibles : les relations, les lieux, les rituels et le type de problèmes qui reviennent sans cesse."
-    ]
+    ],
+    "tmdb_id": 3050,
+    "media_type": "tv"
   },
   {
-    "celebrity": "Babylon 5",
+    "celebrity": "Babylone 5",
     "gender": "",
     "facts": [
       "Ses indices s'inspirent du décor récurrent, de la dynamique des personnages et des conflits de longue date dont les fans se souviennent.",
       "Pensez à la configuration hebdomadaire qu'il crée : emplois, proches, enquêtes, danger, fantasme ou pression de survie.",
       "L’indice réside dans ses ingrédients reproductibles : les relations, les lieux, les rituels et le type de problèmes qui reviennent sans cesse."
-    ]
+    ],
+    "tmdb_id": 3137,
+    "media_type": "tv"
   },
   {
     "celebrity": "The Witcher",
@@ -924,7 +1128,9 @@
       "Ses indices s'inspirent du décor récurrent, de la dynamique des personnages et des conflits de longue date dont les fans se souviennent.",
       "Pensez à la configuration hebdomadaire qu'il crée : emplois, proches, enquêtes, danger, fantasme ou pression de survie.",
       "L’indice réside dans ses ingrédients reproductibles : les relations, les lieux, les rituels et le type de problèmes qui reviennent sans cesse."
-    ]
+    ],
+    "tmdb_id": 71912,
+    "media_type": "tv"
   },
   {
     "celebrity": "Gotham",
@@ -933,7 +1139,9 @@
       "Ses indices s'inspirent du décor récurrent, de la dynamique des personnages et des conflits de longue date dont les fans se souviennent.",
       "Pensez à la configuration hebdomadaire qu'il crée : emplois, proches, enquêtes, danger, fantasme ou pression de survie.",
       "L’indice réside dans ses ingrédients reproductibles : les relations, les lieux, les rituels et le type de problèmes qui reviennent sans cesse."
-    ]
+    ],
+    "tmdb_id": 60708,
+    "media_type": "tv"
   },
   {
     "celebrity": "Glee",
@@ -942,16 +1150,20 @@
       "Ses indices s'inspirent du décor récurrent, de la dynamique des personnages et des conflits de longue date dont les fans se souviennent.",
       "Pensez à la configuration hebdomadaire qu'il crée : emplois, proches, enquêtes, danger, fantasme ou pression de survie.",
       "L’indice réside dans ses ingrédients reproductibles : les relations, les lieux, les rituels et le type de problèmes qui reviennent sans cesse."
-    ]
+    ],
+    "tmdb_id": 1417,
+    "media_type": "tv"
   },
   {
-    "celebrity": "Pretty Little Liars",
+    "celebrity": "Les menteuses",
     "gender": "",
     "facts": [
       "Ses indices s'inspirent du décor récurrent, de la dynamique des personnages et des conflits de longue date dont les fans se souviennent.",
       "Pensez à la configuration hebdomadaire qu'il crée : emplois, proches, enquêtes, danger, fantasme ou pression de survie.",
       "L’indice réside dans ses ingrédients reproductibles : les relations, les lieux, les rituels et le type de problèmes qui reviennent sans cesse."
-    ]
+    ],
+    "tmdb_id": 31917,
+    "media_type": "tv"
   },
   {
     "celebrity": "Mad Men",
@@ -960,7 +1172,9 @@
       "Ses indices s'inspirent du décor récurrent, de la dynamique des personnages et des conflits de longue date dont les fans se souviennent.",
       "Pensez à la configuration hebdomadaire qu'il crée : emplois, proches, enquêtes, danger, fantasme ou pression de survie.",
       "L’indice réside dans ses ingrédients reproductibles : les relations, les lieux, les rituels et le type de problèmes qui reviennent sans cesse."
-    ]
+    ],
+    "tmdb_id": 1104,
+    "media_type": "tv"
   },
   {
     "celebrity": "Lassie",
@@ -969,25 +1183,31 @@
       "Ses indices s'inspirent du décor récurrent, de la dynamique des personnages et des conflits de longue date dont les fans se souviennent.",
       "Pensez à la configuration hebdomadaire qu'il crée : emplois, proches, enquêtes, danger, fantasme ou pression de survie.",
       "L’indice réside dans ses ingrédients reproductibles : les relations, les lieux, les rituels et le type de problèmes qui reviennent sans cesse."
-    ]
+    ],
+    "tmdb_id": 5368,
+    "media_type": "tv"
   },
   {
-    "celebrity": "Third Watch",
+    "celebrity": "New York 911",
     "gender": "",
     "facts": [
       "Ses indices s'inspirent du décor récurrent, de la dynamique des personnages et des conflits de longue date dont les fans se souviennent.",
       "Pensez à la configuration hebdomadaire qu'il crée : emplois, proches, enquêtes, danger, fantasme ou pression de survie.",
       "L’indice réside dans ses ingrédients reproductibles : les relations, les lieux, les rituels et le type de problèmes qui reviennent sans cesse."
-    ]
+    ],
+    "tmdb_id": 512,
+    "media_type": "tv"
   },
   {
-    "celebrity": "The Love Boat",
+    "celebrity": "La croisière s'amuse",
     "gender": "",
     "facts": [
       "Ses indices s'inspirent du décor récurrent, de la dynamique des personnages et des conflits de longue date dont les fans se souviennent.",
       "Pensez à la configuration hebdomadaire qu'il crée : emplois, proches, enquêtes, danger, fantasme ou pression de survie.",
       "L’indice réside dans ses ingrédients reproductibles : les relations, les lieux, les rituels et le type de problèmes qui reviennent sans cesse."
-    ]
+    ],
+    "tmdb_id": 1823,
+    "media_type": "tv"
   },
   {
     "celebrity": "New Girl",
@@ -996,16 +1216,20 @@
       "Ses indices s'inspirent du décor récurrent, de la dynamique des personnages et des conflits de longue date dont les fans se souviennent.",
       "Pensez à la configuration hebdomadaire qu'il crée : emplois, proches, enquêtes, danger, fantasme ou pression de survie.",
       "L’indice réside dans ses ingrédients reproductibles : les relations, les lieux, les rituels et le type de problèmes qui reviennent sans cesse."
-    ]
+    ],
+    "tmdb_id": 1420,
+    "media_type": "tv"
   },
   {
-    "celebrity": "Lost",
+    "celebrity": "Perdus",
     "gender": "",
     "facts": [
       "Ses indices s'inspirent du décor récurrent, de la dynamique des personnages et des conflits de longue date dont les fans se souviennent.",
       "Pensez à la configuration hebdomadaire qu'il crée : emplois, proches, enquêtes, danger, fantasme ou pression de survie.",
       "L’indice réside dans ses ingrédients reproductibles : les relations, les lieux, les rituels et le type de problèmes qui reviennent sans cesse."
-    ]
+    ],
+    "tmdb_id": 4607,
+    "media_type": "tv"
   },
   {
     "celebrity": "Parks and Recreation",
@@ -1014,7 +1238,9 @@
       "Ses indices s'inspirent du décor récurrent, de la dynamique des personnages et des conflits de longue date dont les fans se souviennent.",
       "Pensez à la configuration hebdomadaire qu'il crée : emplois, proches, enquêtes, danger, fantasme ou pression de survie.",
       "L’indice réside dans ses ingrédients reproductibles : les relations, les lieux, les rituels et le type de problèmes qui reviennent sans cesse."
-    ]
+    ],
+    "tmdb_id": 8592,
+    "media_type": "tv"
   },
   {
     "celebrity": "The Big Bang Theory",
@@ -1023,7 +1249,9 @@
       "Ses indices s'inspirent du décor récurrent, de la dynamique des personnages et des conflits de longue date dont les fans se souviennent.",
       "Pensez à la configuration hebdomadaire qu'il crée : emplois, proches, enquêtes, danger, fantasme ou pression de survie.",
       "L’indice réside dans ses ingrédients reproductibles : les relations, les lieux, les rituels et le type de problèmes qui reviennent sans cesse."
-    ]
+    ],
+    "tmdb_id": 1418,
+    "media_type": "tv"
   },
   {
     "celebrity": "Seinfeld",
@@ -1032,16 +1260,20 @@
       "Ses indices s'inspirent du décor récurrent, de la dynamique des personnages et des conflits de longue date dont les fans se souviennent.",
       "Pensez à la configuration hebdomadaire qu'il crée : emplois, proches, enquêtes, danger, fantasme ou pression de survie.",
       "L’indice réside dans ses ingrédients reproductibles : les relations, les lieux, les rituels et le type de problèmes qui reviennent sans cesse."
-    ]
+    ],
+    "tmdb_id": 1400,
+    "media_type": "tv"
   },
   {
-    "celebrity": "The Simpsons",
+    "celebrity": "Les Simpson",
     "gender": "",
     "facts": [
       "Ses indices s'inspirent du décor récurrent, de la dynamique des personnages et des conflits de longue date dont les fans se souviennent.",
       "Pensez à la configuration hebdomadaire qu'il crée : emplois, proches, enquêtes, danger, fantasme ou pression de survie.",
       "L’indice réside dans ses ingrédients reproductibles : les relations, les lieux, les rituels et le type de problèmes qui reviennent sans cesse."
-    ]
+    ],
+    "tmdb_id": 456,
+    "media_type": "tv"
   },
   {
     "celebrity": "Futurama",
@@ -1050,7 +1282,9 @@
       "Un livreur se réveille dans un futur lointain et rejoint une équipe de transport interplanétaire.",
       "Un capitaine borgne, un robot grossier et un professeur fou sont des indices majeurs.",
       "Ses blagues mélangent la comédie sur le lieu de travail avec les extraterrestres, les voyages dans le temps et l'absurdité de la science-fiction."
-    ]
+    ],
+    "tmdb_id": 615,
+    "media_type": "tv"
   },
   {
     "celebrity": "South Park",
@@ -1059,16 +1293,20 @@
       "Ses indices s'inspirent du décor récurrent, de la dynamique des personnages et des conflits de longue date dont les fans se souviennent.",
       "Pensez à la configuration hebdomadaire qu'il crée : emplois, proches, enquêtes, danger, fantasme ou pression de survie.",
       "L’indice réside dans ses ingrédients reproductibles : les relations, les lieux, les rituels et le type de problèmes qui reviennent sans cesse."
-    ]
+    ],
+    "tmdb_id": 2190,
+    "media_type": "tv"
   },
   {
-    "celebrity": "Rick and Morty",
+    "celebrity": "Rick et Morty",
     "gender": "",
     "facts": [
       "Ses indices s'inspirent du décor récurrent, de la dynamique des personnages et des conflits de longue date dont les fans se souviennent.",
       "Pensez à la configuration hebdomadaire qu'il crée : emplois, proches, enquêtes, danger, fantasme ou pression de survie.",
       "L’indice réside dans ses ingrédients reproductibles : les relations, les lieux, les rituels et le type de problèmes qui reviennent sans cesse."
-    ]
+    ],
+    "tmdb_id": 60625,
+    "media_type": "tv"
   },
   {
     "celebrity": "Black Mirror",
@@ -1077,16 +1315,20 @@
       "Ses indices s'inspirent du décor récurrent, de la dynamique des personnages et des conflits de longue date dont les fans se souviennent.",
       "Pensez à la configuration hebdomadaire qu'il crée : emplois, proches, enquêtes, danger, fantasme ou pression de survie.",
       "L’indice réside dans ses ingrédients reproductibles : les relations, les lieux, les rituels et le type de problèmes qui reviennent sans cesse."
-    ]
+    ],
+    "tmdb_id": 42009,
+    "media_type": "tv"
   },
   {
-    "celebrity": "The Mandalorian",
+    "celebrity": "Le Mandalorien",
     "gender": "",
     "facts": [
       "Ses indices s'inspirent du décor récurrent, de la dynamique des personnages et des conflits de longue date dont les fans se souviennent.",
       "Pensez à la configuration hebdomadaire qu'il crée : emplois, proches, enquêtes, danger, fantasme ou pression de survie.",
       "L’indice réside dans ses ingrédients reproductibles : les relations, les lieux, les rituels et le type de problèmes qui reviennent sans cesse."
-    ]
+    ],
+    "tmdb_id": 82856,
+    "media_type": "tv"
   },
   {
     "celebrity": "The Last of Us",
@@ -1095,7 +1337,9 @@
       "Un contrebandier endurci escorte un adolescent immunisé à travers une Amérique en ruine et infectée par des champignons.",
       "Les monstres qui cliquent, la furtivité improvisée et le lien parent-porteur sont des indices centraux.",
       "La fin transforme un éventuel remède en un choix personnel dévastateur."
-    ]
+    ],
+    "tmdb_id": 100088,
+    "media_type": "tv"
   },
   {
     "celebrity": "Succession",
@@ -1104,7 +1348,9 @@
       "Ses indices s'inspirent du décor récurrent, de la dynamique des personnages et des conflits de longue date dont les fans se souviennent.",
       "Pensez à la configuration hebdomadaire qu'il crée : emplois, proches, enquêtes, danger, fantasme ou pression de survie.",
       "L’indice réside dans ses ingrédients reproductibles : les relations, les lieux, les rituels et le type de problèmes qui reviennent sans cesse."
-    ]
+    ],
+    "tmdb_id": 76331,
+    "media_type": "tv"
   },
   {
     "celebrity": "Sherlock",
@@ -1113,16 +1359,20 @@
       "Ses indices s'inspirent du décor récurrent, de la dynamique des personnages et des conflits de longue date dont les fans se souviennent.",
       "Pensez à la configuration hebdomadaire qu'il crée : emplois, proches, enquêtes, danger, fantasme ou pression de survie.",
       "L’indice réside dans ses ingrédients reproductibles : les relations, les lieux, les rituels et le type de problèmes qui reviennent sans cesse."
-    ]
+    ],
+    "tmdb_id": 19885,
+    "media_type": "tv"
   },
   {
-    "celebrity": "House of the Dragon",
+    "celebrity": "La maison du dragon",
     "gender": "",
     "facts": [
       "Ses indices s'inspirent du décor récurrent, de la dynamique des personnages et des conflits de longue date dont les fans se souviennent.",
       "Pensez à la configuration hebdomadaire qu'il crée : emplois, proches, enquêtes, danger, fantasme ou pression de survie.",
       "L’indice réside dans ses ingrédients reproductibles : les relations, les lieux, les rituels et le type de problèmes qui reviennent sans cesse."
-    ]
+    ],
+    "tmdb_id": 94997,
+    "media_type": "tv"
   },
   {
     "celebrity": "The Bear",
@@ -1131,7 +1381,9 @@
       "Ses indices s'inspirent du décor récurrent, de la dynamique des personnages et des conflits de longue date dont les fans se souviennent.",
       "Pensez à la configuration hebdomadaire qu'il crée : emplois, proches, enquêtes, danger, fantasme ou pression de survie.",
       "L’indice réside dans ses ingrédients reproductibles : les relations, les lieux, les rituels et le type de problèmes qui reviennent sans cesse."
-    ]
+    ],
+    "tmdb_id": 136315,
+    "media_type": "tv"
   },
   {
     "celebrity": "True Detective",
@@ -1140,7 +1392,9 @@
       "Ses indices s'inspirent du décor récurrent, de la dynamique des personnages et des conflits de longue date dont les fans se souviennent.",
       "Pensez à la configuration hebdomadaire qu'il crée : emplois, proches, enquêtes, danger, fantasme ou pression de survie.",
       "L’indice réside dans ses ingrédients reproductibles : les relations, les lieux, les rituels et le type de problèmes qui reviennent sans cesse."
-    ]
+    ],
+    "tmdb_id": 46648,
+    "media_type": "tv"
   },
   {
     "celebrity": "Mr Robot",
@@ -1149,7 +1403,9 @@
       "Ses indices s'inspirent du décor récurrent, de la dynamique des personnages et des conflits de longue date dont les fans se souviennent.",
       "Pensez à la configuration hebdomadaire qu'il crée : emplois, proches, enquêtes, danger, fantasme ou pression de survie.",
       "L’indice réside dans ses ingrédients reproductibles : les relations, les lieux, les rituels et le type de problèmes qui reviennent sans cesse."
-    ]
+    ],
+    "tmdb_id": 62560,
+    "media_type": "tv"
   },
   {
     "celebrity": "Hannibal",
@@ -1158,25 +1414,31 @@
       "Ses indices s'inspirent du décor récurrent, de la dynamique des personnages et des conflits de longue date dont les fans se souviennent.",
       "Pensez à la configuration hebdomadaire qu'il crée : emplois, proches, enquêtes, danger, fantasme ou pression de survie.",
       "L’indice réside dans ses ingrédients reproductibles : les relations, les lieux, les rituels et le type de problèmes qui reviennent sans cesse."
-    ]
+    ],
+    "tmdb_id": 40008,
+    "media_type": "tv"
   },
   {
-    "celebrity": "Greys Anatomy",
+    "celebrity": "Dre Grey, leçons d'anatomie",
     "gender": "",
     "facts": [
       "Ses indices s'inspirent du décor récurrent, de la dynamique des personnages et des conflits de longue date dont les fans se souviennent.",
       "Pensez à la configuration hebdomadaire qu'il crée : emplois, proches, enquêtes, danger, fantasme ou pression de survie.",
       "L’indice réside dans ses ingrédients reproductibles : les relations, les lieux, les rituels et le type de problèmes qui reviennent sans cesse."
-    ]
+    ],
+    "tmdb_id": 1416,
+    "media_type": "tv"
   },
   {
-    "celebrity": "Modern Family",
+    "celebrity": "Famille moderne",
     "gender": "",
     "facts": [
       "Ses indices s'inspirent du décor récurrent, de la dynamique des personnages et des conflits de longue date dont les fans se souviennent.",
       "Pensez à la configuration hebdomadaire qu'il crée : emplois, proches, enquêtes, danger, fantasme ou pression de survie.",
       "L’indice réside dans ses ingrédients reproductibles : les relations, les lieux, les rituels et le type de problèmes qui reviennent sans cesse."
-    ]
+    ],
+    "tmdb_id": 1421,
+    "media_type": "tv"
   },
   {
     "celebrity": "Cheers",
@@ -1185,25 +1447,31 @@
       "Ses indices s'inspirent du décor récurrent, de la dynamique des personnages et des conflits de longue date dont les fans se souviennent.",
       "Pensez à la configuration hebdomadaire qu'il crée : emplois, proches, enquêtes, danger, fantasme ou pression de survie.",
       "L’indice réside dans ses ingrédients reproductibles : les relations, les lieux, les rituels et le type de problèmes qui reviennent sans cesse."
-    ]
+    ],
+    "tmdb_id": 141,
+    "media_type": "tv"
   },
   {
-    "celebrity": "Mash",
+    "celebrity": "M.A.S.H.",
     "gender": "",
     "facts": [
       "Ses indices s'inspirent du décor récurrent, de la dynamique des personnages et des conflits de longue date dont les fans se souviennent.",
       "Pensez à la configuration hebdomadaire qu'il crée : emplois, proches, enquêtes, danger, fantasme ou pression de survie.",
       "L’indice réside dans ses ingrédients reproductibles : les relations, les lieux, les rituels et le type de problèmes qui reviennent sans cesse."
-    ]
+    ],
+    "tmdb_id": 918,
+    "media_type": "tv"
   },
   {
-    "celebrity": "The Fresh Prince of Bel Air",
+    "celebrity": "Le Prince de Bel-Air",
     "gender": "",
     "facts": [
       "Ses indices s'inspirent du décor récurrent, de la dynamique des personnages et des conflits de longue date dont les fans se souviennent.",
       "Pensez à la configuration hebdomadaire qu'il crée : emplois, proches, enquêtes, danger, fantasme ou pression de survie.",
       "L’indice réside dans ses ingrédients reproductibles : les relations, les lieux, les rituels et le type de problèmes qui reviennent sans cesse."
-    ]
+    ],
+    "tmdb_id": 1892,
+    "media_type": "tv"
   },
   {
     "celebrity": "Daredevil",
@@ -1212,7 +1480,9 @@
       "Ses indices s'inspirent du décor récurrent, de la dynamique des personnages et des conflits de longue date dont les fans se souviennent.",
       "Pensez à la configuration hebdomadaire qu'il crée : emplois, proches, enquêtes, danger, fantasme ou pression de survie.",
       "L’indice réside dans ses ingrédients reproductibles : les relations, les lieux, les rituels et le type de problèmes qui reviennent sans cesse."
-    ]
+    ],
+    "tmdb_id": 61889,
+    "media_type": "tv"
   },
   {
     "celebrity": "Wanda Vision",
@@ -1221,7 +1491,9 @@
       "Ses indices s'inspirent du décor récurrent, de la dynamique des personnages et des conflits de longue date dont les fans se souviennent.",
       "Pensez à la configuration hebdomadaire qu'il crée : emplois, proches, enquêtes, danger, fantasme ou pression de survie.",
       "L’indice réside dans ses ingrédients reproductibles : les relations, les lieux, les rituels et le type de problèmes qui reviennent sans cesse."
-    ]
+    ],
+    "tmdb_id": 85271,
+    "media_type": "tv"
   },
   {
     "celebrity": "Loki",
@@ -1230,16 +1502,20 @@
       "Ses indices s'inspirent du décor récurrent, de la dynamique des personnages et des conflits de longue date dont les fans se souviennent.",
       "Pensez à la configuration hebdomadaire qu'il crée : emplois, proches, enquêtes, danger, fantasme ou pression de survie.",
       "L’indice réside dans ses ingrédients reproductibles : les relations, les lieux, les rituels et le type de problèmes qui reviennent sans cesse."
-    ]
+    ],
+    "tmdb_id": 84958,
+    "media_type": "tv"
   },
   {
-    "celebrity": "Agents of Shield",
+    "celebrity": "Marvel : Les agents du S.H.I.E.L.D",
     "gender": "",
     "facts": [
       "Ses indices s'inspirent du décor récurrent, de la dynamique des personnages et des conflits de longue date dont les fans se souviennent.",
       "Pensez à la configuration hebdomadaire qu'il crée : emplois, proches, enquêtes, danger, fantasme ou pression de survie.",
       "L’indice réside dans ses ingrédients reproductibles : les relations, les lieux, les rituels et le type de problèmes qui reviennent sans cesse."
-    ]
+    ],
+    "tmdb_id": 1403,
+    "media_type": "tv"
   },
   {
     "celebrity": "Battlestar Galactica",
@@ -1248,7 +1524,9 @@
       "Ses indices s'inspirent du décor récurrent, de la dynamique des personnages et des conflits de longue date dont les fans se souviennent.",
       "Pensez à la configuration hebdomadaire qu'il crée : emplois, proches, enquêtes, danger, fantasme ou pression de survie.",
       "L’indice réside dans ses ingrédients reproductibles : les relations, les lieux, les rituels et le type de problèmes qui reviennent sans cesse."
-    ]
+    ],
+    "tmdb_id": 1972,
+    "media_type": "tv"
   },
   {
     "celebrity": "Firefly",
@@ -1257,25 +1535,31 @@
       "Ses indices s'inspirent du décor récurrent, de la dynamique des personnages et des conflits de longue date dont les fans se souviennent.",
       "Pensez à la configuration hebdomadaire qu'il crée : emplois, proches, enquêtes, danger, fantasme ou pression de survie.",
       "L’indice réside dans ses ingrédients reproductibles : les relations, les lieux, les rituels et le type de problèmes qui reviennent sans cesse."
-    ]
+    ],
+    "tmdb_id": 1437,
+    "media_type": "tv"
   },
   {
-    "celebrity": "Star Trek the Next Generation",
+    "celebrity": "Star Trek : La Nouvelle Génération",
     "gender": "",
     "facts": [
       "Ses indices s'inspirent du décor récurrent, de la dynamique des personnages et des conflits de longue date dont les fans se souviennent.",
       "Pensez à la configuration hebdomadaire qu'il crée : emplois, proches, enquêtes, danger, fantasme ou pression de survie.",
       "L’indice réside dans ses ingrédients reproductibles : les relations, les lieux, les rituels et le type de problèmes qui reviennent sans cesse."
-    ]
+    ],
+    "tmdb_id": 655,
+    "media_type": "tv"
   },
   {
-    "celebrity": "Money Heist",
+    "celebrity": "La maison de papier",
     "gender": "",
     "facts": [
       "Ses indices s'inspirent du décor récurrent, de la dynamique des personnages et des conflits de longue date dont les fans se souviennent.",
       "Pensez à la configuration hebdomadaire qu'il crée : emplois, proches, enquêtes, danger, fantasme ou pression de survie.",
       "L’indice réside dans ses ingrédients reproductibles : les relations, les lieux, les rituels et le type de problèmes qui reviennent sans cesse."
-    ]
+    ],
+    "tmdb_id": 71446,
+    "media_type": "tv"
   },
   {
     "celebrity": "Dark",
@@ -1284,7 +1568,9 @@
       "Ses indices s'inspirent du décor récurrent, de la dynamique des personnages et des conflits de longue date dont les fans se souviennent.",
       "Pensez à la configuration hebdomadaire qu'il crée : emplois, proches, enquêtes, danger, fantasme ou pression de survie.",
       "L’indice réside dans ses ingrédients reproductibles : les relations, les lieux, les rituels et le type de problèmes qui reviennent sans cesse."
-    ]
+    ],
+    "tmdb_id": 70523,
+    "media_type": "tv"
   },
   {
     "celebrity": "Narcos",
@@ -1293,16 +1579,20 @@
       "Ses indices s'inspirent du décor récurrent, de la dynamique des personnages et des conflits de longue date dont les fans se souviennent.",
       "Pensez à la configuration hebdomadaire qu'il crée : emplois, proches, enquêtes, danger, fantasme ou pression de survie.",
       "L’indice réside dans ses ingrédients reproductibles : les relations, les lieux, les rituels et le type de problèmes qui reviennent sans cesse."
-    ]
+    ],
+    "tmdb_id": 63351,
+    "media_type": "tv"
   },
   {
-    "celebrity": "The Queens Gambit",
+    "celebrity": "Le Jeu de la dame",
     "gender": "",
     "facts": [
       "Ses indices s'inspirent du décor récurrent, de la dynamique des personnages et des conflits de longue date dont les fans se souviennent.",
       "Pensez à la configuration hebdomadaire qu'il crée : emplois, proches, enquêtes, danger, fantasme ou pression de survie.",
       "L’indice réside dans ses ingrédients reproductibles : les relations, les lieux, les rituels et le type de problèmes qui reviennent sans cesse."
-    ]
+    ],
+    "tmdb_id": 87739,
+    "media_type": "tv"
   },
   {
     "celebrity": "Ozark",
@@ -1311,25 +1601,31 @@
       "Ses indices s'inspirent du décor récurrent, de la dynamique des personnages et des conflits de longue date dont les fans se souviennent.",
       "Pensez à la configuration hebdomadaire qu'il crée : emplois, proches, enquêtes, danger, fantasme ou pression de survie.",
       "L’indice réside dans ses ingrédients reproductibles : les relations, les lieux, les rituels et le type de problèmes qui reviennent sans cesse."
-    ]
+    ],
+    "tmdb_id": 69740,
+    "media_type": "tv"
   },
   {
-    "celebrity": "24",
+    "celebrity": "24 heures chrono",
     "gender": "",
     "facts": [
       "Ses indices s'inspirent du décor récurrent, de la dynamique des personnages et des conflits de longue date dont les fans se souviennent.",
       "Pensez à la configuration hebdomadaire qu'il crée : emplois, proches, enquêtes, danger, fantasme ou pression de survie.",
       "L’indice réside dans ses ingrédients reproductibles : les relations, les lieux, les rituels et le type de problèmes qui reviennent sans cesse."
-    ]
+    ],
+    "tmdb_id": 1973,
+    "media_type": "tv"
   },
   {
-    "celebrity": "The West Wing",
+    "celebrity": "À la Maison-Blanche",
     "gender": "",
     "facts": [
       "Ses indices s'inspirent du décor récurrent, de la dynamique des personnages et des conflits de longue date dont les fans se souviennent.",
       "Pensez à la configuration hebdomadaire qu'il crée : emplois, proches, enquêtes, danger, fantasme ou pression de survie.",
       "L’indice réside dans ses ingrédients reproductibles : les relations, les lieux, les rituels et le type de problèmes qui reviennent sans cesse."
-    ]
+    ],
+    "tmdb_id": 688,
+    "media_type": "tv"
   },
   {
     "celebrity": "Downton Abbey",
@@ -1338,7 +1634,9 @@
       "Ses indices s'inspirent du décor récurrent, de la dynamique des personnages et des conflits de longue date dont les fans se souviennent.",
       "Pensez à la configuration hebdomadaire qu'il crée : emplois, proches, enquêtes, danger, fantasme ou pression de survie.",
       "L’indice réside dans ses ingrédients reproductibles : les relations, les lieux, les rituels et le type de problèmes qui reviennent sans cesse."
-    ]
+    ],
+    "tmdb_id": 33907,
+    "media_type": "tv"
   },
   {
     "celebrity": "Fleabag",
@@ -1347,7 +1645,9 @@
       "Ses indices s'inspirent du décor récurrent, de la dynamique des personnages et des conflits de longue date dont les fans se souviennent.",
       "Pensez à la configuration hebdomadaire qu'il crée : emplois, proches, enquêtes, danger, fantasme ou pression de survie.",
       "L’indice réside dans ses ingrédients reproductibles : les relations, les lieux, les rituels et le type de problèmes qui reviennent sans cesse."
-    ]
+    ],
+    "tmdb_id": 67070,
+    "media_type": "tv"
   },
   {
     "celebrity": "Ted Lasso",
@@ -1356,7 +1656,9 @@
       "Ses indices s'inspirent du décor récurrent, de la dynamique des personnages et des conflits de longue date dont les fans se souviennent.",
       "Pensez à la configuration hebdomadaire qu'il crée : emplois, proches, enquêtes, danger, fantasme ou pression de survie.",
       "L’indice réside dans ses ingrédients reproductibles : les relations, les lieux, les rituels et le type de problèmes qui reviennent sans cesse."
-    ]
+    ],
+    "tmdb_id": 97546,
+    "media_type": "tv"
   },
   {
     "celebrity": "Community",
@@ -1365,7 +1667,9 @@
       "Ses indices s'inspirent du décor récurrent, de la dynamique des personnages et des conflits de longue date dont les fans se souviennent.",
       "Pensez à la configuration hebdomadaire qu'il crée : emplois, proches, enquêtes, danger, fantasme ou pression de survie.",
       "L’indice réside dans ses ingrédients reproductibles : les relations, les lieux, les rituels et le type de problèmes qui reviennent sans cesse."
-    ]
+    ],
+    "tmdb_id": 18347,
+    "media_type": "tv"
   },
   {
     "celebrity": "Arrested Development",
@@ -1374,34 +1678,42 @@
       "Ses indices s'inspirent du décor récurrent, de la dynamique des personnages et des conflits de longue date dont les fans se souviennent.",
       "Pensez à la configuration hebdomadaire qu'il crée : emplois, proches, enquêtes, danger, fantasme ou pression de survie.",
       "L’indice réside dans ses ingrédients reproductibles : les relations, les lieux, les rituels et le type de problèmes qui reviennent sans cesse."
-    ]
+    ],
+    "tmdb_id": 4589,
+    "media_type": "tv"
   },
   {
-    "celebrity": "Its Always Sunny in Philadelphia",
+    "celebrity": "Philadelphia",
     "gender": "",
     "facts": [
       "Ses indices s'inspirent du décor récurrent, de la dynamique des personnages et des conflits de longue date dont les fans se souviennent.",
       "Pensez à la configuration hebdomadaire qu'il crée : emplois, proches, enquêtes, danger, fantasme ou pression de survie.",
       "L’indice réside dans ses ingrédients reproductibles : les relations, les lieux, les rituels et le type de problèmes qui reviennent sans cesse."
-    ]
+    ],
+    "tmdb_id": 2710,
+    "media_type": "tv"
   },
   {
-    "celebrity": "Veep",
+    "celebrity": "Veep : vice-présidente",
     "gender": "",
     "facts": [
       "Ses indices s'inspirent du décor récurrent, de la dynamique des personnages et des conflits de longue date dont les fans se souviennent.",
       "Pensez à la configuration hebdomadaire qu'il crée : emplois, proches, enquêtes, danger, fantasme ou pression de survie.",
       "L’indice réside dans ses ingrédients reproductibles : les relations, les lieux, les rituels et le type de problèmes qui reviennent sans cesse."
-    ]
+    ],
+    "tmdb_id": 2947,
+    "media_type": "tv"
   },
   {
-    "celebrity": "The Good Place",
+    "celebrity": "Une chipie au paradis",
     "gender": "",
     "facts": [
       "Ses indices s'inspirent du décor récurrent, de la dynamique des personnages et des conflits de longue date dont les fans se souviennent.",
       "Pensez à la configuration hebdomadaire qu'il crée : emplois, proches, enquêtes, danger, fantasme ou pression de survie.",
       "L’indice réside dans ses ingrédients reproductibles : les relations, les lieux, les rituels et le type de problèmes qui reviennent sans cesse."
-    ]
+    ],
+    "tmdb_id": 66573,
+    "media_type": "tv"
   },
   {
     "celebrity": "Angel",
@@ -1410,7 +1722,9 @@
       "Ses indices s'inspirent du décor récurrent, de la dynamique des personnages et des conflits de longue date dont les fans se souviennent.",
       "Pensez à la configuration hebdomadaire qu'il crée : emplois, proches, enquêtes, danger, fantasme ou pression de survie.",
       "L’indice réside dans ses ingrédients reproductibles : les relations, les lieux, les rituels et le type de problèmes qui reviennent sans cesse."
-    ]
+    ],
+    "tmdb_id": 2426,
+    "media_type": "tv"
   },
   {
     "celebrity": "Supergirl",
@@ -1419,7 +1733,9 @@
       "Ses indices s'inspirent du décor récurrent, de la dynamique des personnages et des conflits de longue date dont les fans se souviennent.",
       "Pensez à la configuration hebdomadaire qu'il crée : emplois, proches, enquêtes, danger, fantasme ou pression de survie.",
       "L’indice réside dans ses ingrédients reproductibles : les relations, les lieux, les rituels et le type de problèmes qui reviennent sans cesse."
-    ]
+    ],
+    "tmdb_id": 62688,
+    "media_type": "tv"
   },
   {
     "celebrity": "Watchmen",
@@ -1428,25 +1744,31 @@
       "Ses indices s'inspirent du décor récurrent, de la dynamique des personnages et des conflits de longue date dont les fans se souviennent.",
       "Pensez à la configuration hebdomadaire qu'il crée : emplois, proches, enquêtes, danger, fantasme ou pression de survie.",
       "L’indice réside dans ses ingrédients reproductibles : les relations, les lieux, les rituels et le type de problèmes qui reviennent sans cesse."
-    ]
+    ],
+    "tmdb_id": 79788,
+    "media_type": "tv"
   },
   {
-    "celebrity": "The Umbrella Academy",
+    "celebrity": "Umbrella Academy",
     "gender": "",
     "facts": [
       "Ses indices s'inspirent du décor récurrent, de la dynamique des personnages et des conflits de longue date dont les fans se souviennent.",
       "Pensez à la configuration hebdomadaire qu'il crée : emplois, proches, enquêtes, danger, fantasme ou pression de survie.",
       "L’indice réside dans ses ingrédients reproductibles : les relations, les lieux, les rituels et le type de problèmes qui reviennent sans cesse."
-    ]
+    ],
+    "tmdb_id": 75006,
+    "media_type": "tv"
   },
   {
-    "celebrity": "The Sandman",
+    "celebrity": "Sandman",
     "gender": "",
     "facts": [
       "Ses indices s'inspirent du décor récurrent, de la dynamique des personnages et des conflits de longue date dont les fans se souviennent.",
       "Pensez à la configuration hebdomadaire qu'il crée : emplois, proches, enquêtes, danger, fantasme ou pression de survie.",
       "L’indice réside dans ses ingrédients reproductibles : les relations, les lieux, les rituels et le type de problèmes qui reviennent sans cesse."
-    ]
+    ],
+    "tmdb_id": 90802,
+    "media_type": "tv"
   },
   {
     "celebrity": "Arcane",
@@ -1455,7 +1777,9 @@
       "Ses indices s'inspirent du décor récurrent, de la dynamique des personnages et des conflits de longue date dont les fans se souviennent.",
       "Pensez à la configuration hebdomadaire qu'il crée : emplois, proches, enquêtes, danger, fantasme ou pression de survie.",
       "L’indice réside dans ses ingrédients reproductibles : les relations, les lieux, les rituels et le type de problèmes qui reviennent sans cesse."
-    ]
+    ],
+    "tmdb_id": 94605,
+    "media_type": "tv"
   },
   {
     "celebrity": "Bones",
@@ -1464,25 +1788,31 @@
       "Ses indices s'inspirent du décor récurrent, de la dynamique des personnages et des conflits de longue date dont les fans se souviennent.",
       "Pensez à la configuration hebdomadaire qu'il crée : emplois, proches, enquêtes, danger, fantasme ou pression de survie.",
       "L’indice réside dans ses ingrédients reproductibles : les relations, les lieux, les rituels et le type de problèmes qui reviennent sans cesse."
-    ]
+    ],
+    "tmdb_id": 1911,
+    "media_type": "tv"
   },
   {
-    "celebrity": "White Collar",
+    "celebrity": "FBI : Flic et escroc",
     "gender": "",
     "facts": [
       "Ses indices s'inspirent du décor récurrent, de la dynamique des personnages et des conflits de longue date dont les fans se souviennent.",
       "Pensez à la configuration hebdomadaire qu'il crée : emplois, proches, enquêtes, danger, fantasme ou pression de survie.",
       "L’indice réside dans ses ingrédients reproductibles : les relations, les lieux, les rituels et le type de problèmes qui reviennent sans cesse."
-    ]
+    ],
+    "tmdb_id": 21510,
+    "media_type": "tv"
   },
   {
-    "celebrity": "Sex and the City",
+    "celebrity": "Sexe à New York",
     "gender": "",
     "facts": [
       "Ses indices s'inspirent du décor récurrent, de la dynamique des personnages et des conflits de longue date dont les fans se souviennent.",
       "Pensez à la configuration hebdomadaire qu'il crée : emplois, proches, enquêtes, danger, fantasme ou pression de survie.",
       "L’indice réside dans ses ingrédients reproductibles : les relations, les lieux, les rituels et le type de problèmes qui reviennent sans cesse."
-    ]
+    ],
+    "tmdb_id": 105,
+    "media_type": "tv"
   },
   {
     "celebrity": "Orange Is the New Black",
@@ -1491,16 +1821,20 @@
       "Ses indices s'inspirent du décor récurrent, de la dynamique des personnages et des conflits de longue date dont les fans se souviennent.",
       "Pensez à la configuration hebdomadaire qu'il crée : emplois, proches, enquêtes, danger, fantasme ou pression de survie.",
       "L’indice réside dans ses ingrédients reproductibles : les relations, les lieux, les rituels et le type de problèmes qui reviennent sans cesse."
-    ]
+    ],
+    "tmdb_id": 1424,
+    "media_type": "tv"
   },
   {
-    "celebrity": "The Handmaids Tale",
+    "celebrity": "The Handmaid's Tale : la servante écarlate",
     "gender": "",
     "facts": [
       "Ses indices s'inspirent du décor récurrent, de la dynamique des personnages et des conflits de longue date dont les fans se souviennent.",
       "Pensez à la configuration hebdomadaire qu'il crée : emplois, proches, enquêtes, danger, fantasme ou pression de survie.",
       "L’indice réside dans ses ingrédients reproductibles : les relations, les lieux, les rituels et le type de problèmes qui reviennent sans cesse."
-    ]
+    ],
+    "tmdb_id": 69478,
+    "media_type": "tv"
   },
   {
     "celebrity": "Killing Eve",
@@ -1509,25 +1843,31 @@
       "Ses indices s'inspirent du décor récurrent, de la dynamique des personnages et des conflits de longue date dont les fans se souviennent.",
       "Pensez à la configuration hebdomadaire qu'il crée : emplois, proches, enquêtes, danger, fantasme ou pression de survie.",
       "L’indice réside dans ses ingrédients reproductibles : les relations, les lieux, les rituels et le type de problèmes qui reviennent sans cesse."
-    ]
+    ],
+    "tmdb_id": 72750,
+    "media_type": "tv"
   },
   {
-    "celebrity": "Orphan Black",
+    "celebrity": "Sans origine : Orphan Black",
     "gender": "",
     "facts": [
       "Ses indices s'inspirent du décor récurrent, de la dynamique des personnages et des conflits de longue date dont les fans se souviennent.",
       "Pensez à la configuration hebdomadaire qu'il crée : emplois, proches, enquêtes, danger, fantasme ou pression de survie.",
       "L’indice réside dans ses ingrédients reproductibles : les relations, les lieux, les rituels et le type de problèmes qui reviennent sans cesse."
-    ]
+    ],
+    "tmdb_id": 56296,
+    "media_type": "tv"
   },
   {
-    "celebrity": "The Originals",
+    "celebrity": "Les vampires originels",
     "gender": "",
     "facts": [
       "Ses indices s'inspirent du décor récurrent, de la dynamique des personnages et des conflits de longue date dont les fans se souviennent.",
       "Pensez à la configuration hebdomadaire qu'il crée : emplois, proches, enquêtes, danger, fantasme ou pression de survie.",
       "L’indice réside dans ses ingrédients reproductibles : les relations, les lieux, les rituels et le type de problèmes qui reviennent sans cesse."
-    ]
+    ],
+    "tmdb_id": 46896,
+    "media_type": "tv"
   },
   {
     "celebrity": "Riverdale",
@@ -1536,25 +1876,31 @@
       "Ses indices s'inspirent du décor récurrent, de la dynamique des personnages et des conflits de longue date dont les fans se souviennent.",
       "Pensez à la configuration hebdomadaire qu'il crée : emplois, proches, enquêtes, danger, fantasme ou pression de survie.",
       "L’indice réside dans ses ingrédients reproductibles : les relations, les lieux, les rituels et le type de problèmes qui reviennent sans cesse."
-    ]
+    ],
+    "tmdb_id": 69050,
+    "media_type": "tv"
   },
   {
-    "celebrity": "The Oc",
+    "celebrity": "Newport Beach",
     "gender": "",
     "facts": [
       "Ses indices s'inspirent du décor récurrent, de la dynamique des personnages et des conflits de longue date dont les fans se souviennent.",
       "Pensez à la configuration hebdomadaire qu'il crée : emplois, proches, enquêtes, danger, fantasme ou pression de survie.",
       "L’indice réside dans ses ingrédients reproductibles : les relations, les lieux, les rituels et le type de problèmes qui reviennent sans cesse."
-    ]
+    ],
+    "tmdb_id": 2673,
+    "media_type": "tv"
   },
   {
-    "celebrity": "Dawsons Creek",
+    "celebrity": "Dawson",
     "gender": "",
     "facts": [
       "Ses indices s'inspirent du décor récurrent, de la dynamique des personnages et des conflits de longue date dont les fans se souviennent.",
       "Pensez à la configuration hebdomadaire qu'il crée : emplois, proches, enquêtes, danger, fantasme ou pression de survie.",
       "L’indice réside dans ses ingrédients reproductibles : les relations, les lieux, les rituels et le type de problèmes qui reviennent sans cesse."
-    ]
+    ],
+    "tmdb_id": 2327,
+    "media_type": "tv"
   },
   {
     "celebrity": "Veronica Mars",
@@ -1563,7 +1909,9 @@
       "Ses indices s'inspirent du décor récurrent, de la dynamique des personnages et des conflits de longue date dont les fans se souviennent.",
       "Pensez à la configuration hebdomadaire qu'il crée : emplois, proches, enquêtes, danger, fantasme ou pression de survie.",
       "L’indice réside dans ses ingrédients reproductibles : les relations, les lieux, les rituels et le type de problèmes qui reviennent sans cesse."
-    ]
+    ],
+    "tmdb_id": 1432,
+    "media_type": "tv"
   },
   {
     "celebrity": "Empire",
@@ -1572,25 +1920,31 @@
       "Ses indices s'inspirent du décor récurrent, de la dynamique des personnages et des conflits de longue date dont les fans se souviennent.",
       "Pensez à la configuration hebdomadaire qu'il crée : emplois, proches, enquêtes, danger, fantasme ou pression de survie.",
       "L’indice réside dans ses ingrédients reproductibles : les relations, les lieux, les rituels et le type de problèmes qui reviennent sans cesse."
-    ]
+    ],
+    "tmdb_id": 61733,
+    "media_type": "tv"
   },
   {
-    "celebrity": "This Is Us",
+    "celebrity": "Notre vie",
     "gender": "",
     "facts": [
       "Ses indices s'inspirent du décor récurrent, de la dynamique des personnages et des conflits de longue date dont les fans se souviennent.",
       "Pensez à la configuration hebdomadaire qu'il crée : emplois, proches, enquêtes, danger, fantasme ou pression de survie.",
       "L’indice réside dans ses ingrédients reproductibles : les relations, les lieux, les rituels et le type de problèmes qui reviennent sans cesse."
-    ]
+    ],
+    "tmdb_id": 67136,
+    "media_type": "tv"
   },
   {
-    "celebrity": "Six Feet Under",
+    "celebrity": "Six pieds sous terre",
     "gender": "",
     "facts": [
       "Ses indices s'inspirent du décor récurrent, de la dynamique des personnages et des conflits de longue date dont les fans se souviennent.",
       "Pensez à la configuration hebdomadaire qu'il crée : emplois, proches, enquêtes, danger, fantasme ou pression de survie.",
       "L’indice réside dans ses ingrédients reproductibles : les relations, les lieux, les rituels et le type de problèmes qui reviennent sans cesse."
-    ]
+    ],
+    "tmdb_id": 1274,
+    "media_type": "tv"
   },
   {
     "celebrity": "Deadwood",
@@ -1599,7 +1953,9 @@
       "Ses indices s'inspirent du décor récurrent, de la dynamique des personnages et des conflits de longue date dont les fans se souviennent.",
       "Pensez à la configuration hebdomadaire qu'il crée : emplois, proches, enquêtes, danger, fantasme ou pression de survie.",
       "L’indice réside dans ses ingrédients reproductibles : les relations, les lieux, les rituels et le type de problèmes qui reviennent sans cesse."
-    ]
+    ],
+    "tmdb_id": 1406,
+    "media_type": "tv"
   },
   {
     "celebrity": "Rome",
@@ -1608,7 +1964,9 @@
       "Ses indices s'inspirent du décor récurrent, de la dynamique des personnages et des conflits de longue date dont les fans se souviennent.",
       "Pensez à la configuration hebdomadaire qu'il crée : emplois, proches, enquêtes, danger, fantasme ou pression de survie.",
       "L’indice réside dans ses ingrédients reproductibles : les relations, les lieux, les rituels et le type de problèmes qui reviennent sans cesse."
-    ]
+    ],
+    "tmdb_id": 1891,
+    "media_type": "tv"
   },
   {
     "celebrity": "Boardwalk Empire",
@@ -1617,16 +1975,20 @@
       "Ses indices s'inspirent du décor récurrent, de la dynamique des personnages et des conflits de longue date dont les fans se souviennent.",
       "Pensez à la configuration hebdomadaire qu'il crée : emplois, proches, enquêtes, danger, fantasme ou pression de survie.",
       "L’indice réside dans ses ingrédients reproductibles : les relations, les lieux, les rituels et le type de problèmes qui reviennent sans cesse."
-    ]
+    ],
+    "tmdb_id": 1621,
+    "media_type": "tv"
   },
   {
-    "celebrity": "The Newsroom",
+    "celebrity": "Salle de nouvelles",
     "gender": "",
     "facts": [
       "Ses indices s'inspirent du décor récurrent, de la dynamique des personnages et des conflits de longue date dont les fans se souviennent.",
       "Pensez à la configuration hebdomadaire qu'il crée : emplois, proches, enquêtes, danger, fantasme ou pression de survie.",
       "L’indice réside dans ses ingrédients reproductibles : les relations, les lieux, les rituels et le type de problèmes qui reviennent sans cesse."
-    ]
+    ],
+    "tmdb_id": 15621,
+    "media_type": "tv"
   },
   {
     "celebrity": "Billions",
@@ -1635,7 +1997,9 @@
       "Ses indices s'inspirent du décor récurrent, de la dynamique des personnages et des conflits de longue date dont les fans se souviennent.",
       "Pensez à la configuration hebdomadaire qu'il crée : emplois, proches, enquêtes, danger, fantasme ou pression de survie.",
       "L’indice réside dans ses ingrédients reproductibles : les relations, les lieux, les rituels et le type de problèmes qui reviennent sans cesse."
-    ]
+    ],
+    "tmdb_id": 62852,
+    "media_type": "tv"
   },
   {
     "celebrity": "Silicon Valley",
@@ -1644,7 +2008,9 @@
       "Ses indices s'inspirent du décor récurrent, de la dynamique des personnages et des conflits de longue date dont les fans se souviennent.",
       "Pensez à la configuration hebdomadaire qu'il crée : emplois, proches, enquêtes, danger, fantasme ou pression de survie.",
       "L’indice réside dans ses ingrédients reproductibles : les relations, les lieux, les rituels et le type de problèmes qui reviennent sans cesse."
-    ]
+    ],
+    "tmdb_id": 60573,
+    "media_type": "tv"
   },
   {
     "celebrity": "Entourage",
@@ -1653,7 +2019,9 @@
       "Ses indices s'inspirent du décor récurrent, de la dynamique des personnages et des conflits de longue date dont les fans se souviennent.",
       "Pensez à la configuration hebdomadaire qu'il crée : emplois, proches, enquêtes, danger, fantasme ou pression de survie.",
       "L’indice réside dans ses ingrédients reproductibles : les relations, les lieux, les rituels et le type de problèmes qui reviennent sans cesse."
-    ]
+    ],
+    "tmdb_id": 1940,
+    "media_type": "tv"
   },
   {
     "celebrity": "Girls",
@@ -1662,7 +2030,9 @@
       "Ses indices s'inspirent du décor récurrent, de la dynamique des personnages et des conflits de longue date dont les fans se souviennent.",
       "Pensez à la configuration hebdomadaire qu'il crée : emplois, proches, enquêtes, danger, fantasme ou pression de survie.",
       "L’indice réside dans ses ingrédients reproductibles : les relations, les lieux, les rituels et le type de problèmes qui reviennent sans cesse."
-    ]
+    ],
+    "tmdb_id": 42282,
+    "media_type": "tv"
   },
   {
     "celebrity": "Skam",
@@ -1671,7 +2041,9 @@
       "Ses indices s'inspirent du décor récurrent, de la dynamique des personnages et des conflits de longue date dont les fans se souviennent.",
       "Pensez à la configuration hebdomadaire qu'il crée : emplois, proches, enquêtes, danger, fantasme ou pression de survie.",
       "L’indice réside dans ses ingrédients reproductibles : les relations, les lieux, les rituels et le type de problèmes qui reviennent sans cesse."
-    ]
+    ],
+    "tmdb_id": 65320,
+    "media_type": "tv"
   },
   {
     "celebrity": "Skins",
@@ -1680,16 +2052,20 @@
       "Ses indices s'inspirent du décor récurrent, de la dynamique des personnages et des conflits de longue date dont les fans se souviennent.",
       "Pensez à la configuration hebdomadaire qu'il crée : emplois, proches, enquêtes, danger, fantasme ou pression de survie.",
       "L’indice réside dans ses ingrédients reproductibles : les relations, les lieux, les rituels et le type de problèmes qui reviennent sans cesse."
-    ]
+    ],
+    "tmdb_id": 900,
+    "media_type": "tv"
   },
   {
-    "celebrity": "Shameless",
+    "celebrity": "Sans regret",
     "gender": "",
     "facts": [
       "Ses indices s'inspirent du décor récurrent, de la dynamique des personnages et des conflits de longue date dont les fans se souviennent.",
       "Pensez à la configuration hebdomadaire qu'il crée : emplois, proches, enquêtes, danger, fantasme ou pression de survie.",
       "L’indice réside dans ses ingrédients reproductibles : les relations, les lieux, les rituels et le type de problèmes qui reviennent sans cesse."
-    ]
+    ],
+    "tmdb_id": 34307,
+    "media_type": "tv"
   },
   {
     "celebrity": "Misfits",
@@ -1698,7 +2074,9 @@
       "Ses indices s'inspirent du décor récurrent, de la dynamique des personnages et des conflits de longue date dont les fans se souviennent.",
       "Pensez à la configuration hebdomadaire qu'il crée : emplois, proches, enquêtes, danger, fantasme ou pression de survie.",
       "L’indice réside dans ses ingrédients reproductibles : les relations, les lieux, les rituels et le type de problèmes qui reviennent sans cesse."
-    ]
+    ],
+    "tmdb_id": 31295,
+    "media_type": "tv"
   },
   {
     "celebrity": "Black Sails",
@@ -1707,16 +2085,20 @@
       "Ses indices s'inspirent du décor récurrent, de la dynamique des personnages et des conflits de longue date dont les fans se souviennent.",
       "Pensez à la configuration hebdomadaire qu'il crée : emplois, proches, enquêtes, danger, fantasme ou pression de survie.",
       "L’indice réside dans ses ingrédients reproductibles : les relations, les lieux, les rituels et le type de problèmes qui reviennent sans cesse."
-    ]
+    ],
+    "tmdb_id": 47665,
+    "media_type": "tv"
   },
   {
-    "celebrity": "The Tudors",
+    "celebrity": "Les Tudors",
     "gender": "",
     "facts": [
       "Ses indices s'inspirent du décor récurrent, de la dynamique des personnages et des conflits de longue date dont les fans se souviennent.",
       "Pensez à la configuration hebdomadaire qu'il crée : emplois, proches, enquêtes, danger, fantasme ou pression de survie.",
       "L’indice réside dans ses ingrédients reproductibles : les relations, les lieux, les rituels et le type de problèmes qui reviennent sans cesse."
-    ]
+    ],
+    "tmdb_id": 2942,
+    "media_type": "tv"
   },
   {
     "celebrity": "Merlin",
@@ -1725,7 +2107,9 @@
       "Ses indices s'inspirent du décor récurrent, de la dynamique des personnages et des conflits de longue date dont les fans se souviennent.",
       "Pensez à la configuration hebdomadaire qu'il crée : emplois, proches, enquêtes, danger, fantasme ou pression de survie.",
       "L’indice réside dans ses ingrédients reproductibles : les relations, les lieux, les rituels et le type de problèmes qui reviennent sans cesse."
-    ]
+    ],
+    "tmdb_id": 7225,
+    "media_type": "tv"
   },
   {
     "celebrity": "Grim",
@@ -1734,7 +2118,9 @@
       "Ses indices s'inspirent du décor récurrent, de la dynamique des personnages et des conflits de longue date dont les fans se souviennent.",
       "Pensez à la configuration hebdomadaire qu'il crée : emplois, proches, enquêtes, danger, fantasme ou pression de survie.",
       "L’indice réside dans ses ingrédients reproductibles : les relations, les lieux, les rituels et le type de problèmes qui reviennent sans cesse."
-    ]
+    ],
+    "tmdb_id": 306086,
+    "media_type": "tv"
   },
   {
     "celebrity": "Shadowhunters",
@@ -1743,60 +2129,74 @@
       "Ses indices s'inspirent du décor récurrent, de la dynamique des personnages et des conflits de longue date dont les fans se souviennent.",
       "Pensez à la configuration hebdomadaire qu'il crée : emplois, proches, enquêtes, danger, fantasme ou pression de survie.",
       "L’indice réside dans ses ingrédients reproductibles : les relations, les lieux, les rituels et le type de problèmes qui reviennent sans cesse."
-    ]
+    ],
+    "tmdb_id": 63210,
+    "media_type": "tv"
   },
   {
-    "celebrity": "Manifest",
+    "celebrity": "Turbulences",
     "gender": "",
     "facts": [
       "Ses indices s'inspirent du décor récurrent, de la dynamique des personnages et des conflits de longue date dont les fans se souviennent.",
       "Pensez à la configuration hebdomadaire qu'il crée : emplois, proches, enquêtes, danger, fantasme ou pression de survie.",
       "L’indice réside dans ses ingrédients reproductibles : les relations, les lieux, les rituels et le type de problèmes qui reviennent sans cesse."
-    ]
+    ],
+    "tmdb_id": 79696,
+    "media_type": "tv"
   },
   {
-    "celebrity": "Burn Notice",
+    "celebrity": "Agent libre",
     "gender": "",
     "facts": [
       "Ses indices s'inspirent du décor récurrent, de la dynamique des personnages et des conflits de longue date dont les fans se souviennent.",
       "Pensez à la configuration hebdomadaire qu'il crée : emplois, proches, enquêtes, danger, fantasme ou pression de survie.",
       "L’indice réside dans ses ingrédients reproductibles : les relations, les lieux, les rituels et le type de problèmes qui reviennent sans cesse."
-    ]
+    ],
+    "tmdb_id": 2919,
+    "media_type": "tv"
   },
   {
-    "celebrity": "Leverage",
+    "celebrity": "Maîtres Arnaqueurs",
     "gender": "",
     "facts": [
       "Ses indices s'inspirent du décor récurrent, de la dynamique des personnages et des conflits de longue date dont les fans se souviennent.",
       "Pensez à la configuration hebdomadaire qu'il crée : emplois, proches, enquêtes, danger, fantasme ou pression de survie.",
       "L’indice réside dans ses ingrédients reproductibles : les relations, les lieux, les rituels et le type de problèmes qui reviennent sans cesse."
-    ]
+    ],
+    "tmdb_id": 7482,
+    "media_type": "tv"
   },
   {
-    "celebrity": "The Good Fight",
+    "celebrity": "Une lutte exemplaire",
     "gender": "",
     "facts": [
       "Ses indices s'inspirent du décor récurrent, de la dynamique des personnages et des conflits de longue date dont les fans se souviennent.",
       "Pensez à la configuration hebdomadaire qu'il crée : emplois, proches, enquêtes, danger, fantasme ou pression de survie.",
       "L’indice réside dans ses ingrédients reproductibles : les relations, les lieux, les rituels et le type de problèmes qui reviennent sans cesse."
-    ]
+    ],
+    "tmdb_id": 69158,
+    "media_type": "tv"
   },
   {
-    "celebrity": "How to Get Away With Murder",
+    "celebrity": "Meurtres à l'étude",
     "gender": "",
     "facts": [
       "Ses indices s'inspirent du décor récurrent, de la dynamique des personnages et des conflits de longue date dont les fans se souviennent.",
       "Pensez à la configuration hebdomadaire qu'il crée : emplois, proches, enquêtes, danger, fantasme ou pression de survie.",
       "L’indice réside dans ses ingrédients reproductibles : les relations, les lieux, les rituels et le type de problèmes qui reviennent sans cesse."
-    ]
+    ],
+    "tmdb_id": 61056,
+    "media_type": "tv"
   },
   {
-    "celebrity": "Law and Order Svu",
+    "celebrity": "La loi & l’ordre : crimes sexuels",
     "gender": "",
     "facts": [
       "Ses indices s'inspirent du décor récurrent, de la dynamique des personnages et des conflits de longue date dont les fans se souviennent.",
       "Pensez à la configuration hebdomadaire qu'il crée : emplois, proches, enquêtes, danger, fantasme ou pression de survie.",
       "L’indice réside dans ses ingrédients reproductibles : les relations, les lieux, les rituels et le type de problèmes qui reviennent sans cesse."
-    ]
+    ],
+    "tmdb_id": 2734,
+    "media_type": "tv"
   }
 ]

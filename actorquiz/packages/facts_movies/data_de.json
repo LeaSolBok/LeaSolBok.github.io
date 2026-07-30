@@ -1,12 +1,14 @@
 [
   {
-    "celebrity": "The Godfather",
+    "celebrity": "Der Pate",
     "gender": "",
     "facts": [
       "Eine kriminelle Familie versucht, die Macht zu behalten, während der widerstrebende jüngste Sohn in das Geschäft hineingezogen wird.",
       "Ein Pferdekopf in einem Bett wurde zu einer der berüchtigtsten Einschüchterungsszenen des Kinos.",
       "Die Geschichte vermischt Hochzeiten, Rache im Restaurant, Treue zur alten Welt und eine stille Verwandlung in einen rücksichtslosen Chef."
-    ]
+    ],
+    "tmdb_id": 238,
+    "media_type": "movie"
   },
   {
     "celebrity": "The Dark Knight",
@@ -15,7 +17,9 @@
       "Ein maskierter Bürgerwehrmann steht einem Agenten des Chaos gegenüber, der die öffentliche Moral in ein grausames Experiment verwandelt.",
       "Ein vernarbter Bezirksstaatsanwalt wird zum emotionalen Zentrum des Zusammenbruchs der Stadt.",
       "Der Eröffnungsfilm über einen Banküberfall und der Bleistifttrick wurden sofort zu Wahrzeichen moderner Krimi-Thriller."
-    ]
+    ],
+    "tmdb_id": 155,
+    "media_type": "movie"
   },
   {
     "celebrity": "Pulp Fiction",
@@ -24,7 +28,9 @@
       "Die Geschichte springt mit Killern, einem Boxer, einer mysteriösen Aktentasche und einem Überfall auf ein Restaurant durch die Zeit.",
       "Ein Tanzwettbewerb, ein leuchtendes Gehäuse und eine Uhr, die an einem unbequemen Ort versteckt ist, sind wichtig.",
       "Sein Dialog verwandelt Fast Food, Fußmassagen und göttliche Intervention in Hinweise der Popkultur."
-    ]
+    ],
+    "tmdb_id": 680,
+    "media_type": "movie"
   },
   {
     "celebrity": "Forrest Gump",
@@ -33,7 +39,9 @@
       "Ein sanfter Mann wandert zufällig durch Jahrzehnte amerikanischer Geschichte.",
       "Laufen, Krabbenkutter, Tischtennis und eine Schachtel Pralinen sind wichtige Hinweise.",
       "Die lebenslange Liebesgeschichte des Helden verläuft neben Kriegen, Protesten, Präsidenten und einer berühmten Bank."
-    ]
+    ],
+    "tmdb_id": 13,
+    "media_type": "movie"
   },
   {
     "celebrity": "Inception",
@@ -42,7 +50,9 @@
       "Spezialisten gehen auf vielschichtige Träume ein, um eine Idee umzusetzen, statt sie zu stehlen.",
       "Ein Kreisel, Faltstraßen und ein Flurkampf ohne Schwerkraft sind wichtige visuelle Hinweise.",
       "Der zentrale Raubüberfall hängt vom Schlafniveau, der Zeitdilatation und der Trauer ab, die die Mission immer wieder überkommt."
-    ]
+    ],
+    "tmdb_id": 27205,
+    "media_type": "movie"
   },
   {
     "celebrity": "Fight Club",
@@ -51,16 +61,20 @@
       "Ein schlafloser Erzähler schließt sich einer Untergrundbewegung an, die sich um nackte Gewalt dreht.",
       "Soap, Selbsthilfegruppen und ein charismatischer Anti-Konsum-Fremder sind zentrale Hinweise.",
       "Die größte Wendung stellt die blauen Flecken, die Regeln und den Plan, Finanzunterlagen zu löschen, neu dar."
-    ]
+    ],
+    "tmdb_id": 550,
+    "media_type": "movie"
   },
   {
-    "celebrity": "The Matrix",
+    "celebrity": "Matrix",
     "gender": "",
     "facts": [
       "Ein Hacker entdeckt, dass das normale Leben ein simuliertes Gefängnis ist, das von Maschinen kontrolliert wird.",
       "Rote und blaue Pillen, schwarze Mäntel, das Ausweichen vor Kugeln und der Regen von grünem Code sind typische Hinweise.",
       "Seine Handlung nutzt Prophezeiungen, Kung-Fu-Downloads und Agenten, die die Regeln der Realität beugen."
-    ]
+    ],
+    "tmdb_id": 603,
+    "media_type": "movie"
   },
   {
     "celebrity": "Goodfellas",
@@ -69,16 +83,20 @@
       "Seine Hinweise ergeben sich eher aus dem Setting, dem zentralen Konflikt und den einprägsamen Filmbildern als aus dem Namen.",
       "Suchen Sie nach den Charakteren, dem Setting und der Genre-Situation, die die Fans damit assoziieren.",
       "Der beste Hinweis ist die Stimmung: eine erkennbare Mischung aus Einsätzen, visuellem Stil und wiederholten Anspielungen auf die Popkultur."
-    ]
+    ],
+    "tmdb_id": 769,
+    "media_type": "movie"
   },
   {
-    "celebrity": "The Shawshank Redemption",
+    "celebrity": "Die Verurteilten",
     "gender": "",
     "facts": [
       "Seine Hinweise ergeben sich eher aus dem Setting, dem zentralen Konflikt und den einprägsamen Filmbildern als aus dem Namen.",
       "Suchen Sie nach den Charakteren, dem Setting und der Genre-Situation, die die Fans damit assoziieren.",
       "Der beste Hinweis ist die Stimmung: eine erkennbare Mischung aus Einsätzen, visuellem Stil und wiederholten Anspielungen auf die Popkultur."
-    ]
+    ],
+    "tmdb_id": 278,
+    "media_type": "movie"
   },
   {
     "celebrity": "Jurassic Park",
@@ -87,7 +105,9 @@
       "Eine milliardenschwere Attraktion versucht, prähistorische Kreaturen mit Wissenschaft und Spektakel wiederzubeleben.",
       "Ein Glas Wasser, das vor einem riesigen Schritt plätschert, ist einer der deutlichsten Hinweise.",
       "Das Chaos beginnt, wenn Zäune versagen, Raubvögel in Küchen jagen und die Natur sich weigert, die Kontrolle zu behalten."
-    ]
+    ],
+    "tmdb_id": 329,
+    "media_type": "movie"
   },
   {
     "celebrity": "Titanic",
@@ -96,52 +116,64 @@
       "An Bord eines zum Scheitern verurteilten Luxus-Ozeandampfers entfaltet sich eine verbotene Romanze.",
       "Ein blauer Diamant, eine große Treppe und eine Skizzenszene sind wichtige Hinweise.",
       "Seine Katastrophengeschichte verwandelt Klassenunterschiede, eiskaltes Wasser und eine schwebende Tür in bleibende Bilder."
-    ]
+    ],
+    "tmdb_id": 597,
+    "media_type": "movie"
   },
   {
-    "celebrity": "Back to the Future",
+    "celebrity": "Zurück in die Zukunft",
     "gender": "",
     "facts": [
       "Ein Teenager wird in einem modifizierten Sportwagen, der von wilder Wissenschaft angetrieben wird, durch Jahrzehnte geworfen.",
       "Ein Glockenturm, ein Blitzeinschlag und das Verblassen eines Familienfotos entscheiden über alles.",
       "Der Held muss die Romanze seiner Eltern reparieren, bevor seine eigene Existenz verschwindet."
-    ]
+    ],
+    "tmdb_id": 105,
+    "media_type": "movie"
   },
   {
-    "celebrity": "The Lord of the Rings",
+    "celebrity": "Der Herr der Ringe",
     "gender": "",
     "facts": [
       "Seine Hinweise ergeben sich eher aus dem Setting, dem zentralen Konflikt und den einprägsamen Filmbildern als aus dem Namen.",
       "Suchen Sie nach den Charakteren, dem Setting und der Genre-Situation, die die Fans damit assoziieren.",
       "Der beste Hinweis ist die Stimmung: eine erkennbare Mischung aus Einsätzen, visuellem Stil und wiederholten Anspielungen auf die Popkultur."
-    ]
+    ],
+    "tmdb_id": 123,
+    "media_type": "movie"
   },
   {
-    "celebrity": "Harry Potter",
+    "celebrity": "Harry Potter und der Stein der Weisen",
     "gender": "",
     "facts": [
       "Ein Waisenkind entdeckt eine verborgene Zauberschule, eine Narbe und ein Schicksal, das mit einem dunklen Zauberer verbunden ist.",
       "Zauberstäbe, Hausschals, Rolltreppen und fliegende Besensportarten sind wichtige Hinweise.",
       "Die Geschichte entwickelt sich von Klassenzimmergeheimnissen zu einem Krieg um Blutlinien, Loyalität und Unsterblichkeit."
-    ]
+    ],
+    "tmdb_id": 671,
+    "media_type": "movie"
   },
   {
-    "celebrity": "Star Wars",
+    "celebrity": "Krieg der Sterne",
     "gender": "",
     "facts": [
       "Bauernjungen, Schmuggler, Prinzessinnen und Krieger in Roben treffen in einer Weltraumopern-Rebellion aufeinander.",
       "Leuchtende Schwerter, Atemmasken, Wüstenplaneten und winzige Sternenjäger sind wichtige Hinweise.",
       "Seine Familie enthüllt und das mystische Energiefeld prägte jahrzehntelang die Blockbuster-Mythologie."
-    ]
+    ],
+    "tmdb_id": 11,
+    "media_type": "movie"
   },
   {
-    "celebrity": "Indiana Jones",
+    "celebrity": "Jäger des verlorenen Schatzes",
     "gender": "",
     "facts": [
       "Seine Hinweise ergeben sich eher aus dem Setting, dem zentralen Konflikt und den einprägsamen Filmbildern als aus dem Namen.",
       "Suchen Sie nach den Charakteren, dem Setting und der Genre-Situation, die die Fans damit assoziieren.",
       "Der beste Hinweis ist die Stimmung: eine erkennbare Mischung aus Einsätzen, visuellem Stil und wiederholten Anspielungen auf die Popkultur."
-    ]
+    ],
+    "tmdb_id": 85,
+    "media_type": "movie"
   },
   {
     "celebrity": "Rocky",
@@ -150,25 +182,31 @@
       "Seine Hinweise ergeben sich eher aus dem Setting, dem zentralen Konflikt und den einprägsamen Filmbildern als aus dem Namen.",
       "Suchen Sie nach den Charakteren, dem Setting und der Genre-Situation, die die Fans damit assoziieren.",
       "Der beste Hinweis ist die Stimmung: eine erkennbare Mischung aus Einsätzen, visuellem Stil und wiederholten Anspielungen auf die Popkultur."
-    ]
+    ],
+    "tmdb_id": 1366,
+    "media_type": "movie"
   },
   {
-    "celebrity": "Jaws",
+    "celebrity": "Der weiße Hai",
     "gender": "",
     "facts": [
       "Eine Küstenstadt wird von einem riesigen Raubtier terrorisiert, während sich die Behörden um die Touristensaison sorgen.",
       "Eine zweitönige musikalische Warnung wurde berühmter als viele Schreckgespenster auf der Leinwand.",
       "Die letzte Jagd bringt einen Polizeichef, einen Wissenschaftler und einen ergrauten Bootskapitän auf See zusammen."
-    ]
+    ],
+    "tmdb_id": 578,
+    "media_type": "movie"
   },
   {
-    "celebrity": "Alien",
+    "celebrity": "Alien - Das unheimliche Wesen aus einer fremden Welt",
     "gender": "",
     "facts": [
       "Eine Bergbaumannschaft antwortet auf ein Notsignal und bringt etwas Tödliches zurück auf ihr Schiff.",
       "Gesichtsbeschneidungen, platzende Brust, saures Blut und Industriekorridore sind wichtige Hinweise.",
       "Sein Schrecken rührt von der Isolation im Weltraum und einer Kreatur her, die so gestaltet ist, dass sie sich sowohl mechanisch als auch biologisch anfühlt."
-    ]
+    ],
+    "tmdb_id": 348,
+    "media_type": "movie"
   },
   {
     "celebrity": "Terminator",
@@ -177,16 +215,20 @@
       "Eine Killermaschine wird aus der Zukunft geschickt, um das Schicksal eines bevorstehenden Krieges zu ändern.",
       "Eine Lederjacke, eine rote Robotervision und ein unaufhaltsamer Gang sind wichtige Hinweise.",
       "Die Verfolgungsjagd macht eine Kellnerin zum Schlüssel zum Überleben der Menschheit."
-    ]
+    ],
+    "tmdb_id": 218,
+    "media_type": "movie"
   },
   {
-    "celebrity": "Die Hard",
+    "celebrity": "Stirb langsam",
     "gender": "",
     "facts": [
       "Seine Hinweise ergeben sich eher aus dem Setting, dem zentralen Konflikt und den einprägsamen Filmbildern als aus dem Namen.",
       "Suchen Sie nach den Charakteren, dem Setting und der Genre-Situation, die die Fans damit assoziieren.",
       "Der beste Hinweis ist die Stimmung: eine erkennbare Mischung aus Einsätzen, visuellem Stil und wiederholten Anspielungen auf die Popkultur."
-    ]
+    ],
+    "tmdb_id": 562,
+    "media_type": "movie"
   },
   {
     "celebrity": "Mad Max Fury Road",
@@ -195,7 +237,9 @@
       "Seine Hinweise ergeben sich eher aus dem Setting, dem zentralen Konflikt und den einprägsamen Filmbildern als aus dem Namen.",
       "Suchen Sie nach den Charakteren, dem Setting und der Genre-Situation, die die Fans damit assoziieren.",
       "Der beste Hinweis ist die Stimmung: eine erkennbare Mischung aus Einsätzen, visuellem Stil und wiederholten Anspielungen auf die Popkultur."
-    ]
+    ],
+    "tmdb_id": 76341,
+    "media_type": "movie"
   },
   {
     "celebrity": "Gladiator",
@@ -204,25 +248,31 @@
       "Seine Hinweise ergeben sich eher aus dem Setting, dem zentralen Konflikt und den einprägsamen Filmbildern als aus dem Namen.",
       "Suchen Sie nach den Charakteren, dem Setting und der Genre-Situation, die die Fans damit assoziieren.",
       "Der beste Hinweis ist die Stimmung: eine erkennbare Mischung aus Einsätzen, visuellem Stil und wiederholten Anspielungen auf die Popkultur."
-    ]
+    ],
+    "tmdb_id": 98,
+    "media_type": "movie"
   },
   {
-    "celebrity": "The Silence of the Lambs",
+    "celebrity": "Das Schweigen der Lämmer",
     "gender": "",
     "facts": [
       "Seine Hinweise ergeben sich eher aus dem Setting, dem zentralen Konflikt und den einprägsamen Filmbildern als aus dem Namen.",
       "Suchen Sie nach den Charakteren, dem Setting und der Genre-Situation, die die Fans damit assoziieren.",
       "Der beste Hinweis ist die Stimmung: eine erkennbare Mischung aus Einsätzen, visuellem Stil und wiederholten Anspielungen auf die Popkultur."
-    ]
+    ],
+    "tmdb_id": 274,
+    "media_type": "movie"
   },
   {
-    "celebrity": "Saving Private Ryan",
+    "celebrity": "Der Soldat James Ryan",
     "gender": "",
     "facts": [
       "Seine Hinweise ergeben sich eher aus dem Setting, dem zentralen Konflikt und den einprägsamen Filmbildern als aus dem Namen.",
       "Suchen Sie nach den Charakteren, dem Setting und der Genre-Situation, die die Fans damit assoziieren.",
       "Der beste Hinweis ist die Stimmung: eine erkennbare Mischung aus Einsätzen, visuellem Stil und wiederholten Anspielungen auf die Popkultur."
-    ]
+    ],
+    "tmdb_id": 857,
+    "media_type": "movie"
   },
   {
     "celebrity": "Braveheart",
@@ -231,16 +281,20 @@
       "Seine Hinweise ergeben sich eher aus dem Setting, dem zentralen Konflikt und den einprägsamen Filmbildern als aus dem Namen.",
       "Suchen Sie nach den Charakteren, dem Setting und der Genre-Situation, die die Fans damit assoziieren.",
       "Der beste Hinweis ist die Stimmung: eine erkennbare Mischung aus Einsätzen, visuellem Stil und wiederholten Anspielungen auf die Popkultur."
-    ]
+    ],
+    "tmdb_id": 197,
+    "media_type": "movie"
   },
   {
-    "celebrity": "The Departed",
+    "celebrity": "Departed - Unter Feinden",
     "gender": "",
     "facts": [
       "Seine Hinweise ergeben sich eher aus dem Setting, dem zentralen Konflikt und den einprägsamen Filmbildern als aus dem Namen.",
       "Suchen Sie nach den Charakteren, dem Setting und der Genre-Situation, die die Fans damit assoziieren.",
       "Der beste Hinweis ist die Stimmung: eine erkennbare Mischung aus Einsätzen, visuellem Stil und wiederholten Anspielungen auf die Popkultur."
-    ]
+    ],
+    "tmdb_id": 1422,
+    "media_type": "movie"
   },
   {
     "celebrity": "Interstellar",
@@ -249,16 +303,20 @@
       "Seine Hinweise ergeben sich eher aus dem Setting, dem zentralen Konflikt und den einprägsamen Filmbildern als aus dem Namen.",
       "Suchen Sie nach den Charakteren, dem Setting und der Genre-Situation, die die Fans damit assoziieren.",
       "Der beste Hinweis ist die Stimmung: eine erkennbare Mischung aus Einsätzen, visuellem Stil und wiederholten Anspielungen auf die Popkultur."
-    ]
+    ],
+    "tmdb_id": 157336,
+    "media_type": "movie"
   },
   {
-    "celebrity": "Avatar",
+    "celebrity": "Avatar - Aufbruch nach Pandora",
     "gender": "",
     "facts": [
       "Seine Hinweise ergeben sich eher aus dem Setting, dem zentralen Konflikt und den einprägsamen Filmbildern als aus dem Namen.",
       "Suchen Sie nach den Charakteren, dem Setting und der Genre-Situation, die die Fans damit assoziieren.",
       "Der beste Hinweis ist die Stimmung: eine erkennbare Mischung aus Einsätzen, visuellem Stil und wiederholten Anspielungen auf die Popkultur."
-    ]
+    ],
+    "tmdb_id": 19995,
+    "media_type": "movie"
   },
   {
     "celebrity": "Black Panther",
@@ -267,7 +325,9 @@
       "Seine Hinweise ergeben sich eher aus dem Setting, dem zentralen Konflikt und den einprägsamen Filmbildern als aus dem Namen.",
       "Suchen Sie nach den Charakteren, dem Setting und der Genre-Situation, die die Fans damit assoziieren.",
       "Der beste Hinweis ist die Stimmung: eine erkennbare Mischung aus Einsätzen, visuellem Stil und wiederholten Anspielungen auf die Popkultur."
-    ]
+    ],
+    "tmdb_id": 284054,
+    "media_type": "movie"
   },
   {
     "celebrity": "Avengers Endgame",
@@ -276,7 +336,9 @@
       "Seine Hinweise ergeben sich eher aus dem Setting, dem zentralen Konflikt und den einprägsamen Filmbildern als aus dem Namen.",
       "Suchen Sie nach den Charakteren, dem Setting und der Genre-Situation, die die Fans damit assoziieren.",
       "Der beste Hinweis ist die Stimmung: eine erkennbare Mischung aus Einsätzen, visuellem Stil und wiederholten Anspielungen auf die Popkultur."
-    ]
+    ],
+    "tmdb_id": 299534,
+    "media_type": "movie"
   },
   {
     "celebrity": "Toy Story",
@@ -285,52 +347,64 @@
       "Spielzeug im Schlafzimmer erwacht heimlich zum Leben, wenn die Menschen nicht zuschauen.",
       "Ein Cowboy-Anführer fühlt sich bedroht, als ein auffälliger Neuankömmling mit Weltraumthema eintrifft.",
       "Klauenmaschinen, fahrende Lastwagen und ein Nachbar, der Spielzeug mutiert, sind wichtige Hinweise."
-    ]
+    ],
+    "tmdb_id": 862,
+    "media_type": "movie"
   },
   {
-    "celebrity": "Finding Nemo",
+    "celebrity": "Findet Nemo",
     "gender": "",
     "facts": [
       "Ein besorgter Vater überquert den Ozean, nachdem sein kleiner Sohn von Tauchern mitgenommen wurde.",
       "Ein vergesslicher blauer Begleiter, ein Zahnarztaquarium und surferähnliche Schildkröten sind wichtige Hinweise.",
       "Seine Reise führt von Korallenriffen über Quallenfelder bis hin zu einem Fluchtplan aus dem Abfluss."
-    ]
+    ],
+    "tmdb_id": 12,
+    "media_type": "movie"
   },
   {
-    "celebrity": "Shrek",
+    "celebrity": "Shrek - Der tollkühne Held",
     "gender": "",
     "facts": [
       "Ein sumpfliebender Oger wird zu einer märchenhaften Rettungsmission mit einem gesprächigen Esel gezwungen.",
       "Die Prinzessin verbirgt ein nächtliches Geheimnis, das die Bedeutung wahrer Liebe verändert.",
       "Seine Witze verdrehen Burgen, Flüche, Turnierquests und märchenhafte Kreaturen in eine Parodie."
-    ]
+    ],
+    "tmdb_id": 808,
+    "media_type": "movie"
   },
   {
-    "celebrity": "Frozen",
+    "celebrity": "Die Eiskönigin - Völlig unverfroren",
     "gender": "",
     "facts": [
       "Zwei königliche Schwestern werden durch gefährliche Eiskräfte und jahrelange Angst getrennt.",
       "Ein lebender Schneemann, ein Berg-Eispalast und ein Lied über das Loslassen sind wichtige Hinweise.",
       "Die emotionale Lösung hängt mehr von der Schwesternschaft als von einer traditionellen romantischen Rettung ab."
-    ]
+    ],
+    "tmdb_id": 109445,
+    "media_type": "movie"
   },
   {
-    "celebrity": "The Lion King",
+    "celebrity": "Der König der Löwen",
     "gender": "",
     "facts": [
       "Seine Hinweise ergeben sich eher aus dem Setting, dem zentralen Konflikt und den einprägsamen Filmbildern als aus dem Namen.",
       "Suchen Sie nach den Charakteren, dem Setting und der Genre-Situation, die die Fans damit assoziieren.",
       "Der beste Hinweis ist die Stimmung: eine erkennbare Mischung aus Einsätzen, visuellem Stil und wiederholten Anspielungen auf die Popkultur."
-    ]
+    ],
+    "tmdb_id": 8587,
+    "media_type": "movie"
   },
   {
-    "celebrity": "Spirited Away",
+    "celebrity": "Chihiros Reise ins Zauberland",
     "gender": "",
     "facts": [
       "Seine Hinweise ergeben sich eher aus dem Setting, dem zentralen Konflikt und den einprägsamen Filmbildern als aus dem Namen.",
       "Suchen Sie nach den Charakteren, dem Setting und der Genre-Situation, die die Fans damit assoziieren.",
       "Der beste Hinweis ist die Stimmung: eine erkennbare Mischung aus Einsätzen, visuellem Stil und wiederholten Anspielungen auf die Popkultur."
-    ]
+    ],
+    "tmdb_id": 129,
+    "media_type": "movie"
   },
   {
     "celebrity": "Parasite",
@@ -339,7 +413,9 @@
       "Seine Hinweise ergeben sich eher aus dem Setting, dem zentralen Konflikt und den einprägsamen Filmbildern als aus dem Namen.",
       "Suchen Sie nach den Charakteren, dem Setting und der Genre-Situation, die die Fans damit assoziieren.",
       "Der beste Hinweis ist die Stimmung: eine erkennbare Mischung aus Einsätzen, visuellem Stil und wiederholten Anspielungen auf die Popkultur."
-    ]
+    ],
+    "tmdb_id": 496243,
+    "media_type": "movie"
   },
   {
     "celebrity": "Oppenheimer",
@@ -348,7 +424,9 @@
       "Seine Hinweise ergeben sich eher aus dem Setting, dem zentralen Konflikt und den einprägsamen Filmbildern als aus dem Namen.",
       "Suchen Sie nach den Charakteren, dem Setting und der Genre-Situation, die die Fans damit assoziieren.",
       "Der beste Hinweis ist die Stimmung: eine erkennbare Mischung aus Einsätzen, visuellem Stil und wiederholten Anspielungen auf die Popkultur."
-    ]
+    ],
+    "tmdb_id": 872585,
+    "media_type": "movie"
   },
   {
     "celebrity": "Barbie",
@@ -357,7 +435,9 @@
       "Seine Hinweise ergeben sich eher aus dem Setting, dem zentralen Konflikt und den einprägsamen Filmbildern als aus dem Namen.",
       "Suchen Sie nach den Charakteren, dem Setting und der Genre-Situation, die die Fans damit assoziieren.",
       "Der beste Hinweis ist die Stimmung: eine erkennbare Mischung aus Einsätzen, visuellem Stil und wiederholten Anspielungen auf die Popkultur."
-    ]
+    ],
+    "tmdb_id": 346698,
+    "media_type": "movie"
   },
   {
     "celebrity": "Dune",
@@ -366,7 +446,9 @@
       "Seine Hinweise ergeben sich eher aus dem Setting, dem zentralen Konflikt und den einprägsamen Filmbildern als aus dem Namen.",
       "Suchen Sie nach den Charakteren, dem Setting und der Genre-Situation, die die Fans damit assoziieren.",
       "Der beste Hinweis ist die Stimmung: eine erkennbare Mischung aus Einsätzen, visuellem Stil und wiederholten Anspielungen auf die Popkultur."
-    ]
+    ],
+    "tmdb_id": 438631,
+    "media_type": "movie"
   },
   {
     "celebrity": "Top Gun Maverick",
@@ -375,7 +457,9 @@
       "Seine Hinweise ergeben sich eher aus dem Setting, dem zentralen Konflikt und den einprägsamen Filmbildern als aus dem Namen.",
       "Suchen Sie nach den Charakteren, dem Setting und der Genre-Situation, die die Fans damit assoziieren.",
       "Der beste Hinweis ist die Stimmung: eine erkennbare Mischung aus Einsätzen, visuellem Stil und wiederholten Anspielungen auf die Popkultur."
-    ]
+    ],
+    "tmdb_id": 361743,
+    "media_type": "movie"
   },
   {
     "celebrity": "Mission Impossible",
@@ -384,7 +468,9 @@
       "Seine Hinweise ergeben sich eher aus dem Setting, dem zentralen Konflikt und den einprägsamen Filmbildern als aus dem Namen.",
       "Suchen Sie nach den Charakteren, dem Setting und der Genre-Situation, die die Fans damit assoziieren.",
       "Der beste Hinweis ist die Stimmung: eine erkennbare Mischung aus Einsätzen, visuellem Stil und wiederholten Anspielungen auf die Popkultur."
-    ]
+    ],
+    "tmdb_id": 954,
+    "media_type": "movie"
   },
   {
     "celebrity": "John Wick",
@@ -393,79 +479,97 @@
       "Seine Hinweise ergeben sich eher aus dem Setting, dem zentralen Konflikt und den einprägsamen Filmbildern als aus dem Namen.",
       "Suchen Sie nach den Charakteren, dem Setting und der Genre-Situation, die die Fans damit assoziieren.",
       "Der beste Hinweis ist die Stimmung: eine erkennbare Mischung aus Einsätzen, visuellem Stil und wiederholten Anspielungen auf die Popkultur."
-    ]
+    ],
+    "tmdb_id": 245891,
+    "media_type": "movie"
   },
   {
-    "celebrity": "The Hunger Games",
+    "celebrity": "Die Tribute von Panem - The Hunger Games",
     "gender": "",
     "facts": [
       "Seine Hinweise ergeben sich eher aus dem Setting, dem zentralen Konflikt und den einprägsamen Filmbildern als aus dem Namen.",
       "Suchen Sie nach den Charakteren, dem Setting und der Genre-Situation, die die Fans damit assoziieren.",
       "Der beste Hinweis ist die Stimmung: eine erkennbare Mischung aus Einsätzen, visuellem Stil und wiederholten Anspielungen auf die Popkultur."
-    ]
+    ],
+    "tmdb_id": 70160,
+    "media_type": "movie"
   },
   {
-    "celebrity": "Pirates of the Caribbean",
+    "celebrity": "Fluch der Karibik",
     "gender": "",
     "facts": [
       "Seine Hinweise ergeben sich eher aus dem Setting, dem zentralen Konflikt und den einprägsamen Filmbildern als aus dem Namen.",
       "Suchen Sie nach den Charakteren, dem Setting und der Genre-Situation, die die Fans damit assoziieren.",
       "Der beste Hinweis ist die Stimmung: eine erkennbare Mischung aus Einsätzen, visuellem Stil und wiederholten Anspielungen auf die Popkultur."
-    ]
+    ],
+    "tmdb_id": 22,
+    "media_type": "movie"
   },
   {
-    "celebrity": "The Fast and the Furious",
+    "celebrity": "Der rasende Teufel",
     "gender": "",
     "facts": [
       "Seine Hinweise ergeben sich eher aus dem Setting, dem zentralen Konflikt und den einprägsamen Filmbildern als aus dem Namen.",
       "Suchen Sie nach den Charakteren, dem Setting und der Genre-Situation, die die Fans damit assoziieren.",
       "Der beste Hinweis ist die Stimmung: eine erkennbare Mischung aus Einsätzen, visuellem Stil und wiederholten Anspielungen auf die Popkultur."
-    ]
+    ],
+    "tmdb_id": 20174,
+    "media_type": "movie"
   },
   {
-    "celebrity": "Scream",
+    "celebrity": "Scream - Schrei!",
     "gender": "",
     "facts": [
       "Seine Hinweise ergeben sich eher aus dem Setting, dem zentralen Konflikt und den einprägsamen Filmbildern als aus dem Namen.",
       "Suchen Sie nach den Charakteren, dem Setting und der Genre-Situation, die die Fans damit assoziieren.",
       "Der beste Hinweis ist die Stimmung: eine erkennbare Mischung aus Einsätzen, visuellem Stil und wiederholten Anspielungen auf die Popkultur."
-    ]
+    ],
+    "tmdb_id": 4232,
+    "media_type": "movie"
   },
   {
-    "celebrity": "The Conjuring",
+    "celebrity": "Conjuring: Die Heimsuchung",
     "gender": "",
     "facts": [
       "Seine Hinweise ergeben sich eher aus dem Setting, dem zentralen Konflikt und den einprägsamen Filmbildern als aus dem Namen.",
       "Suchen Sie nach den Charakteren, dem Setting und der Genre-Situation, die die Fans damit assoziieren.",
       "Der beste Hinweis ist die Stimmung: eine erkennbare Mischung aus Einsätzen, visuellem Stil und wiederholten Anspielungen auf die Popkultur."
-    ]
+    ],
+    "tmdb_id": 138843,
+    "media_type": "movie"
   },
   {
-    "celebrity": "A Nightmare on Elm Street",
+    "celebrity": "Nightmare - Mörderische Träume",
     "gender": "",
     "facts": [
       "Seine Hinweise ergeben sich eher aus dem Setting, dem zentralen Konflikt und den einprägsamen Filmbildern als aus dem Namen.",
       "Suchen Sie nach den Charakteren, dem Setting und der Genre-Situation, die die Fans damit assoziieren.",
       "Der beste Hinweis ist die Stimmung: eine erkennbare Mischung aus Einsätzen, visuellem Stil und wiederholten Anspielungen auf die Popkultur."
-    ]
+    ],
+    "tmdb_id": 377,
+    "media_type": "movie"
   },
   {
-    "celebrity": "Halloween",
+    "celebrity": "Halloween - Die Nacht des Grauens",
     "gender": "",
     "facts": [
       "Seine Hinweise ergeben sich eher aus dem Setting, dem zentralen Konflikt und den einprägsamen Filmbildern als aus dem Namen.",
       "Suchen Sie nach den Charakteren, dem Setting und der Genre-Situation, die die Fans damit assoziieren.",
       "Der beste Hinweis ist die Stimmung: eine erkennbare Mischung aus Einsätzen, visuellem Stil und wiederholten Anspielungen auf die Popkultur."
-    ]
+    ],
+    "tmdb_id": 948,
+    "media_type": "movie"
   },
   {
-    "celebrity": "Ghostbusters",
+    "celebrity": "Ghostbusters - Die Geisterjäger",
     "gender": "",
     "facts": [
       "Seine Hinweise ergeben sich eher aus dem Setting, dem zentralen Konflikt und den einprägsamen Filmbildern als aus dem Namen.",
       "Suchen Sie nach den Charakteren, dem Setting und der Genre-Situation, die die Fans damit assoziieren.",
       "Der beste Hinweis ist die Stimmung: eine erkennbare Mischung aus Einsätzen, visuellem Stil und wiederholten Anspielungen auf die Popkultur."
-    ]
+    ],
+    "tmdb_id": 620,
+    "media_type": "movie"
   },
   {
     "celebrity": "Men in Black",
@@ -474,25 +578,31 @@
       "Seine Hinweise ergeben sich eher aus dem Setting, dem zentralen Konflikt und den einprägsamen Filmbildern als aus dem Namen.",
       "Suchen Sie nach den Charakteren, dem Setting und der Genre-Situation, die die Fans damit assoziieren.",
       "Der beste Hinweis ist die Stimmung: eine erkennbare Mischung aus Einsätzen, visuellem Stil und wiederholten Anspielungen auf die Popkultur."
-    ]
+    ],
+    "tmdb_id": 607,
+    "media_type": "movie"
   },
   {
-    "celebrity": "Blade Runner",
+    "celebrity": "Der Blade Runner",
     "gender": "",
     "facts": [
       "Seine Hinweise ergeben sich eher aus dem Setting, dem zentralen Konflikt und den einprägsamen Filmbildern als aus dem Namen.",
       "Suchen Sie nach den Charakteren, dem Setting und der Genre-Situation, die die Fans damit assoziieren.",
       "Der beste Hinweis ist die Stimmung: eine erkennbare Mischung aus Einsätzen, visuellem Stil und wiederholten Anspielungen auf die Popkultur."
-    ]
+    ],
+    "tmdb_id": 78,
+    "media_type": "movie"
   },
   {
-    "celebrity": "Casino Royale",
+    "celebrity": "James Bond 007 - Casino Royale",
     "gender": "",
     "facts": [
       "Seine Hinweise ergeben sich eher aus dem Setting, dem zentralen Konflikt und den einprägsamen Filmbildern als aus dem Namen.",
       "Suchen Sie nach den Charakteren, dem Setting und der Genre-Situation, die die Fans damit assoziieren.",
       "Der beste Hinweis ist die Stimmung: eine erkennbare Mischung aus Einsätzen, visuellem Stil und wiederholten Anspielungen auf die Popkultur."
-    ]
+    ],
+    "tmdb_id": 36557,
+    "media_type": "movie"
   },
   {
     "celebrity": "La La Land",
@@ -501,7 +611,9 @@
       "Seine Hinweise ergeben sich eher aus dem Setting, dem zentralen Konflikt und den einprägsamen Filmbildern als aus dem Namen.",
       "Suchen Sie nach den Charakteren, dem Setting und der Genre-Situation, die die Fans damit assoziieren.",
       "Der beste Hinweis ist die Stimmung: eine erkennbare Mischung aus Einsätzen, visuellem Stil und wiederholten Anspielungen auf die Popkultur."
-    ]
+    ],
+    "tmdb_id": 313369,
+    "media_type": "movie"
   },
   {
     "celebrity": "Whiplash",
@@ -510,7 +622,9 @@
       "Seine Hinweise ergeben sich eher aus dem Setting, dem zentralen Konflikt und den einprägsamen Filmbildern als aus dem Namen.",
       "Suchen Sie nach den Charakteren, dem Setting und der Genre-Situation, die die Fans damit assoziieren.",
       "Der beste Hinweis ist die Stimmung: eine erkennbare Mischung aus Einsätzen, visuellem Stil und wiederholten Anspielungen auf die Popkultur."
-    ]
+    ],
+    "tmdb_id": 244786,
+    "media_type": "movie"
   },
   {
     "celebrity": "The Social Network",
@@ -519,16 +633,20 @@
       "Seine Hinweise ergeben sich eher aus dem Setting, dem zentralen Konflikt und den einprägsamen Filmbildern als aus dem Namen.",
       "Suchen Sie nach den Charakteren, dem Setting und der Genre-Situation, die die Fans damit assoziieren.",
       "Der beste Hinweis ist die Stimmung: eine erkennbare Mischung aus Einsätzen, visuellem Stil und wiederholten Anspielungen auf die Popkultur."
-    ]
+    ],
+    "tmdb_id": 37799,
+    "media_type": "movie"
   },
   {
-    "celebrity": "The Prestige",
+    "celebrity": "Prestige - Die Meister der Magie",
     "gender": "",
     "facts": [
       "Seine Hinweise ergeben sich eher aus dem Setting, dem zentralen Konflikt und den einprägsamen Filmbildern als aus dem Namen.",
       "Suchen Sie nach den Charakteren, dem Setting und der Genre-Situation, die die Fans damit assoziieren.",
       "Der beste Hinweis ist die Stimmung: eine erkennbare Mischung aus Einsätzen, visuellem Stil und wiederholten Anspielungen auf die Popkultur."
-    ]
+    ],
+    "tmdb_id": 1124,
+    "media_type": "movie"
   },
   {
     "celebrity": "Memento",
@@ -537,16 +655,20 @@
       "Seine Hinweise ergeben sich eher aus dem Setting, dem zentralen Konflikt und den einprägsamen Filmbildern als aus dem Namen.",
       "Suchen Sie nach den Charakteren, dem Setting und der Genre-Situation, die die Fans damit assoziieren.",
       "Der beste Hinweis ist die Stimmung: eine erkennbare Mischung aus Einsätzen, visuellem Stil und wiederholten Anspielungen auf die Popkultur."
-    ]
+    ],
+    "tmdb_id": 77,
+    "media_type": "movie"
   },
   {
-    "celebrity": "Se7en",
+    "celebrity": "Sieben",
     "gender": "",
     "facts": [
       "Seine Hinweise ergeben sich eher aus dem Setting, dem zentralen Konflikt und den einprägsamen Filmbildern als aus dem Namen.",
       "Suchen Sie nach den Charakteren, dem Setting und der Genre-Situation, die die Fans damit assoziieren.",
       "Der beste Hinweis ist die Stimmung: eine erkennbare Mischung aus Einsätzen, visuellem Stil und wiederholten Anspielungen auf die Popkultur."
-    ]
+    ],
+    "tmdb_id": 807,
+    "media_type": "movie"
   },
   {
     "celebrity": "No Country for Old Men",
@@ -555,7 +677,9 @@
       "Seine Hinweise ergeben sich eher aus dem Setting, dem zentralen Konflikt und den einprägsamen Filmbildern als aus dem Namen.",
       "Suchen Sie nach den Charakteren, dem Setting und der Genre-Situation, die die Fans damit assoziieren.",
       "Der beste Hinweis ist die Stimmung: eine erkennbare Mischung aus Einsätzen, visuellem Stil und wiederholten Anspielungen auf die Popkultur."
-    ]
+    ],
+    "tmdb_id": 6977,
+    "media_type": "movie"
   },
   {
     "celebrity": "There Will Be Blood",
@@ -564,7 +688,9 @@
       "Seine Hinweise ergeben sich eher aus dem Setting, dem zentralen Konflikt und den einprägsamen Filmbildern als aus dem Namen.",
       "Suchen Sie nach den Charakteren, dem Setting und der Genre-Situation, die die Fans damit assoziieren.",
       "Der beste Hinweis ist die Stimmung: eine erkennbare Mischung aus Einsätzen, visuellem Stil und wiederholten Anspielungen auf die Popkultur."
-    ]
+    ],
+    "tmdb_id": 7345,
+    "media_type": "movie"
   },
   {
     "celebrity": "The Big Lebowski",
@@ -573,34 +699,42 @@
       "Seine Hinweise ergeben sich eher aus dem Setting, dem zentralen Konflikt und den einprägsamen Filmbildern als aus dem Namen.",
       "Suchen Sie nach den Charakteren, dem Setting und der Genre-Situation, die die Fans damit assoziieren.",
       "Der beste Hinweis ist die Stimmung: eine erkennbare Mischung aus Einsätzen, visuellem Stil und wiederholten Anspielungen auf die Popkultur."
-    ]
+    ],
+    "tmdb_id": 115,
+    "media_type": "movie"
   },
   {
-    "celebrity": "Mean Girls",
+    "celebrity": "Girls Club - Vorsicht bissig!",
     "gender": "",
     "facts": [
       "Seine Hinweise ergeben sich eher aus dem Setting, dem zentralen Konflikt und den einprägsamen Filmbildern als aus dem Namen.",
       "Suchen Sie nach den Charakteren, dem Setting und der Genre-Situation, die die Fans damit assoziieren.",
       "Der beste Hinweis ist die Stimmung: eine erkennbare Mischung aus Einsätzen, visuellem Stil und wiederholten Anspielungen auf die Popkultur."
-    ]
+    ],
+    "tmdb_id": 10625,
+    "media_type": "movie"
   },
   {
-    "celebrity": "Clueless",
+    "celebrity": "Clueless - Was sonst!",
     "gender": "",
     "facts": [
       "Seine Hinweise ergeben sich eher aus dem Setting, dem zentralen Konflikt und den einprägsamen Filmbildern als aus dem Namen.",
       "Suchen Sie nach den Charakteren, dem Setting und der Genre-Situation, die die Fans damit assoziieren.",
       "Der beste Hinweis ist die Stimmung: eine erkennbare Mischung aus Einsätzen, visuellem Stil und wiederholten Anspielungen auf die Popkultur."
-    ]
+    ],
+    "tmdb_id": 9603,
+    "media_type": "movie"
   },
   {
-    "celebrity": "The Notebook",
+    "celebrity": "Wie ein einziger Tag",
     "gender": "",
     "facts": [
       "Seine Hinweise ergeben sich eher aus dem Setting, dem zentralen Konflikt und den einprägsamen Filmbildern als aus dem Namen.",
       "Suchen Sie nach den Charakteren, dem Setting und der Genre-Situation, die die Fans damit assoziieren.",
       "Der beste Hinweis ist die Stimmung: eine erkennbare Mischung aus Einsätzen, visuellem Stil und wiederholten Anspielungen auf die Popkultur."
-    ]
+    ],
+    "tmdb_id": 11036,
+    "media_type": "movie"
   },
   {
     "celebrity": "Pretty Woman",
@@ -609,7 +743,9 @@
       "Seine Hinweise ergeben sich eher aus dem Setting, dem zentralen Konflikt und den einprägsamen Filmbildern als aus dem Namen.",
       "Suchen Sie nach den Charakteren, dem Setting und der Genre-Situation, die die Fans damit assoziieren.",
       "Der beste Hinweis ist die Stimmung: eine erkennbare Mischung aus Einsätzen, visuellem Stil und wiederholten Anspielungen auf die Popkultur."
-    ]
+    ],
+    "tmdb_id": 114,
+    "media_type": "movie"
   },
   {
     "celebrity": "Home Alone",
@@ -618,61 +754,75 @@
       "Seine Hinweise ergeben sich eher aus dem Setting, dem zentralen Konflikt und den einprägsamen Filmbildern als aus dem Namen.",
       "Suchen Sie nach den Charakteren, dem Setting und der Genre-Situation, die die Fans damit assoziieren.",
       "Der beste Hinweis ist die Stimmung: eine erkennbare Mischung aus Einsätzen, visuellem Stil und wiederholten Anspielungen auf die Popkultur."
-    ]
+    ],
+    "tmdb_id": 1224743,
+    "media_type": "movie"
   },
   {
-    "celebrity": "The Truman Show",
+    "celebrity": "Die Truman Show",
     "gender": "",
     "facts": [
       "Seine Hinweise ergeben sich eher aus dem Setting, dem zentralen Konflikt und den einprägsamen Filmbildern als aus dem Namen.",
       "Suchen Sie nach den Charakteren, dem Setting und der Genre-Situation, die die Fans damit assoziieren.",
       "Der beste Hinweis ist die Stimmung: eine erkennbare Mischung aus Einsätzen, visuellem Stil und wiederholten Anspielungen auf die Popkultur."
-    ]
+    ],
+    "tmdb_id": 37165,
+    "media_type": "movie"
   },
   {
-    "celebrity": "Et the Extra Terrestrial",
+    "celebrity": "E.T. - Der Außerirdische",
     "gender": "",
     "facts": [
       "Seine Hinweise ergeben sich eher aus dem Setting, dem zentralen Konflikt und den einprägsamen Filmbildern als aus dem Namen.",
       "Suchen Sie nach den Charakteren, dem Setting und der Genre-Situation, die die Fans damit assoziieren.",
       "Der beste Hinweis ist die Stimmung: eine erkennbare Mischung aus Einsätzen, visuellem Stil und wiederholten Anspielungen auf die Popkultur."
-    ]
+    ],
+    "tmdb_id": 601,
+    "media_type": "movie"
   },
   {
-    "celebrity": "Raiders of the Lost Ark",
+    "celebrity": "Jäger des verlorenen Schatzes",
     "gender": "",
     "facts": [
       "Seine Hinweise ergeben sich eher aus dem Setting, dem zentralen Konflikt und den einprägsamen Filmbildern als aus dem Namen.",
       "Suchen Sie nach den Charakteren, dem Setting und der Genre-Situation, die die Fans damit assoziieren.",
       "Der beste Hinweis ist die Stimmung: eine erkennbare Mischung aus Einsätzen, visuellem Stil und wiederholten Anspielungen auf die Popkultur."
-    ]
+    ],
+    "tmdb_id": 85,
+    "media_type": "movie"
   },
   {
-    "celebrity": "The Empire Strikes Back",
+    "celebrity": "Das Imperium schlägt zurück",
     "gender": "",
     "facts": [
       "Seine Hinweise ergeben sich eher aus dem Setting, dem zentralen Konflikt und den einprägsamen Filmbildern als aus dem Namen.",
       "Suchen Sie nach den Charakteren, dem Setting und der Genre-Situation, die die Fans damit assoziieren.",
       "Der beste Hinweis ist die Stimmung: eine erkennbare Mischung aus Einsätzen, visuellem Stil und wiederholten Anspielungen auf die Popkultur."
-    ]
+    ],
+    "tmdb_id": 1891,
+    "media_type": "movie"
   },
   {
-    "celebrity": "Return of the Jedi",
+    "celebrity": "Die Rückkehr der Jedi-Ritter",
     "gender": "",
     "facts": [
       "Seine Hinweise ergeben sich eher aus dem Setting, dem zentralen Konflikt und den einprägsamen Filmbildern als aus dem Namen.",
       "Suchen Sie nach den Charakteren, dem Setting und der Genre-Situation, die die Fans damit assoziieren.",
       "Der beste Hinweis ist die Stimmung: eine erkennbare Mischung aus Einsätzen, visuellem Stil und wiederholten Anspielungen auf die Popkultur."
-    ]
+    ],
+    "tmdb_id": 1892,
+    "media_type": "movie"
   },
   {
-    "celebrity": "A New Hope",
+    "celebrity": "Krieg der Sterne",
     "gender": "",
     "facts": [
       "Seine Hinweise ergeben sich eher aus dem Setting, dem zentralen Konflikt und den einprägsamen Filmbildern als aus dem Namen.",
       "Suchen Sie nach den Charakteren, dem Setting und der Genre-Situation, die die Fans damit assoziieren.",
       "Der beste Hinweis ist die Stimmung: eine erkennbare Mischung aus Einsätzen, visuellem Stil und wiederholten Anspielungen auf die Popkultur."
-    ]
+    ],
+    "tmdb_id": 11,
+    "media_type": "movie"
   },
   {
     "celebrity": "The Phantom Menace",
@@ -681,25 +831,31 @@
       "Seine Hinweise ergeben sich eher aus dem Setting, dem zentralen Konflikt und den einprägsamen Filmbildern als aus dem Namen.",
       "Suchen Sie nach den Charakteren, dem Setting und der Genre-Situation, die die Fans damit assoziieren.",
       "Der beste Hinweis ist die Stimmung: eine erkennbare Mischung aus Einsätzen, visuellem Stil und wiederholten Anspielungen auf die Popkultur."
-    ]
+    ],
+    "tmdb_id": 1460782,
+    "media_type": "movie"
   },
   {
-    "celebrity": "The Force Awakens",
+    "celebrity": "Star Wars: Das Erwachen der Macht",
     "gender": "",
     "facts": [
       "Seine Hinweise ergeben sich eher aus dem Setting, dem zentralen Konflikt und den einprägsamen Filmbildern als aus dem Namen.",
       "Suchen Sie nach den Charakteren, dem Setting und der Genre-Situation, die die Fans damit assoziieren.",
       "Der beste Hinweis ist die Stimmung: eine erkennbare Mischung aus Einsätzen, visuellem Stil und wiederholten Anspielungen auf die Popkultur."
-    ]
+    ],
+    "tmdb_id": 140607,
+    "media_type": "movie"
   },
   {
-    "celebrity": "Logan",
+    "celebrity": "Logan - The Wolverine",
     "gender": "",
     "facts": [
       "Seine Hinweise ergeben sich eher aus dem Setting, dem zentralen Konflikt und den einprägsamen Filmbildern als aus dem Namen.",
       "Suchen Sie nach den Charakteren, dem Setting und der Genre-Situation, die die Fans damit assoziieren.",
       "Der beste Hinweis ist die Stimmung: eine erkennbare Mischung aus Einsätzen, visuellem Stil und wiederholten Anspielungen auf die Popkultur."
-    ]
+    ],
+    "tmdb_id": 263115,
+    "media_type": "movie"
   },
   {
     "celebrity": "Deadpool",
@@ -708,7 +864,9 @@
       "Seine Hinweise ergeben sich eher aus dem Setting, dem zentralen Konflikt und den einprägsamen Filmbildern als aus dem Namen.",
       "Suchen Sie nach den Charakteren, dem Setting und der Genre-Situation, die die Fans damit assoziieren.",
       "Der beste Hinweis ist die Stimmung: eine erkennbare Mischung aus Einsätzen, visuellem Stil und wiederholten Anspielungen auf die Popkultur."
-    ]
+    ],
+    "tmdb_id": 293660,
+    "media_type": "movie"
   },
   {
     "celebrity": "Iron Man",
@@ -717,16 +875,20 @@
       "Seine Hinweise ergeben sich eher aus dem Setting, dem zentralen Konflikt und den einprägsamen Filmbildern als aus dem Namen.",
       "Suchen Sie nach den Charakteren, dem Setting und der Genre-Situation, die die Fans damit assoziieren.",
       "Der beste Hinweis ist die Stimmung: eine erkennbare Mischung aus Einsätzen, visuellem Stil und wiederholten Anspielungen auf die Popkultur."
-    ]
+    ],
+    "tmdb_id": 1726,
+    "media_type": "movie"
   },
   {
-    "celebrity": "Captain America Civil War",
+    "celebrity": "The First Avenger: Civil War",
     "gender": "",
     "facts": [
       "Seine Hinweise ergeben sich eher aus dem Setting, dem zentralen Konflikt und den einprägsamen Filmbildern als aus dem Namen.",
       "Suchen Sie nach den Charakteren, dem Setting und der Genre-Situation, die die Fans damit assoziieren.",
       "Der beste Hinweis ist die Stimmung: eine erkennbare Mischung aus Einsätzen, visuellem Stil und wiederholten Anspielungen auf die Popkultur."
-    ]
+    ],
+    "tmdb_id": 271110,
+    "media_type": "movie"
   },
   {
     "celebrity": "Guardians of the Galaxy",
@@ -735,7 +897,9 @@
       "Seine Hinweise ergeben sich eher aus dem Setting, dem zentralen Konflikt und den einprägsamen Filmbildern als aus dem Namen.",
       "Suchen Sie nach den Charakteren, dem Setting und der Genre-Situation, die die Fans damit assoziieren.",
       "Der beste Hinweis ist die Stimmung: eine erkennbare Mischung aus Einsätzen, visuellem Stil und wiederholten Anspielungen auf die Popkultur."
-    ]
+    ],
+    "tmdb_id": 118340,
+    "media_type": "movie"
   },
   {
     "celebrity": "Doctor Strange",
@@ -744,7 +908,9 @@
       "Seine Hinweise ergeben sich eher aus dem Setting, dem zentralen Konflikt und den einprägsamen Filmbildern als aus dem Namen.",
       "Suchen Sie nach den Charakteren, dem Setting und der Genre-Situation, die die Fans damit assoziieren.",
       "Der beste Hinweis ist die Stimmung: eine erkennbare Mischung aus Einsätzen, visuellem Stil und wiederholten Anspielungen auf die Popkultur."
-    ]
+    ],
+    "tmdb_id": 284052,
+    "media_type": "movie"
   },
   {
     "celebrity": "Spider Man No Way Home",
@@ -753,7 +919,9 @@
       "Seine Hinweise ergeben sich eher aus dem Setting, dem zentralen Konflikt und den einprägsamen Filmbildern als aus dem Namen.",
       "Suchen Sie nach den Charakteren, dem Setting und der Genre-Situation, die die Fans damit assoziieren.",
       "Der beste Hinweis ist die Stimmung: eine erkennbare Mischung aus Einsätzen, visuellem Stil und wiederholten Anspielungen auf die Popkultur."
-    ]
+    ],
+    "tmdb_id": 634649,
+    "media_type": "movie"
   },
   {
     "celebrity": "The Batman",
@@ -762,7 +930,9 @@
       "Seine Hinweise ergeben sich eher aus dem Setting, dem zentralen Konflikt und den einprägsamen Filmbildern als aus dem Namen.",
       "Suchen Sie nach den Charakteren, dem Setting und der Genre-Situation, die die Fans damit assoziieren.",
       "Der beste Hinweis ist die Stimmung: eine erkennbare Mischung aus Einsätzen, visuellem Stil und wiederholten Anspielungen auf die Popkultur."
-    ]
+    ],
+    "tmdb_id": 414906,
+    "media_type": "movie"
   },
   {
     "celebrity": "Batman Begins",
@@ -771,7 +941,9 @@
       "Seine Hinweise ergeben sich eher aus dem Setting, dem zentralen Konflikt und den einprägsamen Filmbildern als aus dem Namen.",
       "Suchen Sie nach den Charakteren, dem Setting und der Genre-Situation, die die Fans damit assoziieren.",
       "Der beste Hinweis ist die Stimmung: eine erkennbare Mischung aus Einsätzen, visuellem Stil und wiederholten Anspielungen auf die Popkultur."
-    ]
+    ],
+    "tmdb_id": 272,
+    "media_type": "movie"
   },
   {
     "celebrity": "The Dark Knight Rises",
@@ -780,7 +952,9 @@
       "Seine Hinweise ergeben sich eher aus dem Setting, dem zentralen Konflikt und den einprägsamen Filmbildern als aus dem Namen.",
       "Suchen Sie nach den Charakteren, dem Setting und der Genre-Situation, die die Fans damit assoziieren.",
       "Der beste Hinweis ist die Stimmung: eine erkennbare Mischung aus Einsätzen, visuellem Stil und wiederholten Anspielungen auf die Popkultur."
-    ]
+    ],
+    "tmdb_id": 49026,
+    "media_type": "movie"
   },
   {
     "celebrity": "Wonder Woman",
@@ -789,7 +963,9 @@
       "Seine Hinweise ergeben sich eher aus dem Setting, dem zentralen Konflikt und den einprägsamen Filmbildern als aus dem Namen.",
       "Suchen Sie nach den Charakteren, dem Setting und der Genre-Situation, die die Fans damit assoziieren.",
       "Der beste Hinweis ist die Stimmung: eine erkennbare Mischung aus Einsätzen, visuellem Stil und wiederholten Anspielungen auf die Popkultur."
-    ]
+    ],
+    "tmdb_id": 297762,
+    "media_type": "movie"
   },
   {
     "celebrity": "Aquaman",
@@ -798,7 +974,9 @@
       "Seine Hinweise ergeben sich eher aus dem Setting, dem zentralen Konflikt und den einprägsamen Filmbildern als aus dem Namen.",
       "Suchen Sie nach den Charakteren, dem Setting und der Genre-Situation, die die Fans damit assoziieren.",
       "Der beste Hinweis ist die Stimmung: eine erkennbare Mischung aus Einsätzen, visuellem Stil und wiederholten Anspielungen auf die Popkultur."
-    ]
+    ],
+    "tmdb_id": 297802,
+    "media_type": "movie"
   },
   {
     "celebrity": "Man of Steel",
@@ -807,7 +985,9 @@
       "Seine Hinweise ergeben sich eher aus dem Setting, dem zentralen Konflikt und den einprägsamen Filmbildern als aus dem Namen.",
       "Suchen Sie nach den Charakteren, dem Setting und der Genre-Situation, die die Fans damit assoziieren.",
       "Der beste Hinweis ist die Stimmung: eine erkennbare Mischung aus Einsätzen, visuellem Stil und wiederholten Anspielungen auf die Popkultur."
-    ]
+    ],
+    "tmdb_id": 49521,
+    "media_type": "movie"
   },
   {
     "celebrity": "The Suicide Squad",
@@ -816,7 +996,9 @@
       "Seine Hinweise ergeben sich eher aus dem Setting, dem zentralen Konflikt und den einprägsamen Filmbildern als aus dem Namen.",
       "Suchen Sie nach den Charakteren, dem Setting und der Genre-Situation, die die Fans damit assoziieren.",
       "Der beste Hinweis ist die Stimmung: eine erkennbare Mischung aus Einsätzen, visuellem Stil und wiederholten Anspielungen auf die Popkultur."
-    ]
+    ],
+    "tmdb_id": 436969,
+    "media_type": "movie"
   },
   {
     "celebrity": "Joker",
@@ -825,16 +1007,20 @@
       "Seine Hinweise ergeben sich eher aus dem Setting, dem zentralen Konflikt und den einprägsamen Filmbildern als aus dem Namen.",
       "Suchen Sie nach den Charakteren, dem Setting und der Genre-Situation, die die Fans damit assoziieren.",
       "Der beste Hinweis ist die Stimmung: eine erkennbare Mischung aus Einsätzen, visuellem Stil und wiederholten Anspielungen auf die Popkultur."
-    ]
+    ],
+    "tmdb_id": 475557,
+    "media_type": "movie"
   },
   {
-    "celebrity": "Kill Bill",
+    "celebrity": "Kill Bill - Volume 1",
     "gender": "",
     "facts": [
       "Seine Hinweise ergeben sich eher aus dem Setting, dem zentralen Konflikt und den einprägsamen Filmbildern als aus dem Namen.",
       "Suchen Sie nach den Charakteren, dem Setting und der Genre-Situation, die die Fans damit assoziieren.",
       "Der beste Hinweis ist die Stimmung: eine erkennbare Mischung aus Einsätzen, visuellem Stil und wiederholten Anspielungen auf die Popkultur."
-    ]
+    ],
+    "tmdb_id": 24,
+    "media_type": "movie"
   },
   {
     "celebrity": "Django Unchained",
@@ -843,7 +1029,9 @@
       "Seine Hinweise ergeben sich eher aus dem Setting, dem zentralen Konflikt und den einprägsamen Filmbildern als aus dem Namen.",
       "Suchen Sie nach den Charakteren, dem Setting und der Genre-Situation, die die Fans damit assoziieren.",
       "Der beste Hinweis ist die Stimmung: eine erkennbare Mischung aus Einsätzen, visuellem Stil und wiederholten Anspielungen auf die Popkultur."
-    ]
+    ],
+    "tmdb_id": 68718,
+    "media_type": "movie"
   },
   {
     "celebrity": "Inglourious Basterds",
@@ -852,16 +1040,20 @@
       "Seine Hinweise ergeben sich eher aus dem Setting, dem zentralen Konflikt und den einprägsamen Filmbildern als aus dem Namen.",
       "Suchen Sie nach den Charakteren, dem Setting und der Genre-Situation, die die Fans damit assoziieren.",
       "Der beste Hinweis ist die Stimmung: eine erkennbare Mischung aus Einsätzen, visuellem Stil und wiederholten Anspielungen auf die Popkultur."
-    ]
+    ],
+    "tmdb_id": 16869,
+    "media_type": "movie"
   },
   {
-    "celebrity": "Reservoir Dogs",
+    "celebrity": "Reservoir Dogs - Wilde Hunde",
     "gender": "",
     "facts": [
       "Seine Hinweise ergeben sich eher aus dem Setting, dem zentralen Konflikt und den einprägsamen Filmbildern als aus dem Namen.",
       "Suchen Sie nach den Charakteren, dem Setting und der Genre-Situation, die die Fans damit assoziieren.",
       "Der beste Hinweis ist die Stimmung: eine erkennbare Mischung aus Einsätzen, visuellem Stil und wiederholten Anspielungen auf die Popkultur."
-    ]
+    ],
+    "tmdb_id": 500,
+    "media_type": "movie"
   },
   {
     "celebrity": "Scarface",
@@ -870,7 +1062,9 @@
       "Seine Hinweise ergeben sich eher aus dem Setting, dem zentralen Konflikt und den einprägsamen Filmbildern als aus dem Namen.",
       "Suchen Sie nach den Charakteren, dem Setting und der Genre-Situation, die die Fans damit assoziieren.",
       "Der beste Hinweis ist die Stimmung: eine erkennbare Mischung aus Einsätzen, visuellem Stil und wiederholten Anspielungen auf die Popkultur."
-    ]
+    ],
+    "tmdb_id": 111,
+    "media_type": "movie"
   },
   {
     "celebrity": "Heat",
@@ -879,7 +1073,9 @@
       "Seine Hinweise ergeben sich eher aus dem Setting, dem zentralen Konflikt und den einprägsamen Filmbildern als aus dem Namen.",
       "Suchen Sie nach den Charakteren, dem Setting und der Genre-Situation, die die Fans damit assoziieren.",
       "Der beste Hinweis ist die Stimmung: eine erkennbare Mischung aus Einsätzen, visuellem Stil und wiederholten Anspielungen auf die Popkultur."
-    ]
+    ],
+    "tmdb_id": 949,
+    "media_type": "movie"
   },
   {
     "celebrity": "Taxi Driver",
@@ -888,16 +1084,20 @@
       "Seine Hinweise ergeben sich eher aus dem Setting, dem zentralen Konflikt und den einprägsamen Filmbildern als aus dem Namen.",
       "Suchen Sie nach den Charakteren, dem Setting und der Genre-Situation, die die Fans damit assoziieren.",
       "Der beste Hinweis ist die Stimmung: eine erkennbare Mischung aus Einsätzen, visuellem Stil und wiederholten Anspielungen auf die Popkultur."
-    ]
+    ],
+    "tmdb_id": 103,
+    "media_type": "movie"
   },
   {
-    "celebrity": "Raging Bull",
+    "celebrity": "Wie ein wilder Stier",
     "gender": "",
     "facts": [
       "Seine Hinweise ergeben sich eher aus dem Setting, dem zentralen Konflikt und den einprägsamen Filmbildern als aus dem Namen.",
       "Suchen Sie nach den Charakteren, dem Setting und der Genre-Situation, die die Fans damit assoziieren.",
       "Der beste Hinweis ist die Stimmung: eine erkennbare Mischung aus Einsätzen, visuellem Stil und wiederholten Anspielungen auf die Popkultur."
-    ]
+    ],
+    "tmdb_id": 1578,
+    "media_type": "movie"
   },
   {
     "celebrity": "Good Will Hunting",
@@ -906,7 +1106,9 @@
       "Seine Hinweise ergeben sich eher aus dem Setting, dem zentralen Konflikt und den einprägsamen Filmbildern als aus dem Namen.",
       "Suchen Sie nach den Charakteren, dem Setting und der Genre-Situation, die die Fans damit assoziieren.",
       "Der beste Hinweis ist die Stimmung: eine erkennbare Mischung aus Einsätzen, visuellem Stil und wiederholten Anspielungen auf die Popkultur."
-    ]
+    ],
+    "tmdb_id": 489,
+    "media_type": "movie"
   },
   {
     "celebrity": "The Green Mile",
@@ -915,7 +1117,9 @@
       "Seine Hinweise ergeben sich eher aus dem Setting, dem zentralen Konflikt und den einprägsamen Filmbildern als aus dem Namen.",
       "Suchen Sie nach den Charakteren, dem Setting und der Genre-Situation, die die Fans damit assoziieren.",
       "Der beste Hinweis ist die Stimmung: eine erkennbare Mischung aus Einsätzen, visuellem Stil und wiederholten Anspielungen auf die Popkultur."
-    ]
+    ],
+    "tmdb_id": 497,
+    "media_type": "movie"
   },
   {
     "celebrity": "American Beauty",
@@ -924,16 +1128,20 @@
       "Seine Hinweise ergeben sich eher aus dem Setting, dem zentralen Konflikt und den einprägsamen Filmbildern als aus dem Namen.",
       "Suchen Sie nach den Charakteren, dem Setting und der Genre-Situation, die die Fans damit assoziieren.",
       "Der beste Hinweis ist die Stimmung: eine erkennbare Mischung aus Einsätzen, visuellem Stil und wiederholten Anspielungen auf die Popkultur."
-    ]
+    ],
+    "tmdb_id": 14,
+    "media_type": "movie"
   },
   {
-    "celebrity": "The Usual Suspects",
+    "celebrity": "Die üblichen Verdächtigen",
     "gender": "",
     "facts": [
       "Seine Hinweise ergeben sich eher aus dem Setting, dem zentralen Konflikt und den einprägsamen Filmbildern als aus dem Namen.",
       "Suchen Sie nach den Charakteren, dem Setting und der Genre-Situation, die die Fans damit assoziieren.",
       "Der beste Hinweis ist die Stimmung: eine erkennbare Mischung aus Einsätzen, visuellem Stil und wiederholten Anspielungen auf die Popkultur."
-    ]
+    ],
+    "tmdb_id": 629,
+    "media_type": "movie"
   },
   {
     "celebrity": "The Sixth Sense",
@@ -942,16 +1150,20 @@
       "Seine Hinweise ergeben sich eher aus dem Setting, dem zentralen Konflikt und den einprägsamen Filmbildern als aus dem Namen.",
       "Suchen Sie nach den Charakteren, dem Setting und der Genre-Situation, die die Fans damit assoziieren.",
       "Der beste Hinweis ist die Stimmung: eine erkennbare Mischung aus Einsätzen, visuellem Stil und wiederholten Anspielungen auf die Popkultur."
-    ]
+    ],
+    "tmdb_id": 745,
+    "media_type": "movie"
   },
   {
-    "celebrity": "Unbreakable",
+    "celebrity": "Unbreakable - Unzerbrechlich",
     "gender": "",
     "facts": [
       "Seine Hinweise ergeben sich eher aus dem Setting, dem zentralen Konflikt und den einprägsamen Filmbildern als aus dem Namen.",
       "Suchen Sie nach den Charakteren, dem Setting und der Genre-Situation, die die Fans damit assoziieren.",
       "Der beste Hinweis ist die Stimmung: eine erkennbare Mischung aus Einsätzen, visuellem Stil und wiederholten Anspielungen auf die Popkultur."
-    ]
+    ],
+    "tmdb_id": 9741,
+    "media_type": "movie"
   },
   {
     "celebrity": "Split",
@@ -960,7 +1172,9 @@
       "Seine Hinweise ergeben sich eher aus dem Setting, dem zentralen Konflikt und den einprägsamen Filmbildern als aus dem Namen.",
       "Suchen Sie nach den Charakteren, dem Setting und der Genre-Situation, die die Fans damit assoziieren.",
       "Der beste Hinweis ist die Stimmung: eine erkennbare Mischung aus Einsätzen, visuellem Stil und wiederholten Anspielungen auf die Popkultur."
-    ]
+    ],
+    "tmdb_id": 381288,
+    "media_type": "movie"
   },
   {
     "celebrity": "Get Out",
@@ -969,7 +1183,9 @@
       "Seine Hinweise ergeben sich eher aus dem Setting, dem zentralen Konflikt und den einprägsamen Filmbildern als aus dem Namen.",
       "Suchen Sie nach den Charakteren, dem Setting und der Genre-Situation, die die Fans damit assoziieren.",
       "Der beste Hinweis ist die Stimmung: eine erkennbare Mischung aus Einsätzen, visuellem Stil und wiederholten Anspielungen auf die Popkultur."
-    ]
+    ],
+    "tmdb_id": 419430,
+    "media_type": "movie"
   },
   {
     "celebrity": "Nope",
@@ -978,16 +1194,20 @@
       "Seine Hinweise ergeben sich eher aus dem Setting, dem zentralen Konflikt und den einprägsamen Filmbildern als aus dem Namen.",
       "Suchen Sie nach den Charakteren, dem Setting und der Genre-Situation, die die Fans damit assoziieren.",
       "Der beste Hinweis ist die Stimmung: eine erkennbare Mischung aus Einsätzen, visuellem Stil und wiederholten Anspielungen auf die Popkultur."
-    ]
+    ],
+    "tmdb_id": 762504,
+    "media_type": "movie"
   },
   {
-    "celebrity": "Hereditary",
+    "celebrity": "Hereditary - Das Vermächtnis",
     "gender": "",
     "facts": [
       "Seine Hinweise ergeben sich eher aus dem Setting, dem zentralen Konflikt und den einprägsamen Filmbildern als aus dem Namen.",
       "Suchen Sie nach den Charakteren, dem Setting und der Genre-Situation, die die Fans damit assoziieren.",
       "Der beste Hinweis ist die Stimmung: eine erkennbare Mischung aus Einsätzen, visuellem Stil und wiederholten Anspielungen auf die Popkultur."
-    ]
+    ],
+    "tmdb_id": 493922,
+    "media_type": "movie"
   },
   {
     "celebrity": "Midsommar",
@@ -996,16 +1216,20 @@
       "Seine Hinweise ergeben sich eher aus dem Setting, dem zentralen Konflikt und den einprägsamen Filmbildern als aus dem Namen.",
       "Suchen Sie nach den Charakteren, dem Setting und der Genre-Situation, die die Fans damit assoziieren.",
       "Der beste Hinweis ist die Stimmung: eine erkennbare Mischung aus Einsätzen, visuellem Stil und wiederholten Anspielungen auf die Popkultur."
-    ]
+    ],
+    "tmdb_id": 530385,
+    "media_type": "movie"
   },
   {
-    "celebrity": "The Exorcist",
+    "celebrity": "Der Exorzist",
     "gender": "",
     "facts": [
       "Seine Hinweise ergeben sich eher aus dem Setting, dem zentralen Konflikt und den einprägsamen Filmbildern als aus dem Namen.",
       "Suchen Sie nach den Charakteren, dem Setting und der Genre-Situation, die die Fans damit assoziieren.",
       "Der beste Hinweis ist die Stimmung: eine erkennbare Mischung aus Einsätzen, visuellem Stil und wiederholten Anspielungen auf die Popkultur."
-    ]
+    ],
+    "tmdb_id": 9552,
+    "media_type": "movie"
   },
   {
     "celebrity": "Psycho",
@@ -1014,34 +1238,42 @@
       "Seine Hinweise ergeben sich eher aus dem Setting, dem zentralen Konflikt und den einprägsamen Filmbildern als aus dem Namen.",
       "Suchen Sie nach den Charakteren, dem Setting und der Genre-Situation, die die Fans damit assoziieren.",
       "Der beste Hinweis ist die Stimmung: eine erkennbare Mischung aus Einsätzen, visuellem Stil und wiederholten Anspielungen auf die Popkultur."
-    ]
+    ],
+    "tmdb_id": 539,
+    "media_type": "movie"
   },
   {
-    "celebrity": "The Shining",
+    "celebrity": "Shining",
     "gender": "",
     "facts": [
       "Seine Hinweise ergeben sich eher aus dem Setting, dem zentralen Konflikt und den einprägsamen Filmbildern als aus dem Namen.",
       "Suchen Sie nach den Charakteren, dem Setting und der Genre-Situation, die die Fans damit assoziieren.",
       "Der beste Hinweis ist die Stimmung: eine erkennbare Mischung aus Einsätzen, visuellem Stil und wiederholten Anspielungen auf die Popkultur."
-    ]
+    ],
+    "tmdb_id": 694,
+    "media_type": "movie"
   },
   {
-    "celebrity": "The Thing",
+    "celebrity": "Das Ding aus einer anderen Welt",
     "gender": "",
     "facts": [
       "Seine Hinweise ergeben sich eher aus dem Setting, dem zentralen Konflikt und den einprägsamen Filmbildern als aus dem Namen.",
       "Suchen Sie nach den Charakteren, dem Setting und der Genre-Situation, die die Fans damit assoziieren.",
       "Der beste Hinweis ist die Stimmung: eine erkennbare Mischung aus Einsätzen, visuellem Stil und wiederholten Anspielungen auf die Popkultur."
-    ]
+    ],
+    "tmdb_id": 1091,
+    "media_type": "movie"
   },
   {
-    "celebrity": "Rosemarys Baby",
+    "celebrity": "Rosemaries Baby",
     "gender": "",
     "facts": [
       "Seine Hinweise ergeben sich eher aus dem Setting, dem zentralen Konflikt und den einprägsamen Filmbildern als aus dem Namen.",
       "Suchen Sie nach den Charakteren, dem Setting und der Genre-Situation, die die Fans damit assoziieren.",
       "Der beste Hinweis ist die Stimmung: eine erkennbare Mischung aus Einsätzen, visuellem Stil und wiederholten Anspielungen auf die Popkultur."
-    ]
+    ],
+    "tmdb_id": 805,
+    "media_type": "movie"
   },
   {
     "celebrity": "Casablanca",
@@ -1050,7 +1282,9 @@
       "Seine Hinweise ergeben sich eher aus dem Setting, dem zentralen Konflikt und den einprägsamen Filmbildern als aus dem Namen.",
       "Suchen Sie nach den Charakteren, dem Setting und der Genre-Situation, die die Fans damit assoziieren.",
       "Der beste Hinweis ist die Stimmung: eine erkennbare Mischung aus Einsätzen, visuellem Stil und wiederholten Anspielungen auf die Popkultur."
-    ]
+    ],
+    "tmdb_id": 289,
+    "media_type": "movie"
   },
   {
     "celebrity": "Citizen Kane",
@@ -1059,16 +1293,20 @@
       "Seine Hinweise ergeben sich eher aus dem Setting, dem zentralen Konflikt und den einprägsamen Filmbildern als aus dem Namen.",
       "Suchen Sie nach den Charakteren, dem Setting und der Genre-Situation, die die Fans damit assoziieren.",
       "Der beste Hinweis ist die Stimmung: eine erkennbare Mischung aus Einsätzen, visuellem Stil und wiederholten Anspielungen auf die Popkultur."
-    ]
+    ],
+    "tmdb_id": 15,
+    "media_type": "movie"
   },
   {
-    "celebrity": "Singin in the Rain",
+    "celebrity": "Du sollst mein Glücksstern sein",
     "gender": "",
     "facts": [
       "Seine Hinweise ergeben sich eher aus dem Setting, dem zentralen Konflikt und den einprägsamen Filmbildern als aus dem Namen.",
       "Suchen Sie nach den Charakteren, dem Setting und der Genre-Situation, die die Fans damit assoziieren.",
       "Der beste Hinweis ist die Stimmung: eine erkennbare Mischung aus Einsätzen, visuellem Stil und wiederholten Anspielungen auf die Popkultur."
-    ]
+    ],
+    "tmdb_id": 872,
+    "media_type": "movie"
   },
   {
     "celebrity": "West Side Story",
@@ -1077,16 +1315,20 @@
       "Seine Hinweise ergeben sich eher aus dem Setting, dem zentralen Konflikt und den einprägsamen Filmbildern als aus dem Namen.",
       "Suchen Sie nach den Charakteren, dem Setting und der Genre-Situation, die die Fans damit assoziieren.",
       "Der beste Hinweis ist die Stimmung: eine erkennbare Mischung aus Einsätzen, visuellem Stil und wiederholten Anspielungen auf die Popkultur."
-    ]
+    ],
+    "tmdb_id": 511809,
+    "media_type": "movie"
   },
   {
-    "celebrity": "The Sound of Music",
+    "celebrity": "Meine Lieder, meine Träume",
     "gender": "",
     "facts": [
       "Seine Hinweise ergeben sich eher aus dem Setting, dem zentralen Konflikt und den einprägsamen Filmbildern als aus dem Namen.",
       "Suchen Sie nach den Charakteren, dem Setting und der Genre-Situation, die die Fans damit assoziieren.",
       "Der beste Hinweis ist die Stimmung: eine erkennbare Mischung aus Einsätzen, visuellem Stil und wiederholten Anspielungen auf die Popkultur."
-    ]
+    ],
+    "tmdb_id": 15121,
+    "media_type": "movie"
   },
   {
     "celebrity": "Mary Poppins",
@@ -1095,7 +1337,9 @@
       "Seine Hinweise ergeben sich eher aus dem Setting, dem zentralen Konflikt und den einprägsamen Filmbildern als aus dem Namen.",
       "Suchen Sie nach den Charakteren, dem Setting und der Genre-Situation, die die Fans damit assoziieren.",
       "Der beste Hinweis ist die Stimmung: eine erkennbare Mischung aus Einsätzen, visuellem Stil und wiederholten Anspielungen auf die Popkultur."
-    ]
+    ],
+    "tmdb_id": 433,
+    "media_type": "movie"
   },
   {
     "celebrity": "Grease",
@@ -1104,7 +1348,9 @@
       "Seine Hinweise ergeben sich eher aus dem Setting, dem zentralen Konflikt und den einprägsamen Filmbildern als aus dem Namen.",
       "Suchen Sie nach den Charakteren, dem Setting und der Genre-Situation, die die Fans damit assoziieren.",
       "Der beste Hinweis ist die Stimmung: eine erkennbare Mischung aus Einsätzen, visuellem Stil und wiederholten Anspielungen auf die Popkultur."
-    ]
+    ],
+    "tmdb_id": 621,
+    "media_type": "movie"
   },
   {
     "celebrity": "Dirty Dancing",
@@ -1113,7 +1359,9 @@
       "Seine Hinweise ergeben sich eher aus dem Setting, dem zentralen Konflikt und den einprägsamen Filmbildern als aus dem Namen.",
       "Suchen Sie nach den Charakteren, dem Setting und der Genre-Situation, die die Fans damit assoziieren.",
       "Der beste Hinweis ist die Stimmung: eine erkennbare Mischung aus Einsätzen, visuellem Stil und wiederholten Anspielungen auf die Popkultur."
-    ]
+    ],
+    "tmdb_id": 88,
+    "media_type": "movie"
   },
   {
     "celebrity": "Rocky Horror Picture Show",
@@ -1122,7 +1370,9 @@
       "Seine Hinweise ergeben sich eher aus dem Setting, dem zentralen Konflikt und den einprägsamen Filmbildern als aus dem Namen.",
       "Suchen Sie nach den Charakteren, dem Setting und der Genre-Situation, die die Fans damit assoziieren.",
       "Der beste Hinweis ist die Stimmung: eine erkennbare Mischung aus Einsätzen, visuellem Stil und wiederholten Anspielungen auf die Popkultur."
-    ]
+    ],
+    "tmdb_id": 36685,
+    "media_type": "movie"
   },
   {
     "celebrity": "Blade",
@@ -1131,34 +1381,42 @@
       "Seine Hinweise ergeben sich eher aus dem Setting, dem zentralen Konflikt und den einprägsamen Filmbildern als aus dem Namen.",
       "Suchen Sie nach den Charakteren, dem Setting und der Genre-Situation, die die Fans damit assoziieren.",
       "Der beste Hinweis ist die Stimmung: eine erkennbare Mischung aus Einsätzen, visuellem Stil und wiederholten Anspielungen auf die Popkultur."
-    ]
+    ],
+    "tmdb_id": 36647,
+    "media_type": "movie"
   },
   {
-    "celebrity": "The Mummy",
+    "celebrity": "Die Mumie",
     "gender": "",
     "facts": [
       "Seine Hinweise ergeben sich eher aus dem Setting, dem zentralen Konflikt und den einprägsamen Filmbildern als aus dem Namen.",
       "Suchen Sie nach den Charakteren, dem Setting und der Genre-Situation, die die Fans damit assoziieren.",
       "Der beste Hinweis ist die Stimmung: eine erkennbare Mischung aus Einsätzen, visuellem Stil und wiederholten Anspielungen auf die Popkultur."
-    ]
+    ],
+    "tmdb_id": 564,
+    "media_type": "movie"
   },
   {
-    "celebrity": "National Treasure",
+    "celebrity": "Das Vermächtnis der Tempelritter",
     "gender": "",
     "facts": [
       "Seine Hinweise ergeben sich eher aus dem Setting, dem zentralen Konflikt und den einprägsamen Filmbildern als aus dem Namen.",
       "Suchen Sie nach den Charakteren, dem Setting und der Genre-Situation, die die Fans damit assoziieren.",
       "Der beste Hinweis ist die Stimmung: eine erkennbare Mischung aus Einsätzen, visuellem Stil und wiederholten Anspielungen auf die Popkultur."
-    ]
+    ],
+    "tmdb_id": 2059,
+    "media_type": "movie"
   },
   {
-    "celebrity": "Night at the Museum",
+    "celebrity": "Nachts im Museum",
     "gender": "",
     "facts": [
       "Seine Hinweise ergeben sich eher aus dem Setting, dem zentralen Konflikt und den einprägsamen Filmbildern als aus dem Namen.",
       "Suchen Sie nach den Charakteren, dem Setting und der Genre-Situation, die die Fans damit assoziieren.",
       "Der beste Hinweis ist die Stimmung: eine erkennbare Mischung aus Einsätzen, visuellem Stil und wiederholten Anspielungen auf die Popkultur."
-    ]
+    ],
+    "tmdb_id": 1593,
+    "media_type": "movie"
   },
   {
     "celebrity": "School of Rock",
@@ -1167,7 +1425,9 @@
       "Seine Hinweise ergeben sich eher aus dem Setting, dem zentralen Konflikt und den einprägsamen Filmbildern als aus dem Namen.",
       "Suchen Sie nach den Charakteren, dem Setting und der Genre-Situation, die die Fans damit assoziieren.",
       "Der beste Hinweis ist die Stimmung: eine erkennbare Mischung aus Einsätzen, visuellem Stil und wiederholten Anspielungen auf die Popkultur."
-    ]
+    ],
+    "tmdb_id": 1584,
+    "media_type": "movie"
   },
   {
     "celebrity": "Superbad",
@@ -1176,34 +1436,42 @@
       "Seine Hinweise ergeben sich eher aus dem Setting, dem zentralen Konflikt und den einprägsamen Filmbildern als aus dem Namen.",
       "Suchen Sie nach den Charakteren, dem Setting und der Genre-Situation, die die Fans damit assoziieren.",
       "Der beste Hinweis ist die Stimmung: eine erkennbare Mischung aus Einsätzen, visuellem Stil und wiederholten Anspielungen auf die Popkultur."
-    ]
+    ],
+    "tmdb_id": 8363,
+    "media_type": "movie"
   },
   {
-    "celebrity": "Bridesmaids",
+    "celebrity": "Brautalarm",
     "gender": "",
     "facts": [
       "Seine Hinweise ergeben sich eher aus dem Setting, dem zentralen Konflikt und den einprägsamen Filmbildern als aus dem Namen.",
       "Suchen Sie nach den Charakteren, dem Setting und der Genre-Situation, die die Fans damit assoziieren.",
       "Der beste Hinweis ist die Stimmung: eine erkennbare Mischung aus Einsätzen, visuellem Stil und wiederholten Anspielungen auf die Popkultur."
-    ]
+    ],
+    "tmdb_id": 55721,
+    "media_type": "movie"
   },
   {
-    "celebrity": "The Hangover",
+    "celebrity": "Hangover",
     "gender": "",
     "facts": [
       "Seine Hinweise ergeben sich eher aus dem Setting, dem zentralen Konflikt und den einprägsamen Filmbildern als aus dem Namen.",
       "Suchen Sie nach den Charakteren, dem Setting und der Genre-Situation, die die Fans damit assoziieren.",
       "Der beste Hinweis ist die Stimmung: eine erkennbare Mischung aus Einsätzen, visuellem Stil und wiederholten Anspielungen auf die Popkultur."
-    ]
+    ],
+    "tmdb_id": 18785,
+    "media_type": "movie"
   },
   {
-    "celebrity": "Anchorman",
+    "celebrity": "Anchorman - Die Legende von Ron Burgundy",
     "gender": "",
     "facts": [
       "Seine Hinweise ergeben sich eher aus dem Setting, dem zentralen Konflikt und den einprägsamen Filmbildern als aus dem Namen.",
       "Suchen Sie nach den Charakteren, dem Setting und der Genre-Situation, die die Fans damit assoziieren.",
       "Der beste Hinweis ist die Stimmung: eine erkennbare Mischung aus Einsätzen, visuellem Stil und wiederholten Anspielungen auf die Popkultur."
-    ]
+    ],
+    "tmdb_id": 8699,
+    "media_type": "movie"
   },
   {
     "celebrity": "Zoolander",
@@ -1212,7 +1480,9 @@
       "Seine Hinweise ergeben sich eher aus dem Setting, dem zentralen Konflikt und den einprägsamen Filmbildern als aus dem Namen.",
       "Suchen Sie nach den Charakteren, dem Setting und der Genre-Situation, die die Fans damit assoziieren.",
       "Der beste Hinweis ist die Stimmung: eine erkennbare Mischung aus Einsätzen, visuellem Stil und wiederholten Anspielungen auf die Popkultur."
-    ]
+    ],
+    "tmdb_id": 9398,
+    "media_type": "movie"
   },
   {
     "celebrity": "Borat",
@@ -1221,16 +1491,20 @@
       "Seine Hinweise ergeben sich eher aus dem Setting, dem zentralen Konflikt und den einprägsamen Filmbildern als aus dem Namen.",
       "Suchen Sie nach den Charakteren, dem Setting und der Genre-Situation, die die Fans damit assoziieren.",
       "Der beste Hinweis ist die Stimmung: eine erkennbare Mischung aus Einsätzen, visuellem Stil und wiederholten Anspielungen auf die Popkultur."
-    ]
+    ],
+    "tmdb_id": 496,
+    "media_type": "movie"
   },
   {
-    "celebrity": "The Super Mario Galaxy Movie",
+    "celebrity": "Der Super Mario Galaxy Film",
     "gender": "",
     "facts": [
       "Seine Hinweise ergeben sich eher aus dem Setting, dem zentralen Konflikt und den einprägsamen Filmbildern als aus dem Namen.",
       "Suchen Sie nach den Charakteren, dem Setting und der Genre-Situation, die die Fans damit assoziieren.",
       "Der beste Hinweis ist die Stimmung: eine erkennbare Mischung aus Einsätzen, visuellem Stil und wiederholten Anspielungen auf die Popkultur."
-    ]
+    ],
+    "tmdb_id": 1226863,
+    "media_type": "movie"
   },
   {
     "celebrity": "Apex",
@@ -1239,7 +1513,9 @@
       "Seine Hinweise ergeben sich eher aus dem Setting, dem zentralen Konflikt und den einprägsamen Filmbildern als aus dem Namen.",
       "Suchen Sie nach den Charakteren, dem Setting und der Genre-Situation, die die Fans damit assoziieren.",
       "Der beste Hinweis ist die Stimmung: eine erkennbare Mischung aus Einsätzen, visuellem Stil und wiederholten Anspielungen auf die Popkultur."
-    ]
+    ],
+    "tmdb_id": 1318447,
+    "media_type": "movie"
   },
   {
     "celebrity": "Send Help",
@@ -1248,16 +1524,20 @@
       "Seine Hinweise ergeben sich eher aus dem Setting, dem zentralen Konflikt und den einprägsamen Filmbildern als aus dem Namen.",
       "Suchen Sie nach den Charakteren, dem Setting und der Genre-Situation, die die Fans damit assoziieren.",
       "Der beste Hinweis ist die Stimmung: eine erkennbare Mischung aus Einsätzen, visuellem Stil und wiederholten Anspielungen auf die Popkultur."
-    ]
+    ],
+    "tmdb_id": 1198994,
+    "media_type": "movie"
   },
   {
-    "celebrity": "The Devil Wears Prada",
+    "celebrity": "Der Teufel trägt Prada",
     "gender": "",
     "facts": [
       "Seine Hinweise ergeben sich eher aus dem Setting, dem zentralen Konflikt und den einprägsamen Filmbildern als aus dem Namen.",
       "Suchen Sie nach den Charakteren, dem Setting und der Genre-Situation, die die Fans damit assoziieren.",
       "Der beste Hinweis ist die Stimmung: eine erkennbare Mischung aus Einsätzen, visuellem Stil und wiederholten Anspielungen auf die Popkultur."
-    ]
+    ],
+    "tmdb_id": 350,
+    "media_type": "movie"
   },
   {
     "celebrity": "Michael",
@@ -1266,34 +1546,42 @@
       "Seine Hinweise ergeben sich eher aus dem Setting, dem zentralen Konflikt und den einprägsamen Filmbildern als aus dem Namen.",
       "Suchen Sie nach den Charakteren, dem Setting und der Genre-Situation, die die Fans damit assoziieren.",
       "Der beste Hinweis ist die Stimmung: eine erkennbare Mischung aus Einsätzen, visuellem Stil und wiederholten Anspielungen auf die Popkultur."
-    ]
+    ],
+    "tmdb_id": 936075,
+    "media_type": "movie"
   },
   {
-    "celebrity": "Ready or Not 2 Here I Come",
+    "celebrity": "Ready or Not 2",
     "gender": "",
     "facts": [
       "Seine Hinweise ergeben sich eher aus dem Setting, dem zentralen Konflikt und den einprägsamen Filmbildern als aus dem Namen.",
       "Suchen Sie nach den Charakteren, dem Setting und der Genre-Situation, die die Fans damit assoziieren.",
       "Der beste Hinweis ist die Stimmung: eine erkennbare Mischung aus Einsätzen, visuellem Stil und wiederholten Anspielungen auf die Popkultur."
-    ]
+    ],
+    "tmdb_id": 1266127,
+    "media_type": "movie"
   },
   {
-    "celebrity": "Goat",
+    "celebrity": "G.O.A.T. - Bock auf grosse Sprünge",
     "gender": "",
     "facts": [
       "Seine Hinweise ergeben sich eher aus dem Setting, dem zentralen Konflikt und den einprägsamen Filmbildern als aus dem Namen.",
       "Suchen Sie nach den Charakteren, dem Setting und der Genre-Situation, die die Fans damit assoziieren.",
       "Der beste Hinweis ist die Stimmung: eine erkennbare Mischung aus Einsätzen, visuellem Stil und wiederholten Anspielungen auf die Popkultur."
-    ]
+    ],
+    "tmdb_id": 1297842,
+    "media_type": "movie"
   },
   {
-    "celebrity": "Project Hail Mary",
+    "celebrity": "Der Astronaut - Project Hail Mary",
     "gender": "",
     "facts": [
       "Seine Hinweise ergeben sich eher aus dem Setting, dem zentralen Konflikt und den einprägsamen Filmbildern als aus dem Namen.",
       "Suchen Sie nach den Charakteren, dem Setting und der Genre-Situation, die die Fans damit assoziieren.",
       "Der beste Hinweis ist die Stimmung: eine erkennbare Mischung aus Einsätzen, visuellem Stil und wiederholten Anspielungen auf die Popkultur."
-    ]
+    ],
+    "tmdb_id": 687163,
+    "media_type": "movie"
   },
   {
     "celebrity": "Predator Badlands",
@@ -1302,16 +1590,20 @@
       "Seine Hinweise ergeben sich eher aus dem Setting, dem zentralen Konflikt und den einprägsamen Filmbildern als aus dem Namen.",
       "Suchen Sie nach den Charakteren, dem Setting und der Genre-Situation, die die Fans damit assoziieren.",
       "Der beste Hinweis ist die Stimmung: eine erkennbare Mischung aus Einsätzen, visuellem Stil und wiederholten Anspielungen auf die Popkultur."
-    ]
+    ],
+    "tmdb_id": 1242898,
+    "media_type": "movie"
   },
   {
-    "celebrity": "The Housemaid",
+    "celebrity": "The Housemaid - Wenn sie wüsste",
     "gender": "",
     "facts": [
       "Seine Hinweise ergeben sich eher aus dem Setting, dem zentralen Konflikt und den einprägsamen Filmbildern als aus dem Namen.",
       "Suchen Sie nach den Charakteren, dem Setting und der Genre-Situation, die die Fans damit assoziieren.",
       "Der beste Hinweis ist die Stimmung: eine erkennbare Mischung aus Einsätzen, visuellem Stil und wiederholten Anspielungen auf die Popkultur."
-    ]
+    ],
+    "tmdb_id": 1368166,
+    "media_type": "movie"
   },
   {
     "celebrity": "Apocalypto",
@@ -1320,25 +1612,31 @@
       "Seine Hinweise ergeben sich eher aus dem Setting, dem zentralen Konflikt und den einprägsamen Filmbildern als aus dem Namen.",
       "Suchen Sie nach den Charakteren, dem Setting und der Genre-Situation, die die Fans damit assoziieren.",
       "Der beste Hinweis ist die Stimmung: eine erkennbare Mischung aus Einsätzen, visuellem Stil und wiederholten Anspielungen auf die Popkultur."
-    ]
+    ],
+    "tmdb_id": 1579,
+    "media_type": "movie"
   },
   {
-    "celebrity": "Mortal Kombat Ii",
+    "celebrity": "Mortal Kombat II",
     "gender": "",
     "facts": [
       "Seine Hinweise ergeben sich eher aus dem Setting, dem zentralen Konflikt und den einprägsamen Filmbildern als aus dem Namen.",
       "Suchen Sie nach den Charakteren, dem Setting und der Genre-Situation, die die Fans damit assoziieren.",
       "Der beste Hinweis ist die Stimmung: eine erkennbare Mischung aus Einsätzen, visuellem Stil und wiederholten Anspielungen auf die Popkultur."
-    ]
+    ],
+    "tmdb_id": 931285,
+    "media_type": "movie"
   },
   {
-    "celebrity": "Xxx",
+    "celebrity": "xXx - Triple X",
     "gender": "",
     "facts": [
       "Seine Hinweise ergeben sich eher aus dem Setting, dem zentralen Konflikt und den einprägsamen Filmbildern als aus dem Namen.",
       "Suchen Sie nach den Charakteren, dem Setting und der Genre-Situation, die die Fans damit assoziieren.",
       "Der beste Hinweis ist die Stimmung: eine erkennbare Mischung aus Einsätzen, visuellem Stil und wiederholten Anspielungen auf die Popkultur."
-    ]
+    ],
+    "tmdb_id": 7451,
+    "media_type": "movie"
   },
   {
     "celebrity": "Scream 7",
@@ -1347,16 +1645,20 @@
       "Seine Hinweise ergeben sich eher aus dem Setting, dem zentralen Konflikt und den einprägsamen Filmbildern als aus dem Namen.",
       "Suchen Sie nach den Charakteren, dem Setting und der Genre-Situation, die die Fans damit assoziieren.",
       "Der beste Hinweis ist die Stimmung: eine erkennbare Mischung aus Einsätzen, visuellem Stil und wiederholten Anspielungen auf die Popkultur."
-    ]
+    ],
+    "tmdb_id": 1159559,
+    "media_type": "movie"
   },
   {
-    "celebrity": "The Super Mario Bros Movie",
+    "celebrity": "Der Super Mario Bros. Film",
     "gender": "",
     "facts": [
       "Seine Hinweise ergeben sich eher aus dem Setting, dem zentralen Konflikt und den einprägsamen Filmbildern als aus dem Namen.",
       "Suchen Sie nach den Charakteren, dem Setting und der Genre-Situation, die die Fans damit assoziieren.",
       "Der beste Hinweis ist die Stimmung: eine erkennbare Mischung aus Einsätzen, visuellem Stil und wiederholten Anspielungen auf die Popkultur."
-    ]
+    ],
+    "tmdb_id": 502356,
+    "media_type": "movie"
   },
   {
     "celebrity": "War Machine",
@@ -1365,7 +1667,9 @@
       "Seine Hinweise ergeben sich eher aus dem Setting, dem zentralen Konflikt und den einprägsamen Filmbildern als aus dem Namen.",
       "Suchen Sie nach den Charakteren, dem Setting und der Genre-Situation, die die Fans damit assoziieren.",
       "Der beste Hinweis ist die Stimmung: eine erkennbare Mischung aus Einsätzen, visuellem Stil und wiederholten Anspielungen auf die Popkultur."
-    ]
+    ],
+    "tmdb_id": 1265609,
+    "media_type": "movie"
   },
   {
     "celebrity": "Protector",
@@ -1374,7 +1678,9 @@
       "Seine Hinweise ergeben sich eher aus dem Setting, dem zentralen Konflikt und den einprägsamen Filmbildern als aus dem Namen.",
       "Suchen Sie nach den Charakteren, dem Setting und der Genre-Situation, die die Fans damit assoziieren.",
       "Der beste Hinweis ist die Stimmung: eine erkennbare Mischung aus Einsätzen, visuellem Stil und wiederholten Anspielungen auf die Popkultur."
-    ]
+    ],
+    "tmdb_id": 1383731,
+    "media_type": "movie"
   },
   {
     "celebrity": "Anaconda",
@@ -1383,25 +1689,31 @@
       "Seine Hinweise ergeben sich eher aus dem Setting, dem zentralen Konflikt und den einprägsamen Filmbildern als aus dem Namen.",
       "Suchen Sie nach den Charakteren, dem Setting und der Genre-Situation, die die Fans damit assoziieren.",
       "Der beste Hinweis ist die Stimmung: eine erkennbare Mischung aus Einsätzen, visuellem Stil und wiederholten Anspielungen auf die Popkultur."
-    ]
+    ],
+    "tmdb_id": 1234731,
+    "media_type": "movie"
   },
   {
-    "celebrity": "Wuthering Heights",
+    "celebrity": "“Wuthering Heights” – Sturmhöhe",
     "gender": "",
     "facts": [
       "Seine Hinweise ergeben sich eher aus dem Setting, dem zentralen Konflikt und den einprägsamen Filmbildern als aus dem Namen.",
       "Suchen Sie nach den Charakteren, dem Setting und der Genre-Situation, die die Fans damit assoziieren.",
       "Der beste Hinweis ist die Stimmung: eine erkennbare Mischung aus Einsätzen, visuellem Stil und wiederholten Anspielungen auf die Popkultur."
-    ]
+    ],
+    "tmdb_id": 1316092,
+    "media_type": "movie"
   },
   {
-    "celebrity": "The Conjuring Last Rites",
+    "celebrity": "Conjuring 4: Das letzte Kapitel",
     "gender": "",
     "facts": [
       "Seine Hinweise ergeben sich eher aus dem Setting, dem zentralen Konflikt und den einprägsamen Filmbildern als aus dem Namen.",
       "Suchen Sie nach den Charakteren, dem Setting und der Genre-Situation, die die Fans damit assoziieren.",
       "Der beste Hinweis ist die Stimmung: eine erkennbare Mischung aus Einsätzen, visuellem Stil und wiederholten Anspielungen auf die Popkultur."
-    ]
+    ],
+    "tmdb_id": 1038392,
+    "media_type": "movie"
   },
   {
     "celebrity": "Thrash",
@@ -1410,16 +1722,20 @@
       "Seine Hinweise ergeben sich eher aus dem Setting, dem zentralen Konflikt und den einprägsamen Filmbildern als aus dem Namen.",
       "Suchen Sie nach den Charakteren, dem Setting und der Genre-Situation, die die Fans damit assoziieren.",
       "Der beste Hinweis ist die Stimmung: eine erkennbare Mischung aus Einsätzen, visuellem Stil und wiederholten Anspielungen auf die Popkultur."
-    ]
+    ],
+    "tmdb_id": 1290417,
+    "media_type": "movie"
   },
   {
-    "celebrity": "Kraken",
+    "celebrity": "Kraken - Erwachen der Tiefe",
     "gender": "",
     "facts": [
       "Seine Hinweise ergeben sich eher aus dem Setting, dem zentralen Konflikt und den einprägsamen Filmbildern als aus dem Namen.",
       "Suchen Sie nach den Charakteren, dem Setting und der Genre-Situation, die die Fans damit assoziieren.",
       "Der beste Hinweis ist die Stimmung: eine erkennbare Mischung aus Einsätzen, visuellem Stil und wiederholten Anspielungen auf die Popkultur."
-    ]
+    ],
+    "tmdb_id": 1110034,
+    "media_type": "movie"
   },
   {
     "celebrity": "The Strangers Chapter 3",
@@ -1428,43 +1744,53 @@
       "Seine Hinweise ergeben sich eher aus dem Setting, dem zentralen Konflikt und den einprägsamen Filmbildern als aus dem Namen.",
       "Suchen Sie nach den Charakteren, dem Setting und der Genre-Situation, die die Fans damit assoziieren.",
       "Der beste Hinweis ist die Stimmung: eine erkennbare Mischung aus Einsätzen, visuellem Stil und wiederholten Anspielungen auf die Popkultur."
-    ]
+    ],
+    "tmdb_id": 1010755,
+    "media_type": "movie"
   },
   {
-    "celebrity": "The Odyssey",
+    "celebrity": "Die Odyssee",
     "gender": "",
     "facts": [
       "Seine Hinweise ergeben sich eher aus dem Setting, dem zentralen Konflikt und den einprägsamen Filmbildern als aus dem Namen.",
       "Suchen Sie nach den Charakteren, dem Setting und der Genre-Situation, die die Fans damit assoziieren.",
       "Der beste Hinweis ist die Stimmung: eine erkennbare Mischung aus Einsätzen, visuellem Stil und wiederholten Anspielungen auf die Popkultur."
-    ]
+    ],
+    "tmdb_id": 1368337,
+    "media_type": "movie"
   },
   {
-    "celebrity": "F1",
+    "celebrity": "F1 - Der Film",
     "gender": "",
     "facts": [
       "Seine Hinweise ergeben sich eher aus dem Setting, dem zentralen Konflikt und den einprägsamen Filmbildern als aus dem Namen.",
       "Suchen Sie nach den Charakteren, dem Setting und der Genre-Situation, die die Fans damit assoziieren.",
       "Der beste Hinweis ist die Stimmung: eine erkennbare Mischung aus Einsätzen, visuellem Stil und wiederholten Anspielungen auf die Popkultur."
-    ]
+    ],
+    "tmdb_id": 911430,
+    "media_type": "movie"
   },
   {
-    "celebrity": "Influencers",
+    "celebrity": "Influencer 2",
     "gender": "",
     "facts": [
       "Seine Hinweise ergeben sich eher aus dem Setting, dem zentralen Konflikt und den einprägsamen Filmbildern als aus dem Namen.",
       "Suchen Sie nach den Charakteren, dem Setting und der Genre-Situation, die die Fans damit assoziieren.",
       "Der beste Hinweis ist die Stimmung: eine erkennbare Mischung aus Einsätzen, visuellem Stil und wiederholten Anspielungen auf die Popkultur."
-    ]
+    ],
+    "tmdb_id": 1476740,
+    "media_type": "movie"
   },
   {
-    "celebrity": "Now You See Me Now You Dont",
+    "celebrity": "Now You See Me 3: Die Unfassbaren 3",
     "gender": "",
     "facts": [
       "Seine Hinweise ergeben sich eher aus dem Setting, dem zentralen Konflikt und den einprägsamen Filmbildern als aus dem Namen.",
       "Suchen Sie nach den Charakteren, dem Setting und der Genre-Situation, die die Fans damit assoziieren.",
       "Der beste Hinweis ist die Stimmung: eine erkennbare Mischung aus Einsätzen, visuellem Stil und wiederholten Anspielungen auf die Popkultur."
-    ]
+    ],
+    "tmdb_id": 425274,
+    "media_type": "movie"
   },
   {
     "celebrity": "Mike Nick Nick Alice",
@@ -1473,7 +1799,9 @@
       "Seine Hinweise ergeben sich eher aus dem Setting, dem zentralen Konflikt und den einprägsamen Filmbildern als aus dem Namen.",
       "Suchen Sie nach den Charakteren, dem Setting und der Genre-Situation, die die Fans damit assoziieren.",
       "Der beste Hinweis ist die Stimmung: eine erkennbare Mischung aus Einsätzen, visuellem Stil und wiederholten Anspielungen auf die Popkultur."
-    ]
+    ],
+    "tmdb_id": 1115544,
+    "media_type": "movie"
   },
   {
     "celebrity": "Kpop Demon Hunters",
@@ -1482,7 +1810,9 @@
       "Seine Hinweise ergeben sich eher aus dem Setting, dem zentralen Konflikt und den einprägsamen Filmbildern als aus dem Namen.",
       "Suchen Sie nach den Charakteren, dem Setting und der Genre-Situation, die die Fans damit assoziieren.",
       "Der beste Hinweis ist die Stimmung: eine erkennbare Mischung aus Einsätzen, visuellem Stil und wiederholten Anspielungen auf die Popkultur."
-    ]
+    ],
+    "tmdb_id": 803796,
+    "media_type": "movie"
   },
   {
     "celebrity": "A Breed Apart",
@@ -1491,7 +1821,9 @@
       "Seine Hinweise ergeben sich eher aus dem Setting, dem zentralen Konflikt und den einprägsamen Filmbildern als aus dem Namen.",
       "Suchen Sie nach den Charakteren, dem Setting und der Genre-Situation, die die Fans damit assoziieren.",
       "Der beste Hinweis ist die Stimmung: eine erkennbare Mischung aus Einsätzen, visuellem Stil und wiederholten Anspielungen auf die Popkultur."
-    ]
+    ],
+    "tmdb_id": 1303055,
+    "media_type": "movie"
   },
   {
     "celebrity": "Worldbreaker",
@@ -1500,16 +1832,20 @@
       "Seine Hinweise ergeben sich eher aus dem Setting, dem zentralen Konflikt und den einprägsamen Filmbildern als aus dem Namen.",
       "Suchen Sie nach den Charakteren, dem Setting und der Genre-Situation, die die Fans damit assoziieren.",
       "Der beste Hinweis ist die Stimmung: eine erkennbare Mischung aus Einsätzen, visuellem Stil und wiederholten Anspielungen auf die Popkultur."
-    ]
+    ],
+    "tmdb_id": 1196067,
+    "media_type": "movie"
   },
   {
-    "celebrity": "Jurassic World Rebirth",
+    "celebrity": "Jurassic World: Die Wiedergeburt",
     "gender": "",
     "facts": [
       "Seine Hinweise ergeben sich eher aus dem Setting, dem zentralen Konflikt und den einprägsamen Filmbildern als aus dem Namen.",
       "Suchen Sie nach den Charakteren, dem Setting und der Genre-Situation, die die Fans damit assoziieren.",
       "Der beste Hinweis ist die Stimmung: eine erkennbare Mischung aus Einsätzen, visuellem Stil und wiederholten Anspielungen auf die Popkultur."
-    ]
+    ],
+    "tmdb_id": 1234821,
+    "media_type": "movie"
   },
   {
     "celebrity": "The Wrecking Crew",
@@ -1518,7 +1854,9 @@
       "Seine Hinweise ergeben sich eher aus dem Setting, dem zentralen Konflikt und den einprägsamen Filmbildern als aus dem Namen.",
       "Suchen Sie nach den Charakteren, dem Setting und der Genre-Situation, die die Fans damit assoziieren.",
       "Der beste Hinweis ist die Stimmung: eine erkennbare Mischung aus Einsätzen, visuellem Stil und wiederholten Anspielungen auf die Popkultur."
-    ]
+    ],
+    "tmdb_id": 1168190,
+    "media_type": "movie"
   },
   {
     "celebrity": "Mercy",
@@ -1527,16 +1865,20 @@
       "Seine Hinweise ergeben sich eher aus dem Setting, dem zentralen Konflikt und den einprägsamen Filmbildern als aus dem Namen.",
       "Suchen Sie nach den Charakteren, dem Setting und der Genre-Situation, die die Fans damit assoziieren.",
       "Der beste Hinweis ist die Stimmung: eine erkennbare Mischung aus Einsätzen, visuellem Stil und wiederholten Anspielungen auf die Popkultur."
-    ]
+    ],
+    "tmdb_id": 1236153,
+    "media_type": "movie"
   },
   {
-    "celebrity": "The Lord of the Rings the Return of the King",
+    "celebrity": "Der Herr der Ringe - Die Rückkehr des Königs",
     "gender": "",
     "facts": [
       "Seine Hinweise ergeben sich eher aus dem Setting, dem zentralen Konflikt und den einprägsamen Filmbildern als aus dem Namen.",
       "Suchen Sie nach den Charakteren, dem Setting und der Genre-Situation, die die Fans damit assoziieren.",
       "Der beste Hinweis ist die Stimmung: eine erkennbare Mischung aus Einsätzen, visuellem Stil und wiederholten Anspielungen auf die Popkultur."
-    ]
+    ],
+    "tmdb_id": 122,
+    "media_type": "movie"
   },
   {
     "celebrity": "The Rip",
@@ -1545,7 +1887,9 @@
       "Seine Hinweise ergeben sich eher aus dem Setting, dem zentralen Konflikt und den einprägsamen Filmbildern als aus dem Namen.",
       "Suchen Sie nach den Charakteren, dem Setting und der Genre-Situation, die die Fans damit assoziieren.",
       "Der beste Hinweis ist die Stimmung: eine erkennbare Mischung aus Einsätzen, visuellem Stil und wiederholten Anspielungen auf die Popkultur."
-    ]
+    ],
+    "tmdb_id": 1306368,
+    "media_type": "movie"
   },
   {
     "celebrity": "Ted 2",
@@ -1554,7 +1898,9 @@
       "Seine Hinweise ergeben sich eher aus dem Setting, dem zentralen Konflikt und den einprägsamen Filmbildern als aus dem Namen.",
       "Suchen Sie nach den Charakteren, dem Setting und der Genre-Situation, die die Fans damit assoziieren.",
       "Der beste Hinweis ist die Stimmung: eine erkennbare Mischung aus Einsätzen, visuellem Stil und wiederholten Anspielungen auf die Popkultur."
-    ]
+    ],
+    "tmdb_id": 214756,
+    "media_type": "movie"
   },
   {
     "celebrity": "Kung Fu Panda 4",
@@ -1563,7 +1909,9 @@
       "Seine Hinweise ergeben sich eher aus dem Setting, dem zentralen Konflikt und den einprägsamen Filmbildern als aus dem Namen.",
       "Suchen Sie nach den Charakteren, dem Setting und der Genre-Situation, die die Fans damit assoziieren.",
       "Der beste Hinweis ist die Stimmung: eine erkennbare Mischung aus Einsätzen, visuellem Stil und wiederholten Anspielungen auf die Popkultur."
-    ]
+    ],
+    "tmdb_id": 1011985,
+    "media_type": "movie"
   },
   {
     "celebrity": "The Running Man",
@@ -1572,7 +1920,9 @@
       "Seine Hinweise ergeben sich eher aus dem Setting, dem zentralen Konflikt und den einprägsamen Filmbildern als aus dem Namen.",
       "Suchen Sie nach den Charakteren, dem Setting und der Genre-Situation, die die Fans damit assoziieren.",
       "Der beste Hinweis ist die Stimmung: eine erkennbare Mischung aus Einsätzen, visuellem Stil und wiederholten Anspielungen auf die Popkultur."
-    ]
+    ],
+    "tmdb_id": 798645,
+    "media_type": "movie"
   },
   {
     "celebrity": "The Beekeeper",
@@ -1581,7 +1931,9 @@
       "Seine Hinweise ergeben sich eher aus dem Setting, dem zentralen Konflikt und den einprägsamen Filmbildern als aus dem Namen.",
       "Suchen Sie nach den Charakteren, dem Setting und der Genre-Situation, die die Fans damit assoziieren.",
       "Der beste Hinweis ist die Stimmung: eine erkennbare Mischung aus Einsätzen, visuellem Stil und wiederholten Anspielungen auf die Popkultur."
-    ]
+    ],
+    "tmdb_id": 866398,
+    "media_type": "movie"
   },
   {
     "celebrity": "Superman",
@@ -1590,25 +1942,31 @@
       "Seine Hinweise ergeben sich eher aus dem Setting, dem zentralen Konflikt und den einprägsamen Filmbildern als aus dem Namen.",
       "Suchen Sie nach den Charakteren, dem Setting und der Genre-Situation, die die Fans damit assoziieren.",
       "Der beste Hinweis ist die Stimmung: eine erkennbare Mischung aus Einsätzen, visuellem Stil und wiederholten Anspielungen auf die Popkultur."
-    ]
+    ],
+    "tmdb_id": 1061474,
+    "media_type": "movie"
   },
   {
-    "celebrity": "The Bride",
+    "celebrity": "The Bride! - Es lebe die Braut",
     "gender": "",
     "facts": [
       "Seine Hinweise ergeben sich eher aus dem Setting, dem zentralen Konflikt und den einprägsamen Filmbildern als aus dem Namen.",
       "Suchen Sie nach den Charakteren, dem Setting und der Genre-Situation, die die Fans damit assoziieren.",
       "Der beste Hinweis ist die Stimmung: eine erkennbare Mischung aus Einsätzen, visuellem Stil und wiederholten Anspielungen auf die Popkultur."
-    ]
+    ],
+    "tmdb_id": 1159831,
+    "media_type": "movie"
   },
   {
-    "celebrity": "The Lord of the Rings the Fellowship of the Ring",
+    "celebrity": "Der Herr der Ringe - Die Gefährten",
     "gender": "",
     "facts": [
       "Seine Hinweise ergeben sich eher aus dem Setting, dem zentralen Konflikt und den einprägsamen Filmbildern als aus dem Namen.",
       "Suchen Sie nach den Charakteren, dem Setting und der Genre-Situation, die die Fans damit assoziieren.",
       "Der beste Hinweis ist die Stimmung: eine erkennbare Mischung aus Einsätzen, visuellem Stil und wiederholten Anspielungen auf die Popkultur."
-    ]
+    ],
+    "tmdb_id": 120,
+    "media_type": "movie"
   },
   {
     "celebrity": "Mortal Kombat",
@@ -1617,34 +1975,42 @@
       "Seine Hinweise ergeben sich eher aus dem Setting, dem zentralen Konflikt und den einprägsamen Filmbildern als aus dem Namen.",
       "Suchen Sie nach den Charakteren, dem Setting und der Genre-Situation, die die Fans damit assoziieren.",
       "Der beste Hinweis ist die Stimmung: eine erkennbare Mischung aus Einsätzen, visuellem Stil und wiederholten Anspielungen auf die Popkultur."
-    ]
+    ],
+    "tmdb_id": 460465,
+    "media_type": "movie"
   },
   {
-    "celebrity": "Sisu Road to Revenge",
+    "celebrity": "Sisu: Road to Revenge",
     "gender": "",
     "facts": [
       "Seine Hinweise ergeben sich eher aus dem Setting, dem zentralen Konflikt und den einprägsamen Filmbildern als aus dem Namen.",
       "Suchen Sie nach den Charakteren, dem Setting und der Genre-Situation, die die Fans damit assoziieren.",
       "Der beste Hinweis ist die Stimmung: eine erkennbare Mischung aus Einsätzen, visuellem Stil und wiederholten Anspielungen auf die Popkultur."
-    ]
+    ],
+    "tmdb_id": 1223601,
+    "media_type": "movie"
   },
   {
-    "celebrity": "Peaky Blinders the Immortal Man",
+    "celebrity": "Peaky Blinders – The Immortal Man",
     "gender": "",
     "facts": [
       "Seine Hinweise ergeben sich eher aus dem Setting, dem zentralen Konflikt und den einprägsamen Filmbildern als aus dem Namen.",
       "Suchen Sie nach den Charakteren, dem Setting und der Genre-Situation, die die Fans damit assoziieren.",
       "Der beste Hinweis ist die Stimmung: eine erkennbare Mischung aus Einsätzen, visuellem Stil und wiederholten Anspielungen auf die Popkultur."
-    ]
+    ],
+    "tmdb_id": 875828,
+    "media_type": "movie"
   },
   {
-    "celebrity": "Schindlers List",
+    "celebrity": "Schindlers Liste",
     "gender": "",
     "facts": [
       "Seine Hinweise ergeben sich eher aus dem Setting, dem zentralen Konflikt und den einprägsamen Filmbildern als aus dem Namen.",
       "Suchen Sie nach den Charakteren, dem Setting und der Genre-Situation, die die Fans damit assoziieren.",
       "Der beste Hinweis ist die Stimmung: eine erkennbare Mischung aus Einsätzen, visuellem Stil und wiederholten Anspielungen auf die Popkultur."
-    ]
+    ],
+    "tmdb_id": 424,
+    "media_type": "movie"
   },
   {
     "celebrity": "The Amateur",
@@ -1653,7 +2019,9 @@
       "Seine Hinweise ergeben sich eher aus dem Setting, dem zentralen Konflikt und den einprägsamen Filmbildern als aus dem Namen.",
       "Suchen Sie nach den Charakteren, dem Setting und der Genre-Situation, die die Fans damit assoziieren.",
       "Der beste Hinweis ist die Stimmung: eine erkennbare Mischung aus Einsätzen, visuellem Stil und wiederholten Anspielungen auf die Popkultur."
-    ]
+    ],
+    "tmdb_id": 1087891,
+    "media_type": "movie"
   },
   {
     "celebrity": "Five Nights at Freddys 2",
@@ -1662,16 +2030,20 @@
       "Seine Hinweise ergeben sich eher aus dem Setting, dem zentralen Konflikt und den einprägsamen Filmbildern als aus dem Namen.",
       "Suchen Sie nach den Charakteren, dem Setting und der Genre-Situation, die die Fans damit assoziieren.",
       "Der beste Hinweis ist die Stimmung: eine erkennbare Mischung aus Einsätzen, visuellem Stil und wiederholten Anspielungen auf die Popkultur."
-    ]
+    ],
+    "tmdb_id": 1228246,
+    "media_type": "movie"
   },
   {
-    "celebrity": "Despicable Me 4",
+    "celebrity": "Ich - Einfach unverbesserlich 4",
     "gender": "",
     "facts": [
       "Seine Hinweise ergeben sich eher aus dem Setting, dem zentralen Konflikt und den einprägsamen Filmbildern als aus dem Namen.",
       "Suchen Sie nach den Charakteren, dem Setting und der Genre-Situation, die die Fans damit assoziieren.",
       "Der beste Hinweis ist die Stimmung: eine erkennbare Mischung aus Einsätzen, visuellem Stil und wiederholten Anspielungen auf die Popkultur."
-    ]
+    ],
+    "tmdb_id": 519182,
+    "media_type": "movie"
   },
   {
     "celebrity": "Good Luck Have Fun Dont Die",
@@ -1680,7 +2052,9 @@
       "Seine Hinweise ergeben sich eher aus dem Setting, dem zentralen Konflikt und den einprägsamen Filmbildern als aus dem Namen.",
       "Suchen Sie nach den Charakteren, dem Setting und der Genre-Situation, die die Fans damit assoziieren.",
       "Der beste Hinweis ist die Stimmung: eine erkennbare Mischung aus Einsätzen, visuellem Stil und wiederholten Anspielungen auf die Popkultur."
-    ]
+    ],
+    "tmdb_id": 1119449,
+    "media_type": "movie"
   },
   {
     "celebrity": "Outcome",
@@ -1689,25 +2063,31 @@
       "Seine Hinweise ergeben sich eher aus dem Setting, dem zentralen Konflikt und den einprägsamen Filmbildern als aus dem Namen.",
       "Suchen Sie nach den Charakteren, dem Setting und der Genre-Situation, die die Fans damit assoziieren.",
       "Der beste Hinweis ist die Stimmung: eine erkennbare Mischung aus Einsätzen, visuellem Stil und wiederholten Anspielungen auf die Popkultur."
-    ]
+    ],
+    "tmdb_id": 1049471,
+    "media_type": "movie"
   },
   {
-    "celebrity": "Ready or Not",
+    "celebrity": "Ready or Not - Auf die Plätze, fertig, tot",
     "gender": "",
     "facts": [
       "Seine Hinweise ergeben sich eher aus dem Setting, dem zentralen Konflikt und den einprägsamen Filmbildern als aus dem Namen.",
       "Suchen Sie nach den Charakteren, dem Setting und der Genre-Situation, die die Fans damit assoziieren.",
       "Der beste Hinweis ist die Stimmung: eine erkennbare Mischung aus Einsätzen, visuellem Stil und wiederholten Anspielungen auf die Popkultur."
-    ]
+    ],
+    "tmdb_id": 567609,
+    "media_type": "movie"
   },
   {
-    "celebrity": "Our Fault",
+    "celebrity": "Culpa Nuestra - Unsere Schuld",
     "gender": "",
     "facts": [
       "Seine Hinweise ergeben sich eher aus dem Setting, dem zentralen Konflikt und den einprägsamen Filmbildern als aus dem Namen.",
       "Suchen Sie nach den Charakteren, dem Setting und der Genre-Situation, die die Fans damit assoziieren.",
       "Der beste Hinweis ist die Stimmung: eine erkennbare Mischung aus Einsätzen, visuellem Stil und wiederholten Anspielungen auf die Popkultur."
-    ]
+    ],
+    "tmdb_id": 1156594,
+    "media_type": "movie"
   },
   {
     "celebrity": "Exit 8",
@@ -1716,7 +2096,9 @@
       "Seine Hinweise ergeben sich eher aus dem Setting, dem zentralen Konflikt und den einprägsamen Filmbildern als aus dem Namen.",
       "Suchen Sie nach den Charakteren, dem Setting und der Genre-Situation, die die Fans damit assoziieren.",
       "Der beste Hinweis ist die Stimmung: eine erkennbare Mischung aus Einsätzen, visuellem Stil und wiederholten Anspielungen auf die Popkultur."
-    ]
+    ],
+    "tmdb_id": 1408208,
+    "media_type": "movie"
   },
   {
     "celebrity": "The Wolf of Wall Street",
@@ -1725,25 +2107,31 @@
       "Seine Hinweise ergeben sich eher aus dem Setting, dem zentralen Konflikt und den einprägsamen Filmbildern als aus dem Namen.",
       "Suchen Sie nach den Charakteren, dem Setting und der Genre-Situation, die die Fans damit assoziieren.",
       "Der beste Hinweis ist die Stimmung: eine erkennbare Mischung aus Einsätzen, visuellem Stil und wiederholten Anspielungen auf die Popkultur."
-    ]
+    ],
+    "tmdb_id": 106646,
+    "media_type": "movie"
   },
   {
-    "celebrity": "Hunting Season",
+    "celebrity": "Hunting Season - Blutige Fährte",
     "gender": "",
     "facts": [
       "Seine Hinweise ergeben sich eher aus dem Setting, dem zentralen Konflikt und den einprägsamen Filmbildern als aus dem Namen.",
       "Suchen Sie nach den Charakteren, dem Setting und der Genre-Situation, die die Fans damit assoziieren.",
       "Der beste Hinweis ist die Stimmung: eine erkennbare Mischung aus Einsätzen, visuellem Stil und wiederholten Anspielungen auf die Popkultur."
-    ]
+    ],
+    "tmdb_id": 1387382,
+    "media_type": "movie"
   },
   {
-    "celebrity": "Mission Impossible the Final Reckoning",
+    "celebrity": "Mission: Impossible - The Final Reckoning",
     "gender": "",
     "facts": [
       "Seine Hinweise ergeben sich eher aus dem Setting, dem zentralen Konflikt und den einprägsamen Filmbildern als aus dem Namen.",
       "Suchen Sie nach den Charakteren, dem Setting und der Genre-Situation, die die Fans damit assoziieren.",
       "Der beste Hinweis ist die Stimmung: eine erkennbare Mischung aus Einsätzen, visuellem Stil und wiederholten Anspielungen auf die Popkultur."
-    ]
+    ],
+    "tmdb_id": 575265,
+    "media_type": "movie"
   },
   {
     "celebrity": "Wicked",
@@ -1752,16 +2140,20 @@
       "Seine Hinweise ergeben sich eher aus dem Setting, dem zentralen Konflikt und den einprägsamen Filmbildern als aus dem Namen.",
       "Suchen Sie nach den Charakteren, dem Setting und der Genre-Situation, die die Fans damit assoziieren.",
       "Der beste Hinweis ist die Stimmung: eine erkennbare Mischung aus Einsätzen, visuellem Stil und wiederholten Anspielungen auf die Popkultur."
-    ]
+    ],
+    "tmdb_id": 402431,
+    "media_type": "movie"
   },
   {
-    "celebrity": "A Minecraft Movie",
+    "celebrity": "Ein Minecraft Film",
     "gender": "",
     "facts": [
       "Seine Hinweise ergeben sich eher aus dem Setting, dem zentralen Konflikt und den einprägsamen Filmbildern als aus dem Namen.",
       "Suchen Sie nach den Charakteren, dem Setting und der Genre-Situation, die die Fans damit assoziieren.",
       "Der beste Hinweis ist die Stimmung: eine erkennbare Mischung aus Einsätzen, visuellem Stil und wiederholten Anspielungen auf die Popkultur."
-    ]
+    ],
+    "tmdb_id": 950387,
+    "media_type": "movie"
   },
   {
     "celebrity": "Dune Part Two",
@@ -1770,16 +2162,20 @@
       "Seine Hinweise ergeben sich eher aus dem Setting, dem zentralen Konflikt und den einprägsamen Filmbildern als aus dem Namen.",
       "Suchen Sie nach den Charakteren, dem Setting und der Genre-Situation, die die Fans damit assoziieren.",
       "Der beste Hinweis ist die Stimmung: eine erkennbare Mischung aus Einsätzen, visuellem Stil und wiederholten Anspielungen auf die Popkultur."
-    ]
+    ],
+    "tmdb_id": 693134,
+    "media_type": "movie"
   },
   {
-    "celebrity": "Spider Man Homecoming",
+    "celebrity": "Spider-Man: Homecoming",
     "gender": "",
     "facts": [
       "Seine Hinweise ergeben sich eher aus dem Setting, dem zentralen Konflikt und den einprägsamen Filmbildern als aus dem Namen.",
       "Suchen Sie nach den Charakteren, dem Setting und der Genre-Situation, die die Fans damit assoziieren.",
       "Der beste Hinweis ist die Stimmung: eine erkennbare Mischung aus Einsätzen, visuellem Stil und wiederholten Anspielungen auf die Popkultur."
-    ]
+    ],
+    "tmdb_id": 315635,
+    "media_type": "movie"
   },
   {
     "celebrity": "Avatar the Way of Water",
@@ -1788,15 +2184,19 @@
       "Seine Hinweise ergeben sich eher aus dem Setting, dem zentralen Konflikt und den einprägsamen Filmbildern als aus dem Namen.",
       "Suchen Sie nach den Charakteren, dem Setting und der Genre-Situation, die die Fans damit assoziieren.",
       "Der beste Hinweis ist die Stimmung: eine erkennbare Mischung aus Einsätzen, visuellem Stil und wiederholten Anspielungen auf die Popkultur."
-    ]
+    ],
+    "tmdb_id": 76600,
+    "media_type": "movie"
   },
   {
-    "celebrity": "The Wild Robot",
+    "celebrity": "Der wilde Roboter",
     "gender": "",
     "facts": [
       "Seine Hinweise ergeben sich eher aus dem Setting, dem zentralen Konflikt und den einprägsamen Filmbildern als aus dem Namen.",
       "Suchen Sie nach den Charakteren, dem Setting und der Genre-Situation, die die Fans damit assoziieren.",
       "Der beste Hinweis ist die Stimmung: eine erkennbare Mischung aus Einsätzen, visuellem Stil und wiederholten Anspielungen auf die Popkultur."
-    ]
+    ],
+    "tmdb_id": 1184918,
+    "media_type": "movie"
   }
 ]

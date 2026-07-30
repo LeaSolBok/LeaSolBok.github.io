@@ -6,7 +6,23 @@
       "Two park workers turn ordinary laziness into surreal disasters with cosmic stakes.",
       "A blue jay, a raccoon, arcade games, and an angry gumball-machine boss are major clues.",
       "Its humor starts with slackers avoiding work and ends with reality-breaking chaos."
-    ]
+    ],
+    "tmdb_id": 31132,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Regular Show",
+      "ar": "العرض العاديّ",
+      "de": "Regular Show – Völlig abgedreht",
+      "el": "Regular Show",
+      "es": "Un show más",
+      "fr": "Regular Show",
+      "he": "רגולר שואו",
+      "hi": "Regular Show",
+      "ja": "レギュラーSHOW～コリない2人～",
+      "ko": "레귤러 쇼",
+      "ru": "Обычное Шоу",
+      "zh": "日常工作"
+    }
   },
   {
     "celebrity": "Adventure Time",
@@ -15,7 +31,23 @@
       "A boy hero and a stretchy yellow dog roam a candy-colored post-apocalyptic fantasy land.",
       "Princesses, ice magic, sentient candy, and emotional lore hide under silly quests.",
       "The world looks playful but slowly reveals ancient tragedy and strange kingdoms."
-    ]
+    ],
+    "tmdb_id": 15260,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Adventure Time",
+      "ar": "وقت المغامرة",
+      "de": "Adventure Time - Abenteuerzeit mit Finn und Jake",
+      "el": "Adventure Time",
+      "es": "Hora de Aventura",
+      "fr": "Adventure Time",
+      "he": "הרפתקאות פין וג'ייק",
+      "hi": "Adventure Time",
+      "ja": "アドベンチャー・タイム",
+      "ko": "핀과 제이크의 어드벤처 타임",
+      "ru": "Время приключений",
+      "zh": "探險時光"
+    }
   },
   {
     "celebrity": "Futurama",
@@ -24,7 +56,23 @@
       "A delivery worker wakes up in the far future and joins an interplanetary shipping crew.",
       "A one-eyed captain, a rude robot, and a mad professor are major clues.",
       "Its jokes mix workplace comedy with aliens, time travel, and science-fiction absurdity."
-    ]
+    ],
+    "tmdb_id": 615,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Futurama",
+      "ar": "فيوتشراما",
+      "de": "Futurama",
+      "el": "Futurama",
+      "es": "Futurama",
+      "fr": "Futurama",
+      "he": "פיוצ'רמה",
+      "hi": "Futurama",
+      "ja": "フューチュラマ",
+      "ko": "퓨쳐라마",
+      "ru": "Футурама",
+      "zh": "飛出個未來"
+    }
   },
   {
     "celebrity": "Gravity Falls",
@@ -33,7 +81,23 @@
       "Twins spend the summer in a mystery-filled town run by their odd great-uncle.",
       "A journal, hidden symbols, and a triangular dream demon are major clues.",
       "The story turns tourist-trap weirdness into a puzzle-box supernatural adventure."
-    ]
+    ],
+    "tmdb_id": 40075,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Gravity Falls",
+      "ar": "غرافيتي فولز",
+      "de": "Willkommen in Gravity Falls",
+      "el": "Ο Μυστικός Κόσμος του Gravity Falls",
+      "es": "Gravity Falls",
+      "fr": "Souvenirs de Gravity Falls",
+      "he": "גרוויטי פולס",
+      "hi": "Gravity Falls",
+      "ja": "怪奇ゾーン グラビティフォールズ",
+      "ko": "괴짜가족 괴담일기",
+      "ru": "Гравити Фолз",
+      "zh": "神祕小鎮大冒險"
+    }
   },
   {
     "celebrity": "King of the Hill",
@@ -42,7 +106,23 @@
       "Its clues draw from the character shapes, comic rhythm, setting, and repeatable visual jokes.",
       "Think about the cartoon setup it builds: odd jobs, magical kingdoms, domestic chaos, or neighborhood escapades.",
       "The hint is in the recurring ingredients fans imitate: voices, catchphrases, sidekicks, villains, and impossible gags."
-    ]
+    ],
+    "tmdb_id": 2122,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "King of the Hill",
+      "ar": "King of the Hill",
+      "de": "King of the Hill",
+      "el": "King of the Hill",
+      "es": "Los Reyes de la Colina",
+      "fr": "Henri pis sa gang",
+      "he": "המלך היל",
+      "hi": "King of the Hill",
+      "ja": "キング・オブ・ザ・ヒル",
+      "ko": "킹 오브 더 힐",
+      "ru": "Царь горы",
+      "zh": "一家之主"
+    }
   },
   {
     "celebrity": "Dexters Laboratory",
@@ -51,7 +131,23 @@
       "A boy genius hides a massive secret lab behind his bedroom.",
       "His cheerful sister constantly breaks experiments despite being told to stay out.",
       "Robots, accents, rival inventors, and button-covered machines are major clues."
-    ]
+    ],
+    "tmdb_id": 4229,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Dexters Laboratory",
+      "ar": "مختبر دكستر",
+      "de": "Dexters Labor",
+      "el": "Το Eργαστήριο του Ντέξτερ",
+      "es": "El laboratorio de Dexter",
+      "fr": "Le Laboratoire de Dexter",
+      "he": "המעבדה של דקסטר",
+      "hi": "Dexters Laboratory",
+      "ja": "デクスターズ ラボ",
+      "ko": "Dexters Laboratory",
+      "ru": "Лаборатория Декстера",
+      "zh": "德克斯特的實驗室"
+    }
   },
   {
     "celebrity": "The Powerpuff Girls",
@@ -60,7 +156,23 @@
       "Three kindergarten superheroes protect a colorful city from monsters and villains.",
       "Sugar, spice, and a mysterious chemical accident explain their creation.",
       "A monkey mastermind, a talking mayor, and giant-eyed action are major clues."
-    ]
+    ],
+    "tmdb_id": 607,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "The Powerpuff Girls",
+      "ar": "الفتيات الخارقات",
+      "de": "Powerpuff Girls",
+      "el": "Πανίσχυρα Κορίτσια",
+      "es": "Las chicas superpoderosas",
+      "fr": "Les Super Nanas",
+      "he": "בנות הפאוור פאף",
+      "hi": "The Powerpuff Girls",
+      "ja": "パワーパフガールズ",
+      "ko": "파워 퍼프 걸",
+      "ru": "Суперкрошки (Крутые Девчонки)",
+      "zh": "飛天小女警"
+    }
   },
   {
     "celebrity": "Steven Universe",
@@ -69,7 +181,23 @@
       "Its clues draw from the character shapes, comic rhythm, setting, and repeatable visual jokes.",
       "Think about the cartoon setup it builds: odd jobs, magical kingdoms, domestic chaos, or neighborhood escapades.",
       "The hint is in the recurring ingredients fans imitate: voices, catchphrases, sidekicks, villains, and impossible gags."
-    ]
+    ],
+    "tmdb_id": 61175,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Steven Universe",
+      "ar": "ستيفن البطل",
+      "de": "Steven Universe",
+      "el": "Steven Universe",
+      "es": "Steven Universe",
+      "fr": "Steven Universe",
+      "he": "סטיבן יוניברס",
+      "hi": "Steven Universe",
+      "ja": "スティーブン・ユニバース",
+      "ko": "스티븐 유니버스",
+      "ru": "Вселенная Стивена",
+      "zh": "Steven Universe"
+    }
   },
   {
     "celebrity": "Jackie Chan Adventures",
@@ -78,7 +206,23 @@
       "Its clues draw from the character shapes, comic rhythm, setting, and repeatable visual jokes.",
       "Think about the cartoon setup it builds: odd jobs, magical kingdoms, domestic chaos, or neighborhood escapades.",
       "The hint is in the recurring ingredients fans imitate: voices, catchphrases, sidekicks, villains, and impossible gags."
-    ]
+    ],
+    "tmdb_id": 240,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Jackie Chan Adventures",
+      "ar": "مغامرات جاكي تشان",
+      "de": "Jackie Chan Adventures",
+      "el": "Οι περιπέτειες του Τζάκι Τσαν",
+      "es": "Las aventuras de Jackie Chan",
+      "fr": "Jackie Chan Adventures",
+      "he": "ג'קי צ'אן",
+      "hi": "Jackie Chan Adventures",
+      "ja": "ジャッキー・チェン・アドベンチャー",
+      "ko": "Jackie Chan Adventures",
+      "ru": "Приключения Джеки Чана",
+      "zh": "成龍小子"
+    }
   },
   {
     "celebrity": "Ben 10 4686",
@@ -87,7 +231,23 @@
       "A kid finds a wrist device that lets him transform into different alien heroes.",
       "Summer road trips with a cousin and grandfather frame many early adventures.",
       "The main clue is a watch-like gadget with a rotating roster of forms."
-    ]
+    ],
+    "tmdb_id": 4686,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Ben 10 4686",
+      "ar": "بن 10",
+      "de": "Ben 10 4686",
+      "el": "Ben 10 4686",
+      "es": "Ben 10",
+      "fr": "Ben 10 4686",
+      "he": "בן 10",
+      "hi": "Ben 10 4686",
+      "ja": "ベン10",
+      "ko": "벤 10",
+      "ru": "Бен 10",
+      "zh": "少年駭客"
+    }
   },
   {
     "celebrity": "Hey Arnold",
@@ -96,7 +256,23 @@
       "Its clues draw from the character shapes, comic rhythm, setting, and repeatable visual jokes.",
       "Think about the cartoon setup it builds: odd jobs, magical kingdoms, domestic chaos, or neighborhood escapades.",
       "The hint is in the recurring ingredients fans imitate: voices, catchphrases, sidekicks, villains, and impossible gags."
-    ]
+    ],
+    "tmdb_id": 537,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Hey Arnold",
+      "ar": "مرحباً أرنولد!",
+      "de": "Hey Arnold",
+      "el": "Άρνολντ!",
+      "es": "¡Oye, Arnold!",
+      "fr": "Hé Arnold !",
+      "he": "היי ארנולד!",
+      "hi": "Hey Arnold",
+      "ja": "ヘイ・アーノルド!",
+      "ko": "Hey Arnold",
+      "ru": "Эй, Арнольд!",
+      "zh": "大頭仔天空英文版"
+    }
   },
   {
     "celebrity": "Kim Possible",
@@ -105,7 +281,23 @@
       "Its clues draw from the character shapes, comic rhythm, setting, and repeatable visual jokes.",
       "Think about the cartoon setup it builds: odd jobs, magical kingdoms, domestic chaos, or neighborhood escapades.",
       "The hint is in the recurring ingredients fans imitate: voices, catchphrases, sidekicks, villains, and impossible gags."
-    ]
+    ],
+    "tmdb_id": 2345,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Kim Possible",
+      "ar": "دامو ستحيل",
+      "de": "Kim Possible",
+      "el": "Η Απίθανη Κιμ",
+      "es": "Kim Possible",
+      "fr": "Kim Possible",
+      "he": "קים פוסיבול",
+      "hi": "Kim Possible",
+      "ja": "キム・ポッシブル",
+      "ko": "킴 파서블",
+      "ru": "Ким Пять-с-плюсом",
+      "zh": "麻辣女孩"
+    }
   },
   {
     "celebrity": "The Adventures of Jimmy Neutron Boy Genius",
@@ -114,7 +306,23 @@
       "Its clues draw from the character shapes, comic rhythm, setting, and repeatable visual jokes.",
       "Think about the cartoon setup it builds: odd jobs, magical kingdoms, domestic chaos, or neighborhood escapades.",
       "The hint is in the recurring ingredients fans imitate: voices, catchphrases, sidekicks, villains, and impossible gags."
-    ]
+    ],
+    "tmdb_id": 2129,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "The Adventures of Jimmy Neutron Boy Genius",
+      "ar": "مغامرات جيمي نيوترون: العبقري الصغير",
+      "de": "Jimmy Neutron",
+      "el": "Οι Περιπέτειες του Jimmy Neutron",
+      "es": "Las Aventuras de Jimmy Neutron: El Niño Genio",
+      "fr": "Jimmy Neutron",
+      "he": "ג'ימי ניוטרון",
+      "hi": "The Adventures of Jimmy Neutron Boy Genius",
+      "ja": "ジミー・ニュートロン 僕は天才発明家！",
+      "ko": "천재 소년 지미 뉴트론",
+      "ru": "Приключения Джимми Нейтрона, мальчика-гения",
+      "zh": "天才小子吉米"
+    }
   },
   {
     "celebrity": "The Smurfs",
@@ -123,7 +331,23 @@
       "Its clues draw from the character shapes, comic rhythm, setting, and repeatable visual jokes.",
       "Think about the cartoon setup it builds: odd jobs, magical kingdoms, domestic chaos, or neighborhood escapades.",
       "The hint is in the recurring ingredients fans imitate: voices, catchphrases, sidekicks, villains, and impossible gags."
-    ]
+    ],
+    "tmdb_id": 5687,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "The Smurfs",
+      "ar": "السنافر",
+      "de": "Die Schlümpfe",
+      "el": "Τα Στρουμφάκια",
+      "es": "Los Pitufos",
+      "fr": "Les Schtroumpfs",
+      "he": "הדרדסים",
+      "hi": "द स्मर्फ़्स",
+      "ja": "スマーフ",
+      "ko": "개구쟁이 스머프",
+      "ru": "Смурфики",
+      "zh": "蓝精灵"
+    }
   },
   {
     "celebrity": "Johnny Bravo",
@@ -132,7 +356,23 @@
       "Its clues draw from the character shapes, comic rhythm, setting, and repeatable visual jokes.",
       "Think about the cartoon setup it builds: odd jobs, magical kingdoms, domestic chaos, or neighborhood escapades.",
       "The hint is in the recurring ingredients fans imitate: voices, catchphrases, sidekicks, villains, and impossible gags."
-    ]
+    ],
+    "tmdb_id": 2405,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Johnny Bravo",
+      "ar": "جوني برافو",
+      "de": "Johnny Bravo",
+      "el": "Johnny Bravo",
+      "es": "Johnny Bravo",
+      "fr": "Johnny Bravo",
+      "he": "ג'וני בראבו",
+      "hi": "Johnny Bravo",
+      "ja": "ジョニー・ブラボー",
+      "ko": "Johnny Bravo",
+      "ru": "Джонни Браво",
+      "zh": "Johnny Bravo"
+    }
   },
   {
     "celebrity": "The Loud House",
@@ -141,7 +381,23 @@
       "Its clues draw from the character shapes, comic rhythm, setting, and repeatable visual jokes.",
       "Think about the cartoon setup it builds: odd jobs, magical kingdoms, domestic chaos, or neighborhood escapades.",
       "The hint is in the recurring ingredients fans imitate: voices, catchphrases, sidekicks, villains, and impossible gags."
-    ]
+    ],
+    "tmdb_id": 68073,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "The Loud House",
+      "ar": "منزل لاود",
+      "de": "Willkommen bei den Louds",
+      "el": "The Loud House",
+      "es": "The Loud House",
+      "fr": "Bienvenue chez les Loud",
+      "he": "הרעשנים",
+      "hi": "The Loud House",
+      "ja": "ラウド・ハウス",
+      "ko": "링컨의 집에서 살아남기",
+      "ru": "Мой шумный дом",
+      "zh": "勞德之家"
+    }
   },
   {
     "celebrity": "Sofia the First",
@@ -150,7 +406,23 @@
       "Its clues draw from the character shapes, comic rhythm, setting, and repeatable visual jokes.",
       "Think about the cartoon setup it builds: odd jobs, magical kingdoms, domestic chaos, or neighborhood escapades.",
       "The hint is in the recurring ingredients fans imitate: voices, catchphrases, sidekicks, villains, and impossible gags."
-    ]
+    ],
+    "tmdb_id": 46928,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Sofia the First",
+      "ar": "صوفيا الأميرة",
+      "de": "Sofia die Erste",
+      "el": "Σοφία, η Πριγκίπισσα",
+      "es": "Princesita Sofía",
+      "fr": "Princesse Sofia",
+      "he": "הנסיכה סופיה הראשונה",
+      "hi": "Sofia the First",
+      "ja": "ちいさなプリンセス　ソフィア",
+      "ko": "리틀 프린세스 소피아",
+      "ru": "София Прекрасная",
+      "zh": "小公主蘇菲亞"
+    }
   },
   {
     "celebrity": "The Penguins of Madagascar",
@@ -159,7 +431,23 @@
       "Its clues draw from the character shapes, comic rhythm, setting, and repeatable visual jokes.",
       "Think about the cartoon setup it builds: odd jobs, magical kingdoms, domestic chaos, or neighborhood escapades.",
       "The hint is in the recurring ingredients fans imitate: voices, catchphrases, sidekicks, villains, and impossible gags."
-    ]
+    ],
+    "tmdb_id": 7869,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "The Penguins of Madagascar",
+      "ar": "بطاريق مدغشقر",
+      "de": "Die Pinguine aus Madagascar",
+      "el": "Οι Πιγκουίνοι της Μαδαγασκάρης",
+      "es": "Los Pingüinos de Madagascar",
+      "fr": "Les pingouins de Madagascar",
+      "he": "הפינגווינים ממדגסקר",
+      "hi": "The Penguins of Madagascar",
+      "ja": "ザ・ペンギンズ from マダガスカル",
+      "ko": "마다가스카의 펭귄",
+      "ru": "Пингвины из Мадагаскара",
+      "zh": "馬達加斯加的企鵝"
+    }
   },
   {
     "celebrity": "Garfield and Friends",
@@ -168,7 +456,23 @@
       "Its clues draw from the character shapes, comic rhythm, setting, and repeatable visual jokes.",
       "Think about the cartoon setup it builds: odd jobs, magical kingdoms, domestic chaos, or neighborhood escapades.",
       "The hint is in the recurring ingredients fans imitate: voices, catchphrases, sidekicks, villains, and impossible gags."
-    ]
+    ],
+    "tmdb_id": 4606,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Garfield and Friends",
+      "ar": "غارفيلد والأصدقاء",
+      "de": "Garfield und seine Freunde",
+      "el": "Garfield and Friends",
+      "es": "Garfield y sus Amigos",
+      "fr": "Garfield et ses amis",
+      "he": "גארפילד וחברים",
+      "hi": "Garfield and Friends",
+      "ja": "Garfield and Friends",
+      "ko": "Garfield and Friends",
+      "ru": "Гарфилд и его друзья",
+      "zh": "加菲貓和他的朋友們"
+    }
   },
   {
     "celebrity": "Cow and Chicken",
@@ -177,7 +481,23 @@
       "Its clues draw from the character shapes, comic rhythm, setting, and repeatable visual jokes.",
       "Think about the cartoon setup it builds: odd jobs, magical kingdoms, domestic chaos, or neighborhood escapades.",
       "The hint is in the recurring ingredients fans imitate: voices, catchphrases, sidekicks, villains, and impossible gags."
-    ]
+    ],
+    "tmdb_id": 3611,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Cow and Chicken",
+      "ar": "Cow and Chicken",
+      "de": "Cow and Chicken - Muh-Kuh und Chickie",
+      "el": "Cow and Chicken",
+      "es": "La Vaca y el Pollito",
+      "fr": "Cleo et Chico",
+      "he": "פרה ותרנגול",
+      "hi": "Cow and Chicken",
+      "ja": "カウ&チキン",
+      "ko": "Cow and Chicken",
+      "ru": "Коровка и Петушок",
+      "zh": "雞與牛"
+    }
   },
   {
     "celebrity": "Ben 10 Alien Force",
@@ -186,7 +506,23 @@
       "Its clues draw from the character shapes, comic rhythm, setting, and repeatable visual jokes.",
       "Think about the cartoon setup it builds: odd jobs, magical kingdoms, domestic chaos, or neighborhood escapades.",
       "The hint is in the recurring ingredients fans imitate: voices, catchphrases, sidekicks, villains, and impossible gags."
-    ]
+    ],
+    "tmdb_id": 6040,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Ben 10 Alien Force",
+      "ar": "بن 10: إليين فورس",
+      "de": "Ben 10 Alien Force",
+      "el": "Ben 10 Alien Force",
+      "es": "Ben 10: Alien Force",
+      "fr": "Ben 10: Alien Force",
+      "he": "בן 10: כוח החייזרים",
+      "hi": "Ben 10 Alien Force",
+      "ja": "ベン10：エイリアン・フォース",
+      "ko": "벤 10 : 에일리언 포스",
+      "ru": "Бен 10: Инопланетная сила",
+      "zh": "Ben 10：外星英雄"
+    }
   },
   {
     "celebrity": "Adventure Time Distant Lands",
@@ -195,7 +531,23 @@
       "Its clues draw from the character shapes, comic rhythm, setting, and repeatable visual jokes.",
       "Think about the cartoon setup it builds: odd jobs, magical kingdoms, domestic chaos, or neighborhood escapades.",
       "The hint is in the recurring ingredients fans imitate: voices, catchphrases, sidekicks, villains, and impossible gags."
-    ]
+    ],
+    "tmdb_id": 94810,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Adventure Time Distant Lands",
+      "ar": "وقت المغامرة: الأرض البعيدة",
+      "de": "Adventure Time: Ferne Länder",
+      "el": "Adventure Time Distant Lands",
+      "es": "Hora De Aventura: Tierras Lejanas",
+      "fr": "Adventure Time : Le Pays magique",
+      "he": "הרפתקאות פין וג'ייק: ארצות מרוחקות",
+      "hi": "Adventure Time Distant Lands",
+      "ja": "アドベンチャー・タイム：遥か遠い世界で",
+      "ko": "어드벤처 타임: 디스턴트 랜드",
+      "ru": "Время приключений: Далёкие земли",
+      "zh": "探險活寶：遙遠的秘境"
+    }
   },
   {
     "celebrity": "Popeye the Sailor",
@@ -204,7 +556,23 @@
       "Its clues draw from the character shapes, comic rhythm, setting, and repeatable visual jokes.",
       "Think about the cartoon setup it builds: odd jobs, magical kingdoms, domestic chaos, or neighborhood escapades.",
       "The hint is in the recurring ingredients fans imitate: voices, catchphrases, sidekicks, villains, and impossible gags."
-    ]
+    ],
+    "tmdb_id": 8392,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Popeye the Sailor",
+      "ar": "باباي رجل البحار",
+      "de": "Popeye, der Seeman",
+      "el": "Ποπάυ το Ναυτάκι",
+      "es": "Popeye el marino",
+      "fr": "Popeye le marin",
+      "he": "פופאי המלח",
+      "hi": "पालक पहलवान पोपाई",
+      "ja": "Popeye the Sailor",
+      "ko": "뽀빠이",
+      "ru": "Морячок Папай (1960)",
+      "zh": "大力水手"
+    }
   },
   {
     "celebrity": "Clarence",
@@ -213,7 +581,23 @@
       "Its clues draw from the character shapes, comic rhythm, setting, and repeatable visual jokes.",
       "Think about the cartoon setup it builds: odd jobs, magical kingdoms, domestic chaos, or neighborhood escapades.",
       "The hint is in the recurring ingredients fans imitate: voices, catchphrases, sidekicks, villains, and impossible gags."
-    ]
+    ],
+    "tmdb_id": 50035,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Clarence",
+      "ar": "كلارنس",
+      "de": "Clarence",
+      "el": "Clarence",
+      "es": "Clarence",
+      "fr": "Clarence",
+      "he": "קלארנס",
+      "hi": "Clarence",
+      "ja": "ぼくはクラレンス!",
+      "ko": "클라렌스는 엉뚱해!",
+      "ru": "Кларенс",
+      "zh": "我爱阿噗"
+    }
   },
   {
     "celebrity": "Ben 10 Ultimate Alien",
@@ -222,7 +606,23 @@
       "Its clues draw from the character shapes, comic rhythm, setting, and repeatable visual jokes.",
       "Think about the cartoon setup it builds: odd jobs, magical kingdoms, domestic chaos, or neighborhood escapades.",
       "The hint is in the recurring ingredients fans imitate: voices, catchphrases, sidekicks, villains, and impossible gags."
-    ]
+    ],
+    "tmdb_id": 31109,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Ben 10 Ultimate Alien",
+      "ar": "بن 10: ألتيمت إليين",
+      "de": "Ben 10 Ultimate Alien",
+      "el": "Ben 10 Ultimate Alien",
+      "es": "Ben 10: Supremacía Alienígena",
+      "fr": "Ben 10: Ultimate Alien",
+      "he": "בן 10: החייזרים החדשים",
+      "hi": "Ben 10 Ultimate Alien",
+      "ja": "ベン10：アルティメット・エイリアン",
+      "ko": "벤10 얼티메이트 에일리언",
+      "ru": "Бен 10: Инопланетная сверхсила",
+      "zh": "Ben 10：終極英雄"
+    }
   },
   {
     "celebrity": "Thundercats",
@@ -231,7 +631,23 @@
       "Its clues draw from the character shapes, comic rhythm, setting, and repeatable visual jokes.",
       "Think about the cartoon setup it builds: odd jobs, magical kingdoms, domestic chaos, or neighborhood escapades.",
       "The hint is in the recurring ingredients fans imitate: voices, catchphrases, sidekicks, villains, and impossible gags."
-    ]
+    ],
+    "tmdb_id": 1988,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Thundercats",
+      "ar": "ثندركاتس",
+      "de": "Thundercats",
+      "el": "Θάντερκατς",
+      "es": "ThunderCats",
+      "fr": "Cosmocats",
+      "he": "חתולי הרעם",
+      "hi": "Thundercats",
+      "ja": "サンダーキャッツ",
+      "ko": "썬더캣츠",
+      "ru": "Громовые коты",
+      "zh": "霹雳猫"
+    }
   },
   {
     "celebrity": "Ed Edd N Eddy",
@@ -240,7 +656,23 @@
       "Its clues draw from the character shapes, comic rhythm, setting, and repeatable visual jokes.",
       "Think about the cartoon setup it builds: odd jobs, magical kingdoms, domestic chaos, or neighborhood escapades.",
       "The hint is in the recurring ingredients fans imitate: voices, catchphrases, sidekicks, villains, and impossible gags."
-    ]
+    ],
+    "tmdb_id": 606,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Ed Edd N Eddy",
+      "ar": "إد، إدد وإدي",
+      "de": "Ed, Edd & Eddy",
+      "el": "Έντ, Έντ, και Έντι",
+      "es": "Ed, Edd y Eddy",
+      "fr": "Ed, Edd et Eddy",
+      "he": "אד, אדד ואדי",
+      "hi": "Ed Edd N Eddy",
+      "ja": "エド エッド エディ",
+      "ko": "Ed Edd N Eddy",
+      "ru": "Эд, Эдд и Эдди",
+      "zh": "搗蛋三傻"
+    }
   },
   {
     "celebrity": "Timon and Pumbaa",
@@ -249,7 +681,23 @@
       "Its clues draw from the character shapes, comic rhythm, setting, and repeatable visual jokes.",
       "Think about the cartoon setup it builds: odd jobs, magical kingdoms, domestic chaos, or neighborhood escapades.",
       "The hint is in the recurring ingredients fans imitate: voices, catchphrases, sidekicks, villains, and impossible gags."
-    ]
+    ],
+    "tmdb_id": 4429,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Timon and Pumbaa",
+      "ar": "تيمون وبومبا",
+      "de": "Abenteuer mit Timon und Pumbaa",
+      "el": "Τιμόν και Πούμπα: Η Σειρά",
+      "es": "Las aventuras de Timón y Pumba",
+      "fr": "Timon et Pumbaa",
+      "he": "טימון ופומבה",
+      "hi": "Timon and Pumbaa",
+      "ja": "ライオン・キングのティモンとプンバァ",
+      "ko": "티몬과 품바",
+      "ru": "Тимон и Пумба",
+      "zh": "彭彭丁滿歷險記"
+    }
   },
   {
     "celebrity": "Disenchantment",
@@ -258,7 +706,23 @@
       "Its clues draw from the character shapes, comic rhythm, setting, and repeatable visual jokes.",
       "Think about the cartoon setup it builds: odd jobs, magical kingdoms, domestic chaos, or neighborhood escapades.",
       "The hint is in the recurring ingredients fans imitate: voices, catchphrases, sidekicks, villains, and impossible gags."
-    ]
+    ],
+    "tmdb_id": 73021,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Disenchantment",
+      "ar": "Disenchantment",
+      "de": "Disenchantment",
+      "el": "Απογοήτευση",
+      "es": "(Des)encanto",
+      "fr": "Désenchantée",
+      "he": "התפכחות",
+      "hi": "Disenchantment",
+      "ja": "魔法が解けて",
+      "ko": "디스인챈트",
+      "ru": "Разочарование",
+      "zh": "幻灭"
+    }
   },
   {
     "celebrity": "Craig of the Creek",
@@ -267,7 +731,23 @@
       "Its clues draw from the character shapes, comic rhythm, setting, and repeatable visual jokes.",
       "Think about the cartoon setup it builds: odd jobs, magical kingdoms, domestic chaos, or neighborhood escapades.",
       "The hint is in the recurring ingredients fans imitate: voices, catchphrases, sidekicks, villains, and impossible gags."
-    ]
+    ],
+    "tmdb_id": 79061,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Craig of the Creek",
+      "ar": "كريغ في الجدول",
+      "de": "Craig of the Creek - Im Wald der Abenteuer",
+      "el": "Craig of the Creek",
+      "es": "El mundo de Craig",
+      "fr": "Craig de la crique",
+      "he": "קרייג של הנחל",
+      "hi": "Craig of the Creek",
+      "ja": "Craig of the Creek",
+      "ko": "시냇가의 크레이그",
+      "ru": "Крейг из царства Ручья",
+      "zh": "阿貴溪遊記"
+    }
   },
   {
     "celebrity": "The Dragon Prince",
@@ -276,7 +756,23 @@
       "Its clues draw from the character shapes, comic rhythm, setting, and repeatable visual jokes.",
       "Think about the cartoon setup it builds: odd jobs, magical kingdoms, domestic chaos, or neighborhood escapades.",
       "The hint is in the recurring ingredients fans imitate: voices, catchphrases, sidekicks, villains, and impossible gags."
-    ]
+    ],
+    "tmdb_id": 81046,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "The Dragon Prince",
+      "ar": "الأمير التنين",
+      "de": "Der Prinz der Drachen",
+      "el": "Ο Πρίγκιπας Δράκος",
+      "es": "Príncipe de los dragones",
+      "fr": "Le Prince des dragons",
+      "he": "הנסיך הדרקון",
+      "hi": "The Dragon Prince",
+      "ja": "ドラゴン王子",
+      "ko": "드래곤 프린스",
+      "ru": "Принц драконов",
+      "zh": "龍太子"
+    }
   },
   {
     "celebrity": "We Baby Bears",
@@ -285,7 +781,23 @@
       "Its clues draw from the character shapes, comic rhythm, setting, and repeatable visual jokes.",
       "Think about the cartoon setup it builds: odd jobs, magical kingdoms, domestic chaos, or neighborhood escapades.",
       "The hint is in the recurring ingredients fans imitate: voices, catchphrases, sidekicks, villains, and impossible gags."
-    ]
+    ],
+    "tmdb_id": 117030,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "We Baby Bears",
+      "ar": "نحن الدببة الصغار",
+      "de": "We Baby Bears – Bärchen wie wir",
+      "el": "We Baby Bears",
+      "es": "Escandalositos",
+      "fr": "We Baby Bears",
+      "he": "We Baby Bears",
+      "hi": "We Baby Bears",
+      "ja": "ぼくらベビーベアーズ",
+      "ko": "위 베이비 베어스",
+      "ru": "Мы маленькие медведи",
+      "zh": "咱們小裸熊"
+    }
   },
   {
     "celebrity": "Dora the Explorer",
@@ -294,7 +806,23 @@
       "Its clues draw from the character shapes, comic rhythm, setting, and repeatable visual jokes.",
       "Think about the cartoon setup it builds: odd jobs, magical kingdoms, domestic chaos, or neighborhood escapades.",
       "The hint is in the recurring ingredients fans imitate: voices, catchphrases, sidekicks, villains, and impossible gags."
-    ]
+    ],
+    "tmdb_id": 79,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Dora the Explorer",
+      "ar": "مغامرات دورا",
+      "de": "Dora",
+      "el": "Ντόρα η Μικρή Εξερευνήτρια",
+      "es": "Dora, la exploradora",
+      "fr": "Dora l'exploratrice",
+      "he": "מגלים עם דורה",
+      "hi": "Dora the Explorer",
+      "ja": "ドーラといっしょに大冒険",
+      "ko": "도라도라 영어나라",
+      "ru": "Даша-путешественница",
+      "zh": "愛探險的 Dora"
+    }
   },
   {
     "celebrity": "Totally Spies",
@@ -303,7 +831,23 @@
       "Its clues draw from the character shapes, comic rhythm, setting, and repeatable visual jokes.",
       "Think about the cartoon setup it builds: odd jobs, magical kingdoms, domestic chaos, or neighborhood escapades.",
       "The hint is in the recurring ingredients fans imitate: voices, catchphrases, sidekicks, villains, and impossible gags."
-    ]
+    ],
+    "tmdb_id": 2808,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Totally Spies",
+      "ar": "الجاسوسات",
+      "de": "Totally Spies!",
+      "el": "Totally Spies",
+      "es": "Tres Espías Sin Límite",
+      "fr": "Totally Spies",
+      "he": "טוטלי ספייס!",
+      "hi": "Totally Spies",
+      "ja": "Totally Spies",
+      "ko": "Totally Spies",
+      "ru": "Тотали Спайс!",
+      "zh": "校園嬌娃"
+    }
   },
   {
     "celebrity": "Oggy and the Cockroaches",
@@ -312,7 +856,23 @@
       "Its clues draw from the character shapes, comic rhythm, setting, and repeatable visual jokes.",
       "Think about the cartoon setup it builds: odd jobs, magical kingdoms, domestic chaos, or neighborhood escapades.",
       "The hint is in the recurring ingredients fans imitate: voices, catchphrases, sidekicks, villains, and impossible gags."
-    ]
+    ],
+    "tmdb_id": 2777,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Oggy and the Cockroaches",
+      "ar": "أوغي والمشاكسون",
+      "de": "Oggy und die Kakerlaken",
+      "el": "Ο Όγκυ και οι Κατσαρίδες",
+      "es": "Oggy y las cucarachas",
+      "fr": "Oggy and the Cockroaches",
+      "he": "אוגי והמקקים",
+      "hi": "Oggy and the Cockroaches",
+      "ja": "オギー&コックローチ",
+      "ko": "오기와 악동들",
+      "ru": "Огги и тараканы",
+      "zh": "肥貓鬥小強"
+    }
   },
   {
     "celebrity": "Danny Phantom",
@@ -321,7 +881,23 @@
       "Its clues draw from the character shapes, comic rhythm, setting, and repeatable visual jokes.",
       "Think about the cartoon setup it builds: odd jobs, magical kingdoms, domestic chaos, or neighborhood escapades.",
       "The hint is in the recurring ingredients fans imitate: voices, catchphrases, sidekicks, villains, and impossible gags."
-    ]
+    ],
+    "tmdb_id": 2309,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Danny Phantom",
+      "ar": "داني الشبح",
+      "de": "Danny Phantom",
+      "el": "Ντάνι Φάντομ",
+      "es": "Danny Phantom",
+      "fr": "Danny Fantôme",
+      "he": "דני פנטום",
+      "hi": "Danny Phantom",
+      "ja": "ダニー・ファントム",
+      "ko": "대니팬텀",
+      "ru": "Дэнни-призрак",
+      "zh": "幻影丹尼"
+    }
   },
   {
     "celebrity": "The Cleveland Show",
@@ -330,7 +906,23 @@
       "Its clues draw from the character shapes, comic rhythm, setting, and repeatable visual jokes.",
       "Think about the cartoon setup it builds: odd jobs, magical kingdoms, domestic chaos, or neighborhood escapades.",
       "The hint is in the recurring ingredients fans imitate: voices, catchphrases, sidekicks, villains, and impossible gags."
-    ]
+    ],
+    "tmdb_id": 15632,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "The Cleveland Show",
+      "ar": "The Cleveland Show",
+      "de": "The Cleveland Show",
+      "el": "The Cleveland Show",
+      "es": "Cleveland Show",
+      "fr": "The Cleveland Show",
+      "he": "המופע של קליבלנד",
+      "hi": "The Cleveland Show",
+      "ja": "ザ・クリーヴランド・ショウ",
+      "ko": "더 클리브랜드 쇼",
+      "ru": "Шоу Кливленда",
+      "zh": "克裏夫蘭秀"
+    }
   },
   {
     "celebrity": "Kick Buttowski Suburban Daredevil",
@@ -339,7 +931,23 @@
       "Its clues draw from the character shapes, comic rhythm, setting, and repeatable visual jokes.",
       "Think about the cartoon setup it builds: odd jobs, magical kingdoms, domestic chaos, or neighborhood escapades.",
       "The hint is in the recurring ingredients fans imitate: voices, catchphrases, sidekicks, villains, and impossible gags."
-    ]
+    ],
+    "tmdb_id": 17572,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Kick Buttowski Suburban Daredevil",
+      "ar": "كيك باتاوسكي: المغامر",
+      "de": "Kick Buttowski – Keiner kann alles",
+      "el": "Κικ Μπατόφσκι: Ο Διαβολάκος των προαστίων",
+      "es": "Kick Buttowski: Medio Doble de Riesgo",
+      "fr": "Kick Kasskoo",
+      "he": "קיק",
+      "hi": "Kick Buttowski Suburban Daredevil",
+      "ja": "キック ザ・びっくりボーイ",
+      "ko": "Kick Buttowski Suburban Daredevil",
+      "ru": "Сорвиголова Кик Бутовски",
+      "zh": "冒险王奇克"
+    }
   },
   {
     "celebrity": "The Wild Thornberrys",
@@ -348,7 +956,23 @@
       "Its clues draw from the character shapes, comic rhythm, setting, and repeatable visual jokes.",
       "Think about the cartoon setup it builds: odd jobs, magical kingdoms, domestic chaos, or neighborhood escapades.",
       "The hint is in the recurring ingredients fans imitate: voices, catchphrases, sidekicks, villains, and impossible gags."
-    ]
+    ],
+    "tmdb_id": 2408,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "The Wild Thornberrys",
+      "ar": "عائلة ثورنبيري البرية",
+      "de": "Die Expedition der Stachelbeeren",
+      "el": "Τα ταξίδια των Thornberrys",
+      "es": "Los Thornberrys",
+      "fr": "La Famille Delajungle",
+      "he": "The Wild Thornberrys",
+      "hi": "The Wild Thornberrys",
+      "ja": "ワイルド・ソーンベリーズ",
+      "ko": "The Wild Thornberrys",
+      "ru": "Дикая семейка Торнберри",
+      "zh": "丽莎和她的朋友们"
+    }
   },
   {
     "celebrity": "Smiling Friends",
@@ -357,7 +981,23 @@
       "Its clues draw from the character shapes, comic rhythm, setting, and repeatable visual jokes.",
       "Think about the cartoon setup it builds: odd jobs, magical kingdoms, domestic chaos, or neighborhood escapades.",
       "The hint is in the recurring ingredients fans imitate: voices, catchphrases, sidekicks, villains, and impossible gags."
-    ]
+    ],
+    "tmdb_id": 126506,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Smiling Friends",
+      "ar": "Smiling Friends",
+      "de": "Smiling Friends",
+      "el": "Smiling Friends",
+      "es": "Smiling Friends",
+      "fr": "Smiling Friends",
+      "he": "חברים המחייכים",
+      "hi": "Smiling Friends",
+      "ja": "Smiling Friends",
+      "ko": "Smiling Friends",
+      "ru": "Задорные друзья",
+      "zh": "微笑朋友"
+    }
   },
   {
     "celebrity": "Ben 10 Omniverse",
@@ -366,7 +1006,23 @@
       "Its clues draw from the character shapes, comic rhythm, setting, and repeatable visual jokes.",
       "Think about the cartoon setup it builds: odd jobs, magical kingdoms, domestic chaos, or neighborhood escapades.",
       "The hint is in the recurring ingredients fans imitate: voices, catchphrases, sidekicks, villains, and impossible gags."
-    ]
+    ],
+    "tmdb_id": 46922,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Ben 10 Omniverse",
+      "ar": "بن 10: أومنيفرس",
+      "de": "Ben 10 - Omniverse",
+      "el": "Ben 10 Omniverse",
+      "es": "Ben 10: Omniverse",
+      "fr": "Ben 10 Omniverse",
+      "he": "בן 10: אומניברס",
+      "hi": "Ben 10 Omniverse",
+      "ja": "ベン10：オムニバース",
+      "ko": "Ben 10 Omniverse",
+      "ru": "Бен 10: Омниверс",
+      "zh": "Ben 10：全面進化"
+    }
   },
   {
     "celebrity": "Mr Bean the Animated Series",
@@ -375,7 +1031,23 @@
       "Its clues draw from the character shapes, comic rhythm, setting, and repeatable visual jokes.",
       "Think about the cartoon setup it builds: odd jobs, magical kingdoms, domestic chaos, or neighborhood escapades.",
       "The hint is in the recurring ingredients fans imitate: voices, catchphrases, sidekicks, villains, and impossible gags."
-    ]
+    ],
+    "tmdb_id": 2530,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Mr Bean the Animated Series",
+      "ar": "مستر بين",
+      "de": "Mr. Bean - Die Cartoon-Serie",
+      "el": "Μίστερ Μπιν: Κινούμενα Σχέδια",
+      "es": "Mr. Bean, la serie animada",
+      "fr": "Mr Bean : La série animée",
+      "he": "מיסטר בין: הסדרה המצוירת",
+      "hi": "Mr Bean the Animated Series",
+      "ja": "Mr Bean the Animated Series",
+      "ko": "Mr Bean the Animated Series",
+      "ru": "Мистер Бин",
+      "zh": "憨豆先生動畫版"
+    }
   },
   {
     "celebrity": "The Amazing Digital Circus",
@@ -384,7 +1056,23 @@
       "Its clues draw from the character shapes, comic rhythm, setting, and repeatable visual jokes.",
       "Think about the cartoon setup it builds: odd jobs, magical kingdoms, domestic chaos, or neighborhood escapades.",
       "The hint is in the recurring ingredients fans imitate: voices, catchphrases, sidekicks, villains, and impossible gags."
-    ]
+    ],
+    "tmdb_id": 261145,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "The Amazing Digital Circus",
+      "ar": "السيرك الرقمي المدهش",
+      "de": "Der unglaubliche digitale Zirkus",
+      "el": "The Amazing Digital Circus",
+      "es": "El Asombroso Circo Digital",
+      "fr": "L'Incroyable Cirque Numérique",
+      "he": "הקרקס הדיגיטלי המדהים",
+      "hi": "अमेज़िंग डिजिटल सर्कस",
+      "ja": "アメイジング・デジタル・サーカス",
+      "ko": "어메이징 디지털 서커스",
+      "ru": "Удивительный цифровой цирк",
+      "zh": "神奇数字马戏团"
+    }
   },
   {
     "celebrity": "Close Enough",
@@ -393,7 +1081,23 @@
       "Its clues draw from the character shapes, comic rhythm, setting, and repeatable visual jokes.",
       "Think about the cartoon setup it builds: odd jobs, magical kingdoms, domestic chaos, or neighborhood escapades.",
       "The hint is in the recurring ingredients fans imitate: voices, catchphrases, sidekicks, villains, and impossible gags."
-    ]
+    ],
+    "tmdb_id": 84503,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Close Enough",
+      "ar": "Close Enough",
+      "de": "Close Enough",
+      "el": "Στο Περίπου",
+      "es": "Close Enough",
+      "fr": "De proches en proches",
+      "he": "מספיק טוב",
+      "hi": "Close Enough",
+      "ja": "そんな感じ",
+      "ko": "클로즈 이너프",
+      "ru": "Ближе некуда",
+      "zh": "脱序一家亲"
+    }
   },
   {
     "celebrity": "Grizzy the Lemmings",
@@ -402,7 +1106,23 @@
       "Its clues draw from the character shapes, comic rhythm, setting, and repeatable visual jokes.",
       "Think about the cartoon setup it builds: odd jobs, magical kingdoms, domestic chaos, or neighborhood escapades.",
       "The hint is in the recurring ingredients fans imitate: voices, catchphrases, sidekicks, villains, and impossible gags."
-    ]
+    ],
+    "tmdb_id": 74415,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Grizzy the Lemmings",
+      "ar": "غريزي والليمنغز",
+      "de": "Grizzy und die Lemminge",
+      "el": "Ο Γκρίζι και τα Λέμινγκς",
+      "es": "Grizzy y los Lemmings",
+      "fr": "Grizzy the Lemmings",
+      "he": "גריזי והלמינגים",
+      "hi": "Grizzy the Lemmings",
+      "ja": "Grizzy the Lemmings",
+      "ko": "그리지와 레밍스",
+      "ru": "Гриззи и лемминги",
+      "zh": "大砲與小惡魔"
+    }
   },
   {
     "celebrity": "Shaun the Sheep",
@@ -411,7 +1131,23 @@
       "Its clues draw from the character shapes, comic rhythm, setting, and repeatable visual jokes.",
       "Think about the cartoon setup it builds: odd jobs, magical kingdoms, domestic chaos, or neighborhood escapades.",
       "The hint is in the recurring ingredients fans imitate: voices, catchphrases, sidekicks, villains, and impossible gags."
-    ]
+    ],
+    "tmdb_id": 3902,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Shaun the Sheep",
+      "ar": "الخروف شون",
+      "de": "Shaun das Schaf",
+      "el": "Σον Το Πρόβατο",
+      "es": "La oveja Shaun",
+      "fr": "Shaun le mouton",
+      "he": "שון הכבשון",
+      "hi": "Shaun the Sheep",
+      "ja": "ひつじのショーン",
+      "ko": "못말리는 어린양 숀",
+      "ru": "Барашек Шон",
+      "zh": "小羊肖恩"
+    }
   },
   {
     "celebrity": "Catdog",
@@ -420,7 +1156,23 @@
       "Its clues draw from the character shapes, comic rhythm, setting, and repeatable visual jokes.",
       "Think about the cartoon setup it builds: odd jobs, magical kingdoms, domestic chaos, or neighborhood escapades.",
       "The hint is in the recurring ingredients fans imitate: voices, catchphrases, sidekicks, villains, and impossible gags."
-    ]
+    ],
+    "tmdb_id": 1567,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Catdog",
+      "ar": "بسبس بوبي",
+      "de": "Catdog",
+      "el": "Γατόσκυλο",
+      "es": "CatDog",
+      "fr": "Michat-Michien",
+      "he": "Catdog",
+      "hi": "Catdog",
+      "ja": "Catdog",
+      "ko": "Catdog",
+      "ru": "Котопес",
+      "zh": "貓狗"
+    }
   },
   {
     "celebrity": "Mucha Lucha",
@@ -429,7 +1181,23 @@
       "Its clues draw from the character shapes, comic rhythm, setting, and repeatable visual jokes.",
       "Think about the cartoon setup it builds: odd jobs, magical kingdoms, domestic chaos, or neighborhood escapades.",
       "The hint is in the recurring ingredients fans imitate: voices, catchphrases, sidekicks, villains, and impossible gags."
-    ]
+    ],
+    "tmdb_id": 288,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Mucha Lucha",
+      "ar": "المصارعين المقنعين",
+      "de": "Mucha Lucha",
+      "el": "Mucha Lucha",
+      "es": "¡Mucha Lucha!",
+      "fr": "Mucha Lucha",
+      "he": "מוצ'ה לוצ'ה",
+      "hi": "Mucha Lucha",
+      "ja": "Mucha Lucha",
+      "ko": "Mucha Lucha",
+      "ru": "Mucha Lucha",
+      "zh": "姆呷鲁加"
+    }
   },
   {
     "celebrity": "He Man and the Masters of the Universe",
@@ -438,7 +1206,23 @@
       "Its clues draw from the character shapes, comic rhythm, setting, and repeatable visual jokes.",
       "Think about the cartoon setup it builds: odd jobs, magical kingdoms, domestic chaos, or neighborhood escapades.",
       "The hint is in the recurring ingredients fans imitate: voices, catchphrases, sidekicks, villains, and impossible gags."
-    ]
+    ],
+    "tmdb_id": 931,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "He Man and the Masters of the Universe",
+      "ar": "He Man and the Masters of the Universe",
+      "de": "He-Man and the Masters of the Universe",
+      "el": "Χ-ΜΑΝ και οι Κυρίαρχοι του Σύμπαντος",
+      "es": "He-Man y los Amos del Universo",
+      "fr": "Les Maîtres de l'univers",
+      "he": "הי-מן ושליטי היקום",
+      "hi": "He Man and the Masters of the Universe",
+      "ja": "He Man and the Masters of the Universe",
+      "ko": "우주의 왕자 히맨",
+      "ru": "Хи-Мэн и Властелины Вселенной",
+      "zh": "宇宙的巨人希曼"
+    }
   },
   {
     "celebrity": "The Ren Stimpy Show",
@@ -447,7 +1231,23 @@
       "Its clues draw from the character shapes, comic rhythm, setting, and repeatable visual jokes.",
       "Think about the cartoon setup it builds: odd jobs, magical kingdoms, domestic chaos, or neighborhood escapades.",
       "The hint is in the recurring ingredients fans imitate: voices, catchphrases, sidekicks, villains, and impossible gags."
-    ]
+    ],
+    "tmdb_id": 504,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "The Ren Stimpy Show",
+      "ar": "عرض رين وستيمبي",
+      "de": "Die Ren & Stimpy Show",
+      "el": "Ρεν και Στίμπι",
+      "es": "Ren y Stimpy",
+      "fr": "Ren et Stimpy",
+      "he": "המופע של רן וסטימפי",
+      "hi": "The Ren Stimpy Show",
+      "ja": "レンとスティンピー",
+      "ko": "The Ren Stimpy Show",
+      "ru": "Шоу Рена и Стимпи",
+      "zh": "萊恩和史丁比"
+    }
   },
   {
     "celebrity": "Doug",
@@ -456,7 +1256,23 @@
       "Its clues draw from the character shapes, comic rhythm, setting, and repeatable visual jokes.",
       "Think about the cartoon setup it builds: odd jobs, magical kingdoms, domestic chaos, or neighborhood escapades.",
       "The hint is in the recurring ingredients fans imitate: voices, catchphrases, sidekicks, villains, and impossible gags."
-    ]
+    ],
+    "tmdb_id": 384,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Doug",
+      "ar": "داني مهضوم",
+      "de": "Doug",
+      "el": "Νταγκ, ο Σκανδαλιάρης",
+      "es": "Doug",
+      "fr": "Doug",
+      "he": "החיים על פי דאג",
+      "hi": "Doug",
+      "ja": "ダグ",
+      "ko": "더그",
+      "ru": "Даг",
+      "zh": "阿德日记"
+    }
   },
   {
     "celebrity": "Aqua Teen Hunger Force",
@@ -465,7 +1281,23 @@
       "Its clues draw from the character shapes, comic rhythm, setting, and repeatable visual jokes.",
       "Think about the cartoon setup it builds: odd jobs, magical kingdoms, domestic chaos, or neighborhood escapades.",
       "The hint is in the recurring ingredients fans imitate: voices, catchphrases, sidekicks, villains, and impossible gags."
-    ]
+    ],
+    "tmdb_id": 251,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Aqua Teen Hunger Force",
+      "ar": "Aqua Teen Hunger Force",
+      "de": "Aqua Teen Hungerforce",
+      "el": "Aqua Teen Hunger Force",
+      "es": "Aqua Teen Hunger Force",
+      "fr": "Aqua Teen Hunger Force",
+      "he": "Aqua Teen Hunger Force",
+      "hi": "Aqua Teen Hunger Force",
+      "ja": "アクア・ティーン・ハンガー・フォース",
+      "ko": "Aqua Teen Hunger Force",
+      "ru": "Команда Фастфуд",
+      "zh": "饮料杯历险记"
+    }
   },
   {
     "celebrity": "Fast Furious Spy Racers",
@@ -474,7 +1306,23 @@
       "Its clues draw from the character shapes, comic rhythm, setting, and repeatable visual jokes.",
       "Think about the cartoon setup it builds: odd jobs, magical kingdoms, domestic chaos, or neighborhood escapades.",
       "The hint is in the recurring ingredients fans imitate: voices, catchphrases, sidekicks, villains, and impossible gags."
-    ]
+    ],
+    "tmdb_id": 95594,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Fast Furious Spy Racers",
+      "ar": "Fast Furious Spy Racers",
+      "de": "Fast & Furious Spy Racers",
+      "el": "Μαχητές των Δρόμων: Σπιντάτοι Κατάσκοποι",
+      "es": "Rápidos y furiosos: Espías al volante",
+      "fr": "Rapides et dangereux : Les espions dans la course",
+      "he": "מהיר ועצבני: מרגלים על הכביש",
+      "hi": "Fast Furious Spy Racers",
+      "ja": "ワイルド・スピード/スパイレーサー",
+      "ko": "분노의 질주: 스파이 레이서",
+      "ru": "Форсаж: Шпионские гонки",
+      "zh": "狂野時速之極速間諜"
+    }
   },
   {
     "celebrity": "Over the Garden Wall",
@@ -483,7 +1331,23 @@
       "Its clues draw from the character shapes, comic rhythm, setting, and repeatable visual jokes.",
       "Think about the cartoon setup it builds: odd jobs, magical kingdoms, domestic chaos, or neighborhood escapades.",
       "The hint is in the recurring ingredients fans imitate: voices, catchphrases, sidekicks, villains, and impossible gags."
-    ]
+    ],
+    "tmdb_id": 61617,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Over the Garden Wall",
+      "ar": "خلف حائط الحديقة",
+      "de": "Hinter der Gartenmauer",
+      "el": "Over the Garden Wall",
+      "es": "Más allá del jardín",
+      "fr": "La Forêt de l'étrange",
+      "he": "Over the Garden Wall",
+      "hi": "Over the Garden Wall",
+      "ja": "オーバー・ザ・ガーデンウォール",
+      "ko": "숨겨진 숲의 비밀",
+      "ru": "По ту сторону изгороди",
+      "zh": "謎樣森林"
+    }
   },
   {
     "celebrity": "The Boss Baby Back in Business",
@@ -492,7 +1356,23 @@
       "Its clues draw from the character shapes, comic rhythm, setting, and repeatable visual jokes.",
       "Think about the cartoon setup it builds: odd jobs, magical kingdoms, domestic chaos, or neighborhood escapades.",
       "The hint is in the recurring ingredients fans imitate: voices, catchphrases, sidekicks, villains, and impossible gags."
-    ]
+    ],
+    "tmdb_id": 77606,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "The Boss Baby Back in Business",
+      "ar": "عودة الطفل الزعيم",
+      "de": "The Boss Baby: wieder im Geschäft",
+      "el": "Αρχηγός από Κούνια: Ο Αρχιμπόμπιρας Επιστρέφει",
+      "es": "El bebé jefazo: Vuelta al curro",
+      "fr": "Baby Boss : Les affaires reprennent",
+      "he": "בייבי בוס: גדול בעסקים",
+      "hi": "The Boss Baby Back in Business",
+      "ja": "ボス・ベイビー：ビジネスは赤ちゃんにおまかせ！",
+      "ko": "보스 베이비: 돌아온 보스",
+      "ru": "Босс-молокосос: Снова в деле",
+      "zh": "波士 BB：又再開工"
+    }
   },
   {
     "celebrity": "Velma",
@@ -501,7 +1381,23 @@
       "Its clues draw from the character shapes, comic rhythm, setting, and repeatable visual jokes.",
       "Think about the cartoon setup it builds: odd jobs, magical kingdoms, domestic chaos, or neighborhood escapades.",
       "The hint is in the recurring ingredients fans imitate: voices, catchphrases, sidekicks, villains, and impossible gags."
-    ]
+    ],
+    "tmdb_id": 126725,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Velma",
+      "ar": "Velma",
+      "de": "Velma",
+      "el": "Velma",
+      "es": "Velma",
+      "fr": "Véra",
+      "he": "Velma",
+      "hi": "Velma",
+      "ja": "Velma",
+      "ko": "벨마",
+      "ru": "Велма",
+      "zh": "史酷比：维尔玛的大冒险"
+    }
   },
   {
     "celebrity": "Trollhunters Tales of Arcadia",
@@ -510,7 +1406,23 @@
       "Its clues draw from the character shapes, comic rhythm, setting, and repeatable visual jokes.",
       "Think about the cartoon setup it builds: odd jobs, magical kingdoms, domestic chaos, or neighborhood escapades.",
       "The hint is in the recurring ingredients fans imitate: voices, catchphrases, sidekicks, villains, and impossible gags."
-    ]
+    ],
+    "tmdb_id": 68267,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Trollhunters Tales of Arcadia",
+      "ar": "صائد الغيلان: أساطير أركاديا",
+      "de": "Trolljäger",
+      "el": "Κυνηγοί Τρολ: Το Έπος της Αρκάντια",
+      "es": "Trollhunters: Relatos de Arcadia",
+      "fr": "Chasseurs de Trolls : Les Contes d'Arcadia",
+      "he": "ציידי הטרולים: סיפורי ארקדיה",
+      "hi": "Trollhunters Tales of Arcadia",
+      "ja": "トロールハンターズ: アルカディア物語",
+      "ko": "트롤헌터: 아카디아의 전설",
+      "ru": "Охотники на троллей: Истории Аркадии",
+      "zh": "巨怪獵人：幽林傳説"
+    }
   },
   {
     "celebrity": "The Tom and Jerry Show",
@@ -519,7 +1431,23 @@
       "Its clues draw from the character shapes, comic rhythm, setting, and repeatable visual jokes.",
       "Think about the cartoon setup it builds: odd jobs, magical kingdoms, domestic chaos, or neighborhood escapades.",
       "The hint is in the recurring ingredients fans imitate: voices, catchphrases, sidekicks, villains, and impossible gags."
-    ]
+    ],
+    "tmdb_id": 47480,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "The Tom and Jerry Show",
+      "ar": "عرض توم وجيري",
+      "de": "Die Tom und Jerry Show",
+      "el": "The Tom and Jerry Show",
+      "es": "El Show de Tom y Jerry",
+      "fr": "Tom et Jerry Show",
+      "he": "The Tom and Jerry Show",
+      "hi": "The Tom and Jerry Show",
+      "ja": "トムとジェリー ショー",
+      "ko": "톰과 제리 쇼",
+      "ru": "Шоу Тома и Джерри",
+      "zh": "湯姆貓與傑利鼠秀"
+    }
   },
   {
     "celebrity": "Summer Camp Island",
@@ -528,7 +1456,23 @@
       "Its clues draw from the character shapes, comic rhythm, setting, and repeatable visual jokes.",
       "Think about the cartoon setup it builds: odd jobs, magical kingdoms, domestic chaos, or neighborhood escapades.",
       "The hint is in the recurring ingredients fans imitate: voices, catchphrases, sidekicks, villains, and impossible gags."
-    ]
+    ],
+    "tmdb_id": 81665,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Summer Camp Island",
+      "ar": "Summer Camp Island",
+      "de": "Summer Camp Island",
+      "el": "Summer Camp Island",
+      "es": "Campamento de Verano",
+      "fr": "La Colo Magique",
+      "he": "Summer Camp Island",
+      "hi": "Summer Camp Island",
+      "ja": "Summer Camp Island",
+      "ko": "썸머 캠프 아일랜드",
+      "ru": "Остров летнего лагеря",
+      "zh": "夏令營奇幻島"
+    }
   },
   {
     "celebrity": "Inside Job",
@@ -537,7 +1481,23 @@
       "Its clues draw from the character shapes, comic rhythm, setting, and repeatable visual jokes.",
       "Think about the cartoon setup it builds: odd jobs, magical kingdoms, domestic chaos, or neighborhood escapades.",
       "The hint is in the recurring ingredients fans imitate: voices, catchphrases, sidekicks, villains, and impossible gags."
-    ]
+    ],
+    "tmdb_id": 97727,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Inside Job",
+      "ar": "Inside Job",
+      "de": "Inside Job",
+      "el": "Inside Job",
+      "es": "Trabajo Incógnito",
+      "fr": "Métro, complots, dodo",
+      "he": "‏המושכים בחוטים",
+      "hi": "Inside Job",
+      "ja": "陰謀論のオシゴト",
+      "ko": "은밀한 회사원",
+      "ru": "Корпорация Заговор",
+      "zh": "陰謀辦公室"
+    }
   },
   {
     "celebrity": "Final Space",
@@ -546,7 +1506,23 @@
       "Its clues draw from the character shapes, comic rhythm, setting, and repeatable visual jokes.",
       "Think about the cartoon setup it builds: odd jobs, magical kingdoms, domestic chaos, or neighborhood escapades.",
       "The hint is in the recurring ingredients fans imitate: voices, catchphrases, sidekicks, villains, and impossible gags."
-    ]
+    ],
+    "tmdb_id": 74387,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Final Space",
+      "ar": "الفضاء النهائي",
+      "de": "Final Space",
+      "el": "Final Space",
+      "es": "Final Space",
+      "fr": "Gary a besoin d'espace",
+      "he": "חלל אינסופי",
+      "hi": "फ़ायनल स्पेस",
+      "ja": "ファイナル・スペース",
+      "ko": "파이널 스페이스",
+      "ru": "Крайний космос",
+      "zh": "太空终界"
+    }
   },
   {
     "celebrity": "Slugterra",
@@ -555,7 +1531,23 @@
       "Its clues draw from the character shapes, comic rhythm, setting, and repeatable visual jokes.",
       "Think about the cartoon setup it builds: odd jobs, magical kingdoms, domestic chaos, or neighborhood escapades.",
       "The hint is in the recurring ingredients fans imitate: voices, catchphrases, sidekicks, villains, and impossible gags."
-    ]
+    ],
+    "tmdb_id": 46994,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Slugterra",
+      "ar": "سلاغتيرا",
+      "de": "Slugterra",
+      "el": "Slugterra",
+      "es": "Bajoterra",
+      "fr": "Slugterra",
+      "he": "סלגטרה",
+      "hi": "Slugterra",
+      "ja": "DANGANバトル スラッグテラ",
+      "ko": "Slugterra",
+      "ru": "Слагтерра",
+      "zh": "斯拉格精靈"
+    }
   },
   {
     "celebrity": "Thomas Friends",
@@ -564,7 +1556,23 @@
       "Its clues draw from the character shapes, comic rhythm, setting, and repeatable visual jokes.",
       "Think about the cartoon setup it builds: odd jobs, magical kingdoms, domestic chaos, or neighborhood escapades.",
       "The hint is in the recurring ingredients fans imitate: voices, catchphrases, sidekicks, villains, and impossible gags."
-    ]
+    ],
+    "tmdb_id": 2304,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Thomas Friends",
+      "ar": "Thomas Friends",
+      "de": "Thomas die kleine Lokomotive & seine Freunde",
+      "el": "Τόμας το Τρενάκι",
+      "es": "Thomas y sus amigos",
+      "fr": "Thomas et ses amis",
+      "he": "תומס הקטר וחברים",
+      "hi": "Thomas Friends",
+      "ja": "きかんしゃトーマス",
+      "ko": "토마스와 친구들",
+      "ru": "Паровозик Томас и его друзья",
+      "zh": "湯瑪士小火車"
+    }
   },
   {
     "celebrity": "Kung Fu Panda the Paws of Destiny",
@@ -573,7 +1581,23 @@
       "Its clues draw from the character shapes, comic rhythm, setting, and repeatable visual jokes.",
       "Think about the cartoon setup it builds: odd jobs, magical kingdoms, domestic chaos, or neighborhood escapades.",
       "The hint is in the recurring ingredients fans imitate: voices, catchphrases, sidekicks, villains, and impossible gags."
-    ]
+    ],
+    "tmdb_id": 82747,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Kung Fu Panda the Paws of Destiny",
+      "ar": "Kung Fu Panda the Paws of Destiny",
+      "de": "Kung Fu Panda: Die Tatzen des Schicksals",
+      "el": "Kung Fu Panda the Paws of Destiny",
+      "es": "Kung Fu Panda: El destino de Paws",
+      "fr": "Kung Fu Panda : Les Pattes du Destin",
+      "he": "קונג פו פנדה: כפות הגורל",
+      "hi": "Kung Fu Panda the Paws of Destiny",
+      "ja": "Kung Fu Panda the Paws of Destiny",
+      "ko": "쿵푸 팬더: 운명의 앞발",
+      "ru": "Кунг-фу панда: Лапки судьбы",
+      "zh": "功夫熊貓: 命運之掌"
+    }
   },
   {
     "celebrity": "Static Shock",
@@ -582,7 +1606,23 @@
       "Its clues draw from the character shapes, comic rhythm, setting, and repeatable visual jokes.",
       "Think about the cartoon setup it builds: odd jobs, magical kingdoms, domestic chaos, or neighborhood escapades.",
       "The hint is in the recurring ingredients fans imitate: voices, catchphrases, sidekicks, villains, and impossible gags."
-    ]
+    ],
+    "tmdb_id": 1487,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Static Shock",
+      "ar": "Static Shock",
+      "de": "Static Shock",
+      "el": "Static Shock",
+      "es": "Static Shock",
+      "fr": "Static Choc",
+      "he": "Static Shock",
+      "hi": "Static Shock",
+      "ja": "Static Shock",
+      "ko": "Static Shock",
+      "ru": "Статический шок",
+      "zh": "靜電俠"
+    }
   },
   {
     "celebrity": "Codename Kids Next Door",
@@ -591,7 +1631,23 @@
       "Its clues draw from the character shapes, comic rhythm, setting, and repeatable visual jokes.",
       "Think about the cartoon setup it builds: odd jobs, magical kingdoms, domestic chaos, or neighborhood escapades.",
       "The hint is in the recurring ingredients fans imitate: voices, catchphrases, sidekicks, villains, and impossible gags."
-    ]
+    ],
+    "tmdb_id": 2660,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Codename Kids Next Door",
+      "ar": "اولاد الجيران",
+      "de": "Codename Kids Next Door",
+      "el": "Τα Σούπερ Παιδιά",
+      "es": "KND: Los chicos del barrio",
+      "fr": "Nom de code : Kids Next Door",
+      "he": "Codename Kids Next Door",
+      "hi": "Codename Kids Next Door",
+      "ja": "KND ハチャメチャ大作戦",
+      "ko": "Codename Kids Next Door",
+      "ru": "Команда нашего двора",
+      "zh": "小孩大聯盟"
+    }
   },
   {
     "celebrity": "Doc Mcstuffins",
@@ -600,7 +1656,23 @@
       "Its clues draw from the character shapes, comic rhythm, setting, and repeatable visual jokes.",
       "Think about the cartoon setup it builds: odd jobs, magical kingdoms, domestic chaos, or neighborhood escapades.",
       "The hint is in the recurring ingredients fans imitate: voices, catchphrases, sidekicks, villains, and impossible gags."
-    ]
+    ],
+    "tmdb_id": 46262,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Doc Mcstuffins",
+      "ar": "الدكتورة ماكستافينز",
+      "de": "Doc McStuffins, Spielzeugärztin",
+      "el": "Η Μικρή Γιατρός",
+      "es": "Doctora Juguetes",
+      "fr": "Docteur La Peluche",
+      "he": "דוק רופאת צעצועים",
+      "hi": "Doc Mcstuffins",
+      "ja": "ドックはおもちゃドクター",
+      "ko": "꼬마의사 맥스터핀스",
+      "ru": "Доктор Плюшева",
+      "zh": "小醫師大玩偶"
+    }
   },
   {
     "celebrity": "Daria",
@@ -609,7 +1681,23 @@
       "Its clues draw from the character shapes, comic rhythm, setting, and repeatable visual jokes.",
       "Think about the cartoon setup it builds: odd jobs, magical kingdoms, domestic chaos, or neighborhood escapades.",
       "The hint is in the recurring ingredients fans imitate: voices, catchphrases, sidekicks, villains, and impossible gags."
-    ]
+    ],
+    "tmdb_id": 2131,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Daria",
+      "ar": "Daria",
+      "de": "Daria",
+      "el": "Daria",
+      "es": "Daria",
+      "fr": "Daria",
+      "he": "דריה",
+      "hi": "Daria",
+      "ja": "Daria",
+      "ko": "Daria",
+      "ru": "Дарья",
+      "zh": "拽妹黛薇兒"
+    }
   },
   {
     "celebrity": "Ugly Americans",
@@ -618,7 +1706,23 @@
       "Its clues draw from the character shapes, comic rhythm, setting, and repeatable visual jokes.",
       "Think about the cartoon setup it builds: odd jobs, magical kingdoms, domestic chaos, or neighborhood escapades.",
       "The hint is in the recurring ingredients fans imitate: voices, catchphrases, sidekicks, villains, and impossible gags."
-    ]
+    ],
+    "tmdb_id": 32351,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Ugly Americans",
+      "ar": "Ugly Americans",
+      "de": "Ugly Americans",
+      "el": "Ugly Americans",
+      "es": "Ugly Americans",
+      "fr": "Ugly Americans",
+      "he": "Ugly Americans",
+      "hi": "Ugly Americans",
+      "ja": "Ugly Americans",
+      "ko": "Ugly Americans",
+      "ru": "Гадкие американцы",
+      "zh": "醜陋的美國人"
+    }
   },
   {
     "celebrity": "Tom Jerry Kids Show",
@@ -627,7 +1731,23 @@
       "Its clues draw from the character shapes, comic rhythm, setting, and repeatable visual jokes.",
       "Think about the cartoon setup it builds: odd jobs, magical kingdoms, domestic chaos, or neighborhood escapades.",
       "The hint is in the recurring ingredients fans imitate: voices, catchphrases, sidekicks, villains, and impossible gags."
-    ]
+    ],
+    "tmdb_id": 4274,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Tom Jerry Kids Show",
+      "ar": "ابناء توم وجيري",
+      "de": "Tom & Jerry Kids",
+      "el": "Tom Jerry Kids Show",
+      "es": "Los pequeños Tom y Jerry",
+      "fr": "Tom et Jerry Kids",
+      "he": "טום וג'רי: דור ההמשך",
+      "hi": "Tom Jerry Kids Show",
+      "ja": "トムとジェリー キッズ",
+      "ko": "Tom Jerry Kids Show",
+      "ru": "Том и Джерри в детстве",
+      "zh": "小小湯姆與傑利"
+    }
   },
   {
     "celebrity": "The Bullwinkle Show",
@@ -636,7 +1756,23 @@
       "Its clues draw from the character shapes, comic rhythm, setting, and repeatable visual jokes.",
       "Think about the cartoon setup it builds: odd jobs, magical kingdoms, domestic chaos, or neighborhood escapades.",
       "The hint is in the recurring ingredients fans imitate: voices, catchphrases, sidekicks, villains, and impossible gags."
-    ]
+    ],
+    "tmdb_id": 1025,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "The Bullwinkle Show",
+      "ar": "The Bullwinkle Show",
+      "de": "The Bullwinkle Show",
+      "el": "The Bullwinkle Show",
+      "es": "Las nuevas aventuras de Rocki y sus amigos",
+      "fr": "The Bullwinkle Show",
+      "he": "The Bullwinkle Show",
+      "hi": "The Bullwinkle Show",
+      "ja": "The Bullwinkle Show",
+      "ko": "The Bullwinkle Show",
+      "ru": "The Bullwinkle Show",
+      "zh": "The Bullwinkle Show"
+    }
   },
   {
     "celebrity": "Curious George",
@@ -645,7 +1781,23 @@
       "Its clues draw from the character shapes, comic rhythm, setting, and repeatable visual jokes.",
       "Think about the cartoon setup it builds: odd jobs, magical kingdoms, domestic chaos, or neighborhood escapades.",
       "The hint is in the recurring ingredients fans imitate: voices, catchphrases, sidekicks, villains, and impossible gags."
-    ]
+    ],
+    "tmdb_id": 656,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Curious George",
+      "ar": "Curious George",
+      "de": "Coco, der neugierige Affe",
+      "el": "Curious George",
+      "es": "Jorge el curioso",
+      "fr": "George le petit curieux",
+      "he": "ג'ורג' הסקרן",
+      "hi": "Curious George",
+      "ja": "おさるのジョージ",
+      "ko": "호기심 많은 조지",
+      "ru": "Любопытный Джордж",
+      "zh": "好奇的喬治"
+    }
   },
   {
     "celebrity": "Ben 10 68295",
@@ -654,7 +1806,23 @@
       "Its clues draw from the character shapes, comic rhythm, setting, and repeatable visual jokes.",
       "Think about the cartoon setup it builds: odd jobs, magical kingdoms, domestic chaos, or neighborhood escapades.",
       "The hint is in the recurring ingredients fans imitate: voices, catchphrases, sidekicks, villains, and impossible gags."
-    ]
+    ],
+    "tmdb_id": 68295,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Ben 10 68295",
+      "ar": "Ben 10 68295",
+      "de": "Ben 10",
+      "el": "Ben 10 68295",
+      "es": "Ben 10",
+      "fr": "Ben 10 68295",
+      "he": "בן 10",
+      "hi": "Ben 10 68295",
+      "ja": "ベン10",
+      "ko": "Ben 10 68295",
+      "ru": "Бен 10: Перезагрузка",
+      "zh": "少年駭客：再顯神威"
+    }
   },
   {
     "celebrity": "Sonic Prime",
@@ -663,7 +1831,23 @@
       "Its clues draw from the character shapes, comic rhythm, setting, and repeatable visual jokes.",
       "Think about the cartoon setup it builds: odd jobs, magical kingdoms, domestic chaos, or neighborhood escapades.",
       "The hint is in the recurring ingredients fans imitate: voices, catchphrases, sidekicks, villains, and impossible gags."
-    ]
+    ],
+    "tmdb_id": 115577,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Sonic Prime",
+      "ar": "سونيك برايم",
+      "de": "Sonic Prime",
+      "el": "Sonic Prime",
+      "es": "Sonic Prime",
+      "fr": "Sonic Prime",
+      "he": "סוניק פריים",
+      "hi": "सॉनिक प्राइम",
+      "ja": "ソニックプライム",
+      "ko": "소닉 프라임",
+      "ru": "Соник Прайм",
+      "zh": "音速小子：回家大冒險"
+    }
   },
   {
     "celebrity": "Dug Days",
@@ -672,7 +1856,23 @@
       "Its clues draw from the character shapes, comic rhythm, setting, and repeatable visual jokes.",
       "Think about the cartoon setup it builds: odd jobs, magical kingdoms, domestic chaos, or neighborhood escapades.",
       "The hint is in the recurring ingredients fans imitate: voices, catchphrases, sidekicks, villains, and impossible gags."
-    ]
+    ],
+    "tmdb_id": 114501,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Dug Days",
+      "ar": "Dug Days",
+      "de": "Dug-Tage",
+      "el": "Οι Περιπέτειες του Νταγκ",
+      "es": "Dug y Carl",
+      "fr": "Bienvenue chez Dug",
+      "he": "הימים של דוג",
+      "hi": "Dug Days",
+      "ja": "ダグの日常",
+      "ko": "더그의 일상",
+      "ru": "Будни Дага",
+      "zh": "逗逗的日记"
+    }
   },
   {
     "celebrity": "Wordgirl",
@@ -681,7 +1881,23 @@
       "Its clues draw from the character shapes, comic rhythm, setting, and repeatable visual jokes.",
       "Think about the cartoon setup it builds: odd jobs, magical kingdoms, domestic chaos, or neighborhood escapades.",
       "The hint is in the recurring ingredients fans imitate: voices, catchphrases, sidekicks, villains, and impossible gags."
-    ]
+    ],
+    "tmdb_id": 14511,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Wordgirl",
+      "ar": "Wordgirl",
+      "de": "Wordgirl",
+      "el": "Wordgirl",
+      "es": "Wordgirl",
+      "fr": "Wordgirl",
+      "he": "כוח מילולית",
+      "hi": "Wordgirl",
+      "ja": "Wordgirl",
+      "ko": "Wordgirl",
+      "ru": "Wordgirl",
+      "zh": "單詞女孩"
+    }
   },
   {
     "celebrity": "Tiny Toon Adventures",
@@ -690,7 +1906,23 @@
       "Its clues draw from the character shapes, comic rhythm, setting, and repeatable visual jokes.",
       "Think about the cartoon setup it builds: odd jobs, magical kingdoms, domestic chaos, or neighborhood escapades.",
       "The hint is in the recurring ingredients fans imitate: voices, catchphrases, sidekicks, villains, and impossible gags."
-    ]
+    ],
+    "tmdb_id": 1830,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Tiny Toon Adventures",
+      "ar": "مغامرات تايني تون",
+      "de": "Tiny Toon Abenteuer",
+      "el": "Tiny Toon Adventures",
+      "es": "Las aventuras de los Tiny Toon",
+      "fr": "Les Tiny Toons",
+      "he": "עלילות טייני טון",
+      "hi": "Tiny Toon Adventures",
+      "ja": "タイニー・トゥーンズ",
+      "ko": "Tiny Toon Adventures",
+      "ru": "Приключения мультяшек",
+      "zh": "Tiny Toon Adventures"
+    }
   },
   {
     "celebrity": "Secret Level",
@@ -699,7 +1931,23 @@
       "Its clues draw from the character shapes, comic rhythm, setting, and repeatable visual jokes.",
       "Think about the cartoon setup it builds: odd jobs, magical kingdoms, domestic chaos, or neighborhood escapades.",
       "The hint is in the recurring ingredients fans imitate: voices, catchphrases, sidekicks, villains, and impossible gags."
-    ]
+    ],
+    "tmdb_id": 261579,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Secret Level",
+      "ar": "المرحلة السرية",
+      "de": "Secret Level",
+      "el": "Secret Level",
+      "es": "El nivel secreto",
+      "fr": "Secret Level",
+      "he": "דרגה סודית",
+      "hi": "सीक्रेट लेवल",
+      "ja": "シークレット･レベル",
+      "ko": "시크릿 레벨",
+      "ru": "Секретный Уровень",
+      "zh": "秘密关卡"
+    }
   },
   {
     "celebrity": "Back at the Barnyard",
@@ -708,7 +1956,23 @@
       "Its clues draw from the character shapes, comic rhythm, setting, and repeatable visual jokes.",
       "Think about the cartoon setup it builds: odd jobs, magical kingdoms, domestic chaos, or neighborhood escapades.",
       "The hint is in the recurring ingredients fans imitate: voices, catchphrases, sidekicks, villains, and impossible gags."
-    ]
+    ],
+    "tmdb_id": 9921,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Back at the Barnyard",
+      "ar": "مزرعة المشاغبين",
+      "de": "Der tierisch verrückte Bauernhof",
+      "el": "Τα Μυστικά της Φάρμας",
+      "es": "La granja",
+      "fr": "La Ferme en folie",
+      "he": "חברים בחווה",
+      "hi": "Back at the Barnyard",
+      "ja": "Back at the Barnyard",
+      "ko": "두발네발 반야드",
+      "ru": "Рога и копыта: Возвращение",
+      "zh": "Back at the Barnyard"
+    }
   },
   {
     "celebrity": "Fosters Home for Imaginary Friends",
@@ -717,7 +1981,23 @@
       "Its clues draw from the character shapes, comic rhythm, setting, and repeatable visual jokes.",
       "Think about the cartoon setup it builds: odd jobs, magical kingdoms, domestic chaos, or neighborhood escapades.",
       "The hint is in the recurring ingredients fans imitate: voices, catchphrases, sidekicks, villains, and impossible gags."
-    ]
+    ],
+    "tmdb_id": 1720,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Fosters Home for Imaginary Friends",
+      "ar": "منزل فوستر",
+      "de": "Fosters Home for Imaginary Friends",
+      "el": "Fosters Home for Imaginary Friends",
+      "es": "Mansión Foster para amigos imaginarios",
+      "fr": "Foster, la maison des amis imaginaires",
+      "he": "בית פוסטר לחברים דמיוניים",
+      "hi": "Fosters Home for Imaginary Friends",
+      "ja": "フォスターズ・ホーム",
+      "ko": "Fosters Home for Imaginary Friends",
+      "ru": "Дом Фостерс для друзей из мира фантазий",
+      "zh": "福斯特和他虛構的朋友們的一家"
+    }
   },
   {
     "celebrity": "Recess",
@@ -726,7 +2006,23 @@
       "Its clues draw from the character shapes, comic rhythm, setting, and repeatable visual jokes.",
       "Think about the cartoon setup it builds: odd jobs, magical kingdoms, domestic chaos, or neighborhood escapades.",
       "The hint is in the recurring ingredients fans imitate: voices, catchphrases, sidekicks, villains, and impossible gags."
-    ]
+    ],
+    "tmdb_id": 1546,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Recess",
+      "ar": "الفسحة",
+      "de": "Disney's Große Pause",
+      "el": "Το Διάλειμμα",
+      "es": "Recreo",
+      "fr": "La Cour de récré",
+      "he": "הצלצול",
+      "hi": "Recess",
+      "ja": "リセス ～ぼくらの休み時間～",
+      "ko": "Recess",
+      "ru": "Переменка",
+      "zh": "淘氣校園"
+    }
   },
   {
     "celebrity": "Take Two With Phineas and Ferb",
@@ -735,7 +2031,23 @@
       "Its clues draw from the character shapes, comic rhythm, setting, and repeatable visual jokes.",
       "Think about the cartoon setup it builds: odd jobs, magical kingdoms, domestic chaos, or neighborhood escapades.",
       "The hint is in the recurring ingredients fans imitate: voices, catchphrases, sidekicks, villains, and impossible gags."
-    ]
+    ],
+    "tmdb_id": 34406,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Take Two With Phineas and Ferb",
+      "ar": "Take Two With Phineas and Ferb",
+      "de": "Take Two With Phineas and Ferb",
+      "el": "Take Two With Phineas and Ferb",
+      "es": "Toma Dos con Phineas y Ferb",
+      "fr": "Take Two With Phineas and Ferb",
+      "he": "פיניאס ופרב מארחים כוכבים",
+      "hi": "Take Two With Phineas and Ferb",
+      "ja": "フィニアスとファーブのトークしまショー",
+      "ko": "피니와 퍼브 퍼니쇼",
+      "ru": "Ток-Шоу Финеса и Ферба",
+      "zh": "飛哥與小佛會客室 (短篇)"
+    }
   },
   {
     "celebrity": "The Mask Animated Series",
@@ -744,7 +2056,23 @@
       "Its clues draw from the character shapes, comic rhythm, setting, and repeatable visual jokes.",
       "Think about the cartoon setup it builds: odd jobs, magical kingdoms, domestic chaos, or neighborhood escapades.",
       "The hint is in the recurring ingredients fans imitate: voices, catchphrases, sidekicks, villains, and impossible gags."
-    ]
+    ],
+    "tmdb_id": 9957,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "The Mask Animated Series",
+      "ar": "القناع",
+      "de": "Die Maske",
+      "el": "The Mask Animated Series",
+      "es": "La Máscara (serie animada)",
+      "fr": "The Mask : La série animée",
+      "he": "המסכה",
+      "hi": "The Mask Animated Series",
+      "ja": "The Mask Animated Series",
+      "ko": "The Mask Animated Series",
+      "ru": "Маска: мультсериал",
+      "zh": "摩登大聖動畫"
+    }
   },
   {
     "celebrity": "American Dragon Jake Long",
@@ -753,7 +2081,23 @@
       "Its clues draw from the character shapes, comic rhythm, setting, and repeatable visual jokes.",
       "Think about the cartoon setup it builds: odd jobs, magical kingdoms, domestic chaos, or neighborhood escapades.",
       "The hint is in the recurring ingredients fans imitate: voices, catchphrases, sidekicks, villains, and impossible gags."
-    ]
+    ],
+    "tmdb_id": 346,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "American Dragon Jake Long",
+      "ar": "التنين الأمريكي: جيك لونغ",
+      "de": "Disneys American Dragon",
+      "el": "Οι Περιπέτειες του Τζέικ Λονγκ",
+      "es": "Jake Long: El Dragón occidental",
+      "fr": "American Dragon: Jake Long",
+      "he": "אמריקן דרגון",
+      "hi": "American Dragon Jake Long",
+      "ja": "アメリカン・ドラゴン",
+      "ko": "American Dragon Jake Long",
+      "ru": "American Dragon Jake Long",
+      "zh": "杰克龍"
+    }
   },
   {
     "celebrity": "The Jetsons",
@@ -762,7 +2106,23 @@
       "Its clues draw from the character shapes, comic rhythm, setting, and repeatable visual jokes.",
       "Think about the cartoon setup it builds: odd jobs, magical kingdoms, domestic chaos, or neighborhood escapades.",
       "The hint is in the recurring ingredients fans imitate: voices, catchphrases, sidekicks, villains, and impossible gags."
-    ]
+    ],
+    "tmdb_id": 2362,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "The Jetsons",
+      "ar": "The Jetsons",
+      "de": "Die Jetsons",
+      "el": "Οι Τζέτσονς",
+      "es": "Los supersónicos",
+      "fr": "Les Jetson",
+      "he": "משפחת סילוני",
+      "hi": "The Jetsons",
+      "ja": "宇宙家族ジェットソン",
+      "ko": "The Jetsons",
+      "ru": "Джетсоны",
+      "zh": "傑森一家"
+    }
   },
   {
     "celebrity": "Victor and Valentino",
@@ -771,7 +2131,23 @@
       "Its clues draw from the character shapes, comic rhythm, setting, and repeatable visual jokes.",
       "Think about the cartoon setup it builds: odd jobs, magical kingdoms, domestic chaos, or neighborhood escapades.",
       "The hint is in the recurring ingredients fans imitate: voices, catchphrases, sidekicks, villains, and impossible gags."
-    ]
+    ],
+    "tmdb_id": 88786,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Victor and Valentino",
+      "ar": "Victor and Valentino",
+      "de": "Victor und Valentino",
+      "el": "Victor and Valentino",
+      "es": "Victor y Valentino",
+      "fr": "Victor et Valentino",
+      "he": "Victor and Valentino",
+      "hi": "Victor and Valentino",
+      "ja": "Victor and Valentino",
+      "ko": "빅터와 발렌티노",
+      "ru": "Victor and Valentino",
+      "zh": "维克多和瓦伦蒂诺"
+    }
   },
   {
     "celebrity": "I Am Groot",
@@ -780,7 +2156,23 @@
       "Its clues draw from the character shapes, comic rhythm, setting, and repeatable visual jokes.",
       "Think about the cartoon setup it builds: odd jobs, magical kingdoms, domestic chaos, or neighborhood escapades.",
       "The hint is in the recurring ingredients fans imitate: voices, catchphrases, sidekicks, villains, and impossible gags."
-    ]
+    ],
+    "tmdb_id": 232125,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "I Am Groot",
+      "ar": "أنا غروت",
+      "de": "Ich bin Groot",
+      "el": "I Am Groot",
+      "es": "Yo soy Groot",
+      "fr": "Je s'appelle Groot",
+      "he": "אני גרוט",
+      "hi": "I Am Groot",
+      "ja": "アイ・アム・グルート",
+      "ko": "나는 그루트다",
+      "ru": "Я есть Грут",
+      "zh": "我是樹人"
+    }
   },
   {
     "celebrity": "Invader Zim",
@@ -789,7 +2181,23 @@
       "Its clues draw from the character shapes, comic rhythm, setting, and repeatable visual jokes.",
       "Think about the cartoon setup it builds: odd jobs, magical kingdoms, domestic chaos, or neighborhood escapades.",
       "The hint is in the recurring ingredients fans imitate: voices, catchphrases, sidekicks, villains, and impossible gags."
-    ]
+    ],
+    "tmdb_id": 3793,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Invader Zim",
+      "ar": "Invader Zim",
+      "de": "Invader Zim",
+      "el": "Invader Zim",
+      "es": "Invasor Zim",
+      "fr": "Invader Zim",
+      "he": "Invader Zim",
+      "hi": "Invader Zim",
+      "ja": "インベーダー・ジム",
+      "ko": "Invader Zim",
+      "ru": "Захватчик ЗИМ",
+      "zh": "外星入侵者ZIM"
+    }
   },
   {
     "celebrity": "Chowder",
@@ -798,7 +2206,23 @@
       "Its clues draw from the character shapes, comic rhythm, setting, and repeatable visual jokes.",
       "Think about the cartoon setup it builds: odd jobs, magical kingdoms, domestic chaos, or neighborhood escapades.",
       "The hint is in the recurring ingredients fans imitate: voices, catchphrases, sidekicks, villains, and impossible gags."
-    ]
+    ],
+    "tmdb_id": 9907,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Chowder",
+      "ar": "تشاودر",
+      "de": "Chowder",
+      "el": "Chowder",
+      "es": "Chowder",
+      "fr": "Chowder",
+      "he": "Chowder",
+      "hi": "Chowder",
+      "ja": "チャウダー",
+      "ko": "Chowder",
+      "ru": "Чаудер",
+      "zh": "愛吃鬼喬達"
+    }
   },
   {
     "celebrity": "Beetlejuice",
@@ -807,7 +2231,23 @@
       "Its clues draw from the character shapes, comic rhythm, setting, and repeatable visual jokes.",
       "Think about the cartoon setup it builds: odd jobs, magical kingdoms, domestic chaos, or neighborhood escapades.",
       "The hint is in the recurring ingredients fans imitate: voices, catchphrases, sidekicks, villains, and impossible gags."
-    ]
+    ],
+    "tmdb_id": 4288,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Beetlejuice",
+      "ar": "Beetlejuice",
+      "de": "Beetlejuice - Ein außergewöhnlicher Geist",
+      "el": "Beetlejuice",
+      "es": "Bitelchús",
+      "fr": "Beetlejuice",
+      "he": "ביטלג'וס",
+      "hi": "Beetlejuice",
+      "ja": "Beetlejuice",
+      "ko": "Beetlejuice",
+      "ru": "Битлджус",
+      "zh": "Beetlejuice"
+    }
   },
   {
     "celebrity": "F Is for Family",
@@ -816,7 +2256,23 @@
       "Its clues draw from the character shapes, comic rhythm, setting, and repeatable visual jokes.",
       "Think about the cartoon setup it builds: odd jobs, magical kingdoms, domestic chaos, or neighborhood escapades.",
       "The hint is in the recurring ingredients fans imitate: voices, catchphrases, sidekicks, villains, and impossible gags."
-    ]
+    ],
+    "tmdb_id": 63522,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "F Is for Family",
+      "ar": "F Is for Family",
+      "de": "F is for Family",
+      "el": "F Is for Family",
+      "es": "F is for Family",
+      "fr": "F Is for Family",
+      "he": "משפחת מרפי",
+      "hi": "F Is for Family",
+      "ja": "FはFamilyのF",
+      "ko": "그때 그 시절 패밀리",
+      "ru": "С значит Семья",
+      "zh": "福是全家福的福"
+    }
   },
   {
     "celebrity": "Jake and the Never Land Pirates",
@@ -825,7 +2281,23 @@
       "Its clues draw from the character shapes, comic rhythm, setting, and repeatable visual jokes.",
       "Think about the cartoon setup it builds: odd jobs, magical kingdoms, domestic chaos, or neighborhood escapades.",
       "The hint is in the recurring ingredients fans imitate: voices, catchphrases, sidekicks, villains, and impossible gags."
-    ]
+    ],
+    "tmdb_id": 34891,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Jake and the Never Land Pirates",
+      "ar": "Jake and the Never Land Pirates",
+      "de": "Jake und die Nimmerland Piraten",
+      "el": "Ο Τζέικ και Οι Πειρατές της Χώρας του Ποτέ",
+      "es": "Jake and the Neverland Pirates",
+      "fr": "Jake et les Pirates du Pays imaginaire",
+      "he": "ג'ייק והפיראטים מארץ לעולם לא",
+      "hi": "Jake and the Never Land Pirates",
+      "ja": "ジェイクとネバーランドのかいぞくたち",
+      "ko": "제이크와 네버랜드 해적들",
+      "ru": "Джейк и пираты Нетландии",
+      "zh": "傑克與夢幻島海盜"
+    }
   },
   {
     "celebrity": "Barbie Life in the Dreamhouse",
@@ -834,7 +2306,23 @@
       "Its clues draw from the character shapes, comic rhythm, setting, and repeatable visual jokes.",
       "Think about the cartoon setup it builds: odd jobs, magical kingdoms, domestic chaos, or neighborhood escapades.",
       "The hint is in the recurring ingredients fans imitate: voices, catchphrases, sidekicks, villains, and impossible gags."
-    ]
+    ],
+    "tmdb_id": 61838,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Barbie Life in the Dreamhouse",
+      "ar": "Barbie Life in the Dreamhouse",
+      "de": "Barbie - Leben im Traumhaus",
+      "el": "Η Λαμπερή Ζωή Της Barbie",
+      "es": "Barbie - La casa de tus sueños",
+      "fr": "Barbie et sa maison de rêve",
+      "he": "ברבי בבית החלומות",
+      "hi": "Barbie Life in the Dreamhouse",
+      "ja": "Barbie Life in the Dreamhouse",
+      "ko": "바비의 드림하우스",
+      "ru": "Барби: жизнь в Доме мечты",
+      "zh": "芭比之夢想屋生活"
+    }
   },
   {
     "celebrity": "Aaahh Real Monsters",
@@ -843,7 +2331,23 @@
       "Its clues draw from the character shapes, comic rhythm, setting, and repeatable visual jokes.",
       "Think about the cartoon setup it builds: odd jobs, magical kingdoms, domestic chaos, or neighborhood escapades.",
       "The hint is in the recurring ingredients fans imitate: voices, catchphrases, sidekicks, villains, and impossible gags."
-    ]
+    ],
+    "tmdb_id": 2429,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Aaahh Real Monsters",
+      "ar": "آآآه!!! وحوش حقيقية",
+      "de": "Aaahh!!! Monster",
+      "el": "Ακαδημία Τεράτων",
+      "es": "Aaahh!!! Monstruos de verdad",
+      "fr": "Drôles de monstres",
+      "he": "מפלצות אמיתיות",
+      "hi": "Aaahh Real Monsters",
+      "ja": "ぎゃあ!!!リアル・モンスターズ",
+      "ko": "아! 리얼 몬스터",
+      "ru": "ААА!!! Настоящие монстры",
+      "zh": "Aaahh Real Monsters"
+    }
   },
   {
     "celebrity": "Inspector Gadget",
@@ -852,7 +2356,23 @@
       "Its clues draw from the character shapes, comic rhythm, setting, and repeatable visual jokes.",
       "Think about the cartoon setup it builds: odd jobs, magical kingdoms, domestic chaos, or neighborhood escapades.",
       "The hint is in the recurring ingredients fans imitate: voices, catchphrases, sidekicks, villains, and impossible gags."
-    ]
+    ],
+    "tmdb_id": 4035,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Inspector Gadget",
+      "ar": "المحقق غاجيت: دانيا و العم وحيد",
+      "de": "Inspector Gadget",
+      "el": "Αστυνόμος Σαΐνης",
+      "es": "El inspector Gadget",
+      "fr": "Inspecteur Gadget",
+      "he": "חוש חש הבלש",
+      "hi": "Inspector Gadget",
+      "ja": "ガジェット警部",
+      "ko": "형사 가제트",
+      "ru": "Инспектор Гаджет",
+      "zh": "神探加傑特"
+    }
   },
   {
     "celebrity": "Generator Rex",
@@ -861,7 +2381,23 @@
       "Its clues draw from the character shapes, comic rhythm, setting, and repeatable visual jokes.",
       "Think about the cartoon setup it builds: odd jobs, magical kingdoms, domestic chaos, or neighborhood escapades.",
       "The hint is in the recurring ingredients fans imitate: voices, catchphrases, sidekicks, villains, and impossible gags."
-    ]
+    ],
+    "tmdb_id": 32118,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Generator Rex",
+      "ar": "جينيريتور ريكس",
+      "de": "Generator Rex",
+      "el": "Generator Rex",
+      "es": "Generador Rex",
+      "fr": "Generator Rex",
+      "he": "ג'נרטור רקס",
+      "hi": "Generator Rex",
+      "ja": "Generator Rex",
+      "ko": "Generator Rex",
+      "ru": "Генератор Рекс",
+      "zh": "变形小雷"
+    }
   },
   {
     "celebrity": "Scavengers Reign",
@@ -870,7 +2406,23 @@
       "Its clues draw from the character shapes, comic rhythm, setting, and repeatable visual jokes.",
       "Think about the cartoon setup it builds: odd jobs, magical kingdoms, domestic chaos, or neighborhood escapades.",
       "The hint is in the recurring ingredients fans imitate: voices, catchphrases, sidekicks, villains, and impossible gags."
-    ]
+    ],
+    "tmdb_id": 204154,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Scavengers Reign",
+      "ar": "عهد الناجين",
+      "de": "Scavengers Reign",
+      "el": "Scavengers Reign",
+      "es": "Planeta de Recolectores",
+      "fr": "Scavengers Reign",
+      "he": "Scavengers Reign",
+      "hi": "Scavengers Reign",
+      "ja": "Scavengers Reign",
+      "ko": "스캐빈저스 레인",
+      "ru": "Царство падальщиков",
+      "zh": "拾荒者統治"
+    }
   },
   {
     "celebrity": "Krapopolis",
@@ -879,7 +2431,23 @@
       "Its clues draw from the character shapes, comic rhythm, setting, and repeatable visual jokes.",
       "Think about the cartoon setup it builds: odd jobs, magical kingdoms, domestic chaos, or neighborhood escapades.",
       "The hint is in the recurring ingredients fans imitate: voices, catchphrases, sidekicks, villains, and impossible gags."
-    ]
+    ],
+    "tmdb_id": 131033,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Krapopolis",
+      "ar": "Krapopolis",
+      "de": "Krapopolis",
+      "el": "Krapopolis",
+      "es": "Krapopolis",
+      "fr": "Krapopolis",
+      "he": "קראפופוליס",
+      "hi": "Krapopolis",
+      "ja": "Krapopolis",
+      "ko": "Krapopolis",
+      "ru": "Крапополис",
+      "zh": "猥城琐事"
+    }
   },
   {
     "celebrity": "The Marvelous Misadventures of Flapjack",
@@ -888,7 +2456,23 @@
       "Its clues draw from the character shapes, comic rhythm, setting, and repeatable visual jokes.",
       "Think about the cartoon setup it builds: odd jobs, magical kingdoms, domestic chaos, or neighborhood escapades.",
       "The hint is in the recurring ingredients fans imitate: voices, catchphrases, sidekicks, villains, and impossible gags."
-    ]
+    ],
+    "tmdb_id": 6673,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "The Marvelous Misadventures of Flapjack",
+      "ar": "مغامرات فلاب جاك",
+      "de": "The Marvelous Misadventures of Flapjack",
+      "el": "The Marvelous Misadventures of Flapjack",
+      "es": "Las maravillosas desventuras de Flapjack",
+      "fr": "Les Merveilleuses Mésaventures de Flapjack",
+      "he": "The Marvelous Misadventures of Flapjack",
+      "hi": "The Marvelous Misadventures of Flapjack",
+      "ja": "フラップジャック",
+      "ko": "The Marvelous Misadventures of Flapjack",
+      "ru": "Удивительные злоключения Флэпджека",
+      "zh": "傑克和鯨魚的大冒險"
+    }
   },
   {
     "celebrity": "Masters of the Universe Revelation",
@@ -897,7 +2481,23 @@
       "Its clues draw from the character shapes, comic rhythm, setting, and repeatable visual jokes.",
       "Think about the cartoon setup it builds: odd jobs, magical kingdoms, domestic chaos, or neighborhood escapades.",
       "The hint is in the recurring ingredients fans imitate: voices, catchphrases, sidekicks, villains, and impossible gags."
-    ]
+    ],
+    "tmdb_id": 96658,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Masters of the Universe Revelation",
+      "ar": "أسياد الكون: الاكتشاف",
+      "de": "Masters of the Universe Revelation",
+      "el": "Οι Κυρίαρχοι του Σύμπαντος: Αποκάλυψη",
+      "es": "Amos del Universo: Revelación",
+      "fr": "Les Maîtres de l'univers : Révélation",
+      "he": "שליטי היקום: הגילוי",
+      "hi": "Masters of the Universe Revelation",
+      "ja": "マスターズ・オブ・ユニバース: 黙示録",
+      "ko": "우주의 영웅들: 새로운 진실",
+      "ru": "Властелины вселенной: Откровение",
+      "zh": "太空超人：啟示錄"
+    }
   },
   {
     "celebrity": "The Cuphead Show",
@@ -906,7 +2506,23 @@
       "Its clues draw from the character shapes, comic rhythm, setting, and repeatable visual jokes.",
       "Think about the cartoon setup it builds: odd jobs, magical kingdoms, domestic chaos, or neighborhood escapades.",
       "The hint is in the recurring ingredients fans imitate: voices, catchphrases, sidekicks, villains, and impossible gags."
-    ]
+    ],
+    "tmdb_id": 103786,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "The Cuphead Show",
+      "ar": "مغامرات كاب هيد",
+      "de": "The Cuphead Show",
+      "el": "Το Σόου του Κάπχεντ!",
+      "es": "¡El show de Cuphead!",
+      "fr": "Cuphead : La série!",
+      "he": "‏‫המופע של קאפהד!",
+      "hi": "The Cuphead Show",
+      "ja": "ザ・カップヘッド・ショウ!",
+      "ko": "컵헤드 쇼!",
+      "ru": "Шоу Чашека!",
+      "zh": "茶杯頭冒險記"
+    }
   },
   {
     "celebrity": "Top Cat",
@@ -915,7 +2531,23 @@
       "Its clues draw from the character shapes, comic rhythm, setting, and repeatable visual jokes.",
       "Think about the cartoon setup it builds: odd jobs, magical kingdoms, domestic chaos, or neighborhood escapades.",
       "The hint is in the recurring ingredients fans imitate: voices, catchphrases, sidekicks, villains, and impossible gags."
-    ]
+    ],
+    "tmdb_id": 4232,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Top Cat",
+      "ar": "توب كات",
+      "de": "Superkater",
+      "el": "Top Cat",
+      "es": "Don Gato y su Pandilla",
+      "fr": "Le Pacha",
+      "he": "חתול בצמרת",
+      "hi": "Top Cat",
+      "ja": "Top Cat",
+      "ko": "Top Cat",
+      "ru": "Top Cat",
+      "zh": "Top Cat"
+    }
   },
   {
     "celebrity": "The Adventures of Tintin",
@@ -924,7 +2556,23 @@
       "Its clues draw from the character shapes, comic rhythm, setting, and repeatable visual jokes.",
       "Think about the cartoon setup it builds: odd jobs, magical kingdoms, domestic chaos, or neighborhood escapades.",
       "The hint is in the recurring ingredients fans imitate: voices, catchphrases, sidekicks, villains, and impossible gags."
-    ]
+    ],
+    "tmdb_id": 1570,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "The Adventures of Tintin",
+      "ar": "تان تان",
+      "de": "Tim & Struppi",
+      "el": "Οι περιπέτειες του Τεντέν",
+      "es": "Las aventuras de Tintín",
+      "fr": "Les aventures de Tintin",
+      "he": "הרפתקאות טינטין",
+      "hi": "The Adventures of Tintin",
+      "ja": "タンタンの冒険",
+      "ko": "The Adventures of Tintin",
+      "ru": "Приключения Тинтина",
+      "zh": "丁丁历险记"
+    }
   },
   {
     "celebrity": "Sonic Boom",
@@ -933,7 +2581,23 @@
       "Its clues draw from the character shapes, comic rhythm, setting, and repeatable visual jokes.",
       "Think about the cartoon setup it builds: odd jobs, magical kingdoms, domestic chaos, or neighborhood escapades.",
       "The hint is in the recurring ingredients fans imitate: voices, catchphrases, sidekicks, villains, and impossible gags."
-    ]
+    ],
+    "tmdb_id": 62211,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Sonic Boom",
+      "ar": "سونيك بوم",
+      "de": "Sonic Boom",
+      "el": "Σόνικ Μπουμ",
+      "es": "Sonic Boom",
+      "fr": "Sonic Boom",
+      "he": "סוניק בום",
+      "hi": "Sonic Boom",
+      "ja": "ソニックトゥーン",
+      "ko": "소닉 붐",
+      "ru": "Соник Бум",
+      "zh": "索尼克音爆"
+    }
   },
   {
     "celebrity": "Bubble Guppies",
@@ -942,7 +2606,23 @@
       "Its clues draw from the character shapes, comic rhythm, setting, and repeatable visual jokes.",
       "Think about the cartoon setup it builds: odd jobs, magical kingdoms, domestic chaos, or neighborhood escapades.",
       "The hint is in the recurring ingredients fans imitate: voices, catchphrases, sidekicks, villains, and impossible gags."
-    ]
+    ],
+    "tmdb_id": 39107,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Bubble Guppies",
+      "ar": "Bubble Guppies",
+      "de": "Bubble Guppies",
+      "el": "Bubble Guppies",
+      "es": "Bubble Guppies",
+      "fr": "Bubulle Guppies",
+      "he": "חבורת הגופים",
+      "hi": "Bubble Guppies",
+      "ja": "Bubble Guppies",
+      "ko": "버블버블 인어친구들",
+      "ru": "Гуппи и Пузырики",
+      "zh": "泡泡孔雀魚"
+    }
   },
   {
     "celebrity": "The Garfield Show",
@@ -951,7 +2631,23 @@
       "Its clues draw from the character shapes, comic rhythm, setting, and repeatable visual jokes.",
       "Think about the cartoon setup it builds: odd jobs, magical kingdoms, domestic chaos, or neighborhood escapades.",
       "The hint is in the recurring ingredients fans imitate: voices, catchphrases, sidekicks, villains, and impossible gags."
-    ]
+    ],
+    "tmdb_id": 18352,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "The Garfield Show",
+      "ar": "مغامرات غارفيلد",
+      "de": "Garfield",
+      "el": "Το Σόου του Γκάρφιλντ",
+      "es": "El show de Garfield",
+      "fr": "Garfield & Cie",
+      "he": "גארפילד שואו",
+      "hi": "The Garfield Show",
+      "ja": "The Garfield Show",
+      "ko": "가필드 쇼",
+      "ru": "The Garfield Show",
+      "zh": "加菲貓的幸福生活"
+    }
   },
   {
     "celebrity": "Silverhawks",
@@ -960,7 +2656,23 @@
       "Its clues draw from the character shapes, comic rhythm, setting, and repeatable visual jokes.",
       "Think about the cartoon setup it builds: odd jobs, magical kingdoms, domestic chaos, or neighborhood escapades.",
       "The hint is in the recurring ingredients fans imitate: voices, catchphrases, sidekicks, villains, and impossible gags."
-    ]
+    ],
+    "tmdb_id": 12504,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Silverhawks",
+      "ar": "سيلفر هوكس",
+      "de": "Silverhawks",
+      "el": "Ασημένια Γεράκια",
+      "es": "Los Halcones Galacticos",
+      "fr": "SilverHawks",
+      "he": "נצי הכסף",
+      "hi": "Silverhawks",
+      "ja": "Silverhawks",
+      "ko": "Silverhawks",
+      "ru": "Серебряные ястребы",
+      "zh": "Silverhawks"
+    }
   },
   {
     "celebrity": "Pound Puppies",
@@ -969,7 +2681,23 @@
       "Its clues draw from the character shapes, comic rhythm, setting, and repeatable visual jokes.",
       "Think about the cartoon setup it builds: odd jobs, magical kingdoms, domestic chaos, or neighborhood escapades.",
       "The hint is in the recurring ingredients fans imitate: voices, catchphrases, sidekicks, villains, and impossible gags."
-    ]
+    ],
+    "tmdb_id": 33955,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Pound Puppies",
+      "ar": "Pound Puppies",
+      "de": "Pound Puppies – Der Pfotenclub",
+      "el": "Pound Puppies",
+      "es": "Pound Puppies",
+      "fr": "Les Puppies : l'agence canine",
+      "he": "פאונד פאפיס",
+      "hi": "Pound Puppies",
+      "ja": "Pound Puppies",
+      "ko": "Pound Puppies",
+      "ru": "Щенки из приюта 17",
+      "zh": "小狗邦德"
+    }
   },
   {
     "celebrity": "Maya and the Three",
@@ -978,7 +2706,23 @@
       "Its clues draw from the character shapes, comic rhythm, setting, and repeatable visual jokes.",
       "Think about the cartoon setup it builds: odd jobs, magical kingdoms, domestic chaos, or neighborhood escapades.",
       "The hint is in the recurring ingredients fans imitate: voices, catchphrases, sidekicks, villains, and impossible gags."
-    ]
+    ],
+    "tmdb_id": 132141,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Maya and the Three",
+      "ar": "مايا والمحاربون",
+      "de": "Maya und die Drei",
+      "el": "Η Μάγια και οι Τρεις",
+      "es": "Maya and the Three",
+      "fr": "Maya, princesse guerrière",
+      "he": "מאיה ושלושת הלוחמים",
+      "hi": "Maya and the Three",
+      "ja": "プリンセス・マヤと3人の戦士たち",
+      "ko": "마야와 3인의 용사",
+      "ru": "Майя и три воина",
+      "zh": "瑪雅與三劍客"
+    }
   },
   {
     "celebrity": "Scooby Doo and Scrappy Doo",
@@ -987,7 +2731,23 @@
       "Its clues draw from the character shapes, comic rhythm, setting, and repeatable visual jokes.",
       "Think about the cartoon setup it builds: odd jobs, magical kingdoms, domestic chaos, or neighborhood escapades.",
       "The hint is in the recurring ingredients fans imitate: voices, catchphrases, sidekicks, villains, and impossible gags."
-    ]
+    ],
+    "tmdb_id": 6005,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Scooby Doo and Scrappy Doo",
+      "ar": "Scooby Doo and Scrappy Doo",
+      "de": "Scooby und Scrappy-Doo",
+      "el": "Ο Σκούμπι και ο Σκράπι-Ντου",
+      "es": "El show de Scooby-Doo y Scrappy-Doo",
+      "fr": "Scooby-Doo et Scrappy-Doo / Les Voyages Fantômatiques de Scooby-Doo",
+      "he": "הרפתקאות סקובי-דו וסקראפי-דו",
+      "hi": "Scooby Doo and Scrappy Doo",
+      "ja": "Scooby Doo and Scrappy Doo",
+      "ko": "스쿠비-두 앤 스크레피-두",
+      "ru": "Скуби и Скрэппи",
+      "zh": "叔比狗與小皮"
+    }
   },
   {
     "celebrity": "Caillou",
@@ -996,7 +2756,23 @@
       "Its clues draw from the character shapes, comic rhythm, setting, and repeatable visual jokes.",
       "Think about the cartoon setup it builds: odd jobs, magical kingdoms, domestic chaos, or neighborhood escapades.",
       "The hint is in the recurring ingredients fans imitate: voices, catchphrases, sidekicks, villains, and impossible gags."
-    ]
+    ],
+    "tmdb_id": 3218,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Caillou",
+      "ar": "Caillou",
+      "de": "Caillou",
+      "el": "Καγιού",
+      "es": "Caillou",
+      "fr": "Caillou",
+      "he": "Caillou",
+      "hi": "Caillou",
+      "ja": "Caillou",
+      "ko": "Caillou",
+      "ru": "Caillou",
+      "zh": "卡由"
+    }
   },
   {
     "celebrity": "Kid Vs Kat",
@@ -1005,7 +2781,23 @@
       "Its clues draw from the character shapes, comic rhythm, setting, and repeatable visual jokes.",
       "Think about the cartoon setup it builds: odd jobs, magical kingdoms, domestic chaos, or neighborhood escapades.",
       "The hint is in the recurring ingredients fans imitate: voices, catchphrases, sidekicks, villains, and impossible gags."
-    ]
+    ],
+    "tmdb_id": 17463,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Kid Vs Kat",
+      "ar": "طفل ضد قط",
+      "de": "Coop gegen Kat",
+      "el": "Kid Vs Kat",
+      "es": "Kid Vs. Kat",
+      "fr": "Le diabolique Monsieur Kat",
+      "he": "קיד וקאט",
+      "hi": "Kid Vs Kat",
+      "ja": "Kid Vs Kat",
+      "ko": "Kid Vs Kat",
+      "ru": "Кид против Кэт",
+      "zh": "Kid Vs Kat"
+    }
   },
   {
     "celebrity": "Wow Wow Wubbzy",
@@ -1014,7 +2806,23 @@
       "Its clues draw from the character shapes, comic rhythm, setting, and repeatable visual jokes.",
       "Think about the cartoon setup it builds: odd jobs, magical kingdoms, domestic chaos, or neighborhood escapades.",
       "The hint is in the recurring ingredients fans imitate: voices, catchphrases, sidekicks, villains, and impossible gags."
-    ]
+    ],
+    "tmdb_id": 1346,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Wow Wow Wubbzy",
+      "ar": "Wow Wow Wubbzy",
+      "de": "Wow Wow Wubbzy",
+      "el": "Wow Wow Wubbzy",
+      "es": "Wow Wow Wubbzy",
+      "fr": "Wow Wow Wubbzy",
+      "he": "Wow Wow Wubbzy",
+      "hi": "Wow Wow Wubbzy",
+      "ja": "Wow Wow Wubbzy",
+      "ko": "Wow Wow Wubbzy",
+      "ru": "Wow Wow Wubbzy",
+      "zh": "Wow Wow Wubbzy"
+    }
   },
   {
     "celebrity": "Apex Legends",
@@ -1023,7 +2831,23 @@
       "Its clues draw from the character shapes, comic rhythm, setting, and repeatable visual jokes.",
       "Think about the cartoon setup it builds: odd jobs, magical kingdoms, domestic chaos, or neighborhood escapades.",
       "The hint is in the recurring ingredients fans imitate: voices, catchphrases, sidekicks, villains, and impossible gags."
-    ]
+    ],
+    "tmdb_id": 299141,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Apex Legends",
+      "ar": "Apex Legends",
+      "de": "Apex Legends",
+      "el": "Apex Legends",
+      "es": "Apex Legends",
+      "fr": "Apex Legends",
+      "he": "Apex Legends",
+      "hi": "Apex Legends",
+      "ja": "Apex Legends",
+      "ko": "Apex Legends",
+      "ru": "Apex Legends",
+      "zh": "Apex Legends"
+    }
   },
   {
     "celebrity": "Beast Wars Transformers",
@@ -1032,7 +2856,23 @@
       "Its clues draw from the character shapes, comic rhythm, setting, and repeatable visual jokes.",
       "Think about the cartoon setup it builds: odd jobs, magical kingdoms, domestic chaos, or neighborhood escapades.",
       "The hint is in the recurring ingredients fans imitate: voices, catchphrases, sidekicks, villains, and impossible gags."
-    ]
+    ],
+    "tmdb_id": 958,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Beast Wars Transformers",
+      "ar": "Beast Wars Transformers",
+      "de": "Beast Wars Transformers",
+      "el": "Beast Wars Transformers",
+      "es": "Transformers: La Guerra de Bestias",
+      "fr": "Animutants",
+      "he": "Beast Wars Transformers",
+      "hi": "Beast Wars Transformers",
+      "ja": "ビーストウォーズ超生命体トランスフォーマー",
+      "ko": "비스트 워즈",
+      "ru": "Битвы Зверей",
+      "zh": "特種變形勇士"
+    }
   },
   {
     "celebrity": "Octonauts",
@@ -1041,7 +2881,23 @@
       "Its clues draw from the character shapes, comic rhythm, setting, and repeatable visual jokes.",
       "Think about the cartoon setup it builds: odd jobs, magical kingdoms, domestic chaos, or neighborhood escapades.",
       "The hint is in the recurring ingredients fans imitate: voices, catchphrases, sidekicks, villains, and impossible gags."
-    ]
+    ],
+    "tmdb_id": 37472,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Octonauts",
+      "ar": "Octonauts",
+      "de": "Die Oktonauten",
+      "el": "Χταποδοναύτες",
+      "es": "Octonautas",
+      "fr": "Les Octonauts",
+      "he": "Octonauts",
+      "hi": "Octonauts",
+      "ja": "Octonauts",
+      "ko": "바다 탐험대 옥토넛",
+      "ru": "Октонавты",
+      "zh": "海底小纵队"
+    }
   },
   {
     "celebrity": "Big City Greens",
@@ -1050,7 +2906,23 @@
       "Its clues draw from the character shapes, comic rhythm, setting, and repeatable visual jokes.",
       "Think about the cartoon setup it builds: odd jobs, magical kingdoms, domestic chaos, or neighborhood escapades.",
       "The hint is in the recurring ingredients fans imitate: voices, catchphrases, sidekicks, villains, and impossible gags."
-    ]
+    ],
+    "tmdb_id": 80587,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Big City Greens",
+      "ar": "Big City Greens",
+      "de": "Big City Greens",
+      "el": "Οι Γκριν στην Μεγαλούπολη",
+      "es": "Los vecinos Green",
+      "fr": "Les Green à Big City",
+      "he": "הגרינים בעיר הגדולה",
+      "hi": "Big City Greens",
+      "ja": "ビッグシティ・グリーン",
+      "ko": "빅 시티 그린",
+      "ru": "Семейка Грин в городе",
+      "zh": "格林一家進城記"
+    }
   },
   {
     "celebrity": "Infinity Train",
@@ -1059,7 +2931,23 @@
       "Its clues draw from the character shapes, comic rhythm, setting, and repeatable visual jokes.",
       "Think about the cartoon setup it builds: odd jobs, magical kingdoms, domestic chaos, or neighborhood escapades.",
       "The hint is in the recurring ingredients fans imitate: voices, catchphrases, sidekicks, villains, and impossible gags."
-    ]
+    ],
+    "tmdb_id": 91425,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Infinity Train",
+      "ar": "Infinity Train",
+      "de": "Infinity Train",
+      "el": "Infinity Train",
+      "es": "El tren infinito",
+      "fr": "Infinity Train",
+      "he": "רכבת האינסוף",
+      "hi": "Infinity Train",
+      "ja": "Infinity Train",
+      "ko": "인피니티 트레인",
+      "ru": "Бесконечный поезд",
+      "zh": "無盡列車"
+    }
   },
   {
     "celebrity": "Baby Looney Tunes",
@@ -1068,7 +2956,23 @@
       "Its clues draw from the character shapes, comic rhythm, setting, and repeatable visual jokes.",
       "Think about the cartoon setup it builds: odd jobs, magical kingdoms, domestic chaos, or neighborhood escapades.",
       "The hint is in the recurring ingredients fans imitate: voices, catchphrases, sidekicks, villains, and impossible gags."
-    ]
+    ],
+    "tmdb_id": 670,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Baby Looney Tunes",
+      "ar": "Baby Looney Tunes",
+      "de": "Baby Looney Tunes",
+      "el": "Baby Looney Tunes",
+      "es": "Los Pequeños Looney Tunes",
+      "fr": "Les Bébés Looney Tunes",
+      "he": "בייבי לוני טונס",
+      "hi": "Baby Looney Tunes",
+      "ja": "Baby Looney Tunes",
+      "ko": "Baby Looney Tunes",
+      "ru": "Бэби Луни Тюнз",
+      "zh": "寶貝樂一通"
+    }
   },
   {
     "celebrity": "Rocket Power",
@@ -1077,7 +2981,23 @@
       "Its clues draw from the character shapes, comic rhythm, setting, and repeatable visual jokes.",
       "Think about the cartoon setup it builds: odd jobs, magical kingdoms, domestic chaos, or neighborhood escapades.",
       "The hint is in the recurring ingredients fans imitate: voices, catchphrases, sidekicks, villains, and impossible gags."
-    ]
+    ],
+    "tmdb_id": 2009,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Rocket Power",
+      "ar": "مغامرات الأصدقاء الأربعة",
+      "de": "Rocket Power",
+      "el": "Rocket Power",
+      "es": "Rocket Power",
+      "fr": "Rocket Power",
+      "he": "רוקט פאוור",
+      "hi": "Rocket Power",
+      "ja": "ロケット・パワー",
+      "ko": "Rocket Power",
+      "ru": "Ракетная мощь",
+      "zh": "Rocket Power"
+    }
   },
   {
     "celebrity": "Dawn of the Croods",
@@ -1086,7 +3006,23 @@
       "Its clues draw from the character shapes, comic rhythm, setting, and repeatable visual jokes.",
       "Think about the cartoon setup it builds: odd jobs, magical kingdoms, domestic chaos, or neighborhood escapades.",
       "The hint is in the recurring ingredients fans imitate: voices, catchphrases, sidekicks, villains, and impossible gags."
-    ]
+    ],
+    "tmdb_id": 64783,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Dawn of the Croods",
+      "ar": "بدايات ال كروودز",
+      "de": "Wir sind die Croods!",
+      "el": "Η Αυγή των Κρουντς",
+      "es": "El amanecer de los Croods",
+      "fr": "Les Croods : Origines",
+      "he": "עידן הקרודים",
+      "hi": "Dawn of the Croods",
+      "ja": "クルッズの夜明け",
+      "ko": "못 말리는 크루즈 패밀리",
+      "ru": "Семейка Крудс. Начало",
+      "zh": "瘋狂原始人：歡樂登場"
+    }
   },
   {
     "celebrity": "Villainous",
@@ -1095,7 +3031,23 @@
       "Its clues draw from the character shapes, comic rhythm, setting, and repeatable visual jokes.",
       "Think about the cartoon setup it builds: odd jobs, magical kingdoms, domestic chaos, or neighborhood escapades.",
       "The hint is in the recurring ingredients fans imitate: voices, catchphrases, sidekicks, villains, and impossible gags."
-    ]
+    ],
+    "tmdb_id": 98214,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Villainous",
+      "ar": "Villainous",
+      "de": "Villainous",
+      "el": "Villainous",
+      "es": "Villainous",
+      "fr": "Villainous",
+      "he": "Villainous",
+      "hi": "Villainous",
+      "ja": "Villainous",
+      "ko": "비쟈노스",
+      "ru": "Villainous",
+      "zh": "反派本色"
+    }
   },
   {
     "celebrity": "Rockos Modern Life",
@@ -1104,7 +3056,23 @@
       "Its clues draw from the character shapes, comic rhythm, setting, and repeatable visual jokes.",
       "Think about the cartoon setup it builds: odd jobs, magical kingdoms, domestic chaos, or neighborhood escapades.",
       "The hint is in the recurring ingredients fans imitate: voices, catchphrases, sidekicks, villains, and impossible gags."
-    ]
+    ],
+    "tmdb_id": 657,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Rockos Modern Life",
+      "ar": "Rockos Modern Life",
+      "de": "Rockos modernes Leben",
+      "el": "Η Νέα Ζωή του Ρόκο",
+      "es": "La vida moderna de Rocko",
+      "fr": "Rockos Modern Life",
+      "he": "החיים המודרנים של רוקו",
+      "hi": "Rockos Modern Life",
+      "ja": "Rockos Modern Life",
+      "ko": "Rockos Modern Life",
+      "ru": "Кенгуренок Рокко",
+      "zh": "Rockos Modern Life"
+    }
   },
   {
     "celebrity": "The Patrick Star Show",
@@ -1113,7 +3081,23 @@
       "Its clues draw from the character shapes, comic rhythm, setting, and repeatable visual jokes.",
       "Think about the cartoon setup it builds: odd jobs, magical kingdoms, domestic chaos, or neighborhood escapades.",
       "The hint is in the recurring ingredients fans imitate: voices, catchphrases, sidekicks, villains, and impossible gags."
-    ]
+    ],
+    "tmdb_id": 126824,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "The Patrick Star Show",
+      "ar": "The Patrick Star Show",
+      "de": "Die Patrick Star Show",
+      "el": "The Patrick Star Show",
+      "es": "El Show de Patricio Estrella",
+      "fr": "Patrick Super Star",
+      "he": "המופע של פטריק",
+      "hi": "The Patrick Star Show",
+      "ja": "パトリック・スター・ショー",
+      "ko": "뚱이쇼",
+      "ru": "Шоу Патрика Стара",
+      "zh": "派大星秀"
+    }
   },
   {
     "celebrity": "All Hail King Julien",
@@ -1122,7 +3106,23 @@
       "Its clues draw from the character shapes, comic rhythm, setting, and repeatable visual jokes.",
       "Think about the cartoon setup it builds: odd jobs, magical kingdoms, domestic chaos, or neighborhood escapades.",
       "The hint is in the recurring ingredients fans imitate: voices, catchphrases, sidekicks, villains, and impossible gags."
-    ]
+    ],
+    "tmdb_id": 61751,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "All Hail King Julien",
+      "ar": "الكل يحيّي الملك جوليان",
+      "de": "King Julien",
+      "el": "Ο Βασιλιάς Τζούλιαν",
+      "es": "Viva el rey Julien",
+      "fr": "Roi Julian! L'élu des lémurs",
+      "he": "ג׳וליאן המלך",
+      "hi": "All Hail King Julien",
+      "ja": "バンザイ! キング・ジュリアン",
+      "ko": "줄리안 대왕 만세",
+      "ru": "Да здравствует король Джулиан",
+      "zh": "朱利安国王万岁"
+    }
   },
   {
     "celebrity": "Uncle Grandpa",
@@ -1131,7 +3131,23 @@
       "Its clues draw from the character shapes, comic rhythm, setting, and repeatable visual jokes.",
       "Think about the cartoon setup it builds: odd jobs, magical kingdoms, domestic chaos, or neighborhood escapades.",
       "The hint is in the recurring ingredients fans imitate: voices, catchphrases, sidekicks, villains, and impossible gags."
-    ]
+    ],
+    "tmdb_id": 47035,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Uncle Grandpa",
+      "ar": "العم جدو",
+      "de": "Uncle Grandpa",
+      "el": "Uncle Grandpa",
+      "es": "Tío Grandpa",
+      "fr": "Oncle Grandpa",
+      "he": "דוד סבא",
+      "hi": "Uncle Grandpa",
+      "ja": "Uncle Grandpa",
+      "ko": "엉클 그랜파",
+      "ru": "Дядя Деда",
+      "zh": "天才阿公"
+    }
   },
   {
     "celebrity": "Rock Paper Scissors",
@@ -1140,7 +3156,23 @@
       "Its clues draw from the character shapes, comic rhythm, setting, and repeatable visual jokes.",
       "Think about the cartoon setup it builds: odd jobs, magical kingdoms, domestic chaos, or neighborhood escapades.",
       "The hint is in the recurring ingredients fans imitate: voices, catchphrases, sidekicks, villains, and impossible gags."
-    ]
+    ],
+    "tmdb_id": 204024,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Rock Paper Scissors",
+      "ar": "Rock Paper Scissors",
+      "de": "Schere, Stein, Papier",
+      "el": "Rock Paper Scissors",
+      "es": "Piedra, Papel, Tijera",
+      "fr": "Pierre, Feuille, Ciseaux",
+      "he": "אבן נייר ומספריים",
+      "hi": "Rock Paper Scissors",
+      "ja": "Rock Paper Scissors",
+      "ko": "Rock Paper Scissors",
+      "ru": "Камень, ножницы, бумага",
+      "zh": "Rock Paper Scissors"
+    }
   },
   {
     "celebrity": "Dragons the Nine Realms",
@@ -1149,7 +3181,23 @@
       "Its clues draw from the character shapes, comic rhythm, setting, and repeatable visual jokes.",
       "Think about the cartoon setup it builds: odd jobs, magical kingdoms, domestic chaos, or neighborhood escapades.",
       "The hint is in the recurring ingredients fans imitate: voices, catchphrases, sidekicks, villains, and impossible gags."
-    ]
+    ],
+    "tmdb_id": 136322,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Dragons the Nine Realms",
+      "ar": "التنانين: العوالم التسعة",
+      "de": "Dragons - Die 9 Welten",
+      "el": "Dragons the Nine Realms",
+      "es": "Dragones: Los Nueve Reinos",
+      "fr": "Dragons : les neuf royaumes",
+      "he": "דרקונים: תשע הממלכות",
+      "hi": "Dragons the Nine Realms",
+      "ja": "Dragons the Nine Realms",
+      "ko": "드래곤 길들이기: 9개의 왕국",
+      "ru": "Драконы: Девять миров",
+      "zh": "龍族：九界傳奇"
+    }
   },
   {
     "celebrity": "Common Side Effects",
@@ -1158,7 +3206,23 @@
       "Its clues draw from the character shapes, comic rhythm, setting, and repeatable visual jokes.",
       "Think about the cartoon setup it builds: odd jobs, magical kingdoms, domestic chaos, or neighborhood escapades.",
       "The hint is in the recurring ingredients fans imitate: voices, catchphrases, sidekicks, villains, and impossible gags."
-    ]
+    ],
+    "tmdb_id": 228878,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Common Side Effects",
+      "ar": "الآثار الجانبية الشائعة",
+      "de": "Common Side Effects",
+      "el": "Common Side Effects",
+      "es": "Efectos secundarios",
+      "fr": "Common Side Effects",
+      "he": "תופעות לוואי שכיחות",
+      "hi": "Common Side Effects",
+      "ja": "Common Side Effects",
+      "ko": "Common Side Effects",
+      "ru": "Частые побочные явления",
+      "zh": "常見副作用"
+    }
   },
   {
     "celebrity": "Duncanville",
@@ -1167,7 +3231,23 @@
       "Its clues draw from the character shapes, comic rhythm, setting, and repeatable visual jokes.",
       "Think about the cartoon setup it builds: odd jobs, magical kingdoms, domestic chaos, or neighborhood escapades.",
       "The hint is in the recurring ingredients fans imitate: voices, catchphrases, sidekicks, villains, and impossible gags."
-    ]
+    ],
+    "tmdb_id": 93292,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Duncanville",
+      "ar": "دانكانفيل",
+      "de": "Duncanville",
+      "el": "Duncanville",
+      "es": "Duncanville",
+      "fr": "Duncanville",
+      "he": "דאנקנוויל",
+      "hi": "Duncanville",
+      "ja": "Duncanville",
+      "ko": "Duncanville",
+      "ru": "Дунканвилль",
+      "zh": "鄧肯小鎮"
+    }
   },
   {
     "celebrity": "Total Drama Island",
@@ -1176,7 +3256,23 @@
       "Its clues draw from the character shapes, comic rhythm, setting, and repeatable visual jokes.",
       "Think about the cartoon setup it builds: odd jobs, magical kingdoms, domestic chaos, or neighborhood escapades.",
       "The hint is in the recurring ingredients fans imitate: voices, catchphrases, sidekicks, villains, and impossible gags."
-    ]
+    ],
+    "tmdb_id": 6618,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Total Drama Island",
+      "ar": "توتال دراما آيلاند",
+      "de": "Total Drama Island",
+      "el": "Το Απόλυτο Δράμα",
+      "es": "Isla del drama",
+      "fr": "L'île des Défis extrêmes",
+      "he": "אי שרדות",
+      "hi": "Total Drama Island",
+      "ja": "トータル・ドラマ・アイランド",
+      "ko": "Total Drama Island",
+      "ru": "Остров отчаянных героев",
+      "zh": "孤島生存大亂鬥"
+    }
   },
   {
     "celebrity": "This World Cant Tear Me Down",
@@ -1185,7 +3281,23 @@
       "Its clues draw from the character shapes, comic rhythm, setting, and repeatable visual jokes.",
       "Think about the cartoon setup it builds: odd jobs, magical kingdoms, domestic chaos, or neighborhood escapades.",
       "The hint is in the recurring ingredients fans imitate: voices, catchphrases, sidekicks, villains, and impossible gags."
-    ]
+    ],
+    "tmdb_id": 214603,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "This World Cant Tear Me Down",
+      "ar": "This World Cant Tear Me Down",
+      "de": "This World Cant Tear Me Down",
+      "el": "Αυτός ο Κόσμος δεν θα με Κάνει Κακό",
+      "es": "Este mundo no me hará mala persona",
+      "fr": "Ce monde ne m'aura pas",
+      "he": "לא נכנע",
+      "hi": "This World Cant Tear Me Down",
+      "ja": "This World Cant Tear Me Down",
+      "ko": "세상이 이래도 난 끄떡없어",
+      "ru": "Этому миру меня не сломить",
+      "zh": "世界很壞我不壞"
+    }
   },
   {
     "celebrity": "Dungeons Dragons",
@@ -1194,7 +3306,23 @@
       "Its clues draw from the character shapes, comic rhythm, setting, and repeatable visual jokes.",
       "Think about the cartoon setup it builds: odd jobs, magical kingdoms, domestic chaos, or neighborhood escapades.",
       "The hint is in the recurring ingredients fans imitate: voices, catchphrases, sidekicks, villains, and impossible gags."
-    ]
+    ],
+    "tmdb_id": 553,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Dungeons Dragons",
+      "ar": "Dungeons Dragons",
+      "de": "Dungeons and Dragons",
+      "el": "Dungeons Dragons",
+      "es": "Calabozos y Dragones",
+      "fr": "Donjons et Dragons - Le Sourire du dragon",
+      "he": "מבוכים ודרקונים",
+      "hi": "Dungeons Dragons",
+      "ja": "Dungeons Dragons",
+      "ko": "Dungeons Dragons",
+      "ru": "Подземелье Драконов",
+      "zh": "歸鄉歷險記"
+    }
   },
   {
     "celebrity": "Felix the Cat",
@@ -1203,7 +3331,23 @@
       "Its clues draw from the character shapes, comic rhythm, setting, and repeatable visual jokes.",
       "Think about the cartoon setup it builds: odd jobs, magical kingdoms, domestic chaos, or neighborhood escapades.",
       "The hint is in the recurring ingredients fans imitate: voices, catchphrases, sidekicks, villains, and impossible gags."
-    ]
+    ],
+    "tmdb_id": 101512,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Felix the Cat",
+      "ar": "Felix the Cat",
+      "de": "Felix the Cat",
+      "el": "Φελίξ ο γάτος",
+      "es": "El gato Félix",
+      "fr": "Félix Le Chat",
+      "he": "פליקס החתול",
+      "hi": "Felix the Cat",
+      "ja": "Felix the Cat",
+      "ko": "Felix the Cat",
+      "ru": "Felix the Cat",
+      "zh": "菲利克斯猫"
+    }
   },
   {
     "celebrity": "Madagascar a Little Wild",
@@ -1212,7 +3356,23 @@
       "Its clues draw from the character shapes, comic rhythm, setting, and repeatable visual jokes.",
       "Think about the cartoon setup it builds: odd jobs, magical kingdoms, domestic chaos, or neighborhood escapades.",
       "The hint is in the recurring ingredients fans imitate: voices, catchphrases, sidekicks, villains, and impossible gags."
-    ]
+    ],
+    "tmdb_id": 109330,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Madagascar a Little Wild",
+      "ar": "Madagascar a Little Wild",
+      "de": "Madagascar – Die kleine Wildnis",
+      "el": "Madagascar a Little Wild",
+      "es": "Madagascar: Algo Salvaje",
+      "fr": "Madagascar : la savane en délire",
+      "he": "מדגסקר: קטן ופראי",
+      "hi": "Madagascar a Little Wild",
+      "ja": "ちびっこマダガスカル",
+      "ko": "마다가스카: 리틀 와일드",
+      "ru": "Мадагаскар: Маленькие и дикие",
+      "zh": "馬達加斯加：小小狂野"
+    }
   },
   {
     "celebrity": "Mad",
@@ -1221,7 +3381,23 @@
       "Its clues draw from the character shapes, comic rhythm, setting, and repeatable visual jokes.",
       "Think about the cartoon setup it builds: odd jobs, magical kingdoms, domestic chaos, or neighborhood escapades.",
       "The hint is in the recurring ingredients fans imitate: voices, catchphrases, sidekicks, villains, and impossible gags."
-    ]
+    ],
+    "tmdb_id": 33428,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Mad",
+      "ar": "Mad",
+      "de": "Mad",
+      "el": "Mad",
+      "es": "Mad",
+      "fr": "Mad",
+      "he": "מאד",
+      "hi": "Mad",
+      "ja": "Mad",
+      "ko": "Mad",
+      "ru": "Mad",
+      "zh": "瘋狂逸事"
+    }
   },
   {
     "celebrity": "Star Wars Young Jedi Adventures",
@@ -1230,7 +3406,23 @@
       "Its clues draw from the character shapes, comic rhythm, setting, and repeatable visual jokes.",
       "Think about the cartoon setup it builds: odd jobs, magical kingdoms, domestic chaos, or neighborhood escapades.",
       "The hint is in the recurring ingredients fans imitate: voices, catchphrases, sidekicks, villains, and impossible gags."
-    ]
+    ],
+    "tmdb_id": 202998,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Star Wars Young Jedi Adventures",
+      "ar": "Star Wars Young Jedi Adventures",
+      "de": "Star Wars: Die Abenteuer der jungen Jedi",
+      "el": "Ο Πόλεμος των Άστρων: Οι Περιπέτειες των Μικρών Τζεντάι",
+      "es": "Star Wars: Las aventuras de jóvenes Jedi",
+      "fr": "Star Wars : Les Aventures des Petits Jedi",
+      "he": "מלחמת הכוכבים: הרפתקאות של ג'דיי צעירים",
+      "hi": "Star Wars Young Jedi Adventures",
+      "ja": "スター・ウォーズ : ヤング・ジェダイ・アドベンチャー",
+      "ko": "스타워즈: 어린 제다이의 모험",
+      "ru": "Звёздные Войны: Приключения Юных Джедаев",
+      "zh": "星球大战：少年绝地历险记"
+    }
   },
   {
     "celebrity": "Dennis the Menace",
@@ -1239,7 +3431,23 @@
       "Its clues draw from the character shapes, comic rhythm, setting, and repeatable visual jokes.",
       "Think about the cartoon setup it builds: odd jobs, magical kingdoms, domestic chaos, or neighborhood escapades.",
       "The hint is in the recurring ingredients fans imitate: voices, catchphrases, sidekicks, villains, and impossible gags."
-    ]
+    ],
+    "tmdb_id": 9985,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Dennis the Menace",
+      "ar": "Dennis the Menace",
+      "de": "Dennis – Der Quälgeist",
+      "el": "Ντέννις, ο Τρομερός",
+      "es": "Daniel el travieso",
+      "fr": "Denis la petite peste",
+      "he": "Dennis the Menace",
+      "hi": "Dennis the Menace",
+      "ja": "Dennis the Menace",
+      "ko": "Dennis the Menace",
+      "ru": "Деннис-мучитель",
+      "zh": "Dennis the Menace"
+    }
   },
   {
     "celebrity": "The Great North",
@@ -1248,7 +3456,23 @@
       "Its clues draw from the character shapes, comic rhythm, setting, and repeatable visual jokes.",
       "Think about the cartoon setup it builds: odd jobs, magical kingdoms, domestic chaos, or neighborhood escapades.",
       "The hint is in the recurring ingredients fans imitate: voices, catchphrases, sidekicks, villains, and impossible gags."
-    ]
+    ],
+    "tmdb_id": 93221,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "The Great North",
+      "ar": "The Great North",
+      "de": "The Great North",
+      "el": "The Great North",
+      "es": "The Great North",
+      "fr": "The Great North",
+      "he": "הצפון הגדול",
+      "hi": "The Great North",
+      "ja": "The Great North",
+      "ko": "토빈 가족의 알래스카 모험",
+      "ru": "Великий север",
+      "zh": "北方極樂園"
+    }
   },
   {
     "celebrity": "Wander Over Yonder",
@@ -1257,7 +3481,23 @@
       "Its clues draw from the character shapes, comic rhythm, setting, and repeatable visual jokes.",
       "Think about the cartoon setup it builds: odd jobs, magical kingdoms, domestic chaos, or neighborhood escapades.",
       "The hint is in the recurring ingredients fans imitate: voices, catchphrases, sidekicks, villains, and impossible gags."
-    ]
+    ],
+    "tmdb_id": 45013,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Wander Over Yonder",
+      "ar": "Wander Over Yonder",
+      "de": "Sie nannten ihn Wander",
+      "el": "Οι Διαστημικές Περιπέτειες του Γουόντερ",
+      "es": "Galaxia Wander",
+      "fr": "Wander",
+      "he": "וונדר מציל את העולם",
+      "hi": "Wander Over Yonder",
+      "ja": "なんだかんだワンダー",
+      "ko": "Wander Over Yonder",
+      "ru": "С приветом по планетам",
+      "zh": "星際漫步"
+    }
   },
   {
     "celebrity": "Brickleberry",
@@ -1266,7 +3506,23 @@
       "Its clues draw from the character shapes, comic rhythm, setting, and repeatable visual jokes.",
       "Think about the cartoon setup it builds: odd jobs, magical kingdoms, domestic chaos, or neighborhood escapades.",
       "The hint is in the recurring ingredients fans imitate: voices, catchphrases, sidekicks, villains, and impossible gags."
-    ]
+    ],
+    "tmdb_id": 44169,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Brickleberry",
+      "ar": "Brickleberry",
+      "de": "Brickleberry",
+      "el": "Brickleberry",
+      "es": "Brickleberry",
+      "fr": "Brickleberry",
+      "he": "Brickleberry",
+      "hi": "Brickleberry",
+      "ja": "Brickleberry",
+      "ko": "Brickleberry",
+      "ru": "Бриклберри",
+      "zh": "脆莓公園"
+    }
   },
   {
     "celebrity": "The Angry Beavers",
@@ -1275,7 +3531,23 @@
       "Its clues draw from the character shapes, comic rhythm, setting, and repeatable visual jokes.",
       "Think about the cartoon setup it builds: odd jobs, magical kingdoms, domestic chaos, or neighborhood escapades.",
       "The hint is in the recurring ingredients fans imitate: voices, catchphrases, sidekicks, villains, and impossible gags."
-    ]
+    ],
+    "tmdb_id": 3579,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "The Angry Beavers",
+      "ar": "The Angry Beavers",
+      "de": "Die Biber Brüder",
+      "el": "Οι Τρελοκάστορες",
+      "es": "Los Castores Cascarrabias",
+      "fr": "Les Castors allumés",
+      "he": "העצבונים",
+      "hi": "The Angry Beavers",
+      "ja": "The Angry Beavers",
+      "ko": "The Angry Beavers",
+      "ru": "Крутые бобры",
+      "zh": "The Angry Beavers"
+    }
   },
   {
     "celebrity": "Johnny Test",
@@ -1284,7 +3556,23 @@
       "Its clues draw from the character shapes, comic rhythm, setting, and repeatable visual jokes.",
       "Think about the cartoon setup it builds: odd jobs, magical kingdoms, domestic chaos, or neighborhood escapades.",
       "The hint is in the recurring ingredients fans imitate: voices, catchphrases, sidekicks, villains, and impossible gags."
-    ]
+    ],
+    "tmdb_id": 1769,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Johnny Test",
+      "ar": "تجربة جوني",
+      "de": "Johnny Test",
+      "el": "Johnny Test",
+      "es": "Johnny Test",
+      "fr": "Johnny Test",
+      "he": "ג'וני טסט",
+      "hi": "Johnny Test",
+      "ja": "ジョニーテスト",
+      "ko": "쟈니 테스트",
+      "ru": "Джонни Тест",
+      "zh": "强尼大冒险"
+    }
   },
   {
     "celebrity": "Pj Masks",
@@ -1293,7 +3581,23 @@
       "Its clues draw from the character shapes, comic rhythm, setting, and repeatable visual jokes.",
       "Think about the cartoon setup it builds: odd jobs, magical kingdoms, domestic chaos, or neighborhood escapades.",
       "The hint is in the recurring ingredients fans imitate: voices, catchphrases, sidekicks, villains, and impossible gags."
-    ]
+    ],
+    "tmdb_id": 65417,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Pj Masks",
+      "ar": "أبطال بلباس النوم",
+      "de": "PJ Masks – Pyjamahelden",
+      "el": "Ήρωες με Πυτζάμες",
+      "es": "PJ Masks: Héroes en pijamas",
+      "fr": "Pyjamasques",
+      "he": "כוח פי-ג'יי",
+      "hi": "पीजे मास्क",
+      "ja": "しゅつどう! パジャマスク",
+      "ko": "출동! 파자마 삼총사",
+      "ru": "Герои в масках",
+      "zh": "睡衣蒙面俠"
+    }
   },
   {
     "celebrity": "Rabbids Invasion",
@@ -1302,7 +3606,23 @@
       "Its clues draw from the character shapes, comic rhythm, setting, and repeatable visual jokes.",
       "Think about the cartoon setup it builds: odd jobs, magical kingdoms, domestic chaos, or neighborhood escapades.",
       "The hint is in the recurring ingredients fans imitate: voices, catchphrases, sidekicks, villains, and impossible gags."
-    ]
+    ],
+    "tmdb_id": 62201,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Rabbids Invasion",
+      "ar": "الأرانب المشاكسة",
+      "de": "Rabbids Invasion",
+      "el": "Rabbids Invasion",
+      "es": "Rabbids: la invasión",
+      "fr": "Rabbids Invasion",
+      "he": "Rabbids Invasion",
+      "hi": "Rabbids Invasion",
+      "ja": "Rabbids Invasion",
+      "ko": "래비즈 엽기토끼의 침공",
+      "ru": "Бешеные кролики: Вторжение",
+      "zh": "瘋狂的兔子"
+    }
   },
   {
     "celebrity": "The Yogi Bear Show",
@@ -1311,7 +3631,23 @@
       "Its clues draw from the character shapes, comic rhythm, setting, and repeatable visual jokes.",
       "Think about the cartoon setup it builds: odd jobs, magical kingdoms, domestic chaos, or neighborhood escapades.",
       "The hint is in the recurring ingredients fans imitate: voices, catchphrases, sidekicks, villains, and impossible gags."
-    ]
+    ],
+    "tmdb_id": 30773,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "The Yogi Bear Show",
+      "ar": "عرض الدب يوغي",
+      "de": "Yogi Bär",
+      "el": "The Yogi Bear Show",
+      "es": "El oso Yogui",
+      "fr": "Yogi L’Ours",
+      "he": "יוגי דב",
+      "hi": "The Yogi Bear Show",
+      "ja": "The Yogi Bear Show",
+      "ko": "The Yogi Bear Show",
+      "ru": "The Yogi Bear Show",
+      "zh": "瑜伽熊"
+    }
   },
   {
     "celebrity": "Mickey Mouse",
@@ -1320,7 +3656,23 @@
       "Its clues draw from the character shapes, comic rhythm, setting, and repeatable visual jokes.",
       "Think about the cartoon setup it builds: odd jobs, magical kingdoms, domestic chaos, or neighborhood escapades.",
       "The hint is in the recurring ingredients fans imitate: voices, catchphrases, sidekicks, villains, and impossible gags."
-    ]
+    ],
+    "tmdb_id": 46879,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Mickey Mouse",
+      "ar": "ميكي ماوس",
+      "de": "Micky Maus",
+      "el": "Μίκυ Μάους",
+      "es": "Mickey Mouse",
+      "fr": "Mickey Mouse",
+      "he": "מיקי מאוס",
+      "hi": "Mickey Mouse",
+      "ja": "ミッキーマウス!",
+      "ko": "미키마우스",
+      "ru": "Микки Маус",
+      "zh": "米奇歡笑多 (短篇)"
+    }
   },
   {
     "celebrity": "Wacky Races",
@@ -1329,7 +3681,23 @@
       "Its clues draw from the character shapes, comic rhythm, setting, and repeatable visual jokes.",
       "Think about the cartoon setup it builds: odd jobs, magical kingdoms, domestic chaos, or neighborhood escapades.",
       "The hint is in the recurring ingredients fans imitate: voices, catchphrases, sidekicks, villains, and impossible gags."
-    ]
+    ],
+    "tmdb_id": 74916,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Wacky Races",
+      "ar": "Wacky Races",
+      "de": "Wacky Races",
+      "el": "Wacky Races",
+      "es": "La Carrera de Los Autos Locos",
+      "fr": "Les Fous du volant",
+      "he": "Wacky Races",
+      "hi": "Wacky Races",
+      "ja": "Wacky Races",
+      "ko": "Wacky Races",
+      "ru": "Wacky Races",
+      "zh": "怪車大賽"
+    }
   },
   {
     "celebrity": "Kipo and the Age of Wonderbeasts",
@@ -1338,7 +3706,23 @@
       "Its clues draw from the character shapes, comic rhythm, setting, and repeatable visual jokes.",
       "Think about the cartoon setup it builds: odd jobs, magical kingdoms, domestic chaos, or neighborhood escapades.",
       "The hint is in the recurring ingredients fans imitate: voices, catchphrases, sidekicks, villains, and impossible gags."
-    ]
+    ],
+    "tmdb_id": 95599,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Kipo and the Age of Wonderbeasts",
+      "ar": "Kipo and the Age of Wonderbeasts",
+      "de": "Kipo und die Welt der Wundermonster",
+      "el": "H Κίπο και η Εποχή των Τρανοθηρίων",
+      "es": "Kipo y la era de las bestias mágicas",
+      "fr": "Kipo et l'âge des Animonstres",
+      "he": "קיפו ויצורי הפלא",
+      "hi": "Kipo and the Age of Wonderbeasts",
+      "ja": "キポとワンダービーストの冒険",
+      "ko": "키포와 신기한 동물들",
+      "ru": "Кипо и эра чудесных зверей",
+      "zh": "奇珍異獸大冒險"
+    }
   },
   {
     "celebrity": "Xiaolin Showdown",
@@ -1347,7 +3731,23 @@
       "Its clues draw from the character shapes, comic rhythm, setting, and repeatable visual jokes.",
       "Think about the cartoon setup it builds: odd jobs, magical kingdoms, domestic chaos, or neighborhood escapades.",
       "The hint is in the recurring ingredients fans imitate: voices, catchphrases, sidekicks, villains, and impossible gags."
-    ]
+    ],
+    "tmdb_id": 679,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Xiaolin Showdown",
+      "ar": "كونغ فو شاولين",
+      "de": "Xiaolin Showdown",
+      "el": "Xiaolin Showdown",
+      "es": "Duelo Xiaolin",
+      "fr": "Xiaolin Showdown",
+      "he": "נערי שאולין",
+      "hi": "Xiaolin Showdown",
+      "ja": "Xiaolin Showdown",
+      "ko": "Xiaolin Showdown",
+      "ru": "Xiaolin Showdown",
+      "zh": "少林接招"
+    }
   },
   {
     "celebrity": "Wild Kratts",
@@ -1356,7 +3756,23 @@
       "Its clues draw from the character shapes, comic rhythm, setting, and repeatable visual jokes.",
       "Think about the cartoon setup it builds: odd jobs, magical kingdoms, domestic chaos, or neighborhood escapades.",
       "The hint is in the recurring ingredients fans imitate: voices, catchphrases, sidekicks, villains, and impossible gags."
-    ]
+    ],
+    "tmdb_id": 35094,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Wild Kratts",
+      "ar": "Wild Kratts",
+      "de": "Go Wild! - Mission Wildnis",
+      "el": "Wild Kratts",
+      "es": "Aventuras con los Kratt",
+      "fr": "Les frères Kratt",
+      "he": "אחים וחיות אחרות",
+      "hi": "Wild Kratts",
+      "ja": "Wild Kratts",
+      "ko": "Wild Kratts",
+      "ru": "Wild Kratts",
+      "zh": "動物兄弟"
+    }
   },
   {
     "celebrity": "Hilda",
@@ -1365,7 +3781,23 @@
       "Its clues draw from the character shapes, comic rhythm, setting, and repeatable visual jokes.",
       "Think about the cartoon setup it builds: odd jobs, magical kingdoms, domestic chaos, or neighborhood escapades.",
       "The hint is in the recurring ingredients fans imitate: voices, catchphrases, sidekicks, villains, and impossible gags."
-    ]
+    ],
+    "tmdb_id": 82456,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Hilda",
+      "ar": "هيلدا",
+      "de": "Hilda",
+      "el": "Χίλντα",
+      "es": "Hilda",
+      "fr": "Hilda",
+      "he": "הילדה",
+      "hi": "Hilda",
+      "ja": "ヒルダの冒険",
+      "ko": "힐다",
+      "ru": "Хильда",
+      "zh": "藍髮女孩進城記"
+    }
   },
   {
     "celebrity": "Elena of Avalor",
@@ -1374,7 +3806,23 @@
       "Its clues draw from the character shapes, comic rhythm, setting, and repeatable visual jokes.",
       "Think about the cartoon setup it builds: odd jobs, magical kingdoms, domestic chaos, or neighborhood escapades.",
       "The hint is in the recurring ingredients fans imitate: voices, catchphrases, sidekicks, villains, and impossible gags."
-    ]
+    ],
+    "tmdb_id": 67175,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Elena of Avalor",
+      "ar": "Elena of Avalor",
+      "de": "Elena von Avalor",
+      "el": "Έλενα του Άβαλορ",
+      "es": "Elena de Avalor",
+      "fr": "Elena d'Avalor",
+      "he": "אלנה מאוולור",
+      "hi": "Elena of Avalor",
+      "ja": "アバローのプリンセス エレナ",
+      "ko": "아발로 왕국의 엘레나",
+      "ru": "Елена - принцесса Авалора",
+      "zh": "艾蓮娜公主"
+    }
   },
   {
     "celebrity": "She Ra Princess of Power",
@@ -1383,7 +3831,23 @@
       "Its clues draw from the character shapes, comic rhythm, setting, and repeatable visual jokes.",
       "Think about the cartoon setup it builds: odd jobs, magical kingdoms, domestic chaos, or neighborhood escapades.",
       "The hint is in the recurring ingredients fans imitate: voices, catchphrases, sidekicks, villains, and impossible gags."
-    ]
+    ],
+    "tmdb_id": 14755,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "She Ra Princess of Power",
+      "ar": "She Ra Princess of Power",
+      "de": "She-Ra Prinzessin der Macht",
+      "el": "Σίρα: Πριγκίπισσα της Δύναμης",
+      "es": "She-Ra, La Princesa del Poder",
+      "fr": "She-Ra, la Princesse du Pouvoir",
+      "he": "שי-רה נסיכת הכוח",
+      "hi": "She Ra Princess of Power",
+      "ja": "She Ra Princess of Power",
+      "ko": "She Ra Princess of Power",
+      "ru": "Непобедимая принцесса Ши-Ра",
+      "zh": "非凡的公主希瑞"
+    }
   },
   {
     "celebrity": "Pepper Ann",
@@ -1392,7 +3856,23 @@
       "Its clues draw from the character shapes, comic rhythm, setting, and repeatable visual jokes.",
       "Think about the cartoon setup it builds: odd jobs, magical kingdoms, domestic chaos, or neighborhood escapades.",
       "The hint is in the recurring ingredients fans imitate: voices, catchphrases, sidekicks, villains, and impossible gags."
-    ]
+    ],
+    "tmdb_id": 4568,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Pepper Ann",
+      "ar": "Pepper Ann",
+      "de": "Pepper Ann",
+      "el": "Πέπερ Αν",
+      "es": "Pepper Ann",
+      "fr": "Pepper Ann",
+      "he": "Pepper Ann",
+      "hi": "Pepper Ann",
+      "ja": "Pepper Ann",
+      "ko": "Pepper Ann",
+      "ru": "Pepper Ann",
+      "zh": "波波安"
+    }
   },
   {
     "celebrity": "All Grown Up",
@@ -1401,7 +3881,23 @@
       "Its clues draw from the character shapes, comic rhythm, setting, and repeatable visual jokes.",
       "Think about the cartoon setup it builds: odd jobs, magical kingdoms, domestic chaos, or neighborhood escapades.",
       "The hint is in the recurring ingredients fans imitate: voices, catchphrases, sidekicks, villains, and impossible gags."
-    ]
+    ],
+    "tmdb_id": 130,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "All Grown Up",
+      "ar": "أولاد كبار",
+      "de": "All Grown Up - Fast erwachsen",
+      "el": "All Grown Up",
+      "es": "Rugrats Crecidos",
+      "fr": "Razbitume !",
+      "he": "All Grown Up",
+      "hi": "All Grown Up",
+      "ja": "All Grown Up",
+      "ko": "All Grown Up",
+      "ru": "Детки подросли",
+      "zh": "長大後的小小兵"
+    }
   },
   {
     "celebrity": "My Little Pony Equestria Girls Better Together",
@@ -1410,7 +3906,23 @@
       "Its clues draw from the character shapes, comic rhythm, setting, and repeatable visual jokes.",
       "Think about the cartoon setup it builds: odd jobs, magical kingdoms, domestic chaos, or neighborhood escapades.",
       "The hint is in the recurring ingredients fans imitate: voices, catchphrases, sidekicks, villains, and impossible gags."
-    ]
+    ],
+    "tmdb_id": 86673,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "My Little Pony Equestria Girls Better Together",
+      "ar": "My Little Pony Equestria Girls Better Together",
+      "de": "My Little Pony: Equestria Girls",
+      "el": "My Little Pony Equestria Girls Better Together",
+      "es": "My Little Pony Equestria Girls Better Together",
+      "fr": "My Little Pony : Equestria Girls - Better Together",
+      "he": "My Little Pony Equestria Girls Better Together",
+      "hi": "My Little Pony Equestria Girls Better Together",
+      "ja": "My Little Pony Equestria Girls Better Together",
+      "ko": "My Little Pony Equestria Girls Better Together",
+      "ru": "My Little Pony Equestria Girls Better Together",
+      "zh": "小馬國女孩：在一起更好"
+    }
   },
   {
     "celebrity": "I Am Weasel",
@@ -1419,7 +3931,23 @@
       "Its clues draw from the character shapes, comic rhythm, setting, and repeatable visual jokes.",
       "Think about the cartoon setup it builds: odd jobs, magical kingdoms, domestic chaos, or neighborhood escapades.",
       "The hint is in the recurring ingredients fans imitate: voices, catchphrases, sidekicks, villains, and impossible gags."
-    ]
+    ],
+    "tmdb_id": 177,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "I Am Weasel",
+      "ar": "I Am Weasel",
+      "de": "I Am Weasel",
+      "el": "I Am Weasel",
+      "es": "Soy la Comadreja",
+      "fr": "I Am Weasel",
+      "he": "I Am Weasel",
+      "hi": "I Am Weasel",
+      "ja": "I Am Weasel",
+      "ko": "I Am Weasel",
+      "ru": "Я – горностай",
+      "zh": "黃鼠狼威索"
+    }
   },
   {
     "celebrity": "Gabbys Dollhouse",
@@ -1428,7 +3956,23 @@
       "Its clues draw from the character shapes, comic rhythm, setting, and repeatable visual jokes.",
       "Think about the cartoon setup it builds: odd jobs, magical kingdoms, domestic chaos, or neighborhood escapades.",
       "The hint is in the recurring ingredients fans imitate: voices, catchphrases, sidekicks, villains, and impossible gags."
-    ]
+    ],
+    "tmdb_id": 111474,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Gabbys Dollhouse",
+      "ar": "منزل جابي للدمى",
+      "de": "Gabby's Dollhouse",
+      "el": "Το Κουκλόσπιτο της Γκάμπι",
+      "es": "La Casa de Muñecas de Gabby",
+      "fr": "Gabby et la maison magique",
+      "he": "בית הבובות של גבי",
+      "hi": "Gabbys Dollhouse",
+      "ja": "ギャビーのドールハウス",
+      "ko": "개비의 매직 하우스",
+      "ru": "Кукольный домик Габби",
+      "zh": "蓋比的娃娃屋"
+    }
   },
   {
     "celebrity": "The Atom Ant Show",
@@ -1437,7 +3981,23 @@
       "Its clues draw from the character shapes, comic rhythm, setting, and repeatable visual jokes.",
       "Think about the cartoon setup it builds: odd jobs, magical kingdoms, domestic chaos, or neighborhood escapades.",
       "The hint is in the recurring ingredients fans imitate: voices, catchphrases, sidekicks, villains, and impossible gags."
-    ]
+    ],
+    "tmdb_id": 22172,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "The Atom Ant Show",
+      "ar": "The Atom Ant Show",
+      "de": "A-Tom Ameise und seine Freunde",
+      "el": "Το Βιονικό Μυρμήγκι",
+      "es": "La hormiga atómica",
+      "fr": "The Atom Ant Show",
+      "he": "The Atom Ant Show",
+      "hi": "The Atom Ant Show",
+      "ja": "The Atom Ant Show",
+      "ko": "The Atom Ant Show",
+      "ru": "The Atom Ant Show",
+      "zh": "The Atom Ant Show"
+    }
   },
   {
     "celebrity": "Big Hero 6 the Series",
@@ -1446,7 +4006,23 @@
       "Its clues draw from the character shapes, comic rhythm, setting, and repeatable visual jokes.",
       "Think about the cartoon setup it builds: odd jobs, magical kingdoms, domestic chaos, or neighborhood escapades.",
       "The hint is in the recurring ingredients fans imitate: voices, catchphrases, sidekicks, villains, and impossible gags."
-    ]
+    ],
+    "tmdb_id": 68665,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Big Hero 6 the Series",
+      "ar": "Big Hero 6 the Series",
+      "de": "Baymax – Robowabohu in Serie",
+      "el": "Οι Υπερέξι: Η Σειρά",
+      "es": "Grandes héroes: La serie",
+      "fr": "Baymax et les nouveaux héros",
+      "he": "6 גיבורים: הסדרה",
+      "hi": "Big Hero 6 the Series",
+      "ja": "ベイマックス ザ・シリーズ",
+      "ko": "빅 히어로 시리즈",
+      "ru": "Город героев: Новая история",
+      "zh": "大英雄聯盟"
+    }
   },
   {
     "celebrity": "Spongebob Squarepants",
@@ -1455,7 +4031,23 @@
       "Its clues draw from the character shapes, comic rhythm, setting, and repeatable visual jokes.",
       "Think about the cartoon setup it builds: odd jobs, magical kingdoms, domestic chaos, or neighborhood escapades.",
       "The hint is in the recurring ingredients fans imitate: voices, catchphrases, sidekicks, villains, and impossible gags."
-    ]
+    ],
+    "tmdb_id": 387,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Spongebob Squarepants",
+      "ar": "سبونج بوب سكوير بانتس",
+      "de": "SpongeBob Schwammkopf",
+      "el": "Μπομπ Σφουγγαράκης",
+      "es": "Bob Esponja",
+      "fr": "Bob l'éponge",
+      "he": "בובספוג מכנסמרובע",
+      "hi": "स्पंज बॉब स्क्वायर पैंट",
+      "ja": "スポンジ・ボブ",
+      "ko": "네모바지 스폰지밥",
+      "ru": "Губка Боб Квадратные Штаны",
+      "zh": "海綿寶寶"
+    }
   },
   {
     "celebrity": "The Fairly Oddparents",
@@ -1464,7 +4056,23 @@
       "Its clues draw from the character shapes, comic rhythm, setting, and repeatable visual jokes.",
       "Think about the cartoon setup it builds: odd jobs, magical kingdoms, domestic chaos, or neighborhood escapades.",
       "The hint is in the recurring ingredients fans imitate: voices, catchphrases, sidekicks, villains, and impossible gags."
-    ]
+    ],
+    "tmdb_id": 4630,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "The Fairly Oddparents",
+      "ar": "أحلام تيمي",
+      "de": "Cosmo und Wanda - Wenn Elfen helfen",
+      "el": "Δύο Φανταστικοί Γονείς",
+      "es": "Los Padrinos Mágicos",
+      "fr": "Mes parrains sont magiques",
+      "he": "קסם של הורים",
+      "hi": "The Fairly Oddparents",
+      "ja": "Oops!フェアリーペアレンツ",
+      "ko": "티미의 못말리는 수호천사",
+      "ru": "Волшебные покровители",
+      "zh": "趣怪守護仙"
+    }
   },
   {
     "celebrity": "Rugrats",
@@ -1473,7 +4081,23 @@
       "Its clues draw from the character shapes, comic rhythm, setting, and repeatable visual jokes.",
       "Think about the cartoon setup it builds: odd jobs, magical kingdoms, domestic chaos, or neighborhood escapades.",
       "The hint is in the recurring ingredients fans imitate: voices, catchphrases, sidekicks, villains, and impossible gags."
-    ]
+    ],
+    "tmdb_id": 3022,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Rugrats",
+      "ar": "راغراتس",
+      "de": "Rugrats",
+      "el": "Τα Απίθανα Μωρά",
+      "es": "Rugrats: Aventuras en pañales",
+      "fr": "Les Razmoket",
+      "he": "ראגרטס",
+      "hi": "Rugrats",
+      "ja": "ラグラッツ",
+      "ko": "러그래츠",
+      "ru": "Ох, уж эти детки!",
+      "zh": "小淘氣"
+    }
   },
   {
     "celebrity": "Avatar the Last Airbender",
@@ -1482,7 +4106,23 @@
       "Its clues draw from the character shapes, comic rhythm, setting, and repeatable visual jokes.",
       "Think about the cartoon setup it builds: odd jobs, magical kingdoms, domestic chaos, or neighborhood escapades.",
       "The hint is in the recurring ingredients fans imitate: voices, catchphrases, sidekicks, villains, and impossible gags."
-    ]
+    ],
+    "tmdb_id": 82452,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Avatar the Last Airbender",
+      "ar": "أفاتار: مسخّر الهواء",
+      "de": "Avatar – Der Herr der Elemente",
+      "el": "Άβαταρ: Ο Τελευταίος Μαχητής του Ανέμου",
+      "es": "Avatar: La leyenda de Aang",
+      "fr": "Avatar : Le dernier maître de l'air",
+      "he": "אווטאר: כשף האוויר האחרון",
+      "hi": "अवतार: द लास्ट एअरबेंडर",
+      "ja": "アバター: 伝説の少年アン",
+      "ko": "아바타: 아앙의 전설",
+      "ru": "Аватар: Легенда об Аанге",
+      "zh": "降世神通：最后的气宗"
+    }
   },
   {
     "celebrity": "The Legend of Korra",
@@ -1491,7 +4131,23 @@
       "Its clues draw from the character shapes, comic rhythm, setting, and repeatable visual jokes.",
       "Think about the cartoon setup it builds: odd jobs, magical kingdoms, domestic chaos, or neighborhood escapades.",
       "The hint is in the recurring ingredients fans imitate: voices, catchphrases, sidekicks, villains, and impossible gags."
-    ]
+    ],
+    "tmdb_id": 33880,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "The Legend of Korra",
+      "ar": "أفاتار: أسطورة كورا",
+      "de": "Die Legende von Korra",
+      "el": "Ο Θρύλος της Κόρρα",
+      "es": "Avatar: La Leyenda de Korra",
+      "fr": "Avatar : La Légende de Korra",
+      "he": "אווטאר: האגדה של קורה",
+      "hi": "The Legend of Korra",
+      "ja": "レジェンド･オブ･コーラ",
+      "ko": "코라의 전설",
+      "ru": "Легенда о Корре",
+      "zh": "The Legend of Korra"
+    }
   },
   {
     "celebrity": "Teen Titans",
@@ -1500,7 +4156,23 @@
       "Its clues draw from the character shapes, comic rhythm, setting, and repeatable visual jokes.",
       "Think about the cartoon setup it builds: odd jobs, magical kingdoms, domestic chaos, or neighborhood escapades.",
       "The hint is in the recurring ingredients fans imitate: voices, catchphrases, sidekicks, villains, and impossible gags."
-    ]
+    ],
+    "tmdb_id": 604,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Teen Titans",
+      "ar": "تين تايتنز",
+      "de": "Teen Titans",
+      "el": "Teen Titans",
+      "es": "Los jóvenes titanes",
+      "fr": "Teen Titans",
+      "he": "הטיטאנים",
+      "hi": "Teen Titans",
+      "ja": "ティーン・タイタンズ",
+      "ko": "Teen Titans",
+      "ru": "Юные Титаны",
+      "zh": "少年泰坦"
+    }
   },
   {
     "celebrity": "Teen Titans Go",
@@ -1509,7 +4181,23 @@
       "Its clues draw from the character shapes, comic rhythm, setting, and repeatable visual jokes.",
       "Think about the cartoon setup it builds: odd jobs, magical kingdoms, domestic chaos, or neighborhood escapades.",
       "The hint is in the recurring ingredients fans imitate: voices, catchphrases, sidekicks, villains, and impossible gags."
-    ]
+    ],
+    "tmdb_id": 45140,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Teen Titans Go",
+      "ar": "تين تايتنز غو!",
+      "de": "Teen Titans Go",
+      "el": "Teen Titans Go",
+      "es": "Los Jóvenes Titanes en acción",
+      "fr": "Teen Titans Go!",
+      "he": "כוח הטיטאנים",
+      "hi": "Teen Titans Go",
+      "ja": "ティーン・タイタンズGO!",
+      "ko": "틴 타이탄 GO!",
+      "ru": "Юные Титаны, вперёд!",
+      "zh": "少年悍將 GO!"
+    }
   },
   {
     "celebrity": "Samurai Jack",
@@ -1518,7 +4206,23 @@
       "Its clues draw from the character shapes, comic rhythm, setting, and repeatable visual jokes.",
       "Think about the cartoon setup it builds: odd jobs, magical kingdoms, domestic chaos, or neighborhood escapades.",
       "The hint is in the recurring ingredients fans imitate: voices, catchphrases, sidekicks, villains, and impossible gags."
-    ]
+    ],
+    "tmdb_id": 2723,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Samurai Jack",
+      "ar": "ساموراي جاك",
+      "de": "Samurai Jack",
+      "el": "Samurai Jack",
+      "es": "Samurai Jack",
+      "fr": "Samuraï Jack",
+      "he": "ג'ק הסמוראי",
+      "hi": "Samurai Jack",
+      "ja": "サムライジャック",
+      "ko": "사무라이 잭",
+      "ru": "Самурай Джек",
+      "zh": "傑克武士"
+    }
   },
   {
     "celebrity": "Courage the Cowardly Dog",
@@ -1527,7 +4231,23 @@
       "Its clues draw from the character shapes, comic rhythm, setting, and repeatable visual jokes.",
       "Think about the cartoon setup it builds: odd jobs, magical kingdoms, domestic chaos, or neighborhood escapades.",
       "The hint is in the recurring ingredients fans imitate: voices, catchphrases, sidekicks, villains, and impossible gags."
-    ]
+    ],
+    "tmdb_id": 2085,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Courage the Cowardly Dog",
+      "ar": "كوردج الجبان",
+      "de": "Courage der feige Hund",
+      "el": "Courage the Cowardly Dog",
+      "es": "Coraje, el perro cobarde",
+      "fr": "Courage, le chien froussard",
+      "he": "אמיץ הכלב הפחדן",
+      "hi": "Courage the Cowardly Dog",
+      "ja": "おくびょうなカーレッジくん",
+      "ko": "겁쟁이 강아지 커리지",
+      "ru": "Кураж – трусливый пёс",
+      "zh": "膽小狗英雄"
+    }
   },
   {
     "celebrity": "The Grim Adventures of Billy and Mandy",
@@ -1536,7 +4256,23 @@
       "Its clues draw from the character shapes, comic rhythm, setting, and repeatable visual jokes.",
       "Think about the cartoon setup it builds: odd jobs, magical kingdoms, domestic chaos, or neighborhood escapades.",
       "The hint is in the recurring ingredients fans imitate: voices, catchphrases, sidekicks, villains, and impossible gags."
-    ]
+    ],
+    "tmdb_id": 897,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "The Grim Adventures of Billy and Mandy",
+      "ar": "مغامرات بيلي وماندي",
+      "de": "Die gruseligen Abenteuer von Billy und Mandy",
+      "el": "The Grim Adventures of Billy and Mandy",
+      "es": "Las sombrías aventuras de Billy y Mandy",
+      "fr": "Billy et Mandy, aventuriers de l'au-delà",
+      "he": "ההרפתקאות של בילי ומנדי",
+      "hi": "The Grim Adventures of Billy and Mandy",
+      "ja": "ビリー&マンディ",
+      "ko": "빌리와 맨디의 무시무시한 모험",
+      "ru": "Ужасные Приключения Билли и Мэнди",
+      "zh": "比利曼蒂和死神的大冒險"
+    }
   },
   {
     "celebrity": "Phineas and Ferb",
@@ -1545,7 +4281,23 @@
       "Its clues draw from the character shapes, comic rhythm, setting, and repeatable visual jokes.",
       "Think about the cartoon setup it builds: odd jobs, magical kingdoms, domestic chaos, or neighborhood escapades.",
       "The hint is in the recurring ingredients fans imitate: voices, catchphrases, sidekicks, villains, and impossible gags."
-    ]
+    ],
+    "tmdb_id": 1877,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Phineas and Ferb",
+      "ar": "فارس وفادي",
+      "de": "Phineas und Ferb",
+      "el": "Φινέας και Φερμπ",
+      "es": "Phineas y Ferb",
+      "fr": "Phinéas et Ferb",
+      "he": "פיניאס ופרב",
+      "hi": "Phineas and Ferb",
+      "ja": "フィニアスとファーブ",
+      "ko": "피니와 퍼브",
+      "ru": "Финес и Ферб",
+      "zh": "飛哥與發仔"
+    }
   },
   {
     "celebrity": "The Proud Family",
@@ -1554,7 +4306,23 @@
       "Its clues draw from the character shapes, comic rhythm, setting, and repeatable visual jokes.",
       "Think about the cartoon setup it builds: odd jobs, magical kingdoms, domestic chaos, or neighborhood escapades.",
       "The hint is in the recurring ingredients fans imitate: voices, catchphrases, sidekicks, villains, and impossible gags."
-    ]
+    ],
+    "tmdb_id": 543,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "The Proud Family",
+      "ar": "The Proud Family",
+      "de": "Die Prouds",
+      "el": "Οικογένεια Πράουντ",
+      "es": "Los Proud",
+      "fr": "Cool Attitude",
+      "he": "The Proud Family",
+      "hi": "The Proud Family",
+      "ja": "ザ・プラウド・ファミリー",
+      "ko": "못 말리는 프라우드 가족",
+      "ru": "The Proud Family",
+      "zh": "荣耀家族"
+    }
   },
   {
     "celebrity": "Lilo and Stitch the Series",
@@ -1563,7 +4331,23 @@
       "Its clues draw from the character shapes, comic rhythm, setting, and repeatable visual jokes.",
       "Think about the cartoon setup it builds: odd jobs, magical kingdoms, domestic chaos, or neighborhood escapades.",
       "The hint is in the recurring ingredients fans imitate: voices, catchphrases, sidekicks, villains, and impossible gags."
-    ]
+    ],
+    "tmdb_id": 2355,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Lilo and Stitch the Series",
+      "ar": "ليلو وستيتش المسلسل",
+      "de": "Disney's Lilo & Stitch",
+      "el": "Λίλο και Στιτς: Η Σειρά",
+      "es": "Lilo & Stitch: La serie",
+      "fr": "Lilo & Stitch: la série",
+      "he": "לילו וסטיץ': הסדרה",
+      "hi": "Lilo and Stitch the Series",
+      "ja": "リロ・アンド・スティッチ ザ・シリーズ",
+      "ko": "릴로와 스티치",
+      "ru": "Лило и Стич",
+      "zh": "扮嘢小魔星"
+    }
   },
   {
     "celebrity": "Talespin",
@@ -1572,7 +4356,23 @@
       "Its clues draw from the character shapes, comic rhythm, setting, and repeatable visual jokes.",
       "Think about the cartoon setup it builds: odd jobs, magical kingdoms, domestic chaos, or neighborhood escapades.",
       "The hint is in the recurring ingredients fans imitate: voices, catchphrases, sidekicks, villains, and impossible gags."
-    ]
+    ],
+    "tmdb_id": 2720,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Talespin",
+      "ar": "Talespin",
+      "de": "Käpt'n Balu und seine tollkühne Crew",
+      "el": "Τέιλσπιν",
+      "es": "Los Aventureros del Aire",
+      "fr": "Super Baloo",
+      "he": "עולם סחרחר",
+      "hi": "Talespin",
+      "ja": "テイルスピン",
+      "ko": "Talespin",
+      "ru": "Чудеса на виражах",
+      "zh": "航空小英雄"
+    }
   },
   {
     "celebrity": "Ducktales",
@@ -1581,7 +4381,23 @@
       "Its clues draw from the character shapes, comic rhythm, setting, and repeatable visual jokes.",
       "Think about the cartoon setup it builds: odd jobs, magical kingdoms, domestic chaos, or neighborhood escapades.",
       "The hint is in the recurring ingredients fans imitate: voices, catchphrases, sidekicks, villains, and impossible gags."
-    ]
+    ],
+    "tmdb_id": 72350,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Ducktales",
+      "ar": "قصص بطوطية الجديدة",
+      "de": "DuckTales - Neues aus Entenhausen",
+      "el": "Παπιοπεριπέτειες",
+      "es": "Patoaventuras",
+      "fr": "La Bande à Picsou",
+      "he": "סיפורים של ברווזים",
+      "hi": "Ducktales",
+      "ja": "ダックテイルズ",
+      "ko": "도날드 덕 가족의 모험",
+      "ru": "Утиные истории",
+      "zh": "新唐老鴨俱樂部"
+    }
   },
   {
     "celebrity": "Darkwing Duck",
@@ -1590,7 +4406,23 @@
       "Its clues draw from the character shapes, comic rhythm, setting, and repeatable visual jokes.",
       "Think about the cartoon setup it builds: odd jobs, magical kingdoms, domestic chaos, or neighborhood escapades.",
       "The hint is in the recurring ingredients fans imitate: voices, catchphrases, sidekicks, villains, and impossible gags."
-    ]
+    ],
+    "tmdb_id": 3319,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Darkwing Duck",
+      "ar": "البط السري",
+      "de": "Darkwing Duck - Der Schrecken der Bösewichte",
+      "el": "Ντάρκγουινγκ Ντακ",
+      "es": "El Pato Darkwing",
+      "fr": "Myster Mask",
+      "he": "דארקווינג דאק",
+      "hi": "Darkwing Duck",
+      "ja": "ダックにおまかせ ダークウィング・ダック",
+      "ko": "오리 형사 다크",
+      "ru": "Чёрный Плащ",
+      "zh": "蠱惑飛天德"
+    }
   },
   {
     "celebrity": "Gargoyles",
@@ -1599,7 +4431,23 @@
       "Its clues draw from the character shapes, comic rhythm, setting, and repeatable visual jokes.",
       "Think about the cartoon setup it builds: odd jobs, magical kingdoms, domestic chaos, or neighborhood escapades.",
       "The hint is in the recurring ingredients fans imitate: voices, catchphrases, sidekicks, villains, and impossible gags."
-    ]
+    ],
+    "tmdb_id": 1719,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Gargoyles",
+      "ar": "الكراغل",
+      "de": "Gargoyles - Auf den Schwingen der Gerechtigkeit",
+      "el": "Γκαργκόιλς",
+      "es": "Gárgolas",
+      "fr": "Gargoyles, les anges de la nuit",
+      "he": "הגרגולים",
+      "hi": "Gargoyles",
+      "ja": "ガーゴイルズ",
+      "ko": "전사 골리앗",
+      "ru": "Гаргульи",
+      "zh": "夜行神龍"
+    }
   },
   {
     "celebrity": "Animaniacs",
@@ -1608,7 +4456,23 @@
       "Its clues draw from the character shapes, comic rhythm, setting, and repeatable visual jokes.",
       "Think about the cartoon setup it builds: odd jobs, magical kingdoms, domestic chaos, or neighborhood escapades.",
       "The hint is in the recurring ingredients fans imitate: voices, catchphrases, sidekicks, villains, and impossible gags."
-    ]
+    ],
+    "tmdb_id": 82,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Animaniacs",
+      "ar": "الضاحكون",
+      "de": "Animaniacs",
+      "el": "Animaniacs",
+      "es": "Animaniacs",
+      "fr": "Les Animaniacs",
+      "he": "אנימניאקס",
+      "hi": "Animaniacs",
+      "ja": "アニマニアックス",
+      "ko": "Animaniacs",
+      "ru": "Озорные анимашки",
+      "zh": "狂歡三寶"
+    }
   },
   {
     "celebrity": "Pinky and the Brain",
@@ -1617,7 +4481,23 @@
       "Its clues draw from the character shapes, comic rhythm, setting, and repeatable visual jokes.",
       "Think about the cartoon setup it builds: odd jobs, magical kingdoms, domestic chaos, or neighborhood escapades.",
       "The hint is in the recurring ingredients fans imitate: voices, catchphrases, sidekicks, villains, and impossible gags."
-    ]
+    ],
+    "tmdb_id": 2228,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Pinky and the Brain",
+      "ar": "بينكي وبرين",
+      "de": "Pinky & der Brain",
+      "el": "Pinky and the Brain",
+      "es": "Pinky y Cerebro",
+      "fr": "Minus et Cortex",
+      "he": "פינקי והמוח",
+      "hi": "Pinky and the Brain",
+      "ja": "ピンキー&ブレイン",
+      "ko": "Pinky and the Brain",
+      "ru": "Пинки и Брейн",
+      "zh": "Pinky and the Brain"
+    }
   },
   {
     "celebrity": "Looney Tunes",
@@ -1626,7 +4506,23 @@
       "Its clues draw from the character shapes, comic rhythm, setting, and repeatable visual jokes.",
       "Think about the cartoon setup it builds: odd jobs, magical kingdoms, domestic chaos, or neighborhood escapades.",
       "The hint is in the recurring ingredients fans imitate: voices, catchphrases, sidekicks, villains, and impossible gags."
-    ]
+    ],
+    "tmdb_id": 330213,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Looney Tunes",
+      "ar": "Looney Tunes",
+      "de": "Looney Tunes",
+      "el": "Looney Tunes",
+      "es": "Looney Tunes",
+      "fr": "Looney Tunes",
+      "he": "Looney Tunes",
+      "hi": "Looney Tunes",
+      "ja": "Looney Tunes",
+      "ko": "Looney Tunes",
+      "ru": "Looney Tunes",
+      "zh": "Looney Tunes"
+    }
   },
   {
     "celebrity": "Tom and Jerry",
@@ -1635,7 +4531,23 @@
       "Its clues draw from the character shapes, comic rhythm, setting, and repeatable visual jokes.",
       "Think about the cartoon setup it builds: odd jobs, magical kingdoms, domestic chaos, or neighborhood escapades.",
       "The hint is in the recurring ingredients fans imitate: voices, catchphrases, sidekicks, villains, and impossible gags."
-    ]
+    ],
+    "tmdb_id": 217288,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Tom and Jerry",
+      "ar": "Tom and Jerry",
+      "de": "Tom und Jerry",
+      "el": "Tom and Jerry",
+      "es": "Tom y Jerry",
+      "fr": "Tom et Jerry à Singapour",
+      "he": "Tom and Jerry",
+      "hi": "Tom and Jerry",
+      "ja": "Tom and Jerry",
+      "ko": "톰과 제리",
+      "ru": "Tom and Jerry",
+      "zh": "猫和老鼠"
+    }
   },
   {
     "celebrity": "Scooby Doo",
@@ -1644,7 +4556,23 @@
       "Its clues draw from the character shapes, comic rhythm, setting, and repeatable visual jokes.",
       "Think about the cartoon setup it builds: odd jobs, magical kingdoms, domestic chaos, or neighborhood escapades.",
       "The hint is in the recurring ingredients fans imitate: voices, catchphrases, sidekicks, villains, and impossible gags."
-    ]
+    ],
+    "tmdb_id": 18123,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Scooby Doo",
+      "ar": "سكوبي دو واللغز المفقود",
+      "de": "Mission Scooby-Doo",
+      "el": "Scooby-Doo! Ιστορίες Μυστηρίου",
+      "es": "¡Scooby-Doo! Misterios S.A.",
+      "fr": "Scooby-Doo - Mystères associés",
+      "he": "סקובי-דו! מסתורין בע\"מ",
+      "hi": "Scooby Doo",
+      "ja": "Scooby Doo",
+      "ko": "Scooby Doo",
+      "ru": "Скуби-Ду! Мистическая Корпорация",
+      "zh": "史酷比狗：神秘公司"
+    }
   },
   {
     "celebrity": "The Flintstones",
@@ -1653,7 +4581,23 @@
       "Its clues draw from the character shapes, comic rhythm, setting, and repeatable visual jokes.",
       "Think about the cartoon setup it builds: odd jobs, magical kingdoms, domestic chaos, or neighborhood escapades.",
       "The hint is in the recurring ingredients fans imitate: voices, catchphrases, sidekicks, villains, and impossible gags."
-    ]
+    ],
+    "tmdb_id": 1996,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "The Flintstones",
+      "ar": "فلينستون",
+      "de": "Familie Feuerstein",
+      "el": "Οι Φλίντστοουνς",
+      "es": "Los Picapiedra",
+      "fr": "Les Pierrafeu",
+      "he": "משפחת קדמוני",
+      "hi": "The Flintstones",
+      "ja": "原始家族フリントストーン",
+      "ko": "고인돌 가족",
+      "ru": "Флинтстоуны",
+      "zh": "摩登原始人"
+    }
   },
   {
     "celebrity": "Yogi Bear",
@@ -1662,7 +4606,23 @@
       "Its clues draw from the character shapes, comic rhythm, setting, and repeatable visual jokes.",
       "Think about the cartoon setup it builds: odd jobs, magical kingdoms, domestic chaos, or neighborhood escapades.",
       "The hint is in the recurring ingredients fans imitate: voices, catchphrases, sidekicks, villains, and impossible gags."
-    ]
+    ],
+    "tmdb_id": 30773,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Yogi Bear",
+      "ar": "عرض الدب يوغي",
+      "de": "Yogi Bär",
+      "el": "Yogi Bear",
+      "es": "El oso Yogui",
+      "fr": "Yogi L’Ours",
+      "he": "יוגי דב",
+      "hi": "Yogi Bear",
+      "ja": "Yogi Bear",
+      "ko": "Yogi Bear",
+      "ru": "Yogi Bear",
+      "zh": "瑜伽熊"
+    }
   },
   {
     "celebrity": "The Magic School Bus",
@@ -1671,7 +4631,23 @@
       "Its clues draw from the character shapes, comic rhythm, setting, and repeatable visual jokes.",
       "Think about the cartoon setup it builds: odd jobs, magical kingdoms, domestic chaos, or neighborhood escapades.",
       "The hint is in the recurring ingredients fans imitate: voices, catchphrases, sidekicks, villains, and impossible gags."
-    ]
+    ],
+    "tmdb_id": 7248,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "The Magic School Bus",
+      "ar": "باص المدرسة العجيب",
+      "de": "Der Zauberschulbus",
+      "el": "Το Μαγικό Σχολικό",
+      "es": "Magic School Bus",
+      "fr": "Le bus magique",
+      "he": "אוטובוס הקסמים",
+      "hi": "The Magic School Bus",
+      "ja": "マジック・スクール・バス",
+      "ko": "신기한 스쿨버스",
+      "ru": "Волшебный Школьный Автобус",
+      "zh": "神奇校車"
+    }
   },
   {
     "celebrity": "Arthur",
@@ -1680,7 +4656,23 @@
       "Its clues draw from the character shapes, comic rhythm, setting, and repeatable visual jokes.",
       "Think about the cartoon setup it builds: odd jobs, magical kingdoms, domestic chaos, or neighborhood escapades.",
       "The hint is in the recurring ingredients fans imitate: voices, catchphrases, sidekicks, villains, and impossible gags."
-    ]
+    ],
+    "tmdb_id": 2153,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Arthur",
+      "ar": "آرثر",
+      "de": "Arthur",
+      "el": "Ο Άρθουρ",
+      "es": "Arthur",
+      "fr": "Arthur",
+      "he": "ארתור",
+      "hi": "Arthur",
+      "ja": "Arthur",
+      "ko": "Arthur",
+      "ru": "Артур",
+      "zh": "亞瑟小子"
+    }
   },
   {
     "celebrity": "Bluey",
@@ -1689,7 +4681,23 @@
       "Its clues draw from the character shapes, comic rhythm, setting, and repeatable visual jokes.",
       "Think about the cartoon setup it builds: odd jobs, magical kingdoms, domestic chaos, or neighborhood escapades.",
       "The hint is in the recurring ingredients fans imitate: voices, catchphrases, sidekicks, villains, and impossible gags."
-    ]
+    ],
+    "tmdb_id": 82728,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Bluey",
+      "ar": "بلووي",
+      "de": "Bluey",
+      "el": "Μπλούι",
+      "es": "Bluey",
+      "fr": "Bluey",
+      "he": "בלואי",
+      "hi": "Bluey",
+      "ja": "ブルーイ",
+      "ko": "블루이",
+      "ru": "Блуи",
+      "zh": "妙妙犬保怡"
+    }
   },
   {
     "celebrity": "Peppa Pig",
@@ -1698,7 +4706,23 @@
       "Its clues draw from the character shapes, comic rhythm, setting, and repeatable visual jokes.",
       "Think about the cartoon setup it builds: odd jobs, magical kingdoms, domestic chaos, or neighborhood escapades.",
       "The hint is in the recurring ingredients fans imitate: voices, catchphrases, sidekicks, villains, and impossible gags."
-    ]
+    ],
+    "tmdb_id": 12225,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Peppa Pig",
+      "ar": "Peppa Pig",
+      "de": "Peppa Wutz",
+      "el": "Πέππα το Γουρουνάκι",
+      "es": "Peppa Pig",
+      "fr": "Peppa Pig",
+      "he": "פפה פיג",
+      "hi": "Peppa Pig",
+      "ja": "ペッパピッグ",
+      "ko": "페파 피그",
+      "ru": "Свинка Пеппа",
+      "zh": "粉紅豬一家親"
+    }
   },
   {
     "celebrity": "Paw Patrol",
@@ -1707,7 +4731,23 @@
       "Its clues draw from the character shapes, comic rhythm, setting, and repeatable visual jokes.",
       "Think about the cartoon setup it builds: odd jobs, magical kingdoms, domestic chaos, or neighborhood escapades.",
       "The hint is in the recurring ingredients fans imitate: voices, catchphrases, sidekicks, villains, and impossible gags."
-    ]
+    ],
+    "tmdb_id": 57532,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Paw Patrol",
+      "ar": "Paw Patrol",
+      "de": "Paw Patrol: Helfer auf vier Pfoten",
+      "el": "Paw Patrol",
+      "es": "Paw Patrol: Patrulla de Cachorros",
+      "fr": "La Pat'Patrouille",
+      "he": "מפרץ ההרפתקאות",
+      "hi": "Paw Patrol",
+      "ja": "パウ・パトロール",
+      "ko": "퍼피 구조대",
+      "ru": "Щенячий патруль",
+      "zh": "汪汪隊立大功"
+    }
   },
   {
     "celebrity": "My Little Pony Friendship Is Magic",
@@ -1716,7 +4756,23 @@
       "Its clues draw from the character shapes, comic rhythm, setting, and repeatable visual jokes.",
       "Think about the cartoon setup it builds: odd jobs, magical kingdoms, domestic chaos, or neighborhood escapades.",
       "The hint is in the recurring ingredients fans imitate: voices, catchphrases, sidekicks, villains, and impossible gags."
-    ]
+    ],
+    "tmdb_id": 33765,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "My Little Pony Friendship Is Magic",
+      "ar": "مهرتي الصغيرة",
+      "de": "My Little Pony – Freundschaft ist Magie",
+      "el": "Μικρό μου Πόνυ: Η Φιλία Είναι Μαγική",
+      "es": "My Little Pony: La Magia de la Amistad",
+      "fr": "My Little Pony : Les Amies, c'est magique",
+      "he": "הפוני הקטן שלי: חברות היא קסם",
+      "hi": "My Little Pony Friendship Is Magic",
+      "ja": "My Little Pony Friendship Is Magic",
+      "ko": "마이 리틀 포니: 우정은 마법",
+      "ru": "My Little Pony. Дружба — это чудо",
+      "zh": "My Little Pony：友情就是魔法"
+    }
   },
   {
     "celebrity": "Transformers Animated",
@@ -1725,7 +4781,23 @@
       "Its clues draw from the character shapes, comic rhythm, setting, and repeatable visual jokes.",
       "Think about the cartoon setup it builds: odd jobs, magical kingdoms, domestic chaos, or neighborhood escapades.",
       "The hint is in the recurring ingredients fans imitate: voices, catchphrases, sidekicks, villains, and impossible gags."
-    ]
+    ],
+    "tmdb_id": 10548,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Transformers Animated",
+      "ar": "Transformers Animated",
+      "de": "Transformers - Animated",
+      "el": "Transformers Animated",
+      "es": "Transformers Animated",
+      "fr": "Transformers Animated",
+      "he": "Transformers Animated",
+      "hi": "Transformers Animated",
+      "ja": "トランスフォーマー アニメイテッド",
+      "ko": "Transformers Animated",
+      "ru": "Трансформеры",
+      "zh": "變形金剛進化版"
+    }
   },
   {
     "celebrity": "Voltron",
@@ -1734,7 +4806,23 @@
       "Its clues draw from the character shapes, comic rhythm, setting, and repeatable visual jokes.",
       "Think about the cartoon setup it builds: odd jobs, magical kingdoms, domestic chaos, or neighborhood escapades.",
       "The hint is in the recurring ingredients fans imitate: voices, catchphrases, sidekicks, villains, and impossible gags."
-    ]
+    ],
+    "tmdb_id": 66558,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Voltron",
+      "ar": "فولترون - المُدافع الأسطوري",
+      "de": "Voltron: Legendärer Verteidiger",
+      "el": "Βόλτρον: Ο Θρυλικός Υπερασπιστής",
+      "es": "Voltron: El defensor legendario",
+      "fr": "Voltron : Le défenseur légendaire",
+      "he": "וולטרון: המגן האגדי",
+      "hi": "Voltron",
+      "ja": "ヴォルトロン",
+      "ko": "볼트론: 전설 속의 수호자",
+      "ru": "Вольтрон: Легендарный защитник",
+      "zh": "聖戰士：宇宙防衛隊"
+    }
   },
   {
     "celebrity": "The Ren and Stimpy Show",
@@ -1743,7 +4831,23 @@
       "Its clues draw from the character shapes, comic rhythm, setting, and repeatable visual jokes.",
       "Think about the cartoon setup it builds: odd jobs, magical kingdoms, domestic chaos, or neighborhood escapades.",
       "The hint is in the recurring ingredients fans imitate: voices, catchphrases, sidekicks, villains, and impossible gags."
-    ]
+    ],
+    "tmdb_id": 504,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "The Ren and Stimpy Show",
+      "ar": "عرض رين وستيمبي",
+      "de": "Die Ren & Stimpy Show",
+      "el": "Ρεν και Στίμπι",
+      "es": "Ren y Stimpy",
+      "fr": "Ren et Stimpy",
+      "he": "המופע של רן וסטימפי",
+      "hi": "The Ren and Stimpy Show",
+      "ja": "レンとスティンピー",
+      "ko": "The Ren and Stimpy Show",
+      "ru": "Шоу Рена и Стимпи",
+      "zh": "萊恩和史丁比"
+    }
   },
   {
     "celebrity": "Beavis and Butt Head",
@@ -1752,7 +4856,23 @@
       "Its clues draw from the character shapes, comic rhythm, setting, and repeatable visual jokes.",
       "Think about the cartoon setup it builds: odd jobs, magical kingdoms, domestic chaos, or neighborhood escapades.",
       "The hint is in the recurring ingredients fans imitate: voices, catchphrases, sidekicks, villains, and impossible gags."
-    ]
+    ],
+    "tmdb_id": 13943,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Beavis and Butt Head",
+      "ar": "Beavis and Butt Head",
+      "de": "Beavis and Butt Head",
+      "el": "Beavis and Butt Head",
+      "es": "Beavis y Butt-head",
+      "fr": "Beavis et Butt-Head",
+      "he": "ביוויס ובאטהד",
+      "hi": "Beavis and Butt Head",
+      "ja": "Beavis and Butt Head",
+      "ko": "Beavis and Butt Head",
+      "ru": "Бивис и Батт-Хед",
+      "zh": "瘪四与大头蛋"
+    }
   },
   {
     "celebrity": "The Boondocks",
@@ -1761,7 +4881,23 @@
       "Its clues draw from the character shapes, comic rhythm, setting, and repeatable visual jokes.",
       "Think about the cartoon setup it builds: odd jobs, magical kingdoms, domestic chaos, or neighborhood escapades.",
       "The hint is in the recurring ingredients fans imitate: voices, catchphrases, sidekicks, villains, and impossible gags."
-    ]
+    ],
+    "tmdb_id": 2604,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "The Boondocks",
+      "ar": "The Boondocks",
+      "de": "The Boondocks",
+      "el": "The Boondocks",
+      "es": "Boondocks",
+      "fr": "Les Boondocks",
+      "he": "הבונדוקס",
+      "hi": "The Boondocks",
+      "ja": "ブーンドックス",
+      "ko": "The Boondocks",
+      "ru": "Гетто",
+      "zh": "乡下人"
+    }
   },
   {
     "celebrity": "Archer",
@@ -1770,7 +4906,23 @@
       "Its clues draw from the character shapes, comic rhythm, setting, and repeatable visual jokes.",
       "Think about the cartoon setup it builds: odd jobs, magical kingdoms, domestic chaos, or neighborhood escapades.",
       "The hint is in the recurring ingredients fans imitate: voices, catchphrases, sidekicks, villains, and impossible gags."
-    ]
+    ],
+    "tmdb_id": 10283,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Archer",
+      "ar": "Archer",
+      "de": "Archer",
+      "el": "Άρτσερ",
+      "es": "Archer",
+      "fr": "Archer",
+      "he": "ארצ'ר",
+      "hi": "Archer",
+      "ja": "アーチャー",
+      "ko": "아처",
+      "ru": "Арчер",
+      "zh": "间谍亚契"
+    }
   },
   {
     "celebrity": "Bobs Burgers",
@@ -1779,7 +4931,23 @@
       "Its clues draw from the character shapes, comic rhythm, setting, and repeatable visual jokes.",
       "Think about the cartoon setup it builds: odd jobs, magical kingdoms, domestic chaos, or neighborhood escapades.",
       "The hint is in the recurring ingredients fans imitate: voices, catchphrases, sidekicks, villains, and impossible gags."
-    ]
+    ],
+    "tmdb_id": 32726,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Bobs Burgers",
+      "ar": "بوبز برغرز",
+      "de": "Bob's Burgers",
+      "el": "Bobs Burgers",
+      "es": "Bob's Burgers",
+      "fr": "Bobs Burgers",
+      "he": "ההמבורגרים של בוב",
+      "hi": "Bobs Burgers",
+      "ja": "ボブズ・バーガーズ",
+      "ko": "밥스 버거스",
+      "ru": "Закусочная Боба",
+      "zh": "開心漢堡店"
+    }
   },
   {
     "celebrity": "Family Guy",
@@ -1788,7 +4956,23 @@
       "Its clues draw from the character shapes, comic rhythm, setting, and repeatable visual jokes.",
       "Think about the cartoon setup it builds: odd jobs, magical kingdoms, domestic chaos, or neighborhood escapades.",
       "The hint is in the recurring ingredients fans imitate: voices, catchphrases, sidekicks, villains, and impossible gags."
-    ]
+    ],
+    "tmdb_id": 1434,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Family Guy",
+      "ar": "رجل العائلة",
+      "de": "Family Guy",
+      "el": "Family Guy",
+      "es": "Padre de Familia",
+      "fr": "Les Griffin",
+      "he": "איש משפחה",
+      "hi": "Family Guy",
+      "ja": "ファミリー・ガイ",
+      "ko": "패밀리 가이",
+      "ru": "Гриффины",
+      "zh": "蓋酷家庭"
+    }
   },
   {
     "celebrity": "American Dad",
@@ -1797,6 +4981,22 @@
       "Its clues draw from the character shapes, comic rhythm, setting, and repeatable visual jokes.",
       "Think about the cartoon setup it builds: odd jobs, magical kingdoms, domestic chaos, or neighborhood escapades.",
       "The hint is in the recurring ingredients fans imitate: voices, catchphrases, sidekicks, villains, and impossible gags."
-    ]
+    ],
+    "tmdb_id": 1433,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "American Dad",
+      "ar": "American Dad",
+      "de": "American Dad",
+      "el": "American Dad",
+      "es": "American Dad: Un Agente de Familia",
+      "fr": "American Dad",
+      "he": "אבא אמריקאי",
+      "hi": "American Dad",
+      "ja": "アメリカン・ダッド",
+      "ko": "아메리칸 대드!",
+      "ru": "Американский папаша!",
+      "zh": "美國老爹"
+    }
   }
 ]

@@ -1,12 +1,14 @@
 [
   {
-    "celebrity": "Attack on Titan",
+    "celebrity": "L'attaque des titans",
     "gender": "",
     "facts": [
       "L’humanité se cache derrière d’énormes murs concentriques tandis que des ennemis humanoïdes géants errent à l’extérieur.",
       "Les stagiaires militaires utilisent du matériel de grappin et des lames pour combattre des menaces bien plus grandes qu'eux.",
       "Ses mystères mélangent les lignées royales, les secrets des sous-sols et une guerre bien au-delà de la première ville fortifiée."
-    ]
+    ],
+    "tmdb_id": 1429,
+    "media_type": "tv"
   },
   {
     "celebrity": "Jujutsu Kaisen",
@@ -15,7 +17,9 @@
       "Un gentil adolescent entre dans une école pour combattants de malédictions après avoir avalé un objet dangereux.",
       "Les sorciers utilisent des techniques personnelles pour combattre des monstres nés d’émotions négatives.",
       "Les yeux bandés, les batailles de domaine et une présence démoniaque à l'intérieur du héros sont des indices majeurs."
-    ]
+    ],
+    "tmdb_id": 95479,
+    "media_type": "tv"
   },
   {
     "celebrity": "Death Note",
@@ -24,7 +28,9 @@
       "Un étudiant gagne un cahier surnaturel qui tue toute personne dont le nom est écrit à l'intérieur.",
       "Un détective de génie, un shinigami et des acteurs théâtraux aux chips sont des indices majeurs.",
       "L’histoire devient une bataille du chat et de la souris pour la justice, l’ego et la surveillance."
-    ]
+    ],
+    "tmdb_id": 13916,
+    "media_type": "tv"
   },
   {
     "celebrity": "My Hero Academia",
@@ -33,16 +39,20 @@
       "La plupart des gens ont des capacités surhumaines, mais l’étudiant principal commence sans en avoir.",
       "Une prestigieuse école de formation prépare les adolescents à travers des examens, des sauvetages et des attaques de méchants.",
       "Le pouvoir hérité, la conception des costumes et les classements professionnels sont des indices majeurs."
-    ]
+    ],
+    "tmdb_id": 65930,
+    "media_type": "tv"
   },
   {
-    "celebrity": "One Punch Man",
+    "celebrity": "One-Punch Man",
     "gender": "",
     "facts": [
       "Un héros qui s'ennuie bat presque tous les ennemis d'un seul coup.",
       "La plaisanterie vient d’une force écrasante qui crée une crise existentielle au lieu de la gloire.",
       "Les classements des monstres, les associations de héros et les routines d'entraînement impassibles sont des indices majeurs."
-    ]
+    ],
+    "tmdb_id": 63926,
+    "media_type": "tv"
   },
   {
     "celebrity": "Tokyo Ghoul",
@@ -51,7 +61,9 @@
       "Un étudiant timide devient à moitié monstre après une violente rencontre et une greffe d'organe.",
       "Les cafés, les masques et la faim de chair humaine sont des indices centraux.",
       "L'histoire explore l'identité entre la société humaine et un monde prédateur caché."
-    ]
+    ],
+    "tmdb_id": 61374,
+    "media_type": "tv"
   },
   {
     "celebrity": "One Piece",
@@ -60,7 +72,9 @@
       "Un pirate au corps en caoutchouc rassemble un équipage pour chasser le plus grand trésor du monde.",
       "Les fruits du démon, les avis de recherche, les routes maritimes et les équipages des familles retrouvées sont des indices majeurs.",
       "Son long voyage traverse des îles étranges, des gouvernements corrompus et des rêves de liberté."
-    ]
+    ],
+    "tmdb_id": 37854,
+    "media_type": "tv"
   },
   {
     "celebrity": "Naruto",
@@ -69,7 +83,9 @@
       "Un jeune ninja ostracisé veut la reconnaissance de son village et transporte une bête scellée à l'intérieur.",
       "Les bandeaux, les signes de la main, les clans rivaux et les examens des jeunes guerriers sont des indices majeurs.",
       "L'histoire se construit autour de l'amitié, de la vengeance, des traumatismes hérités et du fait de devenir chef de village."
-    ]
+    ],
+    "tmdb_id": 46260,
+    "media_type": "tv"
   },
   {
     "celebrity": "Sword Art Online",
@@ -78,16 +94,20 @@
       "Les joueurs sont piégés dans un jeu fantastique virtuel où mourir dans le jeu signifie aussi mourir dehors.",
       "Les châteaux flottants, les compétences en lame et la romance dans les mondes numériques sont des indices majeurs.",
       "Le premier arc transforme une aventure fantastique multijoueur en prison de survie."
-    ]
+    ],
+    "tmdb_id": 45782,
+    "media_type": "tv"
   },
   {
-    "celebrity": "Attack on Titan Final Season",
+    "celebrity": "L'attaque des titans",
     "gender": "",
     "facts": [
       "Ses indices puisent dans le système de pouvoir, les enjeux émotionnels, les rivalités et les motifs visuels que les fans reconnaissent.",
       "Pensez au type de configuration qu'il construit : combats d'étudiants, monstres, malédictions, pirates, ninjas ou arcs de survie.",
       "L’indice est dans son langage anime récurrent : transformations, équipes, tournois, capacités interdites ou histoires douloureuses."
-    ]
+    ],
+    "tmdb_id": 1429,
+    "media_type": "tv"
   },
   {
     "celebrity": "The Promised Neverland",
@@ -96,7 +116,9 @@
       "Ses indices puisent dans le système de pouvoir, les enjeux émotionnels, les rivalités et les motifs visuels que les fans reconnaissent.",
       "Pensez au type de configuration qu'il construit : combats d'étudiants, monstres, malédictions, pirates, ninjas ou arcs de survie.",
       "L’indice est dans son langage anime récurrent : transformations, équipes, tournois, capacités interdites ou histoires douloureuses."
-    ]
+    ],
+    "tmdb_id": 83097,
+    "media_type": "tv"
   },
   {
     "celebrity": "Assassination Classroom",
@@ -105,7 +127,9 @@
       "Ses indices puisent dans le système de pouvoir, les enjeux émotionnels, les rivalités et les motifs visuels que les fans reconnaissent.",
       "Pensez au type de configuration qu'il construit : combats d'étudiants, monstres, malédictions, pirates, ninjas ou arcs de survie.",
       "L’indice est dans son langage anime récurrent : transformations, équipes, tournois, capacités interdites ou histoires douloureuses."
-    ]
+    ],
+    "tmdb_id": 62110,
+    "media_type": "tv"
   },
   {
     "celebrity": "Your Lie in April",
@@ -114,7 +138,9 @@
       "Ses indices puisent dans le système de pouvoir, les enjeux émotionnels, les rivalités et les motifs visuels que les fans reconnaissent.",
       "Pensez au type de configuration qu'il construit : combats d'étudiants, monstres, malédictions, pirates, ninjas ou arcs de survie.",
       "L’indice est dans son langage anime récurrent : transformations, équipes, tournois, capacités interdites ou histoires douloureuses."
-    ]
+    ],
+    "tmdb_id": 61663,
+    "media_type": "tv"
   },
   {
     "celebrity": "Chainsaw Man",
@@ -123,7 +149,9 @@
       "Un jeune chasseur de diables fauché fusionne avec son compagnon démon ressemblant à un animal de compagnie après une trahison.",
       "Le corps du héros devient un outil de violence rugissant lors des combats.",
       "Son monde mélange des équipes de sécurité publique, des diables bizarres, de la comédie noire et des rêves brutaux."
-    ]
+    ],
+    "tmdb_id": 114410,
+    "media_type": "tv"
   },
   {
     "celebrity": "Erased",
@@ -132,7 +160,9 @@
       "Ses indices puisent dans le système de pouvoir, les enjeux émotionnels, les rivalités et les motifs visuels que les fans reconnaissent.",
       "Pensez au type de configuration qu'il construit : combats d'étudiants, monstres, malédictions, pirates, ninjas ou arcs de survie.",
       "L’indice est dans son langage anime récurrent : transformations, équipes, tournois, capacités interdites ou histoires douloureuses."
-    ]
+    ],
+    "tmdb_id": 65249,
+    "media_type": "tv"
   },
   {
     "celebrity": "Rascal Does Not Dream of Bunny Girl Senpai",
@@ -141,7 +171,9 @@
       "Ses indices puisent dans le système de pouvoir, les enjeux émotionnels, les rivalités et les motifs visuels que les fans reconnaissent.",
       "Pensez au type de configuration qu'il construit : combats d'étudiants, monstres, malédictions, pirates, ninjas ou arcs de survie.",
       "L’indice est dans son langage anime récurrent : transformations, équipes, tournois, capacités interdites ou histoires douloureuses."
-    ]
+    ],
+    "tmdb_id": 82739,
+    "media_type": "tv"
   },
   {
     "celebrity": "Black Clover",
@@ -150,25 +182,31 @@
       "Ses indices puisent dans le système de pouvoir, les enjeux émotionnels, les rivalités et les motifs visuels que les fans reconnaissent.",
       "Pensez au type de configuration qu'il construit : combats d'étudiants, monstres, malédictions, pirates, ninjas ou arcs de survie.",
       "L’indice est dans son langage anime récurrent : transformations, équipes, tournois, capacités interdites ou histoires douloureuses."
-    ]
+    ],
+    "tmdb_id": 73223,
+    "media_type": "tv"
   },
   {
-    "celebrity": "Spy X Family",
+    "celebrity": "SPY x FAMILY",
     "gender": "",
     "facts": [
       "Ses indices puisent dans le système de pouvoir, les enjeux émotionnels, les rivalités et les motifs visuels que les fans reconnaissent.",
       "Pensez au type de configuration qu'il construit : combats d'étudiants, monstres, malédictions, pirates, ninjas ou arcs de survie.",
       "L’indice est dans son langage anime récurrent : transformations, équipes, tournois, capacités interdites ou histoires douloureuses."
-    ]
+    ],
+    "tmdb_id": 120089,
+    "media_type": "tv"
   },
   {
-    "celebrity": "Dr Stone",
+    "celebrity": "Dr. STONE",
     "gender": "",
     "facts": [
       "Ses indices puisent dans le système de pouvoir, les enjeux émotionnels, les rivalités et les motifs visuels que les fans reconnaissent.",
       "Pensez au type de configuration qu'il construit : combats d'étudiants, monstres, malédictions, pirates, ninjas ou arcs de survie.",
       "L’indice est dans son langage anime récurrent : transformations, équipes, tournois, capacités interdites ou histoires douloureuses."
-    ]
+    ],
+    "tmdb_id": 86031,
+    "media_type": "tv"
   },
   {
     "celebrity": "Violet Evergarden",
@@ -177,7 +215,9 @@
       "Ses indices puisent dans le système de pouvoir, les enjeux émotionnels, les rivalités et les motifs visuels que les fans reconnaissent.",
       "Pensez au type de configuration qu'il construit : combats d'étudiants, monstres, malédictions, pirates, ninjas ou arcs de survie.",
       "L’indice est dans son langage anime récurrent : transformations, équipes, tournois, capacités interdites ou histoires douloureuses."
-    ]
+    ],
+    "tmdb_id": 75214,
+    "media_type": "tv"
   },
   {
     "celebrity": "Noragami",
@@ -186,7 +226,9 @@
       "Ses indices puisent dans le système de pouvoir, les enjeux émotionnels, les rivalités et les motifs visuels que les fans reconnaissent.",
       "Pensez au type de configuration qu'il construit : combats d'étudiants, monstres, malédictions, pirates, ninjas ou arcs de survie.",
       "L’indice est dans son langage anime récurrent : transformations, équipes, tournois, capacités interdites ou histoires douloureuses."
-    ]
+    ],
+    "tmdb_id": 64710,
+    "media_type": "tv"
   },
   {
     "celebrity": "Vinland Saga",
@@ -195,7 +237,9 @@
       "Ses indices puisent dans le système de pouvoir, les enjeux émotionnels, les rivalités et les motifs visuels que les fans reconnaissent.",
       "Pensez au type de configuration qu'il construit : combats d'étudiants, monstres, malédictions, pirates, ninjas ou arcs de survie.",
       "L’indice est dans son langage anime récurrent : transformations, équipes, tournois, capacités interdites ou histoires douloureuses."
-    ]
+    ],
+    "tmdb_id": 88803,
+    "media_type": "tv"
   },
   {
     "celebrity": "The Seven Deadly Sins",
@@ -204,7 +248,9 @@
       "Ses indices puisent dans le système de pouvoir, les enjeux émotionnels, les rivalités et les motifs visuels que les fans reconnaissent.",
       "Pensez au type de configuration qu'il construit : combats d'étudiants, monstres, malédictions, pirates, ninjas ou arcs de survie.",
       "L’indice est dans son langage anime récurrent : transformations, équipes, tournois, capacités interdites ou histoires douloureuses."
-    ]
+    ],
+    "tmdb_id": 62104,
+    "media_type": "tv"
   },
   {
     "celebrity": "Horimiya",
@@ -213,16 +259,20 @@
       "Ses indices puisent dans le système de pouvoir, les enjeux émotionnels, les rivalités et les motifs visuels que les fans reconnaissent.",
       "Pensez au type de configuration qu'il construit : combats d'étudiants, monstres, malédictions, pirates, ninjas ou arcs de survie.",
       "L’indice est dans son langage anime récurrent : transformations, équipes, tournois, capacités interdites ou histoires douloureuses."
-    ]
+    ],
+    "tmdb_id": 110070,
+    "media_type": "tv"
   },
   {
-    "celebrity": "Parasyte the Maxim",
+    "celebrity": "Parasite : la maxime",
     "gender": "",
     "facts": [
       "Ses indices puisent dans le système de pouvoir, les enjeux émotionnels, les rivalités et les motifs visuels que les fans reconnaissent.",
       "Pensez au type de configuration qu'il construit : combats d'étudiants, monstres, malédictions, pirates, ninjas ou arcs de survie.",
       "L’indice est dans son langage anime récurrent : transformations, équipes, tournois, capacités interdites ou histoires douloureuses."
-    ]
+    ],
+    "tmdb_id": 61459,
+    "media_type": "tv"
   },
   {
     "celebrity": "Bleach",
@@ -231,16 +281,20 @@
       "Ses indices puisent dans le système de pouvoir, les enjeux émotionnels, les rivalités et les motifs visuels que les fans reconnaissent.",
       "Pensez au type de configuration qu'il construit : combats d'étudiants, monstres, malédictions, pirates, ninjas ou arcs de survie.",
       "L’indice est dans son langage anime récurrent : transformations, équipes, tournois, capacités interdites ou histoires douloureuses."
-    ]
+    ],
+    "tmdb_id": 30984,
+    "media_type": "tv"
   },
   {
-    "celebrity": "Darling in the Franxx",
+    "celebrity": "Darling in The FranXX",
     "gender": "",
     "facts": [
       "Ses indices puisent dans le système de pouvoir, les enjeux émotionnels, les rivalités et les motifs visuels que les fans reconnaissent.",
       "Pensez au type de configuration qu'il construit : combats d'étudiants, monstres, malédictions, pirates, ninjas ou arcs de survie.",
       "L’indice est dans son langage anime récurrent : transformations, équipes, tournois, capacités interdites ou histoires douloureuses."
-    ]
+    ],
+    "tmdb_id": 76121,
+    "media_type": "tv"
   },
   {
     "celebrity": "Neon Genesis Evangelion",
@@ -249,7 +303,9 @@
       "Ses indices puisent dans le système de pouvoir, les enjeux émotionnels, les rivalités et les motifs visuels que les fans reconnaissent.",
       "Pensez au type de configuration qu'il construit : combats d'étudiants, monstres, malédictions, pirates, ninjas ou arcs de survie.",
       "L’indice est dans son langage anime récurrent : transformations, équipes, tournois, capacités interdites ou histoires douloureuses."
-    ]
+    ],
+    "tmdb_id": 890,
+    "media_type": "tv"
   },
   {
     "celebrity": "Fire Force",
@@ -258,7 +314,9 @@
       "Ses indices puisent dans le système de pouvoir, les enjeux émotionnels, les rivalités et les motifs visuels que les fans reconnaissent.",
       "Pensez au type de configuration qu'il construit : combats d'étudiants, monstres, malédictions, pirates, ninjas ou arcs de survie.",
       "L’indice est dans son langage anime récurrent : transformations, équipes, tournois, capacités interdites ou histoires douloureuses."
-    ]
+    ],
+    "tmdb_id": 88046,
+    "media_type": "tv"
   },
   {
     "celebrity": "Death Parade",
@@ -267,7 +325,9 @@
       "Ses indices puisent dans le système de pouvoir, les enjeux émotionnels, les rivalités et les motifs visuels que les fans reconnaissent.",
       "Pensez au type de configuration qu'il construit : combats d'étudiants, monstres, malédictions, pirates, ninjas ou arcs de survie.",
       "L’indice est dans son langage anime récurrent : transformations, équipes, tournois, capacités interdites ou histoires douloureuses."
-    ]
+    ],
+    "tmdb_id": 61901,
+    "media_type": "tv"
   },
   {
     "celebrity": "Cowboy Bebop",
@@ -276,7 +336,9 @@
       "Ses indices puisent dans le système de pouvoir, les enjeux émotionnels, les rivalités et les motifs visuels que les fans reconnaissent.",
       "Pensez au type de configuration qu'il construit : combats d'étudiants, monstres, malédictions, pirates, ninjas ou arcs de survie.",
       "L’indice est dans son langage anime récurrent : transformations, équipes, tournois, capacités interdites ou histoires douloureuses."
-    ]
+    ],
+    "tmdb_id": 30991,
+    "media_type": "tv"
   },
   {
     "celebrity": "Blue Exorcist",
@@ -285,16 +347,20 @@
       "Ses indices puisent dans le système de pouvoir, les enjeux émotionnels, les rivalités et les motifs visuels que les fans reconnaissent.",
       "Pensez au type de configuration qu'il construit : combats d'étudiants, monstres, malédictions, pirates, ninjas ou arcs de survie.",
       "L’indice est dans son langage anime récurrent : transformations, équipes, tournois, capacités interdites ou histoires douloureuses."
-    ]
+    ],
+    "tmdb_id": 38464,
+    "media_type": "tv"
   },
   {
-    "celebrity": "Kakegurui",
+    "celebrity": "Gambling School",
     "gender": "",
     "facts": [
       "Ses indices puisent dans le système de pouvoir, les enjeux émotionnels, les rivalités et les motifs visuels que les fans reconnaissent.",
       "Pensez au type de configuration qu'il construit : combats d'étudiants, monstres, malédictions, pirates, ninjas ou arcs de survie.",
       "L’indice est dans son langage anime récurrent : transformations, équipes, tournois, capacités interdites ou histoires douloureuses."
-    ]
+    ],
+    "tmdb_id": 72305,
+    "media_type": "tv"
   },
   {
     "celebrity": "The Rising of the Shield Hero",
@@ -303,16 +369,20 @@
       "Ses indices puisent dans le système de pouvoir, les enjeux émotionnels, les rivalités et les motifs visuels que les fans reconnaissent.",
       "Pensez au type de configuration qu'il construit : combats d'étudiants, monstres, malédictions, pirates, ninjas ou arcs de survie.",
       "L’indice est dans son langage anime récurrent : transformations, équipes, tournois, capacités interdites ou histoires douloureuses."
-    ]
+    ],
+    "tmdb_id": 83095,
+    "media_type": "tv"
   },
   {
-    "celebrity": "That Time I Got Reincarnated as a Slime",
+    "celebrity": "Moi, quand je me réincarne en Slime",
     "gender": "",
     "facts": [
       "Ses indices puisent dans le système de pouvoir, les enjeux émotionnels, les rivalités et les motifs visuels que les fans reconnaissent.",
       "Pensez au type de configuration qu'il construit : combats d'étudiants, monstres, malédictions, pirates, ninjas ou arcs de survie.",
       "L’indice est dans son langage anime récurrent : transformations, équipes, tournois, capacités interdites ou histoires douloureuses."
-    ]
+    ],
+    "tmdb_id": 82684,
+    "media_type": "tv"
   },
   {
     "celebrity": "Tokyo Revengers",
@@ -321,7 +391,9 @@
       "Ses indices puisent dans le système de pouvoir, les enjeux émotionnels, les rivalités et les motifs visuels que les fans reconnaissent.",
       "Pensez au type de configuration qu'il construit : combats d'étudiants, monstres, malédictions, pirates, ninjas ou arcs de survie.",
       "L’indice est dans son langage anime récurrent : transformations, équipes, tournois, capacités interdites ou histoires douloureuses."
-    ]
+    ],
+    "tmdb_id": 105009,
+    "media_type": "tv"
   },
   {
     "celebrity": "Classroom of the Elite",
@@ -330,16 +402,20 @@
       "Ses indices puisent dans le système de pouvoir, les enjeux émotionnels, les rivalités et les motifs visuels que les fans reconnaissent.",
       "Pensez au type de configuration qu'il construit : combats d'étudiants, monstres, malédictions, pirates, ninjas ou arcs de survie.",
       "L’indice est dans son langage anime récurrent : transformations, équipes, tournois, capacités interdites ou histoires douloureuses."
-    ]
+    ],
+    "tmdb_id": 72517,
+    "media_type": "tv"
   },
   {
-    "celebrity": "The Future Diary",
+    "celebrity": "Mirai Nikki",
     "gender": "",
     "facts": [
       "Ses indices puisent dans le système de pouvoir, les enjeux émotionnels, les rivalités et les motifs visuels que les fans reconnaissent.",
       "Pensez au type de configuration qu'il construit : combats d'étudiants, monstres, malédictions, pirates, ninjas ou arcs de survie.",
       "L’indice est dans son langage anime récurrent : transformations, équipes, tournois, capacités interdites ou histoires douloureuses."
-    ]
+    ],
+    "tmdb_id": 46671,
+    "media_type": "tv"
   },
   {
     "celebrity": "Charlotte",
@@ -348,7 +424,9 @@
       "Ses indices puisent dans le système de pouvoir, les enjeux émotionnels, les rivalités et les motifs visuels que les fans reconnaissent.",
       "Pensez au type de configuration qu'il construit : combats d'étudiants, monstres, malédictions, pirates, ninjas ou arcs de survie.",
       "L’indice est dans son langage anime récurrent : transformations, équipes, tournois, capacités interdites ou histoires douloureuses."
-    ]
+    ],
+    "tmdb_id": 63145,
+    "media_type": "tv"
   },
   {
     "celebrity": "Bungo Stray Dogs",
@@ -357,7 +435,9 @@
       "Ses indices puisent dans le système de pouvoir, les enjeux émotionnels, les rivalités et les motifs visuels que les fans reconnaissent.",
       "Pensez au type de configuration qu'il construit : combats d'étudiants, monstres, malédictions, pirates, ninjas ou arcs de survie.",
       "L’indice est dans son langage anime récurrent : transformations, équipes, tournois, capacités interdites ou histoires douloureuses."
-    ]
+    ],
+    "tmdb_id": 65931,
+    "media_type": "tv"
   },
   {
     "celebrity": "Solo Leveling",
@@ -366,16 +446,20 @@
       "Ses indices puisent dans le système de pouvoir, les enjeux émotionnels, les rivalités et les motifs visuels que les fans reconnaissent.",
       "Pensez au type de configuration qu'il construit : combats d'étudiants, monstres, malédictions, pirates, ninjas ou arcs de survie.",
       "L’indice est dans son langage anime récurrent : transformations, équipes, tournois, capacités interdites ou histoires douloureuses."
-    ]
+    ],
+    "tmdb_id": 127532,
+    "media_type": "tv"
   },
   {
-    "celebrity": "Made in Abyss",
+    "celebrity": "Made In Abyss",
     "gender": "",
     "facts": [
       "Ses indices puisent dans le système de pouvoir, les enjeux émotionnels, les rivalités et les motifs visuels que les fans reconnaissent.",
       "Pensez au type de configuration qu'il construit : combats d'étudiants, monstres, malédictions, pirates, ninjas ou arcs de survie.",
       "L’indice est dans son langage anime récurrent : transformations, équipes, tournois, capacités interdites ou histoires douloureuses."
-    ]
+    ],
+    "tmdb_id": 72636,
+    "media_type": "tv"
   },
   {
     "celebrity": "Overlord",
@@ -384,7 +468,9 @@
       "Ses indices puisent dans le système de pouvoir, les enjeux émotionnels, les rivalités et les motifs visuels que les fans reconnaissent.",
       "Pensez au type de configuration qu'il construit : combats d'étudiants, monstres, malédictions, pirates, ninjas ou arcs de survie.",
       "L’indice est dans son langage anime récurrent : transformations, équipes, tournois, capacités interdites ou histoires douloureuses."
-    ]
+    ],
+    "tmdb_id": 64196,
+    "media_type": "tv"
   },
   {
     "celebrity": "Soul Eater",
@@ -393,7 +479,9 @@
       "Ses indices puisent dans le système de pouvoir, les enjeux émotionnels, les rivalités et les motifs visuels que les fans reconnaissent.",
       "Pensez au type de configuration qu'il construit : combats d'étudiants, monstres, malédictions, pirates, ninjas ou arcs de survie.",
       "L’indice est dans son langage anime récurrent : transformations, équipes, tournois, capacités interdites ou histoires douloureuses."
-    ]
+    ],
+    "tmdb_id": 37305,
+    "media_type": "tv"
   },
   {
     "celebrity": "Another",
@@ -402,7 +490,9 @@
       "Ses indices puisent dans le système de pouvoir, les enjeux émotionnels, les rivalités et les motifs visuels que les fans reconnaissent.",
       "Pensez au type de configuration qu'il construit : combats d'étudiants, monstres, malédictions, pirates, ninjas ou arcs de survie.",
       "L’indice est dans son langage anime récurrent : transformations, équipes, tournois, capacités interdites ou histoires douloureuses."
-    ]
+    ],
+    "tmdb_id": 42589,
+    "media_type": "tv"
   },
   {
     "celebrity": "Fairy Tail",
@@ -411,16 +501,20 @@
       "Ses indices puisent dans le système de pouvoir, les enjeux émotionnels, les rivalités et les motifs visuels que les fans reconnaissent.",
       "Pensez au type de configuration qu'il construit : combats d'étudiants, monstres, malédictions, pirates, ninjas ou arcs de survie.",
       "L’indice est dans son langage anime récurrent : transformations, équipes, tournois, capacités interdites ou histoires douloureuses."
-    ]
+    ],
+    "tmdb_id": 46261,
+    "media_type": "tv"
   },
   {
-    "celebrity": "My Teen Romantic Comedy Snafu",
+    "celebrity": "My Teen Romantic Comedy SNAFU",
     "gender": "",
     "facts": [
       "Ses indices puisent dans le système de pouvoir, les enjeux émotionnels, les rivalités et les motifs visuels que les fans reconnaissent.",
       "Pensez au type de configuration qu'il construit : combats d'étudiants, monstres, malédictions, pirates, ninjas ou arcs de survie.",
       "L’indice est dans son langage anime récurrent : transformations, équipes, tournois, capacités interdites ou histoires douloureuses."
-    ]
+    ],
+    "tmdb_id": 65676,
+    "media_type": "tv"
   },
   {
     "celebrity": "Gurren Lagann",
@@ -429,7 +523,9 @@
       "Ses indices puisent dans le système de pouvoir, les enjeux émotionnels, les rivalités et les motifs visuels que les fans reconnaissent.",
       "Pensez au type de configuration qu'il construit : combats d'étudiants, monstres, malédictions, pirates, ninjas ou arcs de survie.",
       "L’indice est dans son langage anime récurrent : transformations, équipes, tournois, capacités interdites ou histoires douloureuses."
-    ]
+    ],
+    "tmdb_id": 21729,
+    "media_type": "tv"
   },
   {
     "celebrity": "Dororo",
@@ -438,34 +534,42 @@
       "Ses indices puisent dans le système de pouvoir, les enjeux émotionnels, les rivalités et les motifs visuels que les fans reconnaissent.",
       "Pensez au type de configuration qu'il construit : combats d'étudiants, monstres, malédictions, pirates, ninjas ou arcs de survie.",
       "L’indice est dans son langage anime récurrent : transformations, équipes, tournois, capacités interdites ou histoires douloureuses."
-    ]
+    ],
+    "tmdb_id": 83100,
+    "media_type": "tv"
   },
   {
-    "celebrity": "Dan Da Dan",
+    "celebrity": "DAN DA DAN",
     "gender": "",
     "facts": [
       "Ses indices puisent dans le système de pouvoir, les enjeux émotionnels, les rivalités et les motifs visuels que les fans reconnaissent.",
       "Pensez au type de configuration qu'il construit : combats d'étudiants, monstres, malédictions, pirates, ninjas ou arcs de survie.",
       "L’indice est dans son langage anime récurrent : transformations, équipes, tournois, capacités interdites ou histoires douloureuses."
-    ]
+    ],
+    "tmdb_id": 240411,
+    "media_type": "tv"
   },
   {
-    "celebrity": "Psycho Pass",
+    "celebrity": "Psycho-Pass",
     "gender": "",
     "facts": [
       "Ses indices puisent dans le système de pouvoir, les enjeux émotionnels, les rivalités et les motifs visuels que les fans reconnaissent.",
       "Pensez au type de configuration qu'il construit : combats d'étudiants, monstres, malédictions, pirates, ninjas ou arcs de survie.",
       "L’indice est dans son langage anime récurrent : transformations, équipes, tournois, capacités interdites ou histoires douloureuses."
-    ]
+    ],
+    "tmdb_id": 43865,
+    "media_type": "tv"
   },
   {
-    "celebrity": "The Disastrous Life of Saiki K",
+    "celebrity": "The Disastrous Life of Saiki K.",
     "gender": "",
     "facts": [
       "Ses indices puisent dans le système de pouvoir, les enjeux émotionnels, les rivalités et les motifs visuels que les fans reconnaissent.",
       "Pensez au type de configuration qu'il construit : combats d'étudiants, monstres, malédictions, pirates, ninjas ou arcs de survie.",
       "L’indice est dans son langage anime récurrent : transformations, équipes, tournois, capacités interdites ou histoires douloureuses."
-    ]
+    ],
+    "tmdb_id": 67676,
+    "media_type": "tv"
   },
   {
     "celebrity": "Hyouka",
@@ -474,16 +578,20 @@
       "Ses indices puisent dans le système de pouvoir, les enjeux émotionnels, les rivalités et les motifs visuels que les fans reconnaissent.",
       "Pensez au type de configuration qu'il construit : combats d'étudiants, monstres, malédictions, pirates, ninjas ou arcs de survie.",
       "L’indice est dans son langage anime récurrent : transformations, équipes, tournois, capacités interdites ou histoires douloureuses."
-    ]
+    ],
+    "tmdb_id": 65329,
+    "media_type": "tv"
   },
   {
-    "celebrity": "Bakemonogatari",
+    "celebrity": "Monogatari",
     "gender": "",
     "facts": [
       "Ses indices puisent dans le système de pouvoir, les enjeux émotionnels, les rivalités et les motifs visuels que les fans reconnaissent.",
       "Pensez au type de configuration qu'il construit : combats d'étudiants, monstres, malédictions, pirates, ninjas ou arcs de survie.",
       "L’indice est dans son langage anime récurrent : transformations, équipes, tournois, capacités interdites ou histoires douloureuses."
-    ]
+    ],
+    "tmdb_id": 46195,
+    "media_type": "tv"
   },
   {
     "celebrity": "Tower of God",
@@ -492,7 +600,9 @@
       "Ses indices puisent dans le système de pouvoir, les enjeux émotionnels, les rivalités et les motifs visuels que les fans reconnaissent.",
       "Pensez au type de configuration qu'il construit : combats d'étudiants, monstres, malédictions, pirates, ninjas ou arcs de survie.",
       "L’indice est dans son langage anime récurrent : transformations, équipes, tournois, capacités interdites ou histoires douloureuses."
-    ]
+    ],
+    "tmdb_id": 97860,
+    "media_type": "tv"
   },
   {
     "celebrity": "Monster",
@@ -501,25 +611,31 @@
       "Ses indices puisent dans le système de pouvoir, les enjeux émotionnels, les rivalités et les motifs visuels que les fans reconnaissent.",
       "Pensez au type de configuration qu'il construit : combats d'étudiants, monstres, malédictions, pirates, ninjas ou arcs de survie.",
       "L’indice est dans son langage anime récurrent : transformations, équipes, tournois, capacités interdites ou histoires douloureuses."
-    ]
+    ],
+    "tmdb_id": 30981,
+    "media_type": "tv"
   },
   {
-    "celebrity": "Puella Magi Madoka Magica",
+    "celebrity": "Puella Magi Madoka★Magica",
     "gender": "",
     "facts": [
       "Ses indices puisent dans le système de pouvoir, les enjeux émotionnels, les rivalités et les motifs visuels que les fans reconnaissent.",
       "Pensez au type de configuration qu'il construit : combats d'étudiants, monstres, malédictions, pirates, ninjas ou arcs de survie.",
       "L’indice est dans son langage anime récurrent : transformations, équipes, tournois, capacités interdites ou histoires douloureuses."
-    ]
+    ],
+    "tmdb_id": 39218,
+    "media_type": "tv"
   },
   {
-    "celebrity": "Oshi No Ko",
+    "celebrity": "Oshi no Ko",
     "gender": "",
     "facts": [
       "Ses indices puisent dans le système de pouvoir, les enjeux émotionnels, les rivalités et les motifs visuels que les fans reconnaissent.",
       "Pensez au type de configuration qu'il construit : combats d'étudiants, monstres, malédictions, pirates, ninjas ou arcs de survie.",
       "L’indice est dans son langage anime récurrent : transformations, équipes, tournois, capacités interdites ou histoires douloureuses."
-    ]
+    ],
+    "tmdb_id": 203737,
+    "media_type": "tv"
   },
   {
     "celebrity": "To Your Eternity",
@@ -528,7 +644,9 @@
       "Ses indices puisent dans le système de pouvoir, les enjeux émotionnels, les rivalités et les motifs visuels que les fans reconnaissent.",
       "Pensez au type de configuration qu'il construit : combats d'étudiants, monstres, malédictions, pirates, ninjas ou arcs de survie.",
       "L’indice est dans son langage anime récurrent : transformations, équipes, tournois, capacités interdites ou histoires douloureuses."
-    ]
+    ],
+    "tmdb_id": 97525,
+    "media_type": "tv"
   },
   {
     "celebrity": "Banana Fish",
@@ -537,7 +655,9 @@
       "Ses indices puisent dans le système de pouvoir, les enjeux émotionnels, les rivalités et les motifs visuels que les fans reconnaissent.",
       "Pensez au type de configuration qu'il construit : combats d'étudiants, monstres, malédictions, pirates, ninjas ou arcs de survie.",
       "L’indice est dans son langage anime récurrent : transformations, équipes, tournois, capacités interdites ou histoires douloureuses."
-    ]
+    ],
+    "tmdb_id": 80564,
+    "media_type": "tv"
   },
   {
     "celebrity": "Blue Lock",
@@ -546,7 +666,9 @@
       "Ses indices puisent dans le système de pouvoir, les enjeux émotionnels, les rivalités et les motifs visuels que les fans reconnaissent.",
       "Pensez au type de configuration qu'il construit : combats d'étudiants, monstres, malédictions, pirates, ninjas ou arcs de survie.",
       "L’indice est dans son langage anime récurrent : transformations, équipes, tournois, capacités interdites ou histoires douloureuses."
-    ]
+    ],
+    "tmdb_id": 131041,
+    "media_type": "tv"
   },
   {
     "celebrity": "The Quintessential Quintuplets",
@@ -555,7 +677,9 @@
       "Ses indices puisent dans le système de pouvoir, les enjeux émotionnels, les rivalités et les motifs visuels que les fans reconnaissent.",
       "Pensez au type de configuration qu'il construit : combats d'étudiants, monstres, malédictions, pirates, ninjas ou arcs de survie.",
       "L’indice est dans son langage anime récurrent : transformations, équipes, tournois, capacités interdites ou histoires douloureuses."
-    ]
+    ],
+    "tmdb_id": 84669,
+    "media_type": "tv"
   },
   {
     "celebrity": "86 Eighty Six",
@@ -564,16 +688,20 @@
       "Ses indices puisent dans le système de pouvoir, les enjeux émotionnels, les rivalités et les motifs visuels que les fans reconnaissent.",
       "Pensez au type de configuration qu'il construit : combats d'étudiants, monstres, malédictions, pirates, ninjas ou arcs de survie.",
       "L’indice est dans son langage anime récurrent : transformations, équipes, tournois, capacités interdites ou histoires douloureuses."
-    ]
+    ],
+    "tmdb_id": 100565,
+    "media_type": "tv"
   },
   {
-    "celebrity": "Rent a Girlfriend",
+    "celebrity": "Rent-a-Girlfriend",
     "gender": "",
     "facts": [
       "Ses indices puisent dans le système de pouvoir, les enjeux émotionnels, les rivalités et les motifs visuels que les fans reconnaissent.",
       "Pensez au type de configuration qu'il construit : combats d'étudiants, monstres, malédictions, pirates, ninjas ou arcs de survie.",
       "L’indice est dans son langage anime récurrent : transformations, équipes, tournois, capacités interdites ou histoires douloureuses."
-    ]
+    ],
+    "tmdb_id": 96316,
+    "media_type": "tv"
   },
   {
     "celebrity": "Goblin Slayer",
@@ -582,7 +710,9 @@
       "Ses indices puisent dans le système de pouvoir, les enjeux émotionnels, les rivalités et les motifs visuels que les fans reconnaissent.",
       "Pensez au type de configuration qu'il construit : combats d'étudiants, monstres, malédictions, pirates, ninjas ou arcs de survie.",
       "L’indice est dans son langage anime récurrent : transformations, équipes, tournois, capacités interdites ou histoires douloureuses."
-    ]
+    ],
+    "tmdb_id": 82591,
+    "media_type": "tv"
   },
   {
     "celebrity": "The God of High School",
@@ -591,7 +721,9 @@
       "Ses indices puisent dans le système de pouvoir, les enjeux émotionnels, les rivalités et les motifs visuels que les fans reconnaissent.",
       "Pensez au type de configuration qu'il construit : combats d'étudiants, monstres, malédictions, pirates, ninjas ou arcs de survie.",
       "L’indice est dans son langage anime récurrent : transformations, équipes, tournois, capacités interdites ou histoires douloureuses."
-    ]
+    ],
+    "tmdb_id": 99778,
+    "media_type": "tv"
   },
   {
     "celebrity": "Clannad",
@@ -600,16 +732,20 @@
       "Ses indices puisent dans le système de pouvoir, les enjeux émotionnels, les rivalités et les motifs visuels que les fans reconnaissent.",
       "Pensez au type de configuration qu'il construit : combats d'étudiants, monstres, malédictions, pirates, ninjas ou arcs de survie.",
       "L’indice est dans son langage anime récurrent : transformations, équipes, tournois, capacités interdites ou histoires douloureuses."
-    ]
+    ],
+    "tmdb_id": 24835,
+    "media_type": "tv"
   },
   {
-    "celebrity": "The Apothecary Diaries",
+    "celebrity": "Les Carnets de l'apothicaire",
     "gender": "",
     "facts": [
       "Ses indices puisent dans le système de pouvoir, les enjeux émotionnels, les rivalités et les motifs visuels que les fans reconnaissent.",
       "Pensez au type de configuration qu'il construit : combats d'étudiants, monstres, malédictions, pirates, ninjas ou arcs de survie.",
       "L’indice est dans son langage anime récurrent : transformations, équipes, tournois, capacités interdites ou histoires douloureuses."
-    ]
+    ],
+    "tmdb_id": 220542,
+    "media_type": "tv"
   },
   {
     "celebrity": "Gintama",
@@ -618,7 +754,9 @@
       "Ses indices puisent dans le système de pouvoir, les enjeux émotionnels, les rivalités et les motifs visuels que les fans reconnaissent.",
       "Pensez au type de configuration qu'il construit : combats d'étudiants, monstres, malédictions, pirates, ninjas ou arcs de survie.",
       "L’indice est dans son langage anime récurrent : transformations, équipes, tournois, capacités interdites ou histoires douloureuses."
-    ]
+    ],
+    "tmdb_id": 57041,
+    "media_type": "tv"
   },
   {
     "celebrity": "Terror in Resonance",
@@ -627,7 +765,9 @@
       "Ses indices puisent dans le système de pouvoir, les enjeux émotionnels, les rivalités et les motifs visuels que les fans reconnaissent.",
       "Pensez au type de configuration qu'il construit : combats d'étudiants, monstres, malédictions, pirates, ninjas ou arcs de survie.",
       "L’indice est dans son langage anime récurrent : transformations, équipes, tournois, capacités interdites ou histoires douloureuses."
-    ]
+    ],
+    "tmdb_id": 61421,
+    "media_type": "tv"
   },
   {
     "celebrity": "Wonder Egg Priority",
@@ -636,7 +776,9 @@
       "Ses indices puisent dans le système de pouvoir, les enjeux émotionnels, les rivalités et les motifs visuels que les fans reconnaissent.",
       "Pensez au type de configuration qu'il construit : combats d'étudiants, monstres, malédictions, pirates, ninjas ou arcs de survie.",
       "L’indice est dans son langage anime récurrent : transformations, équipes, tournois, capacités interdites ou histoires douloureuses."
-    ]
+    ],
+    "tmdb_id": 111255,
+    "media_type": "tv"
   },
   {
     "celebrity": "Beyond the Boundary",
@@ -645,7 +787,9 @@
       "Ses indices puisent dans le système de pouvoir, les enjeux émotionnels, les rivalités et les motifs visuels que les fans reconnaissent.",
       "Pensez au type de configuration qu'il construit : combats d'étudiants, monstres, malédictions, pirates, ninjas ou arcs de survie.",
       "L’indice est dans son langage anime récurrent : transformations, équipes, tournois, capacités interdites ou histoires douloureuses."
-    ]
+    ],
+    "tmdb_id": 61695,
+    "media_type": "tv"
   },
   {
     "celebrity": "Samurai Champloo",
@@ -654,16 +798,20 @@
       "Ses indices puisent dans le système de pouvoir, les enjeux émotionnels, les rivalités et les motifs visuels que les fans reconnaissent.",
       "Pensez au type de configuration qu'il construit : combats d'étudiants, monstres, malédictions, pirates, ninjas ou arcs de survie.",
       "L’indice est dans son langage anime récurrent : transformations, équipes, tournois, capacités interdites ou histoires douloureuses."
-    ]
+    ],
+    "tmdb_id": 1063,
+    "media_type": "tv"
   },
   {
-    "celebrity": "The Pet Girl of Sakurasou",
+    "celebrity": "Sakurasou no Pet na Kanojo",
     "gender": "",
     "facts": [
       "Ses indices puisent dans le système de pouvoir, les enjeux émotionnels, les rivalités et les motifs visuels que les fans reconnaissent.",
       "Pensez au type de configuration qu'il construit : combats d'étudiants, monstres, malédictions, pirates, ninjas ou arcs de survie.",
       "L’indice est dans son langage anime récurrent : transformations, équipes, tournois, capacités interdites ou histoires douloureuses."
-    ]
+    ],
+    "tmdb_id": 50325,
+    "media_type": "tv"
   },
   {
     "celebrity": "Nisekoi",
@@ -672,25 +820,31 @@
       "Ses indices puisent dans le système de pouvoir, les enjeux émotionnels, les rivalités et les motifs visuels que les fans reconnaissent.",
       "Pensez au type de configuration qu'il construit : combats d'étudiants, monstres, malédictions, pirates, ninjas ou arcs de survie.",
       "L’indice est dans son langage anime récurrent : transformations, équipes, tournois, capacités interdites ou histoires douloureuses."
-    ]
+    ],
+    "tmdb_id": 62640,
+    "media_type": "tv"
   },
   {
-    "celebrity": "Kaiju No 8",
+    "celebrity": "Kaiju No. 8",
     "gender": "",
     "facts": [
       "Ses indices puisent dans le système de pouvoir, les enjeux émotionnels, les rivalités et les motifs visuels que les fans reconnaissent.",
       "Pensez au type de configuration qu'il construit : combats d'étudiants, monstres, malédictions, pirates, ninjas ou arcs de survie.",
       "L’indice est dans son langage anime récurrent : transformations, équipes, tournois, capacités interdites ou histoires douloureuses."
-    ]
+    ],
+    "tmdb_id": 207468,
+    "media_type": "tv"
   },
   {
-    "celebrity": "Fate Stay Night Unlimited Blade Works",
+    "celebrity": "Fate Stay Night : Unlimited Blade Works",
     "gender": "",
     "facts": [
       "Ses indices puisent dans le système de pouvoir, les enjeux émotionnels, les rivalités et les motifs visuels que les fans reconnaissent.",
       "Pensez au type de configuration qu'il construit : combats d'étudiants, monstres, malédictions, pirates, ninjas ou arcs de survie.",
       "L’indice est dans son langage anime récurrent : transformations, équipes, tournois, capacités interdites ou histoires douloureuses."
-    ]
+    ],
+    "tmdb_id": 61415,
+    "media_type": "tv"
   },
   {
     "celebrity": "Call of the Night",
@@ -699,7 +853,9 @@
       "Ses indices puisent dans le système de pouvoir, les enjeux émotionnels, les rivalités et les motifs visuels que les fans reconnaissent.",
       "Pensez au type de configuration qu'il construit : combats d'étudiants, monstres, malédictions, pirates, ninjas ou arcs de survie.",
       "L’indice est dans son langage anime récurrent : transformations, équipes, tournois, capacités interdites ou histoires douloureuses."
-    ]
+    ],
+    "tmdb_id": 138357,
+    "media_type": "tv"
   },
   {
     "celebrity": "Fullmetal Alchemist",
@@ -708,7 +864,9 @@
       "Ses indices puisent dans le système de pouvoir, les enjeux émotionnels, les rivalités et les motifs visuels que les fans reconnaissent.",
       "Pensez au type de configuration qu'il construit : combats d'étudiants, monstres, malédictions, pirates, ninjas ou arcs de survie.",
       "L’indice est dans son langage anime récurrent : transformations, équipes, tournois, capacités interdites ou histoires douloureuses."
-    ]
+    ],
+    "tmdb_id": 37863,
+    "media_type": "tv"
   },
   {
     "celebrity": "Saga of Tanya the Evil",
@@ -717,7 +875,9 @@
       "Ses indices puisent dans le système de pouvoir, les enjeux émotionnels, les rivalités et les motifs visuels que les fans reconnaissent.",
       "Pensez au type de configuration qu'il construit : combats d'étudiants, monstres, malédictions, pirates, ninjas ou arcs de survie.",
       "L’indice est dans son langage anime récurrent : transformations, équipes, tournois, capacités interdites ou histoires douloureuses."
-    ]
+    ],
+    "tmdb_id": 69346,
+    "media_type": "tv"
   },
   {
     "celebrity": "Golden Time",
@@ -726,7 +886,9 @@
       "Ses indices puisent dans le système de pouvoir, les enjeux émotionnels, les rivalités et les motifs visuels que les fans reconnaissent.",
       "Pensez au type de configuration qu'il construit : combats d'étudiants, monstres, malédictions, pirates, ninjas ou arcs de survie.",
       "L’indice est dans son langage anime récurrent : transformations, équipes, tournois, capacités interdites ou histoires douloureuses."
-    ]
+    ],
+    "tmdb_id": 67389,
+    "media_type": "tv"
   },
   {
     "celebrity": "Beastars",
@@ -735,7 +897,9 @@
       "Ses indices puisent dans le système de pouvoir, les enjeux émotionnels, les rivalités et les motifs visuels que les fans reconnaissent.",
       "Pensez au type de configuration qu'il construit : combats d'étudiants, monstres, malédictions, pirates, ninjas ou arcs de survie.",
       "L’indice est dans son langage anime récurrent : transformations, équipes, tournois, capacités interdites ou histoires douloureuses."
-    ]
+    ],
+    "tmdb_id": 90937,
+    "media_type": "tv"
   },
   {
     "celebrity": "Black Butler",
@@ -744,7 +908,9 @@
       "Ses indices puisent dans le système de pouvoir, les enjeux émotionnels, les rivalités et les motifs visuels que les fans reconnaissent.",
       "Pensez au type de configuration qu'il construit : combats d'étudiants, monstres, malédictions, pirates, ninjas ou arcs de survie.",
       "L’indice est dans son langage anime récurrent : transformations, équipes, tournois, capacités interdites ou histoires douloureuses."
-    ]
+    ],
+    "tmdb_id": 50712,
+    "media_type": "tv"
   },
   {
     "celebrity": "The Irregular at Magic High School",
@@ -753,7 +919,9 @@
       "Ses indices puisent dans le système de pouvoir, les enjeux émotionnels, les rivalités et les motifs visuels que les fans reconnaissent.",
       "Pensez au type de configuration qu'il construit : combats d'étudiants, monstres, malédictions, pirates, ninjas ou arcs de survie.",
       "L’indice est dans son langage anime récurrent : transformations, équipes, tournois, capacités interdites ou histoires douloureuses."
-    ]
+    ],
+    "tmdb_id": 60833,
+    "media_type": "tv"
   },
   {
     "celebrity": "Plastic Memories",
@@ -762,7 +930,9 @@
       "Ses indices puisent dans le système de pouvoir, les enjeux émotionnels, les rivalités et les motifs visuels que les fans reconnaissent.",
       "Pensez au type de configuration qu'il construit : combats d'étudiants, monstres, malédictions, pirates, ninjas ou arcs de survie.",
       "L’indice est dans son langage anime récurrent : transformations, équipes, tournois, capacités interdites ou histoires douloureuses."
-    ]
+    ],
+    "tmdb_id": 62450,
+    "media_type": "tv"
   },
   {
     "celebrity": "Dragon Ball Z",
@@ -771,7 +941,9 @@
       "Ses indices puisent dans le système de pouvoir, les enjeux émotionnels, les rivalités et les motifs visuels que les fans reconnaissent.",
       "Pensez au type de configuration qu'il construit : combats d'étudiants, monstres, malédictions, pirates, ninjas ou arcs de survie.",
       "L’indice est dans son langage anime récurrent : transformations, équipes, tournois, capacités interdites ou histoires douloureuses."
-    ]
+    ],
+    "tmdb_id": 12971,
+    "media_type": "tv"
   },
   {
     "celebrity": "Ouran High School Host Club",
@@ -780,7 +952,9 @@
       "Ses indices puisent dans le système de pouvoir, les enjeux émotionnels, les rivalités et les motifs visuels que les fans reconnaissent.",
       "Pensez au type de configuration qu'il construit : combats d'étudiants, monstres, malédictions, pirates, ninjas ou arcs de survie.",
       "L’indice est dans son langage anime récurrent : transformations, équipes, tournois, capacités interdites ou histoires douloureuses."
-    ]
+    ],
+    "tmdb_id": 1043,
+    "media_type": "tv"
   },
   {
     "celebrity": "Deadman Wonderland",
@@ -789,7 +963,9 @@
       "Ses indices puisent dans le système de pouvoir, les enjeux émotionnels, les rivalités et les motifs visuels que les fans reconnaissent.",
       "Pensez au type de configuration qu'il construit : combats d'étudiants, monstres, malédictions, pirates, ninjas ou arcs de survie.",
       "L’indice est dans son langage anime récurrent : transformations, équipes, tournois, capacités interdites ou histoires douloureuses."
-    ]
+    ],
+    "tmdb_id": 42503,
+    "media_type": "tv"
   },
   {
     "celebrity": "Black Lagoon",
@@ -798,7 +974,9 @@
       "Ses indices puisent dans le système de pouvoir, les enjeux émotionnels, les rivalités et les motifs visuels que les fans reconnaissent.",
       "Pensez au type de configuration qu'il construit : combats d'étudiants, monstres, malédictions, pirates, ninjas ou arcs de survie.",
       "L’indice est dans son langage anime récurrent : transformations, équipes, tournois, capacités interdites ou histoires douloureuses."
-    ]
+    ],
+    "tmdb_id": 12598,
+    "media_type": "tv"
   },
   {
     "celebrity": "Serial Experiments Lain",
@@ -807,7 +985,9 @@
       "Ses indices puisent dans le système de pouvoir, les enjeux émotionnels, les rivalités et les motifs visuels que les fans reconnaissent.",
       "Pensez au type de configuration qu'il construit : combats d'étudiants, monstres, malédictions, pirates, ninjas ou arcs de survie.",
       "L’indice est dans son langage anime récurrent : transformations, équipes, tournois, capacités interdites ou histoires douloureuses."
-    ]
+    ],
+    "tmdb_id": 1087,
+    "media_type": "tv"
   },
   {
     "celebrity": "Blue Spring Ride",
@@ -816,7 +996,9 @@
       "Ses indices puisent dans le système de pouvoir, les enjeux émotionnels, les rivalités et les motifs visuels que les fans reconnaissent.",
       "Pensez au type de configuration qu'il construit : combats d'étudiants, monstres, malédictions, pirates, ninjas ou arcs de survie.",
       "L’indice est dans son langage anime récurrent : transformations, équipes, tournois, capacités interdites ou histoires douloureuses."
-    ]
+    ],
+    "tmdb_id": 62602,
+    "media_type": "tv"
   },
   {
     "celebrity": "Guilty Crown",
@@ -825,25 +1007,31 @@
       "Ses indices puisent dans le système de pouvoir, les enjeux émotionnels, les rivalités et les motifs visuels que les fans reconnaissent.",
       "Pensez au type de configuration qu'il construit : combats d'étudiants, monstres, malédictions, pirates, ninjas ou arcs de survie.",
       "L’indice est dans son langage anime récurrent : transformations, équipes, tournois, capacités interdites ou histoires douloureuses."
-    ]
+    ],
+    "tmdb_id": 43125,
+    "media_type": "tv"
   },
   {
-    "celebrity": "Nichijou My Ordinary Life",
+    "celebrity": "Nichijô - My ordinary life",
     "gender": "",
     "facts": [
       "Ses indices puisent dans le système de pouvoir, les enjeux émotionnels, les rivalités et les motifs visuels que les fans reconnaissent.",
       "Pensez au type de configuration qu'il construit : combats d'étudiants, monstres, malédictions, pirates, ninjas ou arcs de survie.",
       "L’indice est dans son langage anime récurrent : transformations, équipes, tournois, capacités interdites ou histoires douloureuses."
-    ]
+    ],
+    "tmdb_id": 44684,
+    "media_type": "tv"
   },
   {
-    "celebrity": "Toilet Bound Hanako Kun",
+    "celebrity": "Toilet-Bound  Hanako-Kun",
     "gender": "",
     "facts": [
       "Ses indices puisent dans le système de pouvoir, les enjeux émotionnels, les rivalités et les motifs visuels que les fans reconnaissent.",
       "Pensez au type de configuration qu'il construit : combats d'étudiants, monstres, malédictions, pirates, ninjas ou arcs de survie.",
       "L’indice est dans son langage anime récurrent : transformations, équipes, tournois, capacités interdites ou histoires douloureuses."
-    ]
+    ],
+    "tmdb_id": 95269,
+    "media_type": "tv"
   },
   {
     "celebrity": "Log Horizon",
@@ -852,16 +1040,20 @@
       "Ses indices puisent dans le système de pouvoir, les enjeux émotionnels, les rivalités et les motifs visuels que les fans reconnaissent.",
       "Pensez au type de configuration qu'il construit : combats d'étudiants, monstres, malédictions, pirates, ninjas ou arcs de survie.",
       "L’indice est dans son langage anime récurrent : transformations, équipes, tournois, capacités interdites ou histoires douloureuses."
-    ]
+    ],
+    "tmdb_id": 60846,
+    "media_type": "tv"
   },
   {
-    "celebrity": "Sk8 the Infinity",
+    "celebrity": "SK8 the Infinity",
     "gender": "",
     "facts": [
       "Ses indices puisent dans le système de pouvoir, les enjeux émotionnels, les rivalités et les motifs visuels que les fans reconnaissent.",
       "Pensez au type de configuration qu'il construit : combats d'étudiants, monstres, malédictions, pirates, ninjas ou arcs de survie.",
       "L’indice est dans son langage anime récurrent : transformations, équipes, tournois, capacités interdites ou histoires douloureuses."
-    ]
+    ],
+    "tmdb_id": 110309,
+    "media_type": "tv"
   },
   {
     "celebrity": "Orange",
@@ -870,7 +1062,9 @@
       "Ses indices puisent dans le système de pouvoir, les enjeux émotionnels, les rivalités et les motifs visuels que les fans reconnaissent.",
       "Pensez au type de configuration qu'il construit : combats d'étudiants, monstres, malédictions, pirates, ninjas ou arcs de survie.",
       "L’indice est dans son langage anime récurrent : transformations, équipes, tournois, capacités interdites ou histoires douloureuses."
-    ]
+    ],
+    "tmdb_id": 66958,
+    "media_type": "tv"
   },
   {
     "celebrity": "Dragon Ball",
@@ -879,7 +1073,9 @@
       "Ses indices puisent dans le système de pouvoir, les enjeux émotionnels, les rivalités et les motifs visuels que les fans reconnaissent.",
       "Pensez au type de configuration qu'il construit : combats d'étudiants, monstres, malédictions, pirates, ninjas ou arcs de survie.",
       "L’indice est dans son langage anime récurrent : transformations, équipes, tournois, capacités interdites ou histoires douloureuses."
-    ]
+    ],
+    "tmdb_id": 12609,
+    "media_type": "tv"
   },
   {
     "celebrity": "Blood Blockade Battlefront",
@@ -888,7 +1084,9 @@
       "Ses indices puisent dans le système de pouvoir, les enjeux émotionnels, les rivalités et les motifs visuels que les fans reconnaissent.",
       "Pensez au type de configuration qu'il construit : combats d'étudiants, monstres, malédictions, pirates, ninjas ou arcs de survie.",
       "L’indice est dans son langage anime récurrent : transformations, équipes, tournois, capacités interdites ou histoires douloureuses."
-    ]
+    ],
+    "tmdb_id": 62327,
+    "media_type": "tv"
   },
   {
     "celebrity": "Grand Blue Dreaming",
@@ -897,7 +1095,9 @@
       "Ses indices puisent dans le système de pouvoir, les enjeux émotionnels, les rivalités et les motifs visuels que les fans reconnaissent.",
       "Pensez au type de configuration qu'il construit : combats d'étudiants, monstres, malédictions, pirates, ninjas ou arcs de survie.",
       "L’indice est dans son langage anime récurrent : transformations, équipes, tournois, capacités interdites ou histoires douloureuses."
-    ]
+    ],
+    "tmdb_id": 79166,
+    "media_type": "tv"
   },
   {
     "celebrity": "Ranking of Kings",
@@ -906,7 +1106,9 @@
       "Ses indices puisent dans le système de pouvoir, les enjeux émotionnels, les rivalités et les motifs visuels que les fans reconnaissent.",
       "Pensez au type de configuration qu'il construit : combats d'étudiants, monstres, malédictions, pirates, ninjas ou arcs de survie.",
       "L’indice est dans son langage anime récurrent : transformations, équipes, tournois, capacités interdites ou histoires douloureuses."
-    ]
+    ],
+    "tmdb_id": 112613,
+    "media_type": "tv"
   },
   {
     "celebrity": "Gachiakuta",
@@ -915,7 +1117,9 @@
       "Ses indices puisent dans le système de pouvoir, les enjeux émotionnels, les rivalités et les motifs visuels que les fans reconnaissent.",
       "Pensez au type de configuration qu'il construit : combats d'étudiants, monstres, malédictions, pirates, ninjas ou arcs de survie.",
       "L’indice est dans son langage anime récurrent : transformations, équipes, tournois, capacités interdites ou histoires douloureuses."
-    ]
+    ],
+    "tmdb_id": 256721,
+    "media_type": "tv"
   },
   {
     "celebrity": "Angels of Death",
@@ -924,7 +1128,9 @@
       "Ses indices puisent dans le système de pouvoir, les enjeux émotionnels, les rivalités et les motifs visuels que les fans reconnaissent.",
       "Pensez au type de configuration qu'il construit : combats d'étudiants, monstres, malédictions, pirates, ninjas ou arcs de survie.",
       "L’indice est dans son langage anime récurrent : transformations, équipes, tournois, capacités interdites ou histoires douloureuses."
-    ]
+    ],
+    "tmdb_id": 80477,
+    "media_type": "tv"
   },
   {
     "celebrity": "Summer Time Rendering",
@@ -933,16 +1139,20 @@
       "Ses indices puisent dans le système de pouvoir, les enjeux émotionnels, les rivalités et les motifs visuels que les fans reconnaissent.",
       "Pensez au type de configuration qu'il construit : combats d'étudiants, monstres, malédictions, pirates, ninjas ou arcs de survie.",
       "L’indice est dans son langage anime récurrent : transformations, équipes, tournois, capacités interdites ou histoires douloureuses."
-    ]
+    ],
+    "tmdb_id": 117933,
+    "media_type": "tv"
   },
   {
-    "celebrity": "Yona of the Dawn",
+    "celebrity": "Yona, princesse de l'aube",
     "gender": "",
     "facts": [
       "Ses indices puisent dans le système de pouvoir, les enjeux émotionnels, les rivalités et les motifs visuels que les fans reconnaissent.",
       "Pensez au type de configuration qu'il construit : combats d'étudiants, monstres, malédictions, pirates, ninjas ou arcs de survie.",
       "L’indice est dans son langage anime récurrent : transformations, équipes, tournois, capacités interdites ou histoires douloureuses."
-    ]
+    ],
+    "tmdb_id": 61461,
+    "media_type": "tv"
   },
   {
     "celebrity": "Dragon Ball Super",
@@ -951,16 +1161,20 @@
       "Ses indices puisent dans le système de pouvoir, les enjeux émotionnels, les rivalités et les motifs visuels que les fans reconnaissent.",
       "Pensez au type de configuration qu'il construit : combats d'étudiants, monstres, malédictions, pirates, ninjas ou arcs de survie.",
       "L’indice est dans son langage anime récurrent : transformations, équipes, tournois, capacités interdites ou histoires douloureuses."
-    ]
+    ],
+    "tmdb_id": 62715,
+    "media_type": "tv"
   },
   {
-    "celebrity": "March Comes in Like a Lion",
+    "celebrity": "March Comes in like a Lion",
     "gender": "",
     "facts": [
       "Ses indices puisent dans le système de pouvoir, les enjeux émotionnels, les rivalités et les motifs visuels que les fans reconnaissent.",
       "Pensez au type de configuration qu'il construit : combats d'étudiants, monstres, malédictions, pirates, ninjas ou arcs de survie.",
       "L’indice est dans son langage anime récurrent : transformations, équipes, tournois, capacités interdites ou histoires douloureuses."
-    ]
+    ],
+    "tmdb_id": 65336,
+    "media_type": "tv"
   },
   {
     "celebrity": "Given",
@@ -969,16 +1183,20 @@
       "Ses indices puisent dans le système de pouvoir, les enjeux émotionnels, les rivalités et les motifs visuels que les fans reconnaissent.",
       "Pensez au type de configuration qu'il construit : combats d'étudiants, monstres, malédictions, pirates, ninjas ou arcs de survie.",
       "L’indice est dans son langage anime récurrent : transformations, équipes, tournois, capacités interdites ou histoires douloureuses."
-    ]
+    ],
+    "tmdb_id": 88040,
+    "media_type": "tv"
   },
   {
-    "celebrity": "Delicious in Dungeon",
+    "celebrity": "Gloutons & Dragons",
     "gender": "",
     "facts": [
       "Ses indices puisent dans le système de pouvoir, les enjeux émotionnels, les rivalités et les motifs visuels que les fans reconnaissent.",
       "Pensez au type de configuration qu'il construit : combats d'étudiants, monstres, malédictions, pirates, ninjas ou arcs de survie.",
       "L’indice est dans son langage anime récurrent : transformations, équipes, tournois, capacités interdites ou histoires douloureuses."
-    ]
+    ],
+    "tmdb_id": 207784,
+    "media_type": "tv"
   },
   {
     "celebrity": "Lycoris Recoil",
@@ -987,25 +1205,31 @@
       "Ses indices puisent dans le système de pouvoir, les enjeux émotionnels, les rivalités et les motifs visuels que les fans reconnaissent.",
       "Pensez au type de configuration qu'il construit : combats d'étudiants, monstres, malédictions, pirates, ninjas ou arcs de survie.",
       "L’indice est dans son langage anime récurrent : transformations, équipes, tournois, capacités interdites ou histoires douloureuses."
-    ]
+    ],
+    "tmdb_id": 154494,
+    "media_type": "tv"
   },
   {
-    "celebrity": "Tengoku Daimakyo",
+    "celebrity": "TENGOKU-DAIMAKYO",
     "gender": "",
     "facts": [
       "Ses indices puisent dans le système de pouvoir, les enjeux émotionnels, les rivalités et les motifs visuels que les fans reconnaissent.",
       "Pensez au type de configuration qu'il construit : combats d'étudiants, monstres, malédictions, pirates, ninjas ou arcs de survie.",
       "L’indice est dans son langage anime récurrent : transformations, équipes, tournois, capacités interdites ou histoires douloureuses."
-    ]
+    ],
+    "tmdb_id": 208891,
+    "media_type": "tv"
   },
   {
-    "celebrity": "The Case Study of Vanitas",
+    "celebrity": "Les Mémoires de Vanitas",
     "gender": "",
     "facts": [
       "Ses indices puisent dans le système de pouvoir, les enjeux émotionnels, les rivalités et les motifs visuels que les fans reconnaissent.",
       "Pensez au type de configuration qu'il construit : combats d'étudiants, monstres, malédictions, pirates, ninjas ou arcs de survie.",
       "L’indice est dans son langage anime récurrent : transformations, équipes, tournois, capacités interdites ou histoires douloureuses."
-    ]
+    ],
+    "tmdb_id": 121964,
+    "media_type": "tv"
   },
   {
     "celebrity": "Nana",
@@ -1014,7 +1238,9 @@
       "Ses indices puisent dans le système de pouvoir, les enjeux émotionnels, les rivalités et les motifs visuels que les fans reconnaissent.",
       "Pensez au type de configuration qu'il construit : combats d'étudiants, monstres, malédictions, pirates, ninjas ou arcs de survie.",
       "L’indice est dans son langage anime récurrent : transformations, équipes, tournois, capacités interdites ou histoires douloureuses."
-    ]
+    ],
+    "tmdb_id": 56568,
+    "media_type": "tv"
   },
   {
     "celebrity": "Kiznaiver",
@@ -1023,16 +1249,20 @@
       "Ses indices puisent dans le système de pouvoir, les enjeux émotionnels, les rivalités et les motifs visuels que les fans reconnaissent.",
       "Pensez au type de configuration qu'il construit : combats d'étudiants, monstres, malédictions, pirates, ninjas ou arcs de survie.",
       "L’indice est dans son langage anime récurrent : transformations, équipes, tournois, capacités interdites ou histoires douloureuses."
-    ]
+    ],
+    "tmdb_id": 65950,
+    "media_type": "tv"
   },
   {
-    "celebrity": "The Melancholy of Haruhi Suzumiya",
+    "celebrity": "La Mélancolie de Haruhi Suzumiya",
     "gender": "",
     "facts": [
       "Ses indices puisent dans le système de pouvoir, les enjeux émotionnels, les rivalités et les motifs visuels que les fans reconnaissent.",
       "Pensez au type de configuration qu'il construit : combats d'étudiants, monstres, malédictions, pirates, ninjas ou arcs de survie.",
       "L’indice est dans son langage anime récurrent : transformations, équipes, tournois, capacités interdites ou histoires douloureuses."
-    ]
+    ],
+    "tmdb_id": 42511,
+    "media_type": "tv"
   },
   {
     "celebrity": "91 Days",
@@ -1041,16 +1271,20 @@
       "Ses indices puisent dans le système de pouvoir, les enjeux émotionnels, les rivalités et les motifs visuels que les fans reconnaissent.",
       "Pensez au type de configuration qu'il construit : combats d'étudiants, monstres, malédictions, pirates, ninjas ou arcs de survie.",
       "L’indice est dans son langage anime récurrent : transformations, équipes, tournois, capacités interdites ou histoires douloureuses."
-    ]
+    ],
+    "tmdb_id": 67043,
+    "media_type": "tv"
   },
   {
-    "celebrity": "Welcome to the N H K",
+    "celebrity": "Bienvenue dans la NHK !",
     "gender": "",
     "facts": [
       "Ses indices puisent dans le système de pouvoir, les enjeux émotionnels, les rivalités et les motifs visuels que les fans reconnaissent.",
       "Pensez au type de configuration qu'il construit : combats d'étudiants, monstres, malédictions, pirates, ninjas ou arcs de survie.",
       "L’indice est dans son langage anime récurrent : transformations, équipes, tournois, capacités interdites ou histoires douloureuses."
-    ]
+    ],
+    "tmdb_id": 42821,
+    "media_type": "tv"
   },
   {
     "celebrity": "Black Bullet",
@@ -1059,7 +1293,9 @@
       "Ses indices puisent dans le système de pouvoir, les enjeux émotionnels, les rivalités et les motifs visuels que les fans reconnaissent.",
       "Pensez au type de configuration qu'il construit : combats d'étudiants, monstres, malédictions, pirates, ninjas ou arcs de survie.",
       "L’indice est dans son langage anime récurrent : transformations, équipes, tournois, capacités interdites ou histoires douloureuses."
-    ]
+    ],
+    "tmdb_id": 60834,
+    "media_type": "tv"
   },
   {
     "celebrity": "Tsuredure Children",
@@ -1068,7 +1304,9 @@
       "Ses indices puisent dans le système de pouvoir, les enjeux émotionnels, les rivalités et les motifs visuels que les fans reconnaissent.",
       "Pensez au type de configuration qu'il construit : combats d'étudiants, monstres, malédictions, pirates, ninjas ou arcs de survie.",
       "L’indice est dans son langage anime récurrent : transformations, équipes, tournois, capacités interdites ou histoires douloureuses."
-    ]
+    ],
+    "tmdb_id": 72509,
+    "media_type": "tv"
   },
   {
     "celebrity": "Akashic Records of Bastard Magic Instructor",
@@ -1077,7 +1315,9 @@
       "Ses indices puisent dans le système de pouvoir, les enjeux émotionnels, les rivalités et les motifs visuels que les fans reconnaissent.",
       "Pensez au type de configuration qu'il construit : combats d'étudiants, monstres, malédictions, pirates, ninjas ou arcs de survie.",
       "L’indice est dans son langage anime récurrent : transformations, équipes, tournois, capacités interdites ou histoires douloureuses."
-    ]
+    ],
+    "tmdb_id": 70637,
+    "media_type": "tv"
   },
   {
     "celebrity": "Kabaneri of the Iron Fortress",
@@ -1086,43 +1326,53 @@
       "Ses indices puisent dans le système de pouvoir, les enjeux émotionnels, les rivalités et les motifs visuels que les fans reconnaissent.",
       "Pensez au type de configuration qu'il construit : combats d'étudiants, monstres, malédictions, pirates, ninjas ou arcs de survie.",
       "L’indice est dans son langage anime récurrent : transformations, équipes, tournois, capacités interdites ou histoires douloureuses."
-    ]
+    ],
+    "tmdb_id": 65945,
+    "media_type": "tv"
   },
   {
-    "celebrity": "Daily Lives of High School Boys",
+    "celebrity": "Danshi Koukousei No Nichijou",
     "gender": "",
     "facts": [
       "Ses indices puisent dans le système de pouvoir, les enjeux émotionnels, les rivalités et les motifs visuels que les fans reconnaissent.",
       "Pensez au type de configuration qu'il construit : combats d'étudiants, monstres, malédictions, pirates, ninjas ou arcs de survie.",
       "L’indice est dans son langage anime récurrent : transformations, équipes, tournois, capacités interdites ou histoires douloureuses."
-    ]
+    ],
+    "tmdb_id": 45859,
+    "media_type": "tv"
   },
   {
-    "celebrity": "Gate",
+    "celebrity": "Gate - Au-delà de la porte",
     "gender": "",
     "facts": [
       "Ses indices puisent dans le système de pouvoir, les enjeux émotionnels, les rivalités et les motifs visuels que les fans reconnaissent.",
       "Pensez au type de configuration qu'il construit : combats d'étudiants, monstres, malédictions, pirates, ninjas ou arcs de survie.",
       "L’indice est dans son langage anime récurrent : transformations, équipes, tournois, capacités interdites ou histoires douloureuses."
-    ]
+    ],
+    "tmdb_id": 63663,
+    "media_type": "tv"
   },
   {
-    "celebrity": "Mushi Shi",
+    "celebrity": "Mushishi",
     "gender": "",
     "facts": [
       "Ses indices puisent dans le système de pouvoir, les enjeux émotionnels, les rivalités et les motifs visuels que les fans reconnaissent.",
       "Pensez au type de configuration qu'il construit : combats d'étudiants, monstres, malédictions, pirates, ninjas ou arcs de survie.",
       "L’indice est dans son langage anime récurrent : transformations, équipes, tournois, capacités interdites ou histoires douloureuses."
-    ]
+    ],
+    "tmdb_id": 26867,
+    "media_type": "tv"
   },
   {
-    "celebrity": "My Love Story With Yamada Kun at Lv999",
+    "celebrity": "Mon histoire d'amour avec Yamada à Lv999",
     "gender": "",
     "facts": [
       "Ses indices puisent dans le système de pouvoir, les enjeux émotionnels, les rivalités et les motifs visuels que les fans reconnaissent.",
       "Pensez au type de configuration qu'il construit : combats d'étudiants, monstres, malédictions, pirates, ninjas ou arcs de survie.",
       "L’indice est dans son langage anime récurrent : transformations, équipes, tournois, capacités interdites ou histoires douloureuses."
-    ]
+    ],
+    "tmdb_id": 208067,
+    "media_type": "tv"
   },
   {
     "celebrity": "Kokoro Connect",
@@ -1131,7 +1381,9 @@
       "Ses indices puisent dans le système de pouvoir, les enjeux émotionnels, les rivalités et les motifs visuels que les fans reconnaissent.",
       "Pensez au type de configuration qu'il construit : combats d'étudiants, monstres, malédictions, pirates, ninjas ou arcs de survie.",
       "L’indice est dans son langage anime récurrent : transformations, équipes, tournois, capacités interdites ou histoires douloureuses."
-    ]
+    ],
+    "tmdb_id": 45807,
+    "media_type": "tv"
   },
   {
     "celebrity": "A Certain Magical Index",
@@ -1140,25 +1392,31 @@
       "Ses indices puisent dans le système de pouvoir, les enjeux émotionnels, les rivalités et les motifs visuels que les fans reconnaissent.",
       "Pensez au type de configuration qu'il construit : combats d'étudiants, monstres, malédictions, pirates, ninjas ou arcs de survie.",
       "L’indice est dans son langage anime récurrent : transformations, équipes, tournois, capacités interdites ou histoires douloureuses."
-    ]
+    ],
+    "tmdb_id": 30980,
+    "media_type": "tv"
   },
   {
-    "celebrity": "Fate Stay Night",
+    "celebrity": "Fate/stay night",
     "gender": "",
     "facts": [
       "Ses indices puisent dans le système de pouvoir, les enjeux émotionnels, les rivalités et les motifs visuels que les fans reconnaissent.",
       "Pensez au type de configuration qu'il construit : combats d'étudiants, monstres, malédictions, pirates, ninjas ou arcs de survie.",
       "L’indice est dans son langage anime récurrent : transformations, équipes, tournois, capacités interdites ou histoires douloureuses."
-    ]
+    ],
+    "tmdb_id": 37858,
+    "media_type": "tv"
   },
   {
-    "celebrity": "Blend S",
+    "celebrity": "BLEND-S",
     "gender": "",
     "facts": [
       "Ses indices puisent dans le système de pouvoir, les enjeux émotionnels, les rivalités et les motifs visuels que les fans reconnaissent.",
       "Pensez au type de configuration qu'il construit : combats d'étudiants, monstres, malédictions, pirates, ninjas ou arcs de survie.",
       "L’indice est dans son langage anime récurrent : transformations, équipes, tournois, capacités interdites ou histoires douloureuses."
-    ]
+    ],
+    "tmdb_id": 74081,
+    "media_type": "tv"
   },
   {
     "celebrity": "Dorohedoro",
@@ -1167,7 +1425,9 @@
       "Ses indices puisent dans le système de pouvoir, les enjeux émotionnels, les rivalités et les motifs visuels que les fans reconnaissent.",
       "Pensez au type de configuration qu'il construit : combats d'étudiants, monstres, malédictions, pirates, ninjas ou arcs de survie.",
       "L’indice est dans son langage anime récurrent : transformations, équipes, tournois, capacités interdites ou histoires douloureuses."
-    ]
+    ],
+    "tmdb_id": 94404,
+    "media_type": "tv"
   },
   {
     "celebrity": "Alya Sometimes Hides Her Feelings in Russian",
@@ -1176,7 +1436,9 @@
       "Ses indices puisent dans le système de pouvoir, les enjeux émotionnels, les rivalités et les motifs visuels que les fans reconnaissent.",
       "Pensez au type de configuration qu'il construit : combats d'étudiants, monstres, malédictions, pirates, ninjas ou arcs de survie.",
       "L’indice est dans son langage anime récurrent : transformations, équipes, tournois, capacités interdites ou histoires douloureuses."
-    ]
+    ],
+    "tmdb_id": 235758,
+    "media_type": "tv"
   },
   {
     "celebrity": "Spice and Wolf",
@@ -1185,25 +1447,31 @@
       "Ses indices puisent dans le système de pouvoir, les enjeux émotionnels, les rivalités et les motifs visuels que les fans reconnaissent.",
       "Pensez au type de configuration qu'il construit : combats d'étudiants, monstres, malédictions, pirates, ninjas ou arcs de survie.",
       "L’indice est dans son langage anime récurrent : transformations, équipes, tournois, capacités interdites ou histoires douloureuses."
-    ]
+    ],
+    "tmdb_id": 26707,
+    "media_type": "tv"
   },
   {
-    "celebrity": "Grimgar of Fantasy and Ash",
+    "celebrity": "Grimgar, le Monde des Cendres et de Fantaisie",
     "gender": "",
     "facts": [
       "Ses indices puisent dans le système de pouvoir, les enjeux émotionnels, les rivalités et les motifs visuels que les fans reconnaissent.",
       "Pensez au type de configuration qu'il construit : combats d'étudiants, monstres, malédictions, pirates, ninjas ou arcs de survie.",
       "L’indice est dans son langage anime récurrent : transformations, équipes, tournois, capacités interdites ou histoires douloureuses."
-    ]
+    ],
+    "tmdb_id": 65369,
+    "media_type": "tv"
   },
   {
-    "celebrity": "From the New World",
+    "celebrity": "Shin Sekai Yori (From the New World)",
     "gender": "",
     "facts": [
       "Ses indices puisent dans le système de pouvoir, les enjeux émotionnels, les rivalités et les motifs visuels que les fans reconnaissent.",
       "Pensez au type de configuration qu'il construit : combats d'étudiants, monstres, malédictions, pirates, ninjas ou arcs de survie.",
       "L’indice est dans son langage anime récurrent : transformations, équipes, tournois, capacités interdites ou histoires douloureuses."
-    ]
+    ],
+    "tmdb_id": 53052,
+    "media_type": "tv"
   },
   {
     "celebrity": "Wind Breaker",
@@ -1212,16 +1480,20 @@
       "Ses indices puisent dans le système de pouvoir, les enjeux émotionnels, les rivalités et les motifs visuels que les fans reconnaissent.",
       "Pensez au type de configuration qu'il construit : combats d'étudiants, monstres, malédictions, pirates, ninjas ou arcs de survie.",
       "L’indice est dans son langage anime récurrent : transformations, équipes, tournois, capacités interdites ou histoires douloureuses."
-    ]
+    ],
+    "tmdb_id": 223500,
+    "media_type": "tv"
   },
   {
-    "celebrity": "When They Cry",
+    "celebrity": "Hinamizawa, le village maudit",
     "gender": "",
     "facts": [
       "Ses indices puisent dans le système de pouvoir, les enjeux émotionnels, les rivalités et les motifs visuels que les fans reconnaissent.",
       "Pensez au type de configuration qu'il construit : combats d'étudiants, monstres, malédictions, pirates, ninjas ou arcs de survie.",
       "L’indice est dans son langage anime récurrent : transformations, équipes, tournois, capacités interdites ou histoires douloureuses."
-    ]
+    ],
+    "tmdb_id": 25760,
+    "media_type": "tv"
   },
   {
     "celebrity": "Berserk",
@@ -1230,16 +1502,20 @@
       "Ses indices puisent dans le système de pouvoir, les enjeux émotionnels, les rivalités et les motifs visuels que les fans reconnaissent.",
       "Pensez au type de configuration qu'il construit : combats d'étudiants, monstres, malédictions, pirates, ninjas ou arcs de survie.",
       "L’indice est dans son langage anime récurrent : transformations, équipes, tournois, capacités interdites ou histoires douloureuses."
-    ]
+    ],
+    "tmdb_id": 35935,
+    "media_type": "tv"
   },
   {
-    "celebrity": "The Fragrant Flower Blooms With Dignity",
+    "celebrity": "BLOOM",
     "gender": "",
     "facts": [
       "Ses indices puisent dans le système de pouvoir, les enjeux émotionnels, les rivalités et les motifs visuels que les fans reconnaissent.",
       "Pensez au type de configuration qu'il construit : combats d'étudiants, monstres, malédictions, pirates, ninjas ou arcs de survie.",
       "L’indice est dans son langage anime récurrent : transformations, équipes, tournois, capacités interdites ou histoires douloureuses."
-    ]
+    ],
+    "tmdb_id": 271607,
+    "media_type": "tv"
   },
   {
     "celebrity": "Darker Than Black",
@@ -1248,52 +1524,64 @@
       "Ses indices puisent dans le système de pouvoir, les enjeux émotionnels, les rivalités et les motifs visuels que les fans reconnaissent.",
       "Pensez au type de configuration qu'il construit : combats d'étudiants, monstres, malédictions, pirates, ninjas ou arcs de survie.",
       "L’indice est dans son langage anime récurrent : transformations, équipes, tournois, capacités interdites ou histoires douloureuses."
-    ]
+    ],
+    "tmdb_id": 31718,
+    "media_type": "tv"
   },
   {
-    "celebrity": "Inuyashiki Last Hero",
+    "celebrity": "Inuyashiki le Dernier Héros",
     "gender": "",
     "facts": [
       "Ses indices puisent dans le système de pouvoir, les enjeux émotionnels, les rivalités et les motifs visuels que les fans reconnaissent.",
       "Pensez au type de configuration qu'il construit : combats d'étudiants, monstres, malédictions, pirates, ninjas ou arcs de survie.",
       "L’indice est dans son langage anime récurrent : transformations, équipes, tournois, capacités interdites ou histoires douloureuses."
-    ]
+    ],
+    "tmdb_id": 73946,
+    "media_type": "tv"
   },
   {
-    "celebrity": "K",
+    "celebrity": "K Project",
     "gender": "",
     "facts": [
       "Ses indices puisent dans le système de pouvoir, les enjeux émotionnels, les rivalités et les motifs visuels que les fans reconnaissent.",
       "Pensez au type de configuration qu'il construit : combats d'étudiants, monstres, malédictions, pirates, ninjas ou arcs de survie.",
       "L’indice est dans son langage anime récurrent : transformations, équipes, tournois, capacités interdites ou histoires douloureuses."
-    ]
+    ],
+    "tmdb_id": 45799,
+    "media_type": "tv"
   },
   {
-    "celebrity": "Inuyasha",
+    "celebrity": "InuYasha",
     "gender": "",
     "facts": [
       "Ses indices puisent dans le système de pouvoir, les enjeux émotionnels, les rivalités et les motifs visuels que les fans reconnaissent.",
       "Pensez au type de configuration qu'il construit : combats d'étudiants, monstres, malédictions, pirates, ninjas ou arcs de survie.",
       "L’indice est dans son langage anime récurrent : transformations, équipes, tournois, capacités interdites ou histoires douloureuses."
-    ]
+    ],
+    "tmdb_id": 35610,
+    "media_type": "tv"
   },
   {
-    "celebrity": "Shangri La Frontier",
+    "celebrity": "Shangri-La Frontier",
     "gender": "",
     "facts": [
       "Ses indices puisent dans le système de pouvoir, les enjeux émotionnels, les rivalités et les motifs visuels que les fans reconnaissent.",
       "Pensez au type de configuration qu'il construit : combats d'étudiants, monstres, malédictions, pirates, ninjas ou arcs de survie.",
       "L’indice est dans son langage anime récurrent : transformations, équipes, tournois, capacités interdites ou histoires douloureuses."
-    ]
+    ],
+    "tmdb_id": 205050,
+    "media_type": "tv"
   },
   {
-    "celebrity": "Teasing Master Takagi San",
+    "celebrity": "Quand Takagi me taquine",
     "gender": "",
     "facts": [
       "Ses indices puisent dans le système de pouvoir, les enjeux émotionnels, les rivalités et les motifs visuels que les fans reconnaissent.",
       "Pensez au type de configuration qu'il construit : combats d'étudiants, monstres, malédictions, pirates, ninjas ou arcs de survie.",
       "L’indice est dans son langage anime récurrent : transformations, équipes, tournois, capacités interdites ou histoires douloureuses."
-    ]
+    ],
+    "tmdb_id": 75865,
+    "media_type": "tv"
   },
   {
     "celebrity": "Trigun",
@@ -1302,25 +1590,31 @@
       "Ses indices puisent dans le système de pouvoir, les enjeux émotionnels, les rivalités et les motifs visuels que les fans reconnaissent.",
       "Pensez au type de configuration qu'il construit : combats d'étudiants, monstres, malédictions, pirates, ninjas ou arcs de survie.",
       "L’indice est dans son langage anime récurrent : transformations, équipes, tournois, capacités interdites ou histoires douloureuses."
-    ]
+    ],
+    "tmdb_id": 26453,
+    "media_type": "tv"
   },
   {
-    "celebrity": "A Place Further Than the Universe",
+    "celebrity": "A Place Further Than The Universe",
     "gender": "",
     "facts": [
       "Ses indices puisent dans le système de pouvoir, les enjeux émotionnels, les rivalités et les motifs visuels que les fans reconnaissent.",
       "Pensez au type de configuration qu'il construit : combats d'étudiants, monstres, malédictions, pirates, ninjas ou arcs de survie.",
       "L’indice est dans son langage anime récurrent : transformations, équipes, tournois, capacités interdites ou histoires douloureuses."
-    ]
+    ],
+    "tmdb_id": 76059,
+    "media_type": "tv"
   },
   {
-    "celebrity": "Laid Back Camp",
+    "celebrity": "Yuru Camp – Au grand air",
     "gender": "",
     "facts": [
       "Ses indices puisent dans le système de pouvoir, les enjeux émotionnels, les rivalités et les motifs visuels que les fans reconnaissent.",
       "Pensez au type de configuration qu'il construit : combats d'étudiants, monstres, malédictions, pirates, ninjas ou arcs de survie.",
       "L’indice est dans son langage anime récurrent : transformations, équipes, tournois, capacités interdites ou histoires douloureuses."
-    ]
+    ],
+    "tmdb_id": 76075,
+    "media_type": "tv"
   },
   {
     "celebrity": "Kamisama Kiss",
@@ -1329,7 +1623,9 @@
       "Ses indices puisent dans le système de pouvoir, les enjeux émotionnels, les rivalités et les motifs visuels que les fans reconnaissent.",
       "Pensez au type de configuration qu'il construit : combats d'étudiants, monstres, malédictions, pirates, ninjas ou arcs de survie.",
       "L’indice est dans son langage anime récurrent : transformations, équipes, tournois, capacités interdites ou histoires douloureuses."
-    ]
+    ],
+    "tmdb_id": 62741,
+    "media_type": "tv"
   },
   {
     "celebrity": "Amagi Brilliant Park",
@@ -1338,7 +1634,9 @@
       "Ses indices puisent dans le système de pouvoir, les enjeux émotionnels, les rivalités et les motifs visuels que les fans reconnaissent.",
       "Pensez au type de configuration qu'il construit : combats d'étudiants, monstres, malédictions, pirates, ninjas ou arcs de survie.",
       "L’indice est dans son langage anime récurrent : transformations, équipes, tournois, capacités interdites ou histoires douloureuses."
-    ]
+    ],
+    "tmdb_id": 65332,
+    "media_type": "tv"
   },
   {
     "celebrity": "Akudama Drive",
@@ -1347,52 +1645,64 @@
       "Ses indices puisent dans le système de pouvoir, les enjeux émotionnels, les rivalités et les motifs visuels que les fans reconnaissent.",
       "Pensez au type de configuration qu'il construit : combats d'étudiants, monstres, malédictions, pirates, ninjas ou arcs de survie.",
       "L’indice est dans son langage anime récurrent : transformations, équipes, tournois, capacités interdites ou histoires douloureuses."
-    ]
+    ],
+    "tmdb_id": 100436,
+    "media_type": "tv"
   },
   {
-    "celebrity": "Tsukimichi Moonlit Fantasy",
+    "celebrity": "TSUKIMICHI -Moonlit Fantasy-",
     "gender": "",
     "facts": [
       "Ses indices puisent dans le système de pouvoir, les enjeux émotionnels, les rivalités et les motifs visuels que les fans reconnaissent.",
       "Pensez au type de configuration qu'il construit : combats d'étudiants, monstres, malédictions, pirates, ninjas ou arcs de survie.",
       "L’indice est dans son langage anime récurrent : transformations, équipes, tournois, capacités interdites ou histoires douloureuses."
-    ]
+    ],
+    "tmdb_id": 111819,
+    "media_type": "tv"
   },
   {
-    "celebrity": "Mieruko Chan",
+    "celebrity": "Mieruko-chan",
     "gender": "",
     "facts": [
       "Ses indices puisent dans le système de pouvoir, les enjeux émotionnels, les rivalités et les motifs visuels que les fans reconnaissent.",
       "Pensez au type de configuration qu'il construit : combats d'étudiants, monstres, malédictions, pirates, ninjas ou arcs de survie.",
       "L’indice est dans son langage anime récurrent : transformations, équipes, tournois, capacités interdites ou histoires douloureuses."
-    ]
+    ],
+    "tmdb_id": 121078,
+    "media_type": "tv"
   },
   {
-    "celebrity": "Land of the Lustrous",
+    "celebrity": "L'Ère des Cristaux",
     "gender": "",
     "facts": [
       "Ses indices puisent dans le système de pouvoir, les enjeux émotionnels, les rivalités et les motifs visuels que les fans reconnaissent.",
       "Pensez au type de configuration qu'il construit : combats d'étudiants, monstres, malédictions, pirates, ninjas ou arcs de survie.",
       "L’indice est dans son langage anime récurrent : transformations, équipes, tournois, capacités interdites ou histoires douloureuses."
-    ]
+    ],
+    "tmdb_id": 74091,
+    "media_type": "tv"
   },
   {
-    "celebrity": "Tsukigakirei",
+    "celebrity": "Tsuki Ga Kirei",
     "gender": "",
     "facts": [
       "Ses indices puisent dans le système de pouvoir, les enjeux émotionnels, les rivalités et les motifs visuels que les fans reconnaissent.",
       "Pensez au type de configuration qu'il construit : combats d'étudiants, monstres, malédictions, pirates, ninjas ou arcs de survie.",
       "L’indice est dans son langage anime récurrent : transformations, équipes, tournois, capacités interdites ou histoires douloureuses."
-    ]
+    ],
+    "tmdb_id": 70880,
+    "media_type": "tv"
   },
   {
-    "celebrity": "Zombie Land Saga",
+    "celebrity": "ZOMBIE LAND SAGA",
     "gender": "",
     "facts": [
       "Ses indices puisent dans le système de pouvoir, les enjeux émotionnels, les rivalités et les motifs visuels que les fans reconnaissent.",
       "Pensez au type de configuration qu'il construit : combats d'étudiants, monstres, malédictions, pirates, ninjas ou arcs de survie.",
       "L’indice est dans son langage anime récurrent : transformations, équipes, tournois, capacités interdites ou histoires douloureuses."
-    ]
+    ],
+    "tmdb_id": 82822,
+    "media_type": "tv"
   },
   {
     "celebrity": "Ergo Proxy",
@@ -1401,7 +1711,9 @@
       "Ses indices puisent dans le système de pouvoir, les enjeux émotionnels, les rivalités et les motifs visuels que les fans reconnaissent.",
       "Pensez au type de configuration qu'il construit : combats d'étudiants, monstres, malédictions, pirates, ninjas ou arcs de survie.",
       "L’indice est dans son langage anime récurrent : transformations, équipes, tournois, capacités interdites ou histoires douloureuses."
-    ]
+    ],
+    "tmdb_id": 1097,
+    "media_type": "tv"
   },
   {
     "celebrity": "A Certain Scientific Railgun",
@@ -1410,7 +1722,9 @@
       "Ses indices puisent dans le système de pouvoir, les enjeux émotionnels, les rivalités et les motifs visuels que les fans reconnaissent.",
       "Pensez au type de configuration qu'il construit : combats d'étudiants, monstres, malédictions, pirates, ninjas ou arcs de survie.",
       "L’indice est dans son langage anime récurrent : transformations, équipes, tournois, capacités interdites ou histoires douloureuses."
-    ]
+    ],
+    "tmdb_id": 30977,
+    "media_type": "tv"
   },
   {
     "celebrity": "Moriarty the Patriot",
@@ -1419,16 +1733,20 @@
       "Ses indices puisent dans le système de pouvoir, les enjeux émotionnels, les rivalités et les motifs visuels que les fans reconnaissent.",
       "Pensez au type de configuration qu'il construit : combats d'étudiants, monstres, malédictions, pirates, ninjas ou arcs de survie.",
       "L’indice est dans son langage anime récurrent : transformations, équipes, tournois, capacités interdites ou histoires douloureuses."
-    ]
+    ],
+    "tmdb_id": 100281,
+    "media_type": "tv"
   },
   {
-    "celebrity": "The Familiar of Zero",
+    "celebrity": "Zero no Tsukaima",
     "gender": "",
     "facts": [
       "Ses indices puisent dans le système de pouvoir, les enjeux émotionnels, les rivalités et les motifs visuels que les fans reconnaissent.",
       "Pensez au type de configuration qu'il construit : combats d'étudiants, monstres, malédictions, pirates, ninjas ou arcs de survie.",
       "L’indice est dans son langage anime récurrent : transformations, équipes, tournois, capacités interdites ou histoires douloureuses."
-    ]
+    ],
+    "tmdb_id": 35753,
+    "media_type": "tv"
   },
   {
     "celebrity": "Barakamon",
@@ -1437,7 +1755,9 @@
       "Ses indices puisent dans le système de pouvoir, les enjeux émotionnels, les rivalités et les motifs visuels que les fans reconnaissent.",
       "Pensez au type de configuration qu'il construit : combats d'étudiants, monstres, malédictions, pirates, ninjas ou arcs de survie.",
       "L’indice est dans son langage anime récurrent : transformations, équipes, tournois, capacités interdites ou histoires douloureuses."
-    ]
+    ],
+    "tmdb_id": 67048,
+    "media_type": "tv"
   },
   {
     "celebrity": "In Another World With My Smartphone",
@@ -1446,7 +1766,9 @@
       "Ses indices puisent dans le système de pouvoir, les enjeux émotionnels, les rivalités et les motifs visuels que les fans reconnaissent.",
       "Pensez au type de configuration qu'il construit : combats d'étudiants, monstres, malédictions, pirates, ninjas ou arcs de survie.",
       "L’indice est dans son langage anime récurrent : transformations, équipes, tournois, capacités interdites ou histoires douloureuses."
-    ]
+    ],
+    "tmdb_id": 72505,
+    "media_type": "tv"
   },
   {
     "celebrity": "Hinamatsuri",
@@ -1455,7 +1777,9 @@
       "Ses indices puisent dans le système de pouvoir, les enjeux émotionnels, les rivalités et les motifs visuels que les fans reconnaissent.",
       "Pensez au type de configuration qu'il construit : combats d'étudiants, monstres, malédictions, pirates, ninjas ou arcs de survie.",
       "L’indice est dans son langage anime récurrent : transformations, équipes, tournois, capacités interdites ou histoires douloureuses."
-    ]
+    ],
+    "tmdb_id": 76758,
+    "media_type": "tv"
   },
   {
     "celebrity": "The Dangers in My Heart",
@@ -1464,16 +1788,20 @@
       "Ses indices puisent dans le système de pouvoir, les enjeux émotionnels, les rivalités et les motifs visuels que les fans reconnaissent.",
       "Pensez au type de configuration qu'il construit : combats d'étudiants, monstres, malédictions, pirates, ninjas ou arcs de survie.",
       "L’indice est dans son langage anime récurrent : transformations, équipes, tournois, capacités interdites ou histoires douloureuses."
-    ]
+    ],
+    "tmdb_id": 207250,
+    "media_type": "tv"
   },
   {
-    "celebrity": "Asobi Asobase Workshop of Fun",
+    "celebrity": "Asobi Asobase - workshop of fun -",
     "gender": "",
     "facts": [
       "Ses indices puisent dans le système de pouvoir, les enjeux émotionnels, les rivalités et les motifs visuels que les fans reconnaissent.",
       "Pensez au type de configuration qu'il construit : combats d'étudiants, monstres, malédictions, pirates, ninjas ou arcs de survie.",
       "L’indice est dans son langage anime récurrent : transformations, équipes, tournois, capacités interdites ou histoires douloureuses."
-    ]
+    ],
+    "tmdb_id": 80539,
+    "media_type": "tv"
   },
   {
     "celebrity": "Citrus",
@@ -1482,7 +1810,9 @@
       "Ses indices puisent dans le système de pouvoir, les enjeux émotionnels, les rivalités et les motifs visuels que les fans reconnaissent.",
       "Pensez au type de configuration qu'il construit : combats d'étudiants, monstres, malédictions, pirates, ninjas ou arcs de survie.",
       "L’indice est dans son langage anime récurrent : transformations, équipes, tournois, capacités interdites ou histoires douloureuses."
-    ]
+    ],
+    "tmdb_id": 76063,
+    "media_type": "tv"
   },
   {
     "celebrity": "Hellsing",
@@ -1491,25 +1821,31 @@
       "Ses indices puisent dans le système de pouvoir, les enjeux émotionnels, les rivalités et les motifs visuels que les fans reconnaissent.",
       "Pensez au type de configuration qu'il construit : combats d'étudiants, monstres, malédictions, pirates, ninjas ou arcs de survie.",
       "L’indice est dans son langage anime récurrent : transformations, équipes, tournois, capacités interdites ou histoires douloureuses."
-    ]
+    ],
+    "tmdb_id": 16830,
+    "media_type": "tv"
   },
   {
-    "celebrity": "Megalobox",
+    "celebrity": "Megalo Box",
     "gender": "",
     "facts": [
       "Ses indices puisent dans le système de pouvoir, les enjeux émotionnels, les rivalités et les motifs visuels que les fans reconnaissent.",
       "Pensez au type de configuration qu'il construit : combats d'étudiants, monstres, malédictions, pirates, ninjas ou arcs de survie.",
       "L’indice est dans son langage anime récurrent : transformations, équipes, tournois, capacités interdites ou histoires douloureuses."
-    ]
+    ],
+    "tmdb_id": 77939,
+    "media_type": "tv"
   },
   {
-    "celebrity": "A Lull in the Sea",
+    "celebrity": "Nagi no Asukara",
     "gender": "",
     "facts": [
       "Ses indices puisent dans le système de pouvoir, les enjeux émotionnels, les rivalités et les motifs visuels que les fans reconnaissent.",
       "Pensez au type de configuration qu'il construit : combats d'étudiants, monstres, malédictions, pirates, ninjas ou arcs de survie.",
       "L’indice est dans son langage anime récurrent : transformations, équipes, tournois, capacités interdites ou histoires douloureuses."
-    ]
+    ],
+    "tmdb_id": 61408,
+    "media_type": "tv"
   },
   {
     "celebrity": "Bloom Into You",
@@ -1518,52 +1854,64 @@
       "Ses indices puisent dans le système de pouvoir, les enjeux émotionnels, les rivalités et les motifs visuels que les fans reconnaissent.",
       "Pensez au type de configuration qu'il construit : combats d'étudiants, monstres, malédictions, pirates, ninjas ou arcs de survie.",
       "L’indice est dans son langage anime récurrent : transformations, équipes, tournois, capacités interdites ou histoires douloureuses."
-    ]
+    ],
+    "tmdb_id": 82861,
+    "media_type": "tv"
   },
   {
-    "celebrity": "Gangsta",
+    "celebrity": "Gangsta.",
     "gender": "",
     "facts": [
       "Ses indices puisent dans le système de pouvoir, les enjeux émotionnels, les rivalités et les motifs visuels que les fans reconnaissent.",
       "Pensez au type de configuration qu'il construit : combats d'étudiants, monstres, malédictions, pirates, ninjas ou arcs de survie.",
       "L’indice est dans son langage anime récurrent : transformations, équipes, tournois, capacités interdites ou histoires douloureuses."
-    ]
+    ],
+    "tmdb_id": 66390,
+    "media_type": "tv"
   },
   {
-    "celebrity": "My Happy Marriage",
+    "celebrity": "Un heureux destin",
     "gender": "",
     "facts": [
       "Ses indices puisent dans le système de pouvoir, les enjeux émotionnels, les rivalités et les motifs visuels que les fans reconnaissent.",
       "Pensez au type de configuration qu'il construit : combats d'étudiants, monstres, malédictions, pirates, ninjas ou arcs de survie.",
       "L’indice est dans son langage anime récurrent : transformations, équipes, tournois, capacités interdites ou histoires douloureuses."
-    ]
+    ],
+    "tmdb_id": 196944,
+    "media_type": "tv"
   },
   {
-    "celebrity": "Golden Kamuy",
+    "celebrity": "Golden Kamui",
     "gender": "",
     "facts": [
       "Ses indices puisent dans le système de pouvoir, les enjeux émotionnels, les rivalités et les motifs visuels que les fans reconnaissent.",
       "Pensez au type de configuration qu'il construit : combats d'étudiants, monstres, malédictions, pirates, ninjas ou arcs de survie.",
       "L’indice est dans son langage anime récurrent : transformations, équipes, tournois, capacités interdites ou histoires douloureuses."
-    ]
+    ],
+    "tmdb_id": 76757,
+    "media_type": "tv"
   },
   {
-    "celebrity": "Recovery of an Mmo Junkie",
+    "celebrity": "Recovery of an MMO Junkie",
     "gender": "",
     "facts": [
       "Ses indices puisent dans le système de pouvoir, les enjeux émotionnels, les rivalités et les motifs visuels que les fans reconnaissent.",
       "Pensez au type de configuration qu'il construit : combats d'étudiants, monstres, malédictions, pirates, ninjas ou arcs de survie.",
       "L’indice est dans son langage anime récurrent : transformations, équipes, tournois, capacités interdites ou histoires douloureuses."
-    ]
+    ],
+    "tmdb_id": 74163,
+    "media_type": "tv"
   },
   {
-    "celebrity": "The World God Only Knows",
+    "celebrity": "Que sa volonté soit faite",
     "gender": "",
     "facts": [
       "Ses indices puisent dans le système de pouvoir, les enjeux émotionnels, les rivalités et les motifs visuels que les fans reconnaissent.",
       "Pensez au type de configuration qu'il construit : combats d'étudiants, monstres, malédictions, pirates, ninjas ou arcs de survie.",
       "L’indice est dans son langage anime récurrent : transformations, équipes, tournois, capacités interdites ou histoires douloureuses."
-    ]
+    ],
+    "tmdb_id": 56351,
+    "media_type": "tv"
   },
   {
     "celebrity": "Sentenced to Be a Hero",
@@ -1572,16 +1920,20 @@
       "Ses indices puisent dans le système de pouvoir, les enjeux émotionnels, les rivalités et les motifs visuels que les fans reconnaissent.",
       "Pensez au type de configuration qu'il construit : combats d'étudiants, monstres, malédictions, pirates, ninjas ou arcs de survie.",
       "L’indice est dans son langage anime récurrent : transformations, équipes, tournois, capacités interdites ou histoires douloureuses."
-    ]
+    ],
+    "tmdb_id": 249907,
+    "media_type": "tv"
   },
   {
-    "celebrity": "Rokka Braves of the Six Flowers",
+    "celebrity": "Rokka –Braves of the Six Flowers–",
     "gender": "",
     "facts": [
       "Ses indices puisent dans le système de pouvoir, les enjeux émotionnels, les rivalités et les motifs visuels que les fans reconnaissent.",
       "Pensez au type de configuration qu'il construit : combats d'étudiants, monstres, malédictions, pirates, ninjas ou arcs de survie.",
       "L’indice est dans son langage anime récurrent : transformations, équipes, tournois, capacités interdites ou histoires douloureuses."
-    ]
+    ],
+    "tmdb_id": 63146,
+    "media_type": "tv"
   },
   {
     "celebrity": "Accel World",
@@ -1590,7 +1942,9 @@
       "Ses indices puisent dans le système de pouvoir, les enjeux émotionnels, les rivalités et les motifs visuels que les fans reconnaissent.",
       "Pensez au type de configuration qu'il construit : combats d'étudiants, monstres, malédictions, pirates, ninjas ou arcs de survie.",
       "L’indice est dans son langage anime récurrent : transformations, équipes, tournois, capacités interdites ou histoires douloureuses."
-    ]
+    ],
+    "tmdb_id": 43167,
+    "media_type": "tv"
   },
   {
     "celebrity": "Death March to the Parallel World Rhapsody",
@@ -1599,7 +1953,9 @@
       "Ses indices puisent dans le système de pouvoir, les enjeux émotionnels, les rivalités et les motifs visuels que les fans reconnaissent.",
       "Pensez au type de configuration qu'il construit : combats d'étudiants, monstres, malédictions, pirates, ninjas ou arcs de survie.",
       "L’indice est dans son langage anime récurrent : transformations, équipes, tournois, capacités interdites ou histoires douloureuses."
-    ]
+    ],
+    "tmdb_id": 76122,
+    "media_type": "tv"
   },
   {
     "celebrity": "Fate Apocrypha",
@@ -1608,16 +1964,20 @@
       "Ses indices puisent dans le système de pouvoir, les enjeux émotionnels, les rivalités et les motifs visuels que les fans reconnaissent.",
       "Pensez au type de configuration qu'il construit : combats d'étudiants, monstres, malédictions, pirates, ninjas ou arcs de survie.",
       "L’indice est dans son langage anime récurrent : transformations, équipes, tournois, capacités interdites ou histoires douloureuses."
-    ]
+    ],
+    "tmdb_id": 72304,
+    "media_type": "tv"
   },
   {
-    "celebrity": "Hunter X Hunter",
+    "celebrity": "Hunter x Hunter",
     "gender": "",
     "facts": [
       "Ses indices puisent dans le système de pouvoir, les enjeux émotionnels, les rivalités et les motifs visuels que les fans reconnaissent.",
       "Pensez au type de configuration qu'il construit : combats d'étudiants, monstres, malédictions, pirates, ninjas ou arcs de survie.",
       "L’indice est dans son langage anime récurrent : transformations, équipes, tournois, capacités interdites ou histoires douloureuses."
-    ]
+    ],
+    "tmdb_id": 46298,
+    "media_type": "tv"
   },
   {
     "celebrity": "Drifters",
@@ -1626,7 +1986,9 @@
       "Ses indices puisent dans le système de pouvoir, les enjeux émotionnels, les rivalités et les motifs visuels que les fans reconnaissent.",
       "Pensez au type de configuration qu'il construit : combats d'étudiants, monstres, malédictions, pirates, ninjas ou arcs de survie.",
       "L’indice est dans son langage anime récurrent : transformations, équipes, tournois, capacités interdites ou histoires douloureuses."
-    ]
+    ],
+    "tmdb_id": 68103,
+    "media_type": "tv"
   },
   {
     "celebrity": "Gabriel Dropout",
@@ -1635,7 +1997,9 @@
       "Ses indices puisent dans le système de pouvoir, les enjeux émotionnels, les rivalités et les motifs visuels que les fans reconnaissent.",
       "Pensez au type de configuration qu'il construit : combats d'étudiants, monstres, malédictions, pirates, ninjas ou arcs de survie.",
       "L’indice est dans son langage anime récurrent : transformations, équipes, tournois, capacités interdites ou histoires douloureuses."
-    ]
+    ],
+    "tmdb_id": 69285,
+    "media_type": "tv"
   },
   {
     "celebrity": "How a Realist Hero Rebuilt the Kingdom",
@@ -1644,7 +2008,9 @@
       "Ses indices puisent dans le système de pouvoir, les enjeux émotionnels, les rivalités et les motifs visuels que les fans reconnaissent.",
       "Pensez au type de configuration qu'il construit : combats d'étudiants, monstres, malédictions, pirates, ninjas ou arcs de survie.",
       "L’indice est dans son langage anime récurrent : transformations, équipes, tournois, capacités interdites ou histoires douloureuses."
-    ]
+    ],
+    "tmdb_id": 102088,
+    "media_type": "tv"
   },
   {
     "celebrity": "Sonny Boy",
@@ -1653,16 +2019,20 @@
       "Ses indices puisent dans le système de pouvoir, les enjeux émotionnels, les rivalités et les motifs visuels que les fans reconnaissent.",
       "Pensez au type de configuration qu'il construit : combats d'étudiants, monstres, malédictions, pirates, ninjas ou arcs de survie.",
       "L’indice est dans son langage anime récurrent : transformations, équipes, tournois, capacités interdites ou histoires douloureuses."
-    ]
+    ],
+    "tmdb_id": 124396,
+    "media_type": "tv"
   },
   {
-    "celebrity": "Oreshura",
+    "celebrity": "OreShura",
     "gender": "",
     "facts": [
       "Ses indices puisent dans le système de pouvoir, les enjeux émotionnels, les rivalités et les motifs visuels que les fans reconnaissent.",
       "Pensez au type de configuration qu'il construit : combats d'étudiants, monstres, malédictions, pirates, ninjas ou arcs de survie.",
       "L’indice est dans son langage anime récurrent : transformations, équipes, tournois, capacités interdites ou histoires douloureuses."
-    ]
+    ],
+    "tmdb_id": 53296,
+    "media_type": "tv"
   },
   {
     "celebrity": "A Sign of Affection",
@@ -1671,7 +2041,9 @@
       "Ses indices puisent dans le système de pouvoir, les enjeux émotionnels, les rivalités et les motifs visuels que les fans reconnaissent.",
       "Pensez au type de configuration qu'il construit : combats d'étudiants, monstres, malédictions, pirates, ninjas ou arcs de survie.",
       "L’indice est dans son langage anime récurrent : transformations, équipes, tournois, capacités interdites ou histoires douloureuses."
-    ]
+    ],
+    "tmdb_id": 230059,
+    "media_type": "tv"
   },
   {
     "celebrity": "Lovely Complex",
@@ -1680,7 +2052,9 @@
       "Ses indices puisent dans le système de pouvoir, les enjeux émotionnels, les rivalités et les motifs visuels que les fans reconnaissent.",
       "Pensez au type de configuration qu'il construit : combats d'étudiants, monstres, malédictions, pirates, ninjas ou arcs de survie.",
       "L’indice est dans son langage anime récurrent : transformations, équipes, tournois, capacités interdites ou histoires douloureuses."
-    ]
+    ],
+    "tmdb_id": 27167,
+    "media_type": "tv"
   },
   {
     "celebrity": "Shiki",
@@ -1689,7 +2063,9 @@
       "Ses indices puisent dans le système de pouvoir, les enjeux émotionnels, les rivalités et les motifs visuels que les fans reconnaissent.",
       "Pensez au type de configuration qu'il construit : combats d'étudiants, monstres, malédictions, pirates, ninjas ou arcs de survie.",
       "L’indice est dans son langage anime récurrent : transformations, équipes, tournois, capacités interdites ou histoires douloureuses."
-    ]
+    ],
+    "tmdb_id": 36581,
+    "media_type": "tv"
   },
   {
     "celebrity": "Platinum End",
@@ -1698,7 +2074,9 @@
       "Ses indices puisent dans le système de pouvoir, les enjeux émotionnels, les rivalités et les motifs visuels que les fans reconnaissent.",
       "Pensez au type de configuration qu'il construit : combats d'étudiants, monstres, malédictions, pirates, ninjas ou arcs de survie.",
       "L’indice est dans son langage anime récurrent : transformations, équipes, tournois, capacités interdites ou histoires douloureuses."
-    ]
+    ],
+    "tmdb_id": 114892,
+    "media_type": "tv"
   },
   {
     "celebrity": "Paranoia Agent",
@@ -1707,16 +2085,20 @@
       "Ses indices puisent dans le système de pouvoir, les enjeux émotionnels, les rivalités et les motifs visuels que les fans reconnaissent.",
       "Pensez au type de configuration qu'il construit : combats d'étudiants, monstres, malédictions, pirates, ninjas ou arcs de survie.",
       "L’indice est dans son langage anime récurrent : transformations, équipes, tournois, capacités interdites ou histoires douloureuses."
-    ]
+    ],
+    "tmdb_id": 9343,
+    "media_type": "tv"
   },
   {
-    "celebrity": "Dragon Ball Gt",
+    "celebrity": "Dragon Ball GT",
     "gender": "",
     "facts": [
       "Ses indices puisent dans le système de pouvoir, les enjeux émotionnels, les rivalités et les motifs visuels que les fans reconnaissent.",
       "Pensez au type de configuration qu'il construit : combats d'étudiants, monstres, malédictions, pirates, ninjas ou arcs de survie.",
       "L’indice est dans son langage anime récurrent : transformations, équipes, tournois, capacités interdites ou histoires douloureuses."
-    ]
+    ],
+    "tmdb_id": 12697,
+    "media_type": "tv"
   },
   {
     "celebrity": "Tamako Market",
@@ -1725,16 +2107,20 @@
       "Ses indices puisent dans le système de pouvoir, les enjeux émotionnels, les rivalités et les motifs visuels que les fans reconnaissent.",
       "Pensez au type de configuration qu'il construit : combats d'étudiants, monstres, malédictions, pirates, ninjas ou arcs de survie.",
       "L’indice est dans son langage anime récurrent : transformations, équipes, tournois, capacités interdites ou histoires douloureuses."
-    ]
+    ],
+    "tmdb_id": 48561,
+    "media_type": "tv"
   },
   {
-    "celebrity": "Uncle from Another World",
+    "celebrity": "Coma héroïque dans un autre monde",
     "gender": "",
     "facts": [
       "Ses indices puisent dans le système de pouvoir, les enjeux émotionnels, les rivalités et les motifs visuels que les fans reconnaissent.",
       "Pensez au type de configuration qu'il construit : combats d'étudiants, monstres, malédictions, pirates, ninjas ou arcs de survie.",
       "L’indice est dans son langage anime récurrent : transformations, équipes, tournois, capacités interdites ou histoires douloureuses."
-    ]
+    ],
+    "tmdb_id": 127714,
+    "media_type": "tv"
   },
   {
     "celebrity": "Skip and Loafer",
@@ -1743,7 +2129,9 @@
       "Ses indices puisent dans le système de pouvoir, les enjeux émotionnels, les rivalités et les motifs visuels que les fans reconnaissent.",
       "Pensez au type de configuration qu'il construit : combats d'étudiants, monstres, malédictions, pirates, ninjas ou arcs de survie.",
       "L’indice est dans son langage anime récurrent : transformations, équipes, tournois, capacités interdites ou histoires douloureuses."
-    ]
+    ],
+    "tmdb_id": 139130,
+    "media_type": "tv"
   },
   {
     "celebrity": "Aho Girl",
@@ -1752,34 +2140,42 @@
       "Ses indices puisent dans le système de pouvoir, les enjeux émotionnels, les rivalités et les motifs visuels que les fans reconnaissent.",
       "Pensez au type de configuration qu'il construit : combats d'étudiants, monstres, malédictions, pirates, ninjas ou arcs de survie.",
       "L’indice est dans son langage anime récurrent : transformations, équipes, tournois, capacités interdites ou histoires douloureuses."
-    ]
+    ],
+    "tmdb_id": 72502,
+    "media_type": "tv"
   },
   {
-    "celebrity": "Kemono Jihen",
+    "celebrity": "Kemono Incidents",
     "gender": "",
     "facts": [
       "Ses indices puisent dans le système de pouvoir, les enjeux émotionnels, les rivalités et les motifs visuels que les fans reconnaissent.",
       "Pensez au type de configuration qu'il construit : combats d'étudiants, monstres, malédictions, pirates, ninjas ou arcs de survie.",
       "L’indice est dans son langage anime récurrent : transformations, équipes, tournois, capacités interdites ou histoires douloureuses."
-    ]
+    ],
+    "tmdb_id": 100022,
+    "media_type": "tv"
   },
   {
-    "celebrity": "The Detective Is Already Dead",
+    "celebrity": "The Detective is Already Dead",
     "gender": "",
     "facts": [
       "Ses indices puisent dans le système de pouvoir, les enjeux émotionnels, les rivalités et les motifs visuels que les fans reconnaissent.",
       "Pensez au type de configuration qu'il construit : combats d'étudiants, monstres, malédictions, pirates, ninjas ou arcs de survie.",
       "L’indice est dans son langage anime récurrent : transformations, équipes, tournois, capacités interdites ou histoires douloureuses."
-    ]
+    ],
+    "tmdb_id": 117061,
+    "media_type": "tv"
   },
   {
-    "celebrity": "Tanaka Kun Is Always Listless",
+    "celebrity": "Tanaka-kun is Always Listless",
     "gender": "",
     "facts": [
       "Ses indices puisent dans le système de pouvoir, les enjeux émotionnels, les rivalités et les motifs visuels que les fans reconnaissent.",
       "Pensez au type de configuration qu'il construit : combats d'étudiants, monstres, malédictions, pirates, ninjas ou arcs de survie.",
       "L’indice est dans son langage anime récurrent : transformations, équipes, tournois, capacités interdites ou histoires douloureuses."
-    ]
+    ],
+    "tmdb_id": 66077,
+    "media_type": "tv"
   },
   {
     "celebrity": "The Summer Hikaru Died",
@@ -1788,15 +2184,19 @@
       "Ses indices puisent dans le système de pouvoir, les enjeux émotionnels, les rivalités et les motifs visuels que les fans reconnaissent.",
       "Pensez au type de configuration qu'il construit : combats d'étudiants, monstres, malédictions, pirates, ninjas ou arcs de survie.",
       "L’indice est dans son langage anime récurrent : transformations, équipes, tournois, capacités interdites ou histoires douloureuses."
-    ]
+    ],
+    "tmdb_id": 278196,
+    "media_type": "tv"
   },
   {
-    "celebrity": "Ping Pong the Animation",
+    "celebrity": "Ping Pong The Animation",
     "gender": "",
     "facts": [
       "Ses indices puisent dans le système de pouvoir, les enjeux émotionnels, les rivalités et les motifs visuels que les fans reconnaissent.",
       "Pensez au type de configuration qu'il construit : combats d'étudiants, monstres, malédictions, pirates, ninjas ou arcs de survie.",
       "L’indice est dans son langage anime récurrent : transformations, équipes, tournois, capacités interdites ou histoires douloureuses."
-    ]
+    ],
+    "tmdb_id": 60811,
+    "media_type": "tv"
   }
 ]

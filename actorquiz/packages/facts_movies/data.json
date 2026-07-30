@@ -6,7 +6,23 @@
       "A crime family tries to keep power while the reluctant youngest son is pulled into the business.",
       "A horse head in a bed became one of cinema's most infamous intimidation scenes.",
       "The story mixes weddings, restaurant revenge, old-world loyalty, and a quiet transformation into a ruthless boss."
-    ]
+    ],
+    "tmdb_id": 238,
+    "media_type": "movie",
+    "localized_titles": {
+      "am": "The Godfather",
+      "ar": "العرّاب",
+      "de": "Der Pate",
+      "el": "Ο Νονός",
+      "es": "El Padrino",
+      "fr": "Le Parrain",
+      "he": "הסנדק",
+      "hi": "द गॉडफ़ादर",
+      "ja": "ゴッドファーザー",
+      "ko": "대부",
+      "ru": "Крёстный отец",
+      "zh": "教父"
+    }
   },
   {
     "celebrity": "The Dark Knight",
@@ -15,7 +31,23 @@
       "A masked vigilante faces an agent of chaos who turns public morality into a cruel experiment.",
       "A scarred district attorney becomes the emotional center of the city's collapse.",
       "Its bank robbery opening and pencil trick became instant modern crime-thriller landmarks."
-    ]
+    ],
+    "tmdb_id": 155,
+    "media_type": "movie",
+    "localized_titles": {
+      "am": "The Dark Knight",
+      "ar": "فارس الظلام",
+      "de": "The Dark Knight",
+      "el": "Ο Σκοτεινός Ιππότης",
+      "es": "Batman: El caballero de la noche",
+      "fr": "Le Chevalier noir",
+      "he": "האביר האפל",
+      "hi": "बैटमैन 2: द डार्क नाइट",
+      "ja": "ダークナイト",
+      "ko": "다크 나이트",
+      "ru": "Тёмный рыцарь",
+      "zh": "蝙蝠俠—黑夜之神"
+    }
   },
   {
     "celebrity": "Pulp Fiction",
@@ -24,7 +56,23 @@
       "The story jumps through time with hitmen, a boxer, a mysterious briefcase, and a diner holdup.",
       "A dance contest, a glowing case, and a watch hidden in an uncomfortable place all matter.",
       "Its dialogue turns fast food, foot massages, and divine intervention into pop-culture clues."
-    ]
+    ],
+    "tmdb_id": 680,
+    "media_type": "movie",
+    "localized_titles": {
+      "am": "Pulp Fiction",
+      "ar": "خيال رخيص",
+      "de": "Pulp Fiction",
+      "el": "Pulp Fiction",
+      "es": "Tiempos Violentos",
+      "fr": "Fiction pulpeuse",
+      "he": "ספרות זולה",
+      "hi": "Pulp Fiction",
+      "ja": "パルプ・フィクション",
+      "ko": "펄프 픽션",
+      "ru": "Криминальное чтиво",
+      "zh": "低俗小说"
+    }
   },
   {
     "celebrity": "Forrest Gump",
@@ -33,7 +81,23 @@
       "One gentle man accidentally wanders through decades of American history.",
       "Running, shrimp boats, ping-pong, and a box of chocolates are all major clues.",
       "The hero's lifelong love story runs beside wars, protests, presidents, and a famous bench."
-    ]
+    ],
+    "tmdb_id": 13,
+    "media_type": "movie",
+    "localized_titles": {
+      "am": "Forrest Gump",
+      "ar": "فورست غامب",
+      "de": "Forrest Gump",
+      "el": "Φόρεστ Γκαμπ",
+      "es": "Forrest Gump",
+      "fr": "Forrest Gump",
+      "he": "פורסט גאמפ",
+      "hi": "Forrest Gump",
+      "ja": "フォレスト・ガンプ／一期一会",
+      "ko": "포레스트 검프",
+      "ru": "Форрест Гамп",
+      "zh": "阿甘正传"
+    }
   },
   {
     "celebrity": "Inception",
@@ -42,7 +106,23 @@
       "Specialists enter layered dreams to plant an idea instead of stealing one.",
       "A spinning top, folding streets, and a hallway fight without gravity are major visual clues.",
       "The central heist depends on sleep levels, time dilation, and grief that keeps invading the mission."
-    ]
+    ],
+    "tmdb_id": 27205,
+    "media_type": "movie",
+    "localized_titles": {
+      "am": "Inception",
+      "ar": "استهلال",
+      "de": "Inception",
+      "el": "Inception",
+      "es": "El Origen",
+      "fr": "Origine",
+      "he": "התחלה",
+      "hi": "चक्रव्युह",
+      "ja": "インセプション",
+      "ko": "인셉션",
+      "ru": "Начало",
+      "zh": "潛行凶間"
+    }
   },
   {
     "celebrity": "Fight Club",
@@ -51,7 +131,23 @@
       "An insomniac narrator joins an underground movement built around bare-knuckle violence.",
       "Soap, support groups, and a charismatic anti-consumerist stranger are central clues.",
       "The biggest twist reframes the bruises, the rules, and the plan to erase financial records."
-    ]
+    ],
+    "tmdb_id": 550,
+    "media_type": "movie",
+    "localized_titles": {
+      "am": "Fight Club",
+      "ar": "نادي القتال",
+      "de": "Fight Club",
+      "el": "Fight Club",
+      "es": "El Club de la Pelea",
+      "fr": "Fight Club",
+      "he": "מועדון קרב",
+      "hi": "फाइट क्लब",
+      "ja": "ファイト・クラブ",
+      "ko": "파이트 클럽",
+      "ru": "Бойцовский клуб",
+      "zh": "搏擊會"
+    }
   },
   {
     "celebrity": "The Matrix",
@@ -60,7 +156,23 @@
       "A hacker discovers ordinary life is a simulated prison controlled by machines.",
       "Red and blue pills, black coats, bullet-dodging, and raining green code are signature clues.",
       "Its action uses prophecy, kung fu downloads, and agents who bend the rules of reality."
-    ]
+    ],
+    "tmdb_id": 603,
+    "media_type": "movie",
+    "localized_titles": {
+      "am": "The Matrix",
+      "ar": "الماتريكس",
+      "de": "Matrix",
+      "el": "The Matrix",
+      "es": "Matrix",
+      "fr": "La matrice",
+      "he": "מטריקס",
+      "hi": "महाशक्तिमान",
+      "ja": "マトリックス",
+      "ko": "매트릭스",
+      "ru": "Матрица",
+      "zh": "22 世紀殺人網絡"
+    }
   },
   {
     "celebrity": "Goodfellas",
@@ -69,7 +181,23 @@
       "Its clues draw from the setting, central conflict, and memorable screen imagery rather than the name.",
       "Look for the kind of characters, setting, and genre situation that fans associate with it.",
       "The best hint is the mood: a recognizable mix of stakes, visual style, and repeated pop-culture references."
-    ]
+    ],
+    "tmdb_id": 769,
+    "media_type": "movie",
+    "localized_titles": {
+      "am": "Goodfellas",
+      "ar": "الأصدقاء الطيبون",
+      "de": "Goodfellas",
+      "el": "Τα Καλά Παιδιά",
+      "es": "Buenos Muchachos",
+      "fr": "Les affranchis",
+      "he": "החבר'ה הטובים",
+      "hi": "Goodfellas",
+      "ja": "グッドフェローズ",
+      "ko": "좋은 친구들",
+      "ru": "Славные парни",
+      "zh": "好家伙"
+    }
   },
   {
     "celebrity": "The Shawshank Redemption",
@@ -78,7 +206,23 @@
       "Its clues draw from the setting, central conflict, and memorable screen imagery rather than the name.",
       "Look for the kind of characters, setting, and genre situation that fans associate with it.",
       "The best hint is the mood: a recognizable mix of stakes, visual style, and repeated pop-culture references."
-    ]
+    ],
+    "tmdb_id": 278,
+    "media_type": "movie",
+    "localized_titles": {
+      "am": "The Shawshank Redemption",
+      "ar": "الخلاص من شاوشانك",
+      "de": "Die Verurteilten",
+      "el": "Τελευταία Έξοδος: Ρίτα Χέιγουορθ",
+      "es": "Sueño de fuga",
+      "fr": "À l'ombre de Shawshank",
+      "he": "חומות של תקווה",
+      "hi": "The Shawshank Redemption",
+      "ja": "ショーシャンクの空に",
+      "ko": "쇼생크 탈출",
+      "ru": "Побег из Шоушенка",
+      "zh": "月黑高飛"
+    }
   },
   {
     "celebrity": "Jurassic Park",
@@ -87,7 +231,23 @@
       "A billionaire attraction tries to revive prehistoric creatures with science and spectacle.",
       "A glass of water rippling before a giant footstep is one of its clearest clues.",
       "The chaos begins when fences fail, raptors hunt in kitchens, and nature refuses to stay controlled."
-    ]
+    ],
+    "tmdb_id": 329,
+    "media_type": "movie",
+    "localized_titles": {
+      "am": "Jurassic Park",
+      "ar": "Jurassic Park",
+      "de": "Jurassic Park",
+      "el": "Τζουράσικ Παρκ",
+      "es": "Parque Jurásico",
+      "fr": "Le parc jurassique",
+      "he": "פארק היורה",
+      "hi": "जुरासिक पार्क",
+      "ja": "ジュラシック・パーク",
+      "ko": "쥬라기 공원",
+      "ru": "Парк юрского периода",
+      "zh": "侏羅紀公園"
+    }
   },
   {
     "celebrity": "Titanic",
@@ -96,7 +256,23 @@
       "A forbidden romance unfolds aboard a doomed luxury ocean liner.",
       "A blue diamond, a grand staircase, and a sketching scene are key clues.",
       "Its disaster story turns class divisions, icy water, and a floating door into lasting images."
-    ]
+    ],
+    "tmdb_id": 597,
+    "media_type": "movie",
+    "localized_titles": {
+      "am": "Titanic",
+      "ar": "تيتانيك",
+      "de": "Titanic",
+      "el": "Τιτανικός",
+      "es": "Titanic",
+      "fr": "Titanic",
+      "he": "טיטניק",
+      "hi": "टाइटैनिक",
+      "ja": "タイタニック",
+      "ko": "타이타닉",
+      "ru": "Титаник",
+      "zh": "鐵達尼號"
+    }
   },
   {
     "celebrity": "Back to the Future",
@@ -105,7 +281,23 @@
       "A teenager is thrown across decades in a modified sports car powered by wild science.",
       "A clock tower, a lightning strike, and a family photo fading away drive the stakes.",
       "The hero must repair his parents' romance before his own existence disappears."
-    ]
+    ],
+    "tmdb_id": 105,
+    "media_type": "movie",
+    "localized_titles": {
+      "am": "Back to the Future",
+      "ar": "العودة إلى المستقبل",
+      "de": "Zurück in die Zukunft",
+      "el": "Επιστροφή στο Μέλλον",
+      "es": "Volver al Futuro",
+      "fr": "Retour vers le futur",
+      "he": "בחזרה לעתיד",
+      "hi": "बॅक टू द फ्यूचर",
+      "ja": "バック・トゥ・ザ・フューチャー",
+      "ko": "빽 투 더 퓨쳐",
+      "ru": "Назад в будущее",
+      "zh": "回到未來"
+    }
   },
   {
     "celebrity": "The Lord of the Rings",
@@ -114,7 +306,23 @@
       "Its clues draw from the setting, central conflict, and memorable screen imagery rather than the name.",
       "Look for the kind of characters, setting, and genre situation that fans associate with it.",
       "The best hint is the mood: a recognizable mix of stakes, visual style, and repeated pop-culture references."
-    ]
+    ],
+    "tmdb_id": 123,
+    "media_type": "movie",
+    "localized_titles": {
+      "am": "The Lord of the Rings",
+      "ar": "The Lord of the Rings",
+      "de": "Der Herr der Ringe",
+      "el": "Ο Άρχοντας των Δαχτυλιδιών",
+      "es": "El Señor de los Anillos",
+      "fr": "Le Seigneur des Anneaux",
+      "he": "שר הטבעות",
+      "hi": "The Lord of the Rings",
+      "ja": "指輪物語",
+      "ko": "로드 오브 링스",
+      "ru": "Властелин колец",
+      "zh": "指環王動畫版"
+    }
   },
   {
     "celebrity": "Harry Potter",
@@ -123,7 +331,23 @@
       "An orphan discovers a hidden magical school, a scar, and a destiny tied to a dark wizard.",
       "Wands, house scarves, moving staircases, and flying broom sports are major clues.",
       "The story grows from classroom mysteries into a war over bloodlines, loyalty, and immortality."
-    ]
+    ],
+    "tmdb_id": 671,
+    "media_type": "movie",
+    "localized_titles": {
+      "am": "Harry Potter",
+      "ar": "هاري بوتر وحجر الفيلسوف",
+      "de": "Harry Potter und der Stein der Weisen",
+      "el": "Ο Χάρι Πότερ και η Φιλοσοφική Λίθος",
+      "es": "Harry Potter y la piedra filosofal",
+      "fr": "Harry Potter à l'école des sorciers",
+      "he": "הארי פוטר ואבן החכמים",
+      "hi": "हैरी पौटर और पारस पत्थर",
+      "ja": "ハリー・ポッターと賢者の石",
+      "ko": "해리 포터와 마법사의 돌",
+      "ru": "Гарри Поттер и философский камень",
+      "zh": "哈利波特：神秘的魔法石"
+    }
   },
   {
     "celebrity": "Star Wars",
@@ -132,7 +356,23 @@
       "Farm boys, smugglers, princesses, and robed warriors clash in a space-opera rebellion.",
       "Glowing swords, breathing masks, desert planets, and tiny starfighters are major clues.",
       "Its family reveals and mystical energy field shaped blockbuster mythology for decades."
-    ]
+    ],
+    "tmdb_id": 11,
+    "media_type": "movie",
+    "localized_titles": {
+      "am": "Star Wars",
+      "ar": "حرب النجوم",
+      "de": "Krieg der Sterne",
+      "el": "Star Wars: Επεισόδιο IV – Μια Νέα Ελπίδα",
+      "es": "La guerra de las galaxias",
+      "fr": "La guerre des étoiles",
+      "he": "מלחמת הכוכבים: פרק 4 - תקווה חדשה",
+      "hi": "Star Wars",
+      "ja": "スター・ウォーズ エピソード４／新たなる希望",
+      "ko": "스타워즈 에피소드 4: 새로운 희망",
+      "ru": "Звёздные войны: Эпизод 4 - Новая надежда",
+      "zh": "星球大戰：新的希望"
+    }
   },
   {
     "celebrity": "Indiana Jones",
@@ -141,7 +381,23 @@
       "Its clues draw from the setting, central conflict, and memorable screen imagery rather than the name.",
       "Look for the kind of characters, setting, and genre situation that fans associate with it.",
       "The best hint is the mood: a recognizable mix of stakes, visual style, and repeated pop-culture references."
-    ]
+    ],
+    "tmdb_id": 85,
+    "media_type": "movie",
+    "localized_titles": {
+      "am": "Indiana Jones",
+      "ar": "Indiana Jones",
+      "de": "Jäger des verlorenen Schatzes",
+      "el": "Ο Ιντιάνα Τζόουνς και οι Κυνηγοί της Χαμένης Κιβωτού",
+      "es": "Los cazadores del arca perdida",
+      "fr": "Les aventuriers de l'arche perdue",
+      "he": "אינדיאנה ג'ונס ושודדי התיבה האבודה",
+      "hi": "मौत के साये में",
+      "ja": "レイダース／失われたアーク《聖櫃》",
+      "ko": "인디아나 존스: 레이더스",
+      "ru": "Индиана Джонс: В поисках утраченного ковчега",
+      "zh": "奪寶奇兵"
+    }
   },
   {
     "celebrity": "Rocky",
@@ -150,7 +406,23 @@
       "Its clues draw from the setting, central conflict, and memorable screen imagery rather than the name.",
       "Look for the kind of characters, setting, and genre situation that fans associate with it.",
       "The best hint is the mood: a recognizable mix of stakes, visual style, and repeated pop-culture references."
-    ]
+    ],
+    "tmdb_id": 1366,
+    "media_type": "movie",
+    "localized_titles": {
+      "am": "Rocky",
+      "ar": "روكي",
+      "de": "Rocky",
+      "el": "Ρόκυ: Τα χρυσά γάντια",
+      "es": "Rocky",
+      "fr": "Rocky",
+      "he": "רוקי",
+      "hi": "Rocky",
+      "ja": "ロッキー",
+      "ko": "록키",
+      "ru": "Рокки",
+      "zh": "洛奇"
+    }
   },
   {
     "celebrity": "Jaws",
@@ -159,7 +431,23 @@
       "A seaside town is terrorized by a huge predator while officials worry about tourist season.",
       "A two-note musical warning became more famous than many on-screen scares.",
       "The final hunt puts a police chief, a scientist, and a grizzled boat captain together at sea."
-    ]
+    ],
+    "tmdb_id": 578,
+    "media_type": "movie",
+    "localized_titles": {
+      "am": "Jaws",
+      "ar": "الفك المفترس",
+      "de": "Der weiße Hai",
+      "el": "Τα Σαγόνια του Καρχαρία",
+      "es": "Tiburón",
+      "fr": "Les dents de la mer",
+      "he": "מלתעות",
+      "hi": "जॉज़",
+      "ja": "ジョーズ",
+      "ko": "죠스",
+      "ru": "Челюсти",
+      "zh": "大白鯊"
+    }
   },
   {
     "celebrity": "Alien",
@@ -168,7 +456,23 @@
       "A mining crew answers a distress signal and brings something deadly back onto their ship.",
       "Face-hugging, chest-bursting, acid blood, and industrial corridors are major clues.",
       "Its horror comes from isolation in space and a creature designed to feel both mechanical and biological."
-    ]
+    ],
+    "tmdb_id": 348,
+    "media_type": "movie",
+    "localized_titles": {
+      "am": "Alien",
+      "ar": "Alien",
+      "de": "Alien - Das unheimliche Wesen aus einer fremden Welt",
+      "el": "Άλιεν: Ο Επιβάτης του Διαστήματος",
+      "es": "Alien: El Octavo Pasajero",
+      "fr": "Alien : Le 8e Passager",
+      "he": "הנוסע השמיני",
+      "hi": "Alien",
+      "ja": "エイリアン",
+      "ko": "에이리언",
+      "ru": "Чужой",
+      "zh": "異形"
+    }
   },
   {
     "celebrity": "Terminator",
@@ -177,7 +481,23 @@
       "A killer machine is sent from the future to change the fate of a coming war.",
       "A leather jacket, red robotic vision, and an unstoppable walk are major clues.",
       "The chase story turns one waitress into the key to humanity's survival."
-    ]
+    ],
+    "tmdb_id": 218,
+    "media_type": "movie",
+    "localized_titles": {
+      "am": "Terminator",
+      "ar": "المدمر",
+      "de": "Terminator",
+      "el": "Ο Εξολοθρευτής",
+      "es": "Terminator: El Exterminador",
+      "fr": "Terminator",
+      "he": "שליחות קטלנית",
+      "hi": "शवार्जेनेगर: द टर्मिनेटर",
+      "ja": "ターミネーター",
+      "ko": "터미네이터",
+      "ru": "Терминатор",
+      "zh": "未來戰士"
+    }
   },
   {
     "celebrity": "Die Hard",
@@ -186,7 +506,23 @@
       "Its clues draw from the setting, central conflict, and memorable screen imagery rather than the name.",
       "Look for the kind of characters, setting, and genre situation that fans associate with it.",
       "The best hint is the mood: a recognizable mix of stakes, visual style, and repeated pop-culture references."
-    ]
+    ],
+    "tmdb_id": 562,
+    "media_type": "movie",
+    "localized_titles": {
+      "am": "Die Hard",
+      "ar": "Die Hard",
+      "de": "Stirb langsam",
+      "el": "Πολύ Σκληρός για να Πεθάνει",
+      "es": "Duro de matar",
+      "fr": "Piège de cristal",
+      "he": "מת לחיות",
+      "hi": "डाई हार्ड",
+      "ja": "ダイ・ハード",
+      "ko": "다이 하드",
+      "ru": "Крепкий орешек",
+      "zh": "虎膽龍威"
+    }
   },
   {
     "celebrity": "Mad Max Fury Road",
@@ -195,7 +531,23 @@
       "Its clues draw from the setting, central conflict, and memorable screen imagery rather than the name.",
       "Look for the kind of characters, setting, and genre situation that fans associate with it.",
       "The best hint is the mood: a recognizable mix of stakes, visual style, and repeated pop-culture references."
-    ]
+    ],
+    "tmdb_id": 76341,
+    "media_type": "movie",
+    "localized_titles": {
+      "am": "Mad Max Fury Road",
+      "ar": "ماكس المجنون: طريق الغضب",
+      "de": "Mad Max Fury Road",
+      "el": "Mad Max: Ο Δρόμος της Οργής",
+      "es": "Mad Max: Furia en el camino",
+      "fr": "Mad Max : La route du chaos",
+      "he": "מקס הזועם: כביש הזעם",
+      "hi": "मैड मैक्स: धधकते रास्ते",
+      "ja": "マッドマックス 怒りのデス・ロード",
+      "ko": "매드맥스: 분노의 도로",
+      "ru": "Безумный Макс: Дорога Ярости",
+      "zh": "疯狂的麦克斯：狂暴之路"
+    }
   },
   {
     "celebrity": "Gladiator",
@@ -204,7 +556,23 @@
       "Its clues draw from the setting, central conflict, and memorable screen imagery rather than the name.",
       "Look for the kind of characters, setting, and genre situation that fans associate with it.",
       "The best hint is the mood: a recognizable mix of stakes, visual style, and repeated pop-culture references."
-    ]
+    ],
+    "tmdb_id": 98,
+    "media_type": "movie",
+    "localized_titles": {
+      "am": "Gladiator",
+      "ar": "المجالد",
+      "de": "Gladiator",
+      "el": "Μονομάχος",
+      "es": "Gladiador",
+      "fr": "Gladiateur",
+      "he": "גלדיאטור",
+      "hi": "ग्लेडिएटर",
+      "ja": "グラディエーター",
+      "ko": "글래디에이터",
+      "ru": "Гладиатор",
+      "zh": "帝國驕雄"
+    }
   },
   {
     "celebrity": "The Silence of the Lambs",
@@ -213,7 +581,23 @@
       "Its clues draw from the setting, central conflict, and memorable screen imagery rather than the name.",
       "Look for the kind of characters, setting, and genre situation that fans associate with it.",
       "The best hint is the mood: a recognizable mix of stakes, visual style, and repeated pop-culture references."
-    ]
+    ],
+    "tmdb_id": 274,
+    "media_type": "movie",
+    "localized_titles": {
+      "am": "The Silence of the Lambs",
+      "ar": "صمت الحملان",
+      "de": "Das Schweigen der Lämmer",
+      "el": "Η Σιωπή των Αμνών",
+      "es": "El Silencio de los Inocentes",
+      "fr": "Le silence des agneaux",
+      "he": "שתיקת הכבשים",
+      "hi": "The Silence of the Lambs",
+      "ja": "羊たちの沈黙",
+      "ko": "양들의 침묵",
+      "ru": "Молчание ягнят",
+      "zh": "沉默的羔羊"
+    }
   },
   {
     "celebrity": "Saving Private Ryan",
@@ -222,7 +606,23 @@
       "Its clues draw from the setting, central conflict, and memorable screen imagery rather than the name.",
       "Look for the kind of characters, setting, and genre situation that fans associate with it.",
       "The best hint is the mood: a recognizable mix of stakes, visual style, and repeated pop-culture references."
-    ]
+    ],
+    "tmdb_id": 857,
+    "media_type": "movie",
+    "localized_titles": {
+      "am": "Saving Private Ryan",
+      "ar": "إنقاذ المجند ريان",
+      "de": "Der Soldat James Ryan",
+      "el": "Η Διάσωση του Στρατιώτη Ράιαν",
+      "es": "Rescatando al soldado Ryan",
+      "fr": "Il faut sauver le soldat Ryan",
+      "he": "להציל את טוראי ריאן",
+      "hi": "सेविंग प्राइवेट रायन",
+      "ja": "プライベート・ライアン",
+      "ko": "라이언 일병 구하기",
+      "ru": "Спасти рядового Райана",
+      "zh": "雷霆救兵"
+    }
   },
   {
     "celebrity": "Braveheart",
@@ -231,7 +631,23 @@
       "Its clues draw from the setting, central conflict, and memorable screen imagery rather than the name.",
       "Look for the kind of characters, setting, and genre situation that fans associate with it.",
       "The best hint is the mood: a recognizable mix of stakes, visual style, and repeated pop-culture references."
-    ]
+    ],
+    "tmdb_id": 197,
+    "media_type": "movie",
+    "localized_titles": {
+      "am": "Braveheart",
+      "ar": "قلب شجاع",
+      "de": "Braveheart",
+      "el": "Braveheart",
+      "es": "Corazón Valiente",
+      "fr": "Cœur vaillant",
+      "he": "לב אמיץ",
+      "hi": "Braveheart",
+      "ja": "ブレイブハート",
+      "ko": "브레이브하트",
+      "ru": "Храброе сердце",
+      "zh": "驚世未了緣"
+    }
   },
   {
     "celebrity": "The Departed",
@@ -240,7 +656,23 @@
       "Its clues draw from the setting, central conflict, and memorable screen imagery rather than the name.",
       "Look for the kind of characters, setting, and genre situation that fans associate with it.",
       "The best hint is the mood: a recognizable mix of stakes, visual style, and repeated pop-culture references."
-    ]
+    ],
+    "tmdb_id": 1422,
+    "media_type": "movie",
+    "localized_titles": {
+      "am": "The Departed",
+      "ar": "الراحل",
+      "de": "Departed - Unter Feinden",
+      "el": "Ο Πληροφοριοδότης",
+      "es": "Los Infiltrados",
+      "fr": "Agents troubles",
+      "he": "השתולים",
+      "hi": "The Departed",
+      "ja": "ディパーテッド",
+      "ko": "디파티드",
+      "ru": "Отступники",
+      "zh": "無間道風雲"
+    }
   },
   {
     "celebrity": "Interstellar",
@@ -249,7 +681,23 @@
       "Its clues draw from the setting, central conflict, and memorable screen imagery rather than the name.",
       "Look for the kind of characters, setting, and genre situation that fans associate with it.",
       "The best hint is the mood: a recognizable mix of stakes, visual style, and repeated pop-culture references."
-    ]
+    ],
+    "tmdb_id": 157336,
+    "media_type": "movie",
+    "localized_titles": {
+      "am": "Interstellar",
+      "ar": "بين النجوم",
+      "de": "Interstellar",
+      "el": "Interstellar",
+      "es": "Interestelar",
+      "fr": "Interstellaire",
+      "he": "בין כוכבים",
+      "hi": "इंटरस्टेलर",
+      "ja": "インターステラー",
+      "ko": "인터스텔라",
+      "ru": "Интерстеллар",
+      "zh": "星际效应"
+    }
   },
   {
     "celebrity": "Avatar",
@@ -258,7 +706,23 @@
       "Its clues draw from the setting, central conflict, and memorable screen imagery rather than the name.",
       "Look for the kind of characters, setting, and genre situation that fans associate with it.",
       "The best hint is the mood: a recognizable mix of stakes, visual style, and repeated pop-culture references."
-    ]
+    ],
+    "tmdb_id": 19995,
+    "media_type": "movie",
+    "localized_titles": {
+      "am": "Avatar",
+      "ar": "أفاتار",
+      "de": "Avatar - Aufbruch nach Pandora",
+      "el": "Avatar",
+      "es": "Avatar",
+      "fr": "Avatar",
+      "he": "אווטאר",
+      "hi": "अवतार: एक अदभुत दुनिया",
+      "ja": "アバター",
+      "ko": "아바타",
+      "ru": "Аватар",
+      "zh": "阿凡達"
+    }
   },
   {
     "celebrity": "Black Panther",
@@ -267,7 +731,23 @@
       "Its clues draw from the setting, central conflict, and memorable screen imagery rather than the name.",
       "Look for the kind of characters, setting, and genre situation that fans associate with it.",
       "The best hint is the mood: a recognizable mix of stakes, visual style, and repeated pop-culture references."
-    ]
+    ],
+    "tmdb_id": 284054,
+    "media_type": "movie",
+    "localized_titles": {
+      "am": "Black Panther",
+      "ar": "بلاك بانثر",
+      "de": "Black Panther",
+      "el": "Black Panther",
+      "es": "Pantera Negra",
+      "fr": "Panthère Noire",
+      "he": "הפנתר השחור",
+      "hi": "Black Panther",
+      "ja": "ブラックパンサー",
+      "ko": "블랙 팬서",
+      "ru": "Чёрная Пантера",
+      "zh": "黑豹"
+    }
   },
   {
     "celebrity": "Avengers Endgame",
@@ -276,7 +756,23 @@
       "Its clues draw from the setting, central conflict, and memorable screen imagery rather than the name.",
       "Look for the kind of characters, setting, and genre situation that fans associate with it.",
       "The best hint is the mood: a recognizable mix of stakes, visual style, and repeated pop-culture references."
-    ]
+    ],
+    "tmdb_id": 299534,
+    "media_type": "movie",
+    "localized_titles": {
+      "am": "Avengers Endgame",
+      "ar": "المنتقمون: نهاية اللعبة",
+      "de": "Avengers Endgame",
+      "el": "Εκδικητές: Η Τελευταία Πράξη",
+      "es": "Avengers: Endgame",
+      "fr": "Avengers : Phase finale",
+      "he": "הנוקמים: סוף המשחק",
+      "hi": "अवेंजर्स: एंडगेम",
+      "ja": "アベンジャーズ／エンドゲーム",
+      "ko": "어벤져스: 엔드게임",
+      "ru": "Мстители: Финал",
+      "zh": "復仇者聯盟：終局之戰"
+    }
   },
   {
     "celebrity": "Toy Story",
@@ -285,7 +781,23 @@
       "Bedroom playthings secretly come alive whenever humans are not watching.",
       "A cowboy leader feels threatened when a flashy space-themed newcomer arrives.",
       "Claw machines, moving trucks, and a neighbor who mutates toys are key clues."
-    ]
+    ],
+    "tmdb_id": 862,
+    "media_type": "movie",
+    "localized_titles": {
+      "am": "Toy Story",
+      "ar": "حكاية لعبة",
+      "de": "Toy Story",
+      "el": "Η Ιστορία των Παιχνιδιών",
+      "es": "Toy Story",
+      "fr": "Histoire de Jouets",
+      "he": "צעצוע של סיפור",
+      "hi": "टॉय स्टोरी",
+      "ja": "トイ・ストーリー",
+      "ko": "토이 스토리",
+      "ru": "История игрушек",
+      "zh": "反斗奇兵"
+    }
   },
   {
     "celebrity": "Finding Nemo",
@@ -294,7 +806,23 @@
       "An anxious father crosses the ocean after his small son is taken by divers.",
       "A forgetful blue companion, a dentist's aquarium, and surfer-like turtles are major clues.",
       "Its journey moves from coral reefs to jellyfish fields and a drain escape plan."
-    ]
+    ],
+    "tmdb_id": 12,
+    "media_type": "movie",
+    "localized_titles": {
+      "am": "Finding Nemo",
+      "ar": "البحث عن نيمو",
+      "de": "Findet Nemo",
+      "el": "Ψάχνοντας τον Νέμο",
+      "es": "Buscando a Nemo",
+      "fr": "Trouver Némo",
+      "he": "מוצאים את נמו",
+      "hi": "खो गया नीमों",
+      "ja": "ファインディング・ニモ",
+      "ko": "니모를 찾아서",
+      "ru": "В поисках Немо",
+      "zh": "海底奇兵"
+    }
   },
   {
     "celebrity": "Shrek",
@@ -303,7 +831,23 @@
       "A swamp-loving ogre is forced into a fairy-tale rescue mission with a talkative donkey.",
       "The princess hides a nighttime secret that changes the meaning of true love.",
       "Its jokes twist castles, curses, tournament quests, and storybook creatures into parody."
-    ]
+    ],
+    "tmdb_id": 808,
+    "media_type": "movie",
+    "localized_titles": {
+      "am": "Shrek",
+      "ar": "شريك",
+      "de": "Shrek - Der tollkühne Held",
+      "el": "Σρεκ",
+      "es": "Shrek",
+      "fr": "Shrek",
+      "he": "שרק",
+      "hi": "Shrek",
+      "ja": "シュレック",
+      "ko": "슈렉",
+      "ru": "Шрэк",
+      "zh": "史力加"
+    }
   },
   {
     "celebrity": "Frozen",
@@ -312,7 +856,23 @@
       "Two royal sisters are separated by dangerous ice powers and years of fear.",
       "A living snowman, a mountain ice palace, and a song about letting go are major clues.",
       "The emotional solution depends more on sisterhood than a traditional romantic rescue."
-    ]
+    ],
+    "tmdb_id": 109445,
+    "media_type": "movie",
+    "localized_titles": {
+      "am": "Frozen",
+      "ar": "ملكة الثلج",
+      "de": "Die Eiskönigin - Völlig unverfroren",
+      "el": "Ψυχρά κι Ανάποδα",
+      "es": "Frozen: Una Aventura Congelada",
+      "fr": "La reine des neiges",
+      "he": "לשבור את הקרח",
+      "hi": "Frozen",
+      "ja": "アナと雪の女王",
+      "ko": "겨울왕국",
+      "ru": "Холодное сердце",
+      "zh": "魔雪奇緣"
+    }
   },
   {
     "celebrity": "The Lion King",
@@ -321,7 +881,23 @@
       "Its clues draw from the setting, central conflict, and memorable screen imagery rather than the name.",
       "Look for the kind of characters, setting, and genre situation that fans associate with it.",
       "The best hint is the mood: a recognizable mix of stakes, visual style, and repeated pop-culture references."
-    ]
+    ],
+    "tmdb_id": 8587,
+    "media_type": "movie",
+    "localized_titles": {
+      "am": "The Lion King",
+      "ar": "الأسد الملك",
+      "de": "Der König der Löwen",
+      "el": "Ο Βασιλιάς των Λιονταριών",
+      "es": "El rey león",
+      "fr": "Le Roi Lion",
+      "he": "מלך האריות",
+      "hi": "The Lion King",
+      "ja": "ライオン・キング",
+      "ko": "라이온 킹",
+      "ru": "Король Лев",
+      "zh": "獅子王"
+    }
   },
   {
     "celebrity": "Spirited Away",
@@ -330,7 +906,23 @@
       "Its clues draw from the setting, central conflict, and memorable screen imagery rather than the name.",
       "Look for the kind of characters, setting, and genre situation that fans associate with it.",
       "The best hint is the mood: a recognizable mix of stakes, visual style, and repeated pop-culture references."
-    ]
+    ],
+    "tmdb_id": 129,
+    "media_type": "movie",
+    "localized_titles": {
+      "am": "Spirited Away",
+      "ar": "المخطوفة",
+      "de": "Chihiros Reise ins Zauberland",
+      "el": "Ταξίδι στη Χώρα των Θαυμάτων",
+      "es": "El viaje de Chihiro",
+      "fr": "Le voyage de Chihiro",
+      "he": "המסע המופלא",
+      "hi": "स्पिरिटेड अवे",
+      "ja": "Spirited Away",
+      "ko": "센과 치히로의 행방불명",
+      "ru": "Унесённые призраками",
+      "zh": "千與千尋"
+    }
   },
   {
     "celebrity": "Parasite",
@@ -339,7 +931,23 @@
       "Its clues draw from the setting, central conflict, and memorable screen imagery rather than the name.",
       "Look for the kind of characters, setting, and genre situation that fans associate with it.",
       "The best hint is the mood: a recognizable mix of stakes, visual style, and repeated pop-culture references."
-    ]
+    ],
+    "tmdb_id": 496243,
+    "media_type": "movie",
+    "localized_titles": {
+      "am": "Parasite",
+      "ar": "طفيلي",
+      "de": "Parasite",
+      "el": "Παράσιτα",
+      "es": "Parásitos",
+      "fr": "Parasite",
+      "he": "פרזיטים",
+      "hi": "Parasite",
+      "ja": "パラサイト 半地下の家族",
+      "ko": "Parasite",
+      "ru": "Паразиты",
+      "zh": "上流寄生族"
+    }
   },
   {
     "celebrity": "Oppenheimer",
@@ -348,7 +956,23 @@
       "Its clues draw from the setting, central conflict, and memorable screen imagery rather than the name.",
       "Look for the kind of characters, setting, and genre situation that fans associate with it.",
       "The best hint is the mood: a recognizable mix of stakes, visual style, and repeated pop-culture references."
-    ]
+    ],
+    "tmdb_id": 872585,
+    "media_type": "movie",
+    "localized_titles": {
+      "am": "Oppenheimer",
+      "ar": "أوبنهايمر",
+      "de": "Oppenheimer",
+      "el": "Οπενχάιμερ",
+      "es": "Oppenheimer",
+      "fr": "Oppenheimer",
+      "he": "אופנהיימר",
+      "hi": "ऑपनहैइमर",
+      "ja": "オッペンハイマー",
+      "ko": "오펜하이머",
+      "ru": "Оппенгеймер",
+      "zh": "奧本海默"
+    }
   },
   {
     "celebrity": "Barbie",
@@ -357,7 +981,23 @@
       "Its clues draw from the setting, central conflict, and memorable screen imagery rather than the name.",
       "Look for the kind of characters, setting, and genre situation that fans associate with it.",
       "The best hint is the mood: a recognizable mix of stakes, visual style, and repeated pop-culture references."
-    ]
+    ],
+    "tmdb_id": 346698,
+    "media_type": "movie",
+    "localized_titles": {
+      "am": "Barbie",
+      "ar": "باربي",
+      "de": "Barbie",
+      "el": "Μπάρμπι",
+      "es": "Barbie",
+      "fr": "Barbie",
+      "he": "ברבי",
+      "hi": "Barbie",
+      "ja": "バービー",
+      "ko": "바비",
+      "ru": "Барби",
+      "zh": "Barbie 芭比"
+    }
   },
   {
     "celebrity": "Dune",
@@ -366,7 +1006,23 @@
       "Its clues draw from the setting, central conflict, and memorable screen imagery rather than the name.",
       "Look for the kind of characters, setting, and genre situation that fans associate with it.",
       "The best hint is the mood: a recognizable mix of stakes, visual style, and repeated pop-culture references."
-    ]
+    ],
+    "tmdb_id": 438631,
+    "media_type": "movie",
+    "localized_titles": {
+      "am": "Dune",
+      "ar": "كثيب",
+      "de": "Dune",
+      "el": "Dune",
+      "es": "Duna",
+      "fr": "Dune",
+      "he": "חולית",
+      "hi": "ड्यून",
+      "ja": "DUNE／デューン 砂の惑星",
+      "ko": "듄",
+      "ru": "Дюна",
+      "zh": "沙丘瀚戰"
+    }
   },
   {
     "celebrity": "Top Gun Maverick",
@@ -375,7 +1031,23 @@
       "Its clues draw from the setting, central conflict, and memorable screen imagery rather than the name.",
       "Look for the kind of characters, setting, and genre situation that fans associate with it.",
       "The best hint is the mood: a recognizable mix of stakes, visual style, and repeated pop-culture references."
-    ]
+    ],
+    "tmdb_id": 361743,
+    "media_type": "movie",
+    "localized_titles": {
+      "am": "Top Gun Maverick",
+      "ar": "توب غان : مافريك",
+      "de": "Top Gun Maverick",
+      "el": "Top Gun Maverick",
+      "es": "Top Gun Maverick",
+      "fr": "Top Gun : Maverick",
+      "he": "אהבה בשחקים: מאווריק",
+      "hi": "टॉप गन: मैवरिक",
+      "ja": "トップガン マーヴェリック",
+      "ko": "탑건: 매버릭",
+      "ru": "Топ Ган: Мэверик",
+      "zh": "捍卫战士：独行侠"
+    }
   },
   {
     "celebrity": "Mission Impossible",
@@ -384,7 +1056,23 @@
       "Its clues draw from the setting, central conflict, and memorable screen imagery rather than the name.",
       "Look for the kind of characters, setting, and genre situation that fans associate with it.",
       "The best hint is the mood: a recognizable mix of stakes, visual style, and repeated pop-culture references."
-    ]
+    ],
+    "tmdb_id": 954,
+    "media_type": "movie",
+    "localized_titles": {
+      "am": "Mission Impossible",
+      "ar": "المهمة: المستحيلة",
+      "de": "Mission Impossible",
+      "el": "Επικίνδυνη Αποστολή",
+      "es": "Misión: Imposible",
+      "fr": "Mission : Impossible",
+      "he": "משימה בלתי אפשרית",
+      "hi": "असंभव:लक्ष्य",
+      "ja": "ミッション：インポッシブル",
+      "ko": "미션 임파서블",
+      "ru": "Миссия невыполнима",
+      "zh": "職業特工隊"
+    }
   },
   {
     "celebrity": "John Wick",
@@ -393,7 +1081,23 @@
       "Its clues draw from the setting, central conflict, and memorable screen imagery rather than the name.",
       "Look for the kind of characters, setting, and genre situation that fans associate with it.",
       "The best hint is the mood: a recognizable mix of stakes, visual style, and repeated pop-culture references."
-    ]
+    ],
+    "tmdb_id": 245891,
+    "media_type": "movie",
+    "localized_titles": {
+      "am": "John Wick",
+      "ar": "جون ويك",
+      "de": "John Wick",
+      "el": "John Wick",
+      "es": "John Wick: Otro Día para Matar",
+      "fr": "John Wick",
+      "he": "ג'ון וויק",
+      "hi": "जॉन विक",
+      "ja": "ジョン・ウィック",
+      "ko": "존 윅",
+      "ru": "Джон Уик",
+      "zh": "殺神 John Wick"
+    }
   },
   {
     "celebrity": "The Hunger Games",
@@ -402,7 +1106,23 @@
       "Its clues draw from the setting, central conflict, and memorable screen imagery rather than the name.",
       "Look for the kind of characters, setting, and genre situation that fans associate with it.",
       "The best hint is the mood: a recognizable mix of stakes, visual style, and repeated pop-culture references."
-    ]
+    ],
+    "tmdb_id": 70160,
+    "media_type": "movie",
+    "localized_titles": {
+      "am": "The Hunger Games",
+      "ar": "مباريات الجوع",
+      "de": "Die Tribute von Panem - The Hunger Games",
+      "el": "Αγώνες Πείνας",
+      "es": "Los juegos del hambre",
+      "fr": "Hunger Games : Le film",
+      "he": "משחקי הרעב",
+      "hi": "द हंगर गेम्स: मौत का खेल - जीना है तो जीतना है",
+      "ja": "ハンガー・ゲーム",
+      "ko": "헝거게임: 판엠의 불꽃",
+      "ru": "Голодные игры",
+      "zh": "饥饿游戏"
+    }
   },
   {
     "celebrity": "Pirates of the Caribbean",
@@ -411,7 +1131,23 @@
       "Its clues draw from the setting, central conflict, and memorable screen imagery rather than the name.",
       "Look for the kind of characters, setting, and genre situation that fans associate with it.",
       "The best hint is the mood: a recognizable mix of stakes, visual style, and repeated pop-culture references."
-    ]
+    ],
+    "tmdb_id": 22,
+    "media_type": "movie",
+    "localized_titles": {
+      "am": "Pirates of the Caribbean",
+      "ar": "قراصنة الكاريبي - لعنة اللؤلؤة السوداء",
+      "de": "Fluch der Karibik",
+      "el": "Οι Πειρατές της Καραϊβικής: Η Κατάρα του Μαύρου Μαργαριταριού",
+      "es": "Piratas del Caribe: La Maldición del Perla Negra",
+      "fr": "Pirates des Caraïbes : La malédiction de la perle noire",
+      "he": "שודדי הקאריביים: קללת הפנינה השחורה",
+      "hi": "समुंदर के लुटेरे",
+      "ja": "パイレーツ・オブ・カリビアン／呪われた海賊たち",
+      "ko": "캐리비안의 해적: 블랙펄의 저주",
+      "ru": "Пираты Карибского моря: Проклятие Чёрной жемчужины",
+      "zh": "魔盜王決戰鬼盜船"
+    }
   },
   {
     "celebrity": "The Fast and the Furious",
@@ -420,7 +1156,23 @@
       "Its clues draw from the setting, central conflict, and memorable screen imagery rather than the name.",
       "Look for the kind of characters, setting, and genre situation that fans associate with it.",
       "The best hint is the mood: a recognizable mix of stakes, visual style, and repeated pop-culture references."
-    ]
+    ],
+    "tmdb_id": 20174,
+    "media_type": "movie",
+    "localized_titles": {
+      "am": "The Fast and the Furious",
+      "ar": "The Fast and the Furious",
+      "de": "Der rasende Teufel",
+      "el": "The Fast and the Furious",
+      "es": "The Fast and the Furious",
+      "fr": "The Fast and the Furious",
+      "he": "המהיר והעצבני",
+      "hi": "The Fast and the Furious",
+      "ja": "The Fast and the Furious",
+      "ko": "The Fast and the Furious",
+      "ru": "Быстрые и яростные",
+      "zh": "雷霆之怒"
+    }
   },
   {
     "celebrity": "Scream",
@@ -429,7 +1181,23 @@
       "Its clues draw from the setting, central conflict, and memorable screen imagery rather than the name.",
       "Look for the kind of characters, setting, and genre situation that fans associate with it.",
       "The best hint is the mood: a recognizable mix of stakes, visual style, and repeated pop-culture references."
-    ]
+    ],
+    "tmdb_id": 4232,
+    "media_type": "movie",
+    "localized_titles": {
+      "am": "Scream",
+      "ar": "الصرخة",
+      "de": "Scream - Schrei!",
+      "el": "Κραυγή αγωνίας",
+      "es": "Scream: Grita antes de morir",
+      "fr": "Frissons",
+      "he": "צעקה",
+      "hi": "स्क्रीम",
+      "ja": "スクリーム",
+      "ko": "스크림",
+      "ru": "Крик",
+      "zh": "奪命狂呼"
+    }
   },
   {
     "celebrity": "The Conjuring",
@@ -438,7 +1206,23 @@
       "Its clues draw from the setting, central conflict, and memorable screen imagery rather than the name.",
       "Look for the kind of characters, setting, and genre situation that fans associate with it.",
       "The best hint is the mood: a recognizable mix of stakes, visual style, and repeated pop-culture references."
-    ]
+    ],
+    "tmdb_id": 138843,
+    "media_type": "movie",
+    "localized_titles": {
+      "am": "The Conjuring",
+      "ar": "الشعوذة",
+      "de": "Conjuring: Die Heimsuchung",
+      "el": "Το Κάλεσμα",
+      "es": "El Conjuro",
+      "fr": "La Conjuration",
+      "he": "לזמן את הרוע",
+      "hi": "द कॉन्जुरिंग",
+      "ja": "死霊館",
+      "ko": "컨저링",
+      "ru": "Заклятие",
+      "zh": "詭屋驚凶實錄"
+    }
   },
   {
     "celebrity": "A Nightmare on Elm Street",
@@ -447,7 +1231,23 @@
       "Its clues draw from the setting, central conflict, and memorable screen imagery rather than the name.",
       "Look for the kind of characters, setting, and genre situation that fans associate with it.",
       "The best hint is the mood: a recognizable mix of stakes, visual style, and repeated pop-culture references."
-    ]
+    ],
+    "tmdb_id": 377,
+    "media_type": "movie",
+    "localized_titles": {
+      "am": "A Nightmare on Elm Street",
+      "ar": "A Nightmare on Elm Street",
+      "de": "Nightmare - Mörderische Träume",
+      "el": "Εφιάλτης στο Δρόμο με τις Λεύκες",
+      "es": "Pesadilla en la calle del infierno",
+      "fr": "Les griffes de la nuit",
+      "he": "סיוט ברחוב אלם",
+      "hi": "A Nightmare on Elm Street",
+      "ja": "エルム街の悪夢",
+      "ko": "나이트메어",
+      "ru": "Кошмар на улице Вязов",
+      "zh": "猛鬼街"
+    }
   },
   {
     "celebrity": "Halloween",
@@ -456,7 +1256,23 @@
       "Its clues draw from the setting, central conflict, and memorable screen imagery rather than the name.",
       "Look for the kind of characters, setting, and genre situation that fans associate with it.",
       "The best hint is the mood: a recognizable mix of stakes, visual style, and repeated pop-culture references."
-    ]
+    ],
+    "tmdb_id": 948,
+    "media_type": "movie",
+    "localized_titles": {
+      "am": "Halloween",
+      "ar": "الهالوين",
+      "de": "Halloween - Die Nacht des Grauens",
+      "el": "Η Νύχτα με τις Μάσκες",
+      "es": "Halloween",
+      "fr": "Halloween : La Nuit des Masques",
+      "he": "ליל המסכות",
+      "hi": "Halloween",
+      "ja": "ハロウィン",
+      "ko": "할로윈",
+      "ru": "Хэллоуин",
+      "zh": "月光光心慌慌"
+    }
   },
   {
     "celebrity": "Ghostbusters",
@@ -465,7 +1281,23 @@
       "Its clues draw from the setting, central conflict, and memorable screen imagery rather than the name.",
       "Look for the kind of characters, setting, and genre situation that fans associate with it.",
       "The best hint is the mood: a recognizable mix of stakes, visual style, and repeated pop-culture references."
-    ]
+    ],
+    "tmdb_id": 620,
+    "media_type": "movie",
+    "localized_titles": {
+      "am": "Ghostbusters",
+      "ar": "صائدو الأشباح",
+      "de": "Ghostbusters - Die Geisterjäger",
+      "el": "Ghostbusters",
+      "es": "Los Cazafantasmas",
+      "fr": "S.O.S. Fantômes",
+      "he": "מכסחי השדים",
+      "hi": "Ghostbusters",
+      "ja": "ゴーストバスターズ",
+      "ko": "고스트버스터즈",
+      "ru": "Охотники за привидениями",
+      "zh": "捉鬼敢死隊"
+    }
   },
   {
     "celebrity": "Men in Black",
@@ -474,7 +1306,23 @@
       "Its clues draw from the setting, central conflict, and memorable screen imagery rather than the name.",
       "Look for the kind of characters, setting, and genre situation that fans associate with it.",
       "The best hint is the mood: a recognizable mix of stakes, visual style, and repeated pop-culture references."
-    ]
+    ],
+    "tmdb_id": 607,
+    "media_type": "movie",
+    "localized_titles": {
+      "am": "Men in Black",
+      "ar": "الرجال ذي الحلل السوداء",
+      "de": "Men in Black",
+      "el": "Οι Άνδρες με τα Μαύρα",
+      "es": "Hombres de negro",
+      "fr": "Hommes en noir",
+      "he": "גברים בשחור",
+      "hi": "विश्वरक्षक",
+      "ja": "メン・イン・ブラック",
+      "ko": "맨 인 블랙",
+      "ru": "Люди в чёрном",
+      "zh": "黑超特警組"
+    }
   },
   {
     "celebrity": "Blade Runner",
@@ -483,7 +1331,23 @@
       "Its clues draw from the setting, central conflict, and memorable screen imagery rather than the name.",
       "Look for the kind of characters, setting, and genre situation that fans associate with it.",
       "The best hint is the mood: a recognizable mix of stakes, visual style, and repeated pop-culture references."
-    ]
+    ],
+    "tmdb_id": 78,
+    "media_type": "movie",
+    "localized_titles": {
+      "am": "Blade Runner",
+      "ar": "بليد رانر",
+      "de": "Der Blade Runner",
+      "el": "Μπλέηντ Ράννερ: Ομάδες Εξόντωσης",
+      "es": "Blade Runner",
+      "fr": "Blade Runner",
+      "he": "בלייד ראנר",
+      "hi": "Blade Runner",
+      "ja": "ブレードランナー",
+      "ko": "블레이드 러너",
+      "ru": "Бегущий по лезвию",
+      "zh": "銀翼殺手"
+    }
   },
   {
     "celebrity": "Casino Royale",
@@ -492,7 +1356,23 @@
       "Its clues draw from the setting, central conflict, and memorable screen imagery rather than the name.",
       "Look for the kind of characters, setting, and genre situation that fans associate with it.",
       "The best hint is the mood: a recognizable mix of stakes, visual style, and repeated pop-culture references."
-    ]
+    ],
+    "tmdb_id": 36557,
+    "media_type": "movie",
+    "localized_titles": {
+      "am": "Casino Royale",
+      "ar": "كازينو رويال",
+      "de": "James Bond 007 - Casino Royale",
+      "el": "Τζέιμς Μποντ, Πράκτωρ 007: Casino Royale",
+      "es": "Casino Royale",
+      "fr": "Casino Royale",
+      "he": "קזינו רויאל",
+      "hi": "कसिनो रोयाल",
+      "ja": "007／カジノ・ロワイヤル",
+      "ko": "007 카지노 로얄",
+      "ru": "007: Казино Рояль",
+      "zh": "新鐵金剛智破皇家賭場"
+    }
   },
   {
     "celebrity": "La La Land",
@@ -501,7 +1381,23 @@
       "Its clues draw from the setting, central conflict, and memorable screen imagery rather than the name.",
       "Look for the kind of characters, setting, and genre situation that fans associate with it.",
       "The best hint is the mood: a recognizable mix of stakes, visual style, and repeated pop-culture references."
-    ]
+    ],
+    "tmdb_id": 313369,
+    "media_type": "movie",
+    "localized_titles": {
+      "am": "La La Land",
+      "ar": "لا لا لاند",
+      "de": "La La Land",
+      "el": "La La Land",
+      "es": "La La Land: Una historia de amor",
+      "fr": "Pour l'amour d'Hollywood",
+      "he": "לה לה לנד",
+      "hi": "La La Land",
+      "ja": "ラ・ラ・ランド",
+      "ko": "라라랜드",
+      "ru": "Ла-Ла Ленд",
+      "zh": "星聲夢裡人"
+    }
   },
   {
     "celebrity": "Whiplash",
@@ -510,7 +1406,23 @@
       "Its clues draw from the setting, central conflict, and memorable screen imagery rather than the name.",
       "Look for the kind of characters, setting, and genre situation that fans associate with it.",
       "The best hint is the mood: a recognizable mix of stakes, visual style, and repeated pop-culture references."
-    ]
+    ],
+    "tmdb_id": 244786,
+    "media_type": "movie",
+    "localized_titles": {
+      "am": "Whiplash",
+      "ar": "ويبلاش",
+      "de": "Whiplash",
+      "el": "Χωρίς Μέτρο",
+      "es": "Whiplash: Música y Obsesión",
+      "fr": "Whiplash",
+      "he": "וויפלאש",
+      "hi": "Whiplash",
+      "ja": "セッション",
+      "ko": "위플래쉬",
+      "ru": "Одержимость",
+      "zh": "鼓動真我"
+    }
   },
   {
     "celebrity": "The Social Network",
@@ -519,7 +1431,23 @@
       "Its clues draw from the setting, central conflict, and memorable screen imagery rather than the name.",
       "Look for the kind of characters, setting, and genre situation that fans associate with it.",
       "The best hint is the mood: a recognizable mix of stakes, visual style, and repeated pop-culture references."
-    ]
+    ],
+    "tmdb_id": 37799,
+    "media_type": "movie",
+    "localized_titles": {
+      "am": "The Social Network",
+      "ar": "الشبكة الاجتماعية",
+      "de": "The Social Network",
+      "el": "The Social Network",
+      "es": "Red Social",
+      "fr": "Le réseau social",
+      "he": "הרשת החברתית",
+      "hi": "द सोशल नेटवर्क",
+      "ja": "ソーシャル・ネットワーク",
+      "ko": "소셜 네트워크",
+      "ru": "Социальная сеть",
+      "zh": "社交網絡"
+    }
   },
   {
     "celebrity": "The Prestige",
@@ -528,7 +1456,23 @@
       "Its clues draw from the setting, central conflict, and memorable screen imagery rather than the name.",
       "Look for the kind of characters, setting, and genre situation that fans associate with it.",
       "The best hint is the mood: a recognizable mix of stakes, visual style, and repeated pop-culture references."
-    ]
+    ],
+    "tmdb_id": 1124,
+    "media_type": "movie",
+    "localized_titles": {
+      "am": "The Prestige",
+      "ar": "العظمة",
+      "de": "Prestige - Die Meister der Magie",
+      "el": "The Prestige",
+      "es": "El Gran Truco",
+      "fr": "Le prestige",
+      "he": "יוקרה",
+      "hi": "जादू एक धोखा",
+      "ja": "プレステージ",
+      "ko": "프레스티지",
+      "ru": "Престиж",
+      "zh": "死亡魔法"
+    }
   },
   {
     "celebrity": "Memento",
@@ -537,7 +1481,23 @@
       "Its clues draw from the setting, central conflict, and memorable screen imagery rather than the name.",
       "Look for the kind of characters, setting, and genre situation that fans associate with it.",
       "The best hint is the mood: a recognizable mix of stakes, visual style, and repeated pop-culture references."
-    ]
+    ],
+    "tmdb_id": 77,
+    "media_type": "movie",
+    "localized_titles": {
+      "am": "Memento",
+      "ar": "تِذكار",
+      "de": "Memento",
+      "el": "Μεμέντο",
+      "es": "Amnesia",
+      "fr": "Mémento",
+      "he": "ממנטו",
+      "hi": "Memento",
+      "ja": "メメント",
+      "ko": "메멘토",
+      "ru": "Мементо",
+      "zh": "凶心人"
+    }
   },
   {
     "celebrity": "Se7en",
@@ -546,7 +1506,23 @@
       "Its clues draw from the setting, central conflict, and memorable screen imagery rather than the name.",
       "Look for the kind of characters, setting, and genre situation that fans associate with it.",
       "The best hint is the mood: a recognizable mix of stakes, visual style, and repeated pop-culture references."
-    ]
+    ],
+    "tmdb_id": 807,
+    "media_type": "movie",
+    "localized_titles": {
+      "am": "Se7en",
+      "ar": "سبعة",
+      "de": "Sieben",
+      "el": "Se7en",
+      "es": "Se7en: Los Siete Pecados Capitales",
+      "fr": "Sept",
+      "he": "שבעה חטאים",
+      "hi": "Se7en",
+      "ja": "セブン",
+      "ko": "세븐",
+      "ru": "Семь",
+      "zh": "七宗罪"
+    }
   },
   {
     "celebrity": "No Country for Old Men",
@@ -555,7 +1531,23 @@
       "Its clues draw from the setting, central conflict, and memorable screen imagery rather than the name.",
       "Look for the kind of characters, setting, and genre situation that fans associate with it.",
       "The best hint is the mood: a recognizable mix of stakes, visual style, and repeated pop-culture references."
-    ]
+    ],
+    "tmdb_id": 6977,
+    "media_type": "movie",
+    "localized_titles": {
+      "am": "No Country for Old Men",
+      "ar": "لا بلد للعجائز",
+      "de": "No Country for Old Men",
+      "el": "Καμιά Πατρίδα για τους Μελλοθάνατους",
+      "es": "Sin lugar para los débiles",
+      "fr": "Non, ce pays n'est pas pour le vieil homme",
+      "he": "ארץ קשוחה",
+      "hi": "नो कंट्री फॉर ओल्ड मैन",
+      "ja": "ノーカントリー",
+      "ko": "노인을 위한 나라는 없다",
+      "ru": "Старикам тут не место",
+      "zh": "2 百萬奪命奇案"
+    }
   },
   {
     "celebrity": "There Will Be Blood",
@@ -564,7 +1556,23 @@
       "Its clues draw from the setting, central conflict, and memorable screen imagery rather than the name.",
       "Look for the kind of characters, setting, and genre situation that fans associate with it.",
       "The best hint is the mood: a recognizable mix of stakes, visual style, and repeated pop-culture references."
-    ]
+    ],
+    "tmdb_id": 7345,
+    "media_type": "movie",
+    "localized_titles": {
+      "am": "There Will Be Blood",
+      "ar": "دماء في الأفق",
+      "de": "There Will Be Blood",
+      "el": "Θα Χυθεί Αίμα",
+      "es": "Petróleo sangriento",
+      "fr": "Il y aura du sang",
+      "he": "זה יגמר בדם",
+      "hi": "खून का दरिया",
+      "ja": "ゼア・ウィル・ビー・ブラッド",
+      "ko": "데어 윌 비 블러드",
+      "ru": "Нефть",
+      "zh": "黑金風雲"
+    }
   },
   {
     "celebrity": "The Big Lebowski",
@@ -573,7 +1581,23 @@
       "Its clues draw from the setting, central conflict, and memorable screen imagery rather than the name.",
       "Look for the kind of characters, setting, and genre situation that fans associate with it.",
       "The best hint is the mood: a recognizable mix of stakes, visual style, and repeated pop-culture references."
-    ]
+    ],
+    "tmdb_id": 115,
+    "media_type": "movie",
+    "localized_titles": {
+      "am": "The Big Lebowski",
+      "ar": "The Big Lebowski",
+      "de": "The Big Lebowski",
+      "el": "Ο Μεγάλος Λεμπόφσκι",
+      "es": "El Gran Lebowski: Identidad Peligrosa",
+      "fr": "Le grand Lebowski",
+      "he": "ביג ליבובסקי",
+      "hi": "The Big Lebowski",
+      "ja": "ビッグ・リボウスキ",
+      "ko": "위대한 레보스키",
+      "ru": "Большой Лебовски",
+      "zh": "大保齡離奇綁架"
+    }
   },
   {
     "celebrity": "Mean Girls",
@@ -582,7 +1606,23 @@
       "Its clues draw from the setting, central conflict, and memorable screen imagery rather than the name.",
       "Look for the kind of characters, setting, and genre situation that fans associate with it.",
       "The best hint is the mood: a recognizable mix of stakes, visual style, and repeated pop-culture references."
-    ]
+    ],
+    "tmdb_id": 10625,
+    "media_type": "movie",
+    "localized_titles": {
+      "am": "Mean Girls",
+      "ar": "Mean Girls",
+      "de": "Girls Club - Vorsicht bissig!",
+      "el": "Τα Κακά Κορίτσια",
+      "es": "Chicas Pesadas",
+      "fr": "Méchantes ados",
+      "he": "ילדות רעות",
+      "hi": "Mean Girls",
+      "ja": "ミーン・ガールズ",
+      "ko": "퀸카로 살아남는 법",
+      "ru": "Дрянные девчонки",
+      "zh": "辣妹過招"
+    }
   },
   {
     "celebrity": "Clueless",
@@ -591,7 +1631,23 @@
       "Its clues draw from the setting, central conflict, and memorable screen imagery rather than the name.",
       "Look for the kind of characters, setting, and genre situation that fans associate with it.",
       "The best hint is the mood: a recognizable mix of stakes, visual style, and repeated pop-culture references."
-    ]
+    ],
+    "tmdb_id": 9603,
+    "media_type": "movie",
+    "localized_titles": {
+      "am": "Clueless",
+      "ar": "Clueless",
+      "de": "Clueless - Was sonst!",
+      "el": "Το Κορίτσι του Μπέβερλι Χιλς",
+      "es": "Ni idea",
+      "fr": "Les collégiennes de Beverly Hills",
+      "he": "קלולס",
+      "hi": "उलझी सी लड़की",
+      "ja": "クルーレス",
+      "ko": "클루리스",
+      "ru": "Бестолковые",
+      "zh": "独领风骚"
+    }
   },
   {
     "celebrity": "The Notebook",
@@ -600,7 +1656,23 @@
       "Its clues draw from the setting, central conflict, and memorable screen imagery rather than the name.",
       "Look for the kind of characters, setting, and genre situation that fans associate with it.",
       "The best hint is the mood: a recognizable mix of stakes, visual style, and repeated pop-culture references."
-    ]
+    ],
+    "tmdb_id": 11036,
+    "media_type": "movie",
+    "localized_titles": {
+      "am": "The Notebook",
+      "ar": "The Notebook",
+      "de": "Wie ein einziger Tag",
+      "el": "Το Ημερολόγιο",
+      "es": "Diario de una pasión",
+      "fr": "Les pages de notre amour",
+      "he": "היומן",
+      "hi": "The Notebook",
+      "ja": "きみに読む物語",
+      "ko": "노트북",
+      "ru": "Дневник памяти",
+      "zh": "忘了·忘不了"
+    }
   },
   {
     "celebrity": "Pretty Woman",
@@ -609,7 +1681,23 @@
       "Its clues draw from the setting, central conflict, and memorable screen imagery rather than the name.",
       "Look for the kind of characters, setting, and genre situation that fans associate with it.",
       "The best hint is the mood: a recognizable mix of stakes, visual style, and repeated pop-culture references."
-    ]
+    ],
+    "tmdb_id": 114,
+    "media_type": "movie",
+    "localized_titles": {
+      "am": "Pretty Woman",
+      "ar": "امرأة جميلة",
+      "de": "Pretty Woman",
+      "el": "Pretty Woman",
+      "es": "Mujer bonita",
+      "fr": "Une jolie femme",
+      "he": "אישה יפה",
+      "hi": "प्रिटी वूमन",
+      "ja": "プリティ・ウーマン",
+      "ko": "귀여운 여인",
+      "ru": "Красотка",
+      "zh": "風月俏佳人"
+    }
   },
   {
     "celebrity": "Home Alone",
@@ -618,7 +1706,23 @@
       "Its clues draw from the setting, central conflict, and memorable screen imagery rather than the name.",
       "Look for the kind of characters, setting, and genre situation that fans associate with it.",
       "The best hint is the mood: a recognizable mix of stakes, visual style, and repeated pop-culture references."
-    ]
+    ],
+    "tmdb_id": 1224743,
+    "media_type": "movie",
+    "localized_titles": {
+      "am": "Home Alone",
+      "ar": "Home Alone",
+      "de": "Home Alone",
+      "el": "Home Alone",
+      "es": "Home Alone",
+      "fr": "Home Alone",
+      "he": "Home Alone",
+      "hi": "Home Alone",
+      "ja": "Home Alone",
+      "ko": "Home Alone",
+      "ru": "Home Alone",
+      "zh": "Home Alone"
+    }
   },
   {
     "celebrity": "The Truman Show",
@@ -627,7 +1731,23 @@
       "Its clues draw from the setting, central conflict, and memorable screen imagery rather than the name.",
       "Look for the kind of characters, setting, and genre situation that fans associate with it.",
       "The best hint is the mood: a recognizable mix of stakes, visual style, and repeated pop-culture references."
-    ]
+    ],
+    "tmdb_id": 37165,
+    "media_type": "movie",
+    "localized_titles": {
+      "am": "The Truman Show",
+      "ar": "عرض ترومان",
+      "de": "Die Truman Show",
+      "el": "Ζωντανή Μετάδοση",
+      "es": "Truman Show: Historia de una Vida",
+      "fr": "Le Show Truman",
+      "he": "המופע של טרומן",
+      "hi": "The Truman Show",
+      "ja": "トゥルーマン・ショー",
+      "ko": "트루먼 쇼",
+      "ru": "Шоу Трумана",
+      "zh": "真人 Show"
+    }
   },
   {
     "celebrity": "Et the Extra Terrestrial",
@@ -636,7 +1756,23 @@
       "Its clues draw from the setting, central conflict, and memorable screen imagery rather than the name.",
       "Look for the kind of characters, setting, and genre situation that fans associate with it.",
       "The best hint is the mood: a recognizable mix of stakes, visual style, and repeated pop-culture references."
-    ]
+    ],
+    "tmdb_id": 601,
+    "media_type": "movie",
+    "localized_titles": {
+      "am": "Et the Extra Terrestrial",
+      "ar": "Et the Extra Terrestrial",
+      "de": "E.T. - Der Außerirdische",
+      "el": "Ε.Τ. ο Εξωγήινος",
+      "es": "E.T. El Extraterrestre",
+      "fr": "E.T.: L'extra-terrestre",
+      "he": "אי.טי. - חבר מכוכב אחר",
+      "hi": "Et the Extra Terrestrial",
+      "ja": "E.T.",
+      "ko": "이티",
+      "ru": "Инопланетянин",
+      "zh": "E.T. 外星人"
+    }
   },
   {
     "celebrity": "Raiders of the Lost Ark",
@@ -645,7 +1781,23 @@
       "Its clues draw from the setting, central conflict, and memorable screen imagery rather than the name.",
       "Look for the kind of characters, setting, and genre situation that fans associate with it.",
       "The best hint is the mood: a recognizable mix of stakes, visual style, and repeated pop-culture references."
-    ]
+    ],
+    "tmdb_id": 85,
+    "media_type": "movie",
+    "localized_titles": {
+      "am": "Raiders of the Lost Ark",
+      "ar": "Raiders of the Lost Ark",
+      "de": "Jäger des verlorenen Schatzes",
+      "el": "Ο Ιντιάνα Τζόουνς και οι Κυνηγοί της Χαμένης Κιβωτού",
+      "es": "Los cazadores del arca perdida",
+      "fr": "Les aventuriers de l'arche perdue",
+      "he": "אינדיאנה ג'ונס ושודדי התיבה האבודה",
+      "hi": "मौत के साये में",
+      "ja": "レイダース／失われたアーク《聖櫃》",
+      "ko": "인디아나 존스: 레이더스",
+      "ru": "Индиана Джонс: В поисках утраченного ковчега",
+      "zh": "奪寶奇兵"
+    }
   },
   {
     "celebrity": "The Empire Strikes Back",
@@ -654,7 +1806,23 @@
       "Its clues draw from the setting, central conflict, and memorable screen imagery rather than the name.",
       "Look for the kind of characters, setting, and genre situation that fans associate with it.",
       "The best hint is the mood: a recognizable mix of stakes, visual style, and repeated pop-culture references."
-    ]
+    ],
+    "tmdb_id": 1891,
+    "media_type": "movie",
+    "localized_titles": {
+      "am": "The Empire Strikes Back",
+      "ar": "الإمبراطورية تعيد الضربات",
+      "de": "Das Imperium schlägt zurück",
+      "el": "Star Wars: Επεισόδιο V – Η Αυτοκρατορία Αντεπιτίθεται",
+      "es": "El Imperio contraataca",
+      "fr": "L'empire contre-attaque",
+      "he": "מלחמת הכוכבים: פרק 5 - האימפריה מכה שנית",
+      "hi": "The Empire Strikes Back",
+      "ja": "スター・ウォーズ エピソード５／帝国の逆襲",
+      "ko": "스타워즈 에피소드 5: 제국의 역습",
+      "ru": "Звёздные войны: Эпизод 5 - Империя наносит ответный удар",
+      "zh": "星球大戰：帝國反擊戰"
+    }
   },
   {
     "celebrity": "Return of the Jedi",
@@ -663,7 +1831,23 @@
       "Its clues draw from the setting, central conflict, and memorable screen imagery rather than the name.",
       "Look for the kind of characters, setting, and genre situation that fans associate with it.",
       "The best hint is the mood: a recognizable mix of stakes, visual style, and repeated pop-culture references."
-    ]
+    ],
+    "tmdb_id": 1892,
+    "media_type": "movie",
+    "localized_titles": {
+      "am": "Return of the Jedi",
+      "ar": "عودة الجيداي",
+      "de": "Die Rückkehr der Jedi-Ritter",
+      "el": "Star Wars: Επεισόδιο VI – Η Επιστροφή των Τζεντάι",
+      "es": "El regreso del Jedi",
+      "fr": "Le retour du Jedi",
+      "he": "מלחמת הכוכבים: פרק 6 - שובו של הג'דיי",
+      "hi": "Return of the Jedi",
+      "ja": "スター・ウォーズ エピソード６／ジェダイの帰還",
+      "ko": "스타워즈 에피소드 6: 제다이의 귀환",
+      "ru": "Звёздные войны: Эпизод 6 - Возвращение Джедая",
+      "zh": "星球大戰：武士復仇"
+    }
   },
   {
     "celebrity": "A New Hope",
@@ -672,7 +1856,23 @@
       "Its clues draw from the setting, central conflict, and memorable screen imagery rather than the name.",
       "Look for the kind of characters, setting, and genre situation that fans associate with it.",
       "The best hint is the mood: a recognizable mix of stakes, visual style, and repeated pop-culture references."
-    ]
+    ],
+    "tmdb_id": 11,
+    "media_type": "movie",
+    "localized_titles": {
+      "am": "A New Hope",
+      "ar": "حرب النجوم",
+      "de": "Krieg der Sterne",
+      "el": "Star Wars: Επεισόδιο IV – Μια Νέα Ελπίδα",
+      "es": "La guerra de las galaxias",
+      "fr": "La guerre des étoiles",
+      "he": "מלחמת הכוכבים: פרק 4 - תקווה חדשה",
+      "hi": "A New Hope",
+      "ja": "スター・ウォーズ エピソード４／新たなる希望",
+      "ko": "스타워즈 에피소드 4: 새로운 희망",
+      "ru": "Звёздные войны: Эпизод 4 - Новая надежда",
+      "zh": "星球大戰：新的希望"
+    }
   },
   {
     "celebrity": "The Phantom Menace",
@@ -681,7 +1881,23 @@
       "Its clues draw from the setting, central conflict, and memorable screen imagery rather than the name.",
       "Look for the kind of characters, setting, and genre situation that fans associate with it.",
       "The best hint is the mood: a recognizable mix of stakes, visual style, and repeated pop-culture references."
-    ]
+    ],
+    "tmdb_id": 1460782,
+    "media_type": "movie",
+    "localized_titles": {
+      "am": "The Phantom Menace",
+      "ar": "The Phantom Menace",
+      "de": "The Phantom Menace",
+      "el": "The Phantom Menace",
+      "es": "The Phantom Menace",
+      "fr": "The Phantom Menace",
+      "he": "The Phantom Menace",
+      "hi": "The Phantom Menace",
+      "ja": "The Phantom Menace",
+      "ko": "The Phantom Menace",
+      "ru": "The Phantom Menace",
+      "zh": "The Phantom Menace"
+    }
   },
   {
     "celebrity": "The Force Awakens",
@@ -690,7 +1906,23 @@
       "Its clues draw from the setting, central conflict, and memorable screen imagery rather than the name.",
       "Look for the kind of characters, setting, and genre situation that fans associate with it.",
       "The best hint is the mood: a recognizable mix of stakes, visual style, and repeated pop-culture references."
-    ]
+    ],
+    "tmdb_id": 140607,
+    "media_type": "movie",
+    "localized_titles": {
+      "am": "The Force Awakens",
+      "ar": "The Force Awakens",
+      "de": "Star Wars: Das Erwachen der Macht",
+      "el": "Star Wars: Επεισόδιο VII - Η Δύναμη Ξυπνάει",
+      "es": "Star Wars: El despertar de la fuerza",
+      "fr": "Star Wars, épisode VII : Le réveil de la force",
+      "he": "מלחמת הכוכבים 7: הכוח מתעורר",
+      "hi": "Star Wars: दिव्यशक्ति की ललकार",
+      "ja": "スター・ウォーズ／フォースの覚醒",
+      "ko": "스타워즈 에피소드 7: 깨어난 포스",
+      "ru": "Звёздные войны: Эпизод 7 - Пробуждение силы",
+      "zh": "星球大戰：原力覺醒"
+    }
   },
   {
     "celebrity": "Logan",
@@ -699,7 +1931,23 @@
       "Its clues draw from the setting, central conflict, and memorable screen imagery rather than the name.",
       "Look for the kind of characters, setting, and genre situation that fans associate with it.",
       "The best hint is the mood: a recognizable mix of stakes, visual style, and repeated pop-culture references."
-    ]
+    ],
+    "tmdb_id": 263115,
+    "media_type": "movie",
+    "localized_titles": {
+      "am": "Logan",
+      "ar": "لوغان",
+      "de": "Logan - The Wolverine",
+      "el": "Λόγκαν",
+      "es": "Logan: Wolverine",
+      "fr": "Logan",
+      "he": "לוגאן: וולברין",
+      "hi": "लोगन: द वुलवरीन",
+      "ja": "LOGAN／ローガン",
+      "ko": "로건",
+      "ru": "Логан",
+      "zh": "盧根"
+    }
   },
   {
     "celebrity": "Deadpool",
@@ -708,7 +1956,23 @@
       "Its clues draw from the setting, central conflict, and memorable screen imagery rather than the name.",
       "Look for the kind of characters, setting, and genre situation that fans associate with it.",
       "The best hint is the mood: a recognizable mix of stakes, visual style, and repeated pop-culture references."
-    ]
+    ],
+    "tmdb_id": 293660,
+    "media_type": "movie",
+    "localized_titles": {
+      "am": "Deadpool",
+      "ar": "ديدبول",
+      "de": "Deadpool",
+      "el": "Deadpool",
+      "es": "Deadpool",
+      "fr": "Deadpool",
+      "he": "דדפול",
+      "hi": "डेडपूल",
+      "ja": "デッドプール",
+      "ko": "데드풀",
+      "ru": "Дэдпул",
+      "zh": "死侍：不死現身"
+    }
   },
   {
     "celebrity": "Iron Man",
@@ -717,7 +1981,23 @@
       "Its clues draw from the setting, central conflict, and memorable screen imagery rather than the name.",
       "Look for the kind of characters, setting, and genre situation that fans associate with it.",
       "The best hint is the mood: a recognizable mix of stakes, visual style, and repeated pop-culture references."
-    ]
+    ],
+    "tmdb_id": 1726,
+    "media_type": "movie",
+    "localized_titles": {
+      "am": "Iron Man",
+      "ar": "الرجل الحديدي",
+      "de": "Iron Man",
+      "el": "Iron Man",
+      "es": "Iron man - El hombre de hierro",
+      "fr": "Iron Man",
+      "he": "איירון מן",
+      "hi": "लौह पुरुष",
+      "ja": "アイアンマン",
+      "ko": "아이언맨",
+      "ru": "Железный человек",
+      "zh": "鐵甲奇俠"
+    }
   },
   {
     "celebrity": "Captain America Civil War",
@@ -726,7 +2006,23 @@
       "Its clues draw from the setting, central conflict, and memorable screen imagery rather than the name.",
       "Look for the kind of characters, setting, and genre situation that fans associate with it.",
       "The best hint is the mood: a recognizable mix of stakes, visual style, and repeated pop-culture references."
-    ]
+    ],
+    "tmdb_id": 271110,
+    "media_type": "movie",
+    "localized_titles": {
+      "am": "Captain America Civil War",
+      "ar": "كابتن أمريكا: الحرب الأهلية",
+      "de": "The First Avenger: Civil War",
+      "el": "Captain America: Εμφύλιος Πόλεμος",
+      "es": "Capitán América: Civil War",
+      "fr": "Capitaine America : La guerre civile",
+      "he": "קפטן אמריקה: מלחמת האזרחים",
+      "hi": "Captain America: सिविल वॉर",
+      "ja": "シビル・ウォー／キャプテン・アメリカ",
+      "ko": "캡틴 아메리카: 시빌 워",
+      "ru": "Первый мститель: Противостояние",
+      "zh": "美國隊長 3：英雄內戰"
+    }
   },
   {
     "celebrity": "Guardians of the Galaxy",
@@ -735,7 +2031,23 @@
       "Its clues draw from the setting, central conflict, and memorable screen imagery rather than the name.",
       "Look for the kind of characters, setting, and genre situation that fans associate with it.",
       "The best hint is the mood: a recognizable mix of stakes, visual style, and repeated pop-culture references."
-    ]
+    ],
+    "tmdb_id": 118340,
+    "media_type": "movie",
+    "localized_titles": {
+      "am": "Guardians of the Galaxy",
+      "ar": "حرّاس المجرّة",
+      "de": "Guardians of the Galaxy",
+      "el": "Φύλακες του Γαλαξία",
+      "es": "Guardianes de la galaxia",
+      "fr": "Les gardiens de la galaxie",
+      "he": "שומרי הגלקסיה",
+      "hi": "गार्डियन्स ऑफ द गैलेक्सी: ब्रह्मांड के बॉस",
+      "ja": "ガーディアンズ・オブ・ギャラクシー",
+      "ko": "가디언즈 오브 갤럭시",
+      "ru": "Стражи Галактики",
+      "zh": "銀河守護隊"
+    }
   },
   {
     "celebrity": "Doctor Strange",
@@ -744,7 +2056,23 @@
       "Its clues draw from the setting, central conflict, and memorable screen imagery rather than the name.",
       "Look for the kind of characters, setting, and genre situation that fans associate with it.",
       "The best hint is the mood: a recognizable mix of stakes, visual style, and repeated pop-culture references."
-    ]
+    ],
+    "tmdb_id": 284052,
+    "media_type": "movie",
+    "localized_titles": {
+      "am": "Doctor Strange",
+      "ar": "دكتور سترينج",
+      "de": "Doctor Strange",
+      "el": "Doctor Strange",
+      "es": "Doctor Strange: Hechicero supremo",
+      "fr": "Docteur Strange",
+      "he": "דוקטור סטריינג'",
+      "hi": "समय का खेल",
+      "ja": "ドクター・ストレンジ",
+      "ko": "닥터 스트레인지",
+      "ru": "Доктор Стрэндж",
+      "zh": "奇異博士"
+    }
   },
   {
     "celebrity": "Spider Man No Way Home",
@@ -753,7 +2081,23 @@
       "Its clues draw from the setting, central conflict, and memorable screen imagery rather than the name.",
       "Look for the kind of characters, setting, and genre situation that fans associate with it.",
       "The best hint is the mood: a recognizable mix of stakes, visual style, and repeated pop-culture references."
-    ]
+    ],
+    "tmdb_id": 634649,
+    "media_type": "movie",
+    "localized_titles": {
+      "am": "Spider Man No Way Home",
+      "ar": "الرجل العنكبوت: لا طريق للوطن",
+      "de": "Spider Man No Way Home",
+      "el": "Spider Man No Way Home",
+      "es": "Spider-Man: Sin camino a casa",
+      "fr": "Spider-Man : Sans retour",
+      "he": "ספיידרמן: אין דרך הביתה",
+      "hi": "स्पाइडर मैन: नो वे होम",
+      "ja": "スパイダーマン：ノー・ウェイ・ホーム",
+      "ko": "스파이더맨: 노 웨이 홈",
+      "ru": "Человек-паук: Нет пути домой",
+      "zh": "蜘蛛侠：英雄无归"
+    }
   },
   {
     "celebrity": "The Batman",
@@ -762,7 +2106,23 @@
       "Its clues draw from the setting, central conflict, and memorable screen imagery rather than the name.",
       "Look for the kind of characters, setting, and genre situation that fans associate with it.",
       "The best hint is the mood: a recognizable mix of stakes, visual style, and repeated pop-culture references."
-    ]
+    ],
+    "tmdb_id": 414906,
+    "media_type": "movie",
+    "localized_titles": {
+      "am": "The Batman",
+      "ar": "ذا باتمان",
+      "de": "The Batman",
+      "el": "The Batman",
+      "es": "Batman",
+      "fr": "Le Batman",
+      "he": "באטמן",
+      "hi": "The Batman",
+      "ja": "THE BATMAN－ザ・バットマン－",
+      "ko": "더 배트맨",
+      "ru": "Бэтмен",
+      "zh": "蝙蝠俠"
+    }
   },
   {
     "celebrity": "Batman Begins",
@@ -771,7 +2131,23 @@
       "Its clues draw from the setting, central conflict, and memorable screen imagery rather than the name.",
       "Look for the kind of characters, setting, and genre situation that fans associate with it.",
       "The best hint is the mood: a recognizable mix of stakes, visual style, and repeated pop-culture references."
-    ]
+    ],
+    "tmdb_id": 272,
+    "media_type": "movie",
+    "localized_titles": {
+      "am": "Batman Begins",
+      "ar": "بداية باتمان",
+      "de": "Batman Begins",
+      "el": "Μπάτμαν: Η αρχή",
+      "es": "Batman inicia",
+      "fr": "Batman : Le commencement",
+      "he": "באטמן מתחיל",
+      "hi": "बैटमैन बिगॅन्स",
+      "ja": "バットマン ビギンズ",
+      "ko": "배트맨 비긴즈",
+      "ru": "Бэтмен: Начало",
+      "zh": "蝙蝠俠—俠影之謎"
+    }
   },
   {
     "celebrity": "The Dark Knight Rises",
@@ -780,7 +2156,23 @@
       "Its clues draw from the setting, central conflict, and memorable screen imagery rather than the name.",
       "Look for the kind of characters, setting, and genre situation that fans associate with it.",
       "The best hint is the mood: a recognizable mix of stakes, visual style, and repeated pop-culture references."
-    ]
+    ],
+    "tmdb_id": 49026,
+    "media_type": "movie",
+    "localized_titles": {
+      "am": "The Dark Knight Rises",
+      "ar": "نهوض فارس الظلام",
+      "de": "The Dark Knight Rises",
+      "el": "Ο Σκοτεινός Ιππότης: Η Επιστροφή",
+      "es": "Batman: El caballero de la noche asciende",
+      "fr": "L'ascension du chevalier noir",
+      "he": "עלייתו של האביר האפל",
+      "hi": "बैटमैन 3",
+      "ja": "ダークナイト・ライジング",
+      "ko": "다크 나이트 라이즈",
+      "ru": "Тёмный рыцарь: Возрождение легенды",
+      "zh": "蝙蝠俠 — 夜神起義"
+    }
   },
   {
     "celebrity": "Wonder Woman",
@@ -789,7 +2181,23 @@
       "Its clues draw from the setting, central conflict, and memorable screen imagery rather than the name.",
       "Look for the kind of characters, setting, and genre situation that fans associate with it.",
       "The best hint is the mood: a recognizable mix of stakes, visual style, and repeated pop-culture references."
-    ]
+    ],
+    "tmdb_id": 297762,
+    "media_type": "movie",
+    "localized_titles": {
+      "am": "Wonder Woman",
+      "ar": "المراة الاعجوبة",
+      "de": "Wonder Woman",
+      "el": "Wonder Woman",
+      "es": "Mujer Maravilla",
+      "fr": "Wonder Woman",
+      "he": "וונדר וומן",
+      "hi": "वंडर वुमन",
+      "ja": "ワンダーウーマン",
+      "ko": "원더 우먼",
+      "ru": "Чудо-женщина",
+      "zh": "神奇女侠"
+    }
   },
   {
     "celebrity": "Aquaman",
@@ -798,7 +2206,23 @@
       "Its clues draw from the setting, central conflict, and memorable screen imagery rather than the name.",
       "Look for the kind of characters, setting, and genre situation that fans associate with it.",
       "The best hint is the mood: a recognizable mix of stakes, visual style, and repeated pop-culture references."
-    ]
+    ],
+    "tmdb_id": 297802,
+    "media_type": "movie",
+    "localized_titles": {
+      "am": "Aquaman",
+      "ar": "أكوا مان",
+      "de": "Aquaman",
+      "el": "Aquaman",
+      "es": "Aquaman",
+      "fr": "Aquaman",
+      "he": "אקוומן",
+      "hi": "Aquaman",
+      "ja": "アクアマン",
+      "ko": "아쿠아맨",
+      "ru": "Аквамен",
+      "zh": "海王"
+    }
   },
   {
     "celebrity": "Man of Steel",
@@ -807,7 +2231,23 @@
       "Its clues draw from the setting, central conflict, and memorable screen imagery rather than the name.",
       "Look for the kind of characters, setting, and genre situation that fans associate with it.",
       "The best hint is the mood: a recognizable mix of stakes, visual style, and repeated pop-culture references."
-    ]
+    ],
+    "tmdb_id": 49521,
+    "media_type": "movie",
+    "localized_titles": {
+      "am": "Man of Steel",
+      "ar": "رجلٌ مِن الصُّلب",
+      "de": "Man of Steel",
+      "el": "Άνθρωπος Από Ατσάλι",
+      "es": "El hombre de acero",
+      "fr": "L'homme d'acier",
+      "he": "איש הפלדה",
+      "hi": "सुपरमैन",
+      "ja": "マン・オブ・スティール",
+      "ko": "맨 오브 스틸",
+      "ru": "Человек из стали",
+      "zh": "超人：鋼鐵英雄"
+    }
   },
   {
     "celebrity": "The Suicide Squad",
@@ -816,7 +2256,23 @@
       "Its clues draw from the setting, central conflict, and memorable screen imagery rather than the name.",
       "Look for the kind of characters, setting, and genre situation that fans associate with it.",
       "The best hint is the mood: a recognizable mix of stakes, visual style, and repeated pop-culture references."
-    ]
+    ],
+    "tmdb_id": 436969,
+    "media_type": "movie",
+    "localized_titles": {
+      "am": "The Suicide Squad",
+      "ar": "الفرقة الإنتحارية",
+      "de": "The Suicide Squad",
+      "el": "The Suicide Squad",
+      "es": "El escuadrón suicida",
+      "fr": "L’escadron suicide : la mission",
+      "he": "יחידת המתאבדים",
+      "hi": "द सुसाइड स्क्वॉड",
+      "ja": "ザ・スーサイド・スクワッド “極”悪党、集結",
+      "ko": "더 수어사이드 스쿼드",
+      "ru": "Отряд самоубийц: Миссия навылет",
+      "zh": "X特遣队：全员集结"
+    }
   },
   {
     "celebrity": "Joker",
@@ -825,7 +2281,23 @@
       "Its clues draw from the setting, central conflict, and memorable screen imagery rather than the name.",
       "Look for the kind of characters, setting, and genre situation that fans associate with it.",
       "The best hint is the mood: a recognizable mix of stakes, visual style, and repeated pop-culture references."
-    ]
+    ],
+    "tmdb_id": 475557,
+    "media_type": "movie",
+    "localized_titles": {
+      "am": "Joker",
+      "ar": "جوكر",
+      "de": "Joker",
+      "el": "Joker",
+      "es": "Guasón",
+      "fr": "Joker",
+      "he": "ג'וקר",
+      "hi": "Joker",
+      "ja": "ジョーカー",
+      "ko": "조커",
+      "ru": "Джокер",
+      "zh": "小丑"
+    }
   },
   {
     "celebrity": "Kill Bill",
@@ -834,7 +2306,23 @@
       "Its clues draw from the setting, central conflict, and memorable screen imagery rather than the name.",
       "Look for the kind of characters, setting, and genre situation that fans associate with it.",
       "The best hint is the mood: a recognizable mix of stakes, visual style, and repeated pop-culture references."
-    ]
+    ],
+    "tmdb_id": 24,
+    "media_type": "movie",
+    "localized_titles": {
+      "am": "Kill Bill",
+      "ar": "Kill Bill",
+      "de": "Kill Bill - Volume 1",
+      "el": "Kill Bill",
+      "es": "Kill Bill: Vol. 1",
+      "fr": "Tuer Bill : Volume 1",
+      "he": "להרוג את ביל, פרק 1",
+      "hi": "किल बिल भाग–1",
+      "ja": "キル・ビル Vol 1",
+      "ko": "킬 빌: 1부",
+      "ru": "Убить Билла",
+      "zh": "標殺令"
+    }
   },
   {
     "celebrity": "Django Unchained",
@@ -843,7 +2331,23 @@
       "Its clues draw from the setting, central conflict, and memorable screen imagery rather than the name.",
       "Look for the kind of characters, setting, and genre situation that fans associate with it.",
       "The best hint is the mood: a recognizable mix of stakes, visual style, and repeated pop-culture references."
-    ]
+    ],
+    "tmdb_id": 68718,
+    "media_type": "movie",
+    "localized_titles": {
+      "am": "Django Unchained",
+      "ar": "جانغو الحر",
+      "de": "Django Unchained",
+      "el": "Django: Ο Τιμωρός",
+      "es": "Django sin Cadenas",
+      "fr": "Django déchaîné",
+      "he": "ג'אנגו ללא מעצורים",
+      "hi": "खतरों का खिलाडी",
+      "ja": "ジャンゴ 繋がれざる者",
+      "ko": "장고: 분노의 추적자",
+      "ru": "Джанго освобождённый",
+      "zh": "被解救的姜戈"
+    }
   },
   {
     "celebrity": "Inglourious Basterds",
@@ -852,7 +2356,23 @@
       "Its clues draw from the setting, central conflict, and memorable screen imagery rather than the name.",
       "Look for the kind of characters, setting, and genre situation that fans associate with it.",
       "The best hint is the mood: a recognizable mix of stakes, visual style, and repeated pop-culture references."
-    ]
+    ],
+    "tmdb_id": 16869,
+    "media_type": "movie",
+    "localized_titles": {
+      "am": "Inglourious Basterds",
+      "ar": "أوغاد مجهولون",
+      "de": "Inglourious Basterds",
+      "el": "Άδωξοι Μπάσταρδη",
+      "es": "Bastardos sin gloria",
+      "fr": "Le commando des bâtards",
+      "he": "ממזרים חסרי כבוד",
+      "hi": "बदनाम कमीने",
+      "ja": "イングロリアス・バスターズ",
+      "ko": "바스터즈: 거친 녀석들",
+      "ru": "Бесславные ублюдки",
+      "zh": "希魔撞正殺人狂"
+    }
   },
   {
     "celebrity": "Reservoir Dogs",
@@ -861,7 +2381,23 @@
       "Its clues draw from the setting, central conflict, and memorable screen imagery rather than the name.",
       "Look for the kind of characters, setting, and genre situation that fans associate with it.",
       "The best hint is the mood: a recognizable mix of stakes, visual style, and repeated pop-culture references."
-    ]
+    ],
+    "tmdb_id": 500,
+    "media_type": "movie",
+    "localized_titles": {
+      "am": "Reservoir Dogs",
+      "ar": "كلاب المستودع",
+      "de": "Reservoir Dogs - Wilde Hunde",
+      "el": "Reservoir Dogs",
+      "es": "Perros de Reserva",
+      "fr": "Les Enragés",
+      "he": "כלבי אשמורת",
+      "hi": "एक मुखबिर",
+      "ja": "レザボア・ドッグス",
+      "ko": "저수지의 개들",
+      "ru": "Бешеные псы",
+      "zh": "落水狗"
+    }
   },
   {
     "celebrity": "Scarface",
@@ -870,7 +2406,23 @@
       "Its clues draw from the setting, central conflict, and memorable screen imagery rather than the name.",
       "Look for the kind of characters, setting, and genre situation that fans associate with it.",
       "The best hint is the mood: a recognizable mix of stakes, visual style, and repeated pop-culture references."
-    ]
+    ],
+    "tmdb_id": 111,
+    "media_type": "movie",
+    "localized_titles": {
+      "am": "Scarface",
+      "ar": "الوجه ذو الندبة",
+      "de": "Scarface",
+      "el": "Ο Σημαδεμένος",
+      "es": "Caracortada",
+      "fr": "Le balafré",
+      "he": "פני צלקת",
+      "hi": "Scarface",
+      "ja": "スカーフェイス",
+      "ko": "스카페이스",
+      "ru": "Лицо со шрамом",
+      "zh": "疤面煞星"
+    }
   },
   {
     "celebrity": "Heat",
@@ -879,7 +2431,23 @@
       "Its clues draw from the setting, central conflict, and memorable screen imagery rather than the name.",
       "Look for the kind of characters, setting, and genre situation that fans associate with it.",
       "The best hint is the mood: a recognizable mix of stakes, visual style, and repeated pop-culture references."
-    ]
+    ],
+    "tmdb_id": 949,
+    "media_type": "movie",
+    "localized_titles": {
+      "am": "Heat",
+      "ar": "الحرارة",
+      "de": "Heat",
+      "el": "Ένταση",
+      "es": "Fuego contra Fuego",
+      "fr": "Tension",
+      "he": "היט",
+      "hi": "Heat",
+      "ja": "ヒート",
+      "ko": "히트",
+      "ru": "Схватка",
+      "zh": "盜火線"
+    }
   },
   {
     "celebrity": "Taxi Driver",
@@ -888,7 +2456,23 @@
       "Its clues draw from the setting, central conflict, and memorable screen imagery rather than the name.",
       "Look for the kind of characters, setting, and genre situation that fans associate with it.",
       "The best hint is the mood: a recognizable mix of stakes, visual style, and repeated pop-culture references."
-    ]
+    ],
+    "tmdb_id": 103,
+    "media_type": "movie",
+    "localized_titles": {
+      "am": "Taxi Driver",
+      "ar": "سائق التاكسي",
+      "de": "Taxi Driver",
+      "el": "Ο Ταξιτζής",
+      "es": "Taxi Driver",
+      "fr": "Chauffeur de taxi",
+      "he": "נהג מונית",
+      "hi": "Taxi Driver",
+      "ja": "タクシードライバー",
+      "ko": "택시 드라이버",
+      "ru": "Таксист",
+      "zh": "計程車司機"
+    }
   },
   {
     "celebrity": "Raging Bull",
@@ -897,7 +2481,23 @@
       "Its clues draw from the setting, central conflict, and memorable screen imagery rather than the name.",
       "Look for the kind of characters, setting, and genre situation that fans associate with it.",
       "The best hint is the mood: a recognizable mix of stakes, visual style, and repeated pop-culture references."
-    ]
+    ],
+    "tmdb_id": 1578,
+    "media_type": "movie",
+    "localized_titles": {
+      "am": "Raging Bull",
+      "ar": "الثور الهائج",
+      "de": "Wie ein wilder Stier",
+      "el": "Οργισμένο Είδωλο",
+      "es": "Toro Salvaje",
+      "fr": "Raging Bull",
+      "he": "השור הזועם",
+      "hi": "Raging Bull",
+      "ja": "レイジング・ブル",
+      "ko": "분노의 주먹",
+      "ru": "Бешеный бык",
+      "zh": "蠻牛"
+    }
   },
   {
     "celebrity": "Good Will Hunting",
@@ -906,7 +2506,23 @@
       "Its clues draw from the setting, central conflict, and memorable screen imagery rather than the name.",
       "Look for the kind of characters, setting, and genre situation that fans associate with it.",
       "The best hint is the mood: a recognizable mix of stakes, visual style, and repeated pop-culture references."
-    ]
+    ],
+    "tmdb_id": 489,
+    "media_type": "movie",
+    "localized_titles": {
+      "am": "Good Will Hunting",
+      "ar": "العقل الجيد المصير",
+      "de": "Good Will Hunting",
+      "el": "Ο Ξεχωριστός Will Hunting",
+      "es": "Mente indomable",
+      "fr": "Le destin de Will Hunting",
+      "he": "סיפורו של ויל האנטינג",
+      "hi": "Good Will Hunting",
+      "ja": "グッド・ウィル・ハンティング／旅立ち",
+      "ko": "굿 윌 헌팅",
+      "ru": "Умница Уилл Хантинг",
+      "zh": "驕陽似我"
+    }
   },
   {
     "celebrity": "The Green Mile",
@@ -915,7 +2531,23 @@
       "Its clues draw from the setting, central conflict, and memorable screen imagery rather than the name.",
       "Look for the kind of characters, setting, and genre situation that fans associate with it.",
       "The best hint is the mood: a recognizable mix of stakes, visual style, and repeated pop-culture references."
-    ]
+    ],
+    "tmdb_id": 497,
+    "media_type": "movie",
+    "localized_titles": {
+      "am": "The Green Mile",
+      "ar": "الميل الأخضر",
+      "de": "The Green Mile",
+      "el": "Το Πράσινο Μίλι",
+      "es": "Milagros Inesperados",
+      "fr": "La ligne verte",
+      "he": "גרין מייל",
+      "hi": "The Green Mile",
+      "ja": "グリーンマイル",
+      "ko": "그린 마일",
+      "ru": "Зелёная миля",
+      "zh": "綠里奇蹟"
+    }
   },
   {
     "celebrity": "American Beauty",
@@ -924,7 +2556,23 @@
       "Its clues draw from the setting, central conflict, and memorable screen imagery rather than the name.",
       "Look for the kind of characters, setting, and genre situation that fans associate with it.",
       "The best hint is the mood: a recognizable mix of stakes, visual style, and repeated pop-culture references."
-    ]
+    ],
+    "tmdb_id": 14,
+    "media_type": "movie",
+    "localized_titles": {
+      "am": "American Beauty",
+      "ar": "American Beauty",
+      "de": "American Beauty",
+      "el": "American Beauty",
+      "es": "Belleza Americana",
+      "fr": "Beauté Américaine",
+      "he": "אמריקן ביוטי",
+      "hi": "American Beauty",
+      "ja": "アメリカン・ビューティー",
+      "ko": "아메리칸 뷰티",
+      "ru": "Красота по-американски",
+      "zh": "美麗有罪"
+    }
   },
   {
     "celebrity": "The Usual Suspects",
@@ -933,7 +2581,23 @@
       "Its clues draw from the setting, central conflict, and memorable screen imagery rather than the name.",
       "Look for the kind of characters, setting, and genre situation that fans associate with it.",
       "The best hint is the mood: a recognizable mix of stakes, visual style, and repeated pop-culture references."
-    ]
+    ],
+    "tmdb_id": 629,
+    "media_type": "movie",
+    "localized_titles": {
+      "am": "The Usual Suspects",
+      "ar": "المشتبه بهم المعتادين",
+      "de": "Die üblichen Verdächtigen",
+      "el": "Συνήθεις Ύποπτοι",
+      "es": "Los sospechosos de siempre",
+      "fr": "Suspects de convenance",
+      "he": "החשוד המיידי",
+      "hi": "शक का घेरा",
+      "ja": "ユージュアル・サスペクツ",
+      "ko": "유주얼 서스펙트",
+      "ru": "Подозрительные лица",
+      "zh": "非常嫌疑犯"
+    }
   },
   {
     "celebrity": "The Sixth Sense",
@@ -942,7 +2606,23 @@
       "Its clues draw from the setting, central conflict, and memorable screen imagery rather than the name.",
       "Look for the kind of characters, setting, and genre situation that fans associate with it.",
       "The best hint is the mood: a recognizable mix of stakes, visual style, and repeated pop-culture references."
-    ]
+    ],
+    "tmdb_id": 745,
+    "media_type": "movie",
+    "localized_titles": {
+      "am": "The Sixth Sense",
+      "ar": "الحاسَّةُ السَّادسة",
+      "de": "The Sixth Sense",
+      "el": "Η Έκτη Αίσθηση",
+      "es": "El Sexto Sentido",
+      "fr": "Le sixième sens",
+      "he": "החוש השישי",
+      "hi": "The Sixth Sense",
+      "ja": "シックス・センス",
+      "ko": "식스 센스",
+      "ru": "Шестое чувство",
+      "zh": "鬼眼"
+    }
   },
   {
     "celebrity": "Unbreakable",
@@ -951,7 +2631,23 @@
       "Its clues draw from the setting, central conflict, and memorable screen imagery rather than the name.",
       "Look for the kind of characters, setting, and genre situation that fans associate with it.",
       "The best hint is the mood: a recognizable mix of stakes, visual style, and repeated pop-culture references."
-    ]
+    ],
+    "tmdb_id": 9741,
+    "media_type": "movie",
+    "localized_titles": {
+      "am": "Unbreakable",
+      "ar": "غير قابل للكسر",
+      "de": "Unbreakable - Unzerbrechlich",
+      "el": "Ο Άφθαρτος",
+      "es": "El protegido",
+      "fr": "L'indestructible",
+      "he": "בלתי שביר",
+      "hi": "अटूट",
+      "ja": "アンブレイカブル",
+      "ko": "언브레이커블",
+      "ru": "Неуязвимый",
+      "zh": "不死劫"
+    }
   },
   {
     "celebrity": "Split",
@@ -960,7 +2656,23 @@
       "Its clues draw from the setting, central conflict, and memorable screen imagery rather than the name.",
       "Look for the kind of characters, setting, and genre situation that fans associate with it.",
       "The best hint is the mood: a recognizable mix of stakes, visual style, and repeated pop-culture references."
-    ]
+    ],
+    "tmdb_id": 381288,
+    "media_type": "movie",
+    "localized_titles": {
+      "am": "Split",
+      "ar": "انقسام",
+      "de": "Split",
+      "el": "Διχασμένος",
+      "es": "Fragmentado",
+      "fr": "Divisé",
+      "he": "ספליט",
+      "hi": "Split",
+      "ja": "スプリット",
+      "ko": "23 아이덴티티",
+      "ru": "Сплит",
+      "zh": "思·裂"
+    }
   },
   {
     "celebrity": "Get Out",
@@ -969,7 +2681,23 @@
       "Its clues draw from the setting, central conflict, and memorable screen imagery rather than the name.",
       "Look for the kind of characters, setting, and genre situation that fans associate with it.",
       "The best hint is the mood: a recognizable mix of stakes, visual style, and repeated pop-culture references."
-    ]
+    ],
+    "tmdb_id": 419430,
+    "media_type": "movie",
+    "localized_titles": {
+      "am": "Get Out",
+      "ar": "اخرج",
+      "de": "Get Out",
+      "el": "Τρέξε!",
+      "es": "¡Huye!",
+      "fr": "Get Out",
+      "he": "תברח",
+      "hi": "गेट ऑउट",
+      "ja": "ゲット・アウト",
+      "ko": "겟 아웃",
+      "ru": "Прочь",
+      "zh": "逃出绝命镇"
+    }
   },
   {
     "celebrity": "Nope",
@@ -978,7 +2706,23 @@
       "Its clues draw from the setting, central conflict, and memorable screen imagery rather than the name.",
       "Look for the kind of characters, setting, and genre situation that fans associate with it.",
       "The best hint is the mood: a recognizable mix of stakes, visual style, and repeated pop-culture references."
-    ]
+    ],
+    "tmdb_id": 762504,
+    "media_type": "movie",
+    "localized_titles": {
+      "am": "Nope",
+      "ar": "مغامرات عائلة هاي وود",
+      "de": "Nope",
+      "el": "Ούτε Καν",
+      "es": "¡Nop!",
+      "fr": "Ben non",
+      "he": "אין מצב",
+      "hi": "नोप",
+      "ja": "NOPE／ノープ",
+      "ko": "놉",
+      "ru": "Нет",
+      "zh": "不"
+    }
   },
   {
     "celebrity": "Hereditary",
@@ -987,7 +2731,23 @@
       "Its clues draw from the setting, central conflict, and memorable screen imagery rather than the name.",
       "Look for the kind of characters, setting, and genre situation that fans associate with it.",
       "The best hint is the mood: a recognizable mix of stakes, visual style, and repeated pop-culture references."
-    ]
+    ],
+    "tmdb_id": 493922,
+    "media_type": "movie",
+    "localized_titles": {
+      "am": "Hereditary",
+      "ar": "لعنة وراثية",
+      "de": "Hereditary - Das Vermächtnis",
+      "el": "Η Διαδοχή",
+      "es": "El legado del diablo",
+      "fr": "Héréditaire",
+      "he": "תורשתי",
+      "hi": "Hereditary",
+      "ja": "ヘレディタリー／継承",
+      "ko": "유전",
+      "ru": "Реинкарнация",
+      "zh": "遗传厄运"
+    }
   },
   {
     "celebrity": "Midsommar",
@@ -996,7 +2756,23 @@
       "Its clues draw from the setting, central conflict, and memorable screen imagery rather than the name.",
       "Look for the kind of characters, setting, and genre situation that fans associate with it.",
       "The best hint is the mood: a recognizable mix of stakes, visual style, and repeated pop-culture references."
-    ]
+    ],
+    "tmdb_id": 530385,
+    "media_type": "movie",
+    "localized_titles": {
+      "am": "Midsommar",
+      "ar": "منتصف الصيف",
+      "de": "Midsommar",
+      "el": "Μεσοκαλόκαιρο",
+      "es": "Midsommar: el terror no espera la noche",
+      "fr": "Midsommar : solstice d'été",
+      "he": "מידסומר",
+      "hi": "Midsommar",
+      "ja": "ミッドサマー",
+      "ko": "미드소마",
+      "ru": "Солнцестояние",
+      "zh": "仲夏魘"
+    }
   },
   {
     "celebrity": "The Exorcist",
@@ -1005,7 +2781,23 @@
       "Its clues draw from the setting, central conflict, and memorable screen imagery rather than the name.",
       "Look for the kind of characters, setting, and genre situation that fans associate with it.",
       "The best hint is the mood: a recognizable mix of stakes, visual style, and repeated pop-culture references."
-    ]
+    ],
+    "tmdb_id": 9552,
+    "media_type": "movie",
+    "localized_titles": {
+      "am": "The Exorcist",
+      "ar": "طارد الأرواح الشريرة",
+      "de": "Der Exorzist",
+      "el": "Ο Εξορκιστής",
+      "es": "El Exorcista",
+      "fr": "L'exorciste",
+      "he": "מגרש השדים",
+      "hi": "शैतानी रात",
+      "ja": "エクソシスト",
+      "ko": "엑소시스트",
+      "ru": "Изгоняющий дьявола",
+      "zh": "驅魔人"
+    }
   },
   {
     "celebrity": "Psycho",
@@ -1014,7 +2806,23 @@
       "Its clues draw from the setting, central conflict, and memorable screen imagery rather than the name.",
       "Look for the kind of characters, setting, and genre situation that fans associate with it.",
       "The best hint is the mood: a recognizable mix of stakes, visual style, and repeated pop-culture references."
-    ]
+    ],
+    "tmdb_id": 539,
+    "media_type": "movie",
+    "localized_titles": {
+      "am": "Psycho",
+      "ar": "مُختل",
+      "de": "Psycho",
+      "el": "Ψυχώ",
+      "es": "Psicosis",
+      "fr": "Psychose",
+      "he": "פסיכו",
+      "hi": "साइको",
+      "ja": "サイコ",
+      "ko": "싸이코",
+      "ru": "Психо",
+      "zh": "觸目驚心"
+    }
   },
   {
     "celebrity": "The Shining",
@@ -1023,7 +2831,23 @@
       "Its clues draw from the setting, central conflict, and memorable screen imagery rather than the name.",
       "Look for the kind of characters, setting, and genre situation that fans associate with it.",
       "The best hint is the mood: a recognizable mix of stakes, visual style, and repeated pop-culture references."
-    ]
+    ],
+    "tmdb_id": 694,
+    "media_type": "movie",
+    "localized_titles": {
+      "am": "The Shining",
+      "ar": "البريق",
+      "de": "Shining",
+      "el": "Η Λάμψη",
+      "es": "El resplandor",
+      "fr": "Shining : L'enfant lumière",
+      "he": "הניצוץ",
+      "hi": "The Shining",
+      "ja": "シャイニング",
+      "ko": "샤이닝",
+      "ru": "Сияние",
+      "zh": "閃靈"
+    }
   },
   {
     "celebrity": "The Thing",
@@ -1032,7 +2856,23 @@
       "Its clues draw from the setting, central conflict, and memorable screen imagery rather than the name.",
       "Look for the kind of characters, setting, and genre situation that fans associate with it.",
       "The best hint is the mood: a recognizable mix of stakes, visual style, and repeated pop-culture references."
-    ]
+    ],
+    "tmdb_id": 1091,
+    "media_type": "movie",
+    "localized_titles": {
+      "am": "The Thing",
+      "ar": "الشيء",
+      "de": "Das Ding aus einer anderen Welt",
+      "el": "Η Απειλή",
+      "es": "La cosa del otro mundo",
+      "fr": "L'effroyable Chose",
+      "he": "היצור",
+      "hi": "कोई चिज",
+      "ja": "遊星からの物体X",
+      "ko": "괴물",
+      "ru": "Нечто",
+      "zh": "怪形"
+    }
   },
   {
     "celebrity": "Rosemarys Baby",
@@ -1041,7 +2881,23 @@
       "Its clues draw from the setting, central conflict, and memorable screen imagery rather than the name.",
       "Look for the kind of characters, setting, and genre situation that fans associate with it.",
       "The best hint is the mood: a recognizable mix of stakes, visual style, and repeated pop-culture references."
-    ]
+    ],
+    "tmdb_id": 805,
+    "media_type": "movie",
+    "localized_titles": {
+      "am": "Rosemarys Baby",
+      "ar": "طفل روزماري",
+      "de": "Rosemaries Baby",
+      "el": "Το Μωρό της Ρόζμαρι",
+      "es": "El bebé de Rosemary",
+      "fr": "Le Bébé de Rosemary",
+      "he": "תינוקה של רוזמרי",
+      "hi": "Rosemarys Baby",
+      "ja": "ローズマリーの赤ちゃん",
+      "ko": "악마의 씨",
+      "ru": "Ребёнок Розмари",
+      "zh": "魔鬼怪嬰"
+    }
   },
   {
     "celebrity": "Casablanca",
@@ -1050,7 +2906,23 @@
       "Its clues draw from the setting, central conflict, and memorable screen imagery rather than the name.",
       "Look for the kind of characters, setting, and genre situation that fans associate with it.",
       "The best hint is the mood: a recognizable mix of stakes, visual style, and repeated pop-culture references."
-    ]
+    ],
+    "tmdb_id": 289,
+    "media_type": "movie",
+    "localized_titles": {
+      "am": "Casablanca",
+      "ar": "كازبلانكا",
+      "de": "Casablanca",
+      "el": "Καζαμπλάνκα",
+      "es": "Casablanca",
+      "fr": "Casablanca",
+      "he": "קזבלנקה",
+      "hi": "Casablanca",
+      "ja": "カサブランカ",
+      "ko": "카사블랑카",
+      "ru": "Касабланка",
+      "zh": "北非諜影"
+    }
   },
   {
     "celebrity": "Citizen Kane",
@@ -1059,7 +2931,23 @@
       "Its clues draw from the setting, central conflict, and memorable screen imagery rather than the name.",
       "Look for the kind of characters, setting, and genre situation that fans associate with it.",
       "The best hint is the mood: a recognizable mix of stakes, visual style, and repeated pop-culture references."
-    ]
+    ],
+    "tmdb_id": 15,
+    "media_type": "movie",
+    "localized_titles": {
+      "am": "Citizen Kane",
+      "ar": "المواطن كين",
+      "de": "Citizen Kane",
+      "el": "Πολίτης Κέιν",
+      "es": "El Ciudadano Kane",
+      "fr": "Citizen Kane",
+      "he": "האזרח קיין",
+      "hi": "Citizen Kane",
+      "ja": "市民ケーン",
+      "ko": "시민 케인",
+      "ru": "Гражданин Кейн",
+      "zh": "大國民"
+    }
   },
   {
     "celebrity": "Singin in the Rain",
@@ -1068,7 +2956,23 @@
       "Its clues draw from the setting, central conflict, and memorable screen imagery rather than the name.",
       "Look for the kind of characters, setting, and genre situation that fans associate with it.",
       "The best hint is the mood: a recognizable mix of stakes, visual style, and repeated pop-culture references."
-    ]
+    ],
+    "tmdb_id": 872,
+    "media_type": "movie",
+    "localized_titles": {
+      "am": "Singin in the Rain",
+      "ar": "Singin in the Rain",
+      "de": "Du sollst mein Glücksstern sein",
+      "el": "Τραγουδώντας στη Βροχή",
+      "es": "Cantando bajo la lluvia",
+      "fr": "Chantons sous la pluie",
+      "he": "שיר אשיר בגשם",
+      "hi": "Singin in the Rain",
+      "ja": "雨に唄えば",
+      "ko": "사랑은 비를 타고",
+      "ru": "Поющие под дождём",
+      "zh": "萬花嬉春"
+    }
   },
   {
     "celebrity": "West Side Story",
@@ -1077,7 +2981,23 @@
       "Its clues draw from the setting, central conflict, and memorable screen imagery rather than the name.",
       "Look for the kind of characters, setting, and genre situation that fans associate with it.",
       "The best hint is the mood: a recognizable mix of stakes, visual style, and repeated pop-culture references."
-    ]
+    ],
+    "tmdb_id": 511809,
+    "media_type": "movie",
+    "localized_titles": {
+      "am": "West Side Story",
+      "ar": "قصة الجانب الغربى",
+      "de": "West Side Story",
+      "el": "West Side Story",
+      "es": "Amor Sin Barreras",
+      "fr": "West Side Story",
+      "he": "סיפור הפרברים",
+      "hi": "West Side Story",
+      "ja": "ウエスト・サイド・ストーリー",
+      "ko": "웨스트 사이드 스토리",
+      "ru": "Вестсайдская История",
+      "zh": "西城故事"
+    }
   },
   {
     "celebrity": "The Sound of Music",
@@ -1086,7 +3006,23 @@
       "Its clues draw from the setting, central conflict, and memorable screen imagery rather than the name.",
       "Look for the kind of characters, setting, and genre situation that fans associate with it.",
       "The best hint is the mood: a recognizable mix of stakes, visual style, and repeated pop-culture references."
-    ]
+    ],
+    "tmdb_id": 15121,
+    "media_type": "movie",
+    "localized_titles": {
+      "am": "The Sound of Music",
+      "ar": "لحن الحياة",
+      "de": "Meine Lieder, meine Träume",
+      "el": "Η Μελωδία της Ευτυχίας",
+      "es": "La novicia rebelde",
+      "fr": "La Mélodie du bonheur",
+      "he": "צלילי המוסיקה",
+      "hi": "The Sound of Music",
+      "ja": "サウンド・オブ・ミュージック",
+      "ko": "사운드 오브 뮤직",
+      "ru": "Звуки музыки",
+      "zh": "仙樂飄飄處處聞"
+    }
   },
   {
     "celebrity": "Mary Poppins",
@@ -1095,7 +3031,23 @@
       "Its clues draw from the setting, central conflict, and memorable screen imagery rather than the name.",
       "Look for the kind of characters, setting, and genre situation that fans associate with it.",
       "The best hint is the mood: a recognizable mix of stakes, visual style, and repeated pop-culture references."
-    ]
+    ],
+    "tmdb_id": 433,
+    "media_type": "movie",
+    "localized_titles": {
+      "am": "Mary Poppins",
+      "ar": "ماري بوبينز",
+      "de": "Mary Poppins",
+      "el": "Μαίρη Πόππινς",
+      "es": "Mary Poppins",
+      "fr": "Mary Poppins",
+      "he": "מרי פופינס",
+      "hi": "Mary Poppins",
+      "ja": "メリー・ポピンズ",
+      "ko": "메리 포핀스",
+      "ru": "Мэри Поппинс",
+      "zh": "歡樂滿人間"
+    }
   },
   {
     "celebrity": "Grease",
@@ -1104,7 +3056,23 @@
       "Its clues draw from the setting, central conflict, and memorable screen imagery rather than the name.",
       "Look for the kind of characters, setting, and genre situation that fans associate with it.",
       "The best hint is the mood: a recognizable mix of stakes, visual style, and repeated pop-culture references."
-    ]
+    ],
+    "tmdb_id": 621,
+    "media_type": "movie",
+    "localized_titles": {
+      "am": "Grease",
+      "ar": "Grease",
+      "de": "Grease",
+      "el": "Γκρηζ",
+      "es": "Vaselina",
+      "fr": "Brillantine",
+      "he": "גריז",
+      "hi": "Grease",
+      "ja": "グリース",
+      "ko": "그리스",
+      "ru": "Бриолин",
+      "zh": "火爆浪子"
+    }
   },
   {
     "celebrity": "Dirty Dancing",
@@ -1113,7 +3081,23 @@
       "Its clues draw from the setting, central conflict, and memorable screen imagery rather than the name.",
       "Look for the kind of characters, setting, and genre situation that fans associate with it.",
       "The best hint is the mood: a recognizable mix of stakes, visual style, and repeated pop-culture references."
-    ]
+    ],
+    "tmdb_id": 88,
+    "media_type": "movie",
+    "localized_titles": {
+      "am": "Dirty Dancing",
+      "ar": "Dirty Dancing",
+      "de": "Dirty Dancing",
+      "el": "Ντέρτι Ντάνσινγκ",
+      "es": "Baile caliente (Dirty Dancing)",
+      "fr": "Danse Lascive",
+      "he": "ריקוד מושחת",
+      "hi": "Dirty Dancing",
+      "ja": "ダーティ・ダンシング",
+      "ko": "더티 댄싱",
+      "ru": "Грязные танцы",
+      "zh": "辣身舞"
+    }
   },
   {
     "celebrity": "Rocky Horror Picture Show",
@@ -1122,7 +3106,23 @@
       "Its clues draw from the setting, central conflict, and memorable screen imagery rather than the name.",
       "Look for the kind of characters, setting, and genre situation that fans associate with it.",
       "The best hint is the mood: a recognizable mix of stakes, visual style, and repeated pop-culture references."
-    ]
+    ],
+    "tmdb_id": 36685,
+    "media_type": "movie",
+    "localized_titles": {
+      "am": "Rocky Horror Picture Show",
+      "ar": "Rocky Horror Picture Show",
+      "de": "Rocky Horror Picture Show",
+      "el": "Rocky Horror Picture Show",
+      "es": "El Show de Terror de Rocky",
+      "fr": "Rocky Horror Picture Show",
+      "he": "מופע הקולנוע של רוקי",
+      "hi": "Rocky Horror Picture Show",
+      "ja": "ロッキー・ホラー・ショー",
+      "ko": "록키 호러 픽쳐 쇼",
+      "ru": "Шоу ужасов Рокки Хоррора",
+      "zh": "洛奇恐怖晚會"
+    }
   },
   {
     "celebrity": "Blade",
@@ -1131,7 +3131,23 @@
       "Its clues draw from the setting, central conflict, and memorable screen imagery rather than the name.",
       "Look for the kind of characters, setting, and genre situation that fans associate with it.",
       "The best hint is the mood: a recognizable mix of stakes, visual style, and repeated pop-culture references."
-    ]
+    ],
+    "tmdb_id": 36647,
+    "media_type": "movie",
+    "localized_titles": {
+      "am": "Blade",
+      "ar": "بليد",
+      "de": "Blade",
+      "el": "Σκοτεινή Δύναμη",
+      "es": "Blade: Cazador de Vampiros",
+      "fr": "Blade",
+      "he": "בלייד",
+      "hi": "ब्लेड",
+      "ja": "ブレイド",
+      "ko": "블레이드",
+      "ru": "Блэйд",
+      "zh": "幽靈刺客"
+    }
   },
   {
     "celebrity": "The Mummy",
@@ -1140,7 +3156,23 @@
       "Its clues draw from the setting, central conflict, and memorable screen imagery rather than the name.",
       "Look for the kind of characters, setting, and genre situation that fans associate with it.",
       "The best hint is the mood: a recognizable mix of stakes, visual style, and repeated pop-culture references."
-    ]
+    ],
+    "tmdb_id": 564,
+    "media_type": "movie",
+    "localized_titles": {
+      "am": "The Mummy",
+      "ar": "The Mummy",
+      "de": "Die Mumie",
+      "el": "Η Μούμια",
+      "es": "La Momia",
+      "fr": "La momie",
+      "he": "המומיה",
+      "hi": "द मम्मी",
+      "ja": "ハムナプトラ 失われた砂漠の都",
+      "ko": "미이라",
+      "ru": "Мумия",
+      "zh": "盜墓迷城"
+    }
   },
   {
     "celebrity": "National Treasure",
@@ -1149,7 +3181,23 @@
       "Its clues draw from the setting, central conflict, and memorable screen imagery rather than the name.",
       "Look for the kind of characters, setting, and genre situation that fans associate with it.",
       "The best hint is the mood: a recognizable mix of stakes, visual style, and repeated pop-culture references."
-    ]
+    ],
+    "tmdb_id": 2059,
+    "media_type": "movie",
+    "localized_titles": {
+      "am": "National Treasure",
+      "ar": "الكنز الوطني",
+      "de": "Das Vermächtnis der Tempelritter",
+      "el": "Στα Ίχνη Του Χαμένου Θησαυρού",
+      "es": "La leyenda del tesoro perdido",
+      "fr": "Trésor National",
+      "he": "אוצר לאומי",
+      "hi": "National Treasure",
+      "ja": "ナショナル・トレジャー",
+      "ko": "내셔널 트레져",
+      "ru": "Сокровище нации",
+      "zh": "驚天奪寶"
+    }
   },
   {
     "celebrity": "Night at the Museum",
@@ -1158,7 +3206,23 @@
       "Its clues draw from the setting, central conflict, and memorable screen imagery rather than the name.",
       "Look for the kind of characters, setting, and genre situation that fans associate with it.",
       "The best hint is the mood: a recognizable mix of stakes, visual style, and repeated pop-culture references."
-    ]
+    ],
+    "tmdb_id": 1593,
+    "media_type": "movie",
+    "localized_titles": {
+      "am": "Night at the Museum",
+      "ar": "ليلة في المتحف",
+      "de": "Nachts im Museum",
+      "el": "Μια Νύχτα στο Μουσείο",
+      "es": "Una noche en el museo",
+      "fr": "Une nuit au musée",
+      "he": "לילה מוטרף במוזיאון",
+      "hi": "म्युज़ीयम के अंदर फंस गया सिकंदर",
+      "ja": "ナイト ミュージアム",
+      "ko": "박물관이 살아있다!",
+      "ru": "Ночь в Музее",
+      "zh": "翻生侏羅館"
+    }
   },
   {
     "celebrity": "School of Rock",
@@ -1167,7 +3231,23 @@
       "Its clues draw from the setting, central conflict, and memorable screen imagery rather than the name.",
       "Look for the kind of characters, setting, and genre situation that fans associate with it.",
       "The best hint is the mood: a recognizable mix of stakes, visual style, and repeated pop-culture references."
-    ]
+    ],
+    "tmdb_id": 1584,
+    "media_type": "movie",
+    "localized_titles": {
+      "am": "School of Rock",
+      "ar": "مدرسة الروك",
+      "de": "School of Rock",
+      "el": "Ένα Σχολείο Πολύ Ροκ",
+      "es": "Escuela de Rock",
+      "fr": "L'école du rock",
+      "he": "בית ספר לרוק",
+      "hi": "स्कूल ऑफ़ रॉक",
+      "ja": "スクール・オブ・ロック",
+      "ko": "스쿨 오브 락",
+      "ru": "Школа рока",
+      "zh": "摇滚校园"
+    }
   },
   {
     "celebrity": "Superbad",
@@ -1176,7 +3256,23 @@
       "Its clues draw from the setting, central conflict, and memorable screen imagery rather than the name.",
       "Look for the kind of characters, setting, and genre situation that fans associate with it.",
       "The best hint is the mood: a recognizable mix of stakes, visual style, and repeated pop-culture references."
-    ]
+    ],
+    "tmdb_id": 8363,
+    "media_type": "movie",
+    "localized_titles": {
+      "am": "Superbad",
+      "ar": "Superbad",
+      "de": "Superbad",
+      "el": "Superbad",
+      "es": "Supercool",
+      "fr": "Supermalades",
+      "he": "סופרבאד: חרמן על הזמן",
+      "hi": "Superbad",
+      "ja": "スーパーバッド 童貞ウォーズ",
+      "ko": "슈퍼배드",
+      "ru": "SuperПерцы",
+      "zh": "弊傢伙…玩大咗"
+    }
   },
   {
     "celebrity": "Bridesmaids",
@@ -1185,7 +3281,23 @@
       "Its clues draw from the setting, central conflict, and memorable screen imagery rather than the name.",
       "Look for the kind of characters, setting, and genre situation that fans associate with it.",
       "The best hint is the mood: a recognizable mix of stakes, visual style, and repeated pop-culture references."
-    ]
+    ],
+    "tmdb_id": 55721,
+    "media_type": "movie",
+    "localized_titles": {
+      "am": "Bridesmaids",
+      "ar": "Bridesmaids",
+      "de": "Brautalarm",
+      "el": "Φιλενάδες",
+      "es": "Damas en Guerra",
+      "fr": "Demoiselles d'honneur",
+      "he": "מסיבת רווקות",
+      "hi": "ब्राइड्समेडस",
+      "ja": "ブライズメイズ 史上最悪のウェディングプラン",
+      "ko": "내 여자친구의 결혼식",
+      "ru": "Девичник в Вегасе",
+      "zh": "伴娘"
+    }
   },
   {
     "celebrity": "The Hangover",
@@ -1194,7 +3306,23 @@
       "Its clues draw from the setting, central conflict, and memorable screen imagery rather than the name.",
       "Look for the kind of characters, setting, and genre situation that fans associate with it.",
       "The best hint is the mood: a recognizable mix of stakes, visual style, and repeated pop-culture references."
-    ]
+    ],
+    "tmdb_id": 18785,
+    "media_type": "movie",
+    "localized_titles": {
+      "am": "The Hangover",
+      "ar": "The Hangover",
+      "de": "Hangover",
+      "el": "The Hangover",
+      "es": "¿Qué Pasó Ayer?",
+      "fr": "Lendemain de veille",
+      "he": "בדרך לחתונה עוצרים בווגאס",
+      "hi": "अय्याशी की रात",
+      "ja": "ハングオーバー！消えた花ムコと史上最悪の二日酔い",
+      "ko": "행오버",
+      "ru": "Мальчишник в Вегасе",
+      "zh": "醉爆伴郎團"
+    }
   },
   {
     "celebrity": "Anchorman",
@@ -1203,7 +3331,23 @@
       "Its clues draw from the setting, central conflict, and memorable screen imagery rather than the name.",
       "Look for the kind of characters, setting, and genre situation that fans associate with it.",
       "The best hint is the mood: a recognizable mix of stakes, visual style, and repeated pop-culture references."
-    ]
+    ],
+    "tmdb_id": 8699,
+    "media_type": "movie",
+    "localized_titles": {
+      "am": "Anchorman",
+      "ar": "Anchorman",
+      "de": "Anchorman - Die Legende von Ron Burgundy",
+      "el": "Ο Παρουσιαστής: Ο Θρύλος του Ron Burgundy",
+      "es": "El Reportero: La Leyenda de Ron Burgundy",
+      "fr": "Présentateur vedette : La légende de Ron Burgundy",
+      "he": "והרי החדשות",
+      "hi": "एन्करमैन",
+      "ja": "俺たちニュースキャスター",
+      "ko": "앵커맨",
+      "ru": "Телеведущий: Легенда о Роне Бургунди",
+      "zh": "銀幕大角頭"
+    }
   },
   {
     "celebrity": "Zoolander",
@@ -1212,7 +3356,23 @@
       "Its clues draw from the setting, central conflict, and memorable screen imagery rather than the name.",
       "Look for the kind of characters, setting, and genre situation that fans associate with it.",
       "The best hint is the mood: a recognizable mix of stakes, visual style, and repeated pop-culture references."
-    ]
+    ],
+    "tmdb_id": 9398,
+    "media_type": "movie",
+    "localized_titles": {
+      "am": "Zoolander",
+      "ar": "Zoolander",
+      "de": "Zoolander",
+      "el": "Zoolander: Ο Άρχοντας Της Πασαρέλας",
+      "es": "Zoolander",
+      "fr": "Zoolander",
+      "he": "זולנדר",
+      "hi": "Zoolander",
+      "ja": "ズーランダー",
+      "ko": "쥬랜더",
+      "ru": "Образцовый самец",
+      "zh": "非常索凸務"
+    }
   },
   {
     "celebrity": "Borat",
@@ -1221,7 +3381,23 @@
       "Its clues draw from the setting, central conflict, and memorable screen imagery rather than the name.",
       "Look for the kind of characters, setting, and genre situation that fans associate with it.",
       "The best hint is the mood: a recognizable mix of stakes, visual style, and repeated pop-culture references."
-    ]
+    ],
+    "tmdb_id": 496,
+    "media_type": "movie",
+    "localized_titles": {
+      "am": "Borat",
+      "ar": "Borat",
+      "de": "Borat",
+      "el": "Μπόρατ",
+      "es": "Borat: El segundo mejor reportero del glorioso país Kazajistán viaja a América",
+      "fr": "Borat : Leçons culturelles sur l'Amérique pour profit glorieuse nation Kazakhstan",
+      "he": "בוראט",
+      "hi": "Borat",
+      "ja": "ボラット 栄光ナル国家カザフスタンのためのアメリカ文化学習",
+      "ko": "보랏 - 카자흐스탄 킹카의 미국 문화 빨아들이기",
+      "ru": "Борат",
+      "zh": "波叔出城：哈薩克鄉下佬去美國揾著數"
+    }
   },
   {
     "celebrity": "The Super Mario Galaxy Movie",
@@ -1230,7 +3406,23 @@
       "Its clues draw from the setting, central conflict, and memorable screen imagery rather than the name.",
       "Look for the kind of characters, setting, and genre situation that fans associate with it.",
       "The best hint is the mood: a recognizable mix of stakes, visual style, and repeated pop-culture references."
-    ]
+    ],
+    "tmdb_id": 1226863,
+    "media_type": "movie",
+    "localized_titles": {
+      "am": "The Super Mario Galaxy Movie",
+      "ar": "فيلم سوبر ماريو جالاكسي",
+      "de": "Der Super Mario Galaxy Film",
+      "el": "Super Mario Galaxy: Η Ταινία",
+      "es": "Super Mario Galaxy la película",
+      "fr": "Super Mario Galaxy, Le Film",
+      "he": "סופר מריו גלקסי: הסרט",
+      "hi": "द सुपर मारिओ गैलेक्सी मूवी",
+      "ja": "ザ・スーパーマリオギャラクシー・ムービー",
+      "ko": "슈퍼 마리오 갤럭시",
+      "ru": "Супер Марио: Галактическое кино",
+      "zh": "超級瑪利歐銀河大電影"
+    }
   },
   {
     "celebrity": "Apex",
@@ -1239,7 +3431,23 @@
       "Its clues draw from the setting, central conflict, and memorable screen imagery rather than the name.",
       "Look for the kind of characters, setting, and genre situation that fans associate with it.",
       "The best hint is the mood: a recognizable mix of stakes, visual style, and repeated pop-culture references."
-    ]
+    ],
+    "tmdb_id": 1318447,
+    "media_type": "movie",
+    "localized_titles": {
+      "am": "Apex",
+      "ar": "المفترس الأقوى",
+      "de": "Apex",
+      "el": "Apex",
+      "es": "Ápex",
+      "fr": "Apex",
+      "he": "פרא",
+      "hi": "ऐपेक्स",
+      "ja": "エイペックス・プレデター",
+      "ko": "정점",
+      "ru": "На вершине",
+      "zh": "巔峰獵殺"
+    }
   },
   {
     "celebrity": "Send Help",
@@ -1248,7 +3456,23 @@
       "Its clues draw from the setting, central conflict, and memorable screen imagery rather than the name.",
       "Look for the kind of characters, setting, and genre situation that fans associate with it.",
       "The best hint is the mood: a recognizable mix of stakes, visual style, and repeated pop-culture references."
-    ]
+    ],
+    "tmdb_id": 1198994,
+    "media_type": "movie",
+    "localized_titles": {
+      "am": "Send Help",
+      "ar": "أرسل النجدة",
+      "de": "Send Help",
+      "el": "Βοήθεια!",
+      "es": "¡Ayuda!",
+      "fr": "Envoyez de l'aide",
+      "he": "הצילו",
+      "hi": "Send Help",
+      "ja": "HELP/復讐島",
+      "ko": "직장상사 길들이기",
+      "ru": "На помощь!",
+      "zh": "荒島囚救"
+    }
   },
   {
     "celebrity": "The Devil Wears Prada",
@@ -1257,7 +3481,23 @@
       "Its clues draw from the setting, central conflict, and memorable screen imagery rather than the name.",
       "Look for the kind of characters, setting, and genre situation that fans associate with it.",
       "The best hint is the mood: a recognizable mix of stakes, visual style, and repeated pop-culture references."
-    ]
+    ],
+    "tmdb_id": 350,
+    "media_type": "movie",
+    "localized_titles": {
+      "am": "The Devil Wears Prada",
+      "ar": "الشيطان يرتدي برادا",
+      "de": "Der Teufel trägt Prada",
+      "el": "Ο Διάβολος Φοράει Prada",
+      "es": "El diablo viste a la moda",
+      "fr": "Le diable s'habille en Prada",
+      "he": "השטן לובשת פראדה",
+      "hi": "The Devil Wears Prada",
+      "ja": "プラダを着た悪魔",
+      "ko": "악마는 프라다를 입는다",
+      "ru": "Дьявол носит Prada",
+      "zh": "穿普拉达的女王"
+    }
   },
   {
     "celebrity": "Michael",
@@ -1266,7 +3506,23 @@
       "Its clues draw from the setting, central conflict, and memorable screen imagery rather than the name.",
       "Look for the kind of characters, setting, and genre situation that fans associate with it.",
       "The best hint is the mood: a recognizable mix of stakes, visual style, and repeated pop-culture references."
-    ]
+    ],
+    "tmdb_id": 936075,
+    "media_type": "movie",
+    "localized_titles": {
+      "am": "Michael",
+      "ar": "مايكل",
+      "de": "Michael",
+      "el": "Michael",
+      "es": "Michael",
+      "fr": "Michael",
+      "he": "מייקל",
+      "hi": "Michael",
+      "ja": "Michael／マイケル",
+      "ko": "마이클",
+      "ru": "Майкл",
+      "zh": "麥可傑克森"
+    }
   },
   {
     "celebrity": "Ready or Not 2 Here I Come",
@@ -1275,7 +3531,23 @@
       "Its clues draw from the setting, central conflict, and memorable screen imagery rather than the name.",
       "Look for the kind of characters, setting, and genre situation that fans associate with it.",
       "The best hint is the mood: a recognizable mix of stakes, visual style, and repeated pop-culture references."
-    ]
+    ],
+    "tmdb_id": 1266127,
+    "media_type": "movie",
+    "localized_titles": {
+      "am": "Ready or Not 2 Here I Come",
+      "ar": "جاهز أم لا : ها أنا قادم",
+      "de": "Ready or Not 2",
+      "el": "Είσαι Έτοιμος; 2",
+      "es": "Noche de bodas 2",
+      "fr": "Prêt pas prêt 2 : J'arrive",
+      "he": "מי שעומד מאחורי 2,1…",
+      "hi": "Ready or Not 2 Here I Come",
+      "ja": "レディ・オア・ノット2",
+      "ko": "레디 오어 낫: 죽음의 숨바꼭질",
+      "ru": "Я иду искать 2",
+      "zh": "爆血新婚夜2：豪門遊戲"
+    }
   },
   {
     "celebrity": "Goat",
@@ -1284,7 +3556,23 @@
       "Its clues draw from the setting, central conflict, and memorable screen imagery rather than the name.",
       "Look for the kind of characters, setting, and genre situation that fans associate with it.",
       "The best hint is the mood: a recognizable mix of stakes, visual style, and repeated pop-culture references."
-    ]
+    ],
+    "tmdb_id": 1297842,
+    "media_type": "movie",
+    "localized_titles": {
+      "am": "Goat",
+      "ar": "Goat",
+      "de": "G.O.A.T. - Bock auf grosse Sprünge",
+      "el": "GOAT: Ο Δρόμος Προς Την Κορυφή",
+      "es": "GOAT: Como cabras",
+      "fr": "GOAT : Rêver plus haut",
+      "he": "להעז בגדול",
+      "hi": "गोट",
+      "ja": "GOAT／ゴート 史上最高をめざせ！",
+      "ko": "고트: 더 레전드",
+      "ru": "Goat: Мечтай по-крупному",
+      "zh": "奇迹梦之队"
+    }
   },
   {
     "celebrity": "Project Hail Mary",
@@ -1293,7 +3581,23 @@
       "Its clues draw from the setting, central conflict, and memorable screen imagery rather than the name.",
       "Look for the kind of characters, setting, and genre situation that fans associate with it.",
       "The best hint is the mood: a recognizable mix of stakes, visual style, and repeated pop-culture references."
-    ]
+    ],
+    "tmdb_id": 687163,
+    "media_type": "movie",
+    "localized_titles": {
+      "am": "Project Hail Mary",
+      "ar": "مشروع هيل ماري",
+      "de": "Der Astronaut - Project Hail Mary",
+      "el": "Αποστολή Χαίρε Μαρία",
+      "es": "Proyecto Fin del Mundo",
+      "fr": "Projet dernière chance",
+      "he": "פרויקט הייל מרי",
+      "hi": "प्रोजेक्ट हेल मैरी",
+      "ja": "プロジェクト・ヘイル・メアリー",
+      "ko": "프로젝트 헤일메리",
+      "ru": "Проект «Конец света»",
+      "zh": "極限返航"
+    }
   },
   {
     "celebrity": "Predator Badlands",
@@ -1302,7 +3606,23 @@
       "Its clues draw from the setting, central conflict, and memorable screen imagery rather than the name.",
       "Look for the kind of characters, setting, and genre situation that fans associate with it.",
       "The best hint is the mood: a recognizable mix of stakes, visual style, and repeated pop-culture references."
-    ]
+    ],
+    "tmdb_id": 1242898,
+    "media_type": "movie",
+    "localized_titles": {
+      "am": "Predator Badlands",
+      "ar": "المفترس: الأراضي القاحلة",
+      "de": "Predator Badlands",
+      "el": "Κυνηγός: Επικίνδυνη Ζώνη",
+      "es": "Depredador: Tierras salvajes",
+      "fr": "Prédateur : Badlands",
+      "he": "הטורף: שטח פראי",
+      "hi": "प्रेडेटर: बैडलैंड्स",
+      "ja": "プレデター：バッドランド",
+      "ko": "프레데터: 죽음의 땅",
+      "ru": "Хищник: Планета смерти",
+      "zh": "終極戰士：殺戮星球"
+    }
   },
   {
     "celebrity": "The Housemaid",
@@ -1311,7 +3631,23 @@
       "Its clues draw from the setting, central conflict, and memorable screen imagery rather than the name.",
       "Look for the kind of characters, setting, and genre situation that fans associate with it.",
       "The best hint is the mood: a recognizable mix of stakes, visual style, and repeated pop-culture references."
-    ]
+    ],
+    "tmdb_id": 1368166,
+    "media_type": "movie",
+    "localized_titles": {
+      "am": "The Housemaid",
+      "ar": "الخادمة",
+      "de": "The Housemaid - Wenn sie wüsste",
+      "el": "Η Αγγελία",
+      "es": "La Empleada",
+      "fr": "La femme de ménage",
+      "he": "עוזרת הבית",
+      "hi": "The Housemaid",
+      "ja": "ハウスメイド",
+      "ko": "하우스메이드",
+      "ru": "Горничная",
+      "zh": "美傭誘罪"
+    }
   },
   {
     "celebrity": "Apocalypto",
@@ -1320,7 +3656,23 @@
       "Its clues draw from the setting, central conflict, and memorable screen imagery rather than the name.",
       "Look for the kind of characters, setting, and genre situation that fans associate with it.",
       "The best hint is the mood: a recognizable mix of stakes, visual style, and repeated pop-culture references."
-    ]
+    ],
+    "tmdb_id": 1579,
+    "media_type": "movie",
+    "localized_titles": {
+      "am": "Apocalypto",
+      "ar": "أبوكاليبتو",
+      "de": "Apocalypto",
+      "el": "Apocalypto",
+      "es": "Apocalypto",
+      "fr": "Apocalypto",
+      "he": "אפוקליפטו",
+      "hi": "Apocalypto",
+      "ja": "アポカリプト",
+      "ko": "아포칼립토",
+      "ru": "Апокалипсис",
+      "zh": "亞波卡獵逃"
+    }
   },
   {
     "celebrity": "Mortal Kombat Ii",
@@ -1329,7 +3681,23 @@
       "Its clues draw from the setting, central conflict, and memorable screen imagery rather than the name.",
       "Look for the kind of characters, setting, and genre situation that fans associate with it.",
       "The best hint is the mood: a recognizable mix of stakes, visual style, and repeated pop-culture references."
-    ]
+    ],
+    "tmdb_id": 931285,
+    "media_type": "movie",
+    "localized_titles": {
+      "am": "Mortal Kombat Ii",
+      "ar": "مورتال كومبات ٢",
+      "de": "Mortal Kombat II",
+      "el": "Mortal Kombat Ii",
+      "es": "Mortal Kombat Ii",
+      "fr": "Mortal Kombat Ii",
+      "he": "מורטל קומבט II",
+      "hi": "मॉर्टल कॉमबैट २",
+      "ja": "モータルコンバット／ネクストラウンド",
+      "ko": "모탈 컴뱃 2",
+      "ru": "Мортал Комбат 2",
+      "zh": "真人快打II"
+    }
   },
   {
     "celebrity": "Xxx",
@@ -1338,7 +3706,23 @@
       "Its clues draw from the setting, central conflict, and memorable screen imagery rather than the name.",
       "Look for the kind of characters, setting, and genre situation that fans associate with it.",
       "The best hint is the mood: a recognizable mix of stakes, visual style, and repeated pop-culture references."
-    ]
+    ],
+    "tmdb_id": 7451,
+    "media_type": "movie",
+    "localized_titles": {
+      "am": "Xxx",
+      "ar": "ثلاثية ايكس",
+      "de": "xXx - Triple X",
+      "el": "xXx: Ο Απόλυτος Πράκτορας",
+      "es": "xXx - Triple X",
+      "fr": "Xxx",
+      "he": "טריפל אקס",
+      "hi": "ट्रिपल एक्स",
+      "ja": "トリプルX",
+      "ko": "트리플 엑스",
+      "ru": "Три икса",
+      "zh": "极限特工"
+    }
   },
   {
     "celebrity": "Scream 7",
@@ -1347,7 +3731,23 @@
       "Its clues draw from the setting, central conflict, and memorable screen imagery rather than the name.",
       "Look for the kind of characters, setting, and genre situation that fans associate with it.",
       "The best hint is the mood: a recognizable mix of stakes, visual style, and repeated pop-culture references."
-    ]
+    ],
+    "tmdb_id": 1159559,
+    "media_type": "movie",
+    "localized_titles": {
+      "am": "Scream 7",
+      "ar": "صرخة ٧",
+      "de": "Scream 7",
+      "el": "Scream 7",
+      "es": "Scream 7",
+      "fr": "Frissons 7",
+      "he": "צעקה 7",
+      "hi": "Scream 7",
+      "ja": "Scream 7",
+      "ko": "스크림 7",
+      "ru": "Крик 7",
+      "zh": "奪命狂呼7"
+    }
   },
   {
     "celebrity": "The Super Mario Bros Movie",
@@ -1356,7 +3756,23 @@
       "Its clues draw from the setting, central conflict, and memorable screen imagery rather than the name.",
       "Look for the kind of characters, setting, and genre situation that fans associate with it.",
       "The best hint is the mood: a recognizable mix of stakes, visual style, and repeated pop-culture references."
-    ]
+    ],
+    "tmdb_id": 502356,
+    "media_type": "movie",
+    "localized_titles": {
+      "am": "The Super Mario Bros Movie",
+      "ar": "فيلم سوبر ماريو بروس",
+      "de": "Der Super Mario Bros. Film",
+      "el": "Super Mario Bros: Η Ταινία",
+      "es": "Super Mario Bros: La película",
+      "fr": "Super Mario Bros. Le film",
+      "he": "האחים סופר מריו: הסרט",
+      "hi": "द सुपर मारियो ब्रदर्स मूवी",
+      "ja": "ザ・スーパーマリオブラザーズ・ムービー",
+      "ko": "슈퍼 마리오 브라더스",
+      "ru": "Братья Супер Марио в кино",
+      "zh": "超級瑪利歐兄弟大電影"
+    }
   },
   {
     "celebrity": "War Machine",
@@ -1365,7 +3781,23 @@
       "Its clues draw from the setting, central conflict, and memorable screen imagery rather than the name.",
       "Look for the kind of characters, setting, and genre situation that fans associate with it.",
       "The best hint is the mood: a recognizable mix of stakes, visual style, and repeated pop-culture references."
-    ]
+    ],
+    "tmdb_id": 1265609,
+    "media_type": "movie",
+    "localized_titles": {
+      "am": "War Machine",
+      "ar": "آلة حرب",
+      "de": "War Machine",
+      "el": "War Machine",
+      "es": "Máquina de guerra",
+      "fr": "La machine de guerre",
+      "he": "מכונת מלחמה",
+      "hi": "वॉर मशीन",
+      "ja": "ウォー・マシーン: 未知なる侵略者",
+      "ko": "워 머신: 전쟁 기계",
+      "ru": "Военная машина",
+      "zh": "侵略機器"
+    }
   },
   {
     "celebrity": "Protector",
@@ -1374,7 +3806,23 @@
       "Its clues draw from the setting, central conflict, and memorable screen imagery rather than the name.",
       "Look for the kind of characters, setting, and genre situation that fans associate with it.",
       "The best hint is the mood: a recognizable mix of stakes, visual style, and repeated pop-culture references."
-    ]
+    ],
+    "tmdb_id": 1383731,
+    "media_type": "movie",
+    "localized_titles": {
+      "am": "Protector",
+      "ar": "الحامية",
+      "de": "Protector",
+      "el": "Protector",
+      "es": "Instinto protector",
+      "fr": "Protector",
+      "he": "המגינה",
+      "hi": "Protector",
+      "ja": "Protector",
+      "ko": "프로텍터",
+      "ru": "Мститель",
+      "zh": "72小時即刻救援"
+    }
   },
   {
     "celebrity": "Anaconda",
@@ -1383,7 +3831,23 @@
       "Its clues draw from the setting, central conflict, and memorable screen imagery rather than the name.",
       "Look for the kind of characters, setting, and genre situation that fans associate with it.",
       "The best hint is the mood: a recognizable mix of stakes, visual style, and repeated pop-culture references."
-    ]
+    ],
+    "tmdb_id": 1234731,
+    "media_type": "movie",
+    "localized_titles": {
+      "am": "Anaconda",
+      "ar": "أناكوندا",
+      "de": "Anaconda",
+      "el": "Ανακόντα",
+      "es": "Anaconda",
+      "fr": "Anaconda",
+      "he": "אנקונדה",
+      "hi": "एनाकोंडा",
+      "ja": "俺たちのアナコンダ",
+      "ko": "아나콘다",
+      "ru": "Анаконда",
+      "zh": "狂蟒之災"
+    }
   },
   {
     "celebrity": "Wuthering Heights",
@@ -1392,7 +3856,23 @@
       "Its clues draw from the setting, central conflict, and memorable screen imagery rather than the name.",
       "Look for the kind of characters, setting, and genre situation that fans associate with it.",
       "The best hint is the mood: a recognizable mix of stakes, visual style, and repeated pop-culture references."
-    ]
+    ],
+    "tmdb_id": 1316092,
+    "media_type": "movie",
+    "localized_titles": {
+      "am": "Wuthering Heights",
+      "ar": "مرتفعات ويذرنغ",
+      "de": "“Wuthering Heights” – Sturmhöhe",
+      "el": "Ανεμοδαρμένα Ύψη",
+      "es": "“Cumbres Borrascosas”",
+      "fr": "« Les Hauts de Hurle-Vent »",
+      "he": "”אנקת גבהים“",
+      "hi": "Wuthering Heights",
+      "ja": "嵐が丘",
+      "ko": "\"폭풍의 언덕\"",
+      "ru": "Грозовой перевал",
+      "zh": "“咆哮山莊”"
+    }
   },
   {
     "celebrity": "The Conjuring Last Rites",
@@ -1401,7 +3881,23 @@
       "Its clues draw from the setting, central conflict, and memorable screen imagery rather than the name.",
       "Look for the kind of characters, setting, and genre situation that fans associate with it.",
       "The best hint is the mood: a recognizable mix of stakes, visual style, and repeated pop-culture references."
-    ]
+    ],
+    "tmdb_id": 1038392,
+    "media_type": "movie",
+    "localized_titles": {
+      "am": "The Conjuring Last Rites",
+      "ar": "الشعوذة: الطقوس الأخيرة",
+      "de": "Conjuring 4: Das letzte Kapitel",
+      "el": "Το Κάλεσμα 4: Τελευταία Τελετουργία",
+      "es": "El Conjuro 4: Últimos ritos",
+      "fr": "La Conjuration : Derniers rites",
+      "he": "לזמן את הרוע 4: הפרק האחרון",
+      "hi": "द कोन्जूरिंग: लास्ट राइट्स",
+      "ja": "死霊館 最後の儀式",
+      "ko": "컨저링: 마지막 의식",
+      "ru": "Заклятие 4: Последний обряд",
+      "zh": "厲陰宅：最終聖事"
+    }
   },
   {
     "celebrity": "Thrash",
@@ -1410,7 +3906,23 @@
       "Its clues draw from the setting, central conflict, and memorable screen imagery rather than the name.",
       "Look for the kind of characters, setting, and genre situation that fans associate with it.",
       "The best hint is the mood: a recognizable mix of stakes, visual style, and repeated pop-culture references."
-    ]
+    ],
+    "tmdb_id": 1290417,
+    "media_type": "movie",
+    "localized_titles": {
+      "am": "Thrash",
+      "ar": "اجتياح أسماك القرش",
+      "de": "Thrash",
+      "el": "Thrash",
+      "es": "Embestida",
+      "fr": "Nature prédatrice",
+      "he": "הפלישה",
+      "hi": "Thrash",
+      "ja": "猛襲",
+      "ko": "스래시: 상어의 습격",
+      "ru": "Хищный рывок",
+      "zh": "狂鯊風暴"
+    }
   },
   {
     "celebrity": "Kraken",
@@ -1419,7 +3931,23 @@
       "Its clues draw from the setting, central conflict, and memorable screen imagery rather than the name.",
       "Look for the kind of characters, setting, and genre situation that fans associate with it.",
       "The best hint is the mood: a recognizable mix of stakes, visual style, and repeated pop-culture references."
-    ]
+    ],
+    "tmdb_id": 1110034,
+    "media_type": "movie",
+    "localized_titles": {
+      "am": "Kraken",
+      "ar": "كراكن",
+      "de": "Kraken - Erwachen der Tiefe",
+      "el": "Kraken",
+      "es": "Kraken",
+      "fr": "Kraken",
+      "he": "Kraken",
+      "hi": "Kraken",
+      "ja": "Kraken",
+      "ko": "크라켄",
+      "ru": "Кракен",
+      "zh": "極寒潛襲"
+    }
   },
   {
     "celebrity": "The Strangers Chapter 3",
@@ -1428,7 +3956,23 @@
       "Its clues draw from the setting, central conflict, and memorable screen imagery rather than the name.",
       "Look for the kind of characters, setting, and genre situation that fans associate with it.",
       "The best hint is the mood: a recognizable mix of stakes, visual style, and repeated pop-culture references."
-    ]
+    ],
+    "tmdb_id": 1010755,
+    "media_type": "movie",
+    "localized_titles": {
+      "am": "The Strangers Chapter 3",
+      "ar": "The Strangers Chapter 3",
+      "de": "The Strangers Chapter 3",
+      "el": "Κλείδωσες; Οι Άγνωστοι 3",
+      "es": "Los Extraños: Capítulo 3",
+      "fr": "Les Intrus : Chapitre 3",
+      "he": "הזרים: חלק 3",
+      "hi": "The Strangers Chapter 3",
+      "ja": "The Strangers Chapter 3",
+      "ko": "스트레인저스: 챕터3",
+      "ru": "Незнакомцы: Часть третья",
+      "zh": "嗜殺路人丙"
+    }
   },
   {
     "celebrity": "The Odyssey",
@@ -1437,7 +3981,23 @@
       "Its clues draw from the setting, central conflict, and memorable screen imagery rather than the name.",
       "Look for the kind of characters, setting, and genre situation that fans associate with it.",
       "The best hint is the mood: a recognizable mix of stakes, visual style, and repeated pop-culture references."
-    ]
+    ],
+    "tmdb_id": 1368337,
+    "media_type": "movie",
+    "localized_titles": {
+      "am": "The Odyssey",
+      "ar": "الأوديسة",
+      "de": "Die Odyssee",
+      "el": "Η Οδύσσεια",
+      "es": "La Odisea",
+      "fr": "L'Odyssée",
+      "he": "האודיסאה",
+      "hi": "द ओडिसी",
+      "ja": "オデュッセイア",
+      "ko": "오디세이",
+      "ru": "Одиссея",
+      "zh": "奧德賽"
+    }
   },
   {
     "celebrity": "F1",
@@ -1446,7 +4006,23 @@
       "Its clues draw from the setting, central conflict, and memorable screen imagery rather than the name.",
       "Look for the kind of characters, setting, and genre situation that fans associate with it.",
       "The best hint is the mood: a recognizable mix of stakes, visual style, and repeated pop-culture references."
-    ]
+    ],
+    "tmdb_id": 911430,
+    "media_type": "movie",
+    "localized_titles": {
+      "am": "F1",
+      "ar": "فورمولا 1",
+      "de": "F1 - Der Film",
+      "el": "F1",
+      "es": "F1 la película",
+      "fr": "F1 : le film",
+      "he": "פורמולה 1: הסרט",
+      "hi": "F1 द मूवी",
+      "ja": "F1／エフワン",
+      "ko": "F1 더 무비",
+      "ru": "F1",
+      "zh": "F1電影"
+    }
   },
   {
     "celebrity": "Influencers",
@@ -1455,7 +4031,23 @@
       "Its clues draw from the setting, central conflict, and memorable screen imagery rather than the name.",
       "Look for the kind of characters, setting, and genre situation that fans associate with it.",
       "The best hint is the mood: a recognizable mix of stakes, visual style, and repeated pop-culture references."
-    ]
+    ],
+    "tmdb_id": 1476740,
+    "media_type": "movie",
+    "localized_titles": {
+      "am": "Influencers",
+      "ar": "Influencers",
+      "de": "Influencer 2",
+      "el": "Influencers",
+      "es": "Influencers",
+      "fr": "Influencers",
+      "he": "Influencers",
+      "hi": "Influencers",
+      "ja": "Influencers",
+      "ko": "인플루언서 2",
+      "ru": "Инфлюэнсеры",
+      "zh": "奪命網紅2"
+    }
   },
   {
     "celebrity": "Now You See Me Now You Dont",
@@ -1464,7 +4056,23 @@
       "Its clues draw from the setting, central conflict, and memorable screen imagery rather than the name.",
       "Look for the kind of characters, setting, and genre situation that fans associate with it.",
       "The best hint is the mood: a recognizable mix of stakes, visual style, and repeated pop-culture references."
-    ]
+    ],
+    "tmdb_id": 425274,
+    "media_type": "movie",
+    "localized_titles": {
+      "am": "Now You See Me Now You Dont",
+      "ar": "الآن أنت تراني: الآن أنت لا",
+      "de": "Now You See Me 3: Die Unfassbaren 3",
+      "el": "Η Συμμορία των Μάγων 3",
+      "es": "Los ilusionistas 3: Ahora me ves, ahora no",
+      "fr": "Insaisissable 3",
+      "he": "האשליה 3",
+      "hi": "Now You See Me Now You Dont",
+      "ja": "グランド・イリュージョン／ダイヤモンド・ミッション",
+      "ko": "나우 유 씨 미 3",
+      "ru": "Иллюзия обмана 3",
+      "zh": "非常盜 3"
+    }
   },
   {
     "celebrity": "Mike Nick Nick Alice",
@@ -1473,7 +4081,23 @@
       "Its clues draw from the setting, central conflict, and memorable screen imagery rather than the name.",
       "Look for the kind of characters, setting, and genre situation that fans associate with it.",
       "The best hint is the mood: a recognizable mix of stakes, visual style, and repeated pop-culture references."
-    ]
+    ],
+    "tmdb_id": 1115544,
+    "media_type": "movie",
+    "localized_titles": {
+      "am": "Mike Nick Nick Alice",
+      "ar": "Mike Nick Nick Alice",
+      "de": "Mike Nick Nick Alice",
+      "el": "Μάικ & Νικ & Νικ & Άλις",
+      "es": "Mike y Nick y Nick y Alice",
+      "fr": "Mike Nick Nick Alice",
+      "he": "מייק & ניק & ניק & אליס",
+      "hi": "Mike Nick Nick Alice",
+      "ja": "Mike Nick Nick Alice",
+      "ko": "마이크 & 닉 & 닉 & 앨리스",
+      "ru": "Майк и Ник и Ник и Элис",
+      "zh": "我當你兄弟"
+    }
   },
   {
     "celebrity": "Kpop Demon Hunters",
@@ -1482,7 +4106,23 @@
       "Its clues draw from the setting, central conflict, and memorable screen imagery rather than the name.",
       "Look for the kind of characters, setting, and genre situation that fans associate with it.",
       "The best hint is the mood: a recognizable mix of stakes, visual style, and repeated pop-culture references."
-    ]
+    ],
+    "tmdb_id": 803796,
+    "media_type": "movie",
+    "localized_titles": {
+      "am": "Kpop Demon Hunters",
+      "ar": "فرقة البوب الكورية: صائدات الشياطين",
+      "de": "Kpop Demon Hunters",
+      "el": "K-Pop: Κυνηγοί Δαιμόνων",
+      "es": "Las guerreras k-pop",
+      "fr": "Les guerrières de la K-pop",
+      "he": "ציידות השדים של הקיי פופ",
+      "hi": "केपॉप डीमन हंटर्स",
+      "ja": "KPOPガールズ! デーモン・ハンターズ",
+      "ko": "케이팝 데몬 헌터스",
+      "ru": "Кейпоп-охотницы на демонов",
+      "zh": "K-Pop 猎魔女团"
+    }
   },
   {
     "celebrity": "A Breed Apart",
@@ -1491,7 +4131,23 @@
       "Its clues draw from the setting, central conflict, and memorable screen imagery rather than the name.",
       "Look for the kind of characters, setting, and genre situation that fans associate with it.",
       "The best hint is the mood: a recognizable mix of stakes, visual style, and repeated pop-culture references."
-    ]
+    ],
+    "tmdb_id": 1303055,
+    "media_type": "movie",
+    "localized_titles": {
+      "am": "A Breed Apart",
+      "ar": "A Breed Apart",
+      "de": "A Breed Apart",
+      "el": "A Breed Apart",
+      "es": "A Breed Apart",
+      "fr": "A Breed Apart",
+      "he": "A Breed Apart",
+      "hi": "A Breed Apart",
+      "ja": "A Breed Apart",
+      "ko": "브리드 어파트",
+      "ru": "Псарня",
+      "zh": "超乎常人"
+    }
   },
   {
     "celebrity": "Worldbreaker",
@@ -1500,7 +4156,23 @@
       "Its clues draw from the setting, central conflict, and memorable screen imagery rather than the name.",
       "Look for the kind of characters, setting, and genre situation that fans associate with it.",
       "The best hint is the mood: a recognizable mix of stakes, visual style, and repeated pop-culture references."
-    ]
+    ],
+    "tmdb_id": 1196067,
+    "media_type": "movie",
+    "localized_titles": {
+      "am": "Worldbreaker",
+      "ar": "Worldbreaker",
+      "de": "Worldbreaker",
+      "el": "Worldbreaker",
+      "es": "Worldbreaker",
+      "fr": "Worldbreaker",
+      "he": "שובר העולמות",
+      "hi": "Worldbreaker",
+      "ja": "Worldbreaker",
+      "ko": "월드브레이커",
+      "ru": "Разрушитель миров",
+      "zh": "世界毀滅者"
+    }
   },
   {
     "celebrity": "Jurassic World Rebirth",
@@ -1509,7 +4181,23 @@
       "Its clues draw from the setting, central conflict, and memorable screen imagery rather than the name.",
       "Look for the kind of characters, setting, and genre situation that fans associate with it.",
       "The best hint is the mood: a recognizable mix of stakes, visual style, and repeated pop-culture references."
-    ]
+    ],
+    "tmdb_id": 1234821,
+    "media_type": "movie",
+    "localized_titles": {
+      "am": "Jurassic World Rebirth",
+      "ar": "عالم الديناصورات: إحياء",
+      "de": "Jurassic World: Die Wiedergeburt",
+      "el": "Jurassic World: Αναγέννηση",
+      "es": "Jurassic World: El renacer",
+      "fr": "Monde jurassique : La renaissance",
+      "he": "עולם היורה: חיים חדשים",
+      "hi": "जुरासिक वर्ल्ड नयी शुरुआत",
+      "ja": "ジュラシック・ワールド／復活の大地",
+      "ko": "쥬라기 월드: 새로운 시작",
+      "ru": "Мир юрского периода: Возрождение",
+      "zh": "侏羅紀世界：重生"
+    }
   },
   {
     "celebrity": "The Wrecking Crew",
@@ -1518,7 +4206,23 @@
       "Its clues draw from the setting, central conflict, and memorable screen imagery rather than the name.",
       "Look for the kind of characters, setting, and genre situation that fans associate with it.",
       "The best hint is the mood: a recognizable mix of stakes, visual style, and repeated pop-culture references."
-    ]
+    ],
+    "tmdb_id": 1168190,
+    "media_type": "movie",
+    "localized_titles": {
+      "am": "The Wrecking Crew",
+      "ar": "طاقم التدمير",
+      "de": "The Wrecking Crew",
+      "el": "Ομάδα Κατεδάφισης",
+      "es": "Equipo Demolición",
+      "fr": "Le Commando de démolition",
+      "he": "צוות ההרס",
+      "hi": "द रेकिंग क्रू",
+      "ja": "レッキング・クルー",
+      "ko": "더 레킹 크루",
+      "ru": "Опасный дуэт",
+      "zh": "暴衝特攻隊"
+    }
   },
   {
     "celebrity": "Mercy",
@@ -1527,7 +4231,23 @@
       "Its clues draw from the setting, central conflict, and memorable screen imagery rather than the name.",
       "Look for the kind of characters, setting, and genre situation that fans associate with it.",
       "The best hint is the mood: a recognizable mix of stakes, visual style, and repeated pop-culture references."
-    ]
+    ],
+    "tmdb_id": 1236153,
+    "media_type": "movie",
+    "localized_titles": {
+      "am": "Mercy",
+      "ar": "ميرسي",
+      "de": "Mercy",
+      "el": "Η Εσχάτη των Ποινών",
+      "es": "Sin piedad",
+      "fr": "Reconnu coupable",
+      "he": "הנאשם",
+      "hi": "Mercy",
+      "ja": "MERCY／マーシー　AI裁判",
+      "ko": "노 머시: 90분",
+      "ru": "Милосердие",
+      "zh": "极限审判"
+    }
   },
   {
     "celebrity": "The Lord of the Rings the Return of the King",
@@ -1536,7 +4256,23 @@
       "Its clues draw from the setting, central conflict, and memorable screen imagery rather than the name.",
       "Look for the kind of characters, setting, and genre situation that fans associate with it.",
       "The best hint is the mood: a recognizable mix of stakes, visual style, and repeated pop-culture references."
-    ]
+    ],
+    "tmdb_id": 122,
+    "media_type": "movie",
+    "localized_titles": {
+      "am": "The Lord of the Rings the Return of the King",
+      "ar": "سيد الخواتم: عودة الملك",
+      "de": "Der Herr der Ringe - Die Rückkehr des Königs",
+      "el": "Ο Άρχοντας των Δαχτυλιδιών: Η Επιστροφή του Βασιλιά",
+      "es": "El señor de los anillos: El retorno del rey",
+      "fr": "Le Seigneur des anneaux : Le retour du Roi",
+      "he": "שר הטבעות: שיבת המלך",
+      "hi": "दी लार्ड ऑफ दी रिंग्स: रिटर्न ऑफ दी किंग",
+      "ja": "ロード・オブ・ザ・リング／王の帰還",
+      "ko": "반지의 제왕: 왕의 귀환",
+      "ru": "Властелин колец: Возвращение короля",
+      "zh": "魔戒三部曲：王者再臨"
+    }
   },
   {
     "celebrity": "The Rip",
@@ -1545,7 +4281,23 @@
       "Its clues draw from the setting, central conflict, and memorable screen imagery rather than the name.",
       "Look for the kind of characters, setting, and genre situation that fans associate with it.",
       "The best hint is the mood: a recognizable mix of stakes, visual style, and repeated pop-culture references."
-    ]
+    ],
+    "tmdb_id": 1306368,
+    "media_type": "movie",
+    "localized_titles": {
+      "am": "The Rip",
+      "ar": "ليلة القبض على المال والثقة",
+      "de": "The Rip",
+      "el": "The Rip",
+      "es": "El botín",
+      "fr": "Coup d'argent",
+      "he": "המכה",
+      "hi": "RIP: पैसा या फ़र्ज़",
+      "ja": "Rip／リップ",
+      "ko": "더 립",
+      "ru": "Лакомый кусок",
+      "zh": "全信沒收"
+    }
   },
   {
     "celebrity": "Ted 2",
@@ -1554,7 +4306,23 @@
       "Its clues draw from the setting, central conflict, and memorable screen imagery rather than the name.",
       "Look for the kind of characters, setting, and genre situation that fans associate with it.",
       "The best hint is the mood: a recognizable mix of stakes, visual style, and repeated pop-culture references."
-    ]
+    ],
+    "tmdb_id": 214756,
+    "media_type": "movie",
+    "localized_titles": {
+      "am": "Ted 2",
+      "ar": "تيد 2",
+      "de": "Ted 2",
+      "el": "Ted 2",
+      "es": "Ted 2",
+      "fr": "Ted 2",
+      "he": "טד 2",
+      "hi": "Ted 2",
+      "ja": "テッド2",
+      "ko": "19곰 테드 2",
+      "ru": "Третий лишний 2",
+      "zh": "賤熊 2"
+    }
   },
   {
     "celebrity": "Kung Fu Panda 4",
@@ -1563,7 +4331,23 @@
       "Its clues draw from the setting, central conflict, and memorable screen imagery rather than the name.",
       "Look for the kind of characters, setting, and genre situation that fans associate with it.",
       "The best hint is the mood: a recognizable mix of stakes, visual style, and repeated pop-culture references."
-    ]
+    ],
+    "tmdb_id": 1011985,
+    "media_type": "movie",
+    "localized_titles": {
+      "am": "Kung Fu Panda 4",
+      "ar": "الكونغ فو باندا ٤",
+      "de": "Kung Fu Panda 4",
+      "el": "Kung Fu Panda 4",
+      "es": "Kung Fu Panda 4",
+      "fr": "Kung Fu Panda 4",
+      "he": "קונג פו פנדה 4",
+      "hi": "कुंग फू पांडा 4",
+      "ja": "カンフー・パンダ 4 伝説のマスター降臨",
+      "ko": "쿵푸팬더 4",
+      "ru": "Кунг-фу Панда 4",
+      "zh": "功夫熊貓 4"
+    }
   },
   {
     "celebrity": "The Running Man",
@@ -1572,7 +4356,23 @@
       "Its clues draw from the setting, central conflict, and memorable screen imagery rather than the name.",
       "Look for the kind of characters, setting, and genre situation that fans associate with it.",
       "The best hint is the mood: a recognizable mix of stakes, visual style, and repeated pop-culture references."
-    ]
+    ],
+    "tmdb_id": 798645,
+    "media_type": "movie",
+    "localized_titles": {
+      "am": "The Running Man",
+      "ar": "The Running Man",
+      "de": "The Running Man",
+      "el": "Ο Άτρωτος",
+      "es": "El sobreviviente",
+      "fr": "Le jeu du défi",
+      "he": "הנרדף",
+      "hi": "The Running Man",
+      "ja": "ランニング・マン",
+      "ko": "더 러닝 맨",
+      "ru": "Бегущий человек",
+      "zh": "猎杀游戏"
+    }
   },
   {
     "celebrity": "The Beekeeper",
@@ -1581,7 +4381,23 @@
       "Its clues draw from the setting, central conflict, and memorable screen imagery rather than the name.",
       "Look for the kind of characters, setting, and genre situation that fans associate with it.",
       "The best hint is the mood: a recognizable mix of stakes, visual style, and repeated pop-culture references."
-    ]
+    ],
+    "tmdb_id": 866398,
+    "media_type": "movie",
+    "localized_titles": {
+      "am": "The Beekeeper",
+      "ar": "النحال",
+      "de": "The Beekeeper",
+      "el": "Ο Μελισσοκόμος",
+      "es": "Beekeeper: El protector",
+      "fr": "Le gardien",
+      "he": "הכוורן",
+      "hi": "The Beekeeper",
+      "ja": "ビーキーパー",
+      "ko": "비키퍼",
+      "ru": "Пчеловод",
+      "zh": "蜂神惡殺"
+    }
   },
   {
     "celebrity": "Superman",
@@ -1590,7 +4406,23 @@
       "Its clues draw from the setting, central conflict, and memorable screen imagery rather than the name.",
       "Look for the kind of characters, setting, and genre situation that fans associate with it.",
       "The best hint is the mood: a recognizable mix of stakes, visual style, and repeated pop-culture references."
-    ]
+    ],
+    "tmdb_id": 1061474,
+    "media_type": "movie",
+    "localized_titles": {
+      "am": "Superman",
+      "ar": "سوبرمان",
+      "de": "Superman",
+      "el": "Superman",
+      "es": "Superman",
+      "fr": "Superman",
+      "he": "סופרמן",
+      "hi": "सुपरमैन",
+      "ja": "スーパーマン",
+      "ko": "슈퍼맨",
+      "ru": "Супермен",
+      "zh": "超人"
+    }
   },
   {
     "celebrity": "The Bride",
@@ -1599,7 +4431,23 @@
       "Its clues draw from the setting, central conflict, and memorable screen imagery rather than the name.",
       "Look for the kind of characters, setting, and genre situation that fans associate with it.",
       "The best hint is the mood: a recognizable mix of stakes, visual style, and repeated pop-culture references."
-    ]
+    ],
+    "tmdb_id": 1159831,
+    "media_type": "movie",
+    "localized_titles": {
+      "am": "The Bride",
+      "ar": "The Bride",
+      "de": "The Bride! - Es lebe die Braut",
+      "el": "Η Νύφη!",
+      "es": "¡La novia!",
+      "fr": "La fiancée !",
+      "he": "הכלה!",
+      "hi": "The Bride",
+      "ja": "ザ・ブライド！",
+      "ko": "브라이드!",
+      "ru": "Невеста!",
+      "zh": "暗黑新娘！"
+    }
   },
   {
     "celebrity": "The Lord of the Rings the Fellowship of the Ring",
@@ -1608,7 +4456,23 @@
       "Its clues draw from the setting, central conflict, and memorable screen imagery rather than the name.",
       "Look for the kind of characters, setting, and genre situation that fans associate with it.",
       "The best hint is the mood: a recognizable mix of stakes, visual style, and repeated pop-culture references."
-    ]
+    ],
+    "tmdb_id": 120,
+    "media_type": "movie",
+    "localized_titles": {
+      "am": "The Lord of the Rings the Fellowship of the Ring",
+      "ar": "سيد الخواتم: رفقة الخاتم ‏",
+      "de": "Der Herr der Ringe - Die Gefährten",
+      "el": "Ο Άρχοντας των Δαχτυλιδιών: Η Συντροφιά του Δαχτυλιδιού",
+      "es": "El señor de los anillos: La comunidad del anillo",
+      "fr": "Le Seigneur des anneaux : La communauté de l'anneau",
+      "he": "שר הטבעות: אחוות הטבעת",
+      "hi": "दी लार्ड ऑफ दी रिंग्स: फैलोशिप ऑफ दी रिंग",
+      "ja": "ロード・オブ・ザ・リング",
+      "ko": "반지의 제왕: 반지 원정대",
+      "ru": "Властелин колец: Братство кольца",
+      "zh": "魔戒首部曲：魔戒現身"
+    }
   },
   {
     "celebrity": "Mortal Kombat",
@@ -1617,7 +4481,23 @@
       "Its clues draw from the setting, central conflict, and memorable screen imagery rather than the name.",
       "Look for the kind of characters, setting, and genre situation that fans associate with it.",
       "The best hint is the mood: a recognizable mix of stakes, visual style, and repeated pop-culture references."
-    ]
+    ],
+    "tmdb_id": 460465,
+    "media_type": "movie",
+    "localized_titles": {
+      "am": "Mortal Kombat",
+      "ar": "مورتال كومبات",
+      "de": "Mortal Kombat",
+      "el": "Mortal Kombat",
+      "es": "Mortal Kombat",
+      "fr": "Mortal Kombat",
+      "he": "מורטל קומבט",
+      "hi": "मॉर्टल कॉम्बैट",
+      "ja": "モータルコンバット",
+      "ko": "모탈 컴뱃",
+      "ru": "Мортал Комбат",
+      "zh": "真人快打"
+    }
   },
   {
     "celebrity": "Sisu Road to Revenge",
@@ -1626,7 +4506,23 @@
       "Its clues draw from the setting, central conflict, and memorable screen imagery rather than the name.",
       "Look for the kind of characters, setting, and genre situation that fans associate with it.",
       "The best hint is the mood: a recognizable mix of stakes, visual style, and repeated pop-culture references."
-    ]
+    ],
+    "tmdb_id": 1223601,
+    "media_type": "movie",
+    "localized_titles": {
+      "am": "Sisu Road to Revenge",
+      "ar": "سيسو: الطريق إلى الإنتقام",
+      "de": "Sisu: Road to Revenge",
+      "el": "Sisu 2: Ο Δρόμος της Εκδίκησης",
+      "es": "Sisu: Camino a la venganza",
+      "fr": "Sisu : Le Chemin de la vengeance",
+      "he": "סיסו: הדרך לנקמה",
+      "hi": "सिसु: रोड टू रिवेंज",
+      "ja": "SISU/シス 復讐の血闘",
+      "ko": "시수: 복수의 길",
+      "ru": "Бессмертный: Кровавая дорога домой",
+      "zh": "黃金硬漢：殺出血路"
+    }
   },
   {
     "celebrity": "Peaky Blinders the Immortal Man",
@@ -1635,7 +4531,23 @@
       "Its clues draw from the setting, central conflict, and memorable screen imagery rather than the name.",
       "Look for the kind of characters, setting, and genre situation that fans associate with it.",
       "The best hint is the mood: a recognizable mix of stakes, visual style, and repeated pop-culture references."
-    ]
+    ],
+    "tmdb_id": 875828,
+    "media_type": "movie",
+    "localized_titles": {
+      "am": "Peaky Blinders the Immortal Man",
+      "ar": "بيكي بلايندرز: الرجل الخالد",
+      "de": "Peaky Blinders – The Immortal Man",
+      "el": "Peaky Blinders: Ο Αθάνατος",
+      "es": "Peaky Blinders: El hombre inmortal",
+      "fr": "Peaky Blinders : L'Immortel",
+      "he": "כנופיית ברמינגהם: בן אלמוות",
+      "hi": "पीकी ब्लाइंडर्स: द इम्मॉर्टल मैन",
+      "ja": "ピーキー・ブラインダーズ: 不滅の男",
+      "ko": "피키 블라인더스: 불멸의 남자",
+      "ru": "Острые козырьки: бессмертный",
+      "zh": "浴血黑帮：不朽传奇"
+    }
   },
   {
     "celebrity": "Schindlers List",
@@ -1644,7 +4556,23 @@
       "Its clues draw from the setting, central conflict, and memorable screen imagery rather than the name.",
       "Look for the kind of characters, setting, and genre situation that fans associate with it.",
       "The best hint is the mood: a recognizable mix of stakes, visual style, and repeated pop-culture references."
-    ]
+    ],
+    "tmdb_id": 424,
+    "media_type": "movie",
+    "localized_titles": {
+      "am": "Schindlers List",
+      "ar": "قائمة شندلر",
+      "de": "Schindlers Liste",
+      "el": "Η Λίστα του Σίντλερ",
+      "es": "La Lista de Schindler",
+      "fr": "La liste de Schindler",
+      "he": "רשימת שינדלר",
+      "hi": "शिन्लडर्स लिस्ट",
+      "ja": "シンドラーのリスト",
+      "ko": "쉰들러 리스트",
+      "ru": "Список Шиндлера",
+      "zh": "舒特拉的名單"
+    }
   },
   {
     "celebrity": "The Amateur",
@@ -1653,7 +4581,23 @@
       "Its clues draw from the setting, central conflict, and memorable screen imagery rather than the name.",
       "Look for the kind of characters, setting, and genre situation that fans associate with it.",
       "The best hint is the mood: a recognizable mix of stakes, visual style, and repeated pop-culture references."
-    ]
+    ],
+    "tmdb_id": 1087891,
+    "media_type": "movie",
+    "localized_titles": {
+      "am": "The Amateur",
+      "ar": "الهاوي",
+      "de": "The Amateur",
+      "el": "Ο Ερασιτέχνης",
+      "es": "El amateur: Operación venganza",
+      "fr": "L'amateur",
+      "he": "החובבן",
+      "hi": "The Amateur",
+      "ja": "アマチュア",
+      "ko": "아마추어",
+      "ru": "Новичок",
+      "zh": "谍网追凶"
+    }
   },
   {
     "celebrity": "Five Nights at Freddys 2",
@@ -1662,7 +4606,23 @@
       "Its clues draw from the setting, central conflict, and memorable screen imagery rather than the name.",
       "Look for the kind of characters, setting, and genre situation that fans associate with it.",
       "The best hint is the mood: a recognizable mix of stakes, visual style, and repeated pop-culture references."
-    ]
+    ],
+    "tmdb_id": 1228246,
+    "media_type": "movie",
+    "localized_titles": {
+      "am": "Five Nights at Freddys 2",
+      "ar": "خمس ليالٍ في فريدي 2",
+      "de": "Five Nights at Freddys 2",
+      "el": "Πέντε Νύχτες στου Φρέντι 2",
+      "es": "Five Nights at Freddys 2",
+      "fr": "Cinq nuits chez Freddy 2",
+      "he": "חמישה לילות אצל פרדי 2",
+      "hi": "Five Nights at Freddys 2",
+      "ja": "ファイブ・ナイツ・アット・フレディーズ２",
+      "ko": "프레디의 피자가게 2",
+      "ru": "Пять ночей с Фредди 2",
+      "zh": "佛萊迪餐館之五夜驚魂2"
+    }
   },
   {
     "celebrity": "Despicable Me 4",
@@ -1671,7 +4631,23 @@
       "Its clues draw from the setting, central conflict, and memorable screen imagery rather than the name.",
       "Look for the kind of characters, setting, and genre situation that fans associate with it.",
       "The best hint is the mood: a recognizable mix of stakes, visual style, and repeated pop-culture references."
-    ]
+    ],
+    "tmdb_id": 519182,
+    "media_type": "movie",
+    "localized_titles": {
+      "am": "Despicable Me 4",
+      "ar": "الحقير أنا 4",
+      "de": "Ich - Einfach unverbesserlich 4",
+      "el": "Εγώ, ο Απαισιότατος 4",
+      "es": "Gru 4. Mi villano favorito",
+      "fr": "Détestable moi 4",
+      "he": "גנוב על החיים",
+      "hi": "Despicable Me 4",
+      "ja": "怪盗グルーのミニオン超変身",
+      "ko": "슈퍼배드 4",
+      "ru": "Гадкий я 4",
+      "zh": "神偷奶爸4"
+    }
   },
   {
     "celebrity": "Good Luck Have Fun Dont Die",
@@ -1680,7 +4656,23 @@
       "Its clues draw from the setting, central conflict, and memorable screen imagery rather than the name.",
       "Look for the kind of characters, setting, and genre situation that fans associate with it.",
       "The best hint is the mood: a recognizable mix of stakes, visual style, and repeated pop-culture references."
-    ]
+    ],
+    "tmdb_id": 1119449,
+    "media_type": "movie",
+    "localized_titles": {
+      "am": "Good Luck Have Fun Dont Die",
+      "ar": "حظاً موفقاً، استمتع بوقتك، لا تموت",
+      "de": "Good Luck Have Fun Dont Die",
+      "el": "Good Luck Have Fun Dont Die",
+      "es": "Buena suerte, diviértete, no mueras",
+      "fr": "Good Luck Have Fun Dont Die",
+      "he": "בהצלחה, תהנו, אל תמותו",
+      "hi": "Good Luck Have Fun Dont Die",
+      "ja": "Good Luck Have Fun Dont Die",
+      "ko": "굿 럭, 해브 펀, 돈 다이",
+      "ru": "Удачи, веселья, не сдохни",
+      "zh": "團戰之夜"
+    }
   },
   {
     "celebrity": "Outcome",
@@ -1689,7 +4681,23 @@
       "Its clues draw from the setting, central conflict, and memorable screen imagery rather than the name.",
       "Look for the kind of characters, setting, and genre situation that fans associate with it.",
       "The best hint is the mood: a recognizable mix of stakes, visual style, and repeated pop-culture references."
-    ]
+    ],
+    "tmdb_id": 1049471,
+    "media_type": "movie",
+    "localized_titles": {
+      "am": "Outcome",
+      "ar": "Outcome",
+      "de": "Outcome",
+      "el": "Συνέπειες",
+      "es": "Outcome",
+      "fr": "Chantage",
+      "he": "Outcome",
+      "hi": "आउटकम",
+      "ja": "アウトカム",
+      "ko": "'부메랑' - Outcome",
+      "ru": "Последствия",
+      "zh": "星途恶果"
+    }
   },
   {
     "celebrity": "Ready or Not",
@@ -1698,7 +4706,23 @@
       "Its clues draw from the setting, central conflict, and memorable screen imagery rather than the name.",
       "Look for the kind of characters, setting, and genre situation that fans associate with it.",
       "The best hint is the mood: a recognizable mix of stakes, visual style, and repeated pop-culture references."
-    ]
+    ],
+    "tmdb_id": 567609,
+    "media_type": "movie",
+    "localized_titles": {
+      "am": "Ready or Not",
+      "ar": "جاهزة أم لا",
+      "de": "Ready or Not - Auf die Plätze, fertig, tot",
+      "el": "Είσαι Έτοιμος;",
+      "es": "Boda Sangrienta",
+      "fr": "Prêt pas prêt",
+      "he": "מי שעומד מאחורי...",
+      "hi": "Ready or Not",
+      "ja": "レディ・オア・ノット",
+      "ko": "레디 오어 낫",
+      "ru": "Я иду искать",
+      "zh": "爆血新婚夜"
+    }
   },
   {
     "celebrity": "Our Fault",
@@ -1707,7 +4731,23 @@
       "Its clues draw from the setting, central conflict, and memorable screen imagery rather than the name.",
       "Look for the kind of characters, setting, and genre situation that fans associate with it.",
       "The best hint is the mood: a recognizable mix of stakes, visual style, and repeated pop-culture references."
-    ]
+    ],
+    "tmdb_id": 1156594,
+    "media_type": "movie",
+    "localized_titles": {
+      "am": "Our Fault",
+      "ar": "خطؤنا",
+      "de": "Culpa Nuestra - Unsere Schuld",
+      "el": "Our Fault",
+      "es": "Our Fault",
+      "fr": "À contre-sens 3",
+      "he": "אשמתנו",
+      "hi": "आवर फ़ॉल्ट",
+      "ja": "私たちの過ち",
+      "ko": "우리의 잘못",
+      "ru": "Наша вина",
+      "zh": "我們的錯"
+    }
   },
   {
     "celebrity": "Exit 8",
@@ -1716,7 +4756,23 @@
       "Its clues draw from the setting, central conflict, and memorable screen imagery rather than the name.",
       "Look for the kind of characters, setting, and genre situation that fans associate with it.",
       "The best hint is the mood: a recognizable mix of stakes, visual style, and repeated pop-culture references."
-    ]
+    ],
+    "tmdb_id": 1408208,
+    "media_type": "movie",
+    "localized_titles": {
+      "am": "Exit 8",
+      "ar": "مخرج 8",
+      "de": "Exit 8",
+      "el": "Exit 8",
+      "es": "Exit 8",
+      "fr": "Exit 8",
+      "he": "יציאה 8",
+      "hi": "Exit 8",
+      "ja": "Exit 8",
+      "ko": "8번 출구",
+      "ru": "Выход 8",
+      "zh": "8號出口"
+    }
   },
   {
     "celebrity": "The Wolf of Wall Street",
@@ -1725,7 +4781,23 @@
       "Its clues draw from the setting, central conflict, and memorable screen imagery rather than the name.",
       "Look for the kind of characters, setting, and genre situation that fans associate with it.",
       "The best hint is the mood: a recognizable mix of stakes, visual style, and repeated pop-culture references."
-    ]
+    ],
+    "tmdb_id": 106646,
+    "media_type": "movie",
+    "localized_titles": {
+      "am": "The Wolf of Wall Street",
+      "ar": "ذئب وول ستريت",
+      "de": "The Wolf of Wall Street",
+      "el": "Ο Λύκος Της Wall Street",
+      "es": "El Lobo de Wall Street",
+      "fr": "Le loup de Wall Street",
+      "he": "הזאב מוול סטריט",
+      "hi": "द वुल्फ ऑफ वॉल स्ट्रीट",
+      "ja": "ウルフ・オブ・ウォールストリート",
+      "ko": "더 울프 오브 월 스트리트",
+      "ru": "Волк с Уолл-стрит",
+      "zh": "華爾街狼人"
+    }
   },
   {
     "celebrity": "Hunting Season",
@@ -1734,7 +4806,23 @@
       "Its clues draw from the setting, central conflict, and memorable screen imagery rather than the name.",
       "Look for the kind of characters, setting, and genre situation that fans associate with it.",
       "The best hint is the mood: a recognizable mix of stakes, visual style, and repeated pop-culture references."
-    ]
+    ],
+    "tmdb_id": 1387382,
+    "media_type": "movie",
+    "localized_titles": {
+      "am": "Hunting Season",
+      "ar": "موسم الصيد",
+      "de": "Hunting Season - Blutige Fährte",
+      "el": "Hunting Season",
+      "es": "Temporada de Sangre",
+      "fr": "Hunting Season",
+      "he": "עונת הציד",
+      "hi": "Hunting Season",
+      "ja": "Hunting Season",
+      "ko": "헌팅시즌",
+      "ru": "Сезон охоты",
+      "zh": "狩猎季"
+    }
   },
   {
     "celebrity": "Mission Impossible the Final Reckoning",
@@ -1743,7 +4831,23 @@
       "Its clues draw from the setting, central conflict, and memorable screen imagery rather than the name.",
       "Look for the kind of characters, setting, and genre situation that fans associate with it.",
       "The best hint is the mood: a recognizable mix of stakes, visual style, and repeated pop-culture references."
-    ]
+    ],
+    "tmdb_id": 575265,
+    "media_type": "movie",
+    "localized_titles": {
+      "am": "Mission Impossible the Final Reckoning",
+      "ar": "المهمة المستحيلة - الحساب النهائي",
+      "de": "Mission: Impossible - The Final Reckoning",
+      "el": "Επικίνδυνη Αποστολή: Η Έσχατη Τιμωρία",
+      "es": "Misión: Imposible - Sentencia final",
+      "fr": "Mission : Impossible - Bilan Final",
+      "he": "משימה בלתי אפשרית: חשבון סופי",
+      "hi": "मिशनः इम्पॉसिबल - द फाइनल रेकनिंग",
+      "ja": "ミッション：インポッシブル／ファイナル・レコニング",
+      "ko": "미션 임파서블: 파이널 레코닝",
+      "ru": "Миссия невыполнима: Финальная расплата",
+      "zh": "不可能的任務：最終清算"
+    }
   },
   {
     "celebrity": "Wicked",
@@ -1752,7 +4856,23 @@
       "Its clues draw from the setting, central conflict, and memorable screen imagery rather than the name.",
       "Look for the kind of characters, setting, and genre situation that fans associate with it.",
       "The best hint is the mood: a recognizable mix of stakes, visual style, and repeated pop-culture references."
-    ]
+    ],
+    "tmdb_id": 402431,
+    "media_type": "movie",
+    "localized_titles": {
+      "am": "Wicked",
+      "ar": "Wicked",
+      "de": "Wicked",
+      "el": "Wicked",
+      "es": "Wicked",
+      "fr": "Wicked",
+      "he": "מרשעת",
+      "hi": "Wicked",
+      "ja": "ウィキッド ふたりの魔女",
+      "ko": "위키드",
+      "ru": "Злая: Сказка о ведьме Запада",
+      "zh": "魔法壞女巫"
+    }
   },
   {
     "celebrity": "A Minecraft Movie",
@@ -1761,7 +4881,23 @@
       "Its clues draw from the setting, central conflict, and memorable screen imagery rather than the name.",
       "Look for the kind of characters, setting, and genre situation that fans associate with it.",
       "The best hint is the mood: a recognizable mix of stakes, visual style, and repeated pop-culture references."
-    ]
+    ],
+    "tmdb_id": 950387,
+    "media_type": "movie",
+    "localized_titles": {
+      "am": "A Minecraft Movie",
+      "ar": "فيلم ماينكرافت",
+      "de": "Ein Minecraft Film",
+      "el": "Μια Ταινία Minecraft",
+      "es": "Una película de Minecraft",
+      "fr": "Un film Minecraft",
+      "he": "מיינקראפט: הסרט",
+      "hi": "A Minecraft Movie",
+      "ja": "マインクラフト／ザ・ムービー",
+      "ko": "A MINECRAFT MOVIE 마인크래프트 무비",
+      "ru": "Minecraft в кино",
+      "zh": "MINECRAFT麥塊電影"
+    }
   },
   {
     "celebrity": "Dune Part Two",
@@ -1770,7 +4906,23 @@
       "Its clues draw from the setting, central conflict, and memorable screen imagery rather than the name.",
       "Look for the kind of characters, setting, and genre situation that fans associate with it.",
       "The best hint is the mood: a recognizable mix of stakes, visual style, and repeated pop-culture references."
-    ]
+    ],
+    "tmdb_id": 693134,
+    "media_type": "movie",
+    "localized_titles": {
+      "am": "Dune Part Two",
+      "ar": "كثيب: الجزء الثاني",
+      "de": "Dune Part Two",
+      "el": "Dune: Μέρος Δεύτερο",
+      "es": "Duna: Parte dos",
+      "fr": "Dune : Deuxième partie",
+      "he": "חולית: חלק שני",
+      "hi": "ड्यून: पार्ट टू",
+      "ja": "デューン 砂の惑星PART2",
+      "ko": "듄: 파트 2",
+      "ru": "Дюна: Часть вторая",
+      "zh": "沙丘瀚戰：第二章"
+    }
   },
   {
     "celebrity": "Spider Man Homecoming",
@@ -1779,7 +4931,23 @@
       "Its clues draw from the setting, central conflict, and memorable screen imagery rather than the name.",
       "Look for the kind of characters, setting, and genre situation that fans associate with it.",
       "The best hint is the mood: a recognizable mix of stakes, visual style, and repeated pop-culture references."
-    ]
+    ],
+    "tmdb_id": 315635,
+    "media_type": "movie",
+    "localized_titles": {
+      "am": "Spider Man Homecoming",
+      "ar": "الرجل العنكبوت: العودة للوطن",
+      "de": "Spider-Man: Homecoming",
+      "el": "Spider-Man: Η Επιστροφή στον Τόπο του",
+      "es": "Spider-Man: De regreso a casa",
+      "fr": "Spider-man : Les retrouvailles",
+      "he": "ספיידרמן: השיבה הביתה",
+      "hi": "स्पाइडर-मैन: होमकमिंग",
+      "ja": "スパイダーマン：ホームカミング",
+      "ko": "스파이더맨: 홈커밍",
+      "ru": "Человек-паук: Возвращение домой",
+      "zh": "蜘蛛侠：英雄归来"
+    }
   },
   {
     "celebrity": "Avatar the Way of Water",
@@ -1788,7 +4956,23 @@
       "Its clues draw from the setting, central conflict, and memorable screen imagery rather than the name.",
       "Look for the kind of characters, setting, and genre situation that fans associate with it.",
       "The best hint is the mood: a recognizable mix of stakes, visual style, and repeated pop-culture references."
-    ]
+    ],
+    "tmdb_id": 76600,
+    "media_type": "movie",
+    "localized_titles": {
+      "am": "Avatar the Way of Water",
+      "ar": "أفاتار: طريق المياه",
+      "de": "Avatar the Way of Water",
+      "el": "Avatar the Way of Water",
+      "es": "Avatar: El camino del agua",
+      "fr": "Avatar : La voie de l'eau",
+      "he": "אווטאר: דרכם של המים",
+      "hi": "अवतार: द वे ऑफ़ वॉटर",
+      "ja": "アバター：ウェイ・オブ・ウォーター",
+      "ko": "아바타: 물의 길",
+      "ru": "Аватар: Путь воды",
+      "zh": "阿凡達：水之道"
+    }
   },
   {
     "celebrity": "The Wild Robot",
@@ -1797,6 +4981,22 @@
       "Its clues draw from the setting, central conflict, and memorable screen imagery rather than the name.",
       "Look for the kind of characters, setting, and genre situation that fans associate with it.",
       "The best hint is the mood: a recognizable mix of stakes, visual style, and repeated pop-culture references."
-    ]
+    ],
+    "tmdb_id": 1184918,
+    "media_type": "movie",
+    "localized_titles": {
+      "am": "The Wild Robot",
+      "ar": "الروبوت البري",
+      "de": "Der wilde Roboter",
+      "el": "Το Ατίθασο Ρομπότ",
+      "es": "Robot salvaje",
+      "fr": "Robot sauvage",
+      "he": "רוז הרובוטית",
+      "hi": "द वाइल्ड रोबोट",
+      "ja": "野生の島のロズ",
+      "ko": "와일드 로봇",
+      "ru": "Дикий робот",
+      "zh": "荒野機械人"
+    }
   }
 ]

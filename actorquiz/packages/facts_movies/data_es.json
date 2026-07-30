@@ -1,30 +1,36 @@
 [
   {
-    "celebrity": "The Godfather",
+    "celebrity": "El Padrino",
     "gender": "",
     "facts": [
       "Una familia criminal intenta mantener el poder mientras el reacio hijo menor se involucra en el negocio.",
       "Una cabeza de caballo en una cama se convirtió en una de las escenas de intimidación más famosas del cine.",
       "La historia mezcla bodas, venganzas en restaurantes, lealtades del viejo mundo y una silenciosa transformación en un jefe despiadado."
-    ]
+    ],
+    "tmdb_id": 238,
+    "media_type": "movie"
   },
   {
-    "celebrity": "The Dark Knight",
+    "celebrity": "Batman: El caballero de la noche",
     "gender": "",
     "facts": [
       "Un justiciero enmascarado se enfrenta a un agente del caos que convierte la moral pública en un experimento cruel.",
       "Un fiscal de distrito con cicatrices se convierte en el centro emocional del colapso de la ciudad.",
       "Su apertura del robo a un banco y su truco con el lápiz se convirtieron instantáneamente en hitos del thriller criminal moderno."
-    ]
+    ],
+    "tmdb_id": 155,
+    "media_type": "movie"
   },
   {
-    "celebrity": "Pulp Fiction",
+    "celebrity": "Tiempos Violentos",
     "gender": "",
     "facts": [
       "La historia salta en el tiempo con sicarios, un boxeador, un maletín misterioso y un atraco en un restaurante.",
       "Un concurso de baile, una caja brillante y un reloj escondido en un lugar incómodo, todo importa.",
       "Su diálogo convierte la comida rápida, los masajes en los pies y la intervención divina en pistas de la cultura pop."
-    ]
+    ],
+    "tmdb_id": 680,
+    "media_type": "movie"
   },
   {
     "celebrity": "Forrest Gump",
@@ -33,61 +39,75 @@
       "Un caballero recorre accidentalmente décadas de historia estadounidense.",
       "Correr, botes camaroneros, ping-pong y una caja de chocolates son pistas importantes.",
       "La historia de amor de toda la vida del héroe transcurre junto a guerras, protestas, presidentes y un banco famoso."
-    ]
+    ],
+    "tmdb_id": 13,
+    "media_type": "movie"
   },
   {
-    "celebrity": "Inception",
+    "celebrity": "El Origen",
     "gender": "",
     "facts": [
       "Los especialistas entran en sueños estratificados para plantar una idea en lugar de robarla.",
       "Una peonza, calles plegables y una pelea en el pasillo sin gravedad son pistas visuales importantes.",
       "El atraco central depende de los niveles de sueño, la dilatación del tiempo y el dolor que sigue invadiendo la misión."
-    ]
+    ],
+    "tmdb_id": 27205,
+    "media_type": "movie"
   },
   {
-    "celebrity": "Fight Club",
+    "celebrity": "El Club de la Pelea",
     "gender": "",
     "facts": [
       "Un narrador insomne ​​se une a un movimiento clandestino construido en torno a la violencia a puño limpio.",
       "El jabón, los grupos de apoyo y un carismático extraño anticonsumista son pistas centrales.",
       "El giro más grande reformula los moretones, las reglas y el plan para borrar los registros financieros."
-    ]
+    ],
+    "tmdb_id": 550,
+    "media_type": "movie"
   },
   {
-    "celebrity": "The Matrix",
+    "celebrity": "Matrix",
     "gender": "",
     "facts": [
       "Un hacker descubre que la vida cotidiana es una prisión simulada controlada por máquinas.",
       "Las pastillas rojas y azules, los abrigos negros, la forma de esquivar balas y la lluvia de códigos verdes son pistas distintivas.",
       "Su acción utiliza profecía, descargas de kung fu y agentes que infringen las reglas de la realidad."
-    ]
+    ],
+    "tmdb_id": 603,
+    "media_type": "movie"
   },
   {
-    "celebrity": "Goodfellas",
+    "celebrity": "Buenos Muchachos",
     "gender": "",
     "facts": [
       "Sus pistas se derivan del escenario, el conflicto central y las imágenes memorables de la pantalla más que del nombre.",
       "Busque el tipo de personajes, escenario y situación de género que los fanáticos asocian con él.",
       "La mejor pista es el estado de ánimo: una mezcla reconocible de lo que está en juego, estilo visual y referencias repetidas a la cultura pop."
-    ]
+    ],
+    "tmdb_id": 769,
+    "media_type": "movie"
   },
   {
-    "celebrity": "The Shawshank Redemption",
+    "celebrity": "Sueño de fuga",
     "gender": "",
     "facts": [
       "Sus pistas se derivan del escenario, el conflicto central y las imágenes memorables de la pantalla más que del nombre.",
       "Busque el tipo de personajes, escenario y situación de género que los fanáticos asocian con él.",
       "La mejor pista es el estado de ánimo: una mezcla reconocible de lo que está en juego, estilo visual y referencias repetidas a la cultura pop."
-    ]
+    ],
+    "tmdb_id": 278,
+    "media_type": "movie"
   },
   {
-    "celebrity": "Jurassic Park",
+    "celebrity": "Parque Jurásico",
     "gender": "",
     "facts": [
       "Una atracción multimillonaria intenta revivir criaturas prehistóricas con ciencia y espectáculo.",
       "Un vaso de agua ondeando ante unas pisadas gigantes es una de sus pistas más claras.",
       "El caos comienza cuando las cercas fallan, las aves rapaces cazan en las cocinas y la naturaleza se niega a permanecer controlada."
-    ]
+    ],
+    "tmdb_id": 329,
+    "media_type": "movie"
   },
   {
     "celebrity": "Titanic",
@@ -96,52 +116,64 @@
       "Un romance prohibido se desarrolla a bordo de un lujoso transatlántico condenado al fracaso.",
       "Un diamante azul, una gran escalera y una escena de dibujo son pistas clave.",
       "Su historia de desastre convierte las divisiones de clases, el agua helada y una puerta flotante en imágenes duraderas."
-    ]
+    ],
+    "tmdb_id": 597,
+    "media_type": "movie"
   },
   {
-    "celebrity": "Back to the Future",
+    "celebrity": "Volver al Futuro",
     "gender": "",
     "facts": [
       "Un adolescente viaja a través de décadas en un auto deportivo modificado impulsado por ciencia salvaje.",
       "Una torre de reloj, un rayo y una foto familiar que se desvanece impulsan lo que está en juego.",
       "El héroe debe reparar el romance de sus padres antes de que su propia existencia desaparezca."
-    ]
+    ],
+    "tmdb_id": 105,
+    "media_type": "movie"
   },
   {
-    "celebrity": "The Lord of the Rings",
+    "celebrity": "El Señor de los Anillos",
     "gender": "",
     "facts": [
       "Sus pistas se derivan del escenario, el conflicto central y las imágenes memorables de la pantalla más que del nombre.",
       "Busque el tipo de personajes, escenario y situación de género que los fanáticos asocian con él.",
       "La mejor pista es el estado de ánimo: una mezcla reconocible de lo que está en juego, estilo visual y referencias repetidas a la cultura pop."
-    ]
+    ],
+    "tmdb_id": 123,
+    "media_type": "movie"
   },
   {
-    "celebrity": "Harry Potter",
+    "celebrity": "Harry Potter y la piedra filosofal",
     "gender": "",
     "facts": [
       "Un huérfano descubre una escuela mágica oculta, una cicatriz y un destino ligado a un mago oscuro.",
       "Las varitas mágicas, las bufandas de la casa, las escaleras móviles y los deportes con escobas voladoras son pistas importantes.",
       "La historia pasa de misterios en el aula a una guerra por los linajes, la lealtad y la inmortalidad."
-    ]
+    ],
+    "tmdb_id": 671,
+    "media_type": "movie"
   },
   {
-    "celebrity": "Star Wars",
+    "celebrity": "La guerra de las galaxias",
     "gender": "",
     "facts": [
       "Granjeros, contrabandistas, princesas y guerreros con túnicas se enfrentan en una rebelión de ópera espacial.",
       "Espadas brillantes, máscaras respiratorias, planetas desérticos y pequeños cazas estelares son pistas importantes.",
       "Su familia revela y su campo de energía místico dio forma a una mitología de gran éxito durante décadas."
-    ]
+    ],
+    "tmdb_id": 11,
+    "media_type": "movie"
   },
   {
-    "celebrity": "Indiana Jones",
+    "celebrity": "Los cazadores del arca perdida",
     "gender": "",
     "facts": [
       "Sus pistas se derivan del escenario, el conflicto central y las imágenes memorables de la pantalla más que del nombre.",
       "Busque el tipo de personajes, escenario y situación de género que los fanáticos asocian con él.",
       "La mejor pista es el estado de ánimo: una mezcla reconocible de lo que está en juego, estilo visual y referencias repetidas a la cultura pop."
-    ]
+    ],
+    "tmdb_id": 85,
+    "media_type": "movie"
   },
   {
     "celebrity": "Rocky",
@@ -150,106 +182,130 @@
       "Sus pistas se derivan del escenario, el conflicto central y las imágenes memorables de la pantalla más que del nombre.",
       "Busque el tipo de personajes, escenario y situación de género que los fanáticos asocian con él.",
       "La mejor pista es el estado de ánimo: una mezcla reconocible de lo que está en juego, estilo visual y referencias repetidas a la cultura pop."
-    ]
+    ],
+    "tmdb_id": 1366,
+    "media_type": "movie"
   },
   {
-    "celebrity": "Jaws",
+    "celebrity": "Tiburón",
     "gender": "",
     "facts": [
       "Una ciudad costera está aterrorizada por un enorme depredador mientras los funcionarios se preocupan por la temporada turística.",
       "Una advertencia musical de dos notas se hizo más famosa que muchos sustos en pantalla.",
       "La caza final une en el mar a un jefe de policía, un científico y un capitán de barco canoso."
-    ]
+    ],
+    "tmdb_id": 578,
+    "media_type": "movie"
   },
   {
-    "celebrity": "Alien",
+    "celebrity": "Alien: El Octavo Pasajero",
     "gender": "",
     "facts": [
       "Una tripulación minera responde a una señal de socorro y trae algo mortal a su barco.",
       "Abrazar la cara, reventar el pecho, sangre ácida y pasillos industriales son pistas importantes.",
       "Su horror proviene del aislamiento en el espacio y de una criatura diseñada para sentirse tanto mecánica como biológica."
-    ]
+    ],
+    "tmdb_id": 348,
+    "media_type": "movie"
   },
   {
-    "celebrity": "Terminator",
+    "celebrity": "Terminator: El Exterminador",
     "gender": "",
     "facts": [
       "Se envía una máquina asesina desde el futuro para cambiar el destino de una guerra que se avecina.",
       "Una chaqueta de cuero, una visión robótica roja y una caminata imparable son pistas importantes.",
       "La historia de la persecución convierte a una camarera en la clave para la supervivencia de la humanidad."
-    ]
+    ],
+    "tmdb_id": 218,
+    "media_type": "movie"
   },
   {
-    "celebrity": "Die Hard",
+    "celebrity": "Duro de matar",
     "gender": "",
     "facts": [
       "Sus pistas se derivan del escenario, el conflicto central y las imágenes memorables de la pantalla más que del nombre.",
       "Busque el tipo de personajes, escenario y situación de género que los fanáticos asocian con él.",
       "La mejor pista es el estado de ánimo: una mezcla reconocible de lo que está en juego, estilo visual y referencias repetidas a la cultura pop."
-    ]
+    ],
+    "tmdb_id": 562,
+    "media_type": "movie"
   },
   {
-    "celebrity": "Mad Max Fury Road",
+    "celebrity": "Mad Max: Furia en el camino",
     "gender": "",
     "facts": [
       "Sus pistas se derivan del escenario, el conflicto central y las imágenes memorables de la pantalla más que del nombre.",
       "Busque el tipo de personajes, escenario y situación de género que los fanáticos asocian con él.",
       "La mejor pista es el estado de ánimo: una mezcla reconocible de lo que está en juego, estilo visual y referencias repetidas a la cultura pop."
-    ]
+    ],
+    "tmdb_id": 76341,
+    "media_type": "movie"
   },
   {
-    "celebrity": "Gladiator",
+    "celebrity": "Gladiador",
     "gender": "",
     "facts": [
       "Sus pistas se derivan del escenario, el conflicto central y las imágenes memorables de la pantalla más que del nombre.",
       "Busque el tipo de personajes, escenario y situación de género que los fanáticos asocian con él.",
       "La mejor pista es el estado de ánimo: una mezcla reconocible de lo que está en juego, estilo visual y referencias repetidas a la cultura pop."
-    ]
+    ],
+    "tmdb_id": 98,
+    "media_type": "movie"
   },
   {
-    "celebrity": "The Silence of the Lambs",
+    "celebrity": "El Silencio de los Inocentes",
     "gender": "",
     "facts": [
       "Sus pistas se derivan del escenario, el conflicto central y las imágenes memorables de la pantalla más que del nombre.",
       "Busque el tipo de personajes, escenario y situación de género que los fanáticos asocian con él.",
       "La mejor pista es el estado de ánimo: una mezcla reconocible de lo que está en juego, estilo visual y referencias repetidas a la cultura pop."
-    ]
+    ],
+    "tmdb_id": 274,
+    "media_type": "movie"
   },
   {
-    "celebrity": "Saving Private Ryan",
+    "celebrity": "Rescatando al soldado Ryan",
     "gender": "",
     "facts": [
       "Sus pistas se derivan del escenario, el conflicto central y las imágenes memorables de la pantalla más que del nombre.",
       "Busque el tipo de personajes, escenario y situación de género que los fanáticos asocian con él.",
       "La mejor pista es el estado de ánimo: una mezcla reconocible de lo que está en juego, estilo visual y referencias repetidas a la cultura pop."
-    ]
+    ],
+    "tmdb_id": 857,
+    "media_type": "movie"
   },
   {
-    "celebrity": "Braveheart",
+    "celebrity": "Corazón Valiente",
     "gender": "",
     "facts": [
       "Sus pistas se derivan del escenario, el conflicto central y las imágenes memorables de la pantalla más que del nombre.",
       "Busque el tipo de personajes, escenario y situación de género que los fanáticos asocian con él.",
       "La mejor pista es el estado de ánimo: una mezcla reconocible de lo que está en juego, estilo visual y referencias repetidas a la cultura pop."
-    ]
+    ],
+    "tmdb_id": 197,
+    "media_type": "movie"
   },
   {
-    "celebrity": "The Departed",
+    "celebrity": "Los Infiltrados",
     "gender": "",
     "facts": [
       "Sus pistas se derivan del escenario, el conflicto central y las imágenes memorables de la pantalla más que del nombre.",
       "Busque el tipo de personajes, escenario y situación de género que los fanáticos asocian con él.",
       "La mejor pista es el estado de ánimo: una mezcla reconocible de lo que está en juego, estilo visual y referencias repetidas a la cultura pop."
-    ]
+    ],
+    "tmdb_id": 1422,
+    "media_type": "movie"
   },
   {
-    "celebrity": "Interstellar",
+    "celebrity": "Interestelar",
     "gender": "",
     "facts": [
       "Sus pistas se derivan del escenario, el conflicto central y las imágenes memorables de la pantalla más que del nombre.",
       "Busque el tipo de personajes, escenario y situación de género que los fanáticos asocian con él.",
       "La mejor pista es el estado de ánimo: una mezcla reconocible de lo que está en juego, estilo visual y referencias repetidas a la cultura pop."
-    ]
+    ],
+    "tmdb_id": 157336,
+    "media_type": "movie"
   },
   {
     "celebrity": "Avatar",
@@ -258,25 +314,31 @@
       "Sus pistas se derivan del escenario, el conflicto central y las imágenes memorables de la pantalla más que del nombre.",
       "Busque el tipo de personajes, escenario y situación de género que los fanáticos asocian con él.",
       "La mejor pista es el estado de ánimo: una mezcla reconocible de lo que está en juego, estilo visual y referencias repetidas a la cultura pop."
-    ]
+    ],
+    "tmdb_id": 19995,
+    "media_type": "movie"
   },
   {
-    "celebrity": "Black Panther",
+    "celebrity": "Pantera Negra",
     "gender": "",
     "facts": [
       "Sus pistas se derivan del escenario, el conflicto central y las imágenes memorables de la pantalla más que del nombre.",
       "Busque el tipo de personajes, escenario y situación de género que los fanáticos asocian con él.",
       "La mejor pista es el estado de ánimo: una mezcla reconocible de lo que está en juego, estilo visual y referencias repetidas a la cultura pop."
-    ]
+    ],
+    "tmdb_id": 284054,
+    "media_type": "movie"
   },
   {
-    "celebrity": "Avengers Endgame",
+    "celebrity": "Avengers: Endgame",
     "gender": "",
     "facts": [
       "Sus pistas se derivan del escenario, el conflicto central y las imágenes memorables de la pantalla más que del nombre.",
       "Busque el tipo de personajes, escenario y situación de género que los fanáticos asocian con él.",
       "La mejor pista es el estado de ánimo: una mezcla reconocible de lo que está en juego, estilo visual y referencias repetidas a la cultura pop."
-    ]
+    ],
+    "tmdb_id": 299534,
+    "media_type": "movie"
   },
   {
     "celebrity": "Toy Story",
@@ -285,16 +347,20 @@
       "Los juguetes de dormitorio cobran vida en secreto cuando los humanos no están mirando.",
       "Un líder vaquero se siente amenazado cuando llega un llamativo recién llegado con temática espacial.",
       "Máquinas de garras, camiones de mudanzas y un vecino que muta juguetes son pistas clave."
-    ]
+    ],
+    "tmdb_id": 862,
+    "media_type": "movie"
   },
   {
-    "celebrity": "Finding Nemo",
+    "celebrity": "Buscando a Nemo",
     "gender": "",
     "facts": [
       "Un padre ansioso cruza el océano después de que los buzos se llevan a su pequeño hijo.",
       "Un compañero azul olvidadizo, el acuario de un dentista y tortugas parecidas a surfistas son pistas importantes.",
       "Su viaje pasa de los arrecifes de coral a los campos de medusas y un plan de escape de un drenaje."
-    ]
+    ],
+    "tmdb_id": 12,
+    "media_type": "movie"
   },
   {
     "celebrity": "Shrek",
@@ -303,43 +369,53 @@
       "Un ogro amante de los pantanos se ve obligado a participar en una misión de rescate de cuento de hadas con un burro parlanchín.",
       "La princesa esconde un secreto nocturno que cambia el significado del amor verdadero.",
       "Sus chistes convierten castillos, maldiciones, misiones de torneos y criaturas de cuentos en parodias."
-    ]
+    ],
+    "tmdb_id": 808,
+    "media_type": "movie"
   },
   {
-    "celebrity": "Frozen",
+    "celebrity": "Frozen: Una Aventura Congelada",
     "gender": "",
     "facts": [
       "Dos hermanas reales están separadas por peligrosos poderes de hielo y años de miedo.",
       "Un muñeco de nieve viviente, un palacio de hielo en una montaña y una canción sobre dejarse llevar son pistas importantes.",
       "La solución emocional depende más de la hermandad que de un rescate romántico tradicional."
-    ]
+    ],
+    "tmdb_id": 109445,
+    "media_type": "movie"
   },
   {
-    "celebrity": "The Lion King",
+    "celebrity": "El rey león",
     "gender": "",
     "facts": [
       "Sus pistas se derivan del escenario, el conflicto central y las imágenes memorables de la pantalla más que del nombre.",
       "Busque el tipo de personajes, escenario y situación de género que los fanáticos asocian con él.",
       "La mejor pista es el estado de ánimo: una mezcla reconocible de lo que está en juego, estilo visual y referencias repetidas a la cultura pop."
-    ]
+    ],
+    "tmdb_id": 8587,
+    "media_type": "movie"
   },
   {
-    "celebrity": "Spirited Away",
+    "celebrity": "El viaje de Chihiro",
     "gender": "",
     "facts": [
       "Sus pistas se derivan del escenario, el conflicto central y las imágenes memorables de la pantalla más que del nombre.",
       "Busque el tipo de personajes, escenario y situación de género que los fanáticos asocian con él.",
       "La mejor pista es el estado de ánimo: una mezcla reconocible de lo que está en juego, estilo visual y referencias repetidas a la cultura pop."
-    ]
+    ],
+    "tmdb_id": 129,
+    "media_type": "movie"
   },
   {
-    "celebrity": "Parasite",
+    "celebrity": "Parásitos",
     "gender": "",
     "facts": [
       "Sus pistas se derivan del escenario, el conflicto central y las imágenes memorables de la pantalla más que del nombre.",
       "Busque el tipo de personajes, escenario y situación de género que los fanáticos asocian con él.",
       "La mejor pista es el estado de ánimo: una mezcla reconocible de lo que está en juego, estilo visual y referencias repetidas a la cultura pop."
-    ]
+    ],
+    "tmdb_id": 496243,
+    "media_type": "movie"
   },
   {
     "celebrity": "Oppenheimer",
@@ -348,7 +424,9 @@
       "Sus pistas se derivan del escenario, el conflicto central y las imágenes memorables de la pantalla más que del nombre.",
       "Busque el tipo de personajes, escenario y situación de género que los fanáticos asocian con él.",
       "La mejor pista es el estado de ánimo: una mezcla reconocible de lo que está en juego, estilo visual y referencias repetidas a la cultura pop."
-    ]
+    ],
+    "tmdb_id": 872585,
+    "media_type": "movie"
   },
   {
     "celebrity": "Barbie",
@@ -357,16 +435,20 @@
       "Sus pistas se derivan del escenario, el conflicto central y las imágenes memorables de la pantalla más que del nombre.",
       "Busque el tipo de personajes, escenario y situación de género que los fanáticos asocian con él.",
       "La mejor pista es el estado de ánimo: una mezcla reconocible de lo que está en juego, estilo visual y referencias repetidas a la cultura pop."
-    ]
+    ],
+    "tmdb_id": 346698,
+    "media_type": "movie"
   },
   {
-    "celebrity": "Dune",
+    "celebrity": "Duna",
     "gender": "",
     "facts": [
       "Sus pistas se derivan del escenario, el conflicto central y las imágenes memorables de la pantalla más que del nombre.",
       "Busque el tipo de personajes, escenario y situación de género que los fanáticos asocian con él.",
       "La mejor pista es el estado de ánimo: una mezcla reconocible de lo que está en juego, estilo visual y referencias repetidas a la cultura pop."
-    ]
+    ],
+    "tmdb_id": 438631,
+    "media_type": "movie"
   },
   {
     "celebrity": "Top Gun Maverick",
@@ -375,43 +457,53 @@
       "Sus pistas se derivan del escenario, el conflicto central y las imágenes memorables de la pantalla más que del nombre.",
       "Busque el tipo de personajes, escenario y situación de género que los fanáticos asocian con él.",
       "La mejor pista es el estado de ánimo: una mezcla reconocible de lo que está en juego, estilo visual y referencias repetidas a la cultura pop."
-    ]
+    ],
+    "tmdb_id": 361743,
+    "media_type": "movie"
   },
   {
-    "celebrity": "Mission Impossible",
+    "celebrity": "Misión: Imposible",
     "gender": "",
     "facts": [
       "Sus pistas se derivan del escenario, el conflicto central y las imágenes memorables de la pantalla más que del nombre.",
       "Busque el tipo de personajes, escenario y situación de género que los fanáticos asocian con él.",
       "La mejor pista es el estado de ánimo: una mezcla reconocible de lo que está en juego, estilo visual y referencias repetidas a la cultura pop."
-    ]
+    ],
+    "tmdb_id": 954,
+    "media_type": "movie"
   },
   {
-    "celebrity": "John Wick",
+    "celebrity": "John Wick: Otro Día para Matar",
     "gender": "",
     "facts": [
       "Sus pistas se derivan del escenario, el conflicto central y las imágenes memorables de la pantalla más que del nombre.",
       "Busque el tipo de personajes, escenario y situación de género que los fanáticos asocian con él.",
       "La mejor pista es el estado de ánimo: una mezcla reconocible de lo que está en juego, estilo visual y referencias repetidas a la cultura pop."
-    ]
+    ],
+    "tmdb_id": 245891,
+    "media_type": "movie"
   },
   {
-    "celebrity": "The Hunger Games",
+    "celebrity": "Los juegos del hambre",
     "gender": "",
     "facts": [
       "Sus pistas se derivan del escenario, el conflicto central y las imágenes memorables de la pantalla más que del nombre.",
       "Busque el tipo de personajes, escenario y situación de género que los fanáticos asocian con él.",
       "La mejor pista es el estado de ánimo: una mezcla reconocible de lo que está en juego, estilo visual y referencias repetidas a la cultura pop."
-    ]
+    ],
+    "tmdb_id": 70160,
+    "media_type": "movie"
   },
   {
-    "celebrity": "Pirates of the Caribbean",
+    "celebrity": "Piratas del Caribe: La Maldición del Perla Negra",
     "gender": "",
     "facts": [
       "Sus pistas se derivan del escenario, el conflicto central y las imágenes memorables de la pantalla más que del nombre.",
       "Busque el tipo de personajes, escenario y situación de género que los fanáticos asocian con él.",
       "La mejor pista es el estado de ánimo: una mezcla reconocible de lo que está en juego, estilo visual y referencias repetidas a la cultura pop."
-    ]
+    ],
+    "tmdb_id": 22,
+    "media_type": "movie"
   },
   {
     "celebrity": "The Fast and the Furious",
@@ -420,34 +512,42 @@
       "Sus pistas se derivan del escenario, el conflicto central y las imágenes memorables de la pantalla más que del nombre.",
       "Busque el tipo de personajes, escenario y situación de género que los fanáticos asocian con él.",
       "La mejor pista es el estado de ánimo: una mezcla reconocible de lo que está en juego, estilo visual y referencias repetidas a la cultura pop."
-    ]
+    ],
+    "tmdb_id": 20174,
+    "media_type": "movie"
   },
   {
-    "celebrity": "Scream",
+    "celebrity": "Scream: Grita antes de morir",
     "gender": "",
     "facts": [
       "Sus pistas se derivan del escenario, el conflicto central y las imágenes memorables de la pantalla más que del nombre.",
       "Busque el tipo de personajes, escenario y situación de género que los fanáticos asocian con él.",
       "La mejor pista es el estado de ánimo: una mezcla reconocible de lo que está en juego, estilo visual y referencias repetidas a la cultura pop."
-    ]
+    ],
+    "tmdb_id": 4232,
+    "media_type": "movie"
   },
   {
-    "celebrity": "The Conjuring",
+    "celebrity": "El Conjuro",
     "gender": "",
     "facts": [
       "Sus pistas se derivan del escenario, el conflicto central y las imágenes memorables de la pantalla más que del nombre.",
       "Busque el tipo de personajes, escenario y situación de género que los fanáticos asocian con él.",
       "La mejor pista es el estado de ánimo: una mezcla reconocible de lo que está en juego, estilo visual y referencias repetidas a la cultura pop."
-    ]
+    ],
+    "tmdb_id": 138843,
+    "media_type": "movie"
   },
   {
-    "celebrity": "A Nightmare on Elm Street",
+    "celebrity": "Pesadilla en la calle del infierno",
     "gender": "",
     "facts": [
       "Sus pistas se derivan del escenario, el conflicto central y las imágenes memorables de la pantalla más que del nombre.",
       "Busque el tipo de personajes, escenario y situación de género que los fanáticos asocian con él.",
       "La mejor pista es el estado de ánimo: una mezcla reconocible de lo que está en juego, estilo visual y referencias repetidas a la cultura pop."
-    ]
+    ],
+    "tmdb_id": 377,
+    "media_type": "movie"
   },
   {
     "celebrity": "Halloween",
@@ -456,25 +556,31 @@
       "Sus pistas se derivan del escenario, el conflicto central y las imágenes memorables de la pantalla más que del nombre.",
       "Busque el tipo de personajes, escenario y situación de género que los fanáticos asocian con él.",
       "La mejor pista es el estado de ánimo: una mezcla reconocible de lo que está en juego, estilo visual y referencias repetidas a la cultura pop."
-    ]
+    ],
+    "tmdb_id": 948,
+    "media_type": "movie"
   },
   {
-    "celebrity": "Ghostbusters",
+    "celebrity": "Los Cazafantasmas",
     "gender": "",
     "facts": [
       "Sus pistas se derivan del escenario, el conflicto central y las imágenes memorables de la pantalla más que del nombre.",
       "Busque el tipo de personajes, escenario y situación de género que los fanáticos asocian con él.",
       "La mejor pista es el estado de ánimo: una mezcla reconocible de lo que está en juego, estilo visual y referencias repetidas a la cultura pop."
-    ]
+    ],
+    "tmdb_id": 620,
+    "media_type": "movie"
   },
   {
-    "celebrity": "Men in Black",
+    "celebrity": "Hombres de negro",
     "gender": "",
     "facts": [
       "Sus pistas se derivan del escenario, el conflicto central y las imágenes memorables de la pantalla más que del nombre.",
       "Busque el tipo de personajes, escenario y situación de género que los fanáticos asocian con él.",
       "La mejor pista es el estado de ánimo: una mezcla reconocible de lo que está en juego, estilo visual y referencias repetidas a la cultura pop."
-    ]
+    ],
+    "tmdb_id": 607,
+    "media_type": "movie"
   },
   {
     "celebrity": "Blade Runner",
@@ -483,7 +589,9 @@
       "Sus pistas se derivan del escenario, el conflicto central y las imágenes memorables de la pantalla más que del nombre.",
       "Busque el tipo de personajes, escenario y situación de género que los fanáticos asocian con él.",
       "La mejor pista es el estado de ánimo: una mezcla reconocible de lo que está en juego, estilo visual y referencias repetidas a la cultura pop."
-    ]
+    ],
+    "tmdb_id": 78,
+    "media_type": "movie"
   },
   {
     "celebrity": "Casino Royale",
@@ -492,124 +600,152 @@
       "Sus pistas se derivan del escenario, el conflicto central y las imágenes memorables de la pantalla más que del nombre.",
       "Busque el tipo de personajes, escenario y situación de género que los fanáticos asocian con él.",
       "La mejor pista es el estado de ánimo: una mezcla reconocible de lo que está en juego, estilo visual y referencias repetidas a la cultura pop."
-    ]
+    ],
+    "tmdb_id": 36557,
+    "media_type": "movie"
   },
   {
-    "celebrity": "La La Land",
+    "celebrity": "La La Land: Una historia de amor",
     "gender": "",
     "facts": [
       "Sus pistas se derivan del escenario, el conflicto central y las imágenes memorables de la pantalla más que del nombre.",
       "Busque el tipo de personajes, escenario y situación de género que los fanáticos asocian con él.",
       "La mejor pista es el estado de ánimo: una mezcla reconocible de lo que está en juego, estilo visual y referencias repetidas a la cultura pop."
-    ]
+    ],
+    "tmdb_id": 313369,
+    "media_type": "movie"
   },
   {
-    "celebrity": "Whiplash",
+    "celebrity": "Whiplash: Música y Obsesión",
     "gender": "",
     "facts": [
       "Sus pistas se derivan del escenario, el conflicto central y las imágenes memorables de la pantalla más que del nombre.",
       "Busque el tipo de personajes, escenario y situación de género que los fanáticos asocian con él.",
       "La mejor pista es el estado de ánimo: una mezcla reconocible de lo que está en juego, estilo visual y referencias repetidas a la cultura pop."
-    ]
+    ],
+    "tmdb_id": 244786,
+    "media_type": "movie"
   },
   {
-    "celebrity": "The Social Network",
+    "celebrity": "Red Social",
     "gender": "",
     "facts": [
       "Sus pistas se derivan del escenario, el conflicto central y las imágenes memorables de la pantalla más que del nombre.",
       "Busque el tipo de personajes, escenario y situación de género que los fanáticos asocian con él.",
       "La mejor pista es el estado de ánimo: una mezcla reconocible de lo que está en juego, estilo visual y referencias repetidas a la cultura pop."
-    ]
+    ],
+    "tmdb_id": 37799,
+    "media_type": "movie"
   },
   {
-    "celebrity": "The Prestige",
+    "celebrity": "El Gran Truco",
     "gender": "",
     "facts": [
       "Sus pistas se derivan del escenario, el conflicto central y las imágenes memorables de la pantalla más que del nombre.",
       "Busque el tipo de personajes, escenario y situación de género que los fanáticos asocian con él.",
       "La mejor pista es el estado de ánimo: una mezcla reconocible de lo que está en juego, estilo visual y referencias repetidas a la cultura pop."
-    ]
+    ],
+    "tmdb_id": 1124,
+    "media_type": "movie"
   },
   {
-    "celebrity": "Memento",
+    "celebrity": "Amnesia",
     "gender": "",
     "facts": [
       "Sus pistas se derivan del escenario, el conflicto central y las imágenes memorables de la pantalla más que del nombre.",
       "Busque el tipo de personajes, escenario y situación de género que los fanáticos asocian con él.",
       "La mejor pista es el estado de ánimo: una mezcla reconocible de lo que está en juego, estilo visual y referencias repetidas a la cultura pop."
-    ]
+    ],
+    "tmdb_id": 77,
+    "media_type": "movie"
   },
   {
-    "celebrity": "Se7en",
+    "celebrity": "Se7en: Los Siete Pecados Capitales",
     "gender": "",
     "facts": [
       "Sus pistas se derivan del escenario, el conflicto central y las imágenes memorables de la pantalla más que del nombre.",
       "Busque el tipo de personajes, escenario y situación de género que los fanáticos asocian con él.",
       "La mejor pista es el estado de ánimo: una mezcla reconocible de lo que está en juego, estilo visual y referencias repetidas a la cultura pop."
-    ]
+    ],
+    "tmdb_id": 807,
+    "media_type": "movie"
   },
   {
-    "celebrity": "No Country for Old Men",
+    "celebrity": "Sin lugar para los débiles",
     "gender": "",
     "facts": [
       "Sus pistas se derivan del escenario, el conflicto central y las imágenes memorables de la pantalla más que del nombre.",
       "Busque el tipo de personajes, escenario y situación de género que los fanáticos asocian con él.",
       "La mejor pista es el estado de ánimo: una mezcla reconocible de lo que está en juego, estilo visual y referencias repetidas a la cultura pop."
-    ]
+    ],
+    "tmdb_id": 6977,
+    "media_type": "movie"
   },
   {
-    "celebrity": "There Will Be Blood",
+    "celebrity": "Petróleo sangriento",
     "gender": "",
     "facts": [
       "Sus pistas se derivan del escenario, el conflicto central y las imágenes memorables de la pantalla más que del nombre.",
       "Busque el tipo de personajes, escenario y situación de género que los fanáticos asocian con él.",
       "La mejor pista es el estado de ánimo: una mezcla reconocible de lo que está en juego, estilo visual y referencias repetidas a la cultura pop."
-    ]
+    ],
+    "tmdb_id": 7345,
+    "media_type": "movie"
   },
   {
-    "celebrity": "The Big Lebowski",
+    "celebrity": "El Gran Lebowski: Identidad Peligrosa",
     "gender": "",
     "facts": [
       "Sus pistas se derivan del escenario, el conflicto central y las imágenes memorables de la pantalla más que del nombre.",
       "Busque el tipo de personajes, escenario y situación de género que los fanáticos asocian con él.",
       "La mejor pista es el estado de ánimo: una mezcla reconocible de lo que está en juego, estilo visual y referencias repetidas a la cultura pop."
-    ]
+    ],
+    "tmdb_id": 115,
+    "media_type": "movie"
   },
   {
-    "celebrity": "Mean Girls",
+    "celebrity": "Chicas Pesadas",
     "gender": "",
     "facts": [
       "Sus pistas se derivan del escenario, el conflicto central y las imágenes memorables de la pantalla más que del nombre.",
       "Busque el tipo de personajes, escenario y situación de género que los fanáticos asocian con él.",
       "La mejor pista es el estado de ánimo: una mezcla reconocible de lo que está en juego, estilo visual y referencias repetidas a la cultura pop."
-    ]
+    ],
+    "tmdb_id": 10625,
+    "media_type": "movie"
   },
   {
-    "celebrity": "Clueless",
+    "celebrity": "Ni idea",
     "gender": "",
     "facts": [
       "Sus pistas se derivan del escenario, el conflicto central y las imágenes memorables de la pantalla más que del nombre.",
       "Busque el tipo de personajes, escenario y situación de género que los fanáticos asocian con él.",
       "La mejor pista es el estado de ánimo: una mezcla reconocible de lo que está en juego, estilo visual y referencias repetidas a la cultura pop."
-    ]
+    ],
+    "tmdb_id": 9603,
+    "media_type": "movie"
   },
   {
-    "celebrity": "The Notebook",
+    "celebrity": "Diario de una pasión",
     "gender": "",
     "facts": [
       "Sus pistas se derivan del escenario, el conflicto central y las imágenes memorables de la pantalla más que del nombre.",
       "Busque el tipo de personajes, escenario y situación de género que los fanáticos asocian con él.",
       "La mejor pista es el estado de ánimo: una mezcla reconocible de lo que está en juego, estilo visual y referencias repetidas a la cultura pop."
-    ]
+    ],
+    "tmdb_id": 11036,
+    "media_type": "movie"
   },
   {
-    "celebrity": "Pretty Woman",
+    "celebrity": "Mujer bonita",
     "gender": "",
     "facts": [
       "Sus pistas se derivan del escenario, el conflicto central y las imágenes memorables de la pantalla más que del nombre.",
       "Busque el tipo de personajes, escenario y situación de género que los fanáticos asocian con él.",
       "La mejor pista es el estado de ánimo: una mezcla reconocible de lo que está en juego, estilo visual y referencias repetidas a la cultura pop."
-    ]
+    ],
+    "tmdb_id": 114,
+    "media_type": "movie"
   },
   {
     "celebrity": "Home Alone",
@@ -618,61 +754,75 @@
       "Sus pistas se derivan del escenario, el conflicto central y las imágenes memorables de la pantalla más que del nombre.",
       "Busque el tipo de personajes, escenario y situación de género que los fanáticos asocian con él.",
       "La mejor pista es el estado de ánimo: una mezcla reconocible de lo que está en juego, estilo visual y referencias repetidas a la cultura pop."
-    ]
+    ],
+    "tmdb_id": 1224743,
+    "media_type": "movie"
   },
   {
-    "celebrity": "The Truman Show",
+    "celebrity": "Truman Show: Historia de una Vida",
     "gender": "",
     "facts": [
       "Sus pistas se derivan del escenario, el conflicto central y las imágenes memorables de la pantalla más que del nombre.",
       "Busque el tipo de personajes, escenario y situación de género que los fanáticos asocian con él.",
       "La mejor pista es el estado de ánimo: una mezcla reconocible de lo que está en juego, estilo visual y referencias repetidas a la cultura pop."
-    ]
+    ],
+    "tmdb_id": 37165,
+    "media_type": "movie"
   },
   {
-    "celebrity": "Et the Extra Terrestrial",
+    "celebrity": "E.T. El Extraterrestre",
     "gender": "",
     "facts": [
       "Sus pistas se derivan del escenario, el conflicto central y las imágenes memorables de la pantalla más que del nombre.",
       "Busque el tipo de personajes, escenario y situación de género que los fanáticos asocian con él.",
       "La mejor pista es el estado de ánimo: una mezcla reconocible de lo que está en juego, estilo visual y referencias repetidas a la cultura pop."
-    ]
+    ],
+    "tmdb_id": 601,
+    "media_type": "movie"
   },
   {
-    "celebrity": "Raiders of the Lost Ark",
+    "celebrity": "Los cazadores del arca perdida",
     "gender": "",
     "facts": [
       "Sus pistas se derivan del escenario, el conflicto central y las imágenes memorables de la pantalla más que del nombre.",
       "Busque el tipo de personajes, escenario y situación de género que los fanáticos asocian con él.",
       "La mejor pista es el estado de ánimo: una mezcla reconocible de lo que está en juego, estilo visual y referencias repetidas a la cultura pop."
-    ]
+    ],
+    "tmdb_id": 85,
+    "media_type": "movie"
   },
   {
-    "celebrity": "The Empire Strikes Back",
+    "celebrity": "El Imperio contraataca",
     "gender": "",
     "facts": [
       "Sus pistas se derivan del escenario, el conflicto central y las imágenes memorables de la pantalla más que del nombre.",
       "Busque el tipo de personajes, escenario y situación de género que los fanáticos asocian con él.",
       "La mejor pista es el estado de ánimo: una mezcla reconocible de lo que está en juego, estilo visual y referencias repetidas a la cultura pop."
-    ]
+    ],
+    "tmdb_id": 1891,
+    "media_type": "movie"
   },
   {
-    "celebrity": "Return of the Jedi",
+    "celebrity": "El regreso del Jedi",
     "gender": "",
     "facts": [
       "Sus pistas se derivan del escenario, el conflicto central y las imágenes memorables de la pantalla más que del nombre.",
       "Busque el tipo de personajes, escenario y situación de género que los fanáticos asocian con él.",
       "La mejor pista es el estado de ánimo: una mezcla reconocible de lo que está en juego, estilo visual y referencias repetidas a la cultura pop."
-    ]
+    ],
+    "tmdb_id": 1892,
+    "media_type": "movie"
   },
   {
-    "celebrity": "A New Hope",
+    "celebrity": "La guerra de las galaxias",
     "gender": "",
     "facts": [
       "Sus pistas se derivan del escenario, el conflicto central y las imágenes memorables de la pantalla más que del nombre.",
       "Busque el tipo de personajes, escenario y situación de género que los fanáticos asocian con él.",
       "La mejor pista es el estado de ánimo: una mezcla reconocible de lo que está en juego, estilo visual y referencias repetidas a la cultura pop."
-    ]
+    ],
+    "tmdb_id": 11,
+    "media_type": "movie"
   },
   {
     "celebrity": "The Phantom Menace",
@@ -681,25 +831,31 @@
       "Sus pistas se derivan del escenario, el conflicto central y las imágenes memorables de la pantalla más que del nombre.",
       "Busque el tipo de personajes, escenario y situación de género que los fanáticos asocian con él.",
       "La mejor pista es el estado de ánimo: una mezcla reconocible de lo que está en juego, estilo visual y referencias repetidas a la cultura pop."
-    ]
+    ],
+    "tmdb_id": 1460782,
+    "media_type": "movie"
   },
   {
-    "celebrity": "The Force Awakens",
+    "celebrity": "Star Wars: El despertar de la fuerza",
     "gender": "",
     "facts": [
       "Sus pistas se derivan del escenario, el conflicto central y las imágenes memorables de la pantalla más que del nombre.",
       "Busque el tipo de personajes, escenario y situación de género que los fanáticos asocian con él.",
       "La mejor pista es el estado de ánimo: una mezcla reconocible de lo que está en juego, estilo visual y referencias repetidas a la cultura pop."
-    ]
+    ],
+    "tmdb_id": 140607,
+    "media_type": "movie"
   },
   {
-    "celebrity": "Logan",
+    "celebrity": "Logan: Wolverine",
     "gender": "",
     "facts": [
       "Sus pistas se derivan del escenario, el conflicto central y las imágenes memorables de la pantalla más que del nombre.",
       "Busque el tipo de personajes, escenario y situación de género que los fanáticos asocian con él.",
       "La mejor pista es el estado de ánimo: una mezcla reconocible de lo que está en juego, estilo visual y referencias repetidas a la cultura pop."
-    ]
+    ],
+    "tmdb_id": 263115,
+    "media_type": "movie"
   },
   {
     "celebrity": "Deadpool",
@@ -708,88 +864,108 @@
       "Sus pistas se derivan del escenario, el conflicto central y las imágenes memorables de la pantalla más que del nombre.",
       "Busque el tipo de personajes, escenario y situación de género que los fanáticos asocian con él.",
       "La mejor pista es el estado de ánimo: una mezcla reconocible de lo que está en juego, estilo visual y referencias repetidas a la cultura pop."
-    ]
+    ],
+    "tmdb_id": 293660,
+    "media_type": "movie"
   },
   {
-    "celebrity": "Iron Man",
+    "celebrity": "Iron man - El hombre de hierro",
     "gender": "",
     "facts": [
       "Sus pistas se derivan del escenario, el conflicto central y las imágenes memorables de la pantalla más que del nombre.",
       "Busque el tipo de personajes, escenario y situación de género que los fanáticos asocian con él.",
       "La mejor pista es el estado de ánimo: una mezcla reconocible de lo que está en juego, estilo visual y referencias repetidas a la cultura pop."
-    ]
+    ],
+    "tmdb_id": 1726,
+    "media_type": "movie"
   },
   {
-    "celebrity": "Captain America Civil War",
+    "celebrity": "Capitán América: Civil War",
     "gender": "",
     "facts": [
       "Sus pistas se derivan del escenario, el conflicto central y las imágenes memorables de la pantalla más que del nombre.",
       "Busque el tipo de personajes, escenario y situación de género que los fanáticos asocian con él.",
       "La mejor pista es el estado de ánimo: una mezcla reconocible de lo que está en juego, estilo visual y referencias repetidas a la cultura pop."
-    ]
+    ],
+    "tmdb_id": 271110,
+    "media_type": "movie"
   },
   {
-    "celebrity": "Guardians of the Galaxy",
+    "celebrity": "Guardianes de la galaxia",
     "gender": "",
     "facts": [
       "Sus pistas se derivan del escenario, el conflicto central y las imágenes memorables de la pantalla más que del nombre.",
       "Busque el tipo de personajes, escenario y situación de género que los fanáticos asocian con él.",
       "La mejor pista es el estado de ánimo: una mezcla reconocible de lo que está en juego, estilo visual y referencias repetidas a la cultura pop."
-    ]
+    ],
+    "tmdb_id": 118340,
+    "media_type": "movie"
   },
   {
-    "celebrity": "Doctor Strange",
+    "celebrity": "Doctor Strange: Hechicero supremo",
     "gender": "",
     "facts": [
       "Sus pistas se derivan del escenario, el conflicto central y las imágenes memorables de la pantalla más que del nombre.",
       "Busque el tipo de personajes, escenario y situación de género que los fanáticos asocian con él.",
       "La mejor pista es el estado de ánimo: una mezcla reconocible de lo que está en juego, estilo visual y referencias repetidas a la cultura pop."
-    ]
+    ],
+    "tmdb_id": 284052,
+    "media_type": "movie"
   },
   {
-    "celebrity": "Spider Man No Way Home",
+    "celebrity": "Spider-Man: Sin camino a casa",
     "gender": "",
     "facts": [
       "Sus pistas se derivan del escenario, el conflicto central y las imágenes memorables de la pantalla más que del nombre.",
       "Busque el tipo de personajes, escenario y situación de género que los fanáticos asocian con él.",
       "La mejor pista es el estado de ánimo: una mezcla reconocible de lo que está en juego, estilo visual y referencias repetidas a la cultura pop."
-    ]
+    ],
+    "tmdb_id": 634649,
+    "media_type": "movie"
   },
   {
-    "celebrity": "The Batman",
+    "celebrity": "Batman",
     "gender": "",
     "facts": [
       "Sus pistas se derivan del escenario, el conflicto central y las imágenes memorables de la pantalla más que del nombre.",
       "Busque el tipo de personajes, escenario y situación de género que los fanáticos asocian con él.",
       "La mejor pista es el estado de ánimo: una mezcla reconocible de lo que está en juego, estilo visual y referencias repetidas a la cultura pop."
-    ]
+    ],
+    "tmdb_id": 414906,
+    "media_type": "movie"
   },
   {
-    "celebrity": "Batman Begins",
+    "celebrity": "Batman inicia",
     "gender": "",
     "facts": [
       "Sus pistas se derivan del escenario, el conflicto central y las imágenes memorables de la pantalla más que del nombre.",
       "Busque el tipo de personajes, escenario y situación de género que los fanáticos asocian con él.",
       "La mejor pista es el estado de ánimo: una mezcla reconocible de lo que está en juego, estilo visual y referencias repetidas a la cultura pop."
-    ]
+    ],
+    "tmdb_id": 272,
+    "media_type": "movie"
   },
   {
-    "celebrity": "The Dark Knight Rises",
+    "celebrity": "Batman: El caballero de la noche asciende",
     "gender": "",
     "facts": [
       "Sus pistas se derivan del escenario, el conflicto central y las imágenes memorables de la pantalla más que del nombre.",
       "Busque el tipo de personajes, escenario y situación de género que los fanáticos asocian con él.",
       "La mejor pista es el estado de ánimo: una mezcla reconocible de lo que está en juego, estilo visual y referencias repetidas a la cultura pop."
-    ]
+    ],
+    "tmdb_id": 49026,
+    "media_type": "movie"
   },
   {
-    "celebrity": "Wonder Woman",
+    "celebrity": "Mujer Maravilla",
     "gender": "",
     "facts": [
       "Sus pistas se derivan del escenario, el conflicto central y las imágenes memorables de la pantalla más que del nombre.",
       "Busque el tipo de personajes, escenario y situación de género que los fanáticos asocian con él.",
       "La mejor pista es el estado de ánimo: una mezcla reconocible de lo que está en juego, estilo visual y referencias repetidas a la cultura pop."
-    ]
+    ],
+    "tmdb_id": 297762,
+    "media_type": "movie"
   },
   {
     "celebrity": "Aquaman",
@@ -798,88 +974,108 @@
       "Sus pistas se derivan del escenario, el conflicto central y las imágenes memorables de la pantalla más que del nombre.",
       "Busque el tipo de personajes, escenario y situación de género que los fanáticos asocian con él.",
       "La mejor pista es el estado de ánimo: una mezcla reconocible de lo que está en juego, estilo visual y referencias repetidas a la cultura pop."
-    ]
+    ],
+    "tmdb_id": 297802,
+    "media_type": "movie"
   },
   {
-    "celebrity": "Man of Steel",
+    "celebrity": "El hombre de acero",
     "gender": "",
     "facts": [
       "Sus pistas se derivan del escenario, el conflicto central y las imágenes memorables de la pantalla más que del nombre.",
       "Busque el tipo de personajes, escenario y situación de género que los fanáticos asocian con él.",
       "La mejor pista es el estado de ánimo: una mezcla reconocible de lo que está en juego, estilo visual y referencias repetidas a la cultura pop."
-    ]
+    ],
+    "tmdb_id": 49521,
+    "media_type": "movie"
   },
   {
-    "celebrity": "The Suicide Squad",
+    "celebrity": "El escuadrón suicida",
     "gender": "",
     "facts": [
       "Sus pistas se derivan del escenario, el conflicto central y las imágenes memorables de la pantalla más que del nombre.",
       "Busque el tipo de personajes, escenario y situación de género que los fanáticos asocian con él.",
       "La mejor pista es el estado de ánimo: una mezcla reconocible de lo que está en juego, estilo visual y referencias repetidas a la cultura pop."
-    ]
+    ],
+    "tmdb_id": 436969,
+    "media_type": "movie"
   },
   {
-    "celebrity": "Joker",
+    "celebrity": "Guasón",
     "gender": "",
     "facts": [
       "Sus pistas se derivan del escenario, el conflicto central y las imágenes memorables de la pantalla más que del nombre.",
       "Busque el tipo de personajes, escenario y situación de género que los fanáticos asocian con él.",
       "La mejor pista es el estado de ánimo: una mezcla reconocible de lo que está en juego, estilo visual y referencias repetidas a la cultura pop."
-    ]
+    ],
+    "tmdb_id": 475557,
+    "media_type": "movie"
   },
   {
-    "celebrity": "Kill Bill",
+    "celebrity": "Kill Bill: Vol. 1",
     "gender": "",
     "facts": [
       "Sus pistas se derivan del escenario, el conflicto central y las imágenes memorables de la pantalla más que del nombre.",
       "Busque el tipo de personajes, escenario y situación de género que los fanáticos asocian con él.",
       "La mejor pista es el estado de ánimo: una mezcla reconocible de lo que está en juego, estilo visual y referencias repetidas a la cultura pop."
-    ]
+    ],
+    "tmdb_id": 24,
+    "media_type": "movie"
   },
   {
-    "celebrity": "Django Unchained",
+    "celebrity": "Django sin Cadenas",
     "gender": "",
     "facts": [
       "Sus pistas se derivan del escenario, el conflicto central y las imágenes memorables de la pantalla más que del nombre.",
       "Busque el tipo de personajes, escenario y situación de género que los fanáticos asocian con él.",
       "La mejor pista es el estado de ánimo: una mezcla reconocible de lo que está en juego, estilo visual y referencias repetidas a la cultura pop."
-    ]
+    ],
+    "tmdb_id": 68718,
+    "media_type": "movie"
   },
   {
-    "celebrity": "Inglourious Basterds",
+    "celebrity": "Bastardos sin gloria",
     "gender": "",
     "facts": [
       "Sus pistas se derivan del escenario, el conflicto central y las imágenes memorables de la pantalla más que del nombre.",
       "Busque el tipo de personajes, escenario y situación de género que los fanáticos asocian con él.",
       "La mejor pista es el estado de ánimo: una mezcla reconocible de lo que está en juego, estilo visual y referencias repetidas a la cultura pop."
-    ]
+    ],
+    "tmdb_id": 16869,
+    "media_type": "movie"
   },
   {
-    "celebrity": "Reservoir Dogs",
+    "celebrity": "Perros de Reserva",
     "gender": "",
     "facts": [
       "Sus pistas se derivan del escenario, el conflicto central y las imágenes memorables de la pantalla más que del nombre.",
       "Busque el tipo de personajes, escenario y situación de género que los fanáticos asocian con él.",
       "La mejor pista es el estado de ánimo: una mezcla reconocible de lo que está en juego, estilo visual y referencias repetidas a la cultura pop."
-    ]
+    ],
+    "tmdb_id": 500,
+    "media_type": "movie"
   },
   {
-    "celebrity": "Scarface",
+    "celebrity": "Caracortada",
     "gender": "",
     "facts": [
       "Sus pistas se derivan del escenario, el conflicto central y las imágenes memorables de la pantalla más que del nombre.",
       "Busque el tipo de personajes, escenario y situación de género que los fanáticos asocian con él.",
       "La mejor pista es el estado de ánimo: una mezcla reconocible de lo que está en juego, estilo visual y referencias repetidas a la cultura pop."
-    ]
+    ],
+    "tmdb_id": 111,
+    "media_type": "movie"
   },
   {
-    "celebrity": "Heat",
+    "celebrity": "Fuego contra Fuego",
     "gender": "",
     "facts": [
       "Sus pistas se derivan del escenario, el conflicto central y las imágenes memorables de la pantalla más que del nombre.",
       "Busque el tipo de personajes, escenario y situación de género que los fanáticos asocian con él.",
       "La mejor pista es el estado de ánimo: una mezcla reconocible de lo que está en juego, estilo visual y referencias repetidas a la cultura pop."
-    ]
+    ],
+    "tmdb_id": 949,
+    "media_type": "movie"
   },
   {
     "celebrity": "Taxi Driver",
@@ -888,160 +1084,196 @@
       "Sus pistas se derivan del escenario, el conflicto central y las imágenes memorables de la pantalla más que del nombre.",
       "Busque el tipo de personajes, escenario y situación de género que los fanáticos asocian con él.",
       "La mejor pista es el estado de ánimo: una mezcla reconocible de lo que está en juego, estilo visual y referencias repetidas a la cultura pop."
-    ]
+    ],
+    "tmdb_id": 103,
+    "media_type": "movie"
   },
   {
-    "celebrity": "Raging Bull",
+    "celebrity": "Toro Salvaje",
     "gender": "",
     "facts": [
       "Sus pistas se derivan del escenario, el conflicto central y las imágenes memorables de la pantalla más que del nombre.",
       "Busque el tipo de personajes, escenario y situación de género que los fanáticos asocian con él.",
       "La mejor pista es el estado de ánimo: una mezcla reconocible de lo que está en juego, estilo visual y referencias repetidas a la cultura pop."
-    ]
+    ],
+    "tmdb_id": 1578,
+    "media_type": "movie"
   },
   {
-    "celebrity": "Good Will Hunting",
+    "celebrity": "Mente indomable",
     "gender": "",
     "facts": [
       "Sus pistas se derivan del escenario, el conflicto central y las imágenes memorables de la pantalla más que del nombre.",
       "Busque el tipo de personajes, escenario y situación de género que los fanáticos asocian con él.",
       "La mejor pista es el estado de ánimo: una mezcla reconocible de lo que está en juego, estilo visual y referencias repetidas a la cultura pop."
-    ]
+    ],
+    "tmdb_id": 489,
+    "media_type": "movie"
   },
   {
-    "celebrity": "The Green Mile",
+    "celebrity": "Milagros Inesperados",
     "gender": "",
     "facts": [
       "Sus pistas se derivan del escenario, el conflicto central y las imágenes memorables de la pantalla más que del nombre.",
       "Busque el tipo de personajes, escenario y situación de género que los fanáticos asocian con él.",
       "La mejor pista es el estado de ánimo: una mezcla reconocible de lo que está en juego, estilo visual y referencias repetidas a la cultura pop."
-    ]
+    ],
+    "tmdb_id": 497,
+    "media_type": "movie"
   },
   {
-    "celebrity": "American Beauty",
+    "celebrity": "Belleza Americana",
     "gender": "",
     "facts": [
       "Sus pistas se derivan del escenario, el conflicto central y las imágenes memorables de la pantalla más que del nombre.",
       "Busque el tipo de personajes, escenario y situación de género que los fanáticos asocian con él.",
       "La mejor pista es el estado de ánimo: una mezcla reconocible de lo que está en juego, estilo visual y referencias repetidas a la cultura pop."
-    ]
+    ],
+    "tmdb_id": 14,
+    "media_type": "movie"
   },
   {
-    "celebrity": "The Usual Suspects",
+    "celebrity": "Los sospechosos de siempre",
     "gender": "",
     "facts": [
       "Sus pistas se derivan del escenario, el conflicto central y las imágenes memorables de la pantalla más que del nombre.",
       "Busque el tipo de personajes, escenario y situación de género que los fanáticos asocian con él.",
       "La mejor pista es el estado de ánimo: una mezcla reconocible de lo que está en juego, estilo visual y referencias repetidas a la cultura pop."
-    ]
+    ],
+    "tmdb_id": 629,
+    "media_type": "movie"
   },
   {
-    "celebrity": "The Sixth Sense",
+    "celebrity": "El Sexto Sentido",
     "gender": "",
     "facts": [
       "Sus pistas se derivan del escenario, el conflicto central y las imágenes memorables de la pantalla más que del nombre.",
       "Busque el tipo de personajes, escenario y situación de género que los fanáticos asocian con él.",
       "La mejor pista es el estado de ánimo: una mezcla reconocible de lo que está en juego, estilo visual y referencias repetidas a la cultura pop."
-    ]
+    ],
+    "tmdb_id": 745,
+    "media_type": "movie"
   },
   {
-    "celebrity": "Unbreakable",
+    "celebrity": "El protegido",
     "gender": "",
     "facts": [
       "Sus pistas se derivan del escenario, el conflicto central y las imágenes memorables de la pantalla más que del nombre.",
       "Busque el tipo de personajes, escenario y situación de género que los fanáticos asocian con él.",
       "La mejor pista es el estado de ánimo: una mezcla reconocible de lo que está en juego, estilo visual y referencias repetidas a la cultura pop."
-    ]
+    ],
+    "tmdb_id": 9741,
+    "media_type": "movie"
   },
   {
-    "celebrity": "Split",
+    "celebrity": "Fragmentado",
     "gender": "",
     "facts": [
       "Sus pistas se derivan del escenario, el conflicto central y las imágenes memorables de la pantalla más que del nombre.",
       "Busque el tipo de personajes, escenario y situación de género que los fanáticos asocian con él.",
       "La mejor pista es el estado de ánimo: una mezcla reconocible de lo que está en juego, estilo visual y referencias repetidas a la cultura pop."
-    ]
+    ],
+    "tmdb_id": 381288,
+    "media_type": "movie"
   },
   {
-    "celebrity": "Get Out",
+    "celebrity": "¡Huye!",
     "gender": "",
     "facts": [
       "Sus pistas se derivan del escenario, el conflicto central y las imágenes memorables de la pantalla más que del nombre.",
       "Busque el tipo de personajes, escenario y situación de género que los fanáticos asocian con él.",
       "La mejor pista es el estado de ánimo: una mezcla reconocible de lo que está en juego, estilo visual y referencias repetidas a la cultura pop."
-    ]
+    ],
+    "tmdb_id": 419430,
+    "media_type": "movie"
   },
   {
-    "celebrity": "Nope",
+    "celebrity": "¡Nop!",
     "gender": "",
     "facts": [
       "Sus pistas se derivan del escenario, el conflicto central y las imágenes memorables de la pantalla más que del nombre.",
       "Busque el tipo de personajes, escenario y situación de género que los fanáticos asocian con él.",
       "La mejor pista es el estado de ánimo: una mezcla reconocible de lo que está en juego, estilo visual y referencias repetidas a la cultura pop."
-    ]
+    ],
+    "tmdb_id": 762504,
+    "media_type": "movie"
   },
   {
-    "celebrity": "Hereditary",
+    "celebrity": "El legado del diablo",
     "gender": "",
     "facts": [
       "Sus pistas se derivan del escenario, el conflicto central y las imágenes memorables de la pantalla más que del nombre.",
       "Busque el tipo de personajes, escenario y situación de género que los fanáticos asocian con él.",
       "La mejor pista es el estado de ánimo: una mezcla reconocible de lo que está en juego, estilo visual y referencias repetidas a la cultura pop."
-    ]
+    ],
+    "tmdb_id": 493922,
+    "media_type": "movie"
   },
   {
-    "celebrity": "Midsommar",
+    "celebrity": "Midsommar: el terror no espera la noche",
     "gender": "",
     "facts": [
       "Sus pistas se derivan del escenario, el conflicto central y las imágenes memorables de la pantalla más que del nombre.",
       "Busque el tipo de personajes, escenario y situación de género que los fanáticos asocian con él.",
       "La mejor pista es el estado de ánimo: una mezcla reconocible de lo que está en juego, estilo visual y referencias repetidas a la cultura pop."
-    ]
+    ],
+    "tmdb_id": 530385,
+    "media_type": "movie"
   },
   {
-    "celebrity": "The Exorcist",
+    "celebrity": "El Exorcista",
     "gender": "",
     "facts": [
       "Sus pistas se derivan del escenario, el conflicto central y las imágenes memorables de la pantalla más que del nombre.",
       "Busque el tipo de personajes, escenario y situación de género que los fanáticos asocian con él.",
       "La mejor pista es el estado de ánimo: una mezcla reconocible de lo que está en juego, estilo visual y referencias repetidas a la cultura pop."
-    ]
+    ],
+    "tmdb_id": 9552,
+    "media_type": "movie"
   },
   {
-    "celebrity": "Psycho",
+    "celebrity": "Psicosis",
     "gender": "",
     "facts": [
       "Sus pistas se derivan del escenario, el conflicto central y las imágenes memorables de la pantalla más que del nombre.",
       "Busque el tipo de personajes, escenario y situación de género que los fanáticos asocian con él.",
       "La mejor pista es el estado de ánimo: una mezcla reconocible de lo que está en juego, estilo visual y referencias repetidas a la cultura pop."
-    ]
+    ],
+    "tmdb_id": 539,
+    "media_type": "movie"
   },
   {
-    "celebrity": "The Shining",
+    "celebrity": "El resplandor",
     "gender": "",
     "facts": [
       "Sus pistas se derivan del escenario, el conflicto central y las imágenes memorables de la pantalla más que del nombre.",
       "Busque el tipo de personajes, escenario y situación de género que los fanáticos asocian con él.",
       "La mejor pista es el estado de ánimo: una mezcla reconocible de lo que está en juego, estilo visual y referencias repetidas a la cultura pop."
-    ]
+    ],
+    "tmdb_id": 694,
+    "media_type": "movie"
   },
   {
-    "celebrity": "The Thing",
+    "celebrity": "La cosa del otro mundo",
     "gender": "",
     "facts": [
       "Sus pistas se derivan del escenario, el conflicto central y las imágenes memorables de la pantalla más que del nombre.",
       "Busque el tipo de personajes, escenario y situación de género que los fanáticos asocian con él.",
       "La mejor pista es el estado de ánimo: una mezcla reconocible de lo que está en juego, estilo visual y referencias repetidas a la cultura pop."
-    ]
+    ],
+    "tmdb_id": 1091,
+    "media_type": "movie"
   },
   {
-    "celebrity": "Rosemarys Baby",
+    "celebrity": "El bebé de Rosemary",
     "gender": "",
     "facts": [
       "Sus pistas se derivan del escenario, el conflicto central y las imágenes memorables de la pantalla más que del nombre.",
       "Busque el tipo de personajes, escenario y situación de género que los fanáticos asocian con él.",
       "La mejor pista es el estado de ánimo: una mezcla reconocible de lo que está en juego, estilo visual y referencias repetidas a la cultura pop."
-    ]
+    ],
+    "tmdb_id": 805,
+    "media_type": "movie"
   },
   {
     "celebrity": "Casablanca",
@@ -1050,43 +1282,53 @@
       "Sus pistas se derivan del escenario, el conflicto central y las imágenes memorables de la pantalla más que del nombre.",
       "Busque el tipo de personajes, escenario y situación de género que los fanáticos asocian con él.",
       "La mejor pista es el estado de ánimo: una mezcla reconocible de lo que está en juego, estilo visual y referencias repetidas a la cultura pop."
-    ]
+    ],
+    "tmdb_id": 289,
+    "media_type": "movie"
   },
   {
-    "celebrity": "Citizen Kane",
+    "celebrity": "El Ciudadano Kane",
     "gender": "",
     "facts": [
       "Sus pistas se derivan del escenario, el conflicto central y las imágenes memorables de la pantalla más que del nombre.",
       "Busque el tipo de personajes, escenario y situación de género que los fanáticos asocian con él.",
       "La mejor pista es el estado de ánimo: una mezcla reconocible de lo que está en juego, estilo visual y referencias repetidas a la cultura pop."
-    ]
+    ],
+    "tmdb_id": 15,
+    "media_type": "movie"
   },
   {
-    "celebrity": "Singin in the Rain",
+    "celebrity": "Cantando bajo la lluvia",
     "gender": "",
     "facts": [
       "Sus pistas se derivan del escenario, el conflicto central y las imágenes memorables de la pantalla más que del nombre.",
       "Busque el tipo de personajes, escenario y situación de género que los fanáticos asocian con él.",
       "La mejor pista es el estado de ánimo: una mezcla reconocible de lo que está en juego, estilo visual y referencias repetidas a la cultura pop."
-    ]
+    ],
+    "tmdb_id": 872,
+    "media_type": "movie"
   },
   {
-    "celebrity": "West Side Story",
+    "celebrity": "Amor Sin Barreras",
     "gender": "",
     "facts": [
       "Sus pistas se derivan del escenario, el conflicto central y las imágenes memorables de la pantalla más que del nombre.",
       "Busque el tipo de personajes, escenario y situación de género que los fanáticos asocian con él.",
       "La mejor pista es el estado de ánimo: una mezcla reconocible de lo que está en juego, estilo visual y referencias repetidas a la cultura pop."
-    ]
+    ],
+    "tmdb_id": 511809,
+    "media_type": "movie"
   },
   {
-    "celebrity": "The Sound of Music",
+    "celebrity": "La novicia rebelde",
     "gender": "",
     "facts": [
       "Sus pistas se derivan del escenario, el conflicto central y las imágenes memorables de la pantalla más que del nombre.",
       "Busque el tipo de personajes, escenario y situación de género que los fanáticos asocian con él.",
       "La mejor pista es el estado de ánimo: una mezcla reconocible de lo que está en juego, estilo visual y referencias repetidas a la cultura pop."
-    ]
+    ],
+    "tmdb_id": 15121,
+    "media_type": "movie"
   },
   {
     "celebrity": "Mary Poppins",
@@ -1095,115 +1337,141 @@
       "Sus pistas se derivan del escenario, el conflicto central y las imágenes memorables de la pantalla más que del nombre.",
       "Busque el tipo de personajes, escenario y situación de género que los fanáticos asocian con él.",
       "La mejor pista es el estado de ánimo: una mezcla reconocible de lo que está en juego, estilo visual y referencias repetidas a la cultura pop."
-    ]
+    ],
+    "tmdb_id": 433,
+    "media_type": "movie"
   },
   {
-    "celebrity": "Grease",
+    "celebrity": "Vaselina",
     "gender": "",
     "facts": [
       "Sus pistas se derivan del escenario, el conflicto central y las imágenes memorables de la pantalla más que del nombre.",
       "Busque el tipo de personajes, escenario y situación de género que los fanáticos asocian con él.",
       "La mejor pista es el estado de ánimo: una mezcla reconocible de lo que está en juego, estilo visual y referencias repetidas a la cultura pop."
-    ]
+    ],
+    "tmdb_id": 621,
+    "media_type": "movie"
   },
   {
-    "celebrity": "Dirty Dancing",
+    "celebrity": "Baile caliente (Dirty Dancing)",
     "gender": "",
     "facts": [
       "Sus pistas se derivan del escenario, el conflicto central y las imágenes memorables de la pantalla más que del nombre.",
       "Busque el tipo de personajes, escenario y situación de género que los fanáticos asocian con él.",
       "La mejor pista es el estado de ánimo: una mezcla reconocible de lo que está en juego, estilo visual y referencias repetidas a la cultura pop."
-    ]
+    ],
+    "tmdb_id": 88,
+    "media_type": "movie"
   },
   {
-    "celebrity": "Rocky Horror Picture Show",
+    "celebrity": "El Show de Terror de Rocky",
     "gender": "",
     "facts": [
       "Sus pistas se derivan del escenario, el conflicto central y las imágenes memorables de la pantalla más que del nombre.",
       "Busque el tipo de personajes, escenario y situación de género que los fanáticos asocian con él.",
       "La mejor pista es el estado de ánimo: una mezcla reconocible de lo que está en juego, estilo visual y referencias repetidas a la cultura pop."
-    ]
+    ],
+    "tmdb_id": 36685,
+    "media_type": "movie"
   },
   {
-    "celebrity": "Blade",
+    "celebrity": "Blade: Cazador de Vampiros",
     "gender": "",
     "facts": [
       "Sus pistas se derivan del escenario, el conflicto central y las imágenes memorables de la pantalla más que del nombre.",
       "Busque el tipo de personajes, escenario y situación de género que los fanáticos asocian con él.",
       "La mejor pista es el estado de ánimo: una mezcla reconocible de lo que está en juego, estilo visual y referencias repetidas a la cultura pop."
-    ]
+    ],
+    "tmdb_id": 36647,
+    "media_type": "movie"
   },
   {
-    "celebrity": "The Mummy",
+    "celebrity": "La Momia",
     "gender": "",
     "facts": [
       "Sus pistas se derivan del escenario, el conflicto central y las imágenes memorables de la pantalla más que del nombre.",
       "Busque el tipo de personajes, escenario y situación de género que los fanáticos asocian con él.",
       "La mejor pista es el estado de ánimo: una mezcla reconocible de lo que está en juego, estilo visual y referencias repetidas a la cultura pop."
-    ]
+    ],
+    "tmdb_id": 564,
+    "media_type": "movie"
   },
   {
-    "celebrity": "National Treasure",
+    "celebrity": "La leyenda del tesoro perdido",
     "gender": "",
     "facts": [
       "Sus pistas se derivan del escenario, el conflicto central y las imágenes memorables de la pantalla más que del nombre.",
       "Busque el tipo de personajes, escenario y situación de género que los fanáticos asocian con él.",
       "La mejor pista es el estado de ánimo: una mezcla reconocible de lo que está en juego, estilo visual y referencias repetidas a la cultura pop."
-    ]
+    ],
+    "tmdb_id": 2059,
+    "media_type": "movie"
   },
   {
-    "celebrity": "Night at the Museum",
+    "celebrity": "Una noche en el museo",
     "gender": "",
     "facts": [
       "Sus pistas se derivan del escenario, el conflicto central y las imágenes memorables de la pantalla más que del nombre.",
       "Busque el tipo de personajes, escenario y situación de género que los fanáticos asocian con él.",
       "La mejor pista es el estado de ánimo: una mezcla reconocible de lo que está en juego, estilo visual y referencias repetidas a la cultura pop."
-    ]
+    ],
+    "tmdb_id": 1593,
+    "media_type": "movie"
   },
   {
-    "celebrity": "School of Rock",
+    "celebrity": "Escuela de Rock",
     "gender": "",
     "facts": [
       "Sus pistas se derivan del escenario, el conflicto central y las imágenes memorables de la pantalla más que del nombre.",
       "Busque el tipo de personajes, escenario y situación de género que los fanáticos asocian con él.",
       "La mejor pista es el estado de ánimo: una mezcla reconocible de lo que está en juego, estilo visual y referencias repetidas a la cultura pop."
-    ]
+    ],
+    "tmdb_id": 1584,
+    "media_type": "movie"
   },
   {
-    "celebrity": "Superbad",
+    "celebrity": "Supercool",
     "gender": "",
     "facts": [
       "Sus pistas se derivan del escenario, el conflicto central y las imágenes memorables de la pantalla más que del nombre.",
       "Busque el tipo de personajes, escenario y situación de género que los fanáticos asocian con él.",
       "La mejor pista es el estado de ánimo: una mezcla reconocible de lo que está en juego, estilo visual y referencias repetidas a la cultura pop."
-    ]
+    ],
+    "tmdb_id": 8363,
+    "media_type": "movie"
   },
   {
-    "celebrity": "Bridesmaids",
+    "celebrity": "Damas en Guerra",
     "gender": "",
     "facts": [
       "Sus pistas se derivan del escenario, el conflicto central y las imágenes memorables de la pantalla más que del nombre.",
       "Busque el tipo de personajes, escenario y situación de género que los fanáticos asocian con él.",
       "La mejor pista es el estado de ánimo: una mezcla reconocible de lo que está en juego, estilo visual y referencias repetidas a la cultura pop."
-    ]
+    ],
+    "tmdb_id": 55721,
+    "media_type": "movie"
   },
   {
-    "celebrity": "The Hangover",
+    "celebrity": "¿Qué Pasó Ayer?",
     "gender": "",
     "facts": [
       "Sus pistas se derivan del escenario, el conflicto central y las imágenes memorables de la pantalla más que del nombre.",
       "Busque el tipo de personajes, escenario y situación de género que los fanáticos asocian con él.",
       "La mejor pista es el estado de ánimo: una mezcla reconocible de lo que está en juego, estilo visual y referencias repetidas a la cultura pop."
-    ]
+    ],
+    "tmdb_id": 18785,
+    "media_type": "movie"
   },
   {
-    "celebrity": "Anchorman",
+    "celebrity": "El Reportero: La Leyenda de Ron Burgundy",
     "gender": "",
     "facts": [
       "Sus pistas se derivan del escenario, el conflicto central y las imágenes memorables de la pantalla más que del nombre.",
       "Busque el tipo de personajes, escenario y situación de género que los fanáticos asocian con él.",
       "La mejor pista es el estado de ánimo: una mezcla reconocible de lo que está en juego, estilo visual y referencias repetidas a la cultura pop."
-    ]
+    ],
+    "tmdb_id": 8699,
+    "media_type": "movie"
   },
   {
     "celebrity": "Zoolander",
@@ -1212,52 +1480,64 @@
       "Sus pistas se derivan del escenario, el conflicto central y las imágenes memorables de la pantalla más que del nombre.",
       "Busque el tipo de personajes, escenario y situación de género que los fanáticos asocian con él.",
       "La mejor pista es el estado de ánimo: una mezcla reconocible de lo que está en juego, estilo visual y referencias repetidas a la cultura pop."
-    ]
+    ],
+    "tmdb_id": 9398,
+    "media_type": "movie"
   },
   {
-    "celebrity": "Borat",
+    "celebrity": "Borat: El segundo mejor reportero del glorioso país Kazajistán viaja a América",
     "gender": "",
     "facts": [
       "Sus pistas se derivan del escenario, el conflicto central y las imágenes memorables de la pantalla más que del nombre.",
       "Busque el tipo de personajes, escenario y situación de género que los fanáticos asocian con él.",
       "La mejor pista es el estado de ánimo: una mezcla reconocible de lo que está en juego, estilo visual y referencias repetidas a la cultura pop."
-    ]
+    ],
+    "tmdb_id": 496,
+    "media_type": "movie"
   },
   {
-    "celebrity": "The Super Mario Galaxy Movie",
+    "celebrity": "Super Mario Galaxy la película",
     "gender": "",
     "facts": [
       "Sus pistas se derivan del escenario, el conflicto central y las imágenes memorables de la pantalla más que del nombre.",
       "Busque el tipo de personajes, escenario y situación de género que los fanáticos asocian con él.",
       "La mejor pista es el estado de ánimo: una mezcla reconocible de lo que está en juego, estilo visual y referencias repetidas a la cultura pop."
-    ]
+    ],
+    "tmdb_id": 1226863,
+    "media_type": "movie"
   },
   {
-    "celebrity": "Apex",
+    "celebrity": "Ápex",
     "gender": "",
     "facts": [
       "Sus pistas se derivan del escenario, el conflicto central y las imágenes memorables de la pantalla más que del nombre.",
       "Busque el tipo de personajes, escenario y situación de género que los fanáticos asocian con él.",
       "La mejor pista es el estado de ánimo: una mezcla reconocible de lo que está en juego, estilo visual y referencias repetidas a la cultura pop."
-    ]
+    ],
+    "tmdb_id": 1318447,
+    "media_type": "movie"
   },
   {
-    "celebrity": "Send Help",
+    "celebrity": "¡Ayuda!",
     "gender": "",
     "facts": [
       "Sus pistas se derivan del escenario, el conflicto central y las imágenes memorables de la pantalla más que del nombre.",
       "Busque el tipo de personajes, escenario y situación de género que los fanáticos asocian con él.",
       "La mejor pista es el estado de ánimo: una mezcla reconocible de lo que está en juego, estilo visual y referencias repetidas a la cultura pop."
-    ]
+    ],
+    "tmdb_id": 1198994,
+    "media_type": "movie"
   },
   {
-    "celebrity": "The Devil Wears Prada",
+    "celebrity": "El diablo viste a la moda",
     "gender": "",
     "facts": [
       "Sus pistas se derivan del escenario, el conflicto central y las imágenes memorables de la pantalla más que del nombre.",
       "Busque el tipo de personajes, escenario y situación de género que los fanáticos asocian con él.",
       "La mejor pista es el estado de ánimo: una mezcla reconocible de lo que está en juego, estilo visual y referencias repetidas a la cultura pop."
-    ]
+    ],
+    "tmdb_id": 350,
+    "media_type": "movie"
   },
   {
     "celebrity": "Michael",
@@ -1266,52 +1546,64 @@
       "Sus pistas se derivan del escenario, el conflicto central y las imágenes memorables de la pantalla más que del nombre.",
       "Busque el tipo de personajes, escenario y situación de género que los fanáticos asocian con él.",
       "La mejor pista es el estado de ánimo: una mezcla reconocible de lo que está en juego, estilo visual y referencias repetidas a la cultura pop."
-    ]
+    ],
+    "tmdb_id": 936075,
+    "media_type": "movie"
   },
   {
-    "celebrity": "Ready or Not 2 Here I Come",
+    "celebrity": "Noche de bodas 2",
     "gender": "",
     "facts": [
       "Sus pistas se derivan del escenario, el conflicto central y las imágenes memorables de la pantalla más que del nombre.",
       "Busque el tipo de personajes, escenario y situación de género que los fanáticos asocian con él.",
       "La mejor pista es el estado de ánimo: una mezcla reconocible de lo que está en juego, estilo visual y referencias repetidas a la cultura pop."
-    ]
+    ],
+    "tmdb_id": 1266127,
+    "media_type": "movie"
   },
   {
-    "celebrity": "Goat",
+    "celebrity": "GOAT: Como cabras",
     "gender": "",
     "facts": [
       "Sus pistas se derivan del escenario, el conflicto central y las imágenes memorables de la pantalla más que del nombre.",
       "Busque el tipo de personajes, escenario y situación de género que los fanáticos asocian con él.",
       "La mejor pista es el estado de ánimo: una mezcla reconocible de lo que está en juego, estilo visual y referencias repetidas a la cultura pop."
-    ]
+    ],
+    "tmdb_id": 1297842,
+    "media_type": "movie"
   },
   {
-    "celebrity": "Project Hail Mary",
+    "celebrity": "Proyecto Fin del Mundo",
     "gender": "",
     "facts": [
       "Sus pistas se derivan del escenario, el conflicto central y las imágenes memorables de la pantalla más que del nombre.",
       "Busque el tipo de personajes, escenario y situación de género que los fanáticos asocian con él.",
       "La mejor pista es el estado de ánimo: una mezcla reconocible de lo que está en juego, estilo visual y referencias repetidas a la cultura pop."
-    ]
+    ],
+    "tmdb_id": 687163,
+    "media_type": "movie"
   },
   {
-    "celebrity": "Predator Badlands",
+    "celebrity": "Depredador: Tierras salvajes",
     "gender": "",
     "facts": [
       "Sus pistas se derivan del escenario, el conflicto central y las imágenes memorables de la pantalla más que del nombre.",
       "Busque el tipo de personajes, escenario y situación de género que los fanáticos asocian con él.",
       "La mejor pista es el estado de ánimo: una mezcla reconocible de lo que está en juego, estilo visual y referencias repetidas a la cultura pop."
-    ]
+    ],
+    "tmdb_id": 1242898,
+    "media_type": "movie"
   },
   {
-    "celebrity": "The Housemaid",
+    "celebrity": "La Empleada",
     "gender": "",
     "facts": [
       "Sus pistas se derivan del escenario, el conflicto central y las imágenes memorables de la pantalla más que del nombre.",
       "Busque el tipo de personajes, escenario y situación de género que los fanáticos asocian con él.",
       "La mejor pista es el estado de ánimo: una mezcla reconocible de lo que está en juego, estilo visual y referencias repetidas a la cultura pop."
-    ]
+    ],
+    "tmdb_id": 1368166,
+    "media_type": "movie"
   },
   {
     "celebrity": "Apocalypto",
@@ -1320,7 +1612,9 @@
       "Sus pistas se derivan del escenario, el conflicto central y las imágenes memorables de la pantalla más que del nombre.",
       "Busque el tipo de personajes, escenario y situación de género que los fanáticos asocian con él.",
       "La mejor pista es el estado de ánimo: una mezcla reconocible de lo que está en juego, estilo visual y referencias repetidas a la cultura pop."
-    ]
+    ],
+    "tmdb_id": 1579,
+    "media_type": "movie"
   },
   {
     "celebrity": "Mortal Kombat Ii",
@@ -1329,16 +1623,20 @@
       "Sus pistas se derivan del escenario, el conflicto central y las imágenes memorables de la pantalla más que del nombre.",
       "Busque el tipo de personajes, escenario y situación de género que los fanáticos asocian con él.",
       "La mejor pista es el estado de ánimo: una mezcla reconocible de lo que está en juego, estilo visual y referencias repetidas a la cultura pop."
-    ]
+    ],
+    "tmdb_id": 931285,
+    "media_type": "movie"
   },
   {
-    "celebrity": "Xxx",
+    "celebrity": "xXx - Triple X",
     "gender": "",
     "facts": [
       "Sus pistas se derivan del escenario, el conflicto central y las imágenes memorables de la pantalla más que del nombre.",
       "Busque el tipo de personajes, escenario y situación de género que los fanáticos asocian con él.",
       "La mejor pista es el estado de ánimo: una mezcla reconocible de lo que está en juego, estilo visual y referencias repetidas a la cultura pop."
-    ]
+    ],
+    "tmdb_id": 7451,
+    "media_type": "movie"
   },
   {
     "celebrity": "Scream 7",
@@ -1347,34 +1645,42 @@
       "Sus pistas se derivan del escenario, el conflicto central y las imágenes memorables de la pantalla más que del nombre.",
       "Busque el tipo de personajes, escenario y situación de género que los fanáticos asocian con él.",
       "La mejor pista es el estado de ánimo: una mezcla reconocible de lo que está en juego, estilo visual y referencias repetidas a la cultura pop."
-    ]
+    ],
+    "tmdb_id": 1159559,
+    "media_type": "movie"
   },
   {
-    "celebrity": "The Super Mario Bros Movie",
+    "celebrity": "Super Mario Bros: La película",
     "gender": "",
     "facts": [
       "Sus pistas se derivan del escenario, el conflicto central y las imágenes memorables de la pantalla más que del nombre.",
       "Busque el tipo de personajes, escenario y situación de género que los fanáticos asocian con él.",
       "La mejor pista es el estado de ánimo: una mezcla reconocible de lo que está en juego, estilo visual y referencias repetidas a la cultura pop."
-    ]
+    ],
+    "tmdb_id": 502356,
+    "media_type": "movie"
   },
   {
-    "celebrity": "War Machine",
+    "celebrity": "Máquina de guerra",
     "gender": "",
     "facts": [
       "Sus pistas se derivan del escenario, el conflicto central y las imágenes memorables de la pantalla más que del nombre.",
       "Busque el tipo de personajes, escenario y situación de género que los fanáticos asocian con él.",
       "La mejor pista es el estado de ánimo: una mezcla reconocible de lo que está en juego, estilo visual y referencias repetidas a la cultura pop."
-    ]
+    ],
+    "tmdb_id": 1265609,
+    "media_type": "movie"
   },
   {
-    "celebrity": "Protector",
+    "celebrity": "Instinto protector",
     "gender": "",
     "facts": [
       "Sus pistas se derivan del escenario, el conflicto central y las imágenes memorables de la pantalla más que del nombre.",
       "Busque el tipo de personajes, escenario y situación de género que los fanáticos asocian con él.",
       "La mejor pista es el estado de ánimo: una mezcla reconocible de lo que está en juego, estilo visual y referencias repetidas a la cultura pop."
-    ]
+    ],
+    "tmdb_id": 1383731,
+    "media_type": "movie"
   },
   {
     "celebrity": "Anaconda",
@@ -1383,34 +1689,42 @@
       "Sus pistas se derivan del escenario, el conflicto central y las imágenes memorables de la pantalla más que del nombre.",
       "Busque el tipo de personajes, escenario y situación de género que los fanáticos asocian con él.",
       "La mejor pista es el estado de ánimo: una mezcla reconocible de lo que está en juego, estilo visual y referencias repetidas a la cultura pop."
-    ]
+    ],
+    "tmdb_id": 1234731,
+    "media_type": "movie"
   },
   {
-    "celebrity": "Wuthering Heights",
+    "celebrity": "“Cumbres Borrascosas”",
     "gender": "",
     "facts": [
       "Sus pistas se derivan del escenario, el conflicto central y las imágenes memorables de la pantalla más que del nombre.",
       "Busque el tipo de personajes, escenario y situación de género que los fanáticos asocian con él.",
       "La mejor pista es el estado de ánimo: una mezcla reconocible de lo que está en juego, estilo visual y referencias repetidas a la cultura pop."
-    ]
+    ],
+    "tmdb_id": 1316092,
+    "media_type": "movie"
   },
   {
-    "celebrity": "The Conjuring Last Rites",
+    "celebrity": "El Conjuro 4: Últimos ritos",
     "gender": "",
     "facts": [
       "Sus pistas se derivan del escenario, el conflicto central y las imágenes memorables de la pantalla más que del nombre.",
       "Busque el tipo de personajes, escenario y situación de género que los fanáticos asocian con él.",
       "La mejor pista es el estado de ánimo: una mezcla reconocible de lo que está en juego, estilo visual y referencias repetidas a la cultura pop."
-    ]
+    ],
+    "tmdb_id": 1038392,
+    "media_type": "movie"
   },
   {
-    "celebrity": "Thrash",
+    "celebrity": "Embestida",
     "gender": "",
     "facts": [
       "Sus pistas se derivan del escenario, el conflicto central y las imágenes memorables de la pantalla más que del nombre.",
       "Busque el tipo de personajes, escenario y situación de género que los fanáticos asocian con él.",
       "La mejor pista es el estado de ánimo: una mezcla reconocible de lo que está en juego, estilo visual y referencias repetidas a la cultura pop."
-    ]
+    ],
+    "tmdb_id": 1290417,
+    "media_type": "movie"
   },
   {
     "celebrity": "Kraken",
@@ -1419,34 +1733,42 @@
       "Sus pistas se derivan del escenario, el conflicto central y las imágenes memorables de la pantalla más que del nombre.",
       "Busque el tipo de personajes, escenario y situación de género que los fanáticos asocian con él.",
       "La mejor pista es el estado de ánimo: una mezcla reconocible de lo que está en juego, estilo visual y referencias repetidas a la cultura pop."
-    ]
+    ],
+    "tmdb_id": 1110034,
+    "media_type": "movie"
   },
   {
-    "celebrity": "The Strangers Chapter 3",
+    "celebrity": "Los Extraños: Capítulo 3",
     "gender": "",
     "facts": [
       "Sus pistas se derivan del escenario, el conflicto central y las imágenes memorables de la pantalla más que del nombre.",
       "Busque el tipo de personajes, escenario y situación de género que los fanáticos asocian con él.",
       "La mejor pista es el estado de ánimo: una mezcla reconocible de lo que está en juego, estilo visual y referencias repetidas a la cultura pop."
-    ]
+    ],
+    "tmdb_id": 1010755,
+    "media_type": "movie"
   },
   {
-    "celebrity": "The Odyssey",
+    "celebrity": "La Odisea",
     "gender": "",
     "facts": [
       "Sus pistas se derivan del escenario, el conflicto central y las imágenes memorables de la pantalla más que del nombre.",
       "Busque el tipo de personajes, escenario y situación de género que los fanáticos asocian con él.",
       "La mejor pista es el estado de ánimo: una mezcla reconocible de lo que está en juego, estilo visual y referencias repetidas a la cultura pop."
-    ]
+    ],
+    "tmdb_id": 1368337,
+    "media_type": "movie"
   },
   {
-    "celebrity": "F1",
+    "celebrity": "F1 la película",
     "gender": "",
     "facts": [
       "Sus pistas se derivan del escenario, el conflicto central y las imágenes memorables de la pantalla más que del nombre.",
       "Busque el tipo de personajes, escenario y situación de género que los fanáticos asocian con él.",
       "La mejor pista es el estado de ánimo: una mezcla reconocible de lo que está en juego, estilo visual y referencias repetidas a la cultura pop."
-    ]
+    ],
+    "tmdb_id": 911430,
+    "media_type": "movie"
   },
   {
     "celebrity": "Influencers",
@@ -1455,34 +1777,42 @@
       "Sus pistas se derivan del escenario, el conflicto central y las imágenes memorables de la pantalla más que del nombre.",
       "Busque el tipo de personajes, escenario y situación de género que los fanáticos asocian con él.",
       "La mejor pista es el estado de ánimo: una mezcla reconocible de lo que está en juego, estilo visual y referencias repetidas a la cultura pop."
-    ]
+    ],
+    "tmdb_id": 1476740,
+    "media_type": "movie"
   },
   {
-    "celebrity": "Now You See Me Now You Dont",
+    "celebrity": "Los ilusionistas 3: Ahora me ves, ahora no",
     "gender": "",
     "facts": [
       "Sus pistas se derivan del escenario, el conflicto central y las imágenes memorables de la pantalla más que del nombre.",
       "Busque el tipo de personajes, escenario y situación de género que los fanáticos asocian con él.",
       "La mejor pista es el estado de ánimo: una mezcla reconocible de lo que está en juego, estilo visual y referencias repetidas a la cultura pop."
-    ]
+    ],
+    "tmdb_id": 425274,
+    "media_type": "movie"
   },
   {
-    "celebrity": "Mike Nick Nick Alice",
+    "celebrity": "Mike y Nick y Nick y Alice",
     "gender": "",
     "facts": [
       "Sus pistas se derivan del escenario, el conflicto central y las imágenes memorables de la pantalla más que del nombre.",
       "Busque el tipo de personajes, escenario y situación de género que los fanáticos asocian con él.",
       "La mejor pista es el estado de ánimo: una mezcla reconocible de lo que está en juego, estilo visual y referencias repetidas a la cultura pop."
-    ]
+    ],
+    "tmdb_id": 1115544,
+    "media_type": "movie"
   },
   {
-    "celebrity": "Kpop Demon Hunters",
+    "celebrity": "Las guerreras k-pop",
     "gender": "",
     "facts": [
       "Sus pistas se derivan del escenario, el conflicto central y las imágenes memorables de la pantalla más que del nombre.",
       "Busque el tipo de personajes, escenario y situación de género que los fanáticos asocian con él.",
       "La mejor pista es el estado de ánimo: una mezcla reconocible de lo que está en juego, estilo visual y referencias repetidas a la cultura pop."
-    ]
+    ],
+    "tmdb_id": 803796,
+    "media_type": "movie"
   },
   {
     "celebrity": "A Breed Apart",
@@ -1491,7 +1821,9 @@
       "Sus pistas se derivan del escenario, el conflicto central y las imágenes memorables de la pantalla más que del nombre.",
       "Busque el tipo de personajes, escenario y situación de género que los fanáticos asocian con él.",
       "La mejor pista es el estado de ánimo: una mezcla reconocible de lo que está en juego, estilo visual y referencias repetidas a la cultura pop."
-    ]
+    ],
+    "tmdb_id": 1303055,
+    "media_type": "movie"
   },
   {
     "celebrity": "Worldbreaker",
@@ -1500,52 +1832,64 @@
       "Sus pistas se derivan del escenario, el conflicto central y las imágenes memorables de la pantalla más que del nombre.",
       "Busque el tipo de personajes, escenario y situación de género que los fanáticos asocian con él.",
       "La mejor pista es el estado de ánimo: una mezcla reconocible de lo que está en juego, estilo visual y referencias repetidas a la cultura pop."
-    ]
+    ],
+    "tmdb_id": 1196067,
+    "media_type": "movie"
   },
   {
-    "celebrity": "Jurassic World Rebirth",
+    "celebrity": "Jurassic World: El renacer",
     "gender": "",
     "facts": [
       "Sus pistas se derivan del escenario, el conflicto central y las imágenes memorables de la pantalla más que del nombre.",
       "Busque el tipo de personajes, escenario y situación de género que los fanáticos asocian con él.",
       "La mejor pista es el estado de ánimo: una mezcla reconocible de lo que está en juego, estilo visual y referencias repetidas a la cultura pop."
-    ]
+    ],
+    "tmdb_id": 1234821,
+    "media_type": "movie"
   },
   {
-    "celebrity": "The Wrecking Crew",
+    "celebrity": "Equipo Demolición",
     "gender": "",
     "facts": [
       "Sus pistas se derivan del escenario, el conflicto central y las imágenes memorables de la pantalla más que del nombre.",
       "Busque el tipo de personajes, escenario y situación de género que los fanáticos asocian con él.",
       "La mejor pista es el estado de ánimo: una mezcla reconocible de lo que está en juego, estilo visual y referencias repetidas a la cultura pop."
-    ]
+    ],
+    "tmdb_id": 1168190,
+    "media_type": "movie"
   },
   {
-    "celebrity": "Mercy",
+    "celebrity": "Sin piedad",
     "gender": "",
     "facts": [
       "Sus pistas se derivan del escenario, el conflicto central y las imágenes memorables de la pantalla más que del nombre.",
       "Busque el tipo de personajes, escenario y situación de género que los fanáticos asocian con él.",
       "La mejor pista es el estado de ánimo: una mezcla reconocible de lo que está en juego, estilo visual y referencias repetidas a la cultura pop."
-    ]
+    ],
+    "tmdb_id": 1236153,
+    "media_type": "movie"
   },
   {
-    "celebrity": "The Lord of the Rings the Return of the King",
+    "celebrity": "El señor de los anillos: El retorno del rey",
     "gender": "",
     "facts": [
       "Sus pistas se derivan del escenario, el conflicto central y las imágenes memorables de la pantalla más que del nombre.",
       "Busque el tipo de personajes, escenario y situación de género que los fanáticos asocian con él.",
       "La mejor pista es el estado de ánimo: una mezcla reconocible de lo que está en juego, estilo visual y referencias repetidas a la cultura pop."
-    ]
+    ],
+    "tmdb_id": 122,
+    "media_type": "movie"
   },
   {
-    "celebrity": "The Rip",
+    "celebrity": "El botín",
     "gender": "",
     "facts": [
       "Sus pistas se derivan del escenario, el conflicto central y las imágenes memorables de la pantalla más que del nombre.",
       "Busque el tipo de personajes, escenario y situación de género que los fanáticos asocian con él.",
       "La mejor pista es el estado de ánimo: una mezcla reconocible de lo que está en juego, estilo visual y referencias repetidas a la cultura pop."
-    ]
+    ],
+    "tmdb_id": 1306368,
+    "media_type": "movie"
   },
   {
     "celebrity": "Ted 2",
@@ -1554,7 +1898,9 @@
       "Sus pistas se derivan del escenario, el conflicto central y las imágenes memorables de la pantalla más que del nombre.",
       "Busque el tipo de personajes, escenario y situación de género que los fanáticos asocian con él.",
       "La mejor pista es el estado de ánimo: una mezcla reconocible de lo que está en juego, estilo visual y referencias repetidas a la cultura pop."
-    ]
+    ],
+    "tmdb_id": 214756,
+    "media_type": "movie"
   },
   {
     "celebrity": "Kung Fu Panda 4",
@@ -1563,25 +1909,31 @@
       "Sus pistas se derivan del escenario, el conflicto central y las imágenes memorables de la pantalla más que del nombre.",
       "Busque el tipo de personajes, escenario y situación de género que los fanáticos asocian con él.",
       "La mejor pista es el estado de ánimo: una mezcla reconocible de lo que está en juego, estilo visual y referencias repetidas a la cultura pop."
-    ]
+    ],
+    "tmdb_id": 1011985,
+    "media_type": "movie"
   },
   {
-    "celebrity": "The Running Man",
+    "celebrity": "El sobreviviente",
     "gender": "",
     "facts": [
       "Sus pistas se derivan del escenario, el conflicto central y las imágenes memorables de la pantalla más que del nombre.",
       "Busque el tipo de personajes, escenario y situación de género que los fanáticos asocian con él.",
       "La mejor pista es el estado de ánimo: una mezcla reconocible de lo que está en juego, estilo visual y referencias repetidas a la cultura pop."
-    ]
+    ],
+    "tmdb_id": 798645,
+    "media_type": "movie"
   },
   {
-    "celebrity": "The Beekeeper",
+    "celebrity": "Beekeeper: El protector",
     "gender": "",
     "facts": [
       "Sus pistas se derivan del escenario, el conflicto central y las imágenes memorables de la pantalla más que del nombre.",
       "Busque el tipo de personajes, escenario y situación de género que los fanáticos asocian con él.",
       "La mejor pista es el estado de ánimo: una mezcla reconocible de lo que está en juego, estilo visual y referencias repetidas a la cultura pop."
-    ]
+    ],
+    "tmdb_id": 866398,
+    "media_type": "movie"
   },
   {
     "celebrity": "Superman",
@@ -1590,25 +1942,31 @@
       "Sus pistas se derivan del escenario, el conflicto central y las imágenes memorables de la pantalla más que del nombre.",
       "Busque el tipo de personajes, escenario y situación de género que los fanáticos asocian con él.",
       "La mejor pista es el estado de ánimo: una mezcla reconocible de lo que está en juego, estilo visual y referencias repetidas a la cultura pop."
-    ]
+    ],
+    "tmdb_id": 1061474,
+    "media_type": "movie"
   },
   {
-    "celebrity": "The Bride",
+    "celebrity": "¡La novia!",
     "gender": "",
     "facts": [
       "Sus pistas se derivan del escenario, el conflicto central y las imágenes memorables de la pantalla más que del nombre.",
       "Busque el tipo de personajes, escenario y situación de género que los fanáticos asocian con él.",
       "La mejor pista es el estado de ánimo: una mezcla reconocible de lo que está en juego, estilo visual y referencias repetidas a la cultura pop."
-    ]
+    ],
+    "tmdb_id": 1159831,
+    "media_type": "movie"
   },
   {
-    "celebrity": "The Lord of the Rings the Fellowship of the Ring",
+    "celebrity": "El señor de los anillos: La comunidad del anillo",
     "gender": "",
     "facts": [
       "Sus pistas se derivan del escenario, el conflicto central y las imágenes memorables de la pantalla más que del nombre.",
       "Busque el tipo de personajes, escenario y situación de género que los fanáticos asocian con él.",
       "La mejor pista es el estado de ánimo: una mezcla reconocible de lo que está en juego, estilo visual y referencias repetidas a la cultura pop."
-    ]
+    ],
+    "tmdb_id": 120,
+    "media_type": "movie"
   },
   {
     "celebrity": "Mortal Kombat",
@@ -1617,43 +1975,53 @@
       "Sus pistas se derivan del escenario, el conflicto central y las imágenes memorables de la pantalla más que del nombre.",
       "Busque el tipo de personajes, escenario y situación de género que los fanáticos asocian con él.",
       "La mejor pista es el estado de ánimo: una mezcla reconocible de lo que está en juego, estilo visual y referencias repetidas a la cultura pop."
-    ]
+    ],
+    "tmdb_id": 460465,
+    "media_type": "movie"
   },
   {
-    "celebrity": "Sisu Road to Revenge",
+    "celebrity": "Sisu: Camino a la venganza",
     "gender": "",
     "facts": [
       "Sus pistas se derivan del escenario, el conflicto central y las imágenes memorables de la pantalla más que del nombre.",
       "Busque el tipo de personajes, escenario y situación de género que los fanáticos asocian con él.",
       "La mejor pista es el estado de ánimo: una mezcla reconocible de lo que está en juego, estilo visual y referencias repetidas a la cultura pop."
-    ]
+    ],
+    "tmdb_id": 1223601,
+    "media_type": "movie"
   },
   {
-    "celebrity": "Peaky Blinders the Immortal Man",
+    "celebrity": "Peaky Blinders: El hombre inmortal",
     "gender": "",
     "facts": [
       "Sus pistas se derivan del escenario, el conflicto central y las imágenes memorables de la pantalla más que del nombre.",
       "Busque el tipo de personajes, escenario y situación de género que los fanáticos asocian con él.",
       "La mejor pista es el estado de ánimo: una mezcla reconocible de lo que está en juego, estilo visual y referencias repetidas a la cultura pop."
-    ]
+    ],
+    "tmdb_id": 875828,
+    "media_type": "movie"
   },
   {
-    "celebrity": "Schindlers List",
+    "celebrity": "La Lista de Schindler",
     "gender": "",
     "facts": [
       "Sus pistas se derivan del escenario, el conflicto central y las imágenes memorables de la pantalla más que del nombre.",
       "Busque el tipo de personajes, escenario y situación de género que los fanáticos asocian con él.",
       "La mejor pista es el estado de ánimo: una mezcla reconocible de lo que está en juego, estilo visual y referencias repetidas a la cultura pop."
-    ]
+    ],
+    "tmdb_id": 424,
+    "media_type": "movie"
   },
   {
-    "celebrity": "The Amateur",
+    "celebrity": "El amateur: Operación venganza",
     "gender": "",
     "facts": [
       "Sus pistas se derivan del escenario, el conflicto central y las imágenes memorables de la pantalla más que del nombre.",
       "Busque el tipo de personajes, escenario y situación de género que los fanáticos asocian con él.",
       "La mejor pista es el estado de ánimo: una mezcla reconocible de lo que está en juego, estilo visual y referencias repetidas a la cultura pop."
-    ]
+    ],
+    "tmdb_id": 1087891,
+    "media_type": "movie"
   },
   {
     "celebrity": "Five Nights at Freddys 2",
@@ -1662,25 +2030,31 @@
       "Sus pistas se derivan del escenario, el conflicto central y las imágenes memorables de la pantalla más que del nombre.",
       "Busque el tipo de personajes, escenario y situación de género que los fanáticos asocian con él.",
       "La mejor pista es el estado de ánimo: una mezcla reconocible de lo que está en juego, estilo visual y referencias repetidas a la cultura pop."
-    ]
+    ],
+    "tmdb_id": 1228246,
+    "media_type": "movie"
   },
   {
-    "celebrity": "Despicable Me 4",
+    "celebrity": "Gru 4. Mi villano favorito",
     "gender": "",
     "facts": [
       "Sus pistas se derivan del escenario, el conflicto central y las imágenes memorables de la pantalla más que del nombre.",
       "Busque el tipo de personajes, escenario y situación de género que los fanáticos asocian con él.",
       "La mejor pista es el estado de ánimo: una mezcla reconocible de lo que está en juego, estilo visual y referencias repetidas a la cultura pop."
-    ]
+    ],
+    "tmdb_id": 519182,
+    "media_type": "movie"
   },
   {
-    "celebrity": "Good Luck Have Fun Dont Die",
+    "celebrity": "Buena suerte, diviértete, no mueras",
     "gender": "",
     "facts": [
       "Sus pistas se derivan del escenario, el conflicto central y las imágenes memorables de la pantalla más que del nombre.",
       "Busque el tipo de personajes, escenario y situación de género que los fanáticos asocian con él.",
       "La mejor pista es el estado de ánimo: una mezcla reconocible de lo que está en juego, estilo visual y referencias repetidas a la cultura pop."
-    ]
+    ],
+    "tmdb_id": 1119449,
+    "media_type": "movie"
   },
   {
     "celebrity": "Outcome",
@@ -1689,16 +2063,20 @@
       "Sus pistas se derivan del escenario, el conflicto central y las imágenes memorables de la pantalla más que del nombre.",
       "Busque el tipo de personajes, escenario y situación de género que los fanáticos asocian con él.",
       "La mejor pista es el estado de ánimo: una mezcla reconocible de lo que está en juego, estilo visual y referencias repetidas a la cultura pop."
-    ]
+    ],
+    "tmdb_id": 1049471,
+    "media_type": "movie"
   },
   {
-    "celebrity": "Ready or Not",
+    "celebrity": "Boda Sangrienta",
     "gender": "",
     "facts": [
       "Sus pistas se derivan del escenario, el conflicto central y las imágenes memorables de la pantalla más que del nombre.",
       "Busque el tipo de personajes, escenario y situación de género que los fanáticos asocian con él.",
       "La mejor pista es el estado de ánimo: una mezcla reconocible de lo que está en juego, estilo visual y referencias repetidas a la cultura pop."
-    ]
+    ],
+    "tmdb_id": 567609,
+    "media_type": "movie"
   },
   {
     "celebrity": "Our Fault",
@@ -1707,7 +2085,9 @@
       "Sus pistas se derivan del escenario, el conflicto central y las imágenes memorables de la pantalla más que del nombre.",
       "Busque el tipo de personajes, escenario y situación de género que los fanáticos asocian con él.",
       "La mejor pista es el estado de ánimo: una mezcla reconocible de lo que está en juego, estilo visual y referencias repetidas a la cultura pop."
-    ]
+    ],
+    "tmdb_id": 1156594,
+    "media_type": "movie"
   },
   {
     "celebrity": "Exit 8",
@@ -1716,34 +2096,42 @@
       "Sus pistas se derivan del escenario, el conflicto central y las imágenes memorables de la pantalla más que del nombre.",
       "Busque el tipo de personajes, escenario y situación de género que los fanáticos asocian con él.",
       "La mejor pista es el estado de ánimo: una mezcla reconocible de lo que está en juego, estilo visual y referencias repetidas a la cultura pop."
-    ]
+    ],
+    "tmdb_id": 1408208,
+    "media_type": "movie"
   },
   {
-    "celebrity": "The Wolf of Wall Street",
+    "celebrity": "El Lobo de Wall Street",
     "gender": "",
     "facts": [
       "Sus pistas se derivan del escenario, el conflicto central y las imágenes memorables de la pantalla más que del nombre.",
       "Busque el tipo de personajes, escenario y situación de género que los fanáticos asocian con él.",
       "La mejor pista es el estado de ánimo: una mezcla reconocible de lo que está en juego, estilo visual y referencias repetidas a la cultura pop."
-    ]
+    ],
+    "tmdb_id": 106646,
+    "media_type": "movie"
   },
   {
-    "celebrity": "Hunting Season",
+    "celebrity": "Temporada de Sangre",
     "gender": "",
     "facts": [
       "Sus pistas se derivan del escenario, el conflicto central y las imágenes memorables de la pantalla más que del nombre.",
       "Busque el tipo de personajes, escenario y situación de género que los fanáticos asocian con él.",
       "La mejor pista es el estado de ánimo: una mezcla reconocible de lo que está en juego, estilo visual y referencias repetidas a la cultura pop."
-    ]
+    ],
+    "tmdb_id": 1387382,
+    "media_type": "movie"
   },
   {
-    "celebrity": "Mission Impossible the Final Reckoning",
+    "celebrity": "Misión: Imposible - Sentencia final",
     "gender": "",
     "facts": [
       "Sus pistas se derivan del escenario, el conflicto central y las imágenes memorables de la pantalla más que del nombre.",
       "Busque el tipo de personajes, escenario y situación de género que los fanáticos asocian con él.",
       "La mejor pista es el estado de ánimo: una mezcla reconocible de lo que está en juego, estilo visual y referencias repetidas a la cultura pop."
-    ]
+    ],
+    "tmdb_id": 575265,
+    "media_type": "movie"
   },
   {
     "celebrity": "Wicked",
@@ -1752,51 +2140,63 @@
       "Sus pistas se derivan del escenario, el conflicto central y las imágenes memorables de la pantalla más que del nombre.",
       "Busque el tipo de personajes, escenario y situación de género que los fanáticos asocian con él.",
       "La mejor pista es el estado de ánimo: una mezcla reconocible de lo que está en juego, estilo visual y referencias repetidas a la cultura pop."
-    ]
+    ],
+    "tmdb_id": 402431,
+    "media_type": "movie"
   },
   {
-    "celebrity": "A Minecraft Movie",
+    "celebrity": "Una película de Minecraft",
     "gender": "",
     "facts": [
       "Sus pistas se derivan del escenario, el conflicto central y las imágenes memorables de la pantalla más que del nombre.",
       "Busque el tipo de personajes, escenario y situación de género que los fanáticos asocian con él.",
       "La mejor pista es el estado de ánimo: una mezcla reconocible de lo que está en juego, estilo visual y referencias repetidas a la cultura pop."
-    ]
+    ],
+    "tmdb_id": 950387,
+    "media_type": "movie"
   },
   {
-    "celebrity": "Dune Part Two",
+    "celebrity": "Duna: Parte dos",
     "gender": "",
     "facts": [
       "Sus pistas se derivan del escenario, el conflicto central y las imágenes memorables de la pantalla más que del nombre.",
       "Busque el tipo de personajes, escenario y situación de género que los fanáticos asocian con él.",
       "La mejor pista es el estado de ánimo: una mezcla reconocible de lo que está en juego, estilo visual y referencias repetidas a la cultura pop."
-    ]
+    ],
+    "tmdb_id": 693134,
+    "media_type": "movie"
   },
   {
-    "celebrity": "Spider Man Homecoming",
+    "celebrity": "Spider-Man: De regreso a casa",
     "gender": "",
     "facts": [
       "Sus pistas se derivan del escenario, el conflicto central y las imágenes memorables de la pantalla más que del nombre.",
       "Busque el tipo de personajes, escenario y situación de género que los fanáticos asocian con él.",
       "La mejor pista es el estado de ánimo: una mezcla reconocible de lo que está en juego, estilo visual y referencias repetidas a la cultura pop."
-    ]
+    ],
+    "tmdb_id": 315635,
+    "media_type": "movie"
   },
   {
-    "celebrity": "Avatar the Way of Water",
+    "celebrity": "Avatar: El camino del agua",
     "gender": "",
     "facts": [
       "Sus pistas se derivan del escenario, el conflicto central y las imágenes memorables de la pantalla más que del nombre.",
       "Busque el tipo de personajes, escenario y situación de género que los fanáticos asocian con él.",
       "La mejor pista es el estado de ánimo: una mezcla reconocible de lo que está en juego, estilo visual y referencias repetidas a la cultura pop."
-    ]
+    ],
+    "tmdb_id": 76600,
+    "media_type": "movie"
   },
   {
-    "celebrity": "The Wild Robot",
+    "celebrity": "Robot salvaje",
     "gender": "",
     "facts": [
       "Sus pistas se derivan del escenario, el conflicto central y las imágenes memorables de la pantalla más que del nombre.",
       "Busque el tipo de personajes, escenario y situación de género que los fanáticos asocian con él.",
       "La mejor pista es el estado de ánimo: una mezcla reconocible de lo que está en juego, estilo visual y referencias repetidas a la cultura pop."
-    ]
+    ],
+    "tmdb_id": 1184918,
+    "media_type": "movie"
   }
 ]

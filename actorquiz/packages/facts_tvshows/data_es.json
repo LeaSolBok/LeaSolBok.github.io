@@ -6,7 +6,9 @@
       "Los superhéroes respaldados por corporaciones se comportan como celebridades, armas y desastres de relaciones públicas.",
       "Un equipo de venganza intenta exponer figuras con capa que son mucho menos nobles que su marca.",
       "Ojos láser, rescates falsos y una sátira brutal del culto a los héroes son pistas importantes."
-    ]
+    ],
+    "tmdb_id": 76479,
+    "media_type": "tv"
   },
   {
     "celebrity": "Euphoria",
@@ -15,7 +17,9 @@
       "La vida de los adolescentes se muestra a través de adicciones, imágenes llenas de brillo, fiestas y consecuencias emocionales.",
       "La recaída y las amistades del narrador dan forma a gran parte de la inestabilidad de la historia.",
       "Su estilo es conocido por las luces de neón, el maquillaje intenso y las relaciones desordenadas en la escuela secundaria."
-    ]
+    ],
+    "tmdb_id": 85552,
+    "media_type": "tv"
   },
   {
     "celebrity": "The Rookie",
@@ -24,70 +28,86 @@
       "Sus pistas se basan en el escenario recurrente, la dinámica de los personajes y los conflictos de larga duración que los fanáticos recuerdan.",
       "Piense en el entorno semanal que construye: trabajos, parientes, investigaciones, peligro, fantasía o presión de supervivencia.",
       "La pista está en sus ingredientes repetibles: relaciones, ubicaciones, rituales y el tipo de problema que sigue regresando."
-    ]
+    ],
+    "tmdb_id": 79744,
+    "media_type": "tv"
   },
   {
-    "celebrity": "Supernatural",
+    "celebrity": "Sobrenatural",
     "gender": "",
     "facts": [
       "Dos hermanos recorren Estados Unidos cazando demonios, fantasmas, monstruos y amenazas apocalípticas.",
       "Un muscle car negro, círculos de sal, espadas de ángel y rock clásico son pistas importantes.",
       "La lealtad familiar importa tanto como los casos semanales de criaturas."
-    ]
+    ],
+    "tmdb_id": 1622,
+    "media_type": "tv"
   },
   {
-    "celebrity": "Ncis",
+    "celebrity": "NCIS: Criminología Naval",
     "gender": "",
     "facts": [
       "Sus pistas se basan en el escenario recurrente, la dinámica de los personajes y los conflictos de larga duración que los fanáticos recuerdan.",
       "Piense en el entorno semanal que construye: trabajos, parientes, investigaciones, peligro, fantasía o presión de supervivencia.",
       "La pista está en sus ingredientes repetibles: relaciones, ubicaciones, rituales y el tipo de problema que sigue regresando."
-    ]
+    ],
+    "tmdb_id": 4614,
+    "media_type": "tv"
   },
   {
-    "celebrity": "The Mentalist",
+    "celebrity": "El Mentalista",
     "gender": "",
     "facts": [
       "Sus pistas se basan en el escenario recurrente, la dinámica de los personajes y los conflictos de larga duración que los fanáticos recuerdan.",
       "Piense en el entorno semanal que construye: trabajos, parientes, investigaciones, peligro, fantasía o presión de supervivencia.",
       "La pista está en sus ingredientes repetibles: relaciones, ubicaciones, rituales y el tipo de problema que sigue regresando."
-    ]
+    ],
+    "tmdb_id": 5920,
+    "media_type": "tv"
   },
   {
-    "celebrity": "Game of Thrones",
+    "celebrity": "Juego de tronos",
     "gender": "",
     "facts": [
       "Las casas nobles luchan por el poder mientras una antigua amenaza helada crece más allá de un muro gigante.",
       "Dragones, lobos huargos, traiciones y bodas impactantes son pistas importantes.",
       "Su mundo mezcla política cortesana, estandartes familiares y brutales batallas por la sucesión."
-    ]
+    ],
+    "tmdb_id": 1399,
+    "media_type": "tv"
   },
   {
-    "celebrity": "Criminal Minds",
+    "celebrity": "Mentes Criminales",
     "gender": "",
     "facts": [
       "Sus pistas se basan en el escenario recurrente, la dinámica de los personajes y los conflictos de larga duración que los fanáticos recuerdan.",
       "Piense en el entorno semanal que construye: trabajos, parientes, investigaciones, peligro, fantasía o presión de supervivencia.",
       "La pista está en sus ingredientes repetibles: relaciones, ubicaciones, rituales y el tipo de problema que sigue regresando."
-    ]
+    ],
+    "tmdb_id": 4057,
+    "media_type": "tv"
   },
   {
-    "celebrity": "House",
+    "celebrity": "Dr. House",
     "gender": "",
     "facts": [
       "Sus pistas se basan en el escenario recurrente, la dinámica de los personajes y los conflictos de larga duración que los fanáticos recuerdan.",
       "Piense en el entorno semanal que construye: trabajos, parientes, investigaciones, peligro, fantasía o presión de supervivencia.",
       "La pista está en sus ingredientes repetibles: relaciones, ubicaciones, rituales y el tipo de problema que sigue regresando."
-    ]
+    ],
+    "tmdb_id": 1408,
+    "media_type": "tv"
   },
   {
-    "celebrity": "The Blacklist",
+    "celebrity": "La lista negra",
     "gender": "",
     "facts": [
       "Sus pistas se basan en el escenario recurrente, la dinámica de los personajes y los conflictos de larga duración que los fanáticos recuerdan.",
       "Piense en el entorno semanal que construye: trabajos, parientes, investigaciones, peligro, fantasía o presión de supervivencia.",
       "La pista está en sus ingredientes repetibles: relaciones, ubicaciones, rituales y el tipo de problema que sigue regresando."
-    ]
+    ],
+    "tmdb_id": 46952,
+    "media_type": "tv"
   },
   {
     "celebrity": "Smallville",
@@ -96,7 +116,9 @@
       "Sus pistas se basan en el escenario recurrente, la dinámica de los personajes y los conflictos de larga duración que los fanáticos recuerdan.",
       "Piense en el entorno semanal que construye: trabajos, parientes, investigaciones, peligro, fantasía o presión de supervivencia.",
       "La pista está en sus ingredientes repetibles: relaciones, ubicaciones, rituales y el tipo de problema que sigue regresando."
-    ]
+    ],
+    "tmdb_id": 4604,
+    "media_type": "tv"
   },
   {
     "celebrity": "Stranger Things",
@@ -105,7 +127,9 @@
       "Los niños de un pequeño pueblo descubren un mundo de pesadilla paralelo después de que un amigo desaparece.",
       "Las luces navideñas, las bicicletas, los juegos de arcade y los poderes psíquicos son pistas importantes.",
       "Sus monstruos y laboratorios gubernamentales convierten la nostalgia de los 80 en una aventura de terror."
-    ]
+    ],
+    "tmdb_id": 66732,
+    "media_type": "tv"
   },
   {
     "celebrity": "The Walking Dead",
@@ -114,25 +138,31 @@
       "Los supervivientes se mueven a través de un mundo colapsado donde los caminantes son peligrosos pero las personas pueden ser peores.",
       "El sombrero de sheriff, las vallas de las prisiones y las comunidades con líderes duros son pistas recurrentes.",
       "El drama a menudo pregunta cuánto cuesta la civilización después de que la sociedad se desmorona."
-    ]
+    ],
+    "tmdb_id": 1402,
+    "media_type": "tv"
   },
   {
-    "celebrity": "Suits",
+    "celebrity": "La Ley de los Audaces",
     "gender": "",
     "facts": [
       "Un brillante desertor de la universidad ingresa a un bufete de abogados de alto nivel a pesar de no tener el título requerido.",
       "Ropa a medida, bromas ingeniosas y secretos de archivo impulsan el drama.",
       "La asociación central sobrevive fanfarroneando, negociando y protegiendo una mentira imposible."
-    ]
+    ],
+    "tmdb_id": 37680,
+    "media_type": "tv"
   },
   {
-    "celebrity": "The Office",
+    "celebrity": "La Oficina",
     "gender": "",
     "facts": [
       "Los empleados de una empresa papelera son filmados como si un equipo de documentales nunca los dejara en paz.",
       "Reuniones incómodas, guerras de bromas y un jefe desesperado por ser amado son pistas centrales.",
       "Una grapadora de gelatina y un vendedor de remolacha se convirtieron en taquigrafía de aficionados."
-    ]
+    ],
+    "tmdb_id": 2316,
+    "media_type": "tv"
   },
   {
     "celebrity": "Breaking Bad",
@@ -141,7 +171,9 @@
       "Un profesor de química recurre a cocinar sustancias ilegales tras un diagnóstico terminal.",
       "Un laboratorio en el desierto, un producto azul y un sombrero de cerdo marcan la transformación.",
       "La historia sigue cómo el orgullo y el miedo convierten a un proveedor desesperado en un cerebro criminal."
-    ]
+    ],
+    "tmdb_id": 1396,
+    "media_type": "tv"
   },
   {
     "celebrity": "Peaky Blinders",
@@ -150,7 +182,9 @@
       "Sus pistas se basan en el escenario recurrente, la dinámica de los personajes y los conflictos de larga duración que los fanáticos recuerdan.",
       "Piense en el entorno semanal que construye: trabajos, parientes, investigaciones, peligro, fantasía o presión de supervivencia.",
       "La pista está en sus ingredientes repetibles: relaciones, ubicaciones, rituales y el tipo de problema que sigue regresando."
-    ]
+    ],
+    "tmdb_id": 60574,
+    "media_type": "tv"
   },
   {
     "celebrity": "Scrubs",
@@ -159,7 +193,9 @@
       "Sus pistas se basan en el escenario recurrente, la dinámica de los personajes y los conflictos de larga duración que los fanáticos recuerdan.",
       "Piense en el entorno semanal que construye: trabajos, parientes, investigaciones, peligro, fantasía o presión de supervivencia.",
       "La pista está en sus ingredientes repetibles: relaciones, ubicaciones, rituales y el tipo de problema que sigue regresando."
-    ]
+    ],
+    "tmdb_id": 4556,
+    "media_type": "tv"
   },
   {
     "celebrity": "Yellowstone",
@@ -168,16 +204,20 @@
       "Sus pistas se basan en el escenario recurrente, la dinámica de los personajes y los conflictos de larga duración que los fanáticos recuerdan.",
       "Piense en el entorno semanal que construye: trabajos, parientes, investigaciones, peligro, fantasía o presión de supervivencia.",
       "La pista está en sus ingredientes repetibles: relaciones, ubicaciones, rituales y el tipo de problema que sigue regresando."
-    ]
+    ],
+    "tmdb_id": 73586,
+    "media_type": "tv"
   },
   {
-    "celebrity": "Man on Fire",
+    "celebrity": "El fuego de la venganza",
     "gender": "",
     "facts": [
       "Sus pistas se basan en el escenario recurrente, la dinámica de los personajes y los conflictos de larga duración que los fanáticos recuerdan.",
       "Piense en el entorno semanal que construye: trabajos, parientes, investigaciones, peligro, fantasía o presión de supervivencia.",
       "La pista está en sus ingredientes repetibles: relaciones, ubicaciones, rituales y el tipo de problema que sigue regresando."
-    ]
+    ],
+    "tmdb_id": 223386,
+    "media_type": "tv"
   },
   {
     "celebrity": "Friends",
@@ -186,7 +226,9 @@
       "Seis jóvenes adultos consideran una cafetería y unos apartamentos cercanos su segundo hogar.",
       "La puerta violeta de un departamento, una canción maloliente y un armadillo navideño son pistas para los fanáticos.",
       "Su humor proviene de los desastres en las citas, el caos entre compañeros de cuarto y la comodidad de la familia encontrada."
-    ]
+    ],
+    "tmdb_id": 1668,
+    "media_type": "tv"
   },
   {
     "celebrity": "Dexter",
@@ -195,7 +237,9 @@
       "Un analista de salpicaduras de sangre sigue en secreto un código ritual para matar a otros asesinos.",
       "Las habitaciones envueltas en plástico, la eliminación de embarcaciones y la narración interior son pistas importantes.",
       "La tensión surge de esconder una doble vida dentro de un departamento de policía."
-    ]
+    ],
+    "tmdb_id": 1405,
+    "media_type": "tv"
   },
   {
     "celebrity": "Outlander",
@@ -204,16 +248,20 @@
       "Sus pistas se basan en el escenario recurrente, la dinámica de los personajes y los conflictos de larga duración que los fanáticos recuerdan.",
       "Piense en el entorno semanal que construye: trabajos, parientes, investigaciones, peligro, fantasía o presión de supervivencia.",
       "La pista está en sus ingredientes repetibles: relaciones, ubicaciones, rituales y el tipo de problema que sigue regresando."
-    ]
+    ],
+    "tmdb_id": 56570,
+    "media_type": "tv"
   },
   {
-    "celebrity": "Fbi",
+    "celebrity": "F.B.I.",
     "gender": "",
     "facts": [
       "Sus pistas se basan en el escenario recurrente, la dinámica de los personajes y los conflictos de larga duración que los fanáticos recuerdan.",
       "Piense en el entorno semanal que construye: trabajos, parientes, investigaciones, peligro, fantasía o presión de supervivencia.",
       "La pista está en sus ingredientes repetibles: relaciones, ubicaciones, rituales y el tipo de problema que sigue regresando."
-    ]
+    ],
+    "tmdb_id": 80748,
+    "media_type": "tv"
   },
   {
     "celebrity": "Castle",
@@ -222,7 +270,9 @@
       "Sus pistas se basan en el escenario recurrente, la dinámica de los personajes y los conflictos de larga duración que los fanáticos recuerdan.",
       "Piense en el entorno semanal que construye: trabajos, parientes, investigaciones, peligro, fantasía o presión de supervivencia.",
       "La pista está en sus ingredientes repetibles: relaciones, ubicaciones, rituales y el tipo de problema que sigue regresando."
-    ]
+    ],
+    "tmdb_id": 1419,
+    "media_type": "tv"
   },
   {
     "celebrity": "Lucifer",
@@ -231,7 +281,9 @@
       "Sus pistas se basan en el escenario recurrente, la dinámica de los personajes y los conflictos de larga duración que los fanáticos recuerdan.",
       "Piense en el entorno semanal que construye: trabajos, parientes, investigaciones, peligro, fantasía o presión de supervivencia.",
       "La pista está en sus ingredientes repetibles: relaciones, ubicaciones, rituales y el tipo de problema que sigue regresando."
-    ]
+    ],
+    "tmdb_id": 63174,
+    "media_type": "tv"
   },
   {
     "celebrity": "9 1 1",
@@ -240,61 +292,75 @@
       "Sus pistas se basan en el escenario recurrente, la dinámica de los personajes y los conflictos de larga duración que los fanáticos recuerdan.",
       "Piense en el entorno semanal que construye: trabajos, parientes, investigaciones, peligro, fantasía o presión de supervivencia.",
       "La pista está en sus ingredientes repetibles: relaciones, ubicaciones, rituales y el tipo de problema que sigue regresando."
-    ]
+    ],
+    "tmdb_id": 75219,
+    "media_type": "tv"
   },
   {
-    "celebrity": "Desperate Housewives",
+    "celebrity": "Esposas Desesperadas",
     "gender": "",
     "facts": [
       "Sus pistas se basan en el escenario recurrente, la dinámica de los personajes y los conflictos de larga duración que los fanáticos recuerdan.",
       "Piense en el entorno semanal que construye: trabajos, parientes, investigaciones, peligro, fantasía o presión de supervivencia.",
       "La pista está en sus ingredientes repetibles: relaciones, ubicaciones, rituales y el tipo de problema que sigue regresando."
-    ]
+    ],
+    "tmdb_id": 693,
+    "media_type": "tv"
   },
   {
-    "celebrity": "Hawaii Five 0",
+    "celebrity": "Hawaii Five-0",
     "gender": "",
     "facts": [
       "Sus pistas se basan en el escenario recurrente, la dinámica de los personajes y los conflictos de larga duración que los fanáticos recuerdan.",
       "Piense en el entorno semanal que construye: trabajos, parientes, investigaciones, peligro, fantasía o presión de supervivencia.",
       "La pista está en sus ingredientes repetibles: relaciones, ubicaciones, rituales y el tipo de problema que sigue regresando."
-    ]
+    ],
+    "tmdb_id": 32798,
+    "media_type": "tv"
   },
   {
-    "celebrity": "Tracker",
+    "celebrity": "Tracker: Buscador de recompensas",
     "gender": "",
     "facts": [
       "Sus pistas se basan en el escenario recurrente, la dinámica de los personajes y los conflictos de larga duración que los fanáticos recuerdan.",
       "Piense en el entorno semanal que construye: trabajos, parientes, investigaciones, peligro, fantasía o presión de supervivencia.",
       "La pista está en sus ingredientes repetibles: relaciones, ubicaciones, rituales y el tipo de problema que sigue regresando."
-    ]
+    ],
+    "tmdb_id": 211288,
+    "media_type": "tv"
   },
   {
-    "celebrity": "Stargate Sg 1",
+    "celebrity": "Stargate SG-1",
     "gender": "",
     "facts": [
       "Sus pistas se basan en el escenario recurrente, la dinámica de los personajes y los conflictos de larga duración que los fanáticos recuerdan.",
       "Piense en el entorno semanal que construye: trabajos, parientes, investigaciones, peligro, fantasía o presión de supervivencia.",
       "La pista está en sus ingredientes repetibles: relaciones, ubicaciones, rituales y el tipo de problema que sigue regresando."
-    ]
+    ],
+    "tmdb_id": 4629,
+    "media_type": "tv"
   },
   {
-    "celebrity": "Chicago Fire",
+    "celebrity": "Chicago en llamas",
     "gender": "",
     "facts": [
       "Sus pistas se basan en el escenario recurrente, la dinámica de los personajes y los conflictos de larga duración que los fanáticos recuerdan.",
       "Piense en el entorno semanal que construye: trabajos, parientes, investigaciones, peligro, fantasía o presión de supervivencia.",
       "La pista está en sus ingredientes repetibles: relaciones, ubicaciones, rituales y el tipo de problema que sigue regresando."
-    ]
+    ],
+    "tmdb_id": 44006,
+    "media_type": "tv"
   },
   {
-    "celebrity": "The Vampire Diaries",
+    "celebrity": "Diarios de Vampiros",
     "gender": "",
     "facts": [
       "Sus pistas se basan en el escenario recurrente, la dinámica de los personajes y los conflictos de larga duración que los fanáticos recuerdan.",
       "Piense en el entorno semanal que construye: trabajos, parientes, investigaciones, peligro, fantasía o presión de supervivencia.",
       "La pista está en sus ingredientes repetibles: relaciones, ubicaciones, rituales y el tipo de problema que sigue regresando."
-    ]
+    ],
+    "tmdb_id": 18165,
+    "media_type": "tv"
   },
   {
     "celebrity": "Prison Break",
@@ -303,25 +369,31 @@
       "Sus pistas se basan en el escenario recurrente, la dinámica de los personajes y los conflictos de larga duración que los fanáticos recuerdan.",
       "Piense en el entorno semanal que construye: trabajos, parientes, investigaciones, peligro, fantasía o presión de supervivencia.",
       "La pista está en sus ingredientes repetibles: relaciones, ubicaciones, rituales y el tipo de problema que sigue regresando."
-    ]
+    ],
+    "tmdb_id": 2288,
+    "media_type": "tv"
   },
   {
-    "celebrity": "Blue Bloods",
+    "celebrity": "Códigos de familia",
     "gender": "",
     "facts": [
       "Sus pistas se basan en el escenario recurrente, la dinámica de los personajes y los conflictos de larga duración que los fanáticos recuerdan.",
       "Piense en el entorno semanal que construye: trabajos, parientes, investigaciones, peligro, fantasía o presión de supervivencia.",
       "La pista está en sus ingredientes repetibles: relaciones, ubicaciones, rituales y el tipo de problema que sigue regresando."
-    ]
+    ],
+    "tmdb_id": 32692,
+    "media_type": "tv"
   },
   {
-    "celebrity": "The Sopranos",
+    "celebrity": "Los Soprano",
     "gender": "",
     "facts": [
       "Sus pistas se basan en el escenario recurrente, la dinámica de los personajes y los conflictos de larga duración que los fanáticos recuerdan.",
       "Piense en el entorno semanal que construye: trabajos, parientes, investigaciones, peligro, fantasía o presión de supervivencia.",
       "La pista está en sus ingredientes repetibles: relaciones, ubicaciones, rituales y el tipo de problema que sigue regresando."
-    ]
+    ],
+    "tmdb_id": 1398,
+    "media_type": "tv"
   },
   {
     "celebrity": "Homeland",
@@ -330,34 +402,42 @@
       "Sus pistas se basan en el escenario recurrente, la dinámica de los personajes y los conflictos de larga duración que los fanáticos recuerdan.",
       "Piense en el entorno semanal que construye: trabajos, parientes, investigaciones, peligro, fantasía o presión de supervivencia.",
       "La pista está en sus ingredientes repetibles: relaciones, ubicaciones, rituales y el tipo de problema que sigue regresando."
-    ]
+    ],
+    "tmdb_id": 1407,
+    "media_type": "tv"
   },
   {
-    "celebrity": "The Cleaning Lady",
+    "celebrity": "La chica de la limpieza",
     "gender": "",
     "facts": [
       "Sus pistas se basan en el escenario recurrente, la dinámica de los personajes y los conflictos de larga duración que los fanáticos recuerdan.",
       "Piense en el entorno semanal que construye: trabajos, parientes, investigaciones, peligro, fantasía o presión de supervivencia.",
       "La pista está en sus ingredientes repetibles: relaciones, ubicaciones, rituales y el tipo de problema que sigue regresando."
-    ]
+    ],
+    "tmdb_id": 125282,
+    "media_type": "tv"
   },
   {
-    "celebrity": "Vikings",
+    "celebrity": "Vikingos",
     "gender": "",
     "facts": [
       "Sus pistas se basan en el escenario recurrente, la dinámica de los personajes y los conflictos de larga duración que los fanáticos recuerdan.",
       "Piense en el entorno semanal que construye: trabajos, parientes, investigaciones, peligro, fantasía o presión de supervivencia.",
       "La pista está en sus ingredientes repetibles: relaciones, ubicaciones, rituales y el tipo de problema que sigue regresando."
-    ]
+    ],
+    "tmdb_id": 44217,
+    "media_type": "tv"
   },
   {
-    "celebrity": "Marshals",
+    "celebrity": "Marshals: Una historia de Yellowstone",
     "gender": "",
     "facts": [
       "Sus pistas se basan en el escenario recurrente, la dinámica de los personajes y los conflictos de larga duración que los fanáticos recuerdan.",
       "Piense en el entorno semanal que construye: trabajos, parientes, investigaciones, peligro, fantasía o presión de supervivencia.",
       "La pista está en sus ingredientes repetibles: relaciones, ubicaciones, rituales y el tipo de problema que sigue regresando."
-    ]
+    ],
+    "tmdb_id": 290856,
+    "media_type": "tv"
   },
   {
     "celebrity": "Fargo",
@@ -366,16 +446,20 @@
       "Sus pistas se basan en el escenario recurrente, la dinámica de los personajes y los conflictos de larga duración que los fanáticos recuerdan.",
       "Piense en el entorno semanal que construye: trabajos, parientes, investigaciones, peligro, fantasía o presión de supervivencia.",
       "La pista está en sus ingredientes repetibles: relaciones, ubicaciones, rituales y el tipo de problema que sigue regresando."
-    ]
+    ],
+    "tmdb_id": 60622,
+    "media_type": "tv"
   },
   {
-    "celebrity": "Young Sheldon",
+    "celebrity": "El Joven Sheldon",
     "gender": "",
     "facts": [
       "Sus pistas se basan en el escenario recurrente, la dinámica de los personajes y los conflictos de larga duración que los fanáticos recuerdan.",
       "Piense en el entorno semanal que construye: trabajos, parientes, investigaciones, peligro, fantasía o presión de supervivencia.",
       "La pista está en sus ingredientes repetibles: relaciones, ubicaciones, rituales y el tipo de problema que sigue regresando."
-    ]
+    ],
+    "tmdb_id": 71728,
+    "media_type": "tv"
   },
   {
     "celebrity": "Reacher",
@@ -384,16 +468,20 @@
       "Sus pistas se basan en el escenario recurrente, la dinámica de los personajes y los conflictos de larga duración que los fanáticos recuerdan.",
       "Piense en el entorno semanal que construye: trabajos, parientes, investigaciones, peligro, fantasía o presión de supervivencia.",
       "La pista está en sus ingredientes repetibles: relaciones, ubicaciones, rituales y el tipo de problema que sigue regresando."
-    ]
+    ],
+    "tmdb_id": 108978,
+    "media_type": "tv"
   },
   {
-    "celebrity": "The Flash",
+    "celebrity": "Flash",
     "gender": "",
     "facts": [
       "Sus pistas se basan en el escenario recurrente, la dinámica de los personajes y los conflictos de larga duración que los fanáticos recuerdan.",
       "Piense en el entorno semanal que construye: trabajos, parientes, investigaciones, peligro, fantasía o presión de supervivencia.",
       "La pista está en sus ingredientes repetibles: relaciones, ubicaciones, rituales y el tipo de problema que sigue regresando."
-    ]
+    ],
+    "tmdb_id": 60735,
+    "media_type": "tv"
   },
   {
     "celebrity": "Better Call Saul",
@@ -402,7 +490,9 @@
       "Sus pistas se basan en el escenario recurrente, la dinámica de los personajes y los conflictos de larga duración que los fanáticos recuerdan.",
       "Piense en el entorno semanal que construye: trabajos, parientes, investigaciones, peligro, fantasía o presión de supervivencia.",
       "La pista está en sus ingredientes repetibles: relaciones, ubicaciones, rituales y el tipo de problema que sigue regresando."
-    ]
+    ],
+    "tmdb_id": 60059,
+    "media_type": "tv"
   },
   {
     "celebrity": "Grimm",
@@ -411,16 +501,20 @@
       "Sus pistas se basan en el escenario recurrente, la dinámica de los personajes y los conflictos de larga duración que los fanáticos recuerdan.",
       "Piense en el entorno semanal que construye: trabajos, parientes, investigaciones, peligro, fantasía o presión de supervivencia.",
       "La pista está en sus ingredientes repetibles: relaciones, ubicaciones, rituales y el tipo de problema que sigue regresando."
-    ]
+    ],
+    "tmdb_id": 39351,
+    "media_type": "tv"
   },
   {
-    "celebrity": "Charmed",
+    "celebrity": "Hechiceras",
     "gender": "",
     "facts": [
       "Sus pistas se basan en el escenario recurrente, la dinámica de los personajes y los conflictos de larga duración que los fanáticos recuerdan.",
       "Piense en el entorno semanal que construye: trabajos, parientes, investigaciones, peligro, fantasía o presión de supervivencia.",
       "La pista está en sus ingredientes repetibles: relaciones, ubicaciones, rituales y el tipo de problema que sigue regresando."
-    ]
+    ],
+    "tmdb_id": 1981,
+    "media_type": "tv"
   },
   {
     "celebrity": "Arrow",
@@ -429,7 +523,9 @@
       "Sus pistas se basan en el escenario recurrente, la dinámica de los personajes y los conflictos de larga duración que los fanáticos recuerdan.",
       "Piense en el entorno semanal que construye: trabajos, parientes, investigaciones, peligro, fantasía o presión de supervivencia.",
       "La pista está en sus ingredientes repetibles: relaciones, ubicaciones, rituales y el tipo de problema que sigue regresando."
-    ]
+    ],
+    "tmdb_id": 1412,
+    "media_type": "tv"
   },
   {
     "celebrity": "Spartacus",
@@ -438,7 +534,9 @@
       "Sus pistas se basan en el escenario recurrente, la dinámica de los personajes y los conflictos de larga duración que los fanáticos recuerdan.",
       "Piense en el entorno semanal que construye: trabajos, parientes, investigaciones, peligro, fantasía o presión de supervivencia.",
       "La pista está en sus ingredientes repetibles: relaciones, ubicaciones, rituales y el tipo de problema que sigue regresando."
-    ]
+    ],
+    "tmdb_id": 46296,
+    "media_type": "tv"
   },
   {
     "celebrity": "Chicago Med",
@@ -447,25 +545,31 @@
       "Sus pistas se basan en el escenario recurrente, la dinámica de los personajes y los conflictos de larga duración que los fanáticos recuerdan.",
       "Piense en el entorno semanal que construye: trabajos, parientes, investigaciones, peligro, fantasía o presión de supervivencia.",
       "La pista está en sus ingredientes repetibles: relaciones, ubicaciones, rituales y el tipo de problema que sigue regresando."
-    ]
+    ],
+    "tmdb_id": 62650,
+    "media_type": "tv"
   },
   {
-    "celebrity": "Sons of Anarchy",
+    "celebrity": "Hijos de la anarquía",
     "gender": "",
     "facts": [
       "Sus pistas se basan en el escenario recurrente, la dinámica de los personajes y los conflictos de larga duración que los fanáticos recuerdan.",
       "Piense en el entorno semanal que construye: trabajos, parientes, investigaciones, peligro, fantasía o presión de supervivencia.",
       "La pista está en sus ingredientes repetibles: relaciones, ubicaciones, rituales y el tipo de problema que sigue regresando."
-    ]
+    ],
+    "tmdb_id": 1409,
+    "media_type": "tv"
   },
   {
-    "celebrity": "The Graham Norton Show",
+    "celebrity": "El show de Graham Norton",
     "gender": "",
     "facts": [
       "Sus pistas se basan en el escenario recurrente, la dinámica de los personajes y los conflictos de larga duración que los fanáticos recuerdan.",
       "Piense en el entorno semanal que construye: trabajos, parientes, investigaciones, peligro, fantasía o presión de supervivencia.",
       "La pista está en sus ingredientes repetibles: relaciones, ubicaciones, rituales y el tipo de problema que sigue regresando."
-    ]
+    ],
+    "tmdb_id": 1220,
+    "media_type": "tv"
   },
   {
     "celebrity": "Monk",
@@ -474,25 +578,31 @@
       "Sus pistas se basan en el escenario recurrente, la dinámica de los personajes y los conflictos de larga duración que los fanáticos recuerdan.",
       "Piense en el entorno semanal que construye: trabajos, parientes, investigaciones, peligro, fantasía o presión de supervivencia.",
       "La pista está en sus ingredientes repetibles: relaciones, ubicaciones, rituales y el tipo de problema que sigue regresando."
-    ]
+    ],
+    "tmdb_id": 1695,
+    "media_type": "tv"
   },
   {
-    "celebrity": "Teen Wolf",
+    "celebrity": "Lobo Adolescente",
     "gender": "",
     "facts": [
       "Sus pistas se basan en el escenario recurrente, la dinámica de los personajes y los conflictos de larga duración que los fanáticos recuerdan.",
       "Piense en el entorno semanal que construye: trabajos, parientes, investigaciones, peligro, fantasía o presión de supervivencia.",
       "La pista está en sus ingredientes repetibles: relaciones, ubicaciones, rituales y el tipo de problema que sigue regresando."
-    ]
+    ],
+    "tmdb_id": 34524,
+    "media_type": "tv"
   },
   {
-    "celebrity": "Gilmore Girls",
+    "celebrity": "Las Chicas Gilmore",
     "gender": "",
     "facts": [
       "Sus pistas se basan en el escenario recurrente, la dinámica de los personajes y los conflictos de larga duración que los fanáticos recuerdan.",
       "Piense en el entorno semanal que construye: trabajos, parientes, investigaciones, peligro, fantasía o presión de supervivencia.",
       "La pista está en sus ingredientes repetibles: relaciones, ubicaciones, rituales y el tipo de problema que sigue regresando."
-    ]
+    ],
+    "tmdb_id": 4586,
+    "media_type": "tv"
   },
   {
     "celebrity": "The Pitt",
@@ -501,25 +611,31 @@
       "Sus pistas se basan en el escenario recurrente, la dinámica de los personajes y los conflictos de larga duración que los fanáticos recuerdan.",
       "Piense en el entorno semanal que construye: trabajos, parientes, investigaciones, peligro, fantasía o presión de supervivencia.",
       "La pista está en sus ingredientes repetibles: relaciones, ubicaciones, rituales y el tipo de problema que sigue regresando."
-    ]
+    ],
+    "tmdb_id": 250307,
+    "media_type": "tv"
   },
   {
-    "celebrity": "The X Files",
+    "celebrity": "Los Expedientes Secretos X",
     "gender": "",
     "facts": [
       "Sus pistas se basan en el escenario recurrente, la dinámica de los personajes y los conflictos de larga duración que los fanáticos recuerdan.",
       "Piense en el entorno semanal que construye: trabajos, parientes, investigaciones, peligro, fantasía o presión de supervivencia.",
       "La pista está en sus ingredientes repetibles: relaciones, ubicaciones, rituales y el tipo de problema que sigue regresando."
-    ]
+    ],
+    "tmdb_id": 4087,
+    "media_type": "tv"
   },
   {
-    "celebrity": "Bridgerton",
+    "celebrity": "Los Bridgerton",
     "gender": "",
     "facts": [
       "Sus pistas se basan en el escenario recurrente, la dinámica de los personajes y los conflictos de larga duración que los fanáticos recuerdan.",
       "Piense en el entorno semanal que construye: trabajos, parientes, investigaciones, peligro, fantasía o presión de supervivencia.",
       "La pista está en sus ingredientes repetibles: relaciones, ubicaciones, rituales y el tipo de problema que sigue regresando."
-    ]
+    ],
+    "tmdb_id": 91239,
+    "media_type": "tv"
   },
   {
     "celebrity": "Frasier",
@@ -528,16 +644,20 @@
       "Sus pistas se basan en el escenario recurrente, la dinámica de los personajes y los conflictos de larga duración que los fanáticos recuerdan.",
       "Piense en el entorno semanal que construye: trabajos, parientes, investigaciones, peligro, fantasía o presión de supervivencia.",
       "La pista está en sus ingredientes repetibles: relaciones, ubicaciones, rituales y el tipo de problema que sigue regresando."
-    ]
+    ],
+    "tmdb_id": 3452,
+    "media_type": "tv"
   },
   {
-    "celebrity": "The Good Wife",
+    "celebrity": "La esposa ejemplar",
     "gender": "",
     "facts": [
       "Sus pistas se basan en el escenario recurrente, la dinámica de los personajes y los conflictos de larga duración que los fanáticos recuerdan.",
       "Piense en el entorno semanal que construye: trabajos, parientes, investigaciones, peligro, fantasía o presión de supervivencia.",
       "La pista está en sus ingredientes repetibles: relaciones, ubicaciones, rituales y el tipo de problema que sigue regresando."
-    ]
+    ],
+    "tmdb_id": 1435,
+    "media_type": "tv"
   },
   {
     "celebrity": "Elementary",
@@ -546,25 +666,31 @@
       "Sus pistas se basan en el escenario recurrente, la dinámica de los personajes y los conflictos de larga duración que los fanáticos recuerdan.",
       "Piense en el entorno semanal que construye: trabajos, parientes, investigaciones, peligro, fantasía o presión de supervivencia.",
       "La pista está en sus ingredientes repetibles: relaciones, ubicaciones, rituales y el tipo de problema que sigue regresando."
-    ]
+    ],
+    "tmdb_id": 1415,
+    "media_type": "tv"
   },
   {
-    "celebrity": "Person of Interest",
+    "celebrity": "Vigilados, Person of Interest",
     "gender": "",
     "facts": [
       "Sus pistas se basan en el escenario recurrente, la dinámica de los personajes y los conflictos de larga duración que los fanáticos recuerdan.",
       "Piense en el entorno semanal que construye: trabajos, parientes, investigaciones, peligro, fantasía o presión de supervivencia.",
       "La pista está en sus ingredientes repetibles: relaciones, ubicaciones, rituales y el tipo de problema que sigue regresando."
-    ]
+    ],
+    "tmdb_id": 1411,
+    "media_type": "tv"
   },
   {
-    "celebrity": "Malcolm in the Middle",
+    "celebrity": "Malcolm el de en Medio",
     "gender": "",
     "facts": [
       "Sus pistas se basan en el escenario recurrente, la dinámica de los personajes y los conflictos de larga duración que los fanáticos recuerdan.",
       "Piense en el entorno semanal que construye: trabajos, parientes, investigaciones, peligro, fantasía o presión de supervivencia.",
       "La pista está en sus ingredientes repetibles: relaciones, ubicaciones, rituales y el tipo de problema que sigue regresando."
-    ]
+    ],
+    "tmdb_id": 2004,
+    "media_type": "tv"
   },
   {
     "celebrity": "American Horror Story",
@@ -573,7 +699,9 @@
       "Sus pistas se basan en el escenario recurrente, la dinámica de los personajes y los conflictos de larga duración que los fanáticos recuerdan.",
       "Piense en el entorno semanal que construye: trabajos, parientes, investigaciones, peligro, fantasía o presión de supervivencia.",
       "La pista está en sus ingredientes repetibles: relaciones, ubicaciones, rituales y el tipo de problema que sigue regresando."
-    ]
+    ],
+    "tmdb_id": 1413,
+    "media_type": "tv"
   },
   {
     "celebrity": "Psych",
@@ -582,7 +710,9 @@
       "Sus pistas se basan en el escenario recurrente, la dinámica de los personajes y los conflictos de larga duración que los fanáticos recuerdan.",
       "Piense en el entorno semanal que construye: trabajos, parientes, investigaciones, peligro, fantasía o presión de supervivencia.",
       "La pista está en sus ingredientes repetibles: relaciones, ubicaciones, rituales y el tipo de problema que sigue regresando."
-    ]
+    ],
+    "tmdb_id": 1447,
+    "media_type": "tv"
   },
   {
     "celebrity": "Conan",
@@ -591,7 +721,9 @@
       "Sus pistas se basan en el escenario recurrente, la dinámica de los personajes y los conflictos de larga duración que los fanáticos recuerdan.",
       "Piense en el entorno semanal que construye: trabajos, parientes, investigaciones, peligro, fantasía o presión de supervivencia.",
       "La pista está en sus ingredientes repetibles: relaciones, ubicaciones, rituales y el tipo de problema que sigue regresando."
-    ]
+    ],
+    "tmdb_id": 32415,
+    "media_type": "tv"
   },
   {
     "celebrity": "You",
@@ -600,43 +732,53 @@
       "Sus pistas se basan en el escenario recurrente, la dinámica de los personajes y los conflictos de larga duración que los fanáticos recuerdan.",
       "Piense en el entorno semanal que construye: trabajos, parientes, investigaciones, peligro, fantasía o presión de supervivencia.",
       "La pista está en sus ingredientes repetibles: relaciones, ubicaciones, rituales y el tipo de problema que sigue regresando."
-    ]
+    ],
+    "tmdb_id": 78191,
+    "media_type": "tv"
   },
   {
-    "celebrity": "Jag",
+    "celebrity": "JAG: Justicia Militar",
     "gender": "",
     "facts": [
       "Sus pistas se basan en el escenario recurrente, la dinámica de los personajes y los conflictos de larga duración que los fanáticos recuerdan.",
       "Piense en el entorno semanal que construye: trabajos, parientes, investigaciones, peligro, fantasía o presión de supervivencia.",
       "La pista está en sus ingredientes repetibles: relaciones, ubicaciones, rituales y el tipo de problema que sigue regresando."
-    ]
+    ],
+    "tmdb_id": 4376,
+    "media_type": "tv"
   },
   {
-    "celebrity": "The 100",
+    "celebrity": "Los 100",
     "gender": "",
     "facts": [
       "Sus pistas se basan en el escenario recurrente, la dinámica de los personajes y los conflictos de larga duración que los fanáticos recuerdan.",
       "Piense en el entorno semanal que construye: trabajos, parientes, investigaciones, peligro, fantasía o presión de supervivencia.",
       "La pista está en sus ingredientes repetibles: relaciones, ubicaciones, rituales y el tipo de problema que sigue regresando."
-    ]
+    ],
+    "tmdb_id": 48866,
+    "media_type": "tv"
   },
   {
-    "celebrity": "How I Met Your Mother",
+    "celebrity": "Cómo conocí a tu madre",
     "gender": "",
     "facts": [
       "Sus pistas se basan en el escenario recurrente, la dinámica de los personajes y los conflictos de larga duración que los fanáticos recuerdan.",
       "Piense en el entorno semanal que construye: trabajos, parientes, investigaciones, peligro, fantasía o presión de supervivencia.",
       "La pista está en sus ingredientes repetibles: relaciones, ubicaciones, rituales y el tipo de problema que sigue regresando."
-    ]
+    ],
+    "tmdb_id": 1100,
+    "media_type": "tv"
   },
   {
-    "celebrity": "Squid Game",
+    "celebrity": "El juego del calamar",
     "gender": "",
     "facts": [
       "Sus pistas se basan en el escenario recurrente, la dinámica de los personajes y los conflictos de larga duración que los fanáticos recuerdan.",
       "Piense en el entorno semanal que construye: trabajos, parientes, investigaciones, peligro, fantasía o presión de supervivencia.",
       "La pista está en sus ingredientes repetibles: relaciones, ubicaciones, rituales y el tipo de problema que sigue regresando."
-    ]
+    ],
+    "tmdb_id": 93405,
+    "media_type": "tv"
   },
   {
     "celebrity": "Fringe",
@@ -645,34 +787,42 @@
       "Sus pistas se basan en el escenario recurrente, la dinámica de los personajes y los conflictos de larga duración que los fanáticos recuerdan.",
       "Piense en el entorno semanal que construye: trabajos, parientes, investigaciones, peligro, fantasía o presión de supervivencia.",
       "La pista está en sus ingredientes repetibles: relaciones, ubicaciones, rituales y el tipo de problema que sigue regresando."
-    ]
+    ],
+    "tmdb_id": 1705,
+    "media_type": "tv"
   },
   {
-    "celebrity": "Er",
+    "celebrity": "Sala de urgencias",
     "gender": "",
     "facts": [
       "Sus pistas se basan en el escenario recurrente, la dinámica de los personajes y los conflictos de larga duración que los fanáticos recuerdan.",
       "Piense en el entorno semanal que construye: trabajos, parientes, investigaciones, peligro, fantasía o presión de supervivencia.",
       "La pista está en sus ingredientes repetibles: relaciones, ubicaciones, rituales y el tipo de problema que sigue regresando."
-    ]
+    ],
+    "tmdb_id": 4588,
+    "media_type": "tv"
   },
   {
-    "celebrity": "One Tree Hill",
+    "celebrity": "Hermanos Rebeldes",
     "gender": "",
     "facts": [
       "Sus pistas se basan en el escenario recurrente, la dinámica de los personajes y los conflictos de larga duración que los fanáticos recuerdan.",
       "Piense en el entorno semanal que construye: trabajos, parientes, investigaciones, peligro, fantasía o presión de supervivencia.",
       "La pista está en sus ingredientes repetibles: relaciones, ubicaciones, rituales y el tipo de problema que sigue regresando."
-    ]
+    ],
+    "tmdb_id": 269,
+    "media_type": "tv"
   },
   {
-    "celebrity": "Curb Your Enthusiasm",
+    "celebrity": "Larry David",
     "gender": "",
     "facts": [
       "Sus pistas se basan en el escenario recurrente, la dinámica de los personajes y los conflictos de larga duración que los fanáticos recuerdan.",
       "Piense en el entorno semanal que construye: trabajos, parientes, investigaciones, peligro, fantasía o presión de supervivencia.",
       "La pista está en sus ingredientes repetibles: relaciones, ubicaciones, rituales y el tipo de problema que sigue regresando."
-    ]
+    ],
+    "tmdb_id": 4546,
+    "media_type": "tv"
   },
   {
     "celebrity": "Westworld",
@@ -681,16 +831,20 @@
       "Sus pistas se basan en el escenario recurrente, la dinámica de los personajes y los conflictos de larga duración que los fanáticos recuerdan.",
       "Piense en el entorno semanal que construye: trabajos, parientes, investigaciones, peligro, fantasía o presión de supervivencia.",
       "La pista está en sus ingredientes repetibles: relaciones, ubicaciones, rituales y el tipo de problema que sigue regresando."
-    ]
+    ],
+    "tmdb_id": 63247,
+    "media_type": "tv"
   },
   {
-    "celebrity": "Macgyver",
+    "celebrity": "MacGyver",
     "gender": "",
     "facts": [
       "Sus pistas se basan en el escenario recurrente, la dinámica de los personajes y los conflictos de larga duración que los fanáticos recuerdan.",
       "Piense en el entorno semanal que construye: trabajos, parientes, investigaciones, peligro, fantasía o presión de supervivencia.",
       "La pista está en sus ingredientes repetibles: relaciones, ubicaciones, rituales y el tipo de problema que sigue regresando."
-    ]
+    ],
+    "tmdb_id": 2875,
+    "media_type": "tv"
   },
   {
     "celebrity": "The Crown",
@@ -699,16 +853,20 @@
       "Sus pistas se basan en el escenario recurrente, la dinámica de los personajes y los conflictos de larga duración que los fanáticos recuerdan.",
       "Piense en el entorno semanal que construye: trabajos, parientes, investigaciones, peligro, fantasía o presión de supervivencia.",
       "La pista está en sus ingredientes repetibles: relaciones, ubicaciones, rituales y el tipo de problema que sigue regresando."
-    ]
+    ],
+    "tmdb_id": 65494,
+    "media_type": "tv"
   },
   {
-    "celebrity": "Brooklyn Nine Nine",
+    "celebrity": "Brooklyn Nine-Nine",
     "gender": "",
     "facts": [
       "Sus pistas se basan en el escenario recurrente, la dinámica de los personajes y los conflictos de larga duración que los fanáticos recuerdan.",
       "Piense en el entorno semanal que construye: trabajos, parientes, investigaciones, peligro, fantasía o presión de supervivencia.",
       "La pista está en sus ingredientes repetibles: relaciones, ubicaciones, rituales y el tipo de problema que sigue regresando."
-    ]
+    ],
+    "tmdb_id": 48891,
+    "media_type": "tv"
   },
   {
     "celebrity": "The Resident",
@@ -717,16 +875,20 @@
       "Sus pistas se basan en el escenario recurrente, la dinámica de los personajes y los conflictos de larga duración que los fanáticos recuerdan.",
       "Piense en el entorno semanal que construye: trabajos, parientes, investigaciones, peligro, fantasía o presión de supervivencia.",
       "La pista está en sus ingredientes repetibles: relaciones, ubicaciones, rituales y el tipo de problema que sigue regresando."
-    ]
+    ],
+    "tmdb_id": 74016,
+    "media_type": "tv"
   },
   {
-    "celebrity": "For All Mankind",
+    "celebrity": "Para toda la humanidad",
     "gender": "",
     "facts": [
       "Sus pistas se basan en el escenario recurrente, la dinámica de los personajes y los conflictos de larga duración que los fanáticos recuerdan.",
       "Piense en el entorno semanal que construye: trabajos, parientes, investigaciones, peligro, fantasía o presión de supervivencia.",
       "La pista está en sus ingredientes repetibles: relaciones, ubicaciones, rituales y el tipo de problema que sigue regresando."
-    ]
+    ],
+    "tmdb_id": 87917,
+    "media_type": "tv"
   },
   {
     "celebrity": "The White Lotus",
@@ -735,70 +897,86 @@
       "Sus pistas se basan en el escenario recurrente, la dinámica de los personajes y los conflictos de larga duración que los fanáticos recuerdan.",
       "Piense en el entorno semanal que construye: trabajos, parientes, investigaciones, peligro, fantasía o presión de supervivencia.",
       "La pista está en sus ingredientes repetibles: relaciones, ubicaciones, rituales y el tipo de problema que sigue regresando."
-    ]
+    ],
+    "tmdb_id": 111803,
+    "media_type": "tv"
   },
   {
-    "celebrity": "Buffy the Vampire Slayer",
+    "celebrity": "Buffy, la cazavampiros",
     "gender": "",
     "facts": [
       "Sus pistas se basan en el escenario recurrente, la dinámica de los personajes y los conflictos de larga duración que los fanáticos recuerdan.",
       "Piense en el entorno semanal que construye: trabajos, parientes, investigaciones, peligro, fantasía o presión de supervivencia.",
       "La pista está en sus ingredientes repetibles: relaciones, ubicaciones, rituales y el tipo de problema que sigue regresando."
-    ]
+    ],
+    "tmdb_id": 95,
+    "media_type": "tv"
   },
   {
-    "celebrity": "The Closer",
+    "celebrity": "Caso Resuelto",
     "gender": "",
     "facts": [
       "Sus pistas se basan en el escenario recurrente, la dinámica de los personajes y los conflictos de larga duración que los fanáticos recuerdan.",
       "Piense en el entorno semanal que construye: trabajos, parientes, investigaciones, peligro, fantasía o presión de supervivencia.",
       "La pista está en sus ingredientes repetibles: relaciones, ubicaciones, rituales y el tipo de problema que sigue regresando."
-    ]
+    ],
+    "tmdb_id": 1450,
+    "media_type": "tv"
   },
   {
-    "celebrity": "Wednesday",
+    "celebrity": "Merlina",
     "gender": "",
     "facts": [
       "Sus pistas se basan en el escenario recurrente, la dinámica de los personajes y los conflictos de larga duración que los fanáticos recuerdan.",
       "Piense en el entorno semanal que construye: trabajos, parientes, investigaciones, peligro, fantasía o presión de supervivencia.",
       "La pista está en sus ingredientes repetibles: relaciones, ubicaciones, rituales y el tipo de problema que sigue regresando."
-    ]
+    ],
+    "tmdb_id": 119051,
+    "media_type": "tv"
   },
   {
-    "celebrity": "Sesame Street",
+    "celebrity": "Sesame Street: Plaza Sésamo",
     "gender": "",
     "facts": [
       "Sus pistas se basan en el escenario recurrente, la dinámica de los personajes y los conflictos de larga duración que los fanáticos recuerdan.",
       "Piense en el entorno semanal que construye: trabajos, parientes, investigaciones, peligro, fantasía o presión de supervivencia.",
       "La pista está en sus ingredientes repetibles: relaciones, ubicaciones, rituales y el tipo de problema que sigue regresando."
-    ]
+    ],
+    "tmdb_id": 502,
+    "media_type": "tv"
   },
   {
-    "celebrity": "Foundation",
+    "celebrity": "Fundación",
     "gender": "",
     "facts": [
       "Sus pistas se basan en el escenario recurrente, la dinámica de los personajes y los conflictos de larga duración que los fanáticos recuerdan.",
       "Piense en el entorno semanal que construye: trabajos, parientes, investigaciones, peligro, fantasía o presión de supervivencia.",
       "La pista está en sus ingredientes repetibles: relaciones, ubicaciones, rituales y el tipo de problema que sigue regresando."
-    ]
+    ],
+    "tmdb_id": 93740,
+    "media_type": "tv"
   },
   {
-    "celebrity": "Star Trek",
+    "celebrity": "Viaje a las estrellas",
     "gender": "",
     "facts": [
       "Sus pistas se basan en el escenario recurrente, la dinámica de los personajes y los conflictos de larga duración que los fanáticos recuerdan.",
       "Piense en el entorno semanal que construye: trabajos, parientes, investigaciones, peligro, fantasía o presión de supervivencia.",
       "La pista está en sus ingredientes repetibles: relaciones, ubicaciones, rituales y el tipo de problema que sigue regresando."
-    ]
+    ],
+    "tmdb_id": 253,
+    "media_type": "tv"
   },
   {
-    "celebrity": "Once Upon a Time",
+    "celebrity": "Érase una vez",
     "gender": "",
     "facts": [
       "Sus pistas se basan en el escenario recurrente, la dinámica de los personajes y los conflictos de larga duración que los fanáticos recuerdan.",
       "Piense en el entorno semanal que construye: trabajos, parientes, investigaciones, peligro, fantasía o presión de supervivencia.",
       "La pista está en sus ingredientes repetibles: relaciones, ubicaciones, rituales y el tipo de problema que sigue regresando."
-    ]
+    ],
+    "tmdb_id": 39272,
+    "media_type": "tv"
   },
   {
     "celebrity": "Paradise",
@@ -807,7 +985,9 @@
       "Sus pistas se basan en el escenario recurrente, la dinámica de los personajes y los conflictos de larga duración que los fanáticos recuerdan.",
       "Piense en el entorno semanal que construye: trabajos, parientes, investigaciones, peligro, fantasía o presión de supervivencia.",
       "La pista está en sus ingredientes repetibles: relaciones, ubicaciones, rituales y el tipo de problema que sigue regresando."
-    ]
+    ],
+    "tmdb_id": 245927,
+    "media_type": "tv"
   },
   {
     "celebrity": "The Expanse",
@@ -816,7 +996,9 @@
       "Sus pistas se basan en el escenario recurrente, la dinámica de los personajes y los conflictos de larga duración que los fanáticos recuerdan.",
       "Piense en el entorno semanal que construye: trabajos, parientes, investigaciones, peligro, fantasía o presión de supervivencia.",
       "La pista está en sus ingredientes repetibles: relaciones, ubicaciones, rituales y el tipo de problema que sigue regresando."
-    ]
+    ],
+    "tmdb_id": 63639,
+    "media_type": "tv"
   },
   {
     "celebrity": "Tulsa King",
@@ -825,34 +1007,42 @@
       "Sus pistas se basan en el escenario recurrente, la dinámica de los personajes y los conflictos de larga duración que los fanáticos recuerdan.",
       "Piense en el entorno semanal que construye: trabajos, parientes, investigaciones, peligro, fantasía o presión de supervivencia.",
       "La pista está en sus ingredientes repetibles: relaciones, ubicaciones, rituales y el tipo de problema que sigue regresando."
-    ]
+    ],
+    "tmdb_id": 153312,
+    "media_type": "tv"
   },
   {
-    "celebrity": "Boston Legal",
+    "celebrity": "Justicia Ciega",
     "gender": "",
     "facts": [
       "Sus pistas se basan en el escenario recurrente, la dinámica de los personajes y los conflictos de larga duración que los fanáticos recuerdan.",
       "Piense en el entorno semanal que construye: trabajos, parientes, investigaciones, peligro, fantasía o presión de supervivencia.",
       "La pista está en sus ingredientes repetibles: relaciones, ubicaciones, rituales y el tipo de problema que sigue regresando."
-    ]
+    ],
+    "tmdb_id": 4598,
+    "media_type": "tv"
   },
   {
-    "celebrity": "Scandal",
+    "celebrity": "Escándalo",
     "gender": "",
     "facts": [
       "Sus pistas se basan en el escenario recurrente, la dinámica de los personajes y los conflictos de larga duración que los fanáticos recuerdan.",
       "Piense en el entorno semanal que construye: trabajos, parientes, investigaciones, peligro, fantasía o presión de supervivencia.",
       "La pista está en sus ingredientes repetibles: relaciones, ubicaciones, rituales y el tipo de problema que sigue regresando."
-    ]
+    ],
+    "tmdb_id": 39269,
+    "media_type": "tv"
   },
   {
-    "celebrity": "Miami Vice",
+    "celebrity": "División Miami",
     "gender": "",
     "facts": [
       "Sus pistas se basan en el escenario recurrente, la dinámica de los personajes y los conflictos de larga duración que los fanáticos recuerdan.",
       "Piense en el entorno semanal que construye: trabajos, parientes, investigaciones, peligro, fantasía o presión de supervivencia.",
       "La pista está en sus ingredientes repetibles: relaciones, ubicaciones, rituales y el tipo de problema que sigue regresando."
-    ]
+    ],
+    "tmdb_id": 1908,
+    "media_type": "tv"
   },
   {
     "celebrity": "Doctor Who",
@@ -861,7 +1051,9 @@
       "Sus pistas se basan en el escenario recurrente, la dinámica de los personajes y los conflictos de larga duración que los fanáticos recuerdan.",
       "Piense en el entorno semanal que construye: trabajos, parientes, investigaciones, peligro, fantasía o presión de supervivencia.",
       "La pista está en sus ingredientes repetibles: relaciones, ubicaciones, rituales y el tipo de problema que sigue regresando."
-    ]
+    ],
+    "tmdb_id": 57243,
+    "media_type": "tv"
   },
   {
     "celebrity": "Melrose Place",
@@ -870,7 +1062,9 @@
       "Sus pistas se basan en el escenario recurrente, la dinámica de los personajes y los conflictos de larga duración que los fanáticos recuerdan.",
       "Piense en el entorno semanal que construye: trabajos, parientes, investigaciones, peligro, fantasía o presión de supervivencia.",
       "La pista está en sus ingredientes repetibles: relaciones, ubicaciones, rituales y el tipo de problema que sigue regresando."
-    ]
+    ],
+    "tmdb_id": 4349,
+    "media_type": "tv"
   },
   {
     "celebrity": "Numb3rs",
@@ -879,16 +1073,20 @@
       "Sus pistas se basan en el escenario recurrente, la dinámica de los personajes y los conflictos de larga duración que los fanáticos recuerdan.",
       "Piense en el entorno semanal que construye: trabajos, parientes, investigaciones, peligro, fantasía o presión de supervivencia.",
       "La pista está en sus ingredientes repetibles: relaciones, ubicaciones, rituales y el tipo de problema que sigue regresando."
-    ]
+    ],
+    "tmdb_id": 578,
+    "media_type": "tv"
   },
   {
-    "celebrity": "The Wire",
+    "celebrity": "Los Vigilantes",
     "gender": "",
     "facts": [
       "Sus pistas se basan en el escenario recurrente, la dinámica de los personajes y los conflictos de larga duración que los fanáticos recuerdan.",
       "Piense en el entorno semanal que construye: trabajos, parientes, investigaciones, peligro, fantasía o presión de supervivencia.",
       "La pista está en sus ingredientes repetibles: relaciones, ubicaciones, rituales y el tipo de problema que sigue regresando."
-    ]
+    ],
+    "tmdb_id": 1438,
+    "media_type": "tv"
   },
   {
     "celebrity": "Gossip Girl",
@@ -897,25 +1095,31 @@
       "Sus pistas se basan en el escenario recurrente, la dinámica de los personajes y los conflictos de larga duración que los fanáticos recuerdan.",
       "Piense en el entorno semanal que construye: trabajos, parientes, investigaciones, peligro, fantasía o presión de supervivencia.",
       "La pista está en sus ingredientes repetibles: relaciones, ubicaciones, rituales y el tipo de problema que sigue regresando."
-    ]
+    ],
+    "tmdb_id": 1395,
+    "media_type": "tv"
   },
   {
-    "celebrity": "The Practice",
+    "celebrity": "Los Practicantes",
     "gender": "",
     "facts": [
       "Sus pistas se basan en el escenario recurrente, la dinámica de los personajes y los conflictos de larga duración que los fanáticos recuerdan.",
       "Piense en el entorno semanal que construye: trabajos, parientes, investigaciones, peligro, fantasía o presión de supervivencia.",
       "La pista está en sus ingredientes repetibles: relaciones, ubicaciones, rituales y el tipo de problema que sigue regresando."
-    ]
+    ],
+    "tmdb_id": 3050,
+    "media_type": "tv"
   },
   {
-    "celebrity": "Babylon 5",
+    "celebrity": "Babilonia 5",
     "gender": "",
     "facts": [
       "Sus pistas se basan en el escenario recurrente, la dinámica de los personajes y los conflictos de larga duración que los fanáticos recuerdan.",
       "Piense en el entorno semanal que construye: trabajos, parientes, investigaciones, peligro, fantasía o presión de supervivencia.",
       "La pista está en sus ingredientes repetibles: relaciones, ubicaciones, rituales y el tipo de problema que sigue regresando."
-    ]
+    ],
+    "tmdb_id": 3137,
+    "media_type": "tv"
   },
   {
     "celebrity": "The Witcher",
@@ -924,7 +1128,9 @@
       "Sus pistas se basan en el escenario recurrente, la dinámica de los personajes y los conflictos de larga duración que los fanáticos recuerdan.",
       "Piense en el entorno semanal que construye: trabajos, parientes, investigaciones, peligro, fantasía o presión de supervivencia.",
       "La pista está en sus ingredientes repetibles: relaciones, ubicaciones, rituales y el tipo de problema que sigue regresando."
-    ]
+    ],
+    "tmdb_id": 71912,
+    "media_type": "tv"
   },
   {
     "celebrity": "Gotham",
@@ -933,7 +1139,9 @@
       "Sus pistas se basan en el escenario recurrente, la dinámica de los personajes y los conflictos de larga duración que los fanáticos recuerdan.",
       "Piense en el entorno semanal que construye: trabajos, parientes, investigaciones, peligro, fantasía o presión de supervivencia.",
       "La pista está en sus ingredientes repetibles: relaciones, ubicaciones, rituales y el tipo de problema que sigue regresando."
-    ]
+    ],
+    "tmdb_id": 60708,
+    "media_type": "tv"
   },
   {
     "celebrity": "Glee",
@@ -942,16 +1150,20 @@
       "Sus pistas se basan en el escenario recurrente, la dinámica de los personajes y los conflictos de larga duración que los fanáticos recuerdan.",
       "Piense en el entorno semanal que construye: trabajos, parientes, investigaciones, peligro, fantasía o presión de supervivencia.",
       "La pista está en sus ingredientes repetibles: relaciones, ubicaciones, rituales y el tipo de problema que sigue regresando."
-    ]
+    ],
+    "tmdb_id": 1417,
+    "media_type": "tv"
   },
   {
-    "celebrity": "Pretty Little Liars",
+    "celebrity": "Lindas Mentirosas",
     "gender": "",
     "facts": [
       "Sus pistas se basan en el escenario recurrente, la dinámica de los personajes y los conflictos de larga duración que los fanáticos recuerdan.",
       "Piense en el entorno semanal que construye: trabajos, parientes, investigaciones, peligro, fantasía o presión de supervivencia.",
       "La pista está en sus ingredientes repetibles: relaciones, ubicaciones, rituales y el tipo de problema que sigue regresando."
-    ]
+    ],
+    "tmdb_id": 31917,
+    "media_type": "tv"
   },
   {
     "celebrity": "Mad Men",
@@ -960,7 +1172,9 @@
       "Sus pistas se basan en el escenario recurrente, la dinámica de los personajes y los conflictos de larga duración que los fanáticos recuerdan.",
       "Piense en el entorno semanal que construye: trabajos, parientes, investigaciones, peligro, fantasía o presión de supervivencia.",
       "La pista está en sus ingredientes repetibles: relaciones, ubicaciones, rituales y el tipo de problema que sigue regresando."
-    ]
+    ],
+    "tmdb_id": 1104,
+    "media_type": "tv"
   },
   {
     "celebrity": "Lassie",
@@ -969,25 +1183,31 @@
       "Sus pistas se basan en el escenario recurrente, la dinámica de los personajes y los conflictos de larga duración que los fanáticos recuerdan.",
       "Piense en el entorno semanal que construye: trabajos, parientes, investigaciones, peligro, fantasía o presión de supervivencia.",
       "La pista está en sus ingredientes repetibles: relaciones, ubicaciones, rituales y el tipo de problema que sigue regresando."
-    ]
+    ],
+    "tmdb_id": 5368,
+    "media_type": "tv"
   },
   {
-    "celebrity": "Third Watch",
+    "celebrity": "Turno de guardia",
     "gender": "",
     "facts": [
       "Sus pistas se basan en el escenario recurrente, la dinámica de los personajes y los conflictos de larga duración que los fanáticos recuerdan.",
       "Piense en el entorno semanal que construye: trabajos, parientes, investigaciones, peligro, fantasía o presión de supervivencia.",
       "La pista está en sus ingredientes repetibles: relaciones, ubicaciones, rituales y el tipo de problema que sigue regresando."
-    ]
+    ],
+    "tmdb_id": 512,
+    "media_type": "tv"
   },
   {
-    "celebrity": "The Love Boat",
+    "celebrity": "Vacaciones en el mar",
     "gender": "",
     "facts": [
       "Sus pistas se basan en el escenario recurrente, la dinámica de los personajes y los conflictos de larga duración que los fanáticos recuerdan.",
       "Piense en el entorno semanal que construye: trabajos, parientes, investigaciones, peligro, fantasía o presión de supervivencia.",
       "La pista está en sus ingredientes repetibles: relaciones, ubicaciones, rituales y el tipo de problema que sigue regresando."
-    ]
+    ],
+    "tmdb_id": 1823,
+    "media_type": "tv"
   },
   {
     "celebrity": "New Girl",
@@ -996,7 +1216,9 @@
       "Sus pistas se basan en el escenario recurrente, la dinámica de los personajes y los conflictos de larga duración que los fanáticos recuerdan.",
       "Piense en el entorno semanal que construye: trabajos, parientes, investigaciones, peligro, fantasía o presión de supervivencia.",
       "La pista está en sus ingredientes repetibles: relaciones, ubicaciones, rituales y el tipo de problema que sigue regresando."
-    ]
+    ],
+    "tmdb_id": 1420,
+    "media_type": "tv"
   },
   {
     "celebrity": "Lost",
@@ -1005,25 +1227,31 @@
       "Sus pistas se basan en el escenario recurrente, la dinámica de los personajes y los conflictos de larga duración que los fanáticos recuerdan.",
       "Piense en el entorno semanal que construye: trabajos, parientes, investigaciones, peligro, fantasía o presión de supervivencia.",
       "La pista está en sus ingredientes repetibles: relaciones, ubicaciones, rituales y el tipo de problema que sigue regresando."
-    ]
+    ],
+    "tmdb_id": 4607,
+    "media_type": "tv"
   },
   {
-    "celebrity": "Parks and Recreation",
+    "celebrity": "Construyendo un parque",
     "gender": "",
     "facts": [
       "Sus pistas se basan en el escenario recurrente, la dinámica de los personajes y los conflictos de larga duración que los fanáticos recuerdan.",
       "Piense en el entorno semanal que construye: trabajos, parientes, investigaciones, peligro, fantasía o presión de supervivencia.",
       "La pista está en sus ingredientes repetibles: relaciones, ubicaciones, rituales y el tipo de problema que sigue regresando."
-    ]
+    ],
+    "tmdb_id": 8592,
+    "media_type": "tv"
   },
   {
-    "celebrity": "The Big Bang Theory",
+    "celebrity": "La Teoría del Big Bang",
     "gender": "",
     "facts": [
       "Sus pistas se basan en el escenario recurrente, la dinámica de los personajes y los conflictos de larga duración que los fanáticos recuerdan.",
       "Piense en el entorno semanal que construye: trabajos, parientes, investigaciones, peligro, fantasía o presión de supervivencia.",
       "La pista está en sus ingredientes repetibles: relaciones, ubicaciones, rituales y el tipo de problema que sigue regresando."
-    ]
+    ],
+    "tmdb_id": 1418,
+    "media_type": "tv"
   },
   {
     "celebrity": "Seinfeld",
@@ -1032,16 +1260,20 @@
       "Sus pistas se basan en el escenario recurrente, la dinámica de los personajes y los conflictos de larga duración que los fanáticos recuerdan.",
       "Piense en el entorno semanal que construye: trabajos, parientes, investigaciones, peligro, fantasía o presión de supervivencia.",
       "La pista está en sus ingredientes repetibles: relaciones, ubicaciones, rituales y el tipo de problema que sigue regresando."
-    ]
+    ],
+    "tmdb_id": 1400,
+    "media_type": "tv"
   },
   {
-    "celebrity": "The Simpsons",
+    "celebrity": "Los Simpson",
     "gender": "",
     "facts": [
       "Sus pistas se basan en el escenario recurrente, la dinámica de los personajes y los conflictos de larga duración que los fanáticos recuerdan.",
       "Piense en el entorno semanal que construye: trabajos, parientes, investigaciones, peligro, fantasía o presión de supervivencia.",
       "La pista está en sus ingredientes repetibles: relaciones, ubicaciones, rituales y el tipo de problema que sigue regresando."
-    ]
+    ],
+    "tmdb_id": 456,
+    "media_type": "tv"
   },
   {
     "celebrity": "Futurama",
@@ -1050,7 +1282,9 @@
       "Un repartidor se despierta en un futuro lejano y se une a una tripulación de envío interplanetario.",
       "Un capitán tuerto, un robot grosero y un profesor loco son pistas importantes.",
       "Sus chistes mezclan comedia en el lugar de trabajo con extraterrestres, viajes en el tiempo y absurdos de ciencia ficción."
-    ]
+    ],
+    "tmdb_id": 615,
+    "media_type": "tv"
   },
   {
     "celebrity": "South Park",
@@ -1059,16 +1293,20 @@
       "Sus pistas se basan en el escenario recurrente, la dinámica de los personajes y los conflictos de larga duración que los fanáticos recuerdan.",
       "Piense en el entorno semanal que construye: trabajos, parientes, investigaciones, peligro, fantasía o presión de supervivencia.",
       "La pista está en sus ingredientes repetibles: relaciones, ubicaciones, rituales y el tipo de problema que sigue regresando."
-    ]
+    ],
+    "tmdb_id": 2190,
+    "media_type": "tv"
   },
   {
-    "celebrity": "Rick and Morty",
+    "celebrity": "Rick y Morty",
     "gender": "",
     "facts": [
       "Sus pistas se basan en el escenario recurrente, la dinámica de los personajes y los conflictos de larga duración que los fanáticos recuerdan.",
       "Piense en el entorno semanal que construye: trabajos, parientes, investigaciones, peligro, fantasía o presión de supervivencia.",
       "La pista está en sus ingredientes repetibles: relaciones, ubicaciones, rituales y el tipo de problema que sigue regresando."
-    ]
+    ],
+    "tmdb_id": 60625,
+    "media_type": "tv"
   },
   {
     "celebrity": "Black Mirror",
@@ -1077,7 +1315,9 @@
       "Sus pistas se basan en el escenario recurrente, la dinámica de los personajes y los conflictos de larga duración que los fanáticos recuerdan.",
       "Piense en el entorno semanal que construye: trabajos, parientes, investigaciones, peligro, fantasía o presión de supervivencia.",
       "La pista está en sus ingredientes repetibles: relaciones, ubicaciones, rituales y el tipo de problema que sigue regresando."
-    ]
+    ],
+    "tmdb_id": 42009,
+    "media_type": "tv"
   },
   {
     "celebrity": "The Mandalorian",
@@ -1086,7 +1326,9 @@
       "Sus pistas se basan en el escenario recurrente, la dinámica de los personajes y los conflictos de larga duración que los fanáticos recuerdan.",
       "Piense en el entorno semanal que construye: trabajos, parientes, investigaciones, peligro, fantasía o presión de supervivencia.",
       "La pista está en sus ingredientes repetibles: relaciones, ubicaciones, rituales y el tipo de problema que sigue regresando."
-    ]
+    ],
+    "tmdb_id": 82856,
+    "media_type": "tv"
   },
   {
     "celebrity": "The Last of Us",
@@ -1095,7 +1337,9 @@
       "Un contrabandista empedernido acompaña a un adolescente inmune a través de una América arruinada e infectada por hongos.",
       "Monstruos que hacen clic, sigilo improvisado y un vínculo entre padres sustitutos son pistas centrales.",
       "El final convierte una posible cura en una elección personal devastadora."
-    ]
+    ],
+    "tmdb_id": 100088,
+    "media_type": "tv"
   },
   {
     "celebrity": "Succession",
@@ -1104,7 +1348,9 @@
       "Sus pistas se basan en el escenario recurrente, la dinámica de los personajes y los conflictos de larga duración que los fanáticos recuerdan.",
       "Piense en el entorno semanal que construye: trabajos, parientes, investigaciones, peligro, fantasía o presión de supervivencia.",
       "La pista está en sus ingredientes repetibles: relaciones, ubicaciones, rituales y el tipo de problema que sigue regresando."
-    ]
+    ],
+    "tmdb_id": 76331,
+    "media_type": "tv"
   },
   {
     "celebrity": "Sherlock",
@@ -1113,25 +1359,31 @@
       "Sus pistas se basan en el escenario recurrente, la dinámica de los personajes y los conflictos de larga duración que los fanáticos recuerdan.",
       "Piense en el entorno semanal que construye: trabajos, parientes, investigaciones, peligro, fantasía o presión de supervivencia.",
       "La pista está en sus ingredientes repetibles: relaciones, ubicaciones, rituales y el tipo de problema que sigue regresando."
-    ]
+    ],
+    "tmdb_id": 19885,
+    "media_type": "tv"
   },
   {
-    "celebrity": "House of the Dragon",
+    "celebrity": "La casa del dragón",
     "gender": "",
     "facts": [
       "Sus pistas se basan en el escenario recurrente, la dinámica de los personajes y los conflictos de larga duración que los fanáticos recuerdan.",
       "Piense en el entorno semanal que construye: trabajos, parientes, investigaciones, peligro, fantasía o presión de supervivencia.",
       "La pista está en sus ingredientes repetibles: relaciones, ubicaciones, rituales y el tipo de problema que sigue regresando."
-    ]
+    ],
+    "tmdb_id": 94997,
+    "media_type": "tv"
   },
   {
-    "celebrity": "The Bear",
+    "celebrity": "El Oso",
     "gender": "",
     "facts": [
       "Sus pistas se basan en el escenario recurrente, la dinámica de los personajes y los conflictos de larga duración que los fanáticos recuerdan.",
       "Piense en el entorno semanal que construye: trabajos, parientes, investigaciones, peligro, fantasía o presión de supervivencia.",
       "La pista está en sus ingredientes repetibles: relaciones, ubicaciones, rituales y el tipo de problema que sigue regresando."
-    ]
+    ],
+    "tmdb_id": 136315,
+    "media_type": "tv"
   },
   {
     "celebrity": "True Detective",
@@ -1140,7 +1392,9 @@
       "Sus pistas se basan en el escenario recurrente, la dinámica de los personajes y los conflictos de larga duración que los fanáticos recuerdan.",
       "Piense en el entorno semanal que construye: trabajos, parientes, investigaciones, peligro, fantasía o presión de supervivencia.",
       "La pista está en sus ingredientes repetibles: relaciones, ubicaciones, rituales y el tipo de problema que sigue regresando."
-    ]
+    ],
+    "tmdb_id": 46648,
+    "media_type": "tv"
   },
   {
     "celebrity": "Mr Robot",
@@ -1149,7 +1403,9 @@
       "Sus pistas se basan en el escenario recurrente, la dinámica de los personajes y los conflictos de larga duración que los fanáticos recuerdan.",
       "Piense en el entorno semanal que construye: trabajos, parientes, investigaciones, peligro, fantasía o presión de supervivencia.",
       "La pista está en sus ingredientes repetibles: relaciones, ubicaciones, rituales y el tipo de problema que sigue regresando."
-    ]
+    ],
+    "tmdb_id": 62560,
+    "media_type": "tv"
   },
   {
     "celebrity": "Hannibal",
@@ -1158,25 +1414,31 @@
       "Sus pistas se basan en el escenario recurrente, la dinámica de los personajes y los conflictos de larga duración que los fanáticos recuerdan.",
       "Piense en el entorno semanal que construye: trabajos, parientes, investigaciones, peligro, fantasía o presión de supervivencia.",
       "La pista está en sus ingredientes repetibles: relaciones, ubicaciones, rituales y el tipo de problema que sigue regresando."
-    ]
+    ],
+    "tmdb_id": 40008,
+    "media_type": "tv"
   },
   {
-    "celebrity": "Greys Anatomy",
+    "celebrity": "Anatomía según Grey",
     "gender": "",
     "facts": [
       "Sus pistas se basan en el escenario recurrente, la dinámica de los personajes y los conflictos de larga duración que los fanáticos recuerdan.",
       "Piense en el entorno semanal que construye: trabajos, parientes, investigaciones, peligro, fantasía o presión de supervivencia.",
       "La pista está en sus ingredientes repetibles: relaciones, ubicaciones, rituales y el tipo de problema que sigue regresando."
-    ]
+    ],
+    "tmdb_id": 1416,
+    "media_type": "tv"
   },
   {
-    "celebrity": "Modern Family",
+    "celebrity": "Una Familia Moderna",
     "gender": "",
     "facts": [
       "Sus pistas se basan en el escenario recurrente, la dinámica de los personajes y los conflictos de larga duración que los fanáticos recuerdan.",
       "Piense en el entorno semanal que construye: trabajos, parientes, investigaciones, peligro, fantasía o presión de supervivencia.",
       "La pista está en sus ingredientes repetibles: relaciones, ubicaciones, rituales y el tipo de problema que sigue regresando."
-    ]
+    ],
+    "tmdb_id": 1421,
+    "media_type": "tv"
   },
   {
     "celebrity": "Cheers",
@@ -1185,7 +1447,9 @@
       "Sus pistas se basan en el escenario recurrente, la dinámica de los personajes y los conflictos de larga duración que los fanáticos recuerdan.",
       "Piense en el entorno semanal que construye: trabajos, parientes, investigaciones, peligro, fantasía o presión de supervivencia.",
       "La pista está en sus ingredientes repetibles: relaciones, ubicaciones, rituales y el tipo de problema que sigue regresando."
-    ]
+    ],
+    "tmdb_id": 141,
+    "media_type": "tv"
   },
   {
     "celebrity": "Mash",
@@ -1194,34 +1458,42 @@
       "Sus pistas se basan en el escenario recurrente, la dinámica de los personajes y los conflictos de larga duración que los fanáticos recuerdan.",
       "Piense en el entorno semanal que construye: trabajos, parientes, investigaciones, peligro, fantasía o presión de supervivencia.",
       "La pista está en sus ingredientes repetibles: relaciones, ubicaciones, rituales y el tipo de problema que sigue regresando."
-    ]
+    ],
+    "tmdb_id": 918,
+    "media_type": "tv"
   },
   {
-    "celebrity": "The Fresh Prince of Bel Air",
+    "celebrity": "El Príncipe del Rap en Bel-Air",
     "gender": "",
     "facts": [
       "Sus pistas se basan en el escenario recurrente, la dinámica de los personajes y los conflictos de larga duración que los fanáticos recuerdan.",
       "Piense en el entorno semanal que construye: trabajos, parientes, investigaciones, peligro, fantasía o presión de supervivencia.",
       "La pista está en sus ingredientes repetibles: relaciones, ubicaciones, rituales y el tipo de problema que sigue regresando."
-    ]
+    ],
+    "tmdb_id": 1892,
+    "media_type": "tv"
   },
   {
-    "celebrity": "Daredevil",
+    "celebrity": "Marvel - Daredevil",
     "gender": "",
     "facts": [
       "Sus pistas se basan en el escenario recurrente, la dinámica de los personajes y los conflictos de larga duración que los fanáticos recuerdan.",
       "Piense en el entorno semanal que construye: trabajos, parientes, investigaciones, peligro, fantasía o presión de supervivencia.",
       "La pista está en sus ingredientes repetibles: relaciones, ubicaciones, rituales y el tipo de problema que sigue regresando."
-    ]
+    ],
+    "tmdb_id": 61889,
+    "media_type": "tv"
   },
   {
-    "celebrity": "Wanda Vision",
+    "celebrity": "Bruja Escarlata y Visión",
     "gender": "",
     "facts": [
       "Sus pistas se basan en el escenario recurrente, la dinámica de los personajes y los conflictos de larga duración que los fanáticos recuerdan.",
       "Piense en el entorno semanal que construye: trabajos, parientes, investigaciones, peligro, fantasía o presión de supervivencia.",
       "La pista está en sus ingredientes repetibles: relaciones, ubicaciones, rituales y el tipo de problema que sigue regresando."
-    ]
+    ],
+    "tmdb_id": 85271,
+    "media_type": "tv"
   },
   {
     "celebrity": "Loki",
@@ -1230,16 +1502,20 @@
       "Sus pistas se basan en el escenario recurrente, la dinámica de los personajes y los conflictos de larga duración que los fanáticos recuerdan.",
       "Piense en el entorno semanal que construye: trabajos, parientes, investigaciones, peligro, fantasía o presión de supervivencia.",
       "La pista está en sus ingredientes repetibles: relaciones, ubicaciones, rituales y el tipo de problema que sigue regresando."
-    ]
+    ],
+    "tmdb_id": 84958,
+    "media_type": "tv"
   },
   {
-    "celebrity": "Agents of Shield",
+    "celebrity": "Agents of S.H.I.E.L.D",
     "gender": "",
     "facts": [
       "Sus pistas se basan en el escenario recurrente, la dinámica de los personajes y los conflictos de larga duración que los fanáticos recuerdan.",
       "Piense en el entorno semanal que construye: trabajos, parientes, investigaciones, peligro, fantasía o presión de supervivencia.",
       "La pista está en sus ingredientes repetibles: relaciones, ubicaciones, rituales y el tipo de problema que sigue regresando."
-    ]
+    ],
+    "tmdb_id": 1403,
+    "media_type": "tv"
   },
   {
     "celebrity": "Battlestar Galactica",
@@ -1248,7 +1524,9 @@
       "Sus pistas se basan en el escenario recurrente, la dinámica de los personajes y los conflictos de larga duración que los fanáticos recuerdan.",
       "Piense en el entorno semanal que construye: trabajos, parientes, investigaciones, peligro, fantasía o presión de supervivencia.",
       "La pista está en sus ingredientes repetibles: relaciones, ubicaciones, rituales y el tipo de problema que sigue regresando."
-    ]
+    ],
+    "tmdb_id": 1972,
+    "media_type": "tv"
   },
   {
     "celebrity": "Firefly",
@@ -1257,16 +1535,20 @@
       "Sus pistas se basan en el escenario recurrente, la dinámica de los personajes y los conflictos de larga duración que los fanáticos recuerdan.",
       "Piense en el entorno semanal que construye: trabajos, parientes, investigaciones, peligro, fantasía o presión de supervivencia.",
       "La pista está en sus ingredientes repetibles: relaciones, ubicaciones, rituales y el tipo de problema que sigue regresando."
-    ]
+    ],
+    "tmdb_id": 1437,
+    "media_type": "tv"
   },
   {
-    "celebrity": "Star Trek the Next Generation",
+    "celebrity": "Viaje a las estrellas: La nueva generación",
     "gender": "",
     "facts": [
       "Sus pistas se basan en el escenario recurrente, la dinámica de los personajes y los conflictos de larga duración que los fanáticos recuerdan.",
       "Piense en el entorno semanal que construye: trabajos, parientes, investigaciones, peligro, fantasía o presión de supervivencia.",
       "La pista está en sus ingredientes repetibles: relaciones, ubicaciones, rituales y el tipo de problema que sigue regresando."
-    ]
+    ],
+    "tmdb_id": 655,
+    "media_type": "tv"
   },
   {
     "celebrity": "Money Heist",
@@ -1275,7 +1557,9 @@
       "Sus pistas se basan en el escenario recurrente, la dinámica de los personajes y los conflictos de larga duración que los fanáticos recuerdan.",
       "Piense en el entorno semanal que construye: trabajos, parientes, investigaciones, peligro, fantasía o presión de supervivencia.",
       "La pista está en sus ingredientes repetibles: relaciones, ubicaciones, rituales y el tipo de problema que sigue regresando."
-    ]
+    ],
+    "tmdb_id": 71446,
+    "media_type": "tv"
   },
   {
     "celebrity": "Dark",
@@ -1284,7 +1568,9 @@
       "Sus pistas se basan en el escenario recurrente, la dinámica de los personajes y los conflictos de larga duración que los fanáticos recuerdan.",
       "Piense en el entorno semanal que construye: trabajos, parientes, investigaciones, peligro, fantasía o presión de supervivencia.",
       "La pista está en sus ingredientes repetibles: relaciones, ubicaciones, rituales y el tipo de problema que sigue regresando."
-    ]
+    ],
+    "tmdb_id": 70523,
+    "media_type": "tv"
   },
   {
     "celebrity": "Narcos",
@@ -1293,16 +1579,20 @@
       "Sus pistas se basan en el escenario recurrente, la dinámica de los personajes y los conflictos de larga duración que los fanáticos recuerdan.",
       "Piense en el entorno semanal que construye: trabajos, parientes, investigaciones, peligro, fantasía o presión de supervivencia.",
       "La pista está en sus ingredientes repetibles: relaciones, ubicaciones, rituales y el tipo de problema que sigue regresando."
-    ]
+    ],
+    "tmdb_id": 63351,
+    "media_type": "tv"
   },
   {
-    "celebrity": "The Queens Gambit",
+    "celebrity": "Gambito de dama",
     "gender": "",
     "facts": [
       "Sus pistas se basan en el escenario recurrente, la dinámica de los personajes y los conflictos de larga duración que los fanáticos recuerdan.",
       "Piense en el entorno semanal que construye: trabajos, parientes, investigaciones, peligro, fantasía o presión de supervivencia.",
       "La pista está en sus ingredientes repetibles: relaciones, ubicaciones, rituales y el tipo de problema que sigue regresando."
-    ]
+    ],
+    "tmdb_id": 87739,
+    "media_type": "tv"
   },
   {
     "celebrity": "Ozark",
@@ -1311,25 +1601,31 @@
       "Sus pistas se basan en el escenario recurrente, la dinámica de los personajes y los conflictos de larga duración que los fanáticos recuerdan.",
       "Piense en el entorno semanal que construye: trabajos, parientes, investigaciones, peligro, fantasía o presión de supervivencia.",
       "La pista está en sus ingredientes repetibles: relaciones, ubicaciones, rituales y el tipo de problema que sigue regresando."
-    ]
+    ],
+    "tmdb_id": 69740,
+    "media_type": "tv"
   },
   {
-    "celebrity": "24",
+    "celebrity": "24 Horas",
     "gender": "",
     "facts": [
       "Sus pistas se basan en el escenario recurrente, la dinámica de los personajes y los conflictos de larga duración que los fanáticos recuerdan.",
       "Piense en el entorno semanal que construye: trabajos, parientes, investigaciones, peligro, fantasía o presión de supervivencia.",
       "La pista está en sus ingredientes repetibles: relaciones, ubicaciones, rituales y el tipo de problema que sigue regresando."
-    ]
+    ],
+    "tmdb_id": 1973,
+    "media_type": "tv"
   },
   {
-    "celebrity": "The West Wing",
+    "celebrity": "El ala oeste de la Casa Blanca",
     "gender": "",
     "facts": [
       "Sus pistas se basan en el escenario recurrente, la dinámica de los personajes y los conflictos de larga duración que los fanáticos recuerdan.",
       "Piense en el entorno semanal que construye: trabajos, parientes, investigaciones, peligro, fantasía o presión de supervivencia.",
       "La pista está en sus ingredientes repetibles: relaciones, ubicaciones, rituales y el tipo de problema que sigue regresando."
-    ]
+    ],
+    "tmdb_id": 688,
+    "media_type": "tv"
   },
   {
     "celebrity": "Downton Abbey",
@@ -1338,7 +1634,9 @@
       "Sus pistas se basan en el escenario recurrente, la dinámica de los personajes y los conflictos de larga duración que los fanáticos recuerdan.",
       "Piense en el entorno semanal que construye: trabajos, parientes, investigaciones, peligro, fantasía o presión de supervivencia.",
       "La pista está en sus ingredientes repetibles: relaciones, ubicaciones, rituales y el tipo de problema que sigue regresando."
-    ]
+    ],
+    "tmdb_id": 33907,
+    "media_type": "tv"
   },
   {
     "celebrity": "Fleabag",
@@ -1347,7 +1645,9 @@
       "Sus pistas se basan en el escenario recurrente, la dinámica de los personajes y los conflictos de larga duración que los fanáticos recuerdan.",
       "Piense en el entorno semanal que construye: trabajos, parientes, investigaciones, peligro, fantasía o presión de supervivencia.",
       "La pista está en sus ingredientes repetibles: relaciones, ubicaciones, rituales y el tipo de problema que sigue regresando."
-    ]
+    ],
+    "tmdb_id": 67070,
+    "media_type": "tv"
   },
   {
     "celebrity": "Ted Lasso",
@@ -1356,7 +1656,9 @@
       "Sus pistas se basan en el escenario recurrente, la dinámica de los personajes y los conflictos de larga duración que los fanáticos recuerdan.",
       "Piense en el entorno semanal que construye: trabajos, parientes, investigaciones, peligro, fantasía o presión de supervivencia.",
       "La pista está en sus ingredientes repetibles: relaciones, ubicaciones, rituales y el tipo de problema que sigue regresando."
-    ]
+    ],
+    "tmdb_id": 97546,
+    "media_type": "tv"
   },
   {
     "celebrity": "Community",
@@ -1365,7 +1667,9 @@
       "Sus pistas se basan en el escenario recurrente, la dinámica de los personajes y los conflictos de larga duración que los fanáticos recuerdan.",
       "Piense en el entorno semanal que construye: trabajos, parientes, investigaciones, peligro, fantasía o presión de supervivencia.",
       "La pista está en sus ingredientes repetibles: relaciones, ubicaciones, rituales y el tipo de problema que sigue regresando."
-    ]
+    ],
+    "tmdb_id": 18347,
+    "media_type": "tv"
   },
   {
     "celebrity": "Arrested Development",
@@ -1374,16 +1678,20 @@
       "Sus pistas se basan en el escenario recurrente, la dinámica de los personajes y los conflictos de larga duración que los fanáticos recuerdan.",
       "Piense en el entorno semanal que construye: trabajos, parientes, investigaciones, peligro, fantasía o presión de supervivencia.",
       "La pista está en sus ingredientes repetibles: relaciones, ubicaciones, rituales y el tipo de problema que sigue regresando."
-    ]
+    ],
+    "tmdb_id": 4589,
+    "media_type": "tv"
   },
   {
-    "celebrity": "Its Always Sunny in Philadelphia",
+    "celebrity": "Siempre hace sol en Filadelfia",
     "gender": "",
     "facts": [
       "Sus pistas se basan en el escenario recurrente, la dinámica de los personajes y los conflictos de larga duración que los fanáticos recuerdan.",
       "Piense en el entorno semanal que construye: trabajos, parientes, investigaciones, peligro, fantasía o presión de supervivencia.",
       "La pista está en sus ingredientes repetibles: relaciones, ubicaciones, rituales y el tipo de problema que sigue regresando."
-    ]
+    ],
+    "tmdb_id": 2710,
+    "media_type": "tv"
   },
   {
     "celebrity": "Veep",
@@ -1392,7 +1700,9 @@
       "Sus pistas se basan en el escenario recurrente, la dinámica de los personajes y los conflictos de larga duración que los fanáticos recuerdan.",
       "Piense en el entorno semanal que construye: trabajos, parientes, investigaciones, peligro, fantasía o presión de supervivencia.",
       "La pista está en sus ingredientes repetibles: relaciones, ubicaciones, rituales y el tipo de problema que sigue regresando."
-    ]
+    ],
+    "tmdb_id": 2947,
+    "media_type": "tv"
   },
   {
     "celebrity": "The Good Place",
@@ -1401,16 +1711,20 @@
       "Sus pistas se basan en el escenario recurrente, la dinámica de los personajes y los conflictos de larga duración que los fanáticos recuerdan.",
       "Piense en el entorno semanal que construye: trabajos, parientes, investigaciones, peligro, fantasía o presión de supervivencia.",
       "La pista está en sus ingredientes repetibles: relaciones, ubicaciones, rituales y el tipo de problema que sigue regresando."
-    ]
+    ],
+    "tmdb_id": 66573,
+    "media_type": "tv"
   },
   {
-    "celebrity": "Angel",
+    "celebrity": "Ángel",
     "gender": "",
     "facts": [
       "Sus pistas se basan en el escenario recurrente, la dinámica de los personajes y los conflictos de larga duración que los fanáticos recuerdan.",
       "Piense en el entorno semanal que construye: trabajos, parientes, investigaciones, peligro, fantasía o presión de supervivencia.",
       "La pista está en sus ingredientes repetibles: relaciones, ubicaciones, rituales y el tipo de problema que sigue regresando."
-    ]
+    ],
+    "tmdb_id": 2426,
+    "media_type": "tv"
   },
   {
     "celebrity": "Supergirl",
@@ -1419,7 +1733,9 @@
       "Sus pistas se basan en el escenario recurrente, la dinámica de los personajes y los conflictos de larga duración que los fanáticos recuerdan.",
       "Piense en el entorno semanal que construye: trabajos, parientes, investigaciones, peligro, fantasía o presión de supervivencia.",
       "La pista está en sus ingredientes repetibles: relaciones, ubicaciones, rituales y el tipo de problema que sigue regresando."
-    ]
+    ],
+    "tmdb_id": 62688,
+    "media_type": "tv"
   },
   {
     "celebrity": "Watchmen",
@@ -1428,7 +1744,9 @@
       "Sus pistas se basan en el escenario recurrente, la dinámica de los personajes y los conflictos de larga duración que los fanáticos recuerdan.",
       "Piense en el entorno semanal que construye: trabajos, parientes, investigaciones, peligro, fantasía o presión de supervivencia.",
       "La pista está en sus ingredientes repetibles: relaciones, ubicaciones, rituales y el tipo de problema que sigue regresando."
-    ]
+    ],
+    "tmdb_id": 79788,
+    "media_type": "tv"
   },
   {
     "celebrity": "The Umbrella Academy",
@@ -1437,16 +1755,20 @@
       "Sus pistas se basan en el escenario recurrente, la dinámica de los personajes y los conflictos de larga duración que los fanáticos recuerdan.",
       "Piense en el entorno semanal que construye: trabajos, parientes, investigaciones, peligro, fantasía o presión de supervivencia.",
       "La pista está en sus ingredientes repetibles: relaciones, ubicaciones, rituales y el tipo de problema que sigue regresando."
-    ]
+    ],
+    "tmdb_id": 75006,
+    "media_type": "tv"
   },
   {
-    "celebrity": "The Sandman",
+    "celebrity": "Sandman",
     "gender": "",
     "facts": [
       "Sus pistas se basan en el escenario recurrente, la dinámica de los personajes y los conflictos de larga duración que los fanáticos recuerdan.",
       "Piense en el entorno semanal que construye: trabajos, parientes, investigaciones, peligro, fantasía o presión de supervivencia.",
       "La pista está en sus ingredientes repetibles: relaciones, ubicaciones, rituales y el tipo de problema que sigue regresando."
-    ]
+    ],
+    "tmdb_id": 90802,
+    "media_type": "tv"
   },
   {
     "celebrity": "Arcane",
@@ -1455,7 +1777,9 @@
       "Sus pistas se basan en el escenario recurrente, la dinámica de los personajes y los conflictos de larga duración que los fanáticos recuerdan.",
       "Piense en el entorno semanal que construye: trabajos, parientes, investigaciones, peligro, fantasía o presión de supervivencia.",
       "La pista está en sus ingredientes repetibles: relaciones, ubicaciones, rituales y el tipo de problema que sigue regresando."
-    ]
+    ],
+    "tmdb_id": 94605,
+    "media_type": "tv"
   },
   {
     "celebrity": "Bones",
@@ -1464,25 +1788,31 @@
       "Sus pistas se basan en el escenario recurrente, la dinámica de los personajes y los conflictos de larga duración que los fanáticos recuerdan.",
       "Piense en el entorno semanal que construye: trabajos, parientes, investigaciones, peligro, fantasía o presión de supervivencia.",
       "La pista está en sus ingredientes repetibles: relaciones, ubicaciones, rituales y el tipo de problema que sigue regresando."
-    ]
+    ],
+    "tmdb_id": 1911,
+    "media_type": "tv"
   },
   {
-    "celebrity": "White Collar",
+    "celebrity": "Cuello Blanco",
     "gender": "",
     "facts": [
       "Sus pistas se basan en el escenario recurrente, la dinámica de los personajes y los conflictos de larga duración que los fanáticos recuerdan.",
       "Piense en el entorno semanal que construye: trabajos, parientes, investigaciones, peligro, fantasía o presión de supervivencia.",
       "La pista está en sus ingredientes repetibles: relaciones, ubicaciones, rituales y el tipo de problema que sigue regresando."
-    ]
+    ],
+    "tmdb_id": 21510,
+    "media_type": "tv"
   },
   {
-    "celebrity": "Sex and the City",
+    "celebrity": "Sexo en la Ciudad",
     "gender": "",
     "facts": [
       "Sus pistas se basan en el escenario recurrente, la dinámica de los personajes y los conflictos de larga duración que los fanáticos recuerdan.",
       "Piense en el entorno semanal que construye: trabajos, parientes, investigaciones, peligro, fantasía o presión de supervivencia.",
       "La pista está en sus ingredientes repetibles: relaciones, ubicaciones, rituales y el tipo de problema que sigue regresando."
-    ]
+    ],
+    "tmdb_id": 105,
+    "media_type": "tv"
   },
   {
     "celebrity": "Orange Is the New Black",
@@ -1491,16 +1821,20 @@
       "Sus pistas se basan en el escenario recurrente, la dinámica de los personajes y los conflictos de larga duración que los fanáticos recuerdan.",
       "Piense en el entorno semanal que construye: trabajos, parientes, investigaciones, peligro, fantasía o presión de supervivencia.",
       "La pista está en sus ingredientes repetibles: relaciones, ubicaciones, rituales y el tipo de problema que sigue regresando."
-    ]
+    ],
+    "tmdb_id": 1424,
+    "media_type": "tv"
   },
   {
-    "celebrity": "The Handmaids Tale",
+    "celebrity": "El Cuento de La Criada",
     "gender": "",
     "facts": [
       "Sus pistas se basan en el escenario recurrente, la dinámica de los personajes y los conflictos de larga duración que los fanáticos recuerdan.",
       "Piense en el entorno semanal que construye: trabajos, parientes, investigaciones, peligro, fantasía o presión de supervivencia.",
       "La pista está en sus ingredientes repetibles: relaciones, ubicaciones, rituales y el tipo de problema que sigue regresando."
-    ]
+    ],
+    "tmdb_id": 69478,
+    "media_type": "tv"
   },
   {
     "celebrity": "Killing Eve",
@@ -1509,7 +1843,9 @@
       "Sus pistas se basan en el escenario recurrente, la dinámica de los personajes y los conflictos de larga duración que los fanáticos recuerdan.",
       "Piense en el entorno semanal que construye: trabajos, parientes, investigaciones, peligro, fantasía o presión de supervivencia.",
       "La pista está en sus ingredientes repetibles: relaciones, ubicaciones, rituales y el tipo de problema que sigue regresando."
-    ]
+    ],
+    "tmdb_id": 72750,
+    "media_type": "tv"
   },
   {
     "celebrity": "Orphan Black",
@@ -1518,16 +1854,20 @@
       "Sus pistas se basan en el escenario recurrente, la dinámica de los personajes y los conflictos de larga duración que los fanáticos recuerdan.",
       "Piense en el entorno semanal que construye: trabajos, parientes, investigaciones, peligro, fantasía o presión de supervivencia.",
       "La pista está en sus ingredientes repetibles: relaciones, ubicaciones, rituales y el tipo de problema que sigue regresando."
-    ]
+    ],
+    "tmdb_id": 56296,
+    "media_type": "tv"
   },
   {
-    "celebrity": "The Originals",
+    "celebrity": "Los Originales",
     "gender": "",
     "facts": [
       "Sus pistas se basan en el escenario recurrente, la dinámica de los personajes y los conflictos de larga duración que los fanáticos recuerdan.",
       "Piense en el entorno semanal que construye: trabajos, parientes, investigaciones, peligro, fantasía o presión de supervivencia.",
       "La pista está en sus ingredientes repetibles: relaciones, ubicaciones, rituales y el tipo de problema que sigue regresando."
-    ]
+    ],
+    "tmdb_id": 46896,
+    "media_type": "tv"
   },
   {
     "celebrity": "Riverdale",
@@ -1536,34 +1876,42 @@
       "Sus pistas se basan en el escenario recurrente, la dinámica de los personajes y los conflictos de larga duración que los fanáticos recuerdan.",
       "Piense en el entorno semanal que construye: trabajos, parientes, investigaciones, peligro, fantasía o presión de supervivencia.",
       "La pista está en sus ingredientes repetibles: relaciones, ubicaciones, rituales y el tipo de problema que sigue regresando."
-    ]
+    ],
+    "tmdb_id": 69050,
+    "media_type": "tv"
   },
   {
-    "celebrity": "The Oc",
+    "celebrity": "The O.C. Vidas Ajenas",
     "gender": "",
     "facts": [
       "Sus pistas se basan en el escenario recurrente, la dinámica de los personajes y los conflictos de larga duración que los fanáticos recuerdan.",
       "Piense en el entorno semanal que construye: trabajos, parientes, investigaciones, peligro, fantasía o presión de supervivencia.",
       "La pista está en sus ingredientes repetibles: relaciones, ubicaciones, rituales y el tipo de problema que sigue regresando."
-    ]
+    ],
+    "tmdb_id": 2673,
+    "media_type": "tv"
   },
   {
-    "celebrity": "Dawsons Creek",
+    "celebrity": "Dawson crece",
     "gender": "",
     "facts": [
       "Sus pistas se basan en el escenario recurrente, la dinámica de los personajes y los conflictos de larga duración que los fanáticos recuerdan.",
       "Piense en el entorno semanal que construye: trabajos, parientes, investigaciones, peligro, fantasía o presión de supervivencia.",
       "La pista está en sus ingredientes repetibles: relaciones, ubicaciones, rituales y el tipo de problema que sigue regresando."
-    ]
+    ],
+    "tmdb_id": 2327,
+    "media_type": "tv"
   },
   {
-    "celebrity": "Veronica Mars",
+    "celebrity": "Verónica Mars",
     "gender": "",
     "facts": [
       "Sus pistas se basan en el escenario recurrente, la dinámica de los personajes y los conflictos de larga duración que los fanáticos recuerdan.",
       "Piense en el entorno semanal que construye: trabajos, parientes, investigaciones, peligro, fantasía o presión de supervivencia.",
       "La pista está en sus ingredientes repetibles: relaciones, ubicaciones, rituales y el tipo de problema que sigue regresando."
-    ]
+    ],
+    "tmdb_id": 1432,
+    "media_type": "tv"
   },
   {
     "celebrity": "Empire",
@@ -1572,7 +1920,9 @@
       "Sus pistas se basan en el escenario recurrente, la dinámica de los personajes y los conflictos de larga duración que los fanáticos recuerdan.",
       "Piense en el entorno semanal que construye: trabajos, parientes, investigaciones, peligro, fantasía o presión de supervivencia.",
       "La pista está en sus ingredientes repetibles: relaciones, ubicaciones, rituales y el tipo de problema que sigue regresando."
-    ]
+    ],
+    "tmdb_id": 61733,
+    "media_type": "tv"
   },
   {
     "celebrity": "This Is Us",
@@ -1581,16 +1931,20 @@
       "Sus pistas se basan en el escenario recurrente, la dinámica de los personajes y los conflictos de larga duración que los fanáticos recuerdan.",
       "Piense en el entorno semanal que construye: trabajos, parientes, investigaciones, peligro, fantasía o presión de supervivencia.",
       "La pista está en sus ingredientes repetibles: relaciones, ubicaciones, rituales y el tipo de problema que sigue regresando."
-    ]
+    ],
+    "tmdb_id": 67136,
+    "media_type": "tv"
   },
   {
-    "celebrity": "Six Feet Under",
+    "celebrity": "Seis Pies Bajo Tierra",
     "gender": "",
     "facts": [
       "Sus pistas se basan en el escenario recurrente, la dinámica de los personajes y los conflictos de larga duración que los fanáticos recuerdan.",
       "Piense en el entorno semanal que construye: trabajos, parientes, investigaciones, peligro, fantasía o presión de supervivencia.",
       "La pista está en sus ingredientes repetibles: relaciones, ubicaciones, rituales y el tipo de problema que sigue regresando."
-    ]
+    ],
+    "tmdb_id": 1274,
+    "media_type": "tv"
   },
   {
     "celebrity": "Deadwood",
@@ -1599,16 +1953,20 @@
       "Sus pistas se basan en el escenario recurrente, la dinámica de los personajes y los conflictos de larga duración que los fanáticos recuerdan.",
       "Piense en el entorno semanal que construye: trabajos, parientes, investigaciones, peligro, fantasía o presión de supervivencia.",
       "La pista está en sus ingredientes repetibles: relaciones, ubicaciones, rituales y el tipo de problema que sigue regresando."
-    ]
+    ],
+    "tmdb_id": 1406,
+    "media_type": "tv"
   },
   {
-    "celebrity": "Rome",
+    "celebrity": "Roma",
     "gender": "",
     "facts": [
       "Sus pistas se basan en el escenario recurrente, la dinámica de los personajes y los conflictos de larga duración que los fanáticos recuerdan.",
       "Piense en el entorno semanal que construye: trabajos, parientes, investigaciones, peligro, fantasía o presión de supervivencia.",
       "La pista está en sus ingredientes repetibles: relaciones, ubicaciones, rituales y el tipo de problema que sigue regresando."
-    ]
+    ],
+    "tmdb_id": 1891,
+    "media_type": "tv"
   },
   {
     "celebrity": "Boardwalk Empire",
@@ -1617,7 +1975,9 @@
       "Sus pistas se basan en el escenario recurrente, la dinámica de los personajes y los conflictos de larga duración que los fanáticos recuerdan.",
       "Piense en el entorno semanal que construye: trabajos, parientes, investigaciones, peligro, fantasía o presión de supervivencia.",
       "La pista está en sus ingredientes repetibles: relaciones, ubicaciones, rituales y el tipo de problema que sigue regresando."
-    ]
+    ],
+    "tmdb_id": 1621,
+    "media_type": "tv"
   },
   {
     "celebrity": "The Newsroom",
@@ -1626,7 +1986,9 @@
       "Sus pistas se basan en el escenario recurrente, la dinámica de los personajes y los conflictos de larga duración que los fanáticos recuerdan.",
       "Piense en el entorno semanal que construye: trabajos, parientes, investigaciones, peligro, fantasía o presión de supervivencia.",
       "La pista está en sus ingredientes repetibles: relaciones, ubicaciones, rituales y el tipo de problema que sigue regresando."
-    ]
+    ],
+    "tmdb_id": 15621,
+    "media_type": "tv"
   },
   {
     "celebrity": "Billions",
@@ -1635,7 +1997,9 @@
       "Sus pistas se basan en el escenario recurrente, la dinámica de los personajes y los conflictos de larga duración que los fanáticos recuerdan.",
       "Piense en el entorno semanal que construye: trabajos, parientes, investigaciones, peligro, fantasía o presión de supervivencia.",
       "La pista está en sus ingredientes repetibles: relaciones, ubicaciones, rituales y el tipo de problema que sigue regresando."
-    ]
+    ],
+    "tmdb_id": 62852,
+    "media_type": "tv"
   },
   {
     "celebrity": "Silicon Valley",
@@ -1644,16 +2008,20 @@
       "Sus pistas se basan en el escenario recurrente, la dinámica de los personajes y los conflictos de larga duración que los fanáticos recuerdan.",
       "Piense en el entorno semanal que construye: trabajos, parientes, investigaciones, peligro, fantasía o presión de supervivencia.",
       "La pista está en sus ingredientes repetibles: relaciones, ubicaciones, rituales y el tipo de problema que sigue regresando."
-    ]
+    ],
+    "tmdb_id": 60573,
+    "media_type": "tv"
   },
   {
-    "celebrity": "Entourage",
+    "celebrity": "Entourage: El séquito",
     "gender": "",
     "facts": [
       "Sus pistas se basan en el escenario recurrente, la dinámica de los personajes y los conflictos de larga duración que los fanáticos recuerdan.",
       "Piense en el entorno semanal que construye: trabajos, parientes, investigaciones, peligro, fantasía o presión de supervivencia.",
       "La pista está en sus ingredientes repetibles: relaciones, ubicaciones, rituales y el tipo de problema que sigue regresando."
-    ]
+    ],
+    "tmdb_id": 1940,
+    "media_type": "tv"
   },
   {
     "celebrity": "Girls",
@@ -1662,7 +2030,9 @@
       "Sus pistas se basan en el escenario recurrente, la dinámica de los personajes y los conflictos de larga duración que los fanáticos recuerdan.",
       "Piense en el entorno semanal que construye: trabajos, parientes, investigaciones, peligro, fantasía o presión de supervivencia.",
       "La pista está en sus ingredientes repetibles: relaciones, ubicaciones, rituales y el tipo de problema que sigue regresando."
-    ]
+    ],
+    "tmdb_id": 42282,
+    "media_type": "tv"
   },
   {
     "celebrity": "Skam",
@@ -1671,7 +2041,9 @@
       "Sus pistas se basan en el escenario recurrente, la dinámica de los personajes y los conflictos de larga duración que los fanáticos recuerdan.",
       "Piense en el entorno semanal que construye: trabajos, parientes, investigaciones, peligro, fantasía o presión de supervivencia.",
       "La pista está en sus ingredientes repetibles: relaciones, ubicaciones, rituales y el tipo de problema que sigue regresando."
-    ]
+    ],
+    "tmdb_id": 65320,
+    "media_type": "tv"
   },
   {
     "celebrity": "Skins",
@@ -1680,7 +2052,9 @@
       "Sus pistas se basan en el escenario recurrente, la dinámica de los personajes y los conflictos de larga duración que los fanáticos recuerdan.",
       "Piense en el entorno semanal que construye: trabajos, parientes, investigaciones, peligro, fantasía o presión de supervivencia.",
       "La pista está en sus ingredientes repetibles: relaciones, ubicaciones, rituales y el tipo de problema que sigue regresando."
-    ]
+    ],
+    "tmdb_id": 900,
+    "media_type": "tv"
   },
   {
     "celebrity": "Shameless",
@@ -1689,43 +2063,53 @@
       "Sus pistas se basan en el escenario recurrente, la dinámica de los personajes y los conflictos de larga duración que los fanáticos recuerdan.",
       "Piense en el entorno semanal que construye: trabajos, parientes, investigaciones, peligro, fantasía o presión de supervivencia.",
       "La pista está en sus ingredientes repetibles: relaciones, ubicaciones, rituales y el tipo de problema que sigue regresando."
-    ]
+    ],
+    "tmdb_id": 34307,
+    "media_type": "tv"
   },
   {
-    "celebrity": "Misfits",
+    "celebrity": "Misfits Webisodes",
     "gender": "",
     "facts": [
       "Sus pistas se basan en el escenario recurrente, la dinámica de los personajes y los conflictos de larga duración que los fanáticos recuerdan.",
       "Piense en el entorno semanal que construye: trabajos, parientes, investigaciones, peligro, fantasía o presión de supervivencia.",
       "La pista está en sus ingredientes repetibles: relaciones, ubicaciones, rituales y el tipo de problema que sigue regresando."
-    ]
+    ],
+    "tmdb_id": 31295,
+    "media_type": "tv"
   },
   {
-    "celebrity": "Black Sails",
+    "celebrity": "Piratas: Velas Negras",
     "gender": "",
     "facts": [
       "Sus pistas se basan en el escenario recurrente, la dinámica de los personajes y los conflictos de larga duración que los fanáticos recuerdan.",
       "Piense en el entorno semanal que construye: trabajos, parientes, investigaciones, peligro, fantasía o presión de supervivencia.",
       "La pista está en sus ingredientes repetibles: relaciones, ubicaciones, rituales y el tipo de problema que sigue regresando."
-    ]
+    ],
+    "tmdb_id": 47665,
+    "media_type": "tv"
   },
   {
-    "celebrity": "The Tudors",
+    "celebrity": "Los Tudor",
     "gender": "",
     "facts": [
       "Sus pistas se basan en el escenario recurrente, la dinámica de los personajes y los conflictos de larga duración que los fanáticos recuerdan.",
       "Piense en el entorno semanal que construye: trabajos, parientes, investigaciones, peligro, fantasía o presión de supervivencia.",
       "La pista está en sus ingredientes repetibles: relaciones, ubicaciones, rituales y el tipo de problema que sigue regresando."
-    ]
+    ],
+    "tmdb_id": 2942,
+    "media_type": "tv"
   },
   {
-    "celebrity": "Merlin",
+    "celebrity": "Merlín",
     "gender": "",
     "facts": [
       "Sus pistas se basan en el escenario recurrente, la dinámica de los personajes y los conflictos de larga duración que los fanáticos recuerdan.",
       "Piense en el entorno semanal que construye: trabajos, parientes, investigaciones, peligro, fantasía o presión de supervivencia.",
       "La pista está en sus ingredientes repetibles: relaciones, ubicaciones, rituales y el tipo de problema que sigue regresando."
-    ]
+    ],
+    "tmdb_id": 7225,
+    "media_type": "tv"
   },
   {
     "celebrity": "Grim",
@@ -1734,43 +2118,53 @@
       "Sus pistas se basan en el escenario recurrente, la dinámica de los personajes y los conflictos de larga duración que los fanáticos recuerdan.",
       "Piense en el entorno semanal que construye: trabajos, parientes, investigaciones, peligro, fantasía o presión de supervivencia.",
       "La pista está en sus ingredientes repetibles: relaciones, ubicaciones, rituales y el tipo de problema que sigue regresando."
-    ]
+    ],
+    "tmdb_id": 306086,
+    "media_type": "tv"
   },
   {
-    "celebrity": "Shadowhunters",
+    "celebrity": "Cazadores de sombras",
     "gender": "",
     "facts": [
       "Sus pistas se basan en el escenario recurrente, la dinámica de los personajes y los conflictos de larga duración que los fanáticos recuerdan.",
       "Piense en el entorno semanal que construye: trabajos, parientes, investigaciones, peligro, fantasía o presión de supervivencia.",
       "La pista está en sus ingredientes repetibles: relaciones, ubicaciones, rituales y el tipo de problema que sigue regresando."
-    ]
+    ],
+    "tmdb_id": 63210,
+    "media_type": "tv"
   },
   {
-    "celebrity": "Manifest",
+    "celebrity": "Manifiesto",
     "gender": "",
     "facts": [
       "Sus pistas se basan en el escenario recurrente, la dinámica de los personajes y los conflictos de larga duración que los fanáticos recuerdan.",
       "Piense en el entorno semanal que construye: trabajos, parientes, investigaciones, peligro, fantasía o presión de supervivencia.",
       "La pista está en sus ingredientes repetibles: relaciones, ubicaciones, rituales y el tipo de problema que sigue regresando."
-    ]
+    ],
+    "tmdb_id": 79696,
+    "media_type": "tv"
   },
   {
-    "celebrity": "Burn Notice",
+    "celebrity": "Operación Miami",
     "gender": "",
     "facts": [
       "Sus pistas se basan en el escenario recurrente, la dinámica de los personajes y los conflictos de larga duración que los fanáticos recuerdan.",
       "Piense en el entorno semanal que construye: trabajos, parientes, investigaciones, peligro, fantasía o presión de supervivencia.",
       "La pista está en sus ingredientes repetibles: relaciones, ubicaciones, rituales y el tipo de problema que sigue regresando."
-    ]
+    ],
+    "tmdb_id": 2919,
+    "media_type": "tv"
   },
   {
-    "celebrity": "Leverage",
+    "celebrity": "Las reglas del juego",
     "gender": "",
     "facts": [
       "Sus pistas se basan en el escenario recurrente, la dinámica de los personajes y los conflictos de larga duración que los fanáticos recuerdan.",
       "Piense en el entorno semanal que construye: trabajos, parientes, investigaciones, peligro, fantasía o presión de supervivencia.",
       "La pista está en sus ingredientes repetibles: relaciones, ubicaciones, rituales y el tipo de problema que sigue regresando."
-    ]
+    ],
+    "tmdb_id": 7482,
+    "media_type": "tv"
   },
   {
     "celebrity": "The Good Fight",
@@ -1779,24 +2173,30 @@
       "Sus pistas se basan en el escenario recurrente, la dinámica de los personajes y los conflictos de larga duración que los fanáticos recuerdan.",
       "Piense en el entorno semanal que construye: trabajos, parientes, investigaciones, peligro, fantasía o presión de supervivencia.",
       "La pista está en sus ingredientes repetibles: relaciones, ubicaciones, rituales y el tipo de problema que sigue regresando."
-    ]
+    ],
+    "tmdb_id": 69158,
+    "media_type": "tv"
   },
   {
-    "celebrity": "How to Get Away With Murder",
+    "celebrity": "Lecciones del Crimen",
     "gender": "",
     "facts": [
       "Sus pistas se basan en el escenario recurrente, la dinámica de los personajes y los conflictos de larga duración que los fanáticos recuerdan.",
       "Piense en el entorno semanal que construye: trabajos, parientes, investigaciones, peligro, fantasía o presión de supervivencia.",
       "La pista está en sus ingredientes repetibles: relaciones, ubicaciones, rituales y el tipo de problema que sigue regresando."
-    ]
+    ],
+    "tmdb_id": 61056,
+    "media_type": "tv"
   },
   {
-    "celebrity": "Law and Order Svu",
+    "celebrity": "La Ley y el Orden: Unidad de Víctimas Especiales",
     "gender": "",
     "facts": [
       "Sus pistas se basan en el escenario recurrente, la dinámica de los personajes y los conflictos de larga duración que los fanáticos recuerdan.",
       "Piense en el entorno semanal que construye: trabajos, parientes, investigaciones, peligro, fantasía o presión de supervivencia.",
       "La pista está en sus ingredientes repetibles: relaciones, ubicaciones, rituales y el tipo de problema que sigue regresando."
-    ]
+    ],
+    "tmdb_id": 2734,
+    "media_type": "tv"
   }
 ]

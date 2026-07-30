@@ -1,30 +1,36 @@
 [
   {
-    "celebrity": "The Godfather",
+    "celebrity": "Le Parrain",
     "gender": "",
     "facts": [
       "Une famille criminelle tente de conserver le pouvoir tandis que le plus jeune fils, réticent, est entraîné dans l'entreprise.",
       "Une tête de cheval dans un lit est devenue l'une des scènes d'intimidation les plus tristement célèbres du cinéma.",
       "L'histoire mélange mariages, vengeance au restaurant, fidélité à l'ancien monde et transformation discrète en patron impitoyable."
-    ]
+    ],
+    "tmdb_id": 238,
+    "media_type": "movie"
   },
   {
-    "celebrity": "The Dark Knight",
+    "celebrity": "Le Chevalier noir",
     "gender": "",
     "facts": [
       "Un justicier masqué affronte un agent du chaos qui transforme la moralité publique en une expérience cruelle.",
       "Un procureur marqué devient le centre émotionnel de l'effondrement de la ville.",
       "Son ouverture pour un vol de banque et son tour au crayon sont devenus instantanément des repères du thriller policier moderne."
-    ]
+    ],
+    "tmdb_id": 155,
+    "media_type": "movie"
   },
   {
-    "celebrity": "Pulp Fiction",
+    "celebrity": "Fiction pulpeuse",
     "gender": "",
     "facts": [
       "L'histoire traverse le temps avec des tueurs à gages, un boxeur, une mallette mystérieuse et un hold-up au restaurant.",
       "Un concours de danse, un boîtier lumineux et une montre cachée dans un endroit inconfortable comptent tous.",
       "Son dialogue transforme la restauration rapide, les massages des pieds et l'intervention divine en indices de la culture pop."
-    ]
+    ],
+    "tmdb_id": 680,
+    "media_type": "movie"
   },
   {
     "celebrity": "Forrest Gump",
@@ -33,16 +39,20 @@
       "Un homme doux parcourt accidentellement des décennies de l'histoire américaine.",
       "La course à pied, les crevettiers, le ping-pong et une boîte de chocolats sont autant d'indices majeurs.",
       "L'histoire d'amour du héros se déroule à côté des guerres, des manifestations, des présidents et d'un banc célèbre."
-    ]
+    ],
+    "tmdb_id": 13,
+    "media_type": "movie"
   },
   {
-    "celebrity": "Inception",
+    "celebrity": "Origine",
     "gender": "",
     "facts": [
       "Les spécialistes pénètrent dans les rêves à plusieurs niveaux pour implanter une idée au lieu de la voler.",
       "Une toupie, des rues pliantes et une bagarre dans un couloir sans gravité sont des indices visuels majeurs.",
       "Le braquage central dépend des niveaux de sommeil, de la dilatation du temps et du chagrin qui continue d'envahir la mission."
-    ]
+    ],
+    "tmdb_id": 27205,
+    "media_type": "movie"
   },
   {
     "celebrity": "Fight Club",
@@ -51,43 +61,53 @@
       "Un narrateur insomniaque rejoint un mouvement clandestin construit autour de la violence à mains nues.",
       "Du savon, des groupes de soutien et un étranger charismatique anti-consumériste sont des indices centraux.",
       "Le plus gros rebondissement concerne les meurtrissures, les règles et le projet d’effacement des dossiers financiers."
-    ]
+    ],
+    "tmdb_id": 550,
+    "media_type": "movie"
   },
   {
-    "celebrity": "The Matrix",
+    "celebrity": "La matrice",
     "gender": "",
     "facts": [
       "Un hacker découvre que la vie ordinaire est une prison simulée contrôlée par des machines.",
       "Les pilules rouges et bleues, les blouses noires, l’esquive des balles et le code vert pluvieux sont des indices caractéristiques.",
       "Son action utilise la prophétie, les téléchargements de kung-fu et les agents qui contournent les règles de la réalité."
-    ]
+    ],
+    "tmdb_id": 603,
+    "media_type": "movie"
   },
   {
-    "celebrity": "Goodfellas",
+    "celebrity": "Les affranchis",
     "gender": "",
     "facts": [
       "Ses indices proviennent du décor, du conflit central et des images d'écran mémorables plutôt que du nom.",
       "Recherchez le type de personnages, le décor et la situation de genre que les fans y associent.",
       "Le meilleur indice est l’ambiance : un mélange reconnaissable d’enjeux, de style visuel et de références répétées à la culture pop."
-    ]
+    ],
+    "tmdb_id": 769,
+    "media_type": "movie"
   },
   {
-    "celebrity": "The Shawshank Redemption",
+    "celebrity": "À l'ombre de Shawshank",
     "gender": "",
     "facts": [
       "Ses indices proviennent du décor, du conflit central et des images d'écran mémorables plutôt que du nom.",
       "Recherchez le type de personnages, le décor et la situation de genre que les fans y associent.",
       "Le meilleur indice est l’ambiance : un mélange reconnaissable d’enjeux, de style visuel et de références répétées à la culture pop."
-    ]
+    ],
+    "tmdb_id": 278,
+    "media_type": "movie"
   },
   {
-    "celebrity": "Jurassic Park",
+    "celebrity": "Le parc jurassique",
     "gender": "",
     "facts": [
       "Une attraction milliardaire tente de faire revivre des créatures préhistoriques avec la science et le spectacle.",
       "Un verre d’eau ondulant devant un pas de géant est l’un de ses indices les plus clairs.",
       "Le chaos commence lorsque les clôtures tombent en panne, que les rapaces chassent dans les cuisines et que la nature refuse de rester sous contrôle."
-    ]
+    ],
+    "tmdb_id": 329,
+    "media_type": "movie"
   },
   {
     "celebrity": "Titanic",
@@ -96,52 +116,64 @@
       "Une romance interdite se déroule à bord d’un paquebot de luxe condamné.",
       "Un diamant bleu, un grand escalier et une scène de croquis sont des indices clés.",
       "Son histoire désastreuse transforme les divisions de classe, l’eau glacée et une porte flottante en images durables."
-    ]
+    ],
+    "tmdb_id": 597,
+    "media_type": "movie"
   },
   {
-    "celebrity": "Back to the Future",
+    "celebrity": "Retour vers le futur",
     "gender": "",
     "facts": [
       "Un adolescent traverse des décennies dans une voiture de sport modifiée propulsée par une science sauvage.",
       "Une tour de l'horloge, un éclair et une photo de famille qui disparaît sont les enjeux.",
       "Le héros doit réparer la romance de ses parents avant que sa propre existence ne disparaisse."
-    ]
+    ],
+    "tmdb_id": 105,
+    "media_type": "movie"
   },
   {
-    "celebrity": "The Lord of the Rings",
+    "celebrity": "Le Seigneur des Anneaux",
     "gender": "",
     "facts": [
       "Ses indices proviennent du décor, du conflit central et des images d'écran mémorables plutôt que du nom.",
       "Recherchez le type de personnages, le décor et la situation de genre que les fans y associent.",
       "Le meilleur indice est l’ambiance : un mélange reconnaissable d’enjeux, de style visuel et de références répétées à la culture pop."
-    ]
+    ],
+    "tmdb_id": 123,
+    "media_type": "movie"
   },
   {
-    "celebrity": "Harry Potter",
+    "celebrity": "Harry Potter à l'école des sorciers",
     "gender": "",
     "facts": [
       "Un orphelin découvre une école de magie cachée, une cicatrice et un destin lié à un sorcier noir.",
       "Les baguettes magiques, les foulards de maison, les escaliers en mouvement et les sports de balais volants sont des indices majeurs.",
       "L'histoire passe des mystères de la classe à une guerre pour les lignées, la loyauté et l'immortalité."
-    ]
+    ],
+    "tmdb_id": 671,
+    "media_type": "movie"
   },
   {
-    "celebrity": "Star Wars",
+    "celebrity": "La guerre des étoiles",
     "gender": "",
     "facts": [
       "Des garçons de ferme, des contrebandiers, des princesses et des guerriers en robe s'affrontent dans une rébellion digne d'un opéra spatial.",
       "Des épées lumineuses, des masques respiratoires, des planètes désertiques et de minuscules chasseurs stellaires sont des indices majeurs.",
       "Sa famille révèle un champ d'énergie mystique qui a façonné la mythologie à succès pendant des décennies."
-    ]
+    ],
+    "tmdb_id": 11,
+    "media_type": "movie"
   },
   {
-    "celebrity": "Indiana Jones",
+    "celebrity": "Les aventuriers de l'arche perdue",
     "gender": "",
     "facts": [
       "Ses indices proviennent du décor, du conflit central et des images d'écran mémorables plutôt que du nom.",
       "Recherchez le type de personnages, le décor et la situation de genre que les fans y associent.",
       "Le meilleur indice est l’ambiance : un mélange reconnaissable d’enjeux, de style visuel et de références répétées à la culture pop."
-    ]
+    ],
+    "tmdb_id": 85,
+    "media_type": "movie"
   },
   {
     "celebrity": "Rocky",
@@ -150,25 +182,31 @@
       "Ses indices proviennent du décor, du conflit central et des images d'écran mémorables plutôt que du nom.",
       "Recherchez le type de personnages, le décor et la situation de genre que les fans y associent.",
       "Le meilleur indice est l’ambiance : un mélange reconnaissable d’enjeux, de style visuel et de références répétées à la culture pop."
-    ]
+    ],
+    "tmdb_id": 1366,
+    "media_type": "movie"
   },
   {
-    "celebrity": "Jaws",
+    "celebrity": "Les dents de la mer",
     "gender": "",
     "facts": [
       "Une ville balnéaire est terrorisée par un énorme prédateur tandis que les autorités s'inquiètent de la saison touristique.",
       "Un avertissement musical à deux notes est devenu plus célèbre que de nombreuses alertes à l'écran.",
       "La chasse finale rassemble un chef de la police, un scientifique et un capitaine de bateau grisonnant en mer."
-    ]
+    ],
+    "tmdb_id": 578,
+    "media_type": "movie"
   },
   {
-    "celebrity": "Alien",
+    "celebrity": "Alien : Le 8e Passager",
     "gender": "",
     "facts": [
       "Une équipe minière répond à un signal de détresse et ramène quelque chose de mortel sur son navire.",
       "Les étreintes de visage, les explosions de poitrine, le sang acide et les couloirs industriels sont des indices majeurs.",
       "Son horreur vient de l'isolement dans l'espace et d'une créature conçue pour se sentir à la fois mécanique et biologique."
-    ]
+    ],
+    "tmdb_id": 348,
+    "media_type": "movie"
   },
   {
     "celebrity": "Terminator",
@@ -177,79 +215,97 @@
       "Une machine tueuse est envoyée du futur pour changer le sort d'une guerre à venir.",
       "Une veste en cuir, une vision robotique rouge et une marche imparable sont des indices majeurs.",
       "L'histoire de poursuite transforme une serveuse en la clé de la survie de l'humanité."
-    ]
+    ],
+    "tmdb_id": 218,
+    "media_type": "movie"
   },
   {
-    "celebrity": "Die Hard",
+    "celebrity": "Piège de cristal",
     "gender": "",
     "facts": [
       "Ses indices proviennent du décor, du conflit central et des images d'écran mémorables plutôt que du nom.",
       "Recherchez le type de personnages, le décor et la situation de genre que les fans y associent.",
       "Le meilleur indice est l’ambiance : un mélange reconnaissable d’enjeux, de style visuel et de références répétées à la culture pop."
-    ]
+    ],
+    "tmdb_id": 562,
+    "media_type": "movie"
   },
   {
-    "celebrity": "Mad Max Fury Road",
+    "celebrity": "Mad Max : La route du chaos",
     "gender": "",
     "facts": [
       "Ses indices proviennent du décor, du conflit central et des images d'écran mémorables plutôt que du nom.",
       "Recherchez le type de personnages, le décor et la situation de genre que les fans y associent.",
       "Le meilleur indice est l’ambiance : un mélange reconnaissable d’enjeux, de style visuel et de références répétées à la culture pop."
-    ]
+    ],
+    "tmdb_id": 76341,
+    "media_type": "movie"
   },
   {
-    "celebrity": "Gladiator",
+    "celebrity": "Gladiateur",
     "gender": "",
     "facts": [
       "Ses indices proviennent du décor, du conflit central et des images d'écran mémorables plutôt que du nom.",
       "Recherchez le type de personnages, le décor et la situation de genre que les fans y associent.",
       "Le meilleur indice est l’ambiance : un mélange reconnaissable d’enjeux, de style visuel et de références répétées à la culture pop."
-    ]
+    ],
+    "tmdb_id": 98,
+    "media_type": "movie"
   },
   {
-    "celebrity": "The Silence of the Lambs",
+    "celebrity": "Le silence des agneaux",
     "gender": "",
     "facts": [
       "Ses indices proviennent du décor, du conflit central et des images d'écran mémorables plutôt que du nom.",
       "Recherchez le type de personnages, le décor et la situation de genre que les fans y associent.",
       "Le meilleur indice est l’ambiance : un mélange reconnaissable d’enjeux, de style visuel et de références répétées à la culture pop."
-    ]
+    ],
+    "tmdb_id": 274,
+    "media_type": "movie"
   },
   {
-    "celebrity": "Saving Private Ryan",
+    "celebrity": "Il faut sauver le soldat Ryan",
     "gender": "",
     "facts": [
       "Ses indices proviennent du décor, du conflit central et des images d'écran mémorables plutôt que du nom.",
       "Recherchez le type de personnages, le décor et la situation de genre que les fans y associent.",
       "Le meilleur indice est l’ambiance : un mélange reconnaissable d’enjeux, de style visuel et de références répétées à la culture pop."
-    ]
+    ],
+    "tmdb_id": 857,
+    "media_type": "movie"
   },
   {
-    "celebrity": "Braveheart",
+    "celebrity": "Cœur vaillant",
     "gender": "",
     "facts": [
       "Ses indices proviennent du décor, du conflit central et des images d'écran mémorables plutôt que du nom.",
       "Recherchez le type de personnages, le décor et la situation de genre que les fans y associent.",
       "Le meilleur indice est l’ambiance : un mélange reconnaissable d’enjeux, de style visuel et de références répétées à la culture pop."
-    ]
+    ],
+    "tmdb_id": 197,
+    "media_type": "movie"
   },
   {
-    "celebrity": "The Departed",
+    "celebrity": "Agents troubles",
     "gender": "",
     "facts": [
       "Ses indices proviennent du décor, du conflit central et des images d'écran mémorables plutôt que du nom.",
       "Recherchez le type de personnages, le décor et la situation de genre que les fans y associent.",
       "Le meilleur indice est l’ambiance : un mélange reconnaissable d’enjeux, de style visuel et de références répétées à la culture pop."
-    ]
+    ],
+    "tmdb_id": 1422,
+    "media_type": "movie"
   },
   {
-    "celebrity": "Interstellar",
+    "celebrity": "Interstellaire",
     "gender": "",
     "facts": [
       "Ses indices proviennent du décor, du conflit central et des images d'écran mémorables plutôt que du nom.",
       "Recherchez le type de personnages, le décor et la situation de genre que les fans y associent.",
       "Le meilleur indice est l’ambiance : un mélange reconnaissable d’enjeux, de style visuel et de références répétées à la culture pop."
-    ]
+    ],
+    "tmdb_id": 157336,
+    "media_type": "movie"
   },
   {
     "celebrity": "Avatar",
@@ -258,43 +314,53 @@
       "Ses indices proviennent du décor, du conflit central et des images d'écran mémorables plutôt que du nom.",
       "Recherchez le type de personnages, le décor et la situation de genre que les fans y associent.",
       "Le meilleur indice est l’ambiance : un mélange reconnaissable d’enjeux, de style visuel et de références répétées à la culture pop."
-    ]
+    ],
+    "tmdb_id": 19995,
+    "media_type": "movie"
   },
   {
-    "celebrity": "Black Panther",
+    "celebrity": "Panthère Noire",
     "gender": "",
     "facts": [
       "Ses indices proviennent du décor, du conflit central et des images d'écran mémorables plutôt que du nom.",
       "Recherchez le type de personnages, le décor et la situation de genre que les fans y associent.",
       "Le meilleur indice est l’ambiance : un mélange reconnaissable d’enjeux, de style visuel et de références répétées à la culture pop."
-    ]
+    ],
+    "tmdb_id": 284054,
+    "media_type": "movie"
   },
   {
-    "celebrity": "Avengers Endgame",
+    "celebrity": "Avengers : Phase finale",
     "gender": "",
     "facts": [
       "Ses indices proviennent du décor, du conflit central et des images d'écran mémorables plutôt que du nom.",
       "Recherchez le type de personnages, le décor et la situation de genre que les fans y associent.",
       "Le meilleur indice est l’ambiance : un mélange reconnaissable d’enjeux, de style visuel et de références répétées à la culture pop."
-    ]
+    ],
+    "tmdb_id": 299534,
+    "media_type": "movie"
   },
   {
-    "celebrity": "Toy Story",
+    "celebrity": "Histoire de Jouets",
     "gender": "",
     "facts": [
       "Les jouets de la chambre prennent vie secrètement lorsque les humains ne regardent pas.",
       "Un chef de cow-boy se sent menacé lorsqu'un nouveau venu flashy sur le thème de l'espace arrive.",
       "Des machines à griffes, des camions de déménagement et un voisin qui mute des jouets sont des indices clés."
-    ]
+    ],
+    "tmdb_id": 862,
+    "media_type": "movie"
   },
   {
-    "celebrity": "Finding Nemo",
+    "celebrity": "Trouver Némo",
     "gender": "",
     "facts": [
       "Un père anxieux traverse l'océan après que son petit fils ait été emmené par des plongeurs.",
       "Un compagnon bleu oublieux, l'aquarium d'un dentiste et des tortues ressemblant à des surfeurs sont des indices majeurs.",
       "Son voyage s'étend des récifs coralliens aux champs de méduses et à un plan d'évacuation."
-    ]
+    ],
+    "tmdb_id": 12,
+    "media_type": "movie"
   },
   {
     "celebrity": "Shrek",
@@ -303,34 +369,42 @@
       "Un ogre amoureux des marais est contraint de participer à une mission de sauvetage de conte de fées avec un âne bavard.",
       "La princesse cache un secret nocturne qui change le sens du véritable amour.",
       "Ses blagues transforment les châteaux, les malédictions, les quêtes de tournoi et les créatures des livres de contes en parodie."
-    ]
+    ],
+    "tmdb_id": 808,
+    "media_type": "movie"
   },
   {
-    "celebrity": "Frozen",
+    "celebrity": "La reine des neiges",
     "gender": "",
     "facts": [
       "Deux sœurs royales sont séparées par de dangereux pouvoirs de glace et des années de peur.",
       "Un bonhomme de neige vivant, un palais de glace en montagne et une chanson sur le lâcher prise sont des indices majeurs.",
       "La solution émotionnelle dépend davantage de la fraternité que d’un sauvetage romantique traditionnel."
-    ]
+    ],
+    "tmdb_id": 109445,
+    "media_type": "movie"
   },
   {
-    "celebrity": "The Lion King",
+    "celebrity": "Le Roi Lion",
     "gender": "",
     "facts": [
       "Ses indices proviennent du décor, du conflit central et des images d'écran mémorables plutôt que du nom.",
       "Recherchez le type de personnages, le décor et la situation de genre que les fans y associent.",
       "Le meilleur indice est l’ambiance : un mélange reconnaissable d’enjeux, de style visuel et de références répétées à la culture pop."
-    ]
+    ],
+    "tmdb_id": 8587,
+    "media_type": "movie"
   },
   {
-    "celebrity": "Spirited Away",
+    "celebrity": "Le voyage de Chihiro",
     "gender": "",
     "facts": [
       "Ses indices proviennent du décor, du conflit central et des images d'écran mémorables plutôt que du nom.",
       "Recherchez le type de personnages, le décor et la situation de genre que les fans y associent.",
       "Le meilleur indice est l’ambiance : un mélange reconnaissable d’enjeux, de style visuel et de références répétées à la culture pop."
-    ]
+    ],
+    "tmdb_id": 129,
+    "media_type": "movie"
   },
   {
     "celebrity": "Parasite",
@@ -339,7 +413,9 @@
       "Ses indices proviennent du décor, du conflit central et des images d'écran mémorables plutôt que du nom.",
       "Recherchez le type de personnages, le décor et la situation de genre que les fans y associent.",
       "Le meilleur indice est l’ambiance : un mélange reconnaissable d’enjeux, de style visuel et de références répétées à la culture pop."
-    ]
+    ],
+    "tmdb_id": 496243,
+    "media_type": "movie"
   },
   {
     "celebrity": "Oppenheimer",
@@ -348,7 +424,9 @@
       "Ses indices proviennent du décor, du conflit central et des images d'écran mémorables plutôt que du nom.",
       "Recherchez le type de personnages, le décor et la situation de genre que les fans y associent.",
       "Le meilleur indice est l’ambiance : un mélange reconnaissable d’enjeux, de style visuel et de références répétées à la culture pop."
-    ]
+    ],
+    "tmdb_id": 872585,
+    "media_type": "movie"
   },
   {
     "celebrity": "Barbie",
@@ -357,7 +435,9 @@
       "Ses indices proviennent du décor, du conflit central et des images d'écran mémorables plutôt que du nom.",
       "Recherchez le type de personnages, le décor et la situation de genre que les fans y associent.",
       "Le meilleur indice est l’ambiance : un mélange reconnaissable d’enjeux, de style visuel et de références répétées à la culture pop."
-    ]
+    ],
+    "tmdb_id": 346698,
+    "media_type": "movie"
   },
   {
     "celebrity": "Dune",
@@ -366,25 +446,31 @@
       "Ses indices proviennent du décor, du conflit central et des images d'écran mémorables plutôt que du nom.",
       "Recherchez le type de personnages, le décor et la situation de genre que les fans y associent.",
       "Le meilleur indice est l’ambiance : un mélange reconnaissable d’enjeux, de style visuel et de références répétées à la culture pop."
-    ]
+    ],
+    "tmdb_id": 438631,
+    "media_type": "movie"
   },
   {
-    "celebrity": "Top Gun Maverick",
+    "celebrity": "Top Gun : Maverick",
     "gender": "",
     "facts": [
       "Ses indices proviennent du décor, du conflit central et des images d'écran mémorables plutôt que du nom.",
       "Recherchez le type de personnages, le décor et la situation de genre que les fans y associent.",
       "Le meilleur indice est l’ambiance : un mélange reconnaissable d’enjeux, de style visuel et de références répétées à la culture pop."
-    ]
+    ],
+    "tmdb_id": 361743,
+    "media_type": "movie"
   },
   {
-    "celebrity": "Mission Impossible",
+    "celebrity": "Mission : Impossible",
     "gender": "",
     "facts": [
       "Ses indices proviennent du décor, du conflit central et des images d'écran mémorables plutôt que du nom.",
       "Recherchez le type de personnages, le décor et la situation de genre que les fans y associent.",
       "Le meilleur indice est l’ambiance : un mélange reconnaissable d’enjeux, de style visuel et de références répétées à la culture pop."
-    ]
+    ],
+    "tmdb_id": 954,
+    "media_type": "movie"
   },
   {
     "celebrity": "John Wick",
@@ -393,25 +479,31 @@
       "Ses indices proviennent du décor, du conflit central et des images d'écran mémorables plutôt que du nom.",
       "Recherchez le type de personnages, le décor et la situation de genre que les fans y associent.",
       "Le meilleur indice est l’ambiance : un mélange reconnaissable d’enjeux, de style visuel et de références répétées à la culture pop."
-    ]
+    ],
+    "tmdb_id": 245891,
+    "media_type": "movie"
   },
   {
-    "celebrity": "The Hunger Games",
+    "celebrity": "Hunger Games : Le film",
     "gender": "",
     "facts": [
       "Ses indices proviennent du décor, du conflit central et des images d'écran mémorables plutôt que du nom.",
       "Recherchez le type de personnages, le décor et la situation de genre que les fans y associent.",
       "Le meilleur indice est l’ambiance : un mélange reconnaissable d’enjeux, de style visuel et de références répétées à la culture pop."
-    ]
+    ],
+    "tmdb_id": 70160,
+    "media_type": "movie"
   },
   {
-    "celebrity": "Pirates of the Caribbean",
+    "celebrity": "Pirates des Caraïbes : La malédiction de la perle noire",
     "gender": "",
     "facts": [
       "Ses indices proviennent du décor, du conflit central et des images d'écran mémorables plutôt que du nom.",
       "Recherchez le type de personnages, le décor et la situation de genre que les fans y associent.",
       "Le meilleur indice est l’ambiance : un mélange reconnaissable d’enjeux, de style visuel et de références répétées à la culture pop."
-    ]
+    ],
+    "tmdb_id": 22,
+    "media_type": "movie"
   },
   {
     "celebrity": "The Fast and the Furious",
@@ -420,61 +512,75 @@
       "Ses indices proviennent du décor, du conflit central et des images d'écran mémorables plutôt que du nom.",
       "Recherchez le type de personnages, le décor et la situation de genre que les fans y associent.",
       "Le meilleur indice est l’ambiance : un mélange reconnaissable d’enjeux, de style visuel et de références répétées à la culture pop."
-    ]
+    ],
+    "tmdb_id": 20174,
+    "media_type": "movie"
   },
   {
-    "celebrity": "Scream",
+    "celebrity": "Frissons",
     "gender": "",
     "facts": [
       "Ses indices proviennent du décor, du conflit central et des images d'écran mémorables plutôt que du nom.",
       "Recherchez le type de personnages, le décor et la situation de genre que les fans y associent.",
       "Le meilleur indice est l’ambiance : un mélange reconnaissable d’enjeux, de style visuel et de références répétées à la culture pop."
-    ]
+    ],
+    "tmdb_id": 4232,
+    "media_type": "movie"
   },
   {
-    "celebrity": "The Conjuring",
+    "celebrity": "La Conjuration",
     "gender": "",
     "facts": [
       "Ses indices proviennent du décor, du conflit central et des images d'écran mémorables plutôt que du nom.",
       "Recherchez le type de personnages, le décor et la situation de genre que les fans y associent.",
       "Le meilleur indice est l’ambiance : un mélange reconnaissable d’enjeux, de style visuel et de références répétées à la culture pop."
-    ]
+    ],
+    "tmdb_id": 138843,
+    "media_type": "movie"
   },
   {
-    "celebrity": "A Nightmare on Elm Street",
+    "celebrity": "Les griffes de la nuit",
     "gender": "",
     "facts": [
       "Ses indices proviennent du décor, du conflit central et des images d'écran mémorables plutôt que du nom.",
       "Recherchez le type de personnages, le décor et la situation de genre que les fans y associent.",
       "Le meilleur indice est l’ambiance : un mélange reconnaissable d’enjeux, de style visuel et de références répétées à la culture pop."
-    ]
+    ],
+    "tmdb_id": 377,
+    "media_type": "movie"
   },
   {
-    "celebrity": "Halloween",
+    "celebrity": "Halloween : La Nuit des Masques",
     "gender": "",
     "facts": [
       "Ses indices proviennent du décor, du conflit central et des images d'écran mémorables plutôt que du nom.",
       "Recherchez le type de personnages, le décor et la situation de genre que les fans y associent.",
       "Le meilleur indice est l’ambiance : un mélange reconnaissable d’enjeux, de style visuel et de références répétées à la culture pop."
-    ]
+    ],
+    "tmdb_id": 948,
+    "media_type": "movie"
   },
   {
-    "celebrity": "Ghostbusters",
+    "celebrity": "S.O.S. Fantômes",
     "gender": "",
     "facts": [
       "Ses indices proviennent du décor, du conflit central et des images d'écran mémorables plutôt que du nom.",
       "Recherchez le type de personnages, le décor et la situation de genre que les fans y associent.",
       "Le meilleur indice est l’ambiance : un mélange reconnaissable d’enjeux, de style visuel et de références répétées à la culture pop."
-    ]
+    ],
+    "tmdb_id": 620,
+    "media_type": "movie"
   },
   {
-    "celebrity": "Men in Black",
+    "celebrity": "Hommes en noir",
     "gender": "",
     "facts": [
       "Ses indices proviennent du décor, du conflit central et des images d'écran mémorables plutôt que du nom.",
       "Recherchez le type de personnages, le décor et la situation de genre que les fans y associent.",
       "Le meilleur indice est l’ambiance : un mélange reconnaissable d’enjeux, de style visuel et de références répétées à la culture pop."
-    ]
+    ],
+    "tmdb_id": 607,
+    "media_type": "movie"
   },
   {
     "celebrity": "Blade Runner",
@@ -483,7 +589,9 @@
       "Ses indices proviennent du décor, du conflit central et des images d'écran mémorables plutôt que du nom.",
       "Recherchez le type de personnages, le décor et la situation de genre que les fans y associent.",
       "Le meilleur indice est l’ambiance : un mélange reconnaissable d’enjeux, de style visuel et de références répétées à la culture pop."
-    ]
+    ],
+    "tmdb_id": 78,
+    "media_type": "movie"
   },
   {
     "celebrity": "Casino Royale",
@@ -492,16 +600,20 @@
       "Ses indices proviennent du décor, du conflit central et des images d'écran mémorables plutôt que du nom.",
       "Recherchez le type de personnages, le décor et la situation de genre que les fans y associent.",
       "Le meilleur indice est l’ambiance : un mélange reconnaissable d’enjeux, de style visuel et de références répétées à la culture pop."
-    ]
+    ],
+    "tmdb_id": 36557,
+    "media_type": "movie"
   },
   {
-    "celebrity": "La La Land",
+    "celebrity": "Pour l'amour d'Hollywood",
     "gender": "",
     "facts": [
       "Ses indices proviennent du décor, du conflit central et des images d'écran mémorables plutôt que du nom.",
       "Recherchez le type de personnages, le décor et la situation de genre que les fans y associent.",
       "Le meilleur indice est l’ambiance : un mélange reconnaissable d’enjeux, de style visuel et de références répétées à la culture pop."
-    ]
+    ],
+    "tmdb_id": 313369,
+    "media_type": "movie"
   },
   {
     "celebrity": "Whiplash",
@@ -510,106 +622,130 @@
       "Ses indices proviennent du décor, du conflit central et des images d'écran mémorables plutôt que du nom.",
       "Recherchez le type de personnages, le décor et la situation de genre que les fans y associent.",
       "Le meilleur indice est l’ambiance : un mélange reconnaissable d’enjeux, de style visuel et de références répétées à la culture pop."
-    ]
+    ],
+    "tmdb_id": 244786,
+    "media_type": "movie"
   },
   {
-    "celebrity": "The Social Network",
+    "celebrity": "Le réseau social",
     "gender": "",
     "facts": [
       "Ses indices proviennent du décor, du conflit central et des images d'écran mémorables plutôt que du nom.",
       "Recherchez le type de personnages, le décor et la situation de genre que les fans y associent.",
       "Le meilleur indice est l’ambiance : un mélange reconnaissable d’enjeux, de style visuel et de références répétées à la culture pop."
-    ]
+    ],
+    "tmdb_id": 37799,
+    "media_type": "movie"
   },
   {
-    "celebrity": "The Prestige",
+    "celebrity": "Le prestige",
     "gender": "",
     "facts": [
       "Ses indices proviennent du décor, du conflit central et des images d'écran mémorables plutôt que du nom.",
       "Recherchez le type de personnages, le décor et la situation de genre que les fans y associent.",
       "Le meilleur indice est l’ambiance : un mélange reconnaissable d’enjeux, de style visuel et de références répétées à la culture pop."
-    ]
+    ],
+    "tmdb_id": 1124,
+    "media_type": "movie"
   },
   {
-    "celebrity": "Memento",
+    "celebrity": "Mémento",
     "gender": "",
     "facts": [
       "Ses indices proviennent du décor, du conflit central et des images d'écran mémorables plutôt que du nom.",
       "Recherchez le type de personnages, le décor et la situation de genre que les fans y associent.",
       "Le meilleur indice est l’ambiance : un mélange reconnaissable d’enjeux, de style visuel et de références répétées à la culture pop."
-    ]
+    ],
+    "tmdb_id": 77,
+    "media_type": "movie"
   },
   {
-    "celebrity": "Se7en",
+    "celebrity": "Sept",
     "gender": "",
     "facts": [
       "Ses indices proviennent du décor, du conflit central et des images d'écran mémorables plutôt que du nom.",
       "Recherchez le type de personnages, le décor et la situation de genre que les fans y associent.",
       "Le meilleur indice est l’ambiance : un mélange reconnaissable d’enjeux, de style visuel et de références répétées à la culture pop."
-    ]
+    ],
+    "tmdb_id": 807,
+    "media_type": "movie"
   },
   {
-    "celebrity": "No Country for Old Men",
+    "celebrity": "Non, ce pays n'est pas pour le vieil homme",
     "gender": "",
     "facts": [
       "Ses indices proviennent du décor, du conflit central et des images d'écran mémorables plutôt que du nom.",
       "Recherchez le type de personnages, le décor et la situation de genre que les fans y associent.",
       "Le meilleur indice est l’ambiance : un mélange reconnaissable d’enjeux, de style visuel et de références répétées à la culture pop."
-    ]
+    ],
+    "tmdb_id": 6977,
+    "media_type": "movie"
   },
   {
-    "celebrity": "There Will Be Blood",
+    "celebrity": "Il y aura du sang",
     "gender": "",
     "facts": [
       "Ses indices proviennent du décor, du conflit central et des images d'écran mémorables plutôt que du nom.",
       "Recherchez le type de personnages, le décor et la situation de genre que les fans y associent.",
       "Le meilleur indice est l’ambiance : un mélange reconnaissable d’enjeux, de style visuel et de références répétées à la culture pop."
-    ]
+    ],
+    "tmdb_id": 7345,
+    "media_type": "movie"
   },
   {
-    "celebrity": "The Big Lebowski",
+    "celebrity": "Le grand Lebowski",
     "gender": "",
     "facts": [
       "Ses indices proviennent du décor, du conflit central et des images d'écran mémorables plutôt que du nom.",
       "Recherchez le type de personnages, le décor et la situation de genre que les fans y associent.",
       "Le meilleur indice est l’ambiance : un mélange reconnaissable d’enjeux, de style visuel et de références répétées à la culture pop."
-    ]
+    ],
+    "tmdb_id": 115,
+    "media_type": "movie"
   },
   {
-    "celebrity": "Mean Girls",
+    "celebrity": "Méchantes ados",
     "gender": "",
     "facts": [
       "Ses indices proviennent du décor, du conflit central et des images d'écran mémorables plutôt que du nom.",
       "Recherchez le type de personnages, le décor et la situation de genre que les fans y associent.",
       "Le meilleur indice est l’ambiance : un mélange reconnaissable d’enjeux, de style visuel et de références répétées à la culture pop."
-    ]
+    ],
+    "tmdb_id": 10625,
+    "media_type": "movie"
   },
   {
-    "celebrity": "Clueless",
+    "celebrity": "Les collégiennes de Beverly Hills",
     "gender": "",
     "facts": [
       "Ses indices proviennent du décor, du conflit central et des images d'écran mémorables plutôt que du nom.",
       "Recherchez le type de personnages, le décor et la situation de genre que les fans y associent.",
       "Le meilleur indice est l’ambiance : un mélange reconnaissable d’enjeux, de style visuel et de références répétées à la culture pop."
-    ]
+    ],
+    "tmdb_id": 9603,
+    "media_type": "movie"
   },
   {
-    "celebrity": "The Notebook",
+    "celebrity": "Les pages de notre amour",
     "gender": "",
     "facts": [
       "Ses indices proviennent du décor, du conflit central et des images d'écran mémorables plutôt que du nom.",
       "Recherchez le type de personnages, le décor et la situation de genre que les fans y associent.",
       "Le meilleur indice est l’ambiance : un mélange reconnaissable d’enjeux, de style visuel et de références répétées à la culture pop."
-    ]
+    ],
+    "tmdb_id": 11036,
+    "media_type": "movie"
   },
   {
-    "celebrity": "Pretty Woman",
+    "celebrity": "Une jolie femme",
     "gender": "",
     "facts": [
       "Ses indices proviennent du décor, du conflit central et des images d'écran mémorables plutôt que du nom.",
       "Recherchez le type de personnages, le décor et la situation de genre que les fans y associent.",
       "Le meilleur indice est l’ambiance : un mélange reconnaissable d’enjeux, de style visuel et de références répétées à la culture pop."
-    ]
+    ],
+    "tmdb_id": 114,
+    "media_type": "movie"
   },
   {
     "celebrity": "Home Alone",
@@ -618,61 +754,75 @@
       "Ses indices proviennent du décor, du conflit central et des images d'écran mémorables plutôt que du nom.",
       "Recherchez le type de personnages, le décor et la situation de genre que les fans y associent.",
       "Le meilleur indice est l’ambiance : un mélange reconnaissable d’enjeux, de style visuel et de références répétées à la culture pop."
-    ]
+    ],
+    "tmdb_id": 1224743,
+    "media_type": "movie"
   },
   {
-    "celebrity": "The Truman Show",
+    "celebrity": "Le Show Truman",
     "gender": "",
     "facts": [
       "Ses indices proviennent du décor, du conflit central et des images d'écran mémorables plutôt que du nom.",
       "Recherchez le type de personnages, le décor et la situation de genre que les fans y associent.",
       "Le meilleur indice est l’ambiance : un mélange reconnaissable d’enjeux, de style visuel et de références répétées à la culture pop."
-    ]
+    ],
+    "tmdb_id": 37165,
+    "media_type": "movie"
   },
   {
-    "celebrity": "Et the Extra Terrestrial",
+    "celebrity": "E.T.: L'extra-terrestre",
     "gender": "",
     "facts": [
       "Ses indices proviennent du décor, du conflit central et des images d'écran mémorables plutôt que du nom.",
       "Recherchez le type de personnages, le décor et la situation de genre que les fans y associent.",
       "Le meilleur indice est l’ambiance : un mélange reconnaissable d’enjeux, de style visuel et de références répétées à la culture pop."
-    ]
+    ],
+    "tmdb_id": 601,
+    "media_type": "movie"
   },
   {
-    "celebrity": "Raiders of the Lost Ark",
+    "celebrity": "Les aventuriers de l'arche perdue",
     "gender": "",
     "facts": [
       "Ses indices proviennent du décor, du conflit central et des images d'écran mémorables plutôt que du nom.",
       "Recherchez le type de personnages, le décor et la situation de genre que les fans y associent.",
       "Le meilleur indice est l’ambiance : un mélange reconnaissable d’enjeux, de style visuel et de références répétées à la culture pop."
-    ]
+    ],
+    "tmdb_id": 85,
+    "media_type": "movie"
   },
   {
-    "celebrity": "The Empire Strikes Back",
+    "celebrity": "L'empire contre-attaque",
     "gender": "",
     "facts": [
       "Ses indices proviennent du décor, du conflit central et des images d'écran mémorables plutôt que du nom.",
       "Recherchez le type de personnages, le décor et la situation de genre que les fans y associent.",
       "Le meilleur indice est l’ambiance : un mélange reconnaissable d’enjeux, de style visuel et de références répétées à la culture pop."
-    ]
+    ],
+    "tmdb_id": 1891,
+    "media_type": "movie"
   },
   {
-    "celebrity": "Return of the Jedi",
+    "celebrity": "Le retour du Jedi",
     "gender": "",
     "facts": [
       "Ses indices proviennent du décor, du conflit central et des images d'écran mémorables plutôt que du nom.",
       "Recherchez le type de personnages, le décor et la situation de genre que les fans y associent.",
       "Le meilleur indice est l’ambiance : un mélange reconnaissable d’enjeux, de style visuel et de références répétées à la culture pop."
-    ]
+    ],
+    "tmdb_id": 1892,
+    "media_type": "movie"
   },
   {
-    "celebrity": "A New Hope",
+    "celebrity": "La guerre des étoiles",
     "gender": "",
     "facts": [
       "Ses indices proviennent du décor, du conflit central et des images d'écran mémorables plutôt que du nom.",
       "Recherchez le type de personnages, le décor et la situation de genre que les fans y associent.",
       "Le meilleur indice est l’ambiance : un mélange reconnaissable d’enjeux, de style visuel et de références répétées à la culture pop."
-    ]
+    ],
+    "tmdb_id": 11,
+    "media_type": "movie"
   },
   {
     "celebrity": "The Phantom Menace",
@@ -681,16 +831,20 @@
       "Ses indices proviennent du décor, du conflit central et des images d'écran mémorables plutôt que du nom.",
       "Recherchez le type de personnages, le décor et la situation de genre que les fans y associent.",
       "Le meilleur indice est l’ambiance : un mélange reconnaissable d’enjeux, de style visuel et de références répétées à la culture pop."
-    ]
+    ],
+    "tmdb_id": 1460782,
+    "media_type": "movie"
   },
   {
-    "celebrity": "The Force Awakens",
+    "celebrity": "Star Wars, épisode VII : Le réveil de la force",
     "gender": "",
     "facts": [
       "Ses indices proviennent du décor, du conflit central et des images d'écran mémorables plutôt que du nom.",
       "Recherchez le type de personnages, le décor et la situation de genre que les fans y associent.",
       "Le meilleur indice est l’ambiance : un mélange reconnaissable d’enjeux, de style visuel et de références répétées à la culture pop."
-    ]
+    ],
+    "tmdb_id": 140607,
+    "media_type": "movie"
   },
   {
     "celebrity": "Logan",
@@ -699,7 +853,9 @@
       "Ses indices proviennent du décor, du conflit central et des images d'écran mémorables plutôt que du nom.",
       "Recherchez le type de personnages, le décor et la situation de genre que les fans y associent.",
       "Le meilleur indice est l’ambiance : un mélange reconnaissable d’enjeux, de style visuel et de références répétées à la culture pop."
-    ]
+    ],
+    "tmdb_id": 263115,
+    "media_type": "movie"
   },
   {
     "celebrity": "Deadpool",
@@ -708,7 +864,9 @@
       "Ses indices proviennent du décor, du conflit central et des images d'écran mémorables plutôt que du nom.",
       "Recherchez le type de personnages, le décor et la situation de genre que les fans y associent.",
       "Le meilleur indice est l’ambiance : un mélange reconnaissable d’enjeux, de style visuel et de références répétées à la culture pop."
-    ]
+    ],
+    "tmdb_id": 293660,
+    "media_type": "movie"
   },
   {
     "celebrity": "Iron Man",
@@ -717,70 +875,86 @@
       "Ses indices proviennent du décor, du conflit central et des images d'écran mémorables plutôt que du nom.",
       "Recherchez le type de personnages, le décor et la situation de genre que les fans y associent.",
       "Le meilleur indice est l’ambiance : un mélange reconnaissable d’enjeux, de style visuel et de références répétées à la culture pop."
-    ]
+    ],
+    "tmdb_id": 1726,
+    "media_type": "movie"
   },
   {
-    "celebrity": "Captain America Civil War",
+    "celebrity": "Capitaine America : La guerre civile",
     "gender": "",
     "facts": [
       "Ses indices proviennent du décor, du conflit central et des images d'écran mémorables plutôt que du nom.",
       "Recherchez le type de personnages, le décor et la situation de genre que les fans y associent.",
       "Le meilleur indice est l’ambiance : un mélange reconnaissable d’enjeux, de style visuel et de références répétées à la culture pop."
-    ]
+    ],
+    "tmdb_id": 271110,
+    "media_type": "movie"
   },
   {
-    "celebrity": "Guardians of the Galaxy",
+    "celebrity": "Les gardiens de la galaxie",
     "gender": "",
     "facts": [
       "Ses indices proviennent du décor, du conflit central et des images d'écran mémorables plutôt que du nom.",
       "Recherchez le type de personnages, le décor et la situation de genre que les fans y associent.",
       "Le meilleur indice est l’ambiance : un mélange reconnaissable d’enjeux, de style visuel et de références répétées à la culture pop."
-    ]
+    ],
+    "tmdb_id": 118340,
+    "media_type": "movie"
   },
   {
-    "celebrity": "Doctor Strange",
+    "celebrity": "Docteur Strange",
     "gender": "",
     "facts": [
       "Ses indices proviennent du décor, du conflit central et des images d'écran mémorables plutôt que du nom.",
       "Recherchez le type de personnages, le décor et la situation de genre que les fans y associent.",
       "Le meilleur indice est l’ambiance : un mélange reconnaissable d’enjeux, de style visuel et de références répétées à la culture pop."
-    ]
+    ],
+    "tmdb_id": 284052,
+    "media_type": "movie"
   },
   {
-    "celebrity": "Spider Man No Way Home",
+    "celebrity": "Spider-Man : Sans retour",
     "gender": "",
     "facts": [
       "Ses indices proviennent du décor, du conflit central et des images d'écran mémorables plutôt que du nom.",
       "Recherchez le type de personnages, le décor et la situation de genre que les fans y associent.",
       "Le meilleur indice est l’ambiance : un mélange reconnaissable d’enjeux, de style visuel et de références répétées à la culture pop."
-    ]
+    ],
+    "tmdb_id": 634649,
+    "media_type": "movie"
   },
   {
-    "celebrity": "The Batman",
+    "celebrity": "Le Batman",
     "gender": "",
     "facts": [
       "Ses indices proviennent du décor, du conflit central et des images d'écran mémorables plutôt que du nom.",
       "Recherchez le type de personnages, le décor et la situation de genre que les fans y associent.",
       "Le meilleur indice est l’ambiance : un mélange reconnaissable d’enjeux, de style visuel et de références répétées à la culture pop."
-    ]
+    ],
+    "tmdb_id": 414906,
+    "media_type": "movie"
   },
   {
-    "celebrity": "Batman Begins",
+    "celebrity": "Batman : Le commencement",
     "gender": "",
     "facts": [
       "Ses indices proviennent du décor, du conflit central et des images d'écran mémorables plutôt que du nom.",
       "Recherchez le type de personnages, le décor et la situation de genre que les fans y associent.",
       "Le meilleur indice est l’ambiance : un mélange reconnaissable d’enjeux, de style visuel et de références répétées à la culture pop."
-    ]
+    ],
+    "tmdb_id": 272,
+    "media_type": "movie"
   },
   {
-    "celebrity": "The Dark Knight Rises",
+    "celebrity": "L'ascension du chevalier noir",
     "gender": "",
     "facts": [
       "Ses indices proviennent du décor, du conflit central et des images d'écran mémorables plutôt que du nom.",
       "Recherchez le type de personnages, le décor et la situation de genre que les fans y associent.",
       "Le meilleur indice est l’ambiance : un mélange reconnaissable d’enjeux, de style visuel et de références répétées à la culture pop."
-    ]
+    ],
+    "tmdb_id": 49026,
+    "media_type": "movie"
   },
   {
     "celebrity": "Wonder Woman",
@@ -789,7 +963,9 @@
       "Ses indices proviennent du décor, du conflit central et des images d'écran mémorables plutôt que du nom.",
       "Recherchez le type de personnages, le décor et la situation de genre que les fans y associent.",
       "Le meilleur indice est l’ambiance : un mélange reconnaissable d’enjeux, de style visuel et de références répétées à la culture pop."
-    ]
+    ],
+    "tmdb_id": 297762,
+    "media_type": "movie"
   },
   {
     "celebrity": "Aquaman",
@@ -798,25 +974,31 @@
       "Ses indices proviennent du décor, du conflit central et des images d'écran mémorables plutôt que du nom.",
       "Recherchez le type de personnages, le décor et la situation de genre que les fans y associent.",
       "Le meilleur indice est l’ambiance : un mélange reconnaissable d’enjeux, de style visuel et de références répétées à la culture pop."
-    ]
+    ],
+    "tmdb_id": 297802,
+    "media_type": "movie"
   },
   {
-    "celebrity": "Man of Steel",
+    "celebrity": "L'homme d'acier",
     "gender": "",
     "facts": [
       "Ses indices proviennent du décor, du conflit central et des images d'écran mémorables plutôt que du nom.",
       "Recherchez le type de personnages, le décor et la situation de genre que les fans y associent.",
       "Le meilleur indice est l’ambiance : un mélange reconnaissable d’enjeux, de style visuel et de références répétées à la culture pop."
-    ]
+    ],
+    "tmdb_id": 49521,
+    "media_type": "movie"
   },
   {
-    "celebrity": "The Suicide Squad",
+    "celebrity": "L’escadron suicide : la mission",
     "gender": "",
     "facts": [
       "Ses indices proviennent du décor, du conflit central et des images d'écran mémorables plutôt que du nom.",
       "Recherchez le type de personnages, le décor et la situation de genre que les fans y associent.",
       "Le meilleur indice est l’ambiance : un mélange reconnaissable d’enjeux, de style visuel et de références répétées à la culture pop."
-    ]
+    ],
+    "tmdb_id": 436969,
+    "media_type": "movie"
   },
   {
     "celebrity": "Joker",
@@ -825,70 +1007,86 @@
       "Ses indices proviennent du décor, du conflit central et des images d'écran mémorables plutôt que du nom.",
       "Recherchez le type de personnages, le décor et la situation de genre que les fans y associent.",
       "Le meilleur indice est l’ambiance : un mélange reconnaissable d’enjeux, de style visuel et de références répétées à la culture pop."
-    ]
+    ],
+    "tmdb_id": 475557,
+    "media_type": "movie"
   },
   {
-    "celebrity": "Kill Bill",
+    "celebrity": "Tuer Bill : Volume 1",
     "gender": "",
     "facts": [
       "Ses indices proviennent du décor, du conflit central et des images d'écran mémorables plutôt que du nom.",
       "Recherchez le type de personnages, le décor et la situation de genre que les fans y associent.",
       "Le meilleur indice est l’ambiance : un mélange reconnaissable d’enjeux, de style visuel et de références répétées à la culture pop."
-    ]
+    ],
+    "tmdb_id": 24,
+    "media_type": "movie"
   },
   {
-    "celebrity": "Django Unchained",
+    "celebrity": "Django déchaîné",
     "gender": "",
     "facts": [
       "Ses indices proviennent du décor, du conflit central et des images d'écran mémorables plutôt que du nom.",
       "Recherchez le type de personnages, le décor et la situation de genre que les fans y associent.",
       "Le meilleur indice est l’ambiance : un mélange reconnaissable d’enjeux, de style visuel et de références répétées à la culture pop."
-    ]
+    ],
+    "tmdb_id": 68718,
+    "media_type": "movie"
   },
   {
-    "celebrity": "Inglourious Basterds",
+    "celebrity": "Le commando des bâtards",
     "gender": "",
     "facts": [
       "Ses indices proviennent du décor, du conflit central et des images d'écran mémorables plutôt que du nom.",
       "Recherchez le type de personnages, le décor et la situation de genre que les fans y associent.",
       "Le meilleur indice est l’ambiance : un mélange reconnaissable d’enjeux, de style visuel et de références répétées à la culture pop."
-    ]
+    ],
+    "tmdb_id": 16869,
+    "media_type": "movie"
   },
   {
-    "celebrity": "Reservoir Dogs",
+    "celebrity": "Les Enragés",
     "gender": "",
     "facts": [
       "Ses indices proviennent du décor, du conflit central et des images d'écran mémorables plutôt que du nom.",
       "Recherchez le type de personnages, le décor et la situation de genre que les fans y associent.",
       "Le meilleur indice est l’ambiance : un mélange reconnaissable d’enjeux, de style visuel et de références répétées à la culture pop."
-    ]
+    ],
+    "tmdb_id": 500,
+    "media_type": "movie"
   },
   {
-    "celebrity": "Scarface",
+    "celebrity": "Le balafré",
     "gender": "",
     "facts": [
       "Ses indices proviennent du décor, du conflit central et des images d'écran mémorables plutôt que du nom.",
       "Recherchez le type de personnages, le décor et la situation de genre que les fans y associent.",
       "Le meilleur indice est l’ambiance : un mélange reconnaissable d’enjeux, de style visuel et de références répétées à la culture pop."
-    ]
+    ],
+    "tmdb_id": 111,
+    "media_type": "movie"
   },
   {
-    "celebrity": "Heat",
+    "celebrity": "Tension",
     "gender": "",
     "facts": [
       "Ses indices proviennent du décor, du conflit central et des images d'écran mémorables plutôt que du nom.",
       "Recherchez le type de personnages, le décor et la situation de genre que les fans y associent.",
       "Le meilleur indice est l’ambiance : un mélange reconnaissable d’enjeux, de style visuel et de références répétées à la culture pop."
-    ]
+    ],
+    "tmdb_id": 949,
+    "media_type": "movie"
   },
   {
-    "celebrity": "Taxi Driver",
+    "celebrity": "Chauffeur de taxi",
     "gender": "",
     "facts": [
       "Ses indices proviennent du décor, du conflit central et des images d'écran mémorables plutôt que du nom.",
       "Recherchez le type de personnages, le décor et la situation de genre que les fans y associent.",
       "Le meilleur indice est l’ambiance : un mélange reconnaissable d’enjeux, de style visuel et de références répétées à la culture pop."
-    ]
+    ],
+    "tmdb_id": 103,
+    "media_type": "movie"
   },
   {
     "celebrity": "Raging Bull",
@@ -897,70 +1095,86 @@
       "Ses indices proviennent du décor, du conflit central et des images d'écran mémorables plutôt que du nom.",
       "Recherchez le type de personnages, le décor et la situation de genre que les fans y associent.",
       "Le meilleur indice est l’ambiance : un mélange reconnaissable d’enjeux, de style visuel et de références répétées à la culture pop."
-    ]
+    ],
+    "tmdb_id": 1578,
+    "media_type": "movie"
   },
   {
-    "celebrity": "Good Will Hunting",
+    "celebrity": "Le destin de Will Hunting",
     "gender": "",
     "facts": [
       "Ses indices proviennent du décor, du conflit central et des images d'écran mémorables plutôt que du nom.",
       "Recherchez le type de personnages, le décor et la situation de genre que les fans y associent.",
       "Le meilleur indice est l’ambiance : un mélange reconnaissable d’enjeux, de style visuel et de références répétées à la culture pop."
-    ]
+    ],
+    "tmdb_id": 489,
+    "media_type": "movie"
   },
   {
-    "celebrity": "The Green Mile",
+    "celebrity": "La ligne verte",
     "gender": "",
     "facts": [
       "Ses indices proviennent du décor, du conflit central et des images d'écran mémorables plutôt que du nom.",
       "Recherchez le type de personnages, le décor et la situation de genre que les fans y associent.",
       "Le meilleur indice est l’ambiance : un mélange reconnaissable d’enjeux, de style visuel et de références répétées à la culture pop."
-    ]
+    ],
+    "tmdb_id": 497,
+    "media_type": "movie"
   },
   {
-    "celebrity": "American Beauty",
+    "celebrity": "Beauté Américaine",
     "gender": "",
     "facts": [
       "Ses indices proviennent du décor, du conflit central et des images d'écran mémorables plutôt que du nom.",
       "Recherchez le type de personnages, le décor et la situation de genre que les fans y associent.",
       "Le meilleur indice est l’ambiance : un mélange reconnaissable d’enjeux, de style visuel et de références répétées à la culture pop."
-    ]
+    ],
+    "tmdb_id": 14,
+    "media_type": "movie"
   },
   {
-    "celebrity": "The Usual Suspects",
+    "celebrity": "Suspects de convenance",
     "gender": "",
     "facts": [
       "Ses indices proviennent du décor, du conflit central et des images d'écran mémorables plutôt que du nom.",
       "Recherchez le type de personnages, le décor et la situation de genre que les fans y associent.",
       "Le meilleur indice est l’ambiance : un mélange reconnaissable d’enjeux, de style visuel et de références répétées à la culture pop."
-    ]
+    ],
+    "tmdb_id": 629,
+    "media_type": "movie"
   },
   {
-    "celebrity": "The Sixth Sense",
+    "celebrity": "Le sixième sens",
     "gender": "",
     "facts": [
       "Ses indices proviennent du décor, du conflit central et des images d'écran mémorables plutôt que du nom.",
       "Recherchez le type de personnages, le décor et la situation de genre que les fans y associent.",
       "Le meilleur indice est l’ambiance : un mélange reconnaissable d’enjeux, de style visuel et de références répétées à la culture pop."
-    ]
+    ],
+    "tmdb_id": 745,
+    "media_type": "movie"
   },
   {
-    "celebrity": "Unbreakable",
+    "celebrity": "L'indestructible",
     "gender": "",
     "facts": [
       "Ses indices proviennent du décor, du conflit central et des images d'écran mémorables plutôt que du nom.",
       "Recherchez le type de personnages, le décor et la situation de genre que les fans y associent.",
       "Le meilleur indice est l’ambiance : un mélange reconnaissable d’enjeux, de style visuel et de références répétées à la culture pop."
-    ]
+    ],
+    "tmdb_id": 9741,
+    "media_type": "movie"
   },
   {
-    "celebrity": "Split",
+    "celebrity": "Divisé",
     "gender": "",
     "facts": [
       "Ses indices proviennent du décor, du conflit central et des images d'écran mémorables plutôt que du nom.",
       "Recherchez le type de personnages, le décor et la situation de genre que les fans y associent.",
       "Le meilleur indice est l’ambiance : un mélange reconnaissable d’enjeux, de style visuel et de références répétées à la culture pop."
-    ]
+    ],
+    "tmdb_id": 381288,
+    "media_type": "movie"
   },
   {
     "celebrity": "Get Out",
@@ -969,79 +1183,97 @@
       "Ses indices proviennent du décor, du conflit central et des images d'écran mémorables plutôt que du nom.",
       "Recherchez le type de personnages, le décor et la situation de genre que les fans y associent.",
       "Le meilleur indice est l’ambiance : un mélange reconnaissable d’enjeux, de style visuel et de références répétées à la culture pop."
-    ]
+    ],
+    "tmdb_id": 419430,
+    "media_type": "movie"
   },
   {
-    "celebrity": "Nope",
+    "celebrity": "Ben non",
     "gender": "",
     "facts": [
       "Ses indices proviennent du décor, du conflit central et des images d'écran mémorables plutôt que du nom.",
       "Recherchez le type de personnages, le décor et la situation de genre que les fans y associent.",
       "Le meilleur indice est l’ambiance : un mélange reconnaissable d’enjeux, de style visuel et de références répétées à la culture pop."
-    ]
+    ],
+    "tmdb_id": 762504,
+    "media_type": "movie"
   },
   {
-    "celebrity": "Hereditary",
+    "celebrity": "Héréditaire",
     "gender": "",
     "facts": [
       "Ses indices proviennent du décor, du conflit central et des images d'écran mémorables plutôt que du nom.",
       "Recherchez le type de personnages, le décor et la situation de genre que les fans y associent.",
       "Le meilleur indice est l’ambiance : un mélange reconnaissable d’enjeux, de style visuel et de références répétées à la culture pop."
-    ]
+    ],
+    "tmdb_id": 493922,
+    "media_type": "movie"
   },
   {
-    "celebrity": "Midsommar",
+    "celebrity": "Midsommar : solstice d'été",
     "gender": "",
     "facts": [
       "Ses indices proviennent du décor, du conflit central et des images d'écran mémorables plutôt que du nom.",
       "Recherchez le type de personnages, le décor et la situation de genre que les fans y associent.",
       "Le meilleur indice est l’ambiance : un mélange reconnaissable d’enjeux, de style visuel et de références répétées à la culture pop."
-    ]
+    ],
+    "tmdb_id": 530385,
+    "media_type": "movie"
   },
   {
-    "celebrity": "The Exorcist",
+    "celebrity": "L'exorciste",
     "gender": "",
     "facts": [
       "Ses indices proviennent du décor, du conflit central et des images d'écran mémorables plutôt que du nom.",
       "Recherchez le type de personnages, le décor et la situation de genre que les fans y associent.",
       "Le meilleur indice est l’ambiance : un mélange reconnaissable d’enjeux, de style visuel et de références répétées à la culture pop."
-    ]
+    ],
+    "tmdb_id": 9552,
+    "media_type": "movie"
   },
   {
-    "celebrity": "Psycho",
+    "celebrity": "Psychose",
     "gender": "",
     "facts": [
       "Ses indices proviennent du décor, du conflit central et des images d'écran mémorables plutôt que du nom.",
       "Recherchez le type de personnages, le décor et la situation de genre que les fans y associent.",
       "Le meilleur indice est l’ambiance : un mélange reconnaissable d’enjeux, de style visuel et de références répétées à la culture pop."
-    ]
+    ],
+    "tmdb_id": 539,
+    "media_type": "movie"
   },
   {
-    "celebrity": "The Shining",
+    "celebrity": "Shining : L'enfant lumière",
     "gender": "",
     "facts": [
       "Ses indices proviennent du décor, du conflit central et des images d'écran mémorables plutôt que du nom.",
       "Recherchez le type de personnages, le décor et la situation de genre que les fans y associent.",
       "Le meilleur indice est l’ambiance : un mélange reconnaissable d’enjeux, de style visuel et de références répétées à la culture pop."
-    ]
+    ],
+    "tmdb_id": 694,
+    "media_type": "movie"
   },
   {
-    "celebrity": "The Thing",
+    "celebrity": "L'effroyable Chose",
     "gender": "",
     "facts": [
       "Ses indices proviennent du décor, du conflit central et des images d'écran mémorables plutôt que du nom.",
       "Recherchez le type de personnages, le décor et la situation de genre que les fans y associent.",
       "Le meilleur indice est l’ambiance : un mélange reconnaissable d’enjeux, de style visuel et de références répétées à la culture pop."
-    ]
+    ],
+    "tmdb_id": 1091,
+    "media_type": "movie"
   },
   {
-    "celebrity": "Rosemarys Baby",
+    "celebrity": "Le Bébé de Rosemary",
     "gender": "",
     "facts": [
       "Ses indices proviennent du décor, du conflit central et des images d'écran mémorables plutôt que du nom.",
       "Recherchez le type de personnages, le décor et la situation de genre que les fans y associent.",
       "Le meilleur indice est l’ambiance : un mélange reconnaissable d’enjeux, de style visuel et de références répétées à la culture pop."
-    ]
+    ],
+    "tmdb_id": 805,
+    "media_type": "movie"
   },
   {
     "celebrity": "Casablanca",
@@ -1050,7 +1282,9 @@
       "Ses indices proviennent du décor, du conflit central et des images d'écran mémorables plutôt que du nom.",
       "Recherchez le type de personnages, le décor et la situation de genre que les fans y associent.",
       "Le meilleur indice est l’ambiance : un mélange reconnaissable d’enjeux, de style visuel et de références répétées à la culture pop."
-    ]
+    ],
+    "tmdb_id": 289,
+    "media_type": "movie"
   },
   {
     "celebrity": "Citizen Kane",
@@ -1059,16 +1293,20 @@
       "Ses indices proviennent du décor, du conflit central et des images d'écran mémorables plutôt que du nom.",
       "Recherchez le type de personnages, le décor et la situation de genre que les fans y associent.",
       "Le meilleur indice est l’ambiance : un mélange reconnaissable d’enjeux, de style visuel et de références répétées à la culture pop."
-    ]
+    ],
+    "tmdb_id": 15,
+    "media_type": "movie"
   },
   {
-    "celebrity": "Singin in the Rain",
+    "celebrity": "Chantons sous la pluie",
     "gender": "",
     "facts": [
       "Ses indices proviennent du décor, du conflit central et des images d'écran mémorables plutôt que du nom.",
       "Recherchez le type de personnages, le décor et la situation de genre que les fans y associent.",
       "Le meilleur indice est l’ambiance : un mélange reconnaissable d’enjeux, de style visuel et de références répétées à la culture pop."
-    ]
+    ],
+    "tmdb_id": 872,
+    "media_type": "movie"
   },
   {
     "celebrity": "West Side Story",
@@ -1077,16 +1315,20 @@
       "Ses indices proviennent du décor, du conflit central et des images d'écran mémorables plutôt que du nom.",
       "Recherchez le type de personnages, le décor et la situation de genre que les fans y associent.",
       "Le meilleur indice est l’ambiance : un mélange reconnaissable d’enjeux, de style visuel et de références répétées à la culture pop."
-    ]
+    ],
+    "tmdb_id": 511809,
+    "media_type": "movie"
   },
   {
-    "celebrity": "The Sound of Music",
+    "celebrity": "La Mélodie du bonheur",
     "gender": "",
     "facts": [
       "Ses indices proviennent du décor, du conflit central et des images d'écran mémorables plutôt que du nom.",
       "Recherchez le type de personnages, le décor et la situation de genre que les fans y associent.",
       "Le meilleur indice est l’ambiance : un mélange reconnaissable d’enjeux, de style visuel et de références répétées à la culture pop."
-    ]
+    ],
+    "tmdb_id": 15121,
+    "media_type": "movie"
   },
   {
     "celebrity": "Mary Poppins",
@@ -1095,25 +1337,31 @@
       "Ses indices proviennent du décor, du conflit central et des images d'écran mémorables plutôt que du nom.",
       "Recherchez le type de personnages, le décor et la situation de genre que les fans y associent.",
       "Le meilleur indice est l’ambiance : un mélange reconnaissable d’enjeux, de style visuel et de références répétées à la culture pop."
-    ]
+    ],
+    "tmdb_id": 433,
+    "media_type": "movie"
   },
   {
-    "celebrity": "Grease",
+    "celebrity": "Brillantine",
     "gender": "",
     "facts": [
       "Ses indices proviennent du décor, du conflit central et des images d'écran mémorables plutôt que du nom.",
       "Recherchez le type de personnages, le décor et la situation de genre que les fans y associent.",
       "Le meilleur indice est l’ambiance : un mélange reconnaissable d’enjeux, de style visuel et de références répétées à la culture pop."
-    ]
+    ],
+    "tmdb_id": 621,
+    "media_type": "movie"
   },
   {
-    "celebrity": "Dirty Dancing",
+    "celebrity": "Danse Lascive",
     "gender": "",
     "facts": [
       "Ses indices proviennent du décor, du conflit central et des images d'écran mémorables plutôt que du nom.",
       "Recherchez le type de personnages, le décor et la situation de genre que les fans y associent.",
       "Le meilleur indice est l’ambiance : un mélange reconnaissable d’enjeux, de style visuel et de références répétées à la culture pop."
-    ]
+    ],
+    "tmdb_id": 88,
+    "media_type": "movie"
   },
   {
     "celebrity": "Rocky Horror Picture Show",
@@ -1122,7 +1370,9 @@
       "Ses indices proviennent du décor, du conflit central et des images d'écran mémorables plutôt que du nom.",
       "Recherchez le type de personnages, le décor et la situation de genre que les fans y associent.",
       "Le meilleur indice est l’ambiance : un mélange reconnaissable d’enjeux, de style visuel et de références répétées à la culture pop."
-    ]
+    ],
+    "tmdb_id": 36685,
+    "media_type": "movie"
   },
   {
     "celebrity": "Blade",
@@ -1131,79 +1381,97 @@
       "Ses indices proviennent du décor, du conflit central et des images d'écran mémorables plutôt que du nom.",
       "Recherchez le type de personnages, le décor et la situation de genre que les fans y associent.",
       "Le meilleur indice est l’ambiance : un mélange reconnaissable d’enjeux, de style visuel et de références répétées à la culture pop."
-    ]
+    ],
+    "tmdb_id": 36647,
+    "media_type": "movie"
   },
   {
-    "celebrity": "The Mummy",
+    "celebrity": "La momie",
     "gender": "",
     "facts": [
       "Ses indices proviennent du décor, du conflit central et des images d'écran mémorables plutôt que du nom.",
       "Recherchez le type de personnages, le décor et la situation de genre que les fans y associent.",
       "Le meilleur indice est l’ambiance : un mélange reconnaissable d’enjeux, de style visuel et de références répétées à la culture pop."
-    ]
+    ],
+    "tmdb_id": 564,
+    "media_type": "movie"
   },
   {
-    "celebrity": "National Treasure",
+    "celebrity": "Trésor National",
     "gender": "",
     "facts": [
       "Ses indices proviennent du décor, du conflit central et des images d'écran mémorables plutôt que du nom.",
       "Recherchez le type de personnages, le décor et la situation de genre que les fans y associent.",
       "Le meilleur indice est l’ambiance : un mélange reconnaissable d’enjeux, de style visuel et de références répétées à la culture pop."
-    ]
+    ],
+    "tmdb_id": 2059,
+    "media_type": "movie"
   },
   {
-    "celebrity": "Night at the Museum",
+    "celebrity": "Une nuit au musée",
     "gender": "",
     "facts": [
       "Ses indices proviennent du décor, du conflit central et des images d'écran mémorables plutôt que du nom.",
       "Recherchez le type de personnages, le décor et la situation de genre que les fans y associent.",
       "Le meilleur indice est l’ambiance : un mélange reconnaissable d’enjeux, de style visuel et de références répétées à la culture pop."
-    ]
+    ],
+    "tmdb_id": 1593,
+    "media_type": "movie"
   },
   {
-    "celebrity": "School of Rock",
+    "celebrity": "L'école du rock",
     "gender": "",
     "facts": [
       "Ses indices proviennent du décor, du conflit central et des images d'écran mémorables plutôt que du nom.",
       "Recherchez le type de personnages, le décor et la situation de genre que les fans y associent.",
       "Le meilleur indice est l’ambiance : un mélange reconnaissable d’enjeux, de style visuel et de références répétées à la culture pop."
-    ]
+    ],
+    "tmdb_id": 1584,
+    "media_type": "movie"
   },
   {
-    "celebrity": "Superbad",
+    "celebrity": "Supermalades",
     "gender": "",
     "facts": [
       "Ses indices proviennent du décor, du conflit central et des images d'écran mémorables plutôt que du nom.",
       "Recherchez le type de personnages, le décor et la situation de genre que les fans y associent.",
       "Le meilleur indice est l’ambiance : un mélange reconnaissable d’enjeux, de style visuel et de références répétées à la culture pop."
-    ]
+    ],
+    "tmdb_id": 8363,
+    "media_type": "movie"
   },
   {
-    "celebrity": "Bridesmaids",
+    "celebrity": "Demoiselles d'honneur",
     "gender": "",
     "facts": [
       "Ses indices proviennent du décor, du conflit central et des images d'écran mémorables plutôt que du nom.",
       "Recherchez le type de personnages, le décor et la situation de genre que les fans y associent.",
       "Le meilleur indice est l’ambiance : un mélange reconnaissable d’enjeux, de style visuel et de références répétées à la culture pop."
-    ]
+    ],
+    "tmdb_id": 55721,
+    "media_type": "movie"
   },
   {
-    "celebrity": "The Hangover",
+    "celebrity": "Lendemain de veille",
     "gender": "",
     "facts": [
       "Ses indices proviennent du décor, du conflit central et des images d'écran mémorables plutôt que du nom.",
       "Recherchez le type de personnages, le décor et la situation de genre que les fans y associent.",
       "Le meilleur indice est l’ambiance : un mélange reconnaissable d’enjeux, de style visuel et de références répétées à la culture pop."
-    ]
+    ],
+    "tmdb_id": 18785,
+    "media_type": "movie"
   },
   {
-    "celebrity": "Anchorman",
+    "celebrity": "Présentateur vedette : La légende de Ron Burgundy",
     "gender": "",
     "facts": [
       "Ses indices proviennent du décor, du conflit central et des images d'écran mémorables plutôt que du nom.",
       "Recherchez le type de personnages, le décor et la situation de genre que les fans y associent.",
       "Le meilleur indice est l’ambiance : un mélange reconnaissable d’enjeux, de style visuel et de références répétées à la culture pop."
-    ]
+    ],
+    "tmdb_id": 8699,
+    "media_type": "movie"
   },
   {
     "celebrity": "Zoolander",
@@ -1212,25 +1480,31 @@
       "Ses indices proviennent du décor, du conflit central et des images d'écran mémorables plutôt que du nom.",
       "Recherchez le type de personnages, le décor et la situation de genre que les fans y associent.",
       "Le meilleur indice est l’ambiance : un mélange reconnaissable d’enjeux, de style visuel et de références répétées à la culture pop."
-    ]
+    ],
+    "tmdb_id": 9398,
+    "media_type": "movie"
   },
   {
-    "celebrity": "Borat",
+    "celebrity": "Borat : Leçons culturelles sur l'Amérique pour profit glorieuse nation Kazakhstan",
     "gender": "",
     "facts": [
       "Ses indices proviennent du décor, du conflit central et des images d'écran mémorables plutôt que du nom.",
       "Recherchez le type de personnages, le décor et la situation de genre que les fans y associent.",
       "Le meilleur indice est l’ambiance : un mélange reconnaissable d’enjeux, de style visuel et de références répétées à la culture pop."
-    ]
+    ],
+    "tmdb_id": 496,
+    "media_type": "movie"
   },
   {
-    "celebrity": "The Super Mario Galaxy Movie",
+    "celebrity": "Super Mario Galaxy, Le Film",
     "gender": "",
     "facts": [
       "Ses indices proviennent du décor, du conflit central et des images d'écran mémorables plutôt que du nom.",
       "Recherchez le type de personnages, le décor et la situation de genre que les fans y associent.",
       "Le meilleur indice est l’ambiance : un mélange reconnaissable d’enjeux, de style visuel et de références répétées à la culture pop."
-    ]
+    ],
+    "tmdb_id": 1226863,
+    "media_type": "movie"
   },
   {
     "celebrity": "Apex",
@@ -1239,25 +1513,31 @@
       "Ses indices proviennent du décor, du conflit central et des images d'écran mémorables plutôt que du nom.",
       "Recherchez le type de personnages, le décor et la situation de genre que les fans y associent.",
       "Le meilleur indice est l’ambiance : un mélange reconnaissable d’enjeux, de style visuel et de références répétées à la culture pop."
-    ]
+    ],
+    "tmdb_id": 1318447,
+    "media_type": "movie"
   },
   {
-    "celebrity": "Send Help",
+    "celebrity": "Envoyez de l'aide",
     "gender": "",
     "facts": [
       "Ses indices proviennent du décor, du conflit central et des images d'écran mémorables plutôt que du nom.",
       "Recherchez le type de personnages, le décor et la situation de genre que les fans y associent.",
       "Le meilleur indice est l’ambiance : un mélange reconnaissable d’enjeux, de style visuel et de références répétées à la culture pop."
-    ]
+    ],
+    "tmdb_id": 1198994,
+    "media_type": "movie"
   },
   {
-    "celebrity": "The Devil Wears Prada",
+    "celebrity": "Le diable s'habille en Prada",
     "gender": "",
     "facts": [
       "Ses indices proviennent du décor, du conflit central et des images d'écran mémorables plutôt que du nom.",
       "Recherchez le type de personnages, le décor et la situation de genre que les fans y associent.",
       "Le meilleur indice est l’ambiance : un mélange reconnaissable d’enjeux, de style visuel et de références répétées à la culture pop."
-    ]
+    ],
+    "tmdb_id": 350,
+    "media_type": "movie"
   },
   {
     "celebrity": "Michael",
@@ -1266,52 +1546,64 @@
       "Ses indices proviennent du décor, du conflit central et des images d'écran mémorables plutôt que du nom.",
       "Recherchez le type de personnages, le décor et la situation de genre que les fans y associent.",
       "Le meilleur indice est l’ambiance : un mélange reconnaissable d’enjeux, de style visuel et de références répétées à la culture pop."
-    ]
+    ],
+    "tmdb_id": 936075,
+    "media_type": "movie"
   },
   {
-    "celebrity": "Ready or Not 2 Here I Come",
+    "celebrity": "Prêt pas prêt 2 : J'arrive",
     "gender": "",
     "facts": [
       "Ses indices proviennent du décor, du conflit central et des images d'écran mémorables plutôt que du nom.",
       "Recherchez le type de personnages, le décor et la situation de genre que les fans y associent.",
       "Le meilleur indice est l’ambiance : un mélange reconnaissable d’enjeux, de style visuel et de références répétées à la culture pop."
-    ]
+    ],
+    "tmdb_id": 1266127,
+    "media_type": "movie"
   },
   {
-    "celebrity": "Goat",
+    "celebrity": "GOAT : Rêver plus haut",
     "gender": "",
     "facts": [
       "Ses indices proviennent du décor, du conflit central et des images d'écran mémorables plutôt que du nom.",
       "Recherchez le type de personnages, le décor et la situation de genre que les fans y associent.",
       "Le meilleur indice est l’ambiance : un mélange reconnaissable d’enjeux, de style visuel et de références répétées à la culture pop."
-    ]
+    ],
+    "tmdb_id": 1297842,
+    "media_type": "movie"
   },
   {
-    "celebrity": "Project Hail Mary",
+    "celebrity": "Projet dernière chance",
     "gender": "",
     "facts": [
       "Ses indices proviennent du décor, du conflit central et des images d'écran mémorables plutôt que du nom.",
       "Recherchez le type de personnages, le décor et la situation de genre que les fans y associent.",
       "Le meilleur indice est l’ambiance : un mélange reconnaissable d’enjeux, de style visuel et de références répétées à la culture pop."
-    ]
+    ],
+    "tmdb_id": 687163,
+    "media_type": "movie"
   },
   {
-    "celebrity": "Predator Badlands",
+    "celebrity": "Prédateur : Badlands",
     "gender": "",
     "facts": [
       "Ses indices proviennent du décor, du conflit central et des images d'écran mémorables plutôt que du nom.",
       "Recherchez le type de personnages, le décor et la situation de genre que les fans y associent.",
       "Le meilleur indice est l’ambiance : un mélange reconnaissable d’enjeux, de style visuel et de références répétées à la culture pop."
-    ]
+    ],
+    "tmdb_id": 1242898,
+    "media_type": "movie"
   },
   {
-    "celebrity": "The Housemaid",
+    "celebrity": "La femme de ménage",
     "gender": "",
     "facts": [
       "Ses indices proviennent du décor, du conflit central et des images d'écran mémorables plutôt que du nom.",
       "Recherchez le type de personnages, le décor et la situation de genre que les fans y associent.",
       "Le meilleur indice est l’ambiance : un mélange reconnaissable d’enjeux, de style visuel et de références répétées à la culture pop."
-    ]
+    ],
+    "tmdb_id": 1368166,
+    "media_type": "movie"
   },
   {
     "celebrity": "Apocalypto",
@@ -1320,7 +1612,9 @@
       "Ses indices proviennent du décor, du conflit central et des images d'écran mémorables plutôt que du nom.",
       "Recherchez le type de personnages, le décor et la situation de genre que les fans y associent.",
       "Le meilleur indice est l’ambiance : un mélange reconnaissable d’enjeux, de style visuel et de références répétées à la culture pop."
-    ]
+    ],
+    "tmdb_id": 1579,
+    "media_type": "movie"
   },
   {
     "celebrity": "Mortal Kombat Ii",
@@ -1329,7 +1623,9 @@
       "Ses indices proviennent du décor, du conflit central et des images d'écran mémorables plutôt que du nom.",
       "Recherchez le type de personnages, le décor et la situation de genre que les fans y associent.",
       "Le meilleur indice est l’ambiance : un mélange reconnaissable d’enjeux, de style visuel et de références répétées à la culture pop."
-    ]
+    ],
+    "tmdb_id": 931285,
+    "media_type": "movie"
   },
   {
     "celebrity": "Xxx",
@@ -1338,34 +1634,42 @@
       "Ses indices proviennent du décor, du conflit central et des images d'écran mémorables plutôt que du nom.",
       "Recherchez le type de personnages, le décor et la situation de genre que les fans y associent.",
       "Le meilleur indice est l’ambiance : un mélange reconnaissable d’enjeux, de style visuel et de références répétées à la culture pop."
-    ]
+    ],
+    "tmdb_id": 7451,
+    "media_type": "movie"
   },
   {
-    "celebrity": "Scream 7",
+    "celebrity": "Frissons 7",
     "gender": "",
     "facts": [
       "Ses indices proviennent du décor, du conflit central et des images d'écran mémorables plutôt que du nom.",
       "Recherchez le type de personnages, le décor et la situation de genre que les fans y associent.",
       "Le meilleur indice est l’ambiance : un mélange reconnaissable d’enjeux, de style visuel et de références répétées à la culture pop."
-    ]
+    ],
+    "tmdb_id": 1159559,
+    "media_type": "movie"
   },
   {
-    "celebrity": "The Super Mario Bros Movie",
+    "celebrity": "Super Mario Bros. Le film",
     "gender": "",
     "facts": [
       "Ses indices proviennent du décor, du conflit central et des images d'écran mémorables plutôt que du nom.",
       "Recherchez le type de personnages, le décor et la situation de genre que les fans y associent.",
       "Le meilleur indice est l’ambiance : un mélange reconnaissable d’enjeux, de style visuel et de références répétées à la culture pop."
-    ]
+    ],
+    "tmdb_id": 502356,
+    "media_type": "movie"
   },
   {
-    "celebrity": "War Machine",
+    "celebrity": "La machine de guerre",
     "gender": "",
     "facts": [
       "Ses indices proviennent du décor, du conflit central et des images d'écran mémorables plutôt que du nom.",
       "Recherchez le type de personnages, le décor et la situation de genre que les fans y associent.",
       "Le meilleur indice est l’ambiance : un mélange reconnaissable d’enjeux, de style visuel et de références répétées à la culture pop."
-    ]
+    ],
+    "tmdb_id": 1265609,
+    "media_type": "movie"
   },
   {
     "celebrity": "Protector",
@@ -1374,7 +1678,9 @@
       "Ses indices proviennent du décor, du conflit central et des images d'écran mémorables plutôt que du nom.",
       "Recherchez le type de personnages, le décor et la situation de genre que les fans y associent.",
       "Le meilleur indice est l’ambiance : un mélange reconnaissable d’enjeux, de style visuel et de références répétées à la culture pop."
-    ]
+    ],
+    "tmdb_id": 1383731,
+    "media_type": "movie"
   },
   {
     "celebrity": "Anaconda",
@@ -1383,34 +1689,42 @@
       "Ses indices proviennent du décor, du conflit central et des images d'écran mémorables plutôt que du nom.",
       "Recherchez le type de personnages, le décor et la situation de genre que les fans y associent.",
       "Le meilleur indice est l’ambiance : un mélange reconnaissable d’enjeux, de style visuel et de références répétées à la culture pop."
-    ]
+    ],
+    "tmdb_id": 1234731,
+    "media_type": "movie"
   },
   {
-    "celebrity": "Wuthering Heights",
+    "celebrity": "« Les Hauts de Hurle-Vent »",
     "gender": "",
     "facts": [
       "Ses indices proviennent du décor, du conflit central et des images d'écran mémorables plutôt que du nom.",
       "Recherchez le type de personnages, le décor et la situation de genre que les fans y associent.",
       "Le meilleur indice est l’ambiance : un mélange reconnaissable d’enjeux, de style visuel et de références répétées à la culture pop."
-    ]
+    ],
+    "tmdb_id": 1316092,
+    "media_type": "movie"
   },
   {
-    "celebrity": "The Conjuring Last Rites",
+    "celebrity": "La Conjuration : Derniers rites",
     "gender": "",
     "facts": [
       "Ses indices proviennent du décor, du conflit central et des images d'écran mémorables plutôt que du nom.",
       "Recherchez le type de personnages, le décor et la situation de genre que les fans y associent.",
       "Le meilleur indice est l’ambiance : un mélange reconnaissable d’enjeux, de style visuel et de références répétées à la culture pop."
-    ]
+    ],
+    "tmdb_id": 1038392,
+    "media_type": "movie"
   },
   {
-    "celebrity": "Thrash",
+    "celebrity": "Nature prédatrice",
     "gender": "",
     "facts": [
       "Ses indices proviennent du décor, du conflit central et des images d'écran mémorables plutôt que du nom.",
       "Recherchez le type de personnages, le décor et la situation de genre que les fans y associent.",
       "Le meilleur indice est l’ambiance : un mélange reconnaissable d’enjeux, de style visuel et de références répétées à la culture pop."
-    ]
+    ],
+    "tmdb_id": 1290417,
+    "media_type": "movie"
   },
   {
     "celebrity": "Kraken",
@@ -1419,34 +1733,42 @@
       "Ses indices proviennent du décor, du conflit central et des images d'écran mémorables plutôt que du nom.",
       "Recherchez le type de personnages, le décor et la situation de genre que les fans y associent.",
       "Le meilleur indice est l’ambiance : un mélange reconnaissable d’enjeux, de style visuel et de références répétées à la culture pop."
-    ]
+    ],
+    "tmdb_id": 1110034,
+    "media_type": "movie"
   },
   {
-    "celebrity": "The Strangers Chapter 3",
+    "celebrity": "Les Intrus : Chapitre 3",
     "gender": "",
     "facts": [
       "Ses indices proviennent du décor, du conflit central et des images d'écran mémorables plutôt que du nom.",
       "Recherchez le type de personnages, le décor et la situation de genre que les fans y associent.",
       "Le meilleur indice est l’ambiance : un mélange reconnaissable d’enjeux, de style visuel et de références répétées à la culture pop."
-    ]
+    ],
+    "tmdb_id": 1010755,
+    "media_type": "movie"
   },
   {
-    "celebrity": "The Odyssey",
+    "celebrity": "L'Odyssée",
     "gender": "",
     "facts": [
       "Ses indices proviennent du décor, du conflit central et des images d'écran mémorables plutôt que du nom.",
       "Recherchez le type de personnages, le décor et la situation de genre que les fans y associent.",
       "Le meilleur indice est l’ambiance : un mélange reconnaissable d’enjeux, de style visuel et de références répétées à la culture pop."
-    ]
+    ],
+    "tmdb_id": 1368337,
+    "media_type": "movie"
   },
   {
-    "celebrity": "F1",
+    "celebrity": "F1 : le film",
     "gender": "",
     "facts": [
       "Ses indices proviennent du décor, du conflit central et des images d'écran mémorables plutôt que du nom.",
       "Recherchez le type de personnages, le décor et la situation de genre que les fans y associent.",
       "Le meilleur indice est l’ambiance : un mélange reconnaissable d’enjeux, de style visuel et de références répétées à la culture pop."
-    ]
+    ],
+    "tmdb_id": 911430,
+    "media_type": "movie"
   },
   {
     "celebrity": "Influencers",
@@ -1455,16 +1777,20 @@
       "Ses indices proviennent du décor, du conflit central et des images d'écran mémorables plutôt que du nom.",
       "Recherchez le type de personnages, le décor et la situation de genre que les fans y associent.",
       "Le meilleur indice est l’ambiance : un mélange reconnaissable d’enjeux, de style visuel et de références répétées à la culture pop."
-    ]
+    ],
+    "tmdb_id": 1476740,
+    "media_type": "movie"
   },
   {
-    "celebrity": "Now You See Me Now You Dont",
+    "celebrity": "Insaisissable 3",
     "gender": "",
     "facts": [
       "Ses indices proviennent du décor, du conflit central et des images d'écran mémorables plutôt que du nom.",
       "Recherchez le type de personnages, le décor et la situation de genre que les fans y associent.",
       "Le meilleur indice est l’ambiance : un mélange reconnaissable d’enjeux, de style visuel et de références répétées à la culture pop."
-    ]
+    ],
+    "tmdb_id": 425274,
+    "media_type": "movie"
   },
   {
     "celebrity": "Mike Nick Nick Alice",
@@ -1473,16 +1799,20 @@
       "Ses indices proviennent du décor, du conflit central et des images d'écran mémorables plutôt que du nom.",
       "Recherchez le type de personnages, le décor et la situation de genre que les fans y associent.",
       "Le meilleur indice est l’ambiance : un mélange reconnaissable d’enjeux, de style visuel et de références répétées à la culture pop."
-    ]
+    ],
+    "tmdb_id": 1115544,
+    "media_type": "movie"
   },
   {
-    "celebrity": "Kpop Demon Hunters",
+    "celebrity": "Les guerrières de la K-pop",
     "gender": "",
     "facts": [
       "Ses indices proviennent du décor, du conflit central et des images d'écran mémorables plutôt que du nom.",
       "Recherchez le type de personnages, le décor et la situation de genre que les fans y associent.",
       "Le meilleur indice est l’ambiance : un mélange reconnaissable d’enjeux, de style visuel et de références répétées à la culture pop."
-    ]
+    ],
+    "tmdb_id": 803796,
+    "media_type": "movie"
   },
   {
     "celebrity": "A Breed Apart",
@@ -1491,7 +1821,9 @@
       "Ses indices proviennent du décor, du conflit central et des images d'écran mémorables plutôt que du nom.",
       "Recherchez le type de personnages, le décor et la situation de genre que les fans y associent.",
       "Le meilleur indice est l’ambiance : un mélange reconnaissable d’enjeux, de style visuel et de références répétées à la culture pop."
-    ]
+    ],
+    "tmdb_id": 1303055,
+    "media_type": "movie"
   },
   {
     "celebrity": "Worldbreaker",
@@ -1500,52 +1832,64 @@
       "Ses indices proviennent du décor, du conflit central et des images d'écran mémorables plutôt que du nom.",
       "Recherchez le type de personnages, le décor et la situation de genre que les fans y associent.",
       "Le meilleur indice est l’ambiance : un mélange reconnaissable d’enjeux, de style visuel et de références répétées à la culture pop."
-    ]
+    ],
+    "tmdb_id": 1196067,
+    "media_type": "movie"
   },
   {
-    "celebrity": "Jurassic World Rebirth",
+    "celebrity": "Monde jurassique : La renaissance",
     "gender": "",
     "facts": [
       "Ses indices proviennent du décor, du conflit central et des images d'écran mémorables plutôt que du nom.",
       "Recherchez le type de personnages, le décor et la situation de genre que les fans y associent.",
       "Le meilleur indice est l’ambiance : un mélange reconnaissable d’enjeux, de style visuel et de références répétées à la culture pop."
-    ]
+    ],
+    "tmdb_id": 1234821,
+    "media_type": "movie"
   },
   {
-    "celebrity": "The Wrecking Crew",
+    "celebrity": "Le Commando de démolition",
     "gender": "",
     "facts": [
       "Ses indices proviennent du décor, du conflit central et des images d'écran mémorables plutôt que du nom.",
       "Recherchez le type de personnages, le décor et la situation de genre que les fans y associent.",
       "Le meilleur indice est l’ambiance : un mélange reconnaissable d’enjeux, de style visuel et de références répétées à la culture pop."
-    ]
+    ],
+    "tmdb_id": 1168190,
+    "media_type": "movie"
   },
   {
-    "celebrity": "Mercy",
+    "celebrity": "Reconnu coupable",
     "gender": "",
     "facts": [
       "Ses indices proviennent du décor, du conflit central et des images d'écran mémorables plutôt que du nom.",
       "Recherchez le type de personnages, le décor et la situation de genre que les fans y associent.",
       "Le meilleur indice est l’ambiance : un mélange reconnaissable d’enjeux, de style visuel et de références répétées à la culture pop."
-    ]
+    ],
+    "tmdb_id": 1236153,
+    "media_type": "movie"
   },
   {
-    "celebrity": "The Lord of the Rings the Return of the King",
+    "celebrity": "Le Seigneur des anneaux : Le retour du Roi",
     "gender": "",
     "facts": [
       "Ses indices proviennent du décor, du conflit central et des images d'écran mémorables plutôt que du nom.",
       "Recherchez le type de personnages, le décor et la situation de genre que les fans y associent.",
       "Le meilleur indice est l’ambiance : un mélange reconnaissable d’enjeux, de style visuel et de références répétées à la culture pop."
-    ]
+    ],
+    "tmdb_id": 122,
+    "media_type": "movie"
   },
   {
-    "celebrity": "The Rip",
+    "celebrity": "Coup d'argent",
     "gender": "",
     "facts": [
       "Ses indices proviennent du décor, du conflit central et des images d'écran mémorables plutôt que du nom.",
       "Recherchez le type de personnages, le décor et la situation de genre que les fans y associent.",
       "Le meilleur indice est l’ambiance : un mélange reconnaissable d’enjeux, de style visuel et de références répétées à la culture pop."
-    ]
+    ],
+    "tmdb_id": 1306368,
+    "media_type": "movie"
   },
   {
     "celebrity": "Ted 2",
@@ -1554,7 +1898,9 @@
       "Ses indices proviennent du décor, du conflit central et des images d'écran mémorables plutôt que du nom.",
       "Recherchez le type de personnages, le décor et la situation de genre que les fans y associent.",
       "Le meilleur indice est l’ambiance : un mélange reconnaissable d’enjeux, de style visuel et de références répétées à la culture pop."
-    ]
+    ],
+    "tmdb_id": 214756,
+    "media_type": "movie"
   },
   {
     "celebrity": "Kung Fu Panda 4",
@@ -1563,25 +1909,31 @@
       "Ses indices proviennent du décor, du conflit central et des images d'écran mémorables plutôt que du nom.",
       "Recherchez le type de personnages, le décor et la situation de genre que les fans y associent.",
       "Le meilleur indice est l’ambiance : un mélange reconnaissable d’enjeux, de style visuel et de références répétées à la culture pop."
-    ]
+    ],
+    "tmdb_id": 1011985,
+    "media_type": "movie"
   },
   {
-    "celebrity": "The Running Man",
+    "celebrity": "Le jeu du défi",
     "gender": "",
     "facts": [
       "Ses indices proviennent du décor, du conflit central et des images d'écran mémorables plutôt que du nom.",
       "Recherchez le type de personnages, le décor et la situation de genre que les fans y associent.",
       "Le meilleur indice est l’ambiance : un mélange reconnaissable d’enjeux, de style visuel et de références répétées à la culture pop."
-    ]
+    ],
+    "tmdb_id": 798645,
+    "media_type": "movie"
   },
   {
-    "celebrity": "The Beekeeper",
+    "celebrity": "Le gardien",
     "gender": "",
     "facts": [
       "Ses indices proviennent du décor, du conflit central et des images d'écran mémorables plutôt que du nom.",
       "Recherchez le type de personnages, le décor et la situation de genre que les fans y associent.",
       "Le meilleur indice est l’ambiance : un mélange reconnaissable d’enjeux, de style visuel et de références répétées à la culture pop."
-    ]
+    ],
+    "tmdb_id": 866398,
+    "media_type": "movie"
   },
   {
     "celebrity": "Superman",
@@ -1590,25 +1942,31 @@
       "Ses indices proviennent du décor, du conflit central et des images d'écran mémorables plutôt que du nom.",
       "Recherchez le type de personnages, le décor et la situation de genre que les fans y associent.",
       "Le meilleur indice est l’ambiance : un mélange reconnaissable d’enjeux, de style visuel et de références répétées à la culture pop."
-    ]
+    ],
+    "tmdb_id": 1061474,
+    "media_type": "movie"
   },
   {
-    "celebrity": "The Bride",
+    "celebrity": "La fiancée !",
     "gender": "",
     "facts": [
       "Ses indices proviennent du décor, du conflit central et des images d'écran mémorables plutôt que du nom.",
       "Recherchez le type de personnages, le décor et la situation de genre que les fans y associent.",
       "Le meilleur indice est l’ambiance : un mélange reconnaissable d’enjeux, de style visuel et de références répétées à la culture pop."
-    ]
+    ],
+    "tmdb_id": 1159831,
+    "media_type": "movie"
   },
   {
-    "celebrity": "The Lord of the Rings the Fellowship of the Ring",
+    "celebrity": "Le Seigneur des anneaux : La communauté de l'anneau",
     "gender": "",
     "facts": [
       "Ses indices proviennent du décor, du conflit central et des images d'écran mémorables plutôt que du nom.",
       "Recherchez le type de personnages, le décor et la situation de genre que les fans y associent.",
       "Le meilleur indice est l’ambiance : un mélange reconnaissable d’enjeux, de style visuel et de références répétées à la culture pop."
-    ]
+    ],
+    "tmdb_id": 120,
+    "media_type": "movie"
   },
   {
     "celebrity": "Mortal Kombat",
@@ -1617,61 +1975,75 @@
       "Ses indices proviennent du décor, du conflit central et des images d'écran mémorables plutôt que du nom.",
       "Recherchez le type de personnages, le décor et la situation de genre que les fans y associent.",
       "Le meilleur indice est l’ambiance : un mélange reconnaissable d’enjeux, de style visuel et de références répétées à la culture pop."
-    ]
+    ],
+    "tmdb_id": 460465,
+    "media_type": "movie"
   },
   {
-    "celebrity": "Sisu Road to Revenge",
+    "celebrity": "Sisu : Le Chemin de la vengeance",
     "gender": "",
     "facts": [
       "Ses indices proviennent du décor, du conflit central et des images d'écran mémorables plutôt que du nom.",
       "Recherchez le type de personnages, le décor et la situation de genre que les fans y associent.",
       "Le meilleur indice est l’ambiance : un mélange reconnaissable d’enjeux, de style visuel et de références répétées à la culture pop."
-    ]
+    ],
+    "tmdb_id": 1223601,
+    "media_type": "movie"
   },
   {
-    "celebrity": "Peaky Blinders the Immortal Man",
+    "celebrity": "Peaky Blinders : L'Immortel",
     "gender": "",
     "facts": [
       "Ses indices proviennent du décor, du conflit central et des images d'écran mémorables plutôt que du nom.",
       "Recherchez le type de personnages, le décor et la situation de genre que les fans y associent.",
       "Le meilleur indice est l’ambiance : un mélange reconnaissable d’enjeux, de style visuel et de références répétées à la culture pop."
-    ]
+    ],
+    "tmdb_id": 875828,
+    "media_type": "movie"
   },
   {
-    "celebrity": "Schindlers List",
+    "celebrity": "La liste de Schindler",
     "gender": "",
     "facts": [
       "Ses indices proviennent du décor, du conflit central et des images d'écran mémorables plutôt que du nom.",
       "Recherchez le type de personnages, le décor et la situation de genre que les fans y associent.",
       "Le meilleur indice est l’ambiance : un mélange reconnaissable d’enjeux, de style visuel et de références répétées à la culture pop."
-    ]
+    ],
+    "tmdb_id": 424,
+    "media_type": "movie"
   },
   {
-    "celebrity": "The Amateur",
+    "celebrity": "L'amateur",
     "gender": "",
     "facts": [
       "Ses indices proviennent du décor, du conflit central et des images d'écran mémorables plutôt que du nom.",
       "Recherchez le type de personnages, le décor et la situation de genre que les fans y associent.",
       "Le meilleur indice est l’ambiance : un mélange reconnaissable d’enjeux, de style visuel et de références répétées à la culture pop."
-    ]
+    ],
+    "tmdb_id": 1087891,
+    "media_type": "movie"
   },
   {
-    "celebrity": "Five Nights at Freddys 2",
+    "celebrity": "Cinq nuits chez Freddy 2",
     "gender": "",
     "facts": [
       "Ses indices proviennent du décor, du conflit central et des images d'écran mémorables plutôt que du nom.",
       "Recherchez le type de personnages, le décor et la situation de genre que les fans y associent.",
       "Le meilleur indice est l’ambiance : un mélange reconnaissable d’enjeux, de style visuel et de références répétées à la culture pop."
-    ]
+    ],
+    "tmdb_id": 1228246,
+    "media_type": "movie"
   },
   {
-    "celebrity": "Despicable Me 4",
+    "celebrity": "Détestable moi 4",
     "gender": "",
     "facts": [
       "Ses indices proviennent du décor, du conflit central et des images d'écran mémorables plutôt que du nom.",
       "Recherchez le type de personnages, le décor et la situation de genre que les fans y associent.",
       "Le meilleur indice est l’ambiance : un mélange reconnaissable d’enjeux, de style visuel et de références répétées à la culture pop."
-    ]
+    ],
+    "tmdb_id": 519182,
+    "media_type": "movie"
   },
   {
     "celebrity": "Good Luck Have Fun Dont Die",
@@ -1680,34 +2052,42 @@
       "Ses indices proviennent du décor, du conflit central et des images d'écran mémorables plutôt que du nom.",
       "Recherchez le type de personnages, le décor et la situation de genre que les fans y associent.",
       "Le meilleur indice est l’ambiance : un mélange reconnaissable d’enjeux, de style visuel et de références répétées à la culture pop."
-    ]
+    ],
+    "tmdb_id": 1119449,
+    "media_type": "movie"
   },
   {
-    "celebrity": "Outcome",
+    "celebrity": "Chantage",
     "gender": "",
     "facts": [
       "Ses indices proviennent du décor, du conflit central et des images d'écran mémorables plutôt que du nom.",
       "Recherchez le type de personnages, le décor et la situation de genre que les fans y associent.",
       "Le meilleur indice est l’ambiance : un mélange reconnaissable d’enjeux, de style visuel et de références répétées à la culture pop."
-    ]
+    ],
+    "tmdb_id": 1049471,
+    "media_type": "movie"
   },
   {
-    "celebrity": "Ready or Not",
+    "celebrity": "Prêt pas prêt",
     "gender": "",
     "facts": [
       "Ses indices proviennent du décor, du conflit central et des images d'écran mémorables plutôt que du nom.",
       "Recherchez le type de personnages, le décor et la situation de genre que les fans y associent.",
       "Le meilleur indice est l’ambiance : un mélange reconnaissable d’enjeux, de style visuel et de références répétées à la culture pop."
-    ]
+    ],
+    "tmdb_id": 567609,
+    "media_type": "movie"
   },
   {
-    "celebrity": "Our Fault",
+    "celebrity": "À contre-sens 3",
     "gender": "",
     "facts": [
       "Ses indices proviennent du décor, du conflit central et des images d'écran mémorables plutôt que du nom.",
       "Recherchez le type de personnages, le décor et la situation de genre que les fans y associent.",
       "Le meilleur indice est l’ambiance : un mélange reconnaissable d’enjeux, de style visuel et de références répétées à la culture pop."
-    ]
+    ],
+    "tmdb_id": 1156594,
+    "media_type": "movie"
   },
   {
     "celebrity": "Exit 8",
@@ -1716,16 +2096,20 @@
       "Ses indices proviennent du décor, du conflit central et des images d'écran mémorables plutôt que du nom.",
       "Recherchez le type de personnages, le décor et la situation de genre que les fans y associent.",
       "Le meilleur indice est l’ambiance : un mélange reconnaissable d’enjeux, de style visuel et de références répétées à la culture pop."
-    ]
+    ],
+    "tmdb_id": 1408208,
+    "media_type": "movie"
   },
   {
-    "celebrity": "The Wolf of Wall Street",
+    "celebrity": "Le loup de Wall Street",
     "gender": "",
     "facts": [
       "Ses indices proviennent du décor, du conflit central et des images d'écran mémorables plutôt que du nom.",
       "Recherchez le type de personnages, le décor et la situation de genre que les fans y associent.",
       "Le meilleur indice est l’ambiance : un mélange reconnaissable d’enjeux, de style visuel et de références répétées à la culture pop."
-    ]
+    ],
+    "tmdb_id": 106646,
+    "media_type": "movie"
   },
   {
     "celebrity": "Hunting Season",
@@ -1734,16 +2118,20 @@
       "Ses indices proviennent du décor, du conflit central et des images d'écran mémorables plutôt que du nom.",
       "Recherchez le type de personnages, le décor et la situation de genre que les fans y associent.",
       "Le meilleur indice est l’ambiance : un mélange reconnaissable d’enjeux, de style visuel et de références répétées à la culture pop."
-    ]
+    ],
+    "tmdb_id": 1387382,
+    "media_type": "movie"
   },
   {
-    "celebrity": "Mission Impossible the Final Reckoning",
+    "celebrity": "Mission : Impossible - Bilan Final",
     "gender": "",
     "facts": [
       "Ses indices proviennent du décor, du conflit central et des images d'écran mémorables plutôt que du nom.",
       "Recherchez le type de personnages, le décor et la situation de genre que les fans y associent.",
       "Le meilleur indice est l’ambiance : un mélange reconnaissable d’enjeux, de style visuel et de références répétées à la culture pop."
-    ]
+    ],
+    "tmdb_id": 575265,
+    "media_type": "movie"
   },
   {
     "celebrity": "Wicked",
@@ -1752,51 +2140,63 @@
       "Ses indices proviennent du décor, du conflit central et des images d'écran mémorables plutôt que du nom.",
       "Recherchez le type de personnages, le décor et la situation de genre que les fans y associent.",
       "Le meilleur indice est l’ambiance : un mélange reconnaissable d’enjeux, de style visuel et de références répétées à la culture pop."
-    ]
+    ],
+    "tmdb_id": 402431,
+    "media_type": "movie"
   },
   {
-    "celebrity": "A Minecraft Movie",
+    "celebrity": "Un film Minecraft",
     "gender": "",
     "facts": [
       "Ses indices proviennent du décor, du conflit central et des images d'écran mémorables plutôt que du nom.",
       "Recherchez le type de personnages, le décor et la situation de genre que les fans y associent.",
       "Le meilleur indice est l’ambiance : un mélange reconnaissable d’enjeux, de style visuel et de références répétées à la culture pop."
-    ]
+    ],
+    "tmdb_id": 950387,
+    "media_type": "movie"
   },
   {
-    "celebrity": "Dune Part Two",
+    "celebrity": "Dune : Deuxième partie",
     "gender": "",
     "facts": [
       "Ses indices proviennent du décor, du conflit central et des images d'écran mémorables plutôt que du nom.",
       "Recherchez le type de personnages, le décor et la situation de genre que les fans y associent.",
       "Le meilleur indice est l’ambiance : un mélange reconnaissable d’enjeux, de style visuel et de références répétées à la culture pop."
-    ]
+    ],
+    "tmdb_id": 693134,
+    "media_type": "movie"
   },
   {
-    "celebrity": "Spider Man Homecoming",
+    "celebrity": "Spider-man : Les retrouvailles",
     "gender": "",
     "facts": [
       "Ses indices proviennent du décor, du conflit central et des images d'écran mémorables plutôt que du nom.",
       "Recherchez le type de personnages, le décor et la situation de genre que les fans y associent.",
       "Le meilleur indice est l’ambiance : un mélange reconnaissable d’enjeux, de style visuel et de références répétées à la culture pop."
-    ]
+    ],
+    "tmdb_id": 315635,
+    "media_type": "movie"
   },
   {
-    "celebrity": "Avatar the Way of Water",
+    "celebrity": "Avatar : La voie de l'eau",
     "gender": "",
     "facts": [
       "Ses indices proviennent du décor, du conflit central et des images d'écran mémorables plutôt que du nom.",
       "Recherchez le type de personnages, le décor et la situation de genre que les fans y associent.",
       "Le meilleur indice est l’ambiance : un mélange reconnaissable d’enjeux, de style visuel et de références répétées à la culture pop."
-    ]
+    ],
+    "tmdb_id": 76600,
+    "media_type": "movie"
   },
   {
-    "celebrity": "The Wild Robot",
+    "celebrity": "Robot sauvage",
     "gender": "",
     "facts": [
       "Ses indices proviennent du décor, du conflit central et des images d'écran mémorables plutôt que du nom.",
       "Recherchez le type de personnages, le décor et la situation de genre que les fans y associent.",
       "Le meilleur indice est l’ambiance : un mélange reconnaissable d’enjeux, de style visuel et de références répétées à la culture pop."
-    ]
+    ],
+    "tmdb_id": 1184918,
+    "media_type": "movie"
   }
 ]

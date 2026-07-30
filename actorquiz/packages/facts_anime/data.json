@@ -6,7 +6,23 @@
       "Humanity hides behind enormous concentric walls while giant humanoid enemies roam outside.",
       "Military trainees use grappling gear and blades to fight threats much larger than themselves.",
       "Its mysteries mix royal bloodlines, basement secrets, and a war far beyond the first walled city."
-    ]
+    ],
+    "tmdb_id": 1429,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Attack on Titan",
+      "ar": "هجوم العمالقة",
+      "de": "Attack on Titan",
+      "el": "Η Επίθεση των Τιτάνων",
+      "es": "Attack on Titan",
+      "fr": "L'attaque des titans",
+      "he": "מתקפת הטיטאנים",
+      "hi": "दानव पर हमला",
+      "ja": "Attack on Titan",
+      "ko": "진격의 거인",
+      "ru": "Атака титанов",
+      "zh": "進擊的巨人"
+    }
   },
   {
     "celebrity": "Jujutsu Kaisen",
@@ -15,7 +31,23 @@
       "A kind teenager enters a school for curse-fighters after swallowing a dangerous object.",
       "Sorcerers use personal techniques to battle monsters born from negative emotion.",
       "Blindfolds, domain battles, and a demonic presence inside the hero are major clues."
-    ]
+    ],
+    "tmdb_id": 95479,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Jujutsu Kaisen",
+      "ar": "JUJUTSU KAISEN",
+      "de": "JUJUTSU KAISEN",
+      "el": "Jujutsu Kaisen",
+      "es": "Jujutsu Kaisen",
+      "fr": "Jujutsu Kaisen",
+      "he": "ג'וג'וטסו קאיזן",
+      "hi": "अभिशाप नेटवर्क",
+      "ja": "Jujutsu Kaisen",
+      "ko": "주술회전",
+      "ru": "МАГИЧЕСКАЯ БИТВА",
+      "zh": "咒术回战"
+    }
   },
   {
     "celebrity": "Death Note",
@@ -24,7 +56,23 @@
       "A student gains a supernatural notebook that kills anyone whose name is written inside.",
       "A genius detective, a shinigami, and potato-chip theatrics are major clues.",
       "The story becomes a cat-and-mouse battle over justice, ego, and surveillance."
-    ]
+    ],
+    "tmdb_id": 13916,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Death Note",
+      "ar": "مذكرة الموت",
+      "de": "Death Note",
+      "el": "Τετράδιο Θανάτου",
+      "es": "Death Note",
+      "fr": "Death Note",
+      "he": "מחברת המוות",
+      "hi": "Death Note",
+      "ja": "Death Note",
+      "ko": "데스노트",
+      "ru": "Тетрадь смерти",
+      "zh": "死亡笔记"
+    }
   },
   {
     "celebrity": "My Hero Academia",
@@ -33,7 +81,23 @@
       "Most people have superhuman abilities, but the main student begins without one.",
       "A prestigious training school prepares teenagers through exams, rescues, and villain attacks.",
       "Inherited power, costume design, and professional rankings are major clues."
-    ]
+    ],
+    "tmdb_id": 65930,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "My Hero Academia",
+      "ar": "أكاديمية بطلي",
+      "de": "My Hero Academia",
+      "el": "Η Δική Μου Ακαδημία Ηρώων",
+      "es": "My Hero Academia",
+      "fr": "My Hero Academia",
+      "he": "אקדמיית הגיבורים שלי",
+      "hi": "माई हीरो एकेडेमिया",
+      "ja": "My Hero Academia",
+      "ko": "나의 히어로 아카데미아",
+      "ru": "Моя геройская академия",
+      "zh": "我的英雄學院"
+    }
   },
   {
     "celebrity": "One Punch Man",
@@ -42,7 +106,23 @@
       "A bored hero defeats almost every enemy with a single casual hit.",
       "The joke comes from overwhelming strength creating an existential crisis instead of glory.",
       "Monster rankings, hero associations, and deadpan training routines are major clues."
-    ]
+    ],
+    "tmdb_id": 63926,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "One Punch Man",
+      "ar": "رجل اللكمة الواحدة",
+      "de": "One Punch Man",
+      "el": "One-Punch Man",
+      "es": "One Punch Man",
+      "fr": "One-Punch Man",
+      "he": "איש האגרוף הבודד",
+      "hi": "One Punch Man",
+      "ja": "One Punch Man",
+      "ko": "원펀맨",
+      "ru": "Ванпанчмен",
+      "zh": "一拳超人"
+    }
   },
   {
     "celebrity": "Tokyo Ghoul",
@@ -51,7 +131,23 @@
       "A shy student becomes half-monster after a violent encounter and an organ transplant.",
       "Coffee shops, masks, and hunger for human flesh are central clues.",
       "The story explores identity between human society and a hidden predator world."
-    ]
+    ],
+    "tmdb_id": 61374,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Tokyo Ghoul",
+      "ar": "غول طوكيو",
+      "de": "Tokyo Ghoul",
+      "el": "Tokyo Ghoul",
+      "es": "Tokyo Ghoul",
+      "fr": "Tokyo Ghoul",
+      "he": "שדי טוקיו",
+      "hi": "Tokyo Ghoul",
+      "ja": "Tokyo Ghoul",
+      "ko": "도쿄 구울",
+      "ru": "Токийский Гуль",
+      "zh": "東京喰種"
+    }
   },
   {
     "celebrity": "One Piece",
@@ -60,7 +156,23 @@
       "A rubber-bodied pirate gathers a crew to chase the world's greatest treasure.",
       "Devil fruits, wanted posters, sea routes, and found-family crews are major clues.",
       "Its long voyage moves through strange islands, corrupt governments, and dreams of freedom."
-    ]
+    ],
+    "tmdb_id": 37854,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "One Piece",
+      "ar": "قطعة واحدة",
+      "de": "One Piece",
+      "el": "One Piece",
+      "es": "One Piece",
+      "fr": "One Piece",
+      "he": "וואן פיס",
+      "hi": "One Piece",
+      "ja": "One Piece",
+      "ko": "원피스",
+      "ru": "Ван-Пис",
+      "zh": "海賊王"
+    }
   },
   {
     "celebrity": "Naruto",
@@ -69,7 +181,23 @@
       "An ostracized young ninja wants recognition from his village and carries a sealed beast inside.",
       "Headbands, hand signs, rival clans, and exams for young warriors are major clues.",
       "The story builds around friendship, revenge, inherited trauma, and becoming village leader."
-    ]
+    ],
+    "tmdb_id": 46260,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Naruto",
+      "ar": "ناروتو",
+      "de": "Naruto",
+      "el": "Naruto",
+      "es": "Naruto",
+      "fr": "Naruto",
+      "he": "נארוטו",
+      "hi": "Naruto",
+      "ja": "Naruto",
+      "ko": "나루토",
+      "ru": "Наруто",
+      "zh": "火影忍者"
+    }
   },
   {
     "celebrity": "Sword Art Online",
@@ -78,7 +206,23 @@
       "Players are trapped inside a virtual fantasy game where dying in-game means dying outside too.",
       "Floating castles, blade skills, and romance inside digital worlds are major clues.",
       "The first arc turns a multiplayer fantasy adventure into a survival prison."
-    ]
+    ],
+    "tmdb_id": 45782,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Sword Art Online",
+      "ar": "سيف النجاة",
+      "de": "Sword Art Online",
+      "el": "Sword Art Online",
+      "es": "Sword Art Online",
+      "fr": "Sword Art Online",
+      "he": "אומנות החרב אונליין",
+      "hi": "ऑनलाइन तलवार कला",
+      "ja": "Sword Art Online",
+      "ko": "소드 아트 온라인",
+      "ru": "Мастера меча онлайн",
+      "zh": "刀剑神域"
+    }
   },
   {
     "celebrity": "Attack on Titan Final Season",
@@ -87,7 +231,23 @@
       "Its clues draw from the power system, emotional stakes, rivalries, and visual motifs fans recognize.",
       "Think about the kind of setup it builds: student battles, monsters, curses, pirates, ninjas, or survival arcs.",
       "The hint is in its recurring anime language: transformations, squads, tournaments, forbidden abilities, or painful backstories."
-    ]
+    ],
+    "tmdb_id": 1429,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Attack on Titan Final Season",
+      "ar": "هجوم العمالقة",
+      "de": "Attack on Titan",
+      "el": "Η Επίθεση των Τιτάνων",
+      "es": "Attack on Titan",
+      "fr": "L'attaque des titans",
+      "he": "מתקפת הטיטאנים",
+      "hi": "दानव पर हमला",
+      "ja": "Attack on Titan Final Season",
+      "ko": "진격의 거인",
+      "ru": "Атака титанов",
+      "zh": "進擊的巨人"
+    }
   },
   {
     "celebrity": "The Promised Neverland",
@@ -96,7 +256,23 @@
       "Its clues draw from the power system, emotional stakes, rivalries, and visual motifs fans recognize.",
       "Think about the kind of setup it builds: student battles, monsters, curses, pirates, ninjas, or survival arcs.",
       "The hint is in its recurring anime language: transformations, squads, tournaments, forbidden abilities, or painful backstories."
-    ]
+    ],
+    "tmdb_id": 83097,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "The Promised Neverland",
+      "ar": "نيفيرلاند الموعودة",
+      "de": "The Promised Neverland",
+      "el": "The Promised Neverland",
+      "es": "The Promised Neverland",
+      "fr": "The Promised Neverland",
+      "he": "ארץ לעולם לא המובטחת",
+      "hi": "The Promised Neverland",
+      "ja": "約束のネバーランド",
+      "ko": "약속의 네버랜드",
+      "ru": "Обещанный Неверленд",
+      "zh": "約定的夢幻島"
+    }
   },
   {
     "celebrity": "Assassination Classroom",
@@ -105,7 +281,23 @@
       "Its clues draw from the power system, emotional stakes, rivalries, and visual motifs fans recognize.",
       "Think about the kind of setup it builds: student battles, monsters, curses, pirates, ninjas, or survival arcs.",
       "The hint is in its recurring anime language: transformations, squads, tournaments, forbidden abilities, or painful backstories."
-    ]
+    ],
+    "tmdb_id": 62110,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Assassination Classroom",
+      "ar": "فصل الاغتيال",
+      "de": "Assassination Classroom",
+      "el": "Assassination Classroom",
+      "es": "Assassination Classroom",
+      "fr": "Assassination Classroom",
+      "he": "כיתת ההתנקשות",
+      "hi": "Assassination Classroom",
+      "ja": "Assassination Classroom",
+      "ko": "암살교실",
+      "ru": "Класс убийц",
+      "zh": "暗殺教室"
+    }
   },
   {
     "celebrity": "Your Lie in April",
@@ -114,7 +306,23 @@
       "Its clues draw from the power system, emotional stakes, rivalries, and visual motifs fans recognize.",
       "Think about the kind of setup it builds: student battles, monsters, curses, pirates, ninjas, or survival arcs.",
       "The hint is in its recurring anime language: transformations, squads, tournaments, forbidden abilities, or painful backstories."
-    ]
+    ],
+    "tmdb_id": 61663,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Your Lie in April",
+      "ar": "كذبتك في أبريل",
+      "de": "Sekunden in Moll",
+      "el": "Your Lie in April",
+      "es": "Your Lie in April",
+      "fr": "Your Lie in April",
+      "he": "השקר שלך באפריל",
+      "hi": "अप्रैल में तुम्हारा झूठ",
+      "ja": "Your Lie in April",
+      "ko": "4월은 너의 거짓말",
+      "ru": "Твоя апрельская ложь",
+      "zh": "四月是你的謊言"
+    }
   },
   {
     "celebrity": "Chainsaw Man",
@@ -123,7 +331,23 @@
       "A broke young devil hunter merges with his pet-like demon companion after betrayal.",
       "The hero's body becomes a roaring tool of violence during battles.",
       "Its world mixes public-safety squads, bizarre devils, dark comedy, and brutal dreams."
-    ]
+    ],
+    "tmdb_id": 114410,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Chainsaw Man",
+      "ar": "رجل المنشار",
+      "de": "Chainsaw Man",
+      "el": "Chainsaw Man",
+      "es": "Chainsaw Man",
+      "fr": "Chainsaw Man",
+      "he": "איש המסור",
+      "hi": "चेनसॉ मैन",
+      "ja": "Chainsaw Man",
+      "ko": "체인소 맨",
+      "ru": "Человек-бензопила",
+      "zh": "电锯人"
+    }
   },
   {
     "celebrity": "Erased",
@@ -132,7 +356,23 @@
       "Its clues draw from the power system, emotional stakes, rivalries, and visual motifs fans recognize.",
       "Think about the kind of setup it builds: student battles, monsters, curses, pirates, ninjas, or survival arcs.",
       "The hint is in its recurring anime language: transformations, squads, tournaments, forbidden abilities, or painful backstories."
-    ]
+    ],
+    "tmdb_id": 65249,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Erased",
+      "ar": "البلدة في غيابي",
+      "de": "Erased - Die Stadt, in der es mich nicht gibt",
+      "el": "Erased",
+      "es": "Desaparecido",
+      "fr": "Erased",
+      "he": "בחזרה",
+      "hi": "Erased",
+      "ja": "Erased",
+      "ko": "나만이 없는 거리",
+      "ru": "Город, в котором меня нет",
+      "zh": "只有我不存在的城市"
+    }
   },
   {
     "celebrity": "Rascal Does Not Dream of Bunny Girl Senpai",
@@ -141,7 +381,23 @@
       "Its clues draw from the power system, emotional stakes, rivalries, and visual motifs fans recognize.",
       "Think about the kind of setup it builds: student battles, monsters, curses, pirates, ninjas, or survival arcs.",
       "The hint is in its recurring anime language: transformations, squads, tournaments, forbidden abilities, or painful backstories."
-    ]
+    ],
+    "tmdb_id": 82739,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Rascal Does Not Dream of Bunny Girl Senpai",
+      "ar": "المشاغب لا يحلم بفتاة الأرنب",
+      "de": "Rascal Does Not Dream of Bunny Girl Senpai",
+      "el": "Rascal Does Not Dream of Bunny Girl Senpai",
+      "es": "Rascal Does Not Dream of Bunny Girl Senpai",
+      "fr": "Rascal Does Not Dream of Bunny Girl Senpai",
+      "he": "הפרחח הצעיר לא חולם על נערת ארנב",
+      "hi": "Rascal Does Not Dream of Bunny Girl Senpai",
+      "ja": "Rascal Does Not Dream of Bunny Girl Senpai",
+      "ko": "청춘 돼지는 바니걸 선배의 꿈을 꾸지 않는다",
+      "ru": "Этот глупый свин не понимает мечту девочки-зайки",
+      "zh": "青春豬頭少年不會夢到兔女郎學姊"
+    }
   },
   {
     "celebrity": "Black Clover",
@@ -150,7 +406,23 @@
       "Its clues draw from the power system, emotional stakes, rivalries, and visual motifs fans recognize.",
       "Think about the kind of setup it builds: student battles, monsters, curses, pirates, ninjas, or survival arcs.",
       "The hint is in its recurring anime language: transformations, squads, tournaments, forbidden abilities, or painful backstories."
-    ]
+    ],
+    "tmdb_id": 73223,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Black Clover",
+      "ar": "Black Clover",
+      "de": "Black Clover",
+      "el": "Black Clover",
+      "es": "Black Clover",
+      "fr": "Black Clover",
+      "he": "תלתן שחור",
+      "hi": "Black Clover",
+      "ja": "Black Clover",
+      "ko": "블랙 클로버",
+      "ru": "Чёрный клевер",
+      "zh": "黑色五葉草"
+    }
   },
   {
     "celebrity": "Spy X Family",
@@ -159,7 +431,23 @@
       "Its clues draw from the power system, emotional stakes, rivalries, and visual motifs fans recognize.",
       "Think about the kind of setup it builds: student battles, monsters, curses, pirates, ninjas, or survival arcs.",
       "The hint is in its recurring anime language: transformations, squads, tournaments, forbidden abilities, or painful backstories."
-    ]
+    ],
+    "tmdb_id": 120089,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Spy X Family",
+      "ar": "عائلة × جاسوس",
+      "de": "SPY x FAMILY",
+      "el": "Spy X Family",
+      "es": "SPY×FAMILY",
+      "fr": "SPY x FAMILY",
+      "he": "משפחה × חשאית",
+      "hi": "जासूस × परिवार",
+      "ja": "Spy X Family",
+      "ko": "스파이 패밀리",
+      "ru": "Семья шпиона",
+      "zh": "SPY x FAMILY"
+    }
   },
   {
     "celebrity": "Dr Stone",
@@ -168,7 +456,23 @@
       "Its clues draw from the power system, emotional stakes, rivalries, and visual motifs fans recognize.",
       "Think about the kind of setup it builds: student battles, monsters, curses, pirates, ninjas, or survival arcs.",
       "The hint is in its recurring anime language: transformations, squads, tournaments, forbidden abilities, or painful backstories."
-    ]
+    ],
+    "tmdb_id": 86031,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Dr Stone",
+      "ar": "دكتور ستون",
+      "de": "Dr. STONE",
+      "el": "Dr. Stone",
+      "es": "Dr. Stone",
+      "fr": "Dr. STONE",
+      "he": "ד''ר סטון",
+      "hi": "डॉ. स्टोन",
+      "ja": "Dr Stone",
+      "ko": "닥터 스톤",
+      "ru": "Доктор Стоун",
+      "zh": "Dr.STONE 新石紀"
+    }
   },
   {
     "celebrity": "Violet Evergarden",
@@ -177,7 +481,23 @@
       "Its clues draw from the power system, emotional stakes, rivalries, and visual motifs fans recognize.",
       "Think about the kind of setup it builds: student battles, monsters, curses, pirates, ninjas, or survival arcs.",
       "The hint is in its recurring anime language: transformations, squads, tournaments, forbidden abilities, or painful backstories."
-    ]
+    ],
+    "tmdb_id": 75214,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Violet Evergarden",
+      "ar": "فيوليت",
+      "de": "Violet Evergarden",
+      "el": "Βάιολετ Εβεργκάρντεν",
+      "es": "Violet Evergarden",
+      "fr": "Violet Evergarden",
+      "he": "ויולט אברגרדן",
+      "hi": "Violet Evergarden",
+      "ja": "Violet Evergarden",
+      "ko": "바이올렛 에버가든",
+      "ru": "Вайолет Эвергарден",
+      "zh": "紫罗兰永恒花园"
+    }
   },
   {
     "celebrity": "Noragami",
@@ -186,7 +506,23 @@
       "Its clues draw from the power system, emotional stakes, rivalries, and visual motifs fans recognize.",
       "Think about the kind of setup it builds: student battles, monsters, curses, pirates, ninjas, or survival arcs.",
       "The hint is in its recurring anime language: transformations, squads, tournaments, forbidden abilities, or painful backstories."
-    ]
+    ],
+    "tmdb_id": 64710,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Noragami",
+      "ar": "نورغامي",
+      "de": "Noragami",
+      "el": "Noragami",
+      "es": "Noragami",
+      "fr": "Noragami",
+      "he": "נוראגמי",
+      "hi": "Noragami",
+      "ja": "Noragami",
+      "ko": "노라가미",
+      "ru": "Бездомный бог",
+      "zh": "流浪神差"
+    }
   },
   {
     "celebrity": "Vinland Saga",
@@ -195,7 +531,23 @@
       "Its clues draw from the power system, emotional stakes, rivalries, and visual motifs fans recognize.",
       "Think about the kind of setup it builds: student battles, monsters, curses, pirates, ninjas, or survival arcs.",
       "The hint is in its recurring anime language: transformations, squads, tournaments, forbidden abilities, or painful backstories."
-    ]
+    ],
+    "tmdb_id": 88803,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Vinland Saga",
+      "ar": "ملحمة فينلاند",
+      "de": "Vinland Saga",
+      "el": "Vinland Saga",
+      "es": "Vinland Saga",
+      "fr": "Vinland Saga",
+      "he": "סאגת וינלנד",
+      "hi": "Vinland Saga",
+      "ja": "Vinland Saga",
+      "ko": "빈란드 사가",
+      "ru": "Сага о Винланде",
+      "zh": "海盜戰記"
+    }
   },
   {
     "celebrity": "The Seven Deadly Sins",
@@ -204,7 +556,23 @@
       "Its clues draw from the power system, emotional stakes, rivalries, and visual motifs fans recognize.",
       "Think about the kind of setup it builds: student battles, monsters, curses, pirates, ninjas, or survival arcs.",
       "The hint is in its recurring anime language: transformations, squads, tournaments, forbidden abilities, or painful backstories."
-    ]
+    ],
+    "tmdb_id": 62104,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "The Seven Deadly Sins",
+      "ar": "الخطايا السبع المميتة",
+      "de": "The Seven Deadly Sins",
+      "el": "Η Οργή των Θεών",
+      "es": "Los Siete Pecados Capitales",
+      "fr": "The Seven Deadly Sins",
+      "he": "שבעת חטאי המוות",
+      "hi": "The Seven Deadly Sins",
+      "ja": "The Seven Deadly Sins",
+      "ko": "일곱 개의 대죄",
+      "ru": "Семь смертных грехов",
+      "zh": "七大罪"
+    }
   },
   {
     "celebrity": "Horimiya",
@@ -213,7 +581,23 @@
       "Its clues draw from the power system, emotional stakes, rivalries, and visual motifs fans recognize.",
       "Think about the kind of setup it builds: student battles, monsters, curses, pirates, ninjas, or survival arcs.",
       "The hint is in its recurring anime language: transformations, squads, tournaments, forbidden abilities, or painful backstories."
-    ]
+    ],
+    "tmdb_id": 110070,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Horimiya",
+      "ar": "Horimiya",
+      "de": "Horimiya",
+      "el": "Horimiya",
+      "es": "Horimiya",
+      "fr": "Horimiya",
+      "he": "הורימיה",
+      "hi": "Horimiya",
+      "ja": "Horimiya",
+      "ko": "호리미야",
+      "ru": "Хоримия",
+      "zh": "堀與宮村"
+    }
   },
   {
     "celebrity": "Parasyte the Maxim",
@@ -222,7 +606,23 @@
       "Its clues draw from the power system, emotional stakes, rivalries, and visual motifs fans recognize.",
       "Think about the kind of setup it builds: student battles, monsters, curses, pirates, ninjas, or survival arcs.",
       "The hint is in its recurring anime language: transformations, squads, tournaments, forbidden abilities, or painful backstories."
-    ]
+    ],
+    "tmdb_id": 61459,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Parasyte the Maxim",
+      "ar": "الطفيليات",
+      "de": "Parasyte - The Maxim",
+      "el": "Parasyte the Maxim",
+      "es": "Parasyte: The Maxim",
+      "fr": "Parasite : la maxime",
+      "he": "טפיל",
+      "hi": "Parasyte the Maxim",
+      "ja": "Parasyte the Maxim",
+      "ko": "기생수",
+      "ru": "Паразит: Учение о жизни",
+      "zh": "寄生獸：生命的準則"
+    }
   },
   {
     "celebrity": "Bleach",
@@ -231,7 +631,23 @@
       "Its clues draw from the power system, emotional stakes, rivalries, and visual motifs fans recognize.",
       "Think about the kind of setup it builds: student battles, monsters, curses, pirates, ninjas, or survival arcs.",
       "The hint is in its recurring anime language: transformations, squads, tournaments, forbidden abilities, or painful backstories."
-    ]
+    ],
+    "tmdb_id": 30984,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Bleach",
+      "ar": "المطهر",
+      "de": "Bleach",
+      "el": "Bleach",
+      "es": "Bleach",
+      "fr": "Bleach",
+      "he": "בליץ'",
+      "hi": "Bleach",
+      "ja": "Bleach",
+      "ko": "블리치",
+      "ru": "Блич",
+      "zh": "漂靈"
+    }
   },
   {
     "celebrity": "Darling in the Franxx",
@@ -240,7 +656,23 @@
       "Its clues draw from the power system, emotional stakes, rivalries, and visual motifs fans recognize.",
       "Think about the kind of setup it builds: student battles, monsters, curses, pirates, ninjas, or survival arcs.",
       "The hint is in its recurring anime language: transformations, squads, tournaments, forbidden abilities, or painful backstories."
-    ]
+    ],
+    "tmdb_id": 76121,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Darling in the Franxx",
+      "ar": "حبيبي في فرانكس",
+      "de": "Darling in the Franxx",
+      "el": "Darling in the Franxx",
+      "es": "Darling in the Franxx",
+      "fr": "Darling in The FranXX",
+      "he": "Darling in the Franxx",
+      "hi": "Darling in the Franxx",
+      "ja": "Darling in the Franxx",
+      "ko": "달링 인 더 프랑키스",
+      "ru": "Любимый во Франкcе",
+      "zh": "DARLING in the FRANXX"
+    }
   },
   {
     "celebrity": "Neon Genesis Evangelion",
@@ -249,7 +681,23 @@
       "Its clues draw from the power system, emotional stakes, rivalries, and visual motifs fans recognize.",
       "Think about the kind of setup it builds: student battles, monsters, curses, pirates, ninjas, or survival arcs.",
       "The hint is in its recurring anime language: transformations, squads, tournaments, forbidden abilities, or painful backstories."
-    ]
+    ],
+    "tmdb_id": 890,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Neon Genesis Evangelion",
+      "ar": "Neon Genesis Evangelion",
+      "de": "Neon Genesis Evangelion",
+      "el": "Neon Genesis Evangelion",
+      "es": "Neon Genesis Evangelion",
+      "fr": "Neon Genesis Evangelion",
+      "he": "נאון ג'נסיס אוונגליון",
+      "hi": "Neon Genesis Evangelion",
+      "ja": "Neon Genesis Evangelion",
+      "ko": "신세기 에반게리온",
+      "ru": "Евангелион",
+      "zh": "新世紀福音戰士"
+    }
   },
   {
     "celebrity": "Fire Force",
@@ -258,7 +706,23 @@
       "Its clues draw from the power system, emotional stakes, rivalries, and visual motifs fans recognize.",
       "Think about the kind of setup it builds: student battles, monsters, curses, pirates, ninjas, or survival arcs.",
       "The hint is in its recurring anime language: transformations, squads, tournaments, forbidden abilities, or painful backstories."
-    ]
+    ],
+    "tmdb_id": 88046,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Fire Force",
+      "ar": "فرقة مُكافحي النيران",
+      "de": "Fire Force",
+      "el": "Fire Force",
+      "es": "Fire Force",
+      "fr": "Fire Force",
+      "he": "פייר פורס",
+      "hi": "Fire Force",
+      "ja": "Fire Force",
+      "ko": "불꽃 소방대",
+      "ru": "Пламенная бригада пожарных",
+      "zh": "炎炎消防隊"
+    }
   },
   {
     "celebrity": "Death Parade",
@@ -267,7 +731,23 @@
       "Its clues draw from the power system, emotional stakes, rivalries, and visual motifs fans recognize.",
       "Think about the kind of setup it builds: student battles, monsters, curses, pirates, ninjas, or survival arcs.",
       "The hint is in its recurring anime language: transformations, squads, tournaments, forbidden abilities, or painful backstories."
-    ]
+    ],
+    "tmdb_id": 61901,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Death Parade",
+      "ar": "موكب الموت",
+      "de": "Death Parade",
+      "el": "Death Parade",
+      "es": "Death Parade",
+      "fr": "Death Parade",
+      "he": "תהלוכת המוות",
+      "hi": "Death Parade",
+      "ja": "デス・パレード",
+      "ko": "데스 퍼레이드",
+      "ru": "Парад смерти",
+      "zh": "死亡遊行"
+    }
   },
   {
     "celebrity": "Cowboy Bebop",
@@ -276,7 +756,23 @@
       "Its clues draw from the power system, emotional stakes, rivalries, and visual motifs fans recognize.",
       "Think about the kind of setup it builds: student battles, monsters, curses, pirates, ninjas, or survival arcs.",
       "The hint is in its recurring anime language: transformations, squads, tournaments, forbidden abilities, or painful backstories."
-    ]
+    ],
+    "tmdb_id": 30991,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Cowboy Bebop",
+      "ar": "صائدو جوائز بيبوب",
+      "de": "Cowboy Bebop",
+      "el": "Καουμπόηδες του Διαστήματος",
+      "es": "Cowboy Bebop",
+      "fr": "Cowboy Bebop",
+      "he": "‏קאובוי ביבופ",
+      "hi": "Cowboy Bebop",
+      "ja": "Cowboy Bebop",
+      "ko": "카우보이 비밥",
+      "ru": "Ковбой Бибоп",
+      "zh": "星際牛仔"
+    }
   },
   {
     "celebrity": "Blue Exorcist",
@@ -285,7 +781,23 @@
       "Its clues draw from the power system, emotional stakes, rivalries, and visual motifs fans recognize.",
       "Think about the kind of setup it builds: student battles, monsters, curses, pirates, ninjas, or survival arcs.",
       "The hint is in its recurring anime language: transformations, squads, tournaments, forbidden abilities, or painful backstories."
-    ]
+    ],
+    "tmdb_id": 38464,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Blue Exorcist",
+      "ar": "اللهب الأزرق",
+      "de": "Blue Exorcist",
+      "el": "Ο Γαλάζιος Εξορκιστής",
+      "es": "Blue Exorcist",
+      "fr": "Blue Exorcist",
+      "he": "מגרש השדים הכחול",
+      "hi": "Blue Exorcist",
+      "ja": "Blue Exorcist",
+      "ko": "청의 엑소시스트",
+      "ru": "Синий Экзорцист",
+      "zh": "青之驅魔師"
+    }
   },
   {
     "celebrity": "Kakegurui",
@@ -294,7 +806,23 @@
       "Its clues draw from the power system, emotional stakes, rivalries, and visual motifs fans recognize.",
       "Think about the kind of setup it builds: student battles, monsters, curses, pirates, ninjas, or survival arcs.",
       "The hint is in its recurring anime language: transformations, squads, tournaments, forbidden abilities, or painful backstories."
-    ]
+    ],
+    "tmdb_id": 72305,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Kakegurui",
+      "ar": "المقامر الذي لا يقهر",
+      "de": "Kakegurui: Das Leben ist ein Spiel",
+      "el": "Kakegurui",
+      "es": "Kakegurui",
+      "fr": "Gambling School",
+      "he": "קאקגורוי",
+      "hi": "Kakegurui",
+      "ja": "Kakegurui",
+      "ko": "카케구루이",
+      "ru": "Безумный азарт",
+      "zh": "狂賭之淵"
+    }
   },
   {
     "celebrity": "The Rising of the Shield Hero",
@@ -303,7 +831,23 @@
       "Its clues draw from the power system, emotional stakes, rivalries, and visual motifs fans recognize.",
       "Think about the kind of setup it builds: student battles, monsters, curses, pirates, ninjas, or survival arcs.",
       "The hint is in its recurring anime language: transformations, squads, tournaments, forbidden abilities, or painful backstories."
-    ]
+    ],
+    "tmdb_id": 83095,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "The Rising of the Shield Hero",
+      "ar": "Tate no Yuusha no Nariagari",
+      "de": "The Rising of the Shield Hero",
+      "el": "The Rising of the Shield Hero",
+      "es": "El ascenso del héroe del escudo",
+      "fr": "The Rising of the Shield Hero",
+      "he": "עלייתו של גיבור המגן",
+      "hi": "The Rising of the Shield Hero",
+      "ja": "The Rising of the Shield Hero",
+      "ko": "방패 용사 성공담",
+      "ru": "Восхождение героя щита",
+      "zh": "盾之勇者成名錄"
+    }
   },
   {
     "celebrity": "That Time I Got Reincarnated as a Slime",
@@ -312,7 +856,23 @@
       "Its clues draw from the power system, emotional stakes, rivalries, and visual motifs fans recognize.",
       "Think about the kind of setup it builds: student battles, monsters, curses, pirates, ninjas, or survival arcs.",
       "The hint is in its recurring anime language: transformations, squads, tournaments, forbidden abilities, or painful backstories."
-    ]
+    ],
+    "tmdb_id": 82684,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "That Time I Got Reincarnated as a Slime",
+      "ar": "ذلك الوقت الذي تجسدت فيه كوحش هلامي",
+      "de": "Meine Wiedergeburt als Schleim in einer anderen Welt",
+      "el": "That Time I Got Reincarnated as a Slime",
+      "es": "That Time I Got Reincarnated as a Slime",
+      "fr": "Moi, quand je me réincarne en Slime",
+      "he": "המקרה בו חזרתי לחיים בתור סליים",
+      "hi": "That Time I Got Reincarnated as a Slime",
+      "ja": "That Time I Got Reincarnated as a Slime",
+      "ko": "전생했더니 슬라임이었던 건에 대하여",
+      "ru": "О моём перерождении в слизь",
+      "zh": "關於我轉生變成史萊姆這檔事"
+    }
   },
   {
     "celebrity": "Tokyo Revengers",
@@ -321,7 +881,23 @@
       "Its clues draw from the power system, emotional stakes, rivalries, and visual motifs fans recognize.",
       "Think about the kind of setup it builds: student battles, monsters, curses, pirates, ninjas, or survival arcs.",
       "The hint is in its recurring anime language: transformations, squads, tournaments, forbidden abilities, or painful backstories."
-    ]
+    ],
+    "tmdb_id": 105009,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Tokyo Revengers",
+      "ar": "مُنتقمو طوكيو",
+      "de": "Tokyo Revengers",
+      "el": "Tokyo Revengers",
+      "es": "Tokyo Revengers",
+      "fr": "Tokyo Revengers",
+      "he": "הנוקמים מטוקיו",
+      "hi": "Tokyo Revengers",
+      "ja": "Tokyo Revengers",
+      "ko": "도쿄 리벤저스",
+      "ru": "Токийские мстители",
+      "zh": "東京復仇者"
+    }
   },
   {
     "celebrity": "Classroom of the Elite",
@@ -330,7 +906,23 @@
       "Its clues draw from the power system, emotional stakes, rivalries, and visual motifs fans recognize.",
       "Think about the kind of setup it builds: student battles, monsters, curses, pirates, ninjas, or survival arcs.",
       "The hint is in its recurring anime language: transformations, squads, tournaments, forbidden abilities, or painful backstories."
-    ]
+    ],
+    "tmdb_id": 72517,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Classroom of the Elite",
+      "ar": "مرحبًا بكم في فصل النخبة",
+      "de": "Classroom of the Elite",
+      "el": "Classroom of the Elite",
+      "es": "Classroom of the Elite",
+      "fr": "Classroom of the Elite",
+      "he": "Classroom of the Elite",
+      "hi": "अभिजात वर्ग की कक्षा",
+      "ja": "ようこそ実力至上主義の教室へ",
+      "ko": "어서 오세요 실력 지상주의 교실에",
+      "ru": "Добро пожаловать в класс превосходства",
+      "zh": "歡迎來到實力至上主義的教室"
+    }
   },
   {
     "celebrity": "The Future Diary",
@@ -339,7 +931,23 @@
       "Its clues draw from the power system, emotional stakes, rivalries, and visual motifs fans recognize.",
       "Think about the kind of setup it builds: student battles, monsters, curses, pirates, ninjas, or survival arcs.",
       "The hint is in its recurring anime language: transformations, squads, tournaments, forbidden abilities, or painful backstories."
-    ]
+    ],
+    "tmdb_id": 46671,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "The Future Diary",
+      "ar": "مذكّرة المستقبل",
+      "de": "Mirai Nikki",
+      "el": "The Future Diary",
+      "es": "The Future Diary",
+      "fr": "Mirai Nikki",
+      "he": "יומן העתיד",
+      "hi": "The Future Diary",
+      "ja": "The Future Diary",
+      "ko": "미래일기",
+      "ru": "Дневник будущего",
+      "zh": "未來日記"
+    }
   },
   {
     "celebrity": "Charlotte",
@@ -348,7 +956,23 @@
       "Its clues draw from the power system, emotional stakes, rivalries, and visual motifs fans recognize.",
       "Think about the kind of setup it builds: student battles, monsters, curses, pirates, ninjas, or survival arcs.",
       "The hint is in its recurring anime language: transformations, squads, tournaments, forbidden abilities, or painful backstories."
-    ]
+    ],
+    "tmdb_id": 63145,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Charlotte",
+      "ar": "شارلوت",
+      "de": "Charlotte",
+      "el": "Charlotte",
+      "es": "Charlotte",
+      "fr": "Charlotte",
+      "he": "שרלוט",
+      "hi": "Charlotte",
+      "ja": "Charlotte",
+      "ko": "샤를로트",
+      "ru": "Шарлотта",
+      "zh": "Charlotte"
+    }
   },
   {
     "celebrity": "Bungo Stray Dogs",
@@ -357,7 +981,23 @@
       "Its clues draw from the power system, emotional stakes, rivalries, and visual motifs fans recognize.",
       "Think about the kind of setup it builds: student battles, monsters, curses, pirates, ninjas, or survival arcs.",
       "The hint is in its recurring anime language: transformations, squads, tournaments, forbidden abilities, or painful backstories."
-    ]
+    ],
+    "tmdb_id": 65931,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Bungo Stray Dogs",
+      "ar": "كلاب بونجو الضالة",
+      "de": "Bungo Stray Dogs",
+      "el": "Bungo Stray Dogs",
+      "es": "Bungou Stray Dogs",
+      "fr": "Bungo Stray Dogs",
+      "he": "כלבי ספרות נודדים",
+      "hi": "Bungo Stray Dogs",
+      "ja": "Bungo Stray Dogs",
+      "ko": "문호 스트레이독스",
+      "ru": "Проза бродячих псов",
+      "zh": "文豪 Stray Dogs"
+    }
   },
   {
     "celebrity": "Solo Leveling",
@@ -366,7 +1006,23 @@
       "Its clues draw from the power system, emotional stakes, rivalries, and visual motifs fans recognize.",
       "Think about the kind of setup it builds: student battles, monsters, curses, pirates, ninjas, or survival arcs.",
       "The hint is in its recurring anime language: transformations, squads, tournaments, forbidden abilities, or painful backstories."
-    ]
+    ],
+    "tmdb_id": 127532,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Solo Leveling",
+      "ar": "سولو ليفلينغ",
+      "de": "Solo Leveling",
+      "el": "Solo Leveling",
+      "es": "Solo Leveling",
+      "fr": "Solo Leveling",
+      "he": "סולו לבלינג",
+      "hi": "Solo Leveling",
+      "ja": "Solo Leveling",
+      "ko": "나 혼자만 레벨업",
+      "ru": "Solo Leveling: Поднятие уровня в одиночку",
+      "zh": "我独自升级"
+    }
   },
   {
     "celebrity": "Made in Abyss",
@@ -375,7 +1031,23 @@
       "Its clues draw from the power system, emotional stakes, rivalries, and visual motifs fans recognize.",
       "Think about the kind of setup it builds: student battles, monsters, curses, pirates, ninjas, or survival arcs.",
       "The hint is in its recurring anime language: transformations, squads, tournaments, forbidden abilities, or painful backstories."
-    ]
+    ],
+    "tmdb_id": 72636,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Made in Abyss",
+      "ar": "صنع في الهاوية",
+      "de": "Made in Abyss",
+      "el": "Made in Abyss",
+      "es": "Made in Abyss",
+      "fr": "Made In Abyss",
+      "he": "תוצרת התהום",
+      "hi": "Made in Abyss",
+      "ja": "Made in Abyss",
+      "ko": "메이드 인 어비스",
+      "ru": "Созданный в Бездне",
+      "zh": "來自深淵"
+    }
   },
   {
     "celebrity": "Overlord",
@@ -384,7 +1056,23 @@
       "Its clues draw from the power system, emotional stakes, rivalries, and visual motifs fans recognize.",
       "Think about the kind of setup it builds: student battles, monsters, curses, pirates, ninjas, or survival arcs.",
       "The hint is in its recurring anime language: transformations, squads, tournaments, forbidden abilities, or painful backstories."
-    ]
+    ],
+    "tmdb_id": 64196,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Overlord",
+      "ar": "السيد الأعلى",
+      "de": "Overlord",
+      "el": "Overlord",
+      "es": "Overlord",
+      "fr": "Overlord",
+      "he": "שליט עליון",
+      "hi": "Overlord",
+      "ja": "Overlord",
+      "ko": "오버로드",
+      "ru": "Повелитель",
+      "zh": "不死者之王"
+    }
   },
   {
     "celebrity": "Soul Eater",
@@ -393,7 +1081,23 @@
       "Its clues draw from the power system, emotional stakes, rivalries, and visual motifs fans recognize.",
       "Think about the kind of setup it builds: student battles, monsters, curses, pirates, ninjas, or survival arcs.",
       "The hint is in its recurring anime language: transformations, squads, tournaments, forbidden abilities, or painful backstories."
-    ]
+    ],
+    "tmdb_id": 37305,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Soul Eater",
+      "ar": "أكل الأرواح",
+      "de": "Soul Eater",
+      "el": "Soul Eater",
+      "es": "Soul Eater",
+      "fr": "Soul Eater",
+      "he": "סול איטר",
+      "hi": "Soul Eater",
+      "ja": "Soul Eater",
+      "ko": "소울이터",
+      "ru": "Пожиратель Душ",
+      "zh": "噬魂師"
+    }
   },
   {
     "celebrity": "Another",
@@ -402,7 +1106,23 @@
       "Its clues draw from the power system, emotional stakes, rivalries, and visual motifs fans recognize.",
       "Think about the kind of setup it builds: student battles, monsters, curses, pirates, ninjas, or survival arcs.",
       "The hint is in its recurring anime language: transformations, squads, tournaments, forbidden abilities, or painful backstories."
-    ]
+    ],
+    "tmdb_id": 42589,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Another",
+      "ar": "أناذر",
+      "de": "Another",
+      "el": "Another",
+      "es": "Another",
+      "fr": "Another",
+      "he": "אחר",
+      "hi": "Another",
+      "ja": "Another",
+      "ko": "어나더",
+      "ru": "Иная",
+      "zh": "替身"
+    }
   },
   {
     "celebrity": "Fairy Tail",
@@ -411,7 +1131,23 @@
       "Its clues draw from the power system, emotional stakes, rivalries, and visual motifs fans recognize.",
       "Think about the kind of setup it builds: student battles, monsters, curses, pirates, ninjas, or survival arcs.",
       "The hint is in its recurring anime language: transformations, squads, tournaments, forbidden abilities, or painful backstories."
-    ]
+    ],
+    "tmdb_id": 46261,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Fairy Tail",
+      "ar": "فيري تيل",
+      "de": "Fairy Tail",
+      "el": "Fairy Tail",
+      "es": "Fairy Tail",
+      "fr": "Fairy Tail",
+      "he": "פיירי טייל",
+      "hi": "Fairy Tail",
+      "ja": "Fairy Tail",
+      "ko": "페어리 테일",
+      "ru": "Хвост Феи",
+      "zh": "魔導少年"
+    }
   },
   {
     "celebrity": "My Teen Romantic Comedy Snafu",
@@ -420,7 +1156,23 @@
       "Its clues draw from the power system, emotional stakes, rivalries, and visual motifs fans recognize.",
       "Think about the kind of setup it builds: student battles, monsters, curses, pirates, ninjas, or survival arcs.",
       "The hint is in its recurring anime language: transformations, squads, tournaments, forbidden abilities, or painful backstories."
-    ]
+    ],
+    "tmdb_id": 65676,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "My Teen Romantic Comedy Snafu",
+      "ar": "كوميديتي الرومانسية الشبابية خاطئة كما توقعت",
+      "de": "My Teen Romantic Comedy SNAFU",
+      "el": "My Teen Romantic Comedy Snafu",
+      "es": "My Teen Romantic Comedy SNAFU",
+      "fr": "My Teen Romantic Comedy SNAFU",
+      "he": "קומדיית הנעורים הרומנטית שלי הייתה שגויה כפי שציפיתי",
+      "hi": "My Teen Romantic Comedy Snafu",
+      "ja": "My Teen Romantic Comedy Snafu",
+      "ko": "역시 내 청춘의 러브 코미디는 잘못됐다.",
+      "ru": "Как и ожидал, моя школьная романтическая жизнь не удалась",
+      "zh": "果然我的青春戀愛喜劇搞錯了。"
+    }
   },
   {
     "celebrity": "Gurren Lagann",
@@ -429,7 +1181,23 @@
       "Its clues draw from the power system, emotional stakes, rivalries, and visual motifs fans recognize.",
       "Think about the kind of setup it builds: student battles, monsters, curses, pirates, ninjas, or survival arcs.",
       "The hint is in its recurring anime language: transformations, squads, tournaments, forbidden abilities, or painful backstories."
-    ]
+    ],
+    "tmdb_id": 21729,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Gurren Lagann",
+      "ar": "غورن لاجان",
+      "de": "Gurren Lagann",
+      "el": "Gurren Lagann",
+      "es": "Gurren Lagann",
+      "fr": "Gurren Lagann",
+      "he": "גורן לאגאן: מפלח הרקיע",
+      "hi": "Gurren Lagann",
+      "ja": "Gurren Lagann",
+      "ko": "천원돌파 그렌라간",
+      "ru": "Гуррен-Лаганн",
+      "zh": "天元突破 紅蓮螺巖"
+    }
   },
   {
     "celebrity": "Dororo",
@@ -438,7 +1206,23 @@
       "Its clues draw from the power system, emotional stakes, rivalries, and visual motifs fans recognize.",
       "Think about the kind of setup it builds: student battles, monsters, curses, pirates, ninjas, or survival arcs.",
       "The hint is in its recurring anime language: transformations, squads, tournaments, forbidden abilities, or painful backstories."
-    ]
+    ],
+    "tmdb_id": 83100,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Dororo",
+      "ar": "دورورو",
+      "de": "Dororo",
+      "el": "Dororo",
+      "es": "Dororo",
+      "fr": "Dororo",
+      "he": "דורורו",
+      "hi": "Dororo",
+      "ja": "どろろ",
+      "ko": "도로로",
+      "ru": "Дороро",
+      "zh": "多羅羅"
+    }
   },
   {
     "celebrity": "Dan Da Dan",
@@ -447,7 +1231,23 @@
       "Its clues draw from the power system, emotional stakes, rivalries, and visual motifs fans recognize.",
       "Think about the kind of setup it builds: student battles, monsters, curses, pirates, ninjas, or survival arcs.",
       "The hint is in its recurring anime language: transformations, squads, tournaments, forbidden abilities, or painful backstories."
-    ]
+    ],
+    "tmdb_id": 240411,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Dan Da Dan",
+      "ar": "داندادان",
+      "de": "DAN DA DAN",
+      "el": "Dan Da Dan",
+      "es": "DAN DA DAN",
+      "fr": "DAN DA DAN",
+      "he": "דנדאדן",
+      "hi": "DAN DA DAN",
+      "ja": "Dan Da Dan",
+      "ko": "단다단",
+      "ru": "Дандадан",
+      "zh": "当哒当"
+    }
   },
   {
     "celebrity": "Psycho Pass",
@@ -456,7 +1256,23 @@
       "Its clues draw from the power system, emotional stakes, rivalries, and visual motifs fans recognize.",
       "Think about the kind of setup it builds: student battles, monsters, curses, pirates, ninjas, or survival arcs.",
       "The hint is in its recurring anime language: transformations, squads, tournaments, forbidden abilities, or painful backstories."
-    ]
+    ],
+    "tmdb_id": 43865,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Psycho Pass",
+      "ar": "الممر النفسي",
+      "de": "Psycho-Pass",
+      "el": "Psycho-Pass",
+      "es": "Psycho-Pass",
+      "fr": "Psycho-Pass",
+      "he": "פסיכו-פס",
+      "hi": "Psycho Pass",
+      "ja": "Psycho Pass",
+      "ko": "사이코패스",
+      "ru": "Психопаспорт",
+      "zh": "心靈判官"
+    }
   },
   {
     "celebrity": "The Disastrous Life of Saiki K",
@@ -465,7 +1281,23 @@
       "Its clues draw from the power system, emotional stakes, rivalries, and visual motifs fans recognize.",
       "Think about the kind of setup it builds: student battles, monsters, curses, pirates, ninjas, or survival arcs.",
       "The hint is in its recurring anime language: transformations, squads, tournaments, forbidden abilities, or painful backstories."
-    ]
+    ],
+    "tmdb_id": 67676,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "The Disastrous Life of Saiki K",
+      "ar": "The Disastrous Life of Saiki K",
+      "de": "The Disastrous Life of Saiki K.",
+      "el": "Η Καταστροφική Ζωή του Σάικι Κ.",
+      "es": "Saiki Kusuo no Ψ-nan",
+      "fr": "The Disastrous Life of Saiki K.",
+      "he": "חייו הרי-האסון של סאיקי ק'",
+      "hi": "The Disastrous Life of Saiki K",
+      "ja": "The Disastrous Life of Saiki K",
+      "ko": "사이키 쿠스오의 재난",
+      "ru": "Ох, уж этот экстрасенс Сайки Кусуо!",
+      "zh": "齊木楠雄的災難"
+    }
   },
   {
     "celebrity": "Hyouka",
@@ -474,7 +1306,23 @@
       "Its clues draw from the power system, emotional stakes, rivalries, and visual motifs fans recognize.",
       "Think about the kind of setup it builds: student battles, monsters, curses, pirates, ninjas, or survival arcs.",
       "The hint is in its recurring anime language: transformations, squads, tournaments, forbidden abilities, or painful backstories."
-    ]
+    ],
+    "tmdb_id": 65329,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Hyouka",
+      "ar": "Hyouka",
+      "de": "Hyouka",
+      "el": "Hyouka",
+      "es": "Hyouka",
+      "fr": "Hyouka",
+      "he": "היוקה",
+      "hi": "Hyouka",
+      "ja": "氷菓",
+      "ko": "빙과",
+      "ru": "Хёка",
+      "zh": "冰菓"
+    }
   },
   {
     "celebrity": "Bakemonogatari",
@@ -483,7 +1331,23 @@
       "Its clues draw from the power system, emotional stakes, rivalries, and visual motifs fans recognize.",
       "Think about the kind of setup it builds: student battles, monsters, curses, pirates, ninjas, or survival arcs.",
       "The hint is in its recurring anime language: transformations, squads, tournaments, forbidden abilities, or painful backstories."
-    ]
+    ],
+    "tmdb_id": 46195,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Bakemonogatari",
+      "ar": "Bakemonogatari",
+      "de": "Monogatari",
+      "el": "Bakemonogatari",
+      "es": "Monogatari",
+      "fr": "Monogatari",
+      "he": "Bakemonogatari",
+      "hi": "Bakemonogatari",
+      "ja": "Bakemonogatari",
+      "ko": "바케모노가타리",
+      "ru": "Истории монстров",
+      "zh": "化物語"
+    }
   },
   {
     "celebrity": "Tower of God",
@@ -492,7 +1356,23 @@
       "Its clues draw from the power system, emotional stakes, rivalries, and visual motifs fans recognize.",
       "Think about the kind of setup it builds: student battles, monsters, curses, pirates, ninjas, or survival arcs.",
       "The hint is in its recurring anime language: transformations, squads, tournaments, forbidden abilities, or painful backstories."
-    ]
+    ],
+    "tmdb_id": 97860,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Tower of God",
+      "ar": "برج السماء",
+      "de": "Tower of God",
+      "el": "Tower of God",
+      "es": "Tower of God",
+      "fr": "Tower of God",
+      "he": "מגדל האל",
+      "hi": "Tower of God",
+      "ja": "Tower of God",
+      "ko": "신의 탑",
+      "ru": "Башня Бога",
+      "zh": "神之塔"
+    }
   },
   {
     "celebrity": "Monster",
@@ -501,7 +1381,23 @@
       "Its clues draw from the power system, emotional stakes, rivalries, and visual motifs fans recognize.",
       "Think about the kind of setup it builds: student battles, monsters, curses, pirates, ninjas, or survival arcs.",
       "The hint is in its recurring anime language: transformations, squads, tournaments, forbidden abilities, or painful backstories."
-    ]
+    ],
+    "tmdb_id": 30981,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Monster",
+      "ar": "الوحش",
+      "de": "MONSTER",
+      "el": "Monster",
+      "es": "Monster",
+      "fr": "Monster",
+      "he": "מפלצת",
+      "hi": "Monster",
+      "ja": "Monster",
+      "ko": "몬스터",
+      "ru": "Монстр",
+      "zh": "魔剎"
+    }
   },
   {
     "celebrity": "Puella Magi Madoka Magica",
@@ -510,7 +1406,23 @@
       "Its clues draw from the power system, emotional stakes, rivalries, and visual motifs fans recognize.",
       "Think about the kind of setup it builds: student battles, monsters, curses, pirates, ninjas, or survival arcs.",
       "The hint is in its recurring anime language: transformations, squads, tournaments, forbidden abilities, or painful backstories."
-    ]
+    ],
+    "tmdb_id": 39218,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Puella Magi Madoka Magica",
+      "ar": "الفتاة الساحرة مادوكا ماجيكا",
+      "de": "Puella Magi Madoka Magica",
+      "el": "Puella Magi Madoka Magica",
+      "es": "Puella Magi Madoka Magica",
+      "fr": "Puella Magi Madoka★Magica",
+      "he": "הנערה הקסומה מאדוקה☆מאגיקה",
+      "hi": "Puella Magi Madoka Magica",
+      "ja": "魔法少女まどか☆マギカ",
+      "ko": "마법소녀 마도카☆마기카",
+      "ru": "Волшебница Мадока Магика",
+      "zh": "魔法少女小圓"
+    }
   },
   {
     "celebrity": "Oshi No Ko",
@@ -519,7 +1431,23 @@
       "Its clues draw from the power system, emotional stakes, rivalries, and visual motifs fans recognize.",
       "Think about the kind of setup it builds: student battles, monsters, curses, pirates, ninjas, or survival arcs.",
       "The hint is in its recurring anime language: transformations, squads, tournaments, forbidden abilities, or painful backstories."
-    ]
+    ],
+    "tmdb_id": 203737,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Oshi No Ko",
+      "ar": "Oshi No Ko",
+      "de": "[Oshi No Ko] - [Mein*Star]",
+      "el": "Oshi No Ko",
+      "es": "Oshi no Ko",
+      "fr": "Oshi no Ko",
+      "he": "אושי נו קו",
+      "hi": "Oshi No Ko",
+      "ja": "Oshi No Ko",
+      "ko": "【최애의 아이】",
+      "ru": "Звёздное дитя",
+      "zh": "【我推的孩子】"
+    }
   },
   {
     "celebrity": "To Your Eternity",
@@ -528,7 +1456,23 @@
       "Its clues draw from the power system, emotional stakes, rivalries, and visual motifs fans recognize.",
       "Think about the kind of setup it builds: student battles, monsters, curses, pirates, ninjas, or survival arcs.",
       "The hint is in its recurring anime language: transformations, squads, tournaments, forbidden abilities, or painful backstories."
-    ]
+    ],
+    "tmdb_id": 97525,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "To Your Eternity",
+      "ar": "إلى أبديتك",
+      "de": "To Your Eternity",
+      "el": "To Your Eternity",
+      "es": "To Your Eternity",
+      "fr": "To Your Eternity",
+      "he": "אל הנצח שלך",
+      "hi": "To Your Eternity",
+      "ja": "不滅のあなたへ",
+      "ko": "불멸의 그대에게",
+      "ru": "Для тебя, Бессмертный",
+      "zh": "給不滅的你"
+    }
   },
   {
     "celebrity": "Banana Fish",
@@ -537,7 +1481,23 @@
       "Its clues draw from the power system, emotional stakes, rivalries, and visual motifs fans recognize.",
       "Think about the kind of setup it builds: student battles, monsters, curses, pirates, ninjas, or survival arcs.",
       "The hint is in its recurring anime language: transformations, squads, tournaments, forbidden abilities, or painful backstories."
-    ]
+    ],
+    "tmdb_id": 80564,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Banana Fish",
+      "ar": "Banana Fish",
+      "de": "Banana Fish",
+      "el": "Banana Fish",
+      "es": "Banana Fish",
+      "fr": "Banana Fish",
+      "he": "דגי בננה",
+      "hi": "Banana Fish",
+      "ja": "Banana Fish",
+      "ko": "바나나 피쉬",
+      "ru": "Банановая рыба",
+      "zh": "戰栗殺機"
+    }
   },
   {
     "celebrity": "Blue Lock",
@@ -546,7 +1506,23 @@
       "Its clues draw from the power system, emotional stakes, rivalries, and visual motifs fans recognize.",
       "Think about the kind of setup it builds: student battles, monsters, curses, pirates, ninjas, or survival arcs.",
       "The hint is in its recurring anime language: transformations, squads, tournaments, forbidden abilities, or painful backstories."
-    ]
+    ],
+    "tmdb_id": 131041,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Blue Lock",
+      "ar": "القفل الأزرق",
+      "de": "BLUE LOCK",
+      "el": "Blue Lock",
+      "es": "BLUELOCK",
+      "fr": "Blue Lock",
+      "he": "בלו לוק",
+      "hi": "Blue Lock",
+      "ja": "Blue Lock",
+      "ko": "블루 록",
+      "ru": "Синяя тюрьма: Блю Лок",
+      "zh": "藍色監獄"
+    }
   },
   {
     "celebrity": "The Quintessential Quintuplets",
@@ -555,7 +1531,23 @@
       "Its clues draw from the power system, emotional stakes, rivalries, and visual motifs fans recognize.",
       "Think about the kind of setup it builds: student battles, monsters, curses, pirates, ninjas, or survival arcs.",
       "The hint is in its recurring anime language: transformations, squads, tournaments, forbidden abilities, or painful backstories."
-    ]
+    ],
+    "tmdb_id": 84669,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "The Quintessential Quintuplets",
+      "ar": "The Quintessential Quintuplets",
+      "de": "The Quintessential Quintuplets",
+      "el": "The Quintessential Quintuplets",
+      "es": "The Quintessential Quintuplets (Go-Toubun no Hanayome)",
+      "fr": "The Quintessential Quintuplets",
+      "he": "החמישייה המשוכללת",
+      "hi": "The Quintessential Quintuplets",
+      "ja": "The Quintessential Quintuplets",
+      "ko": "5등분의 신부",
+      "ru": "Пять невест",
+      "zh": "五等分的新娘"
+    }
   },
   {
     "celebrity": "86 Eighty Six",
@@ -564,7 +1556,23 @@
       "Its clues draw from the power system, emotional stakes, rivalries, and visual motifs fans recognize.",
       "Think about the kind of setup it builds: student battles, monsters, curses, pirates, ninjas, or survival arcs.",
       "The hint is in its recurring anime language: transformations, squads, tournaments, forbidden abilities, or painful backstories."
-    ]
+    ],
+    "tmdb_id": 100565,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "86 Eighty Six",
+      "ar": "86 - ستة وثمانون -",
+      "de": "86: Eighty Six",
+      "el": "86 Eighty Six",
+      "es": "86: Eighty-Six",
+      "fr": "86 Eighty Six",
+      "he": "שמונים ושש",
+      "hi": "86 Eighty Six",
+      "ja": "86 Eighty Six",
+      "ko": "86 에이티식스",
+      "ru": "Восемьдесят шесть",
+      "zh": "86 -不存在的戰區-"
+    }
   },
   {
     "celebrity": "Rent a Girlfriend",
@@ -573,7 +1581,23 @@
       "Its clues draw from the power system, emotional stakes, rivalries, and visual motifs fans recognize.",
       "Think about the kind of setup it builds: student battles, monsters, curses, pirates, ninjas, or survival arcs.",
       "The hint is in its recurring anime language: transformations, squads, tournaments, forbidden abilities, or painful backstories."
-    ]
+    ],
+    "tmdb_id": 96316,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Rent a Girlfriend",
+      "ar": "حبيبة للإيجار",
+      "de": "Rent-A-Girlfriend",
+      "el": "Rent a Girlfriend",
+      "es": "Rent-a-Girlfriend",
+      "fr": "Rent-a-Girlfriend",
+      "he": "חברה להשכרה",
+      "hi": "किराए पर प्रेमिका",
+      "ja": "Rent a Girlfriend",
+      "ko": "여친, 빌리겠습니다",
+      "ru": "Девушка на час",
+      "zh": "出租女友"
+    }
   },
   {
     "celebrity": "Goblin Slayer",
@@ -582,7 +1606,23 @@
       "Its clues draw from the power system, emotional stakes, rivalries, and visual motifs fans recognize.",
       "Think about the kind of setup it builds: student battles, monsters, curses, pirates, ninjas, or survival arcs.",
       "The hint is in its recurring anime language: transformations, squads, tournaments, forbidden abilities, or painful backstories."
-    ]
+    ],
+    "tmdb_id": 82591,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Goblin Slayer",
+      "ar": "قاتل العفاريت",
+      "de": "Goblin Slayer",
+      "el": "Goblin Slayer",
+      "es": "Goblin Slayer",
+      "fr": "Goblin Slayer",
+      "he": "קוטל הגובלינים",
+      "hi": "Goblin Slayer",
+      "ja": "Goblin Slayer",
+      "ko": "고블린 슬레이어",
+      "ru": "Убийца Гоблинов",
+      "zh": "哥布林殺手"
+    }
   },
   {
     "celebrity": "The God of High School",
@@ -591,7 +1631,23 @@
       "Its clues draw from the power system, emotional stakes, rivalries, and visual motifs fans recognize.",
       "Think about the kind of setup it builds: student battles, monsters, curses, pirates, ninjas, or survival arcs.",
       "The hint is in its recurring anime language: transformations, squads, tournaments, forbidden abilities, or painful backstories."
-    ]
+    ],
+    "tmdb_id": 99778,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "The God of High School",
+      "ar": "إله الثانوية",
+      "de": "The God of High School",
+      "el": "The God of High School",
+      "es": "The God of High School",
+      "fr": "The God of High School",
+      "he": "אל התיכון",
+      "hi": "The God of High School",
+      "ja": "The God of High School",
+      "ko": "갓 오브 하이스쿨",
+      "ru": "Бог старшей школы",
+      "zh": "高校之神"
+    }
   },
   {
     "celebrity": "Clannad",
@@ -600,7 +1656,23 @@
       "Its clues draw from the power system, emotional stakes, rivalries, and visual motifs fans recognize.",
       "Think about the kind of setup it builds: student battles, monsters, curses, pirates, ninjas, or survival arcs.",
       "The hint is in its recurring anime language: transformations, squads, tournaments, forbidden abilities, or painful backstories."
-    ]
+    ],
+    "tmdb_id": 24835,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Clannad",
+      "ar": "كلاناد",
+      "de": "Clannad",
+      "el": "Clannad",
+      "es": "Clannad",
+      "fr": "Clannad",
+      "he": "קלאנאד",
+      "hi": "Clannad",
+      "ja": "Clannad",
+      "ko": "클라나드",
+      "ru": "Кланнад",
+      "zh": "CLANNAD"
+    }
   },
   {
     "celebrity": "The Apothecary Diaries",
@@ -609,7 +1681,23 @@
       "Its clues draw from the power system, emotional stakes, rivalries, and visual motifs fans recognize.",
       "Think about the kind of setup it builds: student battles, monsters, curses, pirates, ninjas, or survival arcs.",
       "The hint is in its recurring anime language: transformations, squads, tournaments, forbidden abilities, or painful backstories."
-    ]
+    ],
+    "tmdb_id": 220542,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "The Apothecary Diaries",
+      "ar": "مذكرات الصيدلانية",
+      "de": "Die Tagebücher der Apothekerin",
+      "el": "The Apothecary Diaries",
+      "es": "Los diarios de la boticaria",
+      "fr": "Les Carnets de l'apothicaire",
+      "he": "יומני הרוקח",
+      "hi": "The Apothecary Diaries",
+      "ja": "The Apothecary Diaries",
+      "ko": "약사의 혼잣말",
+      "ru": "Монолог фармацевта",
+      "zh": "药屋少女的呢喃"
+    }
   },
   {
     "celebrity": "Gintama",
@@ -618,7 +1706,23 @@
       "Its clues draw from the power system, emotional stakes, rivalries, and visual motifs fans recognize.",
       "Think about the kind of setup it builds: student battles, monsters, curses, pirates, ninjas, or survival arcs.",
       "The hint is in its recurring anime language: transformations, squads, tournaments, forbidden abilities, or painful backstories."
-    ]
+    ],
+    "tmdb_id": 57041,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Gintama",
+      "ar": "Gintama",
+      "de": "Gintama",
+      "el": "Gintama",
+      "es": "Gintama",
+      "fr": "Gintama",
+      "he": "גינטאמה",
+      "hi": "Gintama",
+      "ja": "Gintama",
+      "ko": "은혼",
+      "ru": "Гинтама",
+      "zh": "銀魂"
+    }
   },
   {
     "celebrity": "Terror in Resonance",
@@ -627,7 +1731,23 @@
       "Its clues draw from the power system, emotional stakes, rivalries, and visual motifs fans recognize.",
       "Think about the kind of setup it builds: student battles, monsters, curses, pirates, ninjas, or survival arcs.",
       "The hint is in its recurring anime language: transformations, squads, tournaments, forbidden abilities, or painful backstories."
-    ]
+    ],
+    "tmdb_id": 61421,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Terror in Resonance",
+      "ar": "Terror in Resonance",
+      "de": "Terror in Tokio",
+      "el": "Terror in Resonance",
+      "es": "Terror in Resonance",
+      "fr": "Terror in Resonance",
+      "he": "תהודת הטרור",
+      "hi": "Terror in Resonance",
+      "ja": "残響のテロル",
+      "ko": "잔향의 테러",
+      "ru": "Эхо террора",
+      "zh": "東京殘響"
+    }
   },
   {
     "celebrity": "Wonder Egg Priority",
@@ -636,7 +1756,23 @@
       "Its clues draw from the power system, emotional stakes, rivalries, and visual motifs fans recognize.",
       "Think about the kind of setup it builds: student battles, monsters, curses, pirates, ninjas, or survival arcs.",
       "The hint is in its recurring anime language: transformations, squads, tournaments, forbidden abilities, or painful backstories."
-    ]
+    ],
+    "tmdb_id": 111255,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Wonder Egg Priority",
+      "ar": "Wonder Egg Priority",
+      "de": "Wonder Egg Priority",
+      "el": "Wonder Egg Priority",
+      "es": "Wonder Egg Priority",
+      "fr": "Wonder Egg Priority",
+      "he": "חשיבות ביצת הפלא",
+      "hi": "Wonder Egg Priority",
+      "ja": "Wonder Egg Priority",
+      "ko": "원더 에그 프라이어리티",
+      "ru": "Приоритет чудо-яйца",
+      "zh": "奇蛋物語 Wonder Egg Priority"
+    }
   },
   {
     "celebrity": "Beyond the Boundary",
@@ -645,7 +1781,23 @@
       "Its clues draw from the power system, emotional stakes, rivalries, and visual motifs fans recognize.",
       "Think about the kind of setup it builds: student battles, monsters, curses, pirates, ninjas, or survival arcs.",
       "The hint is in its recurring anime language: transformations, squads, tournaments, forbidden abilities, or painful backstories."
-    ]
+    ],
+    "tmdb_id": 61695,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Beyond the Boundary",
+      "ar": "Beyond the Boundary",
+      "de": "Beyond the Boundary",
+      "el": "Beyond the Boundary",
+      "es": "Kyoukai no Kanata",
+      "fr": "Beyond the Boundary",
+      "he": "Beyond the Boundary",
+      "hi": "Beyond the Boundary",
+      "ja": "境界の彼方",
+      "ko": "경계의 저편",
+      "ru": "За гранью",
+      "zh": "境界的彼方"
+    }
   },
   {
     "celebrity": "Samurai Champloo",
@@ -654,7 +1806,23 @@
       "Its clues draw from the power system, emotional stakes, rivalries, and visual motifs fans recognize.",
       "Think about the kind of setup it builds: student battles, monsters, curses, pirates, ninjas, or survival arcs.",
       "The hint is in its recurring anime language: transformations, squads, tournaments, forbidden abilities, or painful backstories."
-    ]
+    ],
+    "tmdb_id": 1063,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Samurai Champloo",
+      "ar": "ساموراي تشامبلو",
+      "de": "Samurai Champloo",
+      "el": "Samurai Champloo",
+      "es": "Samurai Champloo",
+      "fr": "Samurai Champloo",
+      "he": "סמוראי צ'מפלו",
+      "hi": "Samurai Champloo",
+      "ja": "Samurai Champloo",
+      "ko": "사무라이 참프루",
+      "ru": "Самурай Чамплу",
+      "zh": "混沌武士"
+    }
   },
   {
     "celebrity": "The Pet Girl of Sakurasou",
@@ -663,7 +1831,23 @@
       "Its clues draw from the power system, emotional stakes, rivalries, and visual motifs fans recognize.",
       "Think about the kind of setup it builds: student battles, monsters, curses, pirates, ninjas, or survival arcs.",
       "The hint is in its recurring anime language: transformations, squads, tournaments, forbidden abilities, or painful backstories."
-    ]
+    ],
+    "tmdb_id": 50325,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "The Pet Girl of Sakurasou",
+      "ar": "The Pet Girl of Sakurasou",
+      "de": "The Pet Girl of Sakurasou",
+      "el": "The Pet Girl of Sakurasou",
+      "es": "The Pet Girl of Sakurasou",
+      "fr": "Sakurasou no Pet na Kanojo",
+      "he": "The Pet Girl of Sakurasou",
+      "hi": "The Pet Girl of Sakurasou",
+      "ja": "The Pet Girl of Sakurasou",
+      "ko": "사쿠라장의 애완 그녀",
+      "ru": "Кошечка из «Сакурасо»",
+      "zh": "櫻花莊的寵物女孩"
+    }
   },
   {
     "celebrity": "Nisekoi",
@@ -672,7 +1856,23 @@
       "Its clues draw from the power system, emotional stakes, rivalries, and visual motifs fans recognize.",
       "Think about the kind of setup it builds: student battles, monsters, curses, pirates, ninjas, or survival arcs.",
       "The hint is in its recurring anime language: transformations, squads, tournaments, forbidden abilities, or painful backstories."
-    ]
+    ],
+    "tmdb_id": 62640,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Nisekoi",
+      "ar": "Nisekoi",
+      "de": "Nisekoi: Liebe, Lügen & Yakuza",
+      "el": "Nisekoi",
+      "es": "Nisekoi",
+      "fr": "Nisekoi",
+      "he": "אהבה מזויפת",
+      "hi": "Nisekoi",
+      "ja": "Nisekoi",
+      "ko": "니세코이",
+      "ru": "Притворная Любовь",
+      "zh": "偽戀"
+    }
   },
   {
     "celebrity": "Kaiju No 8",
@@ -681,7 +1881,23 @@
       "Its clues draw from the power system, emotional stakes, rivalries, and visual motifs fans recognize.",
       "Think about the kind of setup it builds: student battles, monsters, curses, pirates, ninjas, or survival arcs.",
       "The hint is in its recurring anime language: transformations, squads, tournaments, forbidden abilities, or painful backstories."
-    ]
+    ],
+    "tmdb_id": 207468,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Kaiju No 8",
+      "ar": "الوحش الثامن",
+      "de": "Kaiju No. 8",
+      "el": "Kaiju No 8",
+      "es": "Kaiju No. 8",
+      "fr": "Kaiju No. 8",
+      "he": "קאיג'ו מס' 8",
+      "hi": "Kaiju No 8",
+      "ja": "Kaiju No 8",
+      "ko": "괴수 8호",
+      "ru": "Кайдзю № 8",
+      "zh": "怪獸8號"
+    }
   },
   {
     "celebrity": "Fate Stay Night Unlimited Blade Works",
@@ -690,7 +1906,23 @@
       "Its clues draw from the power system, emotional stakes, rivalries, and visual motifs fans recognize.",
       "Think about the kind of setup it builds: student battles, monsters, curses, pirates, ninjas, or survival arcs.",
       "The hint is in its recurring anime language: transformations, squads, tournaments, forbidden abilities, or painful backstories."
-    ]
+    ],
+    "tmdb_id": 61415,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Fate Stay Night Unlimited Blade Works",
+      "ar": "القدر - ليلـة البقاء",
+      "de": "Fate/stay night: Unlimited Blade Works",
+      "el": "Fate Stay Night Unlimited Blade Works",
+      "es": "Fate/stay night [Unlimited Blade Works]",
+      "fr": "Fate Stay Night : Unlimited Blade Works",
+      "he": "פייט סטיי נייט: מלאכת חרבות אינסופית",
+      "hi": "Fate Stay Night Unlimited Blade Works",
+      "ja": "Fate Stay Night Unlimited Blade Works",
+      "ko": "페이트 / 스테이 나이트 [무한의 검제]",
+      "ru": "Судьба/Ночь схватки: Клинков бесконечный край",
+      "zh": "命運之夜 無限劍制"
+    }
   },
   {
     "celebrity": "Call of the Night",
@@ -699,7 +1931,23 @@
       "Its clues draw from the power system, emotional stakes, rivalries, and visual motifs fans recognize.",
       "Think about the kind of setup it builds: student battles, monsters, curses, pirates, ninjas, or survival arcs.",
       "The hint is in its recurring anime language: transformations, squads, tournaments, forbidden abilities, or painful backstories."
-    ]
+    ],
+    "tmdb_id": 138357,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Call of the Night",
+      "ar": ": نداء الليل (Yofukashi no Uta)",
+      "de": "Call of the Night",
+      "el": "Call of the Night",
+      "es": "Call of the Night",
+      "fr": "Call of the Night",
+      "he": "קריאת הלילה",
+      "hi": "Call of the Night",
+      "ja": "Call of the Night",
+      "ko": "철야의 노래",
+      "ru": "Песнь ночных сов",
+      "zh": "徹夜之歌"
+    }
   },
   {
     "celebrity": "Fullmetal Alchemist",
@@ -708,7 +1956,23 @@
       "Its clues draw from the power system, emotional stakes, rivalries, and visual motifs fans recognize.",
       "Think about the kind of setup it builds: student battles, monsters, curses, pirates, ninjas, or survival arcs.",
       "The hint is in its recurring anime language: transformations, squads, tournaments, forbidden abilities, or painful backstories."
-    ]
+    ],
+    "tmdb_id": 37863,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Fullmetal Alchemist",
+      "ar": "الخيميائي الفولاذي الكامل",
+      "de": "Fullmetal Alchemist",
+      "el": "Fullmetal Alchemist",
+      "es": "FullMetal Alchemist",
+      "fr": "Fullmetal Alchemist",
+      "he": "אלכימאי המתכת",
+      "hi": "Fullmetal Alchemist",
+      "ja": "Fullmetal Alchemist",
+      "ko": "강철의 연금술사",
+      "ru": "Стальной алхимик",
+      "zh": "鋼之鍊金術師"
+    }
   },
   {
     "celebrity": "Saga of Tanya the Evil",
@@ -717,7 +1981,23 @@
       "Its clues draw from the power system, emotional stakes, rivalries, and visual motifs fans recognize.",
       "Think about the kind of setup it builds: student battles, monsters, curses, pirates, ninjas, or survival arcs.",
       "The hint is in its recurring anime language: transformations, squads, tournaments, forbidden abilities, or painful backstories."
-    ]
+    ],
+    "tmdb_id": 69346,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Saga of Tanya the Evil",
+      "ar": "يوجو سنكاي: ملحمة تانيا",
+      "de": "Saga of Tanya the Evil",
+      "el": "Saga of Tanya the Evil",
+      "es": "Saga of Tanya The Evil",
+      "fr": "Saga of Tanya the Evil",
+      "he": "מלחמתה של ילדה קטנה: הסאגה של טניה המרשעת",
+      "hi": "Saga of Tanya the Evil",
+      "ja": "Saga of Tanya the Evil",
+      "ko": "유녀전기",
+      "ru": "Военная хроника маленькой девочки",
+      "zh": "幼女戰記"
+    }
   },
   {
     "celebrity": "Golden Time",
@@ -726,7 +2006,23 @@
       "Its clues draw from the power system, emotional stakes, rivalries, and visual motifs fans recognize.",
       "Think about the kind of setup it builds: student battles, monsters, curses, pirates, ninjas, or survival arcs.",
       "The hint is in its recurring anime language: transformations, squads, tournaments, forbidden abilities, or painful backstories."
-    ]
+    ],
+    "tmdb_id": 67389,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Golden Time",
+      "ar": "Golden Time",
+      "de": "Golden Time",
+      "el": "Golden Time",
+      "es": "Golden Time",
+      "fr": "Golden Time",
+      "he": "גולדן טיים",
+      "hi": "Golden Time",
+      "ja": "Golden Time",
+      "ko": "골든 타임",
+      "ru": "Золотая пора",
+      "zh": "青春紀行"
+    }
   },
   {
     "celebrity": "Beastars",
@@ -735,7 +2031,23 @@
       "Its clues draw from the power system, emotional stakes, rivalries, and visual motifs fans recognize.",
       "Think about the kind of setup it builds: student battles, monsters, curses, pirates, ninjas, or survival arcs.",
       "The hint is in its recurring anime language: transformations, squads, tournaments, forbidden abilities, or painful backstories."
-    ]
+    ],
+    "tmdb_id": 90937,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Beastars",
+      "ar": "براءة ذئب",
+      "de": "Beastars",
+      "el": "Beastars",
+      "es": "Beastars",
+      "fr": "Beastars",
+      "he": "חייתיים",
+      "hi": "Beastars",
+      "ja": "Beastars",
+      "ko": "비스타즈",
+      "ru": "Выдающиеся звери",
+      "zh": "动物狂想曲"
+    }
   },
   {
     "celebrity": "Black Butler",
@@ -744,7 +2056,23 @@
       "Its clues draw from the power system, emotional stakes, rivalries, and visual motifs fans recognize.",
       "Think about the kind of setup it builds: student battles, monsters, curses, pirates, ninjas, or survival arcs.",
       "The hint is in its recurring anime language: transformations, squads, tournaments, forbidden abilities, or painful backstories."
-    ]
+    ],
+    "tmdb_id": 50712,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Black Butler",
+      "ar": "Black Butler",
+      "de": "Black Butler",
+      "el": "Black Butler",
+      "es": "Black Butler",
+      "fr": "Black Butler",
+      "he": "המשרת השחור",
+      "hi": "Black Butler",
+      "ja": "Black Butler",
+      "ko": "흑집사",
+      "ru": "Темный дворецкий",
+      "zh": "黑執事"
+    }
   },
   {
     "celebrity": "The Irregular at Magic High School",
@@ -753,7 +2081,23 @@
       "Its clues draw from the power system, emotional stakes, rivalries, and visual motifs fans recognize.",
       "Think about the kind of setup it builds: student battles, monsters, curses, pirates, ninjas, or survival arcs.",
       "The hint is in its recurring anime language: transformations, squads, tournaments, forbidden abilities, or painful backstories."
-    ]
+    ],
+    "tmdb_id": 60833,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "The Irregular at Magic High School",
+      "ar": "The Irregular at Magic High School",
+      "de": "The Irregular at Magic High School",
+      "el": "The Irregular at Magic High School",
+      "es": "Mahouka Koukou no Rettousei",
+      "fr": "The Irregular at Magic High School",
+      "he": "החריג בתיכון הקסם",
+      "hi": "The Irregular at Magic High School",
+      "ja": "The Irregular at Magic High School",
+      "ko": "마법과고교의 열등생",
+      "ru": "Непутевый ученик в школе магии",
+      "zh": "魔法科高中的劣等生"
+    }
   },
   {
     "celebrity": "Plastic Memories",
@@ -762,7 +2106,23 @@
       "Its clues draw from the power system, emotional stakes, rivalries, and visual motifs fans recognize.",
       "Think about the kind of setup it builds: student battles, monsters, curses, pirates, ninjas, or survival arcs.",
       "The hint is in its recurring anime language: transformations, squads, tournaments, forbidden abilities, or painful backstories."
-    ]
+    ],
+    "tmdb_id": 62450,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Plastic Memories",
+      "ar": "Plastic Memories",
+      "de": "Plastic Memories",
+      "el": "Plastic Memories",
+      "es": "Plastic Memories",
+      "fr": "Plastic Memories",
+      "he": "זיכרונות מפלסטיק",
+      "hi": "Plastic Memories",
+      "ja": "Plastic Memories",
+      "ko": "플라스틱 메모리즈",
+      "ru": "Пластиковые воспоминания",
+      "zh": "可塑性記憶"
+    }
   },
   {
     "celebrity": "Dragon Ball Z",
@@ -771,7 +2131,23 @@
       "Its clues draw from the power system, emotional stakes, rivalries, and visual motifs fans recognize.",
       "Think about the kind of setup it builds: student battles, monsters, curses, pirates, ninjas, or survival arcs.",
       "The hint is in its recurring anime language: transformations, squads, tournaments, forbidden abilities, or painful backstories."
-    ]
+    ],
+    "tmdb_id": 12971,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Dragon Ball Z",
+      "ar": "دراغون بول زد",
+      "de": "Dragonball Z",
+      "el": "Dragon Ball Z",
+      "es": "Dragon Ball Z",
+      "fr": "Dragon Ball Z",
+      "he": "דרגון בול זי",
+      "hi": "Dragon Ball Z",
+      "ja": "Dragon Ball Z",
+      "ko": "드래곤볼 Z",
+      "ru": "Драконий жемчуг Зет",
+      "zh": "龍珠二世"
+    }
   },
   {
     "celebrity": "Ouran High School Host Club",
@@ -780,7 +2156,23 @@
       "Its clues draw from the power system, emotional stakes, rivalries, and visual motifs fans recognize.",
       "Think about the kind of setup it builds: student battles, monsters, curses, pirates, ninjas, or survival arcs.",
       "The hint is in its recurring anime language: transformations, squads, tournaments, forbidden abilities, or painful backstories."
-    ]
+    ],
+    "tmdb_id": 1043,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Ouran High School Host Club",
+      "ar": "Ouran High School Host Club",
+      "de": "Ouran High School Host Club",
+      "el": "Ouran High School Host Club",
+      "es": "Ouran High School Host Club",
+      "fr": "Ouran High School Host Club",
+      "he": "מועדון האירוח של תיכון אוראן",
+      "hi": "Ouran High School Host Club",
+      "ja": "Ouran High School Host Club",
+      "ko": "오란고교 호스트부",
+      "ru": "Хост-клуб Оранской школы",
+      "zh": "櫻蘭高校男公關部"
+    }
   },
   {
     "celebrity": "Deadman Wonderland",
@@ -789,7 +2181,23 @@
       "Its clues draw from the power system, emotional stakes, rivalries, and visual motifs fans recognize.",
       "Think about the kind of setup it builds: student battles, monsters, curses, pirates, ninjas, or survival arcs.",
       "The hint is in its recurring anime language: transformations, squads, tournaments, forbidden abilities, or painful backstories."
-    ]
+    ],
+    "tmdb_id": 42503,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Deadman Wonderland",
+      "ar": "Deadman Wonderland",
+      "de": "Deadman Wonderland",
+      "el": "Deadman Wonderland",
+      "es": "Deadman Wonderland",
+      "fr": "Deadman Wonderland",
+      "he": "דדמן וונדרלנד",
+      "hi": "Deadman Wonderland",
+      "ja": "Deadman Wonderland",
+      "ko": "데드맨 원더랜드",
+      "ru": "Страна чудес смертников",
+      "zh": "死囚樂園"
+    }
   },
   {
     "celebrity": "Black Lagoon",
@@ -798,7 +2206,23 @@
       "Its clues draw from the power system, emotional stakes, rivalries, and visual motifs fans recognize.",
       "Think about the kind of setup it builds: student battles, monsters, curses, pirates, ninjas, or survival arcs.",
       "The hint is in its recurring anime language: transformations, squads, tournaments, forbidden abilities, or painful backstories."
-    ]
+    ],
+    "tmdb_id": 12598,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Black Lagoon",
+      "ar": "البحيرة السوداء",
+      "de": "Black Lagoon",
+      "el": "Black Lagoon",
+      "es": "Black Lagoon",
+      "fr": "Black Lagoon",
+      "he": "הלגונה השחורה",
+      "hi": "Black Lagoon",
+      "ja": "Black Lagoon",
+      "ko": "블랙 라군",
+      "ru": "Пираты «Чёрной лагуны»",
+      "zh": "黑礁"
+    }
   },
   {
     "celebrity": "Serial Experiments Lain",
@@ -807,7 +2231,23 @@
       "Its clues draw from the power system, emotional stakes, rivalries, and visual motifs fans recognize.",
       "Think about the kind of setup it builds: student battles, monsters, curses, pirates, ninjas, or survival arcs.",
       "The hint is in its recurring anime language: transformations, squads, tournaments, forbidden abilities, or painful backstories."
-    ]
+    ],
+    "tmdb_id": 1087,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Serial Experiments Lain",
+      "ar": "تجارب لاين المتسلسلة",
+      "de": "Serial Experiments Lain",
+      "el": "Serial Experiments Lain",
+      "es": "Serial Experiments Lain",
+      "fr": "Serial Experiments Lain",
+      "he": "סדרת הניסויים ליין",
+      "hi": "Serial Experiments Lain",
+      "ja": "serial experiments lain",
+      "ko": "시리얼 익스페리먼츠 레인",
+      "ru": "Эксперименты Лэйн",
+      "zh": "玲音"
+    }
   },
   {
     "celebrity": "Blue Spring Ride",
@@ -816,7 +2256,23 @@
       "Its clues draw from the power system, emotional stakes, rivalries, and visual motifs fans recognize.",
       "Think about the kind of setup it builds: student battles, monsters, curses, pirates, ninjas, or survival arcs.",
       "The hint is in its recurring anime language: transformations, squads, tournaments, forbidden abilities, or painful backstories."
-    ]
+    ],
+    "tmdb_id": 62602,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Blue Spring Ride",
+      "ar": "Blue Spring Ride",
+      "de": "Blue Spring Ride",
+      "el": "Blue Spring Ride",
+      "es": "Ao Haru Ride",
+      "fr": "Blue Spring Ride",
+      "he": "Blue Spring Ride",
+      "hi": "Blue Spring Ride",
+      "ja": "Blue Spring Ride",
+      "ko": "아오하라이드",
+      "ru": "Дорога юности",
+      "zh": "閃爍的青春"
+    }
   },
   {
     "celebrity": "Guilty Crown",
@@ -825,7 +2281,23 @@
       "Its clues draw from the power system, emotional stakes, rivalries, and visual motifs fans recognize.",
       "Think about the kind of setup it builds: student battles, monsters, curses, pirates, ninjas, or survival arcs.",
       "The hint is in its recurring anime language: transformations, squads, tournaments, forbidden abilities, or painful backstories."
-    ]
+    ],
+    "tmdb_id": 43125,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Guilty Crown",
+      "ar": "المُلك المُدان",
+      "de": "Guilty Crown",
+      "el": "Ένοχο Στέμμα",
+      "es": "Guilty Crown",
+      "fr": "Guilty Crown",
+      "he": "כתר האשמה",
+      "hi": "Guilty Crown",
+      "ja": "Guilty Crown",
+      "ko": "길티 크라운",
+      "ru": "Корона грешника",
+      "zh": "罪惡王冠"
+    }
   },
   {
     "celebrity": "Nichijou My Ordinary Life",
@@ -834,7 +2306,23 @@
       "Its clues draw from the power system, emotional stakes, rivalries, and visual motifs fans recognize.",
       "Think about the kind of setup it builds: student battles, monsters, curses, pirates, ninjas, or survival arcs.",
       "The hint is in its recurring anime language: transformations, squads, tournaments, forbidden abilities, or painful backstories."
-    ]
+    ],
+    "tmdb_id": 44684,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Nichijou My Ordinary Life",
+      "ar": "Nichijou My Ordinary Life",
+      "de": "Nichijou – Das ganz normale Leben",
+      "el": "Nichijou My Ordinary Life",
+      "es": "Nichijou",
+      "fr": "Nichijô - My ordinary life",
+      "he": "ניצ'יג'ו - חיי היום יום שלי",
+      "hi": "Nichijou My Ordinary Life",
+      "ja": "Nichijou My Ordinary Life",
+      "ko": "일상",
+      "ru": "Мелочи жизни",
+      "zh": "日常"
+    }
   },
   {
     "celebrity": "Toilet Bound Hanako Kun",
@@ -843,7 +2331,23 @@
       "Its clues draw from the power system, emotional stakes, rivalries, and visual motifs fans recognize.",
       "Think about the kind of setup it builds: student battles, monsters, curses, pirates, ninjas, or survival arcs.",
       "The hint is in its recurring anime language: transformations, squads, tournaments, forbidden abilities, or painful backstories."
-    ]
+    ],
+    "tmdb_id": 95269,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Toilet Bound Hanako Kun",
+      "ar": "هاناكو-كن شبح الحمام",
+      "de": "Mein Schulgeist Hanako",
+      "el": "Toilet Bound Hanako Kun",
+      "es": "Toilet-bound Hanako-kun",
+      "fr": "Toilet-Bound  Hanako-Kun",
+      "he": "האנאקו-קון רודף השירותים",
+      "hi": "Toilet Bound Hanako Kun",
+      "ja": "Toilet Bound Hanako Kun",
+      "ko": "지박소년 하나코 군",
+      "ru": "Туалетный мальчик Ханако",
+      "zh": "地縛少年花子君"
+    }
   },
   {
     "celebrity": "Log Horizon",
@@ -852,7 +2356,23 @@
       "Its clues draw from the power system, emotional stakes, rivalries, and visual motifs fans recognize.",
       "Think about the kind of setup it builds: student battles, monsters, curses, pirates, ninjas, or survival arcs.",
       "The hint is in its recurring anime language: transformations, squads, tournaments, forbidden abilities, or painful backstories."
-    ]
+    ],
+    "tmdb_id": 60846,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Log Horizon",
+      "ar": "Log Horizon",
+      "de": "Log Horizon",
+      "el": "Log Horizon",
+      "es": "Log Horizon",
+      "fr": "Log Horizon",
+      "he": "לוג הוריזון",
+      "hi": "Log Horizon",
+      "ja": "ログ・ホライズン",
+      "ko": "로그 호라이즌",
+      "ru": "Код доступа горизонт",
+      "zh": "記錄的地平線"
+    }
   },
   {
     "celebrity": "Sk8 the Infinity",
@@ -861,7 +2381,23 @@
       "Its clues draw from the power system, emotional stakes, rivalries, and visual motifs fans recognize.",
       "Think about the kind of setup it builds: student battles, monsters, curses, pirates, ninjas, or survival arcs.",
       "The hint is in its recurring anime language: transformations, squads, tournaments, forbidden abilities, or painful backstories."
-    ]
+    ],
+    "tmdb_id": 110309,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Sk8 the Infinity",
+      "ar": "Sk8 the Infinity",
+      "de": "SK8 the Infinity",
+      "el": "Sk8 the Infinity",
+      "es": "SK8 the Infinity",
+      "fr": "SK8 the Infinity",
+      "he": "סקייטבורד נצחי",
+      "hi": "Sk8 the Infinity",
+      "ja": "Sk8 the Infinity",
+      "ko": "SK∞ 에스케이 에이트",
+      "ru": "Скейт: Бесконечность",
+      "zh": "無限滑板"
+    }
   },
   {
     "celebrity": "Orange",
@@ -870,7 +2406,23 @@
       "Its clues draw from the power system, emotional stakes, rivalries, and visual motifs fans recognize.",
       "Think about the kind of setup it builds: student battles, monsters, curses, pirates, ninjas, or survival arcs.",
       "The hint is in its recurring anime language: transformations, squads, tournaments, forbidden abilities, or painful backstories."
-    ]
+    ],
+    "tmdb_id": 66958,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Orange",
+      "ar": "Orange",
+      "de": "Orange",
+      "el": "Orange",
+      "es": "Orange",
+      "fr": "Orange",
+      "he": "Orange",
+      "hi": "Orange",
+      "ja": "Orange",
+      "ko": "오렌지",
+      "ru": "Апельсин",
+      "zh": "Orange 橘色奇蹟"
+    }
   },
   {
     "celebrity": "Dragon Ball",
@@ -879,7 +2431,23 @@
       "Its clues draw from the power system, emotional stakes, rivalries, and visual motifs fans recognize.",
       "Think about the kind of setup it builds: student battles, monsters, curses, pirates, ninjas, or survival arcs.",
       "The hint is in its recurring anime language: transformations, squads, tournaments, forbidden abilities, or painful backstories."
-    ]
+    ],
+    "tmdb_id": 12609,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Dragon Ball",
+      "ar": "دراغون بول",
+      "de": "Dragonball",
+      "el": "Dragonball",
+      "es": "Dragon Ball",
+      "fr": "Dragon Ball",
+      "he": "דרגון בול",
+      "hi": "Dragon Ball",
+      "ja": "Dragon Ball",
+      "ko": "드래곤볼",
+      "ru": "Драконий жемчуг",
+      "zh": "龍珠"
+    }
   },
   {
     "celebrity": "Blood Blockade Battlefront",
@@ -888,7 +2456,23 @@
       "Its clues draw from the power system, emotional stakes, rivalries, and visual motifs fans recognize.",
       "Think about the kind of setup it builds: student battles, monsters, curses, pirates, ninjas, or survival arcs.",
       "The hint is in its recurring anime language: transformations, squads, tournaments, forbidden abilities, or painful backstories."
-    ]
+    ],
+    "tmdb_id": 62327,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Blood Blockade Battlefront",
+      "ar": "حصار الدم جبهة القتال",
+      "de": "Blood Blockade Battlefront",
+      "el": "Blood Blockade Battlefront",
+      "es": "Blood Blockade Battlefront",
+      "fr": "Blood Blockade Battlefront",
+      "he": "מצור הדמים",
+      "hi": "Blood Blockade Battlefront",
+      "ja": "Blood Blockade Battlefront",
+      "ko": "혈계전선",
+      "ru": "Фронт кровавой блокады",
+      "zh": "血界戰線"
+    }
   },
   {
     "celebrity": "Grand Blue Dreaming",
@@ -897,7 +2481,23 @@
       "Its clues draw from the power system, emotional stakes, rivalries, and visual motifs fans recognize.",
       "Think about the kind of setup it builds: student battles, monsters, curses, pirates, ninjas, or survival arcs.",
       "The hint is in its recurring anime language: transformations, squads, tournaments, forbidden abilities, or painful backstories."
-    ]
+    ],
+    "tmdb_id": 79166,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Grand Blue Dreaming",
+      "ar": "Grand Blue Dreaming",
+      "de": "Grand Blue Dreaming",
+      "el": "Grand Blue Dreaming",
+      "es": "Grand Blue",
+      "fr": "Grand Blue Dreaming",
+      "he": "Grand Blue Dreaming",
+      "hi": "Grand Blue Dreaming",
+      "ja": "Grand Blue Dreaming",
+      "ko": "그랑블루",
+      "ru": "Необъятный океан",
+      "zh": "碧藍之海"
+    }
   },
   {
     "celebrity": "Ranking of Kings",
@@ -906,7 +2506,23 @@
       "Its clues draw from the power system, emotional stakes, rivalries, and visual motifs fans recognize.",
       "Think about the kind of setup it builds: student battles, monsters, curses, pirates, ninjas, or survival arcs.",
       "The hint is in its recurring anime language: transformations, squads, tournaments, forbidden abilities, or painful backstories."
-    ]
+    ],
+    "tmdb_id": 112613,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Ranking of Kings",
+      "ar": "تقييم الملوك",
+      "de": "Ranking of Kings",
+      "el": "Ranking of Kings",
+      "es": "Ranking of Kings",
+      "fr": "Ranking of Kings",
+      "he": "דרגות המלכים",
+      "hi": "Ranking of Kings",
+      "ja": "Ranking of Kings",
+      "ko": "임금님 랭킹",
+      "ru": "Рейтинг короля",
+      "zh": "國王排名"
+    }
   },
   {
     "celebrity": "Gachiakuta",
@@ -915,7 +2531,23 @@
       "Its clues draw from the power system, emotional stakes, rivalries, and visual motifs fans recognize.",
       "Think about the kind of setup it builds: student battles, monsters, curses, pirates, ninjas, or survival arcs.",
       "The hint is in its recurring anime language: transformations, squads, tournaments, forbidden abilities, or painful backstories."
-    ]
+    ],
+    "tmdb_id": 256721,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Gachiakuta",
+      "ar": "Gachiakuta",
+      "de": "Gachiakuta",
+      "el": "Gachiakuta",
+      "es": "Gachiakuta",
+      "fr": "Gachiakuta",
+      "he": "גאצ'יאקוטה",
+      "hi": "Gachiakuta",
+      "ja": "Gachiakuta",
+      "ko": "가치아쿠타",
+      "ru": "Гачиакута",
+      "zh": "咔嗒咔嗒"
+    }
   },
   {
     "celebrity": "Angels of Death",
@@ -924,7 +2556,23 @@
       "Its clues draw from the power system, emotional stakes, rivalries, and visual motifs fans recognize.",
       "Think about the kind of setup it builds: student battles, monsters, curses, pirates, ninjas, or survival arcs.",
       "The hint is in its recurring anime language: transformations, squads, tournaments, forbidden abilities, or painful backstories."
-    ]
+    ],
+    "tmdb_id": 80477,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Angels of Death",
+      "ar": "Angels of Death",
+      "de": "Angels of Death",
+      "el": "Angels of Death",
+      "es": "Angels of Death",
+      "fr": "Angels of Death",
+      "he": "מלאכי המוות",
+      "hi": "Angels of Death",
+      "ja": "Angels of Death",
+      "ko": "살육의 천사",
+      "ru": "Ангел резни",
+      "zh": "殺戮的天使"
+    }
   },
   {
     "celebrity": "Summer Time Rendering",
@@ -933,7 +2581,23 @@
       "Its clues draw from the power system, emotional stakes, rivalries, and visual motifs fans recognize.",
       "Think about the kind of setup it builds: student battles, monsters, curses, pirates, ninjas, or survival arcs.",
       "The hint is in its recurring anime language: transformations, squads, tournaments, forbidden abilities, or painful backstories."
-    ]
+    ],
+    "tmdb_id": 117933,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Summer Time Rendering",
+      "ar": "Summer Time Rendering",
+      "de": "Bright Sun - Dark Shadows",
+      "el": "Summer Time Rendering",
+      "es": "La isla de las sombras",
+      "fr": "Summer Time Rendering",
+      "he": "לעבור את הקיץ",
+      "hi": "Summer Time Rendering",
+      "ja": "サマータイムレンダ",
+      "ko": "서머타임 렌더",
+      "ru": "Летнее время",
+      "zh": "夏日時光"
+    }
   },
   {
     "celebrity": "Yona of the Dawn",
@@ -942,7 +2606,23 @@
       "Its clues draw from the power system, emotional stakes, rivalries, and visual motifs fans recognize.",
       "Think about the kind of setup it builds: student battles, monsters, curses, pirates, ninjas, or survival arcs.",
       "The hint is in its recurring anime language: transformations, squads, tournaments, forbidden abilities, or painful backstories."
-    ]
+    ],
+    "tmdb_id": 61461,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Yona of the Dawn",
+      "ar": "فجر يونا",
+      "de": "Akatsuki no Yona: Prinzessin der Morgendämmerung",
+      "el": "Yona of the Dawn",
+      "es": "Akatsuki no Yona",
+      "fr": "Yona, princesse de l'aube",
+      "he": "זריחתה של יונה",
+      "hi": "Yona of the Dawn",
+      "ja": "暁のヨナ",
+      "ko": "새벽의 연화",
+      "ru": "Йона на заре",
+      "zh": "晨曦公主"
+    }
   },
   {
     "celebrity": "Dragon Ball Super",
@@ -951,7 +2631,23 @@
       "Its clues draw from the power system, emotional stakes, rivalries, and visual motifs fans recognize.",
       "Think about the kind of setup it builds: student battles, monsters, curses, pirates, ninjas, or survival arcs.",
       "The hint is in its recurring anime language: transformations, squads, tournaments, forbidden abilities, or painful backstories."
-    ]
+    ],
+    "tmdb_id": 62715,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Dragon Ball Super",
+      "ar": "دراغون بول سوبر",
+      "de": "Dragonball Super",
+      "el": "Dragon Ball Super",
+      "es": "Dragon Ball Super",
+      "fr": "Dragon Ball Super",
+      "he": "דרגון בול סופר",
+      "hi": "Dragon Ball Super",
+      "ja": "Dragon Ball Super",
+      "ko": "드래곤볼 슈퍼",
+      "ru": "Драконий жемчуг супер",
+      "zh": "龍珠超"
+    }
   },
   {
     "celebrity": "March Comes in Like a Lion",
@@ -960,7 +2656,23 @@
       "Its clues draw from the power system, emotional stakes, rivalries, and visual motifs fans recognize.",
       "Think about the kind of setup it builds: student battles, monsters, curses, pirates, ninjas, or survival arcs.",
       "The hint is in its recurring anime language: transformations, squads, tournaments, forbidden abilities, or painful backstories."
-    ]
+    ],
+    "tmdb_id": 65336,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "March Comes in Like a Lion",
+      "ar": "أسد آذار",
+      "de": "March Comes in Like a Lion",
+      "el": "March Comes in Like a Lion",
+      "es": "March Comes in Like a Lion",
+      "fr": "March Comes in like a Lion",
+      "he": "מרץ מגיע כאריה",
+      "hi": "March Comes in Like a Lion",
+      "ja": "March Comes in Like a Lion",
+      "ko": "3월의 라이온",
+      "ru": "Мартовский лев",
+      "zh": "3 月的獅子"
+    }
   },
   {
     "celebrity": "Given",
@@ -969,7 +2681,23 @@
       "Its clues draw from the power system, emotional stakes, rivalries, and visual motifs fans recognize.",
       "Think about the kind of setup it builds: student battles, monsters, curses, pirates, ninjas, or survival arcs.",
       "The hint is in its recurring anime language: transformations, squads, tournaments, forbidden abilities, or painful backstories."
-    ]
+    ],
+    "tmdb_id": 88040,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Given",
+      "ar": "Given",
+      "de": "Given",
+      "el": "Given",
+      "es": "Given",
+      "fr": "Given",
+      "he": "נתינה [אנימה]",
+      "hi": "Given",
+      "ja": "Given",
+      "ko": "기븐",
+      "ru": "Дарованный",
+      "zh": "GIVEN 被贈與的未來"
+    }
   },
   {
     "celebrity": "Delicious in Dungeon",
@@ -978,7 +2706,23 @@
       "Its clues draw from the power system, emotional stakes, rivalries, and visual motifs fans recognize.",
       "Think about the kind of setup it builds: student battles, monsters, curses, pirates, ninjas, or survival arcs.",
       "The hint is in its recurring anime language: transformations, squads, tournaments, forbidden abilities, or painful backstories."
-    ]
+    ],
+    "tmdb_id": 207784,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Delicious in Dungeon",
+      "ar": "طعام الدهليز اللذيذ",
+      "de": "Delicious in Dungeon",
+      "el": "Delicious in Dungeon",
+      "es": "Tragones y mazmorras",
+      "fr": "Gloutons & Dragons",
+      "he": "מבוכים ומטעמים",
+      "hi": "तहखाने के चटोरे",
+      "ja": "Delicious in Dungeon",
+      "ko": "던전밥",
+      "ru": "Подземелье вкусностей",
+      "zh": "迷宫饭"
+    }
   },
   {
     "celebrity": "Lycoris Recoil",
@@ -987,7 +2731,23 @@
       "Its clues draw from the power system, emotional stakes, rivalries, and visual motifs fans recognize.",
       "Think about the kind of setup it builds: student battles, monsters, curses, pirates, ninjas, or survival arcs.",
       "The hint is in its recurring anime language: transformations, squads, tournaments, forbidden abilities, or painful backstories."
-    ]
+    ],
+    "tmdb_id": 154494,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Lycoris Recoil",
+      "ar": "Lycoris Recoil",
+      "de": "Lycoris Recoil",
+      "el": "Lycoris Recoil",
+      "es": "Lycoris Recoil",
+      "fr": "Lycoris Recoil",
+      "he": "Lycoris Recoil",
+      "hi": "Lycoris Recoil",
+      "ja": "Lycoris Recoil",
+      "ko": "리코리스 리코일",
+      "ru": "Ликорис Рекойл",
+      "zh": "Lycoris Recoil 莉可麗絲"
+    }
   },
   {
     "celebrity": "Tengoku Daimakyo",
@@ -996,7 +2756,23 @@
       "Its clues draw from the power system, emotional stakes, rivalries, and visual motifs fans recognize.",
       "Think about the kind of setup it builds: student battles, monsters, curses, pirates, ninjas, or survival arcs.",
       "The hint is in its recurring anime language: transformations, squads, tournaments, forbidden abilities, or painful backstories."
-    ]
+    ],
+    "tmdb_id": 208891,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Tengoku Daimakyo",
+      "ar": "Tengoku Daimakyo",
+      "de": "TENGOKU-DAIMAKYO",
+      "el": "TENGOKU-DAIMAKYO",
+      "es": "TENGOKU-DAIMAKYO",
+      "fr": "TENGOKU-DAIMAKYO",
+      "he": "תעתוע שמיימי",
+      "hi": "Tengoku Daimakyo",
+      "ja": "Tengoku Daimakyo",
+      "ko": "천국대마경",
+      "ru": "Великая небесная стена",
+      "zh": "天國大魔境"
+    }
   },
   {
     "celebrity": "The Case Study of Vanitas",
@@ -1005,7 +2781,23 @@
       "Its clues draw from the power system, emotional stakes, rivalries, and visual motifs fans recognize.",
       "Think about the kind of setup it builds: student battles, monsters, curses, pirates, ninjas, or survival arcs.",
       "The hint is in its recurring anime language: transformations, squads, tournaments, forbidden abilities, or painful backstories."
-    ]
+    ],
+    "tmdb_id": 121964,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "The Case Study of Vanitas",
+      "ar": "مذكرات فانيتاس",
+      "de": "The Case Study of Vanitas",
+      "el": "The Case Study of Vanitas",
+      "es": "Vanitas no Karte",
+      "fr": "Les Mémoires de Vanitas",
+      "he": "מקרה הארוע של וניטאס",
+      "hi": "The Case Study of Vanitas",
+      "ja": "The Case Study of Vanitas",
+      "ko": "바니타스의 수기",
+      "ru": "Мемуары Ванитаса",
+      "zh": "瓦尼塔斯的手札"
+    }
   },
   {
     "celebrity": "Nana",
@@ -1014,7 +2806,23 @@
       "Its clues draw from the power system, emotional stakes, rivalries, and visual motifs fans recognize.",
       "Think about the kind of setup it builds: student battles, monsters, curses, pirates, ninjas, or survival arcs.",
       "The hint is in its recurring anime language: transformations, squads, tournaments, forbidden abilities, or painful backstories."
-    ]
+    ],
+    "tmdb_id": 56568,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Nana",
+      "ar": "Nana",
+      "de": "Nana",
+      "el": "Nana",
+      "es": "Nana",
+      "fr": "Nana",
+      "he": "Nana",
+      "hi": "Nana",
+      "ja": "Nana",
+      "ko": "나나",
+      "ru": "Нана",
+      "zh": "娜娜"
+    }
   },
   {
     "celebrity": "Kiznaiver",
@@ -1023,7 +2831,23 @@
       "Its clues draw from the power system, emotional stakes, rivalries, and visual motifs fans recognize.",
       "Think about the kind of setup it builds: student battles, monsters, curses, pirates, ninjas, or survival arcs.",
       "The hint is in its recurring anime language: transformations, squads, tournaments, forbidden abilities, or painful backstories."
-    ]
+    ],
+    "tmdb_id": 65950,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Kiznaiver",
+      "ar": "Kiznaiver",
+      "de": "Kiznaiver",
+      "el": "Kiznaiver",
+      "es": "Kiznaiver",
+      "fr": "Kiznaiver",
+      "he": "קיזנאיבר",
+      "hi": "Kiznaiver",
+      "ja": "キズナイーバー",
+      "ko": "키즈나이버",
+      "ru": "Кизнайвер",
+      "zh": "制約之絆"
+    }
   },
   {
     "celebrity": "The Melancholy of Haruhi Suzumiya",
@@ -1032,7 +2856,23 @@
       "Its clues draw from the power system, emotional stakes, rivalries, and visual motifs fans recognize.",
       "Think about the kind of setup it builds: student battles, monsters, curses, pirates, ninjas, or survival arcs.",
       "The hint is in its recurring anime language: transformations, squads, tournaments, forbidden abilities, or painful backstories."
-    ]
+    ],
+    "tmdb_id": 42511,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "The Melancholy of Haruhi Suzumiya",
+      "ar": "The Melancholy of Haruhi Suzumiya",
+      "de": "Die Melancholie der Haruhi Suzumiya",
+      "el": "The Melancholy of Haruhi Suzumiya",
+      "es": "The Melancholy of Haruhi Suzumiya",
+      "fr": "La Mélancolie de Haruhi Suzumiya",
+      "he": "המלנכוליה של הארוהי סוזומיה",
+      "hi": "The Melancholy of Haruhi Suzumiya",
+      "ja": "The Melancholy of Haruhi Suzumiya",
+      "ko": "스즈미야 하루히의 우울",
+      "ru": "Меланхолия Харухи Судзумии",
+      "zh": "涼宮春日的憂鬱"
+    }
   },
   {
     "celebrity": "91 Days",
@@ -1041,7 +2881,23 @@
       "Its clues draw from the power system, emotional stakes, rivalries, and visual motifs fans recognize.",
       "Think about the kind of setup it builds: student battles, monsters, curses, pirates, ninjas, or survival arcs.",
       "The hint is in its recurring anime language: transformations, squads, tournaments, forbidden abilities, or painful backstories."
-    ]
+    ],
+    "tmdb_id": 67043,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "91 Days",
+      "ar": "91 يوم",
+      "de": "91 Days",
+      "el": "91 Days",
+      "es": "91 Days",
+      "fr": "91 Days",
+      "he": "91 ימים",
+      "hi": "91 Days",
+      "ja": "91Days",
+      "ko": "91 데이즈",
+      "ru": "91 ДЕНЬ",
+      "zh": "91 天"
+    }
   },
   {
     "celebrity": "Welcome to the N H K",
@@ -1050,7 +2906,23 @@
       "Its clues draw from the power system, emotional stakes, rivalries, and visual motifs fans recognize.",
       "Think about the kind of setup it builds: student battles, monsters, curses, pirates, ninjas, or survival arcs.",
       "The hint is in its recurring anime language: transformations, squads, tournaments, forbidden abilities, or painful backstories."
-    ]
+    ],
+    "tmdb_id": 42821,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Welcome to the N H K",
+      "ar": "Welcome to the N H K",
+      "de": "Welcome to the N.H.K.",
+      "el": "Welcome to the N H K",
+      "es": "Welcome to the NHK",
+      "fr": "Bienvenue dans la NHK !",
+      "he": "ברוכים הבאים ל-.N.H.K",
+      "hi": "Welcome to the N H K",
+      "ja": "Welcome to the N H K",
+      "ko": "NHK에 어서 오세요!",
+      "ru": "Добро пожаловать в N.H.K.",
+      "zh": "歡迎加入 NHK！"
+    }
   },
   {
     "celebrity": "Black Bullet",
@@ -1059,7 +2931,23 @@
       "Its clues draw from the power system, emotional stakes, rivalries, and visual motifs fans recognize.",
       "Think about the kind of setup it builds: student battles, monsters, curses, pirates, ninjas, or survival arcs.",
       "The hint is in its recurring anime language: transformations, squads, tournaments, forbidden abilities, or painful backstories."
-    ]
+    ],
+    "tmdb_id": 60834,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Black Bullet",
+      "ar": "Black Bullet",
+      "de": "Black Bullet",
+      "el": "Black Bullet",
+      "es": "Black Bullet",
+      "fr": "Black Bullet",
+      "he": "קליע שחור",
+      "hi": "Black Bullet",
+      "ja": "ブラック・ブレット",
+      "ko": "블랙 불릿",
+      "ru": "Чёрная пуля",
+      "zh": "黑色子彈"
+    }
   },
   {
     "celebrity": "Tsuredure Children",
@@ -1068,7 +2956,23 @@
       "Its clues draw from the power system, emotional stakes, rivalries, and visual motifs fans recognize.",
       "Think about the kind of setup it builds: student battles, monsters, curses, pirates, ninjas, or survival arcs.",
       "The hint is in its recurring anime language: transformations, squads, tournaments, forbidden abilities, or painful backstories."
-    ]
+    ],
+    "tmdb_id": 72509,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Tsuredure Children",
+      "ar": "Tsuredure Children",
+      "de": "Tsuredure Children",
+      "el": "Tsuredure Children",
+      "es": "Tsuredure Children",
+      "fr": "Tsuredure Children",
+      "he": "ילדים חדגוניים",
+      "hi": "Tsuredure Children",
+      "ja": "Tsuredure Children",
+      "ko": "심심한 칠드런",
+      "ru": "Признания",
+      "zh": "徒然喜歡你"
+    }
   },
   {
     "celebrity": "Akashic Records of Bastard Magic Instructor",
@@ -1077,7 +2981,23 @@
       "Its clues draw from the power system, emotional stakes, rivalries, and visual motifs fans recognize.",
       "Think about the kind of setup it builds: student battles, monsters, curses, pirates, ninjas, or survival arcs.",
       "The hint is in its recurring anime language: transformations, squads, tournaments, forbidden abilities, or painful backstories."
-    ]
+    ],
+    "tmdb_id": 70637,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Akashic Records of Bastard Magic Instructor",
+      "ar": "Akashic Records of Bastard Magic Instructor",
+      "de": "Akashic Records of Bastard Magic Instructor",
+      "el": "Akashic Records of Bastard Magic Instructor",
+      "es": "Akashic Records of Bastard Magical Instructor",
+      "fr": "Akashic Records of Bastard Magic Instructor",
+      "he": "רשומות אקאשיק המדריך לקסם האפס",
+      "hi": "Akashic Records of Bastard Magic Instructor",
+      "ja": "ロクでなし魔術講師と禁忌教典",
+      "ko": "변변찮은 마술강사와 금기교전",
+      "ru": "Акашийские Хроники худшего преподавателя магии",
+      "zh": "不正經的魔術講師與禁忌教典"
+    }
   },
   {
     "celebrity": "Kabaneri of the Iron Fortress",
@@ -1086,7 +3006,23 @@
       "Its clues draw from the power system, emotional stakes, rivalries, and visual motifs fans recognize.",
       "Think about the kind of setup it builds: student battles, monsters, curses, pirates, ninjas, or survival arcs.",
       "The hint is in its recurring anime language: transformations, squads, tournaments, forbidden abilities, or painful backstories."
-    ]
+    ],
+    "tmdb_id": 65945,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Kabaneri of the Iron Fortress",
+      "ar": "حماة الحصون المنيعة: معركة الحصن المهجور",
+      "de": "Kabaneri of the Iron Fortress",
+      "el": "Kabaneri of the Iron Fortress",
+      "es": "Kabaneri of the Iron Fortress",
+      "fr": "Kabaneri of the Iron Fortress",
+      "he": "הקאבאנרי של מצודת הברזל",
+      "hi": "Kabaneri of the Iron Fortress",
+      "ja": "甲鉄城のカバネリ",
+      "ko": "갑철성의 카바네리",
+      "ru": "Кабанери Железной Крепости",
+      "zh": "甲鐵城的卡巴內裏"
+    }
   },
   {
     "celebrity": "Daily Lives of High School Boys",
@@ -1095,7 +3031,23 @@
       "Its clues draw from the power system, emotional stakes, rivalries, and visual motifs fans recognize.",
       "Think about the kind of setup it builds: student battles, monsters, curses, pirates, ninjas, or survival arcs.",
       "The hint is in its recurring anime language: transformations, squads, tournaments, forbidden abilities, or painful backstories."
-    ]
+    ],
+    "tmdb_id": 45859,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Daily Lives of High School Boys",
+      "ar": "Daily Lives of High School Boys",
+      "de": "Daily Lives of High School Boys",
+      "el": "Daily Lives of High School Boys",
+      "es": "Danshi Koukousei no Nichijou",
+      "fr": "Danshi Koukousei No Nichijou",
+      "he": "Daily Lives of High School Boys",
+      "hi": "Daily Lives of High School Boys",
+      "ja": "Daily Lives of High School Boys",
+      "ko": "남자 고교생의 일상",
+      "ru": "Повседневная жизнь старшеклассников",
+      "zh": "男子高中生的日常"
+    }
   },
   {
     "celebrity": "Gate",
@@ -1104,7 +3056,23 @@
       "Its clues draw from the power system, emotional stakes, rivalries, and visual motifs fans recognize.",
       "Think about the kind of setup it builds: student battles, monsters, curses, pirates, ninjas, or survival arcs.",
       "The hint is in its recurring anime language: transformations, squads, tournaments, forbidden abilities, or painful backstories."
-    ]
+    ],
+    "tmdb_id": 63663,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Gate",
+      "ar": "Gate",
+      "de": "Gate",
+      "el": "Gate",
+      "es": "Gate: Así Luchan las Fuerzas de Autodefensa",
+      "fr": "Gate - Au-delà de la porte",
+      "he": "גייט",
+      "hi": "Gate",
+      "ja": "GATE 自衛隊 彼の地にて、斯く戦えり",
+      "ko": "게이트 - 자위대 그의 땅에서, 이처럼 싸우며",
+      "ru": "Врата",
+      "zh": "GATE 奇幻自衞隊"
+    }
   },
   {
     "celebrity": "Mushi Shi",
@@ -1113,7 +3081,23 @@
       "Its clues draw from the power system, emotional stakes, rivalries, and visual motifs fans recognize.",
       "Think about the kind of setup it builds: student battles, monsters, curses, pirates, ninjas, or survival arcs.",
       "The hint is in its recurring anime language: transformations, squads, tournaments, forbidden abilities, or painful backstories."
-    ]
+    ],
+    "tmdb_id": 26867,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Mushi Shi",
+      "ar": "موشيشي",
+      "de": "Mushi-Shi",
+      "el": "Mushi Shi",
+      "es": "Mushishi",
+      "fr": "Mushishi",
+      "he": "מושישי",
+      "hi": "Mushi Shi",
+      "ja": "Mushi Shi",
+      "ko": "충사",
+      "ru": "Мастер Муси",
+      "zh": "蟲師"
+    }
   },
   {
     "celebrity": "My Love Story With Yamada Kun at Lv999",
@@ -1122,7 +3106,23 @@
       "Its clues draw from the power system, emotional stakes, rivalries, and visual motifs fans recognize.",
       "Think about the kind of setup it builds: student battles, monsters, curses, pirates, ninjas, or survival arcs.",
       "The hint is in its recurring anime language: transformations, squads, tournaments, forbidden abilities, or painful backstories."
-    ]
+    ],
+    "tmdb_id": 208067,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "My Love Story With Yamada Kun at Lv999",
+      "ar": "قصة حبي مع يامادا-كن عند المستوى 999",
+      "de": "My Love Story with Yamada-kun at Lv999",
+      "el": "My Love Story With Yamada Kun at Lv999",
+      "es": "Mi amor por Yamada está al Nv. 999",
+      "fr": "Mon histoire d'amour avec Yamada à Lv999",
+      "he": "לאהוב את יאמאדה",
+      "hi": "My Love Story With Yamada Kun at Lv999",
+      "ja": "My Love Story With Yamada Kun at Lv999",
+      "ko": "야마다 군과 Lv999의 사랑을 하다",
+      "ru": "Моя любовь к Ямаде 999 уровня",
+      "zh": "和山田談場 Lv999 的戀愛"
+    }
   },
   {
     "celebrity": "Kokoro Connect",
@@ -1131,7 +3131,23 @@
       "Its clues draw from the power system, emotional stakes, rivalries, and visual motifs fans recognize.",
       "Think about the kind of setup it builds: student battles, monsters, curses, pirates, ninjas, or survival arcs.",
       "The hint is in its recurring anime language: transformations, squads, tournaments, forbidden abilities, or painful backstories."
-    ]
+    ],
+    "tmdb_id": 45807,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Kokoro Connect",
+      "ar": "Kokoro Connect",
+      "de": "Kokoro Connect",
+      "el": "Kokoro Connect",
+      "es": "Kokoro Connect",
+      "fr": "Kokoro Connect",
+      "he": "Kokoro Connect",
+      "hi": "Kokoro Connect",
+      "ja": "Kokoro Connect",
+      "ko": "하트 커넥트",
+      "ru": "Связь сердец",
+      "zh": "心連．情結"
+    }
   },
   {
     "celebrity": "A Certain Magical Index",
@@ -1140,7 +3156,23 @@
       "Its clues draw from the power system, emotional stakes, rivalries, and visual motifs fans recognize.",
       "Think about the kind of setup it builds: student battles, monsters, curses, pirates, ninjas, or survival arcs.",
       "The hint is in its recurring anime language: transformations, squads, tournaments, forbidden abilities, or painful backstories."
-    ]
+    ],
+    "tmdb_id": 30980,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "A Certain Magical Index",
+      "ar": "A Certain Magical Index",
+      "de": "A Certain Magical Index",
+      "el": "A Certain Magical Index",
+      "es": "A Certain Magical Index",
+      "fr": "A Certain Magical Index",
+      "he": "אינדקס הקסומה",
+      "hi": "A Certain Magical Index",
+      "ja": "A Certain Magical Index",
+      "ko": "어떤 마술의 금서목록",
+      "ru": "Некий Магический Индекс",
+      "zh": "魔法禁書目錄"
+    }
   },
   {
     "celebrity": "Fate Stay Night",
@@ -1149,7 +3181,23 @@
       "Its clues draw from the power system, emotional stakes, rivalries, and visual motifs fans recognize.",
       "Think about the kind of setup it builds: student battles, monsters, curses, pirates, ninjas, or survival arcs.",
       "The hint is in its recurring anime language: transformations, squads, tournaments, forbidden abilities, or painful backstories."
-    ]
+    ],
+    "tmdb_id": 37858,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Fate Stay Night",
+      "ar": "Fate Stay Night",
+      "de": "Fate/Stay Night",
+      "el": "Fate Stay Night",
+      "es": "Fate/stay night",
+      "fr": "Fate/stay night",
+      "he": "פייט סטיי נייט",
+      "hi": "Fate Stay Night",
+      "ja": "Fate Stay Night",
+      "ko": "페이트 / 스테이 나이트",
+      "ru": "Судьба/Ночь схватки",
+      "zh": "命運／停駐之夜"
+    }
   },
   {
     "celebrity": "Blend S",
@@ -1158,7 +3206,23 @@
       "Its clues draw from the power system, emotional stakes, rivalries, and visual motifs fans recognize.",
       "Think about the kind of setup it builds: student battles, monsters, curses, pirates, ninjas, or survival arcs.",
       "The hint is in its recurring anime language: transformations, squads, tournaments, forbidden abilities, or painful backstories."
-    ]
+    ],
+    "tmdb_id": 74081,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Blend S",
+      "ar": "Blend S",
+      "de": "Blend-S",
+      "el": "Blend S",
+      "es": "Blend-S",
+      "fr": "BLEND-S",
+      "he": "Blend S",
+      "hi": "Blend S",
+      "ja": "ブレンド・S",
+      "ko": "블렌드 S",
+      "ru": "Садистская смесь",
+      "zh": "調教咖啡廳"
+    }
   },
   {
     "celebrity": "Dorohedoro",
@@ -1167,7 +3231,23 @@
       "Its clues draw from the power system, emotional stakes, rivalries, and visual motifs fans recognize.",
       "Think about the kind of setup it builds: student battles, monsters, curses, pirates, ninjas, or survival arcs.",
       "The hint is in its recurring anime language: transformations, squads, tournaments, forbidden abilities, or painful backstories."
-    ]
+    ],
+    "tmdb_id": 94404,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Dorohedoro",
+      "ar": "دوروهيدورو",
+      "de": "Dorohedoro",
+      "el": "Dorohedoro",
+      "es": "Dorohedoro",
+      "fr": "Dorohedoro",
+      "he": "דורוהדורו",
+      "hi": "Dorohedoro",
+      "ja": "Dorohedoro",
+      "ko": "도로헤도로",
+      "ru": "Дорохедоро",
+      "zh": "异兽魔都"
+    }
   },
   {
     "celebrity": "Alya Sometimes Hides Her Feelings in Russian",
@@ -1176,7 +3256,23 @@
       "Its clues draw from the power system, emotional stakes, rivalries, and visual motifs fans recognize.",
       "Think about the kind of setup it builds: student battles, monsters, curses, pirates, ninjas, or survival arcs.",
       "The hint is in its recurring anime language: transformations, squads, tournaments, forbidden abilities, or painful backstories."
-    ]
+    ],
+    "tmdb_id": 235758,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Alya Sometimes Hides Her Feelings in Russian",
+      "ar": "Alya Sometimes Hides Her Feelings in Russian",
+      "de": "Alya Sometimes Hides Her Feelings in Russian",
+      "el": "Alya Sometimes Hides Her Feelings in Russian",
+      "es": "Tokidoki Bosotto Russia-go de Dereru Tonari no Alya-san",
+      "fr": "Alya Sometimes Hides Her Feelings in Russian",
+      "he": "Alya Sometimes Hides Her Feelings in Russian",
+      "hi": "आलिया कभी-कभी रूसी भाषा में अपनी भावनाओं को छुपाती है",
+      "ja": "Alya Sometimes Hides Her Feelings in Russian",
+      "ko": "가끔씩 툭하고 러시아어로 부끄러워하는 옆자리의 아랴 양",
+      "ru": "Аля иногда кокетничает со мной по-русски",
+      "zh": "不時輕聲地以俄語遮羞的鄰座艾莉同學"
+    }
   },
   {
     "celebrity": "Spice and Wolf",
@@ -1185,7 +3281,23 @@
       "Its clues draw from the power system, emotional stakes, rivalries, and visual motifs fans recognize.",
       "Think about the kind of setup it builds: student battles, monsters, curses, pirates, ninjas, or survival arcs.",
       "The hint is in its recurring anime language: transformations, squads, tournaments, forbidden abilities, or painful backstories."
-    ]
+    ],
+    "tmdb_id": 26707,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Spice and Wolf",
+      "ar": "Spice and Wolf",
+      "de": "Spice and Wolf",
+      "el": "Spice and Wolf",
+      "es": "Spice and Wolf",
+      "fr": "Spice and Wolf",
+      "he": "זאב ותבלין",
+      "hi": "Spice and Wolf",
+      "ja": "狼と香辛料",
+      "ko": "늑대와 향신료",
+      "ru": "Волчица и пряности",
+      "zh": "狼與辛香料"
+    }
   },
   {
     "celebrity": "Grimgar of Fantasy and Ash",
@@ -1194,7 +3306,23 @@
       "Its clues draw from the power system, emotional stakes, rivalries, and visual motifs fans recognize.",
       "Think about the kind of setup it builds: student battles, monsters, curses, pirates, ninjas, or survival arcs.",
       "The hint is in its recurring anime language: transformations, squads, tournaments, forbidden abilities, or painful backstories."
-    ]
+    ],
+    "tmdb_id": 65369,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Grimgar of Fantasy and Ash",
+      "ar": "غريمغار: رماد وأوهام",
+      "de": "Grimgar, Ashes and Illusions",
+      "el": "Hai to Gensou no Grimgar",
+      "es": "Hai to Gensou no Grimgar",
+      "fr": "Grimgar, le Monde des Cendres et de Fantaisie",
+      "he": "גרימגר: אפר ואשליות",
+      "hi": "Grimgar of Fantasy and Ash",
+      "ja": "Grimgar of Fantasy and Ash",
+      "ko": "재와 환상의 그림갈",
+      "ru": "Гримгал пепла и иллюзий",
+      "zh": "灰與幻想的格林姆迦爾"
+    }
   },
   {
     "celebrity": "From the New World",
@@ -1203,7 +3331,23 @@
       "Its clues draw from the power system, emotional stakes, rivalries, and visual motifs fans recognize.",
       "Think about the kind of setup it builds: student battles, monsters, curses, pirates, ninjas, or survival arcs.",
       "The hint is in its recurring anime language: transformations, squads, tournaments, forbidden abilities, or painful backstories."
-    ]
+    ],
+    "tmdb_id": 53052,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "From the New World",
+      "ar": "من العالم الجديد",
+      "de": "From the New World",
+      "el": "From the New World",
+      "es": "Desde el nuevo mundo",
+      "fr": "Shin Sekai Yori (From the New World)",
+      "he": "From the New World",
+      "hi": "From the New World",
+      "ja": "新世界より",
+      "ko": "신세계에서",
+      "ru": "Из Нового Света",
+      "zh": "來自新世界"
+    }
   },
   {
     "celebrity": "Wind Breaker",
@@ -1212,7 +3356,23 @@
       "Its clues draw from the power system, emotional stakes, rivalries, and visual motifs fans recognize.",
       "Think about the kind of setup it builds: student battles, monsters, curses, pirates, ninjas, or survival arcs.",
       "The hint is in its recurring anime language: transformations, squads, tournaments, forbidden abilities, or painful backstories."
-    ]
+    ],
+    "tmdb_id": 223500,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Wind Breaker",
+      "ar": "Wind Breaker",
+      "de": "Wind Breaker",
+      "el": "Wind Breaker",
+      "es": "WIND BREAKER",
+      "fr": "Wind Breaker",
+      "he": "Wind Breaker",
+      "hi": "Wind Breaker",
+      "ja": "Wind Breaker",
+      "ko": "윈브레 -WINBRE-",
+      "ru": "Ветролом",
+      "zh": "WIND BREAKER — 防風少年—"
+    }
   },
   {
     "celebrity": "When They Cry",
@@ -1221,7 +3381,23 @@
       "Its clues draw from the power system, emotional stakes, rivalries, and visual motifs fans recognize.",
       "Think about the kind of setup it builds: student battles, monsters, curses, pirates, ninjas, or survival arcs.",
       "The hint is in its recurring anime language: transformations, squads, tournaments, forbidden abilities, or painful backstories."
-    ]
+    ],
+    "tmdb_id": 25760,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "When They Cry",
+      "ar": "When They Cry",
+      "de": "Higurashi no Naku Koro ni",
+      "el": "Higurashi: Όταν κλαίνε τα τζιτζίκια",
+      "es": "Cuando las cigarras lloran",
+      "fr": "Hinamizawa, le village maudit",
+      "he": "When They Cry",
+      "hi": "When They Cry",
+      "ja": "ひぐらしのなく頃に",
+      "ko": "쓰르라미 울 적에",
+      "ru": "Когда плачут цикады",
+      "zh": "暮蟬悲鳴時"
+    }
   },
   {
     "celebrity": "Berserk",
@@ -1230,7 +3406,23 @@
       "Its clues draw from the power system, emotional stakes, rivalries, and visual motifs fans recognize.",
       "Think about the kind of setup it builds: student battles, monsters, curses, pirates, ninjas, or survival arcs.",
       "The hint is in its recurring anime language: transformations, squads, tournaments, forbidden abilities, or painful backstories."
-    ]
+    ],
+    "tmdb_id": 35935,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Berserk",
+      "ar": "Berserk",
+      "de": "Berserk",
+      "el": "Berserk",
+      "es": "Berserk",
+      "fr": "Berserk",
+      "he": "ברזרק",
+      "hi": "Berserk",
+      "ja": "Berserk",
+      "ko": "검풍전기 베르세르크",
+      "ru": "Берсерк",
+      "zh": "烙印勇士"
+    }
   },
   {
     "celebrity": "The Fragrant Flower Blooms With Dignity",
@@ -1239,7 +3431,23 @@
       "Its clues draw from the power system, emotional stakes, rivalries, and visual motifs fans recognize.",
       "Think about the kind of setup it builds: student battles, monsters, curses, pirates, ninjas, or survival arcs.",
       "The hint is in its recurring anime language: transformations, squads, tournaments, forbidden abilities, or painful backstories."
-    ]
+    ],
+    "tmdb_id": 271607,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "The Fragrant Flower Blooms With Dignity",
+      "ar": "الزهرة العطرة تزهر بكرامة",
+      "de": "Kaoru und Rin",
+      "el": "The Fragrant Flower Blooms With Dignity",
+      "es": "La nobleza de las flores",
+      "fr": "BLOOM",
+      "he": "הפרח הריחני זוקף את קומתו",
+      "hi": "The Fragrant Flower Blooms With Dignity",
+      "ja": "The Fragrant Flower Blooms With Dignity",
+      "ko": "향기로운 꽃은 늠름하게 핀다",
+      "ru": "Благоухающий цветок расцветает с достоинством",
+      "zh": "薰香花朵凜然綻放"
+    }
   },
   {
     "celebrity": "Darker Than Black",
@@ -1248,7 +3456,23 @@
       "Its clues draw from the power system, emotional stakes, rivalries, and visual motifs fans recognize.",
       "Think about the kind of setup it builds: student battles, monsters, curses, pirates, ninjas, or survival arcs.",
       "The hint is in its recurring anime language: transformations, squads, tournaments, forbidden abilities, or painful backstories."
-    ]
+    ],
+    "tmdb_id": 31718,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Darker Than Black",
+      "ar": "أحلك من السواد",
+      "de": "Darker than Black",
+      "el": "Darker than Black",
+      "es": "Darker than Black",
+      "fr": "Darker Than Black",
+      "he": "אפל משחור",
+      "hi": "Darker Than Black",
+      "ja": "Darker Than Black",
+      "ko": "Darker than BLACK -흑의 계약자-",
+      "ru": "Темнее черного",
+      "zh": "黑之契約者"
+    }
   },
   {
     "celebrity": "Inuyashiki Last Hero",
@@ -1257,7 +3481,23 @@
       "Its clues draw from the power system, emotional stakes, rivalries, and visual motifs fans recognize.",
       "Think about the kind of setup it builds: student battles, monsters, curses, pirates, ninjas, or survival arcs.",
       "The hint is in its recurring anime language: transformations, squads, tournaments, forbidden abilities, or painful backstories."
-    ]
+    ],
+    "tmdb_id": 73946,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Inuyashiki Last Hero",
+      "ar": "اينوياشكي",
+      "de": "Inuyashiki Last Hero",
+      "el": "Inuyashiki Last Hero",
+      "es": "Inuyashiki: Last Hero",
+      "fr": "Inuyashiki le Dernier Héros",
+      "he": "אינויאשיקי",
+      "hi": "Inuyashiki Last Hero",
+      "ja": "いぬやしき",
+      "ko": "이누야시키",
+      "ru": "Инуясики",
+      "zh": "殺戮重生犬屋敷"
+    }
   },
   {
     "celebrity": "K",
@@ -1266,7 +3506,23 @@
       "Its clues draw from the power system, emotional stakes, rivalries, and visual motifs fans recognize.",
       "Think about the kind of setup it builds: student battles, monsters, curses, pirates, ninjas, or survival arcs.",
       "The hint is in its recurring anime language: transformations, squads, tournaments, forbidden abilities, or painful backstories."
-    ]
+    ],
+    "tmdb_id": 45799,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "K",
+      "ar": "K",
+      "de": "K",
+      "el": "K",
+      "es": "K Project",
+      "fr": "K Project",
+      "he": "פרויקט קיי",
+      "hi": "K",
+      "ja": "K",
+      "ko": "K-Project",
+      "ru": "Проект Кей",
+      "zh": "K"
+    }
   },
   {
     "celebrity": "Inuyasha",
@@ -1275,7 +3531,23 @@
       "Its clues draw from the power system, emotional stakes, rivalries, and visual motifs fans recognize.",
       "Think about the kind of setup it builds: student battles, monsters, curses, pirates, ninjas, or survival arcs.",
       "The hint is in its recurring anime language: transformations, squads, tournaments, forbidden abilities, or painful backstories."
-    ]
+    ],
+    "tmdb_id": 35610,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Inuyasha",
+      "ar": "إينوياشا",
+      "de": "InuYasha",
+      "el": "Inuyasha",
+      "es": "Inuyasha",
+      "fr": "InuYasha",
+      "he": "אינויאשה",
+      "hi": "InuYasha",
+      "ja": "Inuyasha",
+      "ko": "이누야샤",
+      "ru": "Инуяся",
+      "zh": "犬夜叉"
+    }
   },
   {
     "celebrity": "Shangri La Frontier",
@@ -1284,7 +3556,23 @@
       "Its clues draw from the power system, emotional stakes, rivalries, and visual motifs fans recognize.",
       "Think about the kind of setup it builds: student battles, monsters, curses, pirates, ninjas, or survival arcs.",
       "The hint is in its recurring anime language: transformations, squads, tournaments, forbidden abilities, or painful backstories."
-    ]
+    ],
+    "tmdb_id": 205050,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Shangri La Frontier",
+      "ar": "Shangri-La Frontier",
+      "de": "Shangri-La Frontier",
+      "el": "Shangri La Frontier",
+      "es": "Shangri-La Frontier",
+      "fr": "Shangri-La Frontier",
+      "he": "שנגרי-לה פרונטיר",
+      "hi": "Shangri La Frontier",
+      "ja": "Shangri La Frontier",
+      "ko": "샹그릴라 프론티어 ~망겜 헌터, 갓겜에 도전하다~",
+      "ru": "Фронтир Шангри-ла",
+      "zh": "香格里拉·開拓異境～糞作獵手挑戰神作～"
+    }
   },
   {
     "celebrity": "Teasing Master Takagi San",
@@ -1293,7 +3581,23 @@
       "Its clues draw from the power system, emotional stakes, rivalries, and visual motifs fans recognize.",
       "Think about the kind of setup it builds: student battles, monsters, curses, pirates, ninjas, or survival arcs.",
       "The hint is in its recurring anime language: transformations, squads, tournaments, forbidden abilities, or painful backstories."
-    ]
+    ],
+    "tmdb_id": 75865,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Teasing Master Takagi San",
+      "ar": "سيد الدعابة (تاكاغي – سان)‎",
+      "de": "Nicht schon wieder, Takagi-san",
+      "el": "Τακάγκι-σαν, το Αρχιπειραχτήρι",
+      "es": "Karakai Jozu no Takagi-san",
+      "fr": "Quand Takagi me taquine",
+      "he": "טאקאגי-סאן אלופת ההקנטות",
+      "hi": "Teasing Master Takagi San",
+      "ja": "Teasing Master Takagi San",
+      "ko": "장난을 잘 치는 타카기 양",
+      "ru": "Озорная Такаги",
+      "zh": "擅長捉弄人的高木同學"
+    }
   },
   {
     "celebrity": "Trigun",
@@ -1302,7 +3606,23 @@
       "Its clues draw from the power system, emotional stakes, rivalries, and visual motifs fans recognize.",
       "Think about the kind of setup it builds: student battles, monsters, curses, pirates, ninjas, or survival arcs.",
       "The hint is in its recurring anime language: transformations, squads, tournaments, forbidden abilities, or painful backstories."
-    ]
+    ],
+    "tmdb_id": 26453,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Trigun",
+      "ar": "تريغان",
+      "de": "Trigun",
+      "el": "Trigun",
+      "es": "Trigun",
+      "fr": "Trigun",
+      "he": "טריגאן",
+      "hi": "Trigun",
+      "ja": "Trigun",
+      "ko": "트라이건",
+      "ru": "Триган",
+      "zh": "槍神"
+    }
   },
   {
     "celebrity": "A Place Further Than the Universe",
@@ -1311,7 +3631,23 @@
       "Its clues draw from the power system, emotional stakes, rivalries, and visual motifs fans recognize.",
       "Think about the kind of setup it builds: student battles, monsters, curses, pirates, ninjas, or survival arcs.",
       "The hint is in its recurring anime language: transformations, squads, tournaments, forbidden abilities, or painful backstories."
-    ]
+    ],
+    "tmdb_id": 76059,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "A Place Further Than the Universe",
+      "ar": "A Place Further Than the Universe",
+      "de": "A Place Further Than The Universe",
+      "el": "A Place Further Than the Universe",
+      "es": "A Place Further Than the Universe",
+      "fr": "A Place Further Than The Universe",
+      "he": "מקום רחוק יותר מהיקום",
+      "hi": "A Place Further Than the Universe",
+      "ja": "A Place Further Than the Universe",
+      "ko": "우주보다 먼 곳",
+      "ru": "Место за пределами Вселенной",
+      "zh": "比宇宙更遠的地方"
+    }
   },
   {
     "celebrity": "Laid Back Camp",
@@ -1320,7 +3656,23 @@
       "Its clues draw from the power system, emotional stakes, rivalries, and visual motifs fans recognize.",
       "Think about the kind of setup it builds: student battles, monsters, curses, pirates, ninjas, or survival arcs.",
       "The hint is in its recurring anime language: transformations, squads, tournaments, forbidden abilities, or painful backstories."
-    ]
+    ],
+    "tmdb_id": 76075,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Laid Back Camp",
+      "ar": "مخيم الاسترخاء",
+      "de": "Laid-Back Camp",
+      "el": "Laid Back Camp",
+      "es": "Laid-Back Camp",
+      "fr": "Yuru Camp – Au grand air",
+      "he": "Laid Back Camp",
+      "hi": "Laid Back Camp",
+      "ja": "Laid Back Camp",
+      "ko": "유루캠△",
+      "ru": "Лагерь на свежем воздухе",
+      "zh": "搖曳露營△"
+    }
   },
   {
     "celebrity": "Kamisama Kiss",
@@ -1329,7 +3681,23 @@
       "Its clues draw from the power system, emotional stakes, rivalries, and visual motifs fans recognize.",
       "Think about the kind of setup it builds: student battles, monsters, curses, pirates, ninjas, or survival arcs.",
       "The hint is in its recurring anime language: transformations, squads, tournaments, forbidden abilities, or painful backstories."
-    ]
+    ],
+    "tmdb_id": 62741,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Kamisama Kiss",
+      "ar": "Kamisama Kiss",
+      "de": "Kamisama Kiss",
+      "el": "Kamisama Kiss",
+      "es": "Soy una Diosa ¿Y ahora qué?",
+      "fr": "Kamisama Kiss",
+      "he": "התחלתי את חיי כאלה",
+      "hi": "Kamisama Kiss",
+      "ja": "Kamisama Kiss",
+      "ko": "오늘부터 신령님",
+      "ru": "Очень приятно, Бог",
+      "zh": "見習元氣女神"
+    }
   },
   {
     "celebrity": "Amagi Brilliant Park",
@@ -1338,7 +3706,23 @@
       "Its clues draw from the power system, emotional stakes, rivalries, and visual motifs fans recognize.",
       "Think about the kind of setup it builds: student battles, monsters, curses, pirates, ninjas, or survival arcs.",
       "The hint is in its recurring anime language: transformations, squads, tournaments, forbidden abilities, or painful backstories."
-    ]
+    ],
+    "tmdb_id": 65332,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Amagi Brilliant Park",
+      "ar": "Amagi Brilliant Park",
+      "de": "Amagi Brilliant Park",
+      "el": "Amagi Brilliant Park",
+      "es": "Amagi Brilliant Park",
+      "fr": "Amagi Brilliant Park",
+      "he": "הפארק הנפלא אמאגי",
+      "hi": "Amagi Brilliant Park",
+      "ja": "Amagi Brilliant Park",
+      "ko": "아마기 브릴리언트 파크",
+      "ru": "Великолепный парк Амаги",
+      "zh": "甘城輝煌樂園救世主"
+    }
   },
   {
     "celebrity": "Akudama Drive",
@@ -1347,7 +3731,23 @@
       "Its clues draw from the power system, emotional stakes, rivalries, and visual motifs fans recognize.",
       "Think about the kind of setup it builds: student battles, monsters, curses, pirates, ninjas, or survival arcs.",
       "The hint is in its recurring anime language: transformations, squads, tournaments, forbidden abilities, or painful backstories."
-    ]
+    ],
+    "tmdb_id": 100436,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Akudama Drive",
+      "ar": "أكوداما درايف",
+      "de": "Akudama Drive",
+      "el": "Akudama Drive",
+      "es": "Akudama Drive",
+      "fr": "Akudama Drive",
+      "he": "אקודאמה דרייב",
+      "hi": "Akudama Drive",
+      "ja": "アクダマドライブ",
+      "ko": "아쿠다마 드라이브",
+      "ru": "Акудама Драйв",
+      "zh": "全員惡玉"
+    }
   },
   {
     "celebrity": "Tsukimichi Moonlit Fantasy",
@@ -1356,7 +3756,23 @@
       "Its clues draw from the power system, emotional stakes, rivalries, and visual motifs fans recognize.",
       "Think about the kind of setup it builds: student battles, monsters, curses, pirates, ninjas, or survival arcs.",
       "The hint is in its recurring anime language: transformations, squads, tournaments, forbidden abilities, or painful backstories."
-    ]
+    ],
+    "tmdb_id": 111819,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Tsukimichi Moonlit Fantasy",
+      "ar": "Tsukimichi Moonlit Fantasy",
+      "de": "Tsukimichi: Moonlit Fantasy",
+      "el": "Tsukimichi Moonlit Fantasy",
+      "es": "Tsukimichi: Moonlit Fantasy",
+      "fr": "TSUKIMICHI -Moonlit Fantasy-",
+      "he": "Tsukimichi Moonlit Fantasy",
+      "hi": "Tsukimichi Moonlit Fantasy",
+      "ja": "Tsukimichi Moonlit Fantasy",
+      "ko": "달이 이끄는 이세계 여행",
+      "ru": "Благословлённое лунным светом приключение в другом мире",
+      "zh": "月光下的異世界之旅"
+    }
   },
   {
     "celebrity": "Mieruko Chan",
@@ -1365,7 +3781,23 @@
       "Its clues draw from the power system, emotional stakes, rivalries, and visual motifs fans recognize.",
       "Think about the kind of setup it builds: student battles, monsters, curses, pirates, ninjas, or survival arcs.",
       "The hint is in its recurring anime language: transformations, squads, tournaments, forbidden abilities, or painful backstories."
-    ]
+    ],
+    "tmdb_id": 121078,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Mieruko Chan",
+      "ar": "Mieruko-chan",
+      "de": "Mieruko-chan",
+      "el": "Mieruko Chan",
+      "es": "Mieruko-chan",
+      "fr": "Mieruko-chan",
+      "he": "Mieruko Chan",
+      "hi": "Mieruko Chan",
+      "ja": "見える子ちゃん",
+      "ko": "보이는 여고생",
+      "ru": "Девочка, которая видит",
+      "zh": "阴阳眼见子"
+    }
   },
   {
     "celebrity": "Land of the Lustrous",
@@ -1374,7 +3806,23 @@
       "Its clues draw from the power system, emotional stakes, rivalries, and visual motifs fans recognize.",
       "Think about the kind of setup it builds: student battles, monsters, curses, pirates, ninjas, or survival arcs.",
       "The hint is in its recurring anime language: transformations, squads, tournaments, forbidden abilities, or painful backstories."
-    ]
+    ],
+    "tmdb_id": 74091,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Land of the Lustrous",
+      "ar": "Land of the Lustrous",
+      "de": "Das Land der Juwelen",
+      "el": "Land of the Lustrous",
+      "es": "Land of the Lustrous",
+      "fr": "L'Ère des Cristaux",
+      "he": "ארץ אבני החן",
+      "hi": "Land of the Lustrous",
+      "ja": "Land of the Lustrous",
+      "ko": "보석의 나라",
+      "ru": "Страна самоцветов",
+      "zh": "寶石之國"
+    }
   },
   {
     "celebrity": "Tsukigakirei",
@@ -1383,7 +3831,23 @@
       "Its clues draw from the power system, emotional stakes, rivalries, and visual motifs fans recognize.",
       "Think about the kind of setup it builds: student battles, monsters, curses, pirates, ninjas, or survival arcs.",
       "The hint is in its recurring anime language: transformations, squads, tournaments, forbidden abilities, or painful backstories."
-    ]
+    ],
+    "tmdb_id": 70880,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Tsukigakirei",
+      "ar": "جميلة مثل القمر",
+      "de": "Tsukigakirei",
+      "el": "Tsukigakirei",
+      "es": "Tsukigakirei",
+      "fr": "Tsuki Ga Kirei",
+      "he": "הירח יפהפה",
+      "hi": "Tsukigakirei",
+      "ja": "月がきれい",
+      "ko": "달이 아름답다",
+      "ru": "Прекрасна, как Луна",
+      "zh": "月色真美"
+    }
   },
   {
     "celebrity": "Zombie Land Saga",
@@ -1392,7 +3856,23 @@
       "Its clues draw from the power system, emotional stakes, rivalries, and visual motifs fans recognize.",
       "Think about the kind of setup it builds: student battles, monsters, curses, pirates, ninjas, or survival arcs.",
       "The hint is in its recurring anime language: transformations, squads, tournaments, forbidden abilities, or painful backstories."
-    ]
+    ],
+    "tmdb_id": 82822,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Zombie Land Saga",
+      "ar": "أرض الزومبي ساغا",
+      "de": "Zombie Land Saga",
+      "el": "Zombie Land Saga",
+      "es": "Zombieland Saga",
+      "fr": "ZOMBIE LAND SAGA",
+      "he": "Zombie Land Saga",
+      "hi": "Zombie Land Saga",
+      "ja": "Zombie Land Saga",
+      "ko": "좀비 랜드 사가",
+      "ru": "Зомбилэнд Сага",
+      "zh": "佐賀偶像是傳奇"
+    }
   },
   {
     "celebrity": "Ergo Proxy",
@@ -1401,7 +3881,23 @@
       "Its clues draw from the power system, emotional stakes, rivalries, and visual motifs fans recognize.",
       "Think about the kind of setup it builds: student battles, monsters, curses, pirates, ninjas, or survival arcs.",
       "The hint is in its recurring anime language: transformations, squads, tournaments, forbidden abilities, or painful backstories."
-    ]
+    ],
+    "tmdb_id": 1097,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Ergo Proxy",
+      "ar": "Ergo Proxy",
+      "de": "Ergo Proxy",
+      "el": "Ergo Proxy",
+      "es": "Ergo Proxy",
+      "fr": "Ergo Proxy",
+      "he": "ארגו פרוקסי",
+      "hi": "Ergo Proxy",
+      "ja": "Ergo Proxy",
+      "ko": "에르고 프록시",
+      "ru": "Эрго Прокси",
+      "zh": "死亡代理人"
+    }
   },
   {
     "celebrity": "A Certain Scientific Railgun",
@@ -1410,7 +3906,23 @@
       "Its clues draw from the power system, emotional stakes, rivalries, and visual motifs fans recognize.",
       "Think about the kind of setup it builds: student battles, monsters, curses, pirates, ninjas, or survival arcs.",
       "The hint is in its recurring anime language: transformations, squads, tournaments, forbidden abilities, or painful backstories."
-    ]
+    ],
+    "tmdb_id": 30977,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "A Certain Scientific Railgun",
+      "ar": "A Certain Scientific Railgun",
+      "de": "A Certain Scientific Railgun",
+      "el": "A Certain Scientific Railgun",
+      "es": "A Certain Scientific Railgun",
+      "fr": "A Certain Scientific Railgun",
+      "he": "ריילגאן",
+      "hi": "A Certain Scientific Railgun",
+      "ja": "とある科学の超電磁砲",
+      "ko": "어떤 과학의 초전자포",
+      "ru": "Некий научный Рейлган",
+      "zh": "科學超電磁砲"
+    }
   },
   {
     "celebrity": "Moriarty the Patriot",
@@ -1419,7 +3931,23 @@
       "Its clues draw from the power system, emotional stakes, rivalries, and visual motifs fans recognize.",
       "Think about the kind of setup it builds: student battles, monsters, curses, pirates, ninjas, or survival arcs.",
       "The hint is in its recurring anime language: transformations, squads, tournaments, forbidden abilities, or painful backstories."
-    ]
+    ],
+    "tmdb_id": 100281,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Moriarty the Patriot",
+      "ar": "Moriarty the Patriot",
+      "de": "Moriarty the Patriot",
+      "el": "Moriarty the Patriot",
+      "es": "Moriarty the Patriot",
+      "fr": "Moriarty the Patriot",
+      "he": "מוריארטי הפטריוט",
+      "hi": "Moriarty the Patriot",
+      "ja": "憂国のモリアーティ",
+      "ko": "우국의 모리아티",
+      "ru": "Патриотизм Мориарти",
+      "zh": "憂國的莫里亞蒂"
+    }
   },
   {
     "celebrity": "The Familiar of Zero",
@@ -1428,7 +3956,23 @@
       "Its clues draw from the power system, emotional stakes, rivalries, and visual motifs fans recognize.",
       "Think about the kind of setup it builds: student battles, monsters, curses, pirates, ninjas, or survival arcs.",
       "The hint is in its recurring anime language: transformations, squads, tournaments, forbidden abilities, or painful backstories."
-    ]
+    ],
+    "tmdb_id": 35753,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "The Familiar of Zero",
+      "ar": "The Familiar of Zero",
+      "de": "The Familiar of Zero",
+      "el": "The Familiar of Zero",
+      "es": "La Magia de Zero",
+      "fr": "Zero no Tsukaima",
+      "he": "הקרוב של האפס",
+      "hi": "The Familiar of Zero",
+      "ja": "The Familiar of Zero",
+      "ko": "제로의 사역마",
+      "ru": "Фамильяр Зеро",
+      "zh": "零之使魔"
+    }
   },
   {
     "celebrity": "Barakamon",
@@ -1437,7 +3981,23 @@
       "Its clues draw from the power system, emotional stakes, rivalries, and visual motifs fans recognize.",
       "Think about the kind of setup it builds: student battles, monsters, curses, pirates, ninjas, or survival arcs.",
       "The hint is in its recurring anime language: transformations, squads, tournaments, forbidden abilities, or painful backstories."
-    ]
+    ],
+    "tmdb_id": 67048,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Barakamon",
+      "ar": "Barakamon",
+      "de": "Barakamon",
+      "el": "Barakamon",
+      "es": "Barakamon",
+      "fr": "Barakamon",
+      "he": "Barakamon",
+      "hi": "Barakamon",
+      "ja": "Barakamon",
+      "ko": "바라카몬",
+      "ru": "Баракамон",
+      "zh": "元氣囝仔"
+    }
   },
   {
     "celebrity": "In Another World With My Smartphone",
@@ -1446,7 +4006,23 @@
       "Its clues draw from the power system, emotional stakes, rivalries, and visual motifs fans recognize.",
       "Think about the kind of setup it builds: student battles, monsters, curses, pirates, ninjas, or survival arcs.",
       "The hint is in its recurring anime language: transformations, squads, tournaments, forbidden abilities, or painful backstories."
-    ]
+    ],
+    "tmdb_id": 72505,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "In Another World With My Smartphone",
+      "ar": "In Another World With My Smartphone",
+      "de": "In Another World With My Smartphone",
+      "el": "In Another World With My Smartphone",
+      "es": "Isekai wa Smartphone",
+      "fr": "In Another World With My Smartphone",
+      "he": "בעולם אחר עם הסמארטפון.",
+      "hi": "In Another World With My Smartphone",
+      "ja": "In Another World With My Smartphone",
+      "ko": "이세계는 스마트폰과 함께",
+      "ru": "В иной мир со смартфоном",
+      "zh": "帶着智能手機闖蕩異世界"
+    }
   },
   {
     "celebrity": "Hinamatsuri",
@@ -1455,7 +4031,23 @@
       "Its clues draw from the power system, emotional stakes, rivalries, and visual motifs fans recognize.",
       "Think about the kind of setup it builds: student battles, monsters, curses, pirates, ninjas, or survival arcs.",
       "The hint is in its recurring anime language: transformations, squads, tournaments, forbidden abilities, or painful backstories."
-    ]
+    ],
+    "tmdb_id": 76758,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Hinamatsuri",
+      "ar": "Hinamatsuri",
+      "de": "Hinamatsuri",
+      "el": "Hinamatsuri",
+      "es": "Hinamatsuri",
+      "fr": "Hinamatsuri",
+      "he": "פסטיבל ההינה",
+      "hi": "Hinamatsuri",
+      "ja": "Hinamatsuri",
+      "ko": "히나마츠리",
+      "ru": "Праздник кукол",
+      "zh": "極道超女"
+    }
   },
   {
     "celebrity": "The Dangers in My Heart",
@@ -1464,7 +4056,23 @@
       "Its clues draw from the power system, emotional stakes, rivalries, and visual motifs fans recognize.",
       "Think about the kind of setup it builds: student battles, monsters, curses, pirates, ninjas, or survival arcs.",
       "The hint is in its recurring anime language: transformations, squads, tournaments, forbidden abilities, or painful backstories."
-    ]
+    ],
+    "tmdb_id": 207250,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "The Dangers in My Heart",
+      "ar": "The Dangers in My Heart",
+      "de": "The Dangers in My Heart",
+      "el": "The Dangers in My Heart",
+      "es": "Peligros en mi corazón",
+      "fr": "The Dangers in My Heart",
+      "he": "הסכנות שבליבי",
+      "hi": "The Dangers in My Heart",
+      "ja": "The Dangers in My Heart",
+      "ko": "내 마음의 위험한 녀석",
+      "ru": "Опасность в моём сердце",
+      "zh": "我內心的糟糕念頭"
+    }
   },
   {
     "celebrity": "Asobi Asobase Workshop of Fun",
@@ -1473,7 +4081,23 @@
       "Its clues draw from the power system, emotional stakes, rivalries, and visual motifs fans recognize.",
       "Think about the kind of setup it builds: student battles, monsters, curses, pirates, ninjas, or survival arcs.",
       "The hint is in its recurring anime language: transformations, squads, tournaments, forbidden abilities, or painful backstories."
-    ]
+    ],
+    "tmdb_id": 80539,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Asobi Asobase Workshop of Fun",
+      "ar": "Asobi Asobase Workshop of Fun",
+      "de": "Asobi Asobase: Workshop of Fun",
+      "el": "Asobi Asobase Workshop of Fun",
+      "es": "Asobi Asobase: workshop of fun",
+      "fr": "Asobi Asobase - workshop of fun -",
+      "he": "אסובי אסובסה",
+      "hi": "Asobi Asobase Workshop of Fun",
+      "ja": "Asobi Asobase Workshop of Fun",
+      "ko": "즐겁게 놀아보세",
+      "ru": "Давайте сыграем",
+      "zh": "遊戲 3 人娘"
+    }
   },
   {
     "celebrity": "Citrus",
@@ -1482,7 +4106,23 @@
       "Its clues draw from the power system, emotional stakes, rivalries, and visual motifs fans recognize.",
       "Think about the kind of setup it builds: student battles, monsters, curses, pirates, ninjas, or survival arcs.",
       "The hint is in its recurring anime language: transformations, squads, tournaments, forbidden abilities, or painful backstories."
-    ]
+    ],
+    "tmdb_id": 76063,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Citrus",
+      "ar": "Citrus",
+      "de": "Citrus",
+      "el": "Citrus",
+      "es": "Citrus",
+      "fr": "Citrus",
+      "he": "סיטרוס",
+      "hi": "Citrus",
+      "ja": "Citrus",
+      "ko": "시트러스",
+      "ru": "Цитрус",
+      "zh": "Citrus～柑橘味香氣～"
+    }
   },
   {
     "celebrity": "Hellsing",
@@ -1491,7 +4131,23 @@
       "Its clues draw from the power system, emotional stakes, rivalries, and visual motifs fans recognize.",
       "Think about the kind of setup it builds: student battles, monsters, curses, pirates, ninjas, or survival arcs.",
       "The hint is in its recurring anime language: transformations, squads, tournaments, forbidden abilities, or painful backstories."
-    ]
+    ],
+    "tmdb_id": 16830,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Hellsing",
+      "ar": "Hellsing",
+      "de": "Hellsing",
+      "el": "Hellsing",
+      "es": "Hellsing",
+      "fr": "Hellsing",
+      "he": "הלסינג",
+      "hi": "Hellsing",
+      "ja": "Hellsing",
+      "ko": "헬싱",
+      "ru": "Хеллсинг: Война с нечистью",
+      "zh": "地獄之歌"
+    }
   },
   {
     "celebrity": "Megalobox",
@@ -1500,7 +4156,23 @@
       "Its clues draw from the power system, emotional stakes, rivalries, and visual motifs fans recognize.",
       "Think about the kind of setup it builds: student battles, monsters, curses, pirates, ninjas, or survival arcs.",
       "The hint is in its recurring anime language: transformations, squads, tournaments, forbidden abilities, or painful backstories."
-    ]
+    ],
+    "tmdb_id": 77939,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Megalobox",
+      "ar": "ميقالوبوكس",
+      "de": "Megalo Box",
+      "el": "Megalobox",
+      "es": "Megalo Box",
+      "fr": "Megalo Box",
+      "he": "מגאלובוקס",
+      "hi": "Megalobox",
+      "ja": "Megalobox",
+      "ko": "메갈로 복스",
+      "ru": "Мегалобокс",
+      "zh": "超级拳击"
+    }
   },
   {
     "celebrity": "A Lull in the Sea",
@@ -1509,7 +4181,23 @@
       "Its clues draw from the power system, emotional stakes, rivalries, and visual motifs fans recognize.",
       "Think about the kind of setup it builds: student battles, monsters, curses, pirates, ninjas, or survival arcs.",
       "The hint is in its recurring anime language: transformations, squads, tournaments, forbidden abilities, or painful backstories."
-    ]
+    ],
+    "tmdb_id": 61408,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "A Lull in the Sea",
+      "ar": "A Lull in the Sea",
+      "de": "Nagi no Asukara",
+      "el": "A Lull in the Sea",
+      "es": "Nagi no Asukara",
+      "fr": "Nagi no Asukara",
+      "he": "מהמחר הרגוע",
+      "hi": "A Lull in the Sea",
+      "ja": "A Lull in the Sea",
+      "ko": "잔잔한 내일로부터",
+      "ru": "Безоблачное завтра",
+      "zh": "來自風平浪靜的明天"
+    }
   },
   {
     "celebrity": "Bloom Into You",
@@ -1518,7 +4206,23 @@
       "Its clues draw from the power system, emotional stakes, rivalries, and visual motifs fans recognize.",
       "Think about the kind of setup it builds: student battles, monsters, curses, pirates, ninjas, or survival arcs.",
       "The hint is in its recurring anime language: transformations, squads, tournaments, forbidden abilities, or painful backstories."
-    ]
+    ],
+    "tmdb_id": 82861,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Bloom Into You",
+      "ar": "Bloom Into You",
+      "de": "Bloom Into You",
+      "el": "Bloom Into You",
+      "es": "Yagate Kimi ni Naru",
+      "fr": "Bloom Into You",
+      "he": "בקרוב אהפוך אלייך",
+      "hi": "Bloom Into You",
+      "ja": "Bloom Into You",
+      "ko": "이윽고 네가 된다",
+      "ru": "В конечном счёте я стану твоей",
+      "zh": "終將成為妳"
+    }
   },
   {
     "celebrity": "Gangsta",
@@ -1527,7 +4231,23 @@
       "Its clues draw from the power system, emotional stakes, rivalries, and visual motifs fans recognize.",
       "Think about the kind of setup it builds: student battles, monsters, curses, pirates, ninjas, or survival arcs.",
       "The hint is in its recurring anime language: transformations, squads, tournaments, forbidden abilities, or painful backstories."
-    ]
+    ],
+    "tmdb_id": 66390,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Gangsta",
+      "ar": "Gangsta",
+      "de": "Gangsta",
+      "el": "Gangsta",
+      "es": "Gangsta",
+      "fr": "Gangsta.",
+      "he": "גנגסטה.",
+      "hi": "Gangsta",
+      "ja": "Gangsta",
+      "ko": "갱스터",
+      "ru": "Гангста",
+      "zh": "黑街 GANGSTA."
+    }
   },
   {
     "celebrity": "My Happy Marriage",
@@ -1536,7 +4256,23 @@
       "Its clues draw from the power system, emotional stakes, rivalries, and visual motifs fans recognize.",
       "Think about the kind of setup it builds: student battles, monsters, curses, pirates, ninjas, or survival arcs.",
       "The hint is in its recurring anime language: transformations, squads, tournaments, forbidden abilities, or painful backstories."
-    ]
+    ],
+    "tmdb_id": 196944,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "My Happy Marriage",
+      "ar": "زواجي السعيد",
+      "de": "Meine ganz besondere Hochzeit",
+      "el": "Ο Ευτυχισμένος Γάμος μου",
+      "es": "Mi feliz matrimonio",
+      "fr": "Un heureux destin",
+      "he": "הנישואים המאושרים שלי",
+      "hi": "मेरी खुशहाल शादी",
+      "ja": "My Happy Marriage",
+      "ko": "나의 행복한 결혼",
+      "ru": "Мой счастливый брак",
+      "zh": "我的幸福婚约"
+    }
   },
   {
     "celebrity": "Golden Kamuy",
@@ -1545,7 +4281,23 @@
       "Its clues draw from the power system, emotional stakes, rivalries, and visual motifs fans recognize.",
       "Think about the kind of setup it builds: student battles, monsters, curses, pirates, ninjas, or survival arcs.",
       "The hint is in its recurring anime language: transformations, squads, tournaments, forbidden abilities, or painful backstories."
-    ]
+    ],
+    "tmdb_id": 76757,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Golden Kamuy",
+      "ar": "Golden Kamuy",
+      "de": "Golden Kamuy",
+      "el": "Golden Kamuy",
+      "es": "Golden Kamuy",
+      "fr": "Golden Kamui",
+      "he": "Golden Kamuy",
+      "hi": "Golden Kamuy",
+      "ja": "Golden Kamuy",
+      "ko": "골든 카무이",
+      "ru": "Золотое божество",
+      "zh": "黃金神威"
+    }
   },
   {
     "celebrity": "Recovery of an Mmo Junkie",
@@ -1554,7 +4306,23 @@
       "Its clues draw from the power system, emotional stakes, rivalries, and visual motifs fans recognize.",
       "Think about the kind of setup it builds: student battles, monsters, curses, pirates, ninjas, or survival arcs.",
       "The hint is in its recurring anime language: transformations, squads, tournaments, forbidden abilities, or painful backstories."
-    ]
+    ],
+    "tmdb_id": 74163,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Recovery of an Mmo Junkie",
+      "ar": "Recovery of an Mmo Junkie",
+      "de": "Recovery of an MMO Junkie",
+      "el": "Recovery of an Mmo Junkie",
+      "es": "Recovery of an MMO Junkie",
+      "fr": "Recovery of an MMO Junkie",
+      "he": "Recovery of an Mmo Junkie",
+      "hi": "Recovery of an Mmo Junkie",
+      "ja": "Recovery of an Mmo Junkie",
+      "ko": "이 게임 폐인이 사는 법",
+      "ru": "Полноценная жизнь онлайн",
+      "zh": "網路勝利組"
+    }
   },
   {
     "celebrity": "The World God Only Knows",
@@ -1563,7 +4331,23 @@
       "Its clues draw from the power system, emotional stakes, rivalries, and visual motifs fans recognize.",
       "Think about the kind of setup it builds: student battles, monsters, curses, pirates, ninjas, or survival arcs.",
       "The hint is in its recurring anime language: transformations, squads, tournaments, forbidden abilities, or painful backstories."
-    ]
+    ],
+    "tmdb_id": 56351,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "The World God Only Knows",
+      "ar": "The World God Only Knows",
+      "de": "The World God Only Knows",
+      "el": "The World God Only Knows",
+      "es": "Kami nomi zo Shiru Sekai",
+      "fr": "Que sa volonté soit faite",
+      "he": "The World God Only Knows",
+      "hi": "The World God Only Knows",
+      "ja": "神のみぞ知るセカイ",
+      "ko": "신만이 아는 세계",
+      "ru": "Одному лишь Богу ведомый мир",
+      "zh": "只有神知道的世界"
+    }
   },
   {
     "celebrity": "Sentenced to Be a Hero",
@@ -1572,7 +4356,23 @@
       "Its clues draw from the power system, emotional stakes, rivalries, and visual motifs fans recognize.",
       "Think about the kind of setup it builds: student battles, monsters, curses, pirates, ninjas, or survival arcs.",
       "The hint is in its recurring anime language: transformations, squads, tournaments, forbidden abilities, or painful backstories."
-    ]
+    ],
+    "tmdb_id": 249907,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Sentenced to Be a Hero",
+      "ar": "محكوم عليه أن يكون بطلاً",
+      "de": "Sentenced to Be a Hero",
+      "el": "Sentenced to Be a Hero",
+      "es": "Sentenced to Be a Hero",
+      "fr": "Sentenced to Be a Hero",
+      "he": "Sentenced to Be a Hero",
+      "hi": "Sentenced to Be a Hero",
+      "ja": "Sentenced to Be a Hero",
+      "ko": "용사형에 처함",
+      "ru": "Наказание для храброго героя",
+      "zh": "判處勇者刑"
+    }
   },
   {
     "celebrity": "Rokka Braves of the Six Flowers",
@@ -1581,7 +4381,23 @@
       "Its clues draw from the power system, emotional stakes, rivalries, and visual motifs fans recognize.",
       "Think about the kind of setup it builds: student battles, monsters, curses, pirates, ninjas, or survival arcs.",
       "The hint is in its recurring anime language: transformations, squads, tournaments, forbidden abilities, or painful backstories."
-    ]
+    ],
+    "tmdb_id": 63146,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Rokka Braves of the Six Flowers",
+      "ar": "Rokka Braves of the Six Flowers",
+      "de": "Rokka - Die Helden der sechs Blumen",
+      "el": "Rokka Braves of the Six Flowers",
+      "es": "Rokka: Braves of the Six Flowers",
+      "fr": "Rokka –Braves of the Six Flowers–",
+      "he": "גיבורי ששת הפרחים",
+      "hi": "Rokka Braves of the Six Flowers",
+      "ja": "Rokka Braves of the Six Flowers",
+      "ko": "육화의 용사",
+      "ru": "Герои Шести Цветов",
+      "zh": "六花的勇者"
+    }
   },
   {
     "celebrity": "Accel World",
@@ -1590,7 +4406,23 @@
       "Its clues draw from the power system, emotional stakes, rivalries, and visual motifs fans recognize.",
       "Think about the kind of setup it builds: student battles, monsters, curses, pirates, ninjas, or survival arcs.",
       "The hint is in its recurring anime language: transformations, squads, tournaments, forbidden abilities, or painful backstories."
-    ]
+    ],
+    "tmdb_id": 43167,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Accel World",
+      "ar": "Accel World",
+      "de": "Accel World",
+      "el": "Accel World",
+      "es": "Accel World",
+      "fr": "Accel World",
+      "he": "עולם מואץ",
+      "hi": "Accel World",
+      "ja": "アクセル・ワールド",
+      "ko": "액셀월드",
+      "ru": "Ускоренный мир",
+      "zh": "加速世界"
+    }
   },
   {
     "celebrity": "Death March to the Parallel World Rhapsody",
@@ -1599,7 +4431,23 @@
       "Its clues draw from the power system, emotional stakes, rivalries, and visual motifs fans recognize.",
       "Think about the kind of setup it builds: student battles, monsters, curses, pirates, ninjas, or survival arcs.",
       "The hint is in its recurring anime language: transformations, squads, tournaments, forbidden abilities, or painful backstories."
-    ]
+    ],
+    "tmdb_id": 76122,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Death March to the Parallel World Rhapsody",
+      "ar": "Death March to the Parallel World Rhapsody",
+      "de": "Death March to the Parallel World Rhapsody",
+      "el": "Death March to the Parallel World Rhapsody",
+      "es": "Death March to the Parallel World Rhapsody",
+      "fr": "Death March to the Parallel World Rhapsody",
+      "he": "צעדת מוות אל הקפריצ'ו של העולם המקביל",
+      "hi": "Death March to the Parallel World Rhapsody",
+      "ja": "Death March to the Parallel World Rhapsody",
+      "ko": "데스마치에서 시작되는 이세계 광상곡",
+      "ru": "Марш смерти под рапсодию параллельного мира",
+      "zh": "爆肝工程師的異世界狂想曲"
+    }
   },
   {
     "celebrity": "Fate Apocrypha",
@@ -1608,7 +4456,23 @@
       "Its clues draw from the power system, emotional stakes, rivalries, and visual motifs fans recognize.",
       "Think about the kind of setup it builds: student battles, monsters, curses, pirates, ninjas, or survival arcs.",
       "The hint is in its recurring anime language: transformations, squads, tournaments, forbidden abilities, or painful backstories."
-    ]
+    ],
+    "tmdb_id": 72304,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Fate Apocrypha",
+      "ar": "Fate Apocrypha",
+      "de": "Fate Apocrypha",
+      "el": "Fate/Απόκρυφα",
+      "es": "Fate Apocrypha",
+      "fr": "Fate Apocrypha",
+      "he": "פייט אפוקריפה",
+      "hi": "Fate Apocrypha",
+      "ja": "Fate Apocrypha",
+      "ko": "페이트 / 아포크리파",
+      "ru": "Судьба: Апокриф",
+      "zh": "命運／外傳"
+    }
   },
   {
     "celebrity": "Hunter X Hunter",
@@ -1617,7 +4481,23 @@
       "Its clues draw from the power system, emotional stakes, rivalries, and visual motifs fans recognize.",
       "Think about the kind of setup it builds: student battles, monsters, curses, pirates, ninjas, or survival arcs.",
       "The hint is in its recurring anime language: transformations, squads, tournaments, forbidden abilities, or painful backstories."
-    ]
+    ],
+    "tmdb_id": 46298,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Hunter X Hunter",
+      "ar": "القناص",
+      "de": "Hunter x Hunter",
+      "el": "Hunter x Hunter",
+      "es": "Hunter × Hunter",
+      "fr": "Hunter x Hunter",
+      "he": "האנטר × האנטר",
+      "hi": "Hunter X Hunter",
+      "ja": "HUNTER×HUNTER",
+      "ko": "헌터x헌터",
+      "ru": "Охотник х Охотник",
+      "zh": "全職獵人"
+    }
   },
   {
     "celebrity": "Drifters",
@@ -1626,7 +4506,23 @@
       "Its clues draw from the power system, emotional stakes, rivalries, and visual motifs fans recognize.",
       "Think about the kind of setup it builds: student battles, monsters, curses, pirates, ninjas, or survival arcs.",
       "The hint is in its recurring anime language: transformations, squads, tournaments, forbidden abilities, or painful backstories."
-    ]
+    ],
+    "tmdb_id": 68103,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Drifters",
+      "ar": "دريفترز",
+      "de": "Drifters",
+      "el": "Drifters",
+      "es": "Drifters",
+      "fr": "Drifters",
+      "he": "דריפטרס",
+      "hi": "Drifters",
+      "ja": "Drifters",
+      "ko": "드리프터즈",
+      "ru": "Скитальцы",
+      "zh": "漂流武士"
+    }
   },
   {
     "celebrity": "Gabriel Dropout",
@@ -1635,7 +4531,23 @@
       "Its clues draw from the power system, emotional stakes, rivalries, and visual motifs fans recognize.",
       "Think about the kind of setup it builds: student battles, monsters, curses, pirates, ninjas, or survival arcs.",
       "The hint is in its recurring anime language: transformations, squads, tournaments, forbidden abilities, or painful backstories."
-    ]
+    ],
+    "tmdb_id": 69285,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Gabriel Dropout",
+      "ar": "Gabriel Dropout",
+      "de": "Gabriel Dropout",
+      "el": "Gabriel Dropout",
+      "es": "Gabriel DropOut",
+      "fr": "Gabriel Dropout",
+      "he": "Gabriel Dropout",
+      "hi": "Gabriel Dropout",
+      "ja": "ガヴリールドロップアウト",
+      "ko": "가브릴 드롭아웃",
+      "ru": "Отступница Габриэль",
+      "zh": "廢天使加百列"
+    }
   },
   {
     "celebrity": "How a Realist Hero Rebuilt the Kingdom",
@@ -1644,7 +4556,23 @@
       "Its clues draw from the power system, emotional stakes, rivalries, and visual motifs fans recognize.",
       "Think about the kind of setup it builds: student battles, monsters, curses, pirates, ninjas, or survival arcs.",
       "The hint is in its recurring anime language: transformations, squads, tournaments, forbidden abilities, or painful backstories."
-    ]
+    ],
+    "tmdb_id": 102088,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "How a Realist Hero Rebuilt the Kingdom",
+      "ar": "How a Realist Hero Rebuilt the Kingdom",
+      "de": "How a Realist Hero Rebuilt the Kingdom",
+      "el": "How a Realist Hero Rebuilt the Kingdom",
+      "es": "How a Realist Hero Rebuilt the Kingdom",
+      "fr": "How a Realist Hero Rebuilt the Kingdom",
+      "he": "How a Realist Hero Rebuilt the Kingdom",
+      "hi": "How a Realist Hero Rebuilt the Kingdom",
+      "ja": "How a Realist Hero Rebuilt the Kingdom",
+      "ko": "현실주의 용사의 왕국 재건기",
+      "ru": "Герой-рационал перестраивает королевство",
+      "zh": "現實主義勇者的王國重建記"
+    }
   },
   {
     "celebrity": "Sonny Boy",
@@ -1653,7 +4581,23 @@
       "Its clues draw from the power system, emotional stakes, rivalries, and visual motifs fans recognize.",
       "Think about the kind of setup it builds: student battles, monsters, curses, pirates, ninjas, or survival arcs.",
       "The hint is in its recurring anime language: transformations, squads, tournaments, forbidden abilities, or painful backstories."
-    ]
+    ],
+    "tmdb_id": 124396,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Sonny Boy",
+      "ar": "Sonny Boy",
+      "de": "Sonny Boy",
+      "el": "Sonny Boy",
+      "es": "Sonny Boy",
+      "fr": "Sonny Boy",
+      "he": "Sonny Boy",
+      "hi": "Sonny Boy",
+      "ja": "Sonny Boy",
+      "ko": "Sonny Boy",
+      "ru": "Сонни Бой",
+      "zh": "漂流少年"
+    }
   },
   {
     "celebrity": "Oreshura",
@@ -1662,7 +4606,23 @@
       "Its clues draw from the power system, emotional stakes, rivalries, and visual motifs fans recognize.",
       "Think about the kind of setup it builds: student battles, monsters, curses, pirates, ninjas, or survival arcs.",
       "The hint is in its recurring anime language: transformations, squads, tournaments, forbidden abilities, or painful backstories."
-    ]
+    ],
+    "tmdb_id": 53296,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Oreshura",
+      "ar": "Oreshura",
+      "de": "Oreshura",
+      "el": "Oreshura",
+      "es": "Ore no Kanojo to Osananajimi ga Shuraba Sugiru",
+      "fr": "OreShura",
+      "he": "Oreshura",
+      "hi": "Oreshura",
+      "ja": "Oreshura",
+      "ko": "내 여자친구와 소꿉친구가 완전 수라장",
+      "ru": "Моя девушка и подруга детства часто ссорятся",
+      "zh": "我女友與青梅竹馬的慘烈修羅場"
+    }
   },
   {
     "celebrity": "A Sign of Affection",
@@ -1671,7 +4631,23 @@
       "Its clues draw from the power system, emotional stakes, rivalries, and visual motifs fans recognize.",
       "Think about the kind of setup it builds: student battles, monsters, curses, pirates, ninjas, or survival arcs.",
       "The hint is in its recurring anime language: transformations, squads, tournaments, forbidden abilities, or painful backstories."
-    ]
+    ],
+    "tmdb_id": 230059,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "A Sign of Affection",
+      "ar": "A Sign of Affection",
+      "de": "A Sign of Affection",
+      "el": "A Sign of Affection",
+      "es": "Signos de afecto",
+      "fr": "A Sign of Affection",
+      "he": "חיבה בקצות האצבעות",
+      "hi": "A Sign of Affection",
+      "ja": "A Sign of Affection",
+      "ko": "손끝과 연연",
+      "ru": "Любовь с кончиков пальцев",
+      "zh": "指尖相觸，戀戀不捨"
+    }
   },
   {
     "celebrity": "Lovely Complex",
@@ -1680,7 +4656,23 @@
       "Its clues draw from the power system, emotional stakes, rivalries, and visual motifs fans recognize.",
       "Think about the kind of setup it builds: student battles, monsters, curses, pirates, ninjas, or survival arcs.",
       "The hint is in its recurring anime language: transformations, squads, tournaments, forbidden abilities, or painful backstories."
-    ]
+    ],
+    "tmdb_id": 27167,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Lovely Complex",
+      "ar": "Lovely Complex",
+      "de": "Lovely Complex",
+      "el": "Lovely Complex",
+      "es": "Lovely Complex",
+      "fr": "Lovely Complex",
+      "he": "Lovely Complex",
+      "hi": "Lovely Complex",
+      "ja": "ラブ★コン",
+      "ko": "러브 콤플렉스",
+      "ru": "Трогательный комплекс",
+      "zh": "戀愛情結"
+    }
   },
   {
     "celebrity": "Shiki",
@@ -1689,7 +4681,23 @@
       "Its clues draw from the power system, emotional stakes, rivalries, and visual motifs fans recognize.",
       "Think about the kind of setup it builds: student battles, monsters, curses, pirates, ninjas, or survival arcs.",
       "The hint is in its recurring anime language: transformations, squads, tournaments, forbidden abilities, or painful backstories."
-    ]
+    ],
+    "tmdb_id": 36581,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Shiki",
+      "ar": "شيكي - الجثث الشيطانية",
+      "de": "Shiki",
+      "el": "Shiki",
+      "es": "Shiki",
+      "fr": "Shiki",
+      "he": "שיקי",
+      "hi": "Shiki",
+      "ja": "屍鬼",
+      "ko": "시귀",
+      "ru": "Усопшие",
+      "zh": "屍鬼"
+    }
   },
   {
     "celebrity": "Platinum End",
@@ -1698,7 +4706,23 @@
       "Its clues draw from the power system, emotional stakes, rivalries, and visual motifs fans recognize.",
       "Think about the kind of setup it builds: student battles, monsters, curses, pirates, ninjas, or survival arcs.",
       "The hint is in its recurring anime language: transformations, squads, tournaments, forbidden abilities, or painful backstories."
-    ]
+    ],
+    "tmdb_id": 114892,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Platinum End",
+      "ar": "Platinum End",
+      "de": "Platinum End",
+      "el": "Platinum End",
+      "es": "Platinum End",
+      "fr": "Platinum End",
+      "he": "סוף הפלטינה",
+      "hi": "Platinum End",
+      "ja": "プラチナエンド",
+      "ko": "플래티넘 엔드",
+      "ru": "Платиновый предел",
+      "zh": "白金終局"
+    }
   },
   {
     "celebrity": "Paranoia Agent",
@@ -1707,7 +4731,23 @@
       "Its clues draw from the power system, emotional stakes, rivalries, and visual motifs fans recognize.",
       "Think about the kind of setup it builds: student battles, monsters, curses, pirates, ninjas, or survival arcs.",
       "The hint is in its recurring anime language: transformations, squads, tournaments, forbidden abilities, or painful backstories."
-    ]
+    ],
+    "tmdb_id": 9343,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Paranoia Agent",
+      "ar": "Paranoia Agent",
+      "de": "Paranoia Agent",
+      "el": "Paranoia Agent",
+      "es": "Paranoia Agent",
+      "fr": "Paranoia Agent",
+      "he": "Paranoia Agent",
+      "hi": "Paranoia Agent",
+      "ja": "Paranoia Agent",
+      "ko": "망상대리인",
+      "ru": "Агент паранойи",
+      "zh": "妄想代理人"
+    }
   },
   {
     "celebrity": "Dragon Ball Gt",
@@ -1716,7 +4756,23 @@
       "Its clues draw from the power system, emotional stakes, rivalries, and visual motifs fans recognize.",
       "Think about the kind of setup it builds: student battles, monsters, curses, pirates, ninjas, or survival arcs.",
       "The hint is in its recurring anime language: transformations, squads, tournaments, forbidden abilities, or painful backstories."
-    ]
+    ],
+    "tmdb_id": 12697,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Dragon Ball Gt",
+      "ar": "دراغون بول جي تي",
+      "de": "Dragonball GT",
+      "el": "Dragon Ball GT",
+      "es": "Dragon Ball GT",
+      "fr": "Dragon Ball GT",
+      "he": "דרגון בול ג'י-טי",
+      "hi": "Dragon Ball Gt",
+      "ja": "ドラゴンボールGT",
+      "ko": "드래곤볼 GT",
+      "ru": "Драгонболл Джи-Ти",
+      "zh": "龍珠 GT"
+    }
   },
   {
     "celebrity": "Tamako Market",
@@ -1725,7 +4781,23 @@
       "Its clues draw from the power system, emotional stakes, rivalries, and visual motifs fans recognize.",
       "Think about the kind of setup it builds: student battles, monsters, curses, pirates, ninjas, or survival arcs.",
       "The hint is in its recurring anime language: transformations, squads, tournaments, forbidden abilities, or painful backstories."
-    ]
+    ],
+    "tmdb_id": 48561,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Tamako Market",
+      "ar": "Tamako Market",
+      "de": "Tamako Market",
+      "el": "Tamako Market",
+      "es": "Tamako Market",
+      "fr": "Tamako Market",
+      "he": "Tamako Market",
+      "hi": "Tamako Market",
+      "ja": "Tamako Market",
+      "ko": "타마코 마켓",
+      "ru": "Магазинчик Тамако",
+      "zh": "玉子市場"
+    }
   },
   {
     "celebrity": "Uncle from Another World",
@@ -1734,7 +4806,23 @@
       "Its clues draw from the power system, emotional stakes, rivalries, and visual motifs fans recognize.",
       "Think about the kind of setup it builds: student battles, monsters, curses, pirates, ninjas, or survival arcs.",
       "The hint is in its recurring anime language: transformations, squads, tournaments, forbidden abilities, or painful backstories."
-    ]
+    ],
+    "tmdb_id": 127714,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Uncle from Another World",
+      "ar": "Uncle from Another World",
+      "de": "Uncle from Another World",
+      "el": "Θείος από Άλλο Κόσμο",
+      "es": "Mi tío es de otro mundo",
+      "fr": "Coma héroïque dans un autre monde",
+      "he": "דוד מעולם אחר",
+      "hi": "Uncle from Another World",
+      "ja": "Uncle from Another World",
+      "ko": "이세계 삼촌",
+      "ru": "Перерождение Дяди",
+      "zh": "异世界归来的舅舅"
+    }
   },
   {
     "celebrity": "Skip and Loafer",
@@ -1743,7 +4831,23 @@
       "Its clues draw from the power system, emotional stakes, rivalries, and visual motifs fans recognize.",
       "Think about the kind of setup it builds: student battles, monsters, curses, pirates, ninjas, or survival arcs.",
       "The hint is in its recurring anime language: transformations, squads, tournaments, forbidden abilities, or painful backstories."
-    ]
+    ],
+    "tmdb_id": 139130,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Skip and Loafer",
+      "ar": "Skip and Loafer",
+      "de": "Skip and Loafer",
+      "el": "Skip and Loafer",
+      "es": "Skip and Loafer",
+      "fr": "Skip and Loafer",
+      "he": "Skip and Loafer",
+      "hi": "Skip and Loafer",
+      "ja": "Skip and Loafer",
+      "ko": "스킵과 로퍼",
+      "ru": "Долой безделье!",
+      "zh": "躍動青春"
+    }
   },
   {
     "celebrity": "Aho Girl",
@@ -1752,7 +4856,23 @@
       "Its clues draw from the power system, emotional stakes, rivalries, and visual motifs fans recognize.",
       "Think about the kind of setup it builds: student battles, monsters, curses, pirates, ninjas, or survival arcs.",
       "The hint is in its recurring anime language: transformations, squads, tournaments, forbidden abilities, or painful backstories."
-    ]
+    ],
+    "tmdb_id": 72502,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Aho Girl",
+      "ar": "Aho Girl",
+      "de": "Aho-Girl",
+      "el": "Aho Girl",
+      "es": "AHO-GIRL",
+      "fr": "Aho Girl",
+      "he": "אהו-גירל",
+      "hi": "Aho Girl",
+      "ja": "アホガール",
+      "ko": "바보걸",
+      "ru": "Дурочка",
+      "zh": "單蠢女孩"
+    }
   },
   {
     "celebrity": "Kemono Jihen",
@@ -1761,7 +4881,23 @@
       "Its clues draw from the power system, emotional stakes, rivalries, and visual motifs fans recognize.",
       "Think about the kind of setup it builds: student battles, monsters, curses, pirates, ninjas, or survival arcs.",
       "The hint is in its recurring anime language: transformations, squads, tournaments, forbidden abilities, or painful backstories."
-    ]
+    ],
+    "tmdb_id": 100022,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Kemono Jihen",
+      "ar": "Kemono Jihen",
+      "de": "Kemono Jihen",
+      "el": "Kemono Jihen",
+      "es": "Kemono Jihen",
+      "fr": "Kemono Incidents",
+      "he": "תקריות מפלצתיות",
+      "hi": "Kemono Jihen",
+      "ja": "Kemono Jihen",
+      "ko": "괴물사변",
+      "ru": "Инцидент Кэмоно",
+      "zh": "怪物事變"
+    }
   },
   {
     "celebrity": "The Detective Is Already Dead",
@@ -1770,7 +4906,23 @@
       "Its clues draw from the power system, emotional stakes, rivalries, and visual motifs fans recognize.",
       "Think about the kind of setup it builds: student battles, monsters, curses, pirates, ninjas, or survival arcs.",
       "The hint is in its recurring anime language: transformations, squads, tournaments, forbidden abilities, or painful backstories."
-    ]
+    ],
+    "tmdb_id": 117061,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "The Detective Is Already Dead",
+      "ar": "The Detective Is Already Dead",
+      "de": "The Detective Is Already Dead",
+      "el": "The Detective Is Already Dead",
+      "es": "The Detective Is Already Dead",
+      "fr": "The Detective is Already Dead",
+      "he": "The Detective Is Already Dead",
+      "hi": "The Detective Is Already Dead",
+      "ja": "The Detective Is Already Dead",
+      "ko": "탐정은 이미 죽었다",
+      "ru": "Детектив уже мертв",
+      "zh": "偵探已經，死了。"
+    }
   },
   {
     "celebrity": "Tanaka Kun Is Always Listless",
@@ -1779,7 +4931,23 @@
       "Its clues draw from the power system, emotional stakes, rivalries, and visual motifs fans recognize.",
       "Think about the kind of setup it builds: student battles, monsters, curses, pirates, ninjas, or survival arcs.",
       "The hint is in its recurring anime language: transformations, squads, tournaments, forbidden abilities, or painful backstories."
-    ]
+    ],
+    "tmdb_id": 66077,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Tanaka Kun Is Always Listless",
+      "ar": "Tanaka Kun Is Always Listless",
+      "de": "Tanaka-kun is Always Listless",
+      "el": "Tanaka Kun Is Always Listless",
+      "es": "Tanaka-kun wa Itsumo Kedaruge",
+      "fr": "Tanaka-kun is Always Listless",
+      "he": "Tanaka Kun Is Always Listless",
+      "hi": "Tanaka Kun Is Always Listless",
+      "ja": "Tanaka Kun Is Always Listless",
+      "ko": "타나카 군은 항상 나른해",
+      "ru": "Всегда вялый Танака-кун",
+      "zh": "田中君總是如此慵懶"
+    }
   },
   {
     "celebrity": "The Summer Hikaru Died",
@@ -1788,7 +4956,23 @@
       "Its clues draw from the power system, emotional stakes, rivalries, and visual motifs fans recognize.",
       "Think about the kind of setup it builds: student battles, monsters, curses, pirates, ninjas, or survival arcs.",
       "The hint is in its recurring anime language: transformations, squads, tournaments, forbidden abilities, or painful backstories."
-    ]
+    ],
+    "tmdb_id": 278196,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "The Summer Hikaru Died",
+      "ar": "صيف وفاة هيكارو",
+      "de": "Der Sommer, in dem Hikaru starb",
+      "el": "The Summer Hikaru Died",
+      "es": "El verano en que Hikaru murió",
+      "fr": "The Summer Hikaru Died",
+      "he": "הקיץ שבו היקארו מת",
+      "hi": "द समर हिकारू डाइड",
+      "ja": "The Summer Hikaru Died",
+      "ko": "히카루가 죽은 여름",
+      "ru": "Лето, когда погас свет",
+      "zh": "光死去的夏天"
+    }
   },
   {
     "celebrity": "Ping Pong the Animation",
@@ -1797,6 +4981,22 @@
       "Its clues draw from the power system, emotional stakes, rivalries, and visual motifs fans recognize.",
       "Think about the kind of setup it builds: student battles, monsters, curses, pirates, ninjas, or survival arcs.",
       "The hint is in its recurring anime language: transformations, squads, tournaments, forbidden abilities, or painful backstories."
-    ]
+    ],
+    "tmdb_id": 60811,
+    "media_type": "tv",
+    "localized_titles": {
+      "am": "Ping Pong the Animation",
+      "ar": "Ping Pong the Animation",
+      "de": "Ping Pong the Animation",
+      "el": "Ping Pong the Animation",
+      "es": "Ping Pong The Animation",
+      "fr": "Ping Pong The Animation",
+      "he": "Ping Pong the Animation",
+      "hi": "Ping Pong the Animation",
+      "ja": "Ping Pong the Animation",
+      "ko": "핑퐁 The Animation",
+      "ru": "Пинг-понг",
+      "zh": "桌球 THE ANIMATION"
+    }
   }
 ]
