@@ -1,0 +1,192 @@
+[
+  {
+    "celebrity": "Gal Gadot",
+    "gender": "Female",
+    "facts": [
+      "Se hizo conocida internacionalmente como Wonder Woman en las películas de DC después de su primera aparición en la franquicia Fast & Furious.",
+      "Nació en Petah Tikva y creció en Rosh HaAyin, y sirvió en las Fuerzas de Defensa de Israel antes de su carrera como actriz.",
+      "Fue coronada Miss Israel en 2004 y luego pasó al modelaje, el cine y la producción."
+    ],
+    "tmdb_id": 90633
+  },
+  {
+    "celebrity": "Noa Kirel",
+    "gender": "Female",
+    "facts": [
+      "Representó a Israel en Eurovisión 2023 con Unicorn y terminó en tercer lugar.",
+      "Comenzó a lanzar sencillos pop cuando era adolescente y se convirtió en una de las artistas jóvenes más exitosas de Israel.",
+      "Ha ganado múltiples premios MTV Europe Music Awards a la mejor actuación israelí."
+    ],
+    "tmdb_id": 1849493
+  },
+  {
+    "celebrity": "Ninet Tayeb",
+    "gender": "Female",
+    "facts": [
+      "Ganó la primera temporada de Kokhav Nolad y se convirtió en una importante estrella de la música y la televisión israelí.",
+      "Más tarde se decantó por el rock y la música alternativa, lanzando álbumes originales en hebreo e inglés.",
+      "También ha actuado en la televisión y el cine israelíes."
+    ],
+    "tmdb_id": 118410
+  },
+  {
+    "celebrity": "Bar Refaeli",
+    "gender": "Female",
+    "facts": [
+      "Se convirtió en una de las modelos de moda internacionales más conocidas de Israel.",
+      "Apareció en la portada de la edición de trajes de baño de Sports Illustrated en 2009.",
+      "Ha presentado programas de televisión israelíes, incluido The X Factor Israel."
+    ],
+    "tmdb_id": 223139
+  },
+  {
+    "celebrity": "Rotem Sela",
+    "gender": "Female",
+    "facts": [
+      "Es una destacada actriz, modelo y presentadora de televisión israelí.",
+      "Fue copresentadora de importantes programas israelíes en horario de máxima audiencia, incluido Rising Star.",
+      "Protagonizó la serie israelí Beauty and the Baker."
+    ],
+    "tmdb_id": 1312131
+  },
+  {
+    "celebrity": "Yehuda Levi",
+    "gender": "Male",
+    "facts": [
+      "Es un destacado actor israelí conocido por papeles en televisión, cine y teatro.",
+      "Protagonizó series populares como Lechayey HaAhava y Very Importante Person.",
+      "Ha ganado premios de la televisión israelí por su trabajo actoral."
+    ],
+    "tmdb_id": 82098
+  },
+  {
+    "celebrity": "Lior Raz",
+    "gender": "Male",
+    "facts": [
+      "Co-creó y protagonizó Fauda, ​​una de las series de televisión israelíes de mayor éxito internacional.",
+      "Antes de actuar, sirvió en una unidad antiterrorista de élite de las FDI.",
+      "Ha aparecido en producciones internacionales como 6 Underground y Hit & Run."
+    ],
+    "tmdb_id": 1259880
+  },
+  {
+    "celebrity": "Shira Haas",
+    "gender": "Female",
+    "facts": [
+      "Obtuvo elogios internacionales por su papel principal en Unorthodox.",
+      "Fue nominada a un Emmy y a un Globo de Oro por Unorthodox.",
+      "También protagonizó la película israelí Asia, ganando reconocimiento en importantes festivales."
+    ],
+    "tmdb_id": 1394332
+  },
+  {
+    "celebrity": "Ayelet Zurer",
+    "gender": "Female",
+    "facts": [
+      "Ha actuado en producciones israelíes, estadounidenses e internacionales.",
+      "Sus créditos en Hollywood incluyen Munich, Angels & Demons y Man of Steel.",
+      "Ganó el Premio de la Academia Israelí a la Mejor Actriz por Las tragedias de Nina."
+    ],
+    "tmdb_id": 8786
+  },
+  {
+    "celebrity": "Assi Azar",
+    "gender": "Male",
+    "facts": [
+      "Es un presentador de televisión y guionista israelí.",
+      "Fue coanfitrión de Eurovisión 2019 en Tel Aviv.",
+      "Creó la serie de comedia romántica Beauty and the Baker."
+    ],
+    "tmdb_id": 1260240
+  },
+  {
+    "celebrity": "Erez Tal",
+    "gender": "Male",
+    "facts": [
+      "Es uno de los presentadores y productores de televisión más reconocidos de Israel.",
+      "Co-creó y presentó el programa satírico Rak BeYisrael.",
+      "Fue anfitrión de los principales formatos israelíes, incluidos Gran Hermano y Eurovisión 2019."
+    ],
+    "tmdb_id": 1260237
+  },
+  {
+    "celebrity": "Lucy Ayoub",
+    "gender": "Female",
+    "facts": [
+      "Es una presentadora de televisión, poeta y locutora de radio israelí.",
+      "Fue copresentadora de Eurovisión 2019 en Tel Aviv.",
+      "Ha presentado programas culturales y de entretenimiento para la radiodifusión pública israelí."
+    ],
+    "tmdb_id": 2602441
+  },
+  {
+    "celebrity": "Idan Raichel",
+    "gender": "Male",
+    "facts": [
+      "Fundó un exitoso proyecto israelí de música mundial construido en torno a colaboraciones con muchos cantantes.",
+      "Su música combina letras hebreas con influencias de música etíope, de Medio Oriente, latina y mundial.",
+      "Ha colaborado con artistas internacionales como India.Arie y Alicia Keys."
+    ],
+    "tmdb_id": 1515339
+  },
+  {
+    "celebrity": "Ofra Haza",
+    "gender": "Female",
+    "facts": [
+      "Logró éxito internacional con música que mezclaba las tradiciones judías yemenitas y el pop.",
+      "Su álbum Shaday se convirtió en un gran avance mundial a finales de los años 1980.",
+      "Fue nominada a un premio Grammy."
+    ],
+    "tmdb_id": 1008866
+  },
+  {
+    "celebrity": "Miri Mesika",
+    "gender": "Female",
+    "facts": [
+      "Es una cantante y actriz israelí conocida por sus poderosas baladas.",
+      "Su álbum debut se convirtió en un gran éxito en Israel.",
+      "También actuó en teatro y se desempeñó como juez musical de televisión."
+    ],
+    "tmdb_id": 1259893
+  },
+  {
+    "celebrity": "Kobi Oz",
+    "gender": "Male",
+    "facts": [
+      "Es el cantante principal de la banda Teapacks.",
+      "Teapacks representó a Israel en Eurovisión 2007.",
+      "Su composición a menudo mezcla humor, comentarios sociales e influencias mizrahi."
+    ],
+    "tmdb_id": 3148190
+  },
+  {
+    "celebrity": "Maya Dagan",
+    "gender": "Female",
+    "facts": [
+      "Es una actriz y comediante israelí conocida por la televisión, el cine y el teatro.",
+      "Obtuvo elogios por sus papeles en producciones dramáticas y de comedia israelíes.",
+      "Ha actuado en importantes musicales teatrales israelíes."
+    ],
+    "tmdb_id": 1035321
+  },
+  {
+    "celebrity": "Guri Alfi",
+    "gender": "Male",
+    "facts": [
+      "Es un comediante, actor, escritor y presentador de televisión israelí.",
+      "Creó y presentó programas de comedia y entrevistas en Israel.",
+      "También ha actuado en series de comedia y drama israelíes."
+    ],
+    "tmdb_id": 226068
+  },
+  {
+    "celebrity": "Keren Mor",
+    "gender": "Female",
+    "facts": [
+      "Es una aclamada actriz y comediante israelí.",
+      "Se hizo famosa gracias al programa de sketches HaHamishia HaKamerit.",
+      "Ha ganado premios de teatro y televisión israelíes."
+    ],
+    "tmdb_id": 20043
+  }
+]
