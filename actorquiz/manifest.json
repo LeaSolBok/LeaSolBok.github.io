@@ -38,7 +38,7 @@
       "geminiFolder": "actors-singers/singers gemini",
       "originalFolder": "actors-singers/presingers",
       "releaseDate": null,
-      "isVip": false,
+      "isVip": true,
       "sortOrder": 2,
       "questionCount": 510,
       "displayNames": {
@@ -65,7 +65,7 @@
       "geminiFolder": "actors-models/models gemini",
       "originalFolder": "actors-models/modelspre",
       "releaseDate": null,
-      "isVip": false,
+      "isVip": true,
       "sortOrder": 3,
       "questionCount": 146,
       "displayNames": {
@@ -92,7 +92,7 @@
       "geminiFolder": "actors-reality/reality gemini",
       "originalFolder": "actors-reality/realitystarspre",
       "releaseDate": null,
-      "isVip": false,
+      "isVip": true,
       "sortOrder": 4,
       "questionCount": 254,
       "displayNames": {
@@ -435,7 +435,7 @@
       "cardImageUrl": "https://raw.githubusercontent.com/LeaSolBok/LeaSolBok.github.io/main/actorquiz/packages/comedians/card.webp",
       "dataUrl": "https://raw.githubusercontent.com/LeaSolBok/LeaSolBok.github.io/main/actorquiz/packages/comedians/data.json",
       "releaseDate": null,
-      "isVip": false,
+      "isVip": true,
       "sortOrder": 17,
       "questionCount": 308,
       "geminiFolder": "actors-comedians/gemini",
