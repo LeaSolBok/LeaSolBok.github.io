@@ -252,7 +252,7 @@
       "cardImageUrl": "https://raw.githubusercontent.com/LeaSolBok/LeaSolBok.github.io/main/actorquiz/packages/parents/card.webp",
       "dataUrl": "https://raw.githubusercontent.com/LeaSolBok/LeaSolBok.github.io/main/actorquiz/packages/parents/data.json",
       "releaseDate": null,
-      "isVip": false,
+      "isVip": true,
       "sortOrder": 10,
       "questionCount": 109,
       "displayNames": {
@@ -319,7 +319,7 @@
       "dataUrl": "https://raw.githubusercontent.com/LeaSolBok/LeaSolBok.github.io/main/actorquiz/packages/upclose/data.json",
       "geminiFolder": "actors-legacy/originals_scaled",
       "releaseDate": null,
-      "isVip": false,
+      "isVip": true,
       "sortOrder": 11,
       "questionCount": 1123
     },
@@ -985,7 +985,7 @@
       "geminiFolder": "snl/gemini",
       "originalFolder": "snl/snl",
       "releaseDate": null,
-      "isVip": false,
+      "isVip": true,
       "sortOrder": 34,
       "questionCount": 160
     },
@@ -1598,7 +1598,7 @@
         "zh": "https://raw.githubusercontent.com/LeaSolBok/LeaSolBok.github.io/main/actorquiz/packages/emoji_anime/data_zh.json"
       },
       "releaseDate": null,
-      "isVip": false,
+      "isVip": true,
       "sortOrder": 51,
       "questionCount": 105,
       "displayNames": {
@@ -1635,7 +1635,7 @@
         "zh": "https://raw.githubusercontent.com/LeaSolBok/LeaSolBok.github.io/main/actorquiz/packages/emoji_cartoons/data_zh.json"
       },
       "releaseDate": null,
-      "isVip": false,
+      "isVip": true,
       "sortOrder": 52,
       "questionCount": 200,
       "displayNames": {
@@ -1660,7 +1660,7 @@
       "cardImageUrl": "https://raw.githubusercontent.com/LeaSolBok/LeaSolBok.github.io/main/actorquiz/packages/emoji_celebs/card.webp",
       "dataUrl": "https://raw.githubusercontent.com/LeaSolBok/LeaSolBok.github.io/main/actorquiz/packages/emoji_celebs/data.json",
       "releaseDate": null,
-      "isVip": false,
+      "isVip": true,
       "sortOrder": 53,
       "questionCount": 186,
       "displayNames": {
@@ -1697,7 +1697,7 @@
         "zh": "https://raw.githubusercontent.com/LeaSolBok/LeaSolBok.github.io/main/actorquiz/packages/emoji_companies/data_zh.json"
       },
       "releaseDate": null,
-      "isVip": false,
+      "isVip": true,
       "sortOrder": 54,
       "questionCount": 500,
       "displayNames": {
@@ -1734,7 +1734,7 @@
         "zh": "https://raw.githubusercontent.com/LeaSolBok/LeaSolBok.github.io/main/actorquiz/packages/emoji_games/data_zh.json"
       },
       "releaseDate": null,
-      "isVip": false,
+      "isVip": true,
       "sortOrder": 55,
       "questionCount": 163,
       "displayNames": {
@@ -1771,7 +1771,7 @@
         "zh": "https://raw.githubusercontent.com/LeaSolBok/LeaSolBok.github.io/main/actorquiz/packages/emoji_movies/data_zh.json"
       },
       "releaseDate": null,
-      "isVip": false,
+      "isVip": true,
       "sortOrder": 56,
       "questionCount": 273,
       "displayNames": {
@@ -1808,7 +1808,7 @@
         "zh": "https://raw.githubusercontent.com/LeaSolBok/LeaSolBok.github.io/main/actorquiz/packages/emoji_tv/data_zh.json"
       },
       "releaseDate": null,
-      "isVip": false,
+      "isVip": true,
       "sortOrder": 57,
       "questionCount": 200,
       "displayNames": {
@@ -1833,7 +1833,7 @@
       "cardImageUrl": "https://raw.githubusercontent.com/LeaSolBok/LeaSolBok.github.io/main/actorquiz/packages/facts_celebs/card.webp",
       "dataUrl": "https://raw.githubusercontent.com/LeaSolBok/LeaSolBok.github.io/main/actorquiz/packages/facts_celebs/data.json",
       "releaseDate": null,
-      "isVip": false,
+      "isVip": true,
       "sortOrder": 58,
       "questionCount": 250,
       "dataUrls": {
@@ -1890,7 +1890,7 @@
         "he": "https://raw.githubusercontent.com/LeaSolBok/LeaSolBok.github.io/main/actorquiz/packages/facts_israel/data_he.json"
       },
       "releaseDate": null,
-      "isVip": false,
+      "isVip": true,
       "sortOrder": 59,
       "questionCount": 19
     },
@@ -2198,7 +2198,7 @@
       "cardImageUrl": "https://raw.githubusercontent.com/LeaSolBok/LeaSolBok.github.io/main/actorquiz/packages/riddles_songs_rebus/card.webp",
       "dataUrl": "https://raw.githubusercontent.com/LeaSolBok/LeaSolBok.github.io/main/actorquiz/packages/riddles_songs_rebus/data.json",
       "releaseDate": null,
-      "isVip": false,
+      "isVip": true,
       "sortOrder": 68,
       "questionCount": 144,
       "geminiFolder": "riddles/songs_rebus",
@@ -2238,7 +2238,7 @@
       "cardImageUrl": "https://raw.githubusercontent.com/LeaSolBok/LeaSolBok.github.io/main/actorquiz/packages/riddles_tv_rebus/card.webp",
       "dataUrl": "https://raw.githubusercontent.com/LeaSolBok/LeaSolBok.github.io/main/actorquiz/packages/riddles_tv_rebus/data.json",
       "releaseDate": null,
-      "isVip": false,
+      "isVip": true,
       "sortOrder": 69,
       "questionCount": 66,
       "geminiFolder": "riddles/tv_rebus",
@@ -2281,7 +2281,7 @@
         "he": "https://raw.githubusercontent.com/LeaSolBok/LeaSolBok.github.io/main/actorquiz/packages/riddles_henames/data_he.json"
       },
       "releaseDate": null,
-      "isVip": false,
+      "isVip": true,
       "sortOrder": 70,
       "questionCount": 56,
       "geminiFolder": "riddles/henames",
@@ -2309,7 +2309,7 @@
       "cardImageUrl": "https://raw.githubusercontent.com/LeaSolBok/LeaSolBok.github.io/main/actorquiz/packages/riddles_songs_rebus_he/card.webp",
       "dataUrl": "https://raw.githubusercontent.com/LeaSolBok/LeaSolBok.github.io/main/actorquiz/packages/riddles_songs_rebus_he/data.json",
       "releaseDate": null,
-      "isVip": false,
+      "isVip": true,
       "sortOrder": 71,
       "questionCount": 338,
       "geminiFolder": "riddles/songs_rebus_he",
@@ -2349,7 +2349,7 @@
       "cardImageUrl": "https://raw.githubusercontent.com/LeaSolBok/LeaSolBok.github.io/main/actorquiz/packages/riddles_movie_rebus/card.webp",
       "dataUrl": "https://raw.githubusercontent.com/LeaSolBok/LeaSolBok.github.io/main/actorquiz/packages/riddles_movie_rebus/data.json",
       "releaseDate": null,
-      "isVip": false,
+      "isVip": true,
       "sortOrder": 72,
       "questionCount": 101,
       "geminiFolder": "riddles/movie_rebus",
@@ -2389,7 +2389,7 @@
       "cardImageUrl": "https://raw.githubusercontent.com/LeaSolBok/LeaSolBok.github.io/main/actorquiz/packages/riddles_chars_rebus/card.webp",
       "dataUrl": "https://raw.githubusercontent.com/LeaSolBok/LeaSolBok.github.io/main/actorquiz/packages/riddles_chars_rebus/data.json",
       "releaseDate": null,
-      "isVip": false,
+      "isVip": true,
       "sortOrder": 73,
       "questionCount": 36,
       "geminiFolder": "riddles/chars_rebus",
@@ -2429,7 +2429,7 @@
       "cardImageUrl": "https://raw.githubusercontent.com/LeaSolBok/LeaSolBok.github.io/main/actorquiz/packages/riddles_celebrity_riddle_prompts/card.webp",
       "dataUrl": "https://raw.githubusercontent.com/LeaSolBok/LeaSolBok.github.io/main/actorquiz/packages/riddles_celebrity_riddle_prompts/data.json",
       "releaseDate": null,
-      "isVip": false,
+      "isVip": true,
       "sortOrder": 74,
       "questionCount": 57,
       "geminiFolder": "riddles/celebrity_riddle_prompts",
@@ -2457,7 +2457,7 @@
       "cardImageUrl": "https://raw.githubusercontent.com/LeaSolBok/LeaSolBok.github.io/main/actorquiz/packages/riddles_bands_rebus/card.webp",
       "dataUrl": "https://raw.githubusercontent.com/LeaSolBok/LeaSolBok.github.io/main/actorquiz/packages/riddles_bands_rebus/data.json",
       "releaseDate": null,
-      "isVip": false,
+      "isVip": true,
       "sortOrder": 75,
       "questionCount": 20,
       "geminiFolder": "riddles/bands_rebus",
@@ -3070,7 +3070,7 @@
       "cardImageUrl": "https://raw.githubusercontent.com/LeaSolBok/LeaSolBok.github.io/main/actorquiz/packages/facts_movies/card.jpeg",
       "dataUrl": "https://raw.githubusercontent.com/LeaSolBok/LeaSolBok.github.io/main/actorquiz/packages/facts_movies/data.json",
       "releaseDate": null,
-      "isVip": false,
+      "isVip": true,
       "sortOrder": 92,
       "questionCount": 200,
       "dataUrls": {
@@ -3107,7 +3107,7 @@
       "cardImageUrl": "https://raw.githubusercontent.com/LeaSolBok/LeaSolBok.github.io/main/actorquiz/packages/facts_tvshows/card.jpeg",
       "dataUrl": "https://raw.githubusercontent.com/LeaSolBok/LeaSolBok.github.io/main/actorquiz/packages/facts_tvshows/data.json",
       "releaseDate": null,
-      "isVip": false,
+      "isVip": true,
       "sortOrder": 93,
       "questionCount": 200,
       "dataUrls": {
@@ -3144,7 +3144,7 @@
       "cardImageUrl": "https://raw.githubusercontent.com/LeaSolBok/LeaSolBok.github.io/main/actorquiz/packages/facts_anime/card.jpeg",
       "dataUrl": "https://raw.githubusercontent.com/LeaSolBok/LeaSolBok.github.io/main/actorquiz/packages/facts_anime/data.json",
       "releaseDate": null,
-      "isVip": false,
+      "isVip": true,
       "sortOrder": 94,
       "questionCount": 200,
       "dataUrls": {
@@ -3181,7 +3181,7 @@
       "cardImageUrl": "https://raw.githubusercontent.com/LeaSolBok/LeaSolBok.github.io/main/actorquiz/packages/facts_cartoons/card.jpeg",
       "dataUrl": "https://raw.githubusercontent.com/LeaSolBok/LeaSolBok.github.io/main/actorquiz/packages/facts_cartoons/data.json",
       "releaseDate": null,
-      "isVip": false,
+      "isVip": true,
       "sortOrder": 95,
       "questionCount": 200,
       "dataUrls": {
@@ -3218,7 +3218,7 @@
       "cardImageUrl": "https://raw.githubusercontent.com/LeaSolBok/LeaSolBok.github.io/main/actorquiz/packages/facts_games/card.jpeg",
       "dataUrl": "https://raw.githubusercontent.com/LeaSolBok/LeaSolBok.github.io/main/actorquiz/packages/facts_games/data.json",
       "releaseDate": null,
-      "isVip": false,
+      "isVip": true,
       "sortOrder": 96,
       "questionCount": 200,
       "dataUrls": {
