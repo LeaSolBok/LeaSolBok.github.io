@@ -1194,7 +1194,7 @@
       "cardImageUrl": "https://raw.githubusercontent.com/LeaSolBok/LeaSolBok.github.io/main/actorquiz/packages/tvshows/card.webp",
       "dataUrl": "https://raw.githubusercontent.com/LeaSolBok/LeaSolBok.github.io/main/actorquiz/packages/tvshows/data.json",
       "releaseDate": null,
-      "isVip": false,
+      "isVip": true,
       "sortOrder": 41,
       "questionCount": 111,
       "geminiFolder": "tvshows/gemini",
