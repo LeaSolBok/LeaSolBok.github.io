@@ -719,7 +719,7 @@
         "zh": "https://raw.githubusercontent.com/LeaSolBok/LeaSolBok.github.io/main/actorquiz/packages/demonslayer/data_zh.json"
       },
       "releaseDate": null,
-      "isVip": false,
+      "isVip": true,
       "sortOrder": 27,
       "questionCount": 152,
       "displayNames": {
@@ -759,7 +759,7 @@
         "zh": "https://raw.githubusercontent.com/LeaSolBok/LeaSolBok.github.io/main/actorquiz/packages/starwars/data_zh.json"
       },
       "releaseDate": null,
-      "isVip": true,
+      "isVip": false,
       "sortOrder": 28,
       "questionCount": 254,
       "displayNames": {
@@ -878,7 +878,7 @@
         "zh": "https://raw.githubusercontent.com/LeaSolBok/LeaSolBok.github.io/main/actorquiz/packages/jujutsu/data_zh.json"
       },
       "releaseDate": null,
-      "isVip": false,
+      "isVip": true,
       "sortOrder": 31,
       "questionCount": 130,
       "displayNames": {
@@ -944,7 +944,7 @@
         "zh": "https://raw.githubusercontent.com/LeaSolBok/LeaSolBok.github.io/main/actorquiz/packages/that70/data_zh.json"
       },
       "releaseDate": null,
-      "isVip": false,
+      "isVip": true,
       "sortOrder": 33,
       "questionCount": 130,
       "displayNames": {
@@ -1011,7 +1011,7 @@
         "zh": "https://raw.githubusercontent.com/LeaSolBok/LeaSolBok.github.io/main/actorquiz/packages/twoandahalf/data_zh.json"
       },
       "releaseDate": null,
-      "isVip": false,
+      "isVip": true,
       "sortOrder": 35,
       "questionCount": 116,
       "displayNames": {
@@ -1052,7 +1052,7 @@
         "zh": "https://raw.githubusercontent.com/LeaSolBok/LeaSolBok.github.io/main/actorquiz/packages/pokemon/data_zh.json"
       },
       "releaseDate": null,
-      "isVip": false,
+      "isVip": true,
       "sortOrder": 36,
       "questionCount": 461,
       "displayNames": {
@@ -1561,7 +1561,7 @@
         "zh": "https://raw.githubusercontent.com/LeaSolBok/LeaSolBok.github.io/main/actorquiz/packages/friends/data_zh.json"
       },
       "releaseDate": null,
-      "isVip": false,
+      "isVip": true,
       "sortOrder": 50,
       "questionCount": 284,
       "displayNames": {
@@ -2605,7 +2605,7 @@
         "zh": "https://raw.githubusercontent.com/LeaSolBok/LeaSolBok.github.io/main/actorquiz/packages/overwatch/data_zh.json"
       },
       "releaseDate": null,
-      "isVip": false,
+      "isVip": true,
       "sortOrder": 79,
       "questionCount": 51,
       "displayNames": {
@@ -2685,7 +2685,7 @@
         "zh": "https://raw.githubusercontent.com/LeaSolBok/LeaSolBok.github.io/main/actorquiz/packages/deathnote/data_zh.json"
       },
       "releaseDate": null,
-      "isVip": false,
+      "isVip": true,
       "sortOrder": 81,
       "questionCount": 46,
       "displayNames": {
@@ -2725,7 +2725,7 @@
         "zh": "https://raw.githubusercontent.com/LeaSolBok/LeaSolBok.github.io/main/actorquiz/packages/naruto/data_zh.json"
       },
       "releaseDate": null,
-      "isVip": false,
+      "isVip": true,
       "sortOrder": 82,
       "questionCount": 150,
       "displayNames": {
@@ -2805,7 +2805,7 @@
         "zh": "https://raw.githubusercontent.com/LeaSolBok/LeaSolBok.github.io/main/actorquiz/packages/fullmetalalchemist/data_zh.json"
       },
       "releaseDate": null,
-      "isVip": false,
+      "isVip": true,
       "sortOrder": 84,
       "questionCount": 148,
       "displayNames": {
@@ -2885,7 +2885,7 @@
         "zh": "https://raw.githubusercontent.com/LeaSolBok/LeaSolBok.github.io/main/actorquiz/packages/community/data_zh.json"
       },
       "releaseDate": null,
-      "isVip": false,
+      "isVip": true,
       "sortOrder": 86,
       "questionCount": 162,
       "displayNames": {
@@ -3005,7 +3005,7 @@
         "zh": "https://raw.githubusercontent.com/LeaSolBok/LeaSolBok.github.io/main/actorquiz/packages/scrubs/data_zh.json"
       },
       "releaseDate": null,
-      "isVip": false,
+      "isVip": true,
       "sortOrder": 89,
       "questionCount": 139,
       "displayNames": {
@@ -3045,7 +3045,7 @@
         "zh": "https://raw.githubusercontent.com/LeaSolBok/LeaSolBok.github.io/main/actorquiz/packages/seinfeld/data_zh.json"
       },
       "releaseDate": null,
-      "isVip": false,
+      "isVip": true,
       "sortOrder": 91,
       "questionCount": 149,
       "displayNames": {
